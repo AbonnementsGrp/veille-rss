@@ -138,7 +138,7 @@ def discover_feed(session: requests.Session, url: str, timeout: int) -> str | No
         try:
             rr = session.get(candidate, timeout=timeout)
             if rr.ok and ("xml" in rr.headers.get("content-type", "").lower() or "<rss" in rr.text[:500].lower() or "<feed" in rr.text[:500].lower()):
-                parsed_feed = feedparser.loads(rr.content)
+                parsed_feed = feedparser.parse(rr.content)
                 if parsed_feed.entries:
                     return candidate
         except Exception:
@@ -149,7 +149,7 @@ def discover_feed(session: requests.Session, url: str, timeout: int) -> str | No
 def parse_official_feed(session: requests.Session, feed_url: str, source: str, timeout: int, max_items: int) -> list[Item]:
     r = session.get(feed_url, timeout=timeout)
     r.raise_for_status()
-    feed = feedparser.loads(r.content)
+    feed = feedparser.parse(r.content)
     items: list[Item] = []
     for entry in feed.entries[:max_items]:
         title = clean_text(entry.get("title"))
@@ -285,8 +285,7 @@ def write_feed(items: list[Item], title: str, description: str, output: Path, fe
     fg.description(description)
     fg.language("fr")
     fg.lastBuildDate(datetime.now(timezone.utc))
-    if feed_link:
-        fg.link(href=feed_link, rel="alternate")
+    fg.link(href=feed_link or "https://github.com/AbonnementsGrp/veille-rss", rel="alternate")
     for item in items:
         fe = fg.add_entry(order="append")
         fe.id(item.uid)
