@@ -1,0 +1,63 @@
+{
+  "generated_at": "2026-07-20T14:50:56.241236+00:00",
+  "sites_total": 8,
+  "sites_ok": 5,
+  "sites_error": 3,
+  "new_items": 57,
+  "merged_items": 57,
+  "sites": [
+    {
+      "site": "CNSA - Actualités",
+      "status": "ok",
+      "method": "official_feed",
+      "items": 20,
+      "feed": "cnsa.xml"
+    },
+    {
+      "site": "Enfance & Jeunesse Infos - Veille juridique",
+      "status": "ok",
+      "method": "official_feed",
+      "items": 15,
+      "feed": "enfance-jeunesse-veille-juridique.xml"
+    },
+    {
+      "site": "Les Pros de la Petite Enfance",
+      "status": "error",
+      "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.lesprosdelapetiteenfance.fr/actualites/",
+      "feed": "pros-petite-enfance.xml"
+    },
+    {
+      "site": "Observatoire de la culture",
+      "status": "ok",
+      "method": "official_feed",
+      "items": 10,
+      "feed": "observatoire-culture.xml"
+    },
+    {
+      "site": "ADN Tourisme",
+      "status": "ok",
+      "method": "official_feed",
+      "items": 10,
+      "feed": "adn-tourisme.xml"
+    },
+    {
+      "site": "C2L Solutions - Restauration collective",
+      "status": "error",
+      "error": "Aucun article détecté",
+      "feed": "c2l-restauration-collective.xml"
+    },
+    {
+      "site": "SNRC",
+      "status": "ok",
+      "method": "official_feed",
+      "items": 2,
+      "feed": "snrc.xml"
+    },
+    {
+      "site": "ANAP - Actualités",
+      "status": "error",
+      "error": "Aucun article détecté",
+      "feed": "anap.xml"
+    }
+  ]
+}
