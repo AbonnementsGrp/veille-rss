@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-20T14:50:56.241236+00:00",
+  "generated_at": "2026-07-20T14:58:03.904924+00:00",
   "sites_total": 8,
-  "sites_ok": 5,
-  "sites_error": 3,
-  "new_items": 57,
-  "merged_items": 57,
+  "sites_ok": 6,
+  "sites_error": 2,
+  "new_items": 10,
+  "merged_items": 67,
   "sites": [
     {
       "site": "CNSA - Actualités",
@@ -22,8 +22,9 @@
     },
     {
       "site": "Les Pros de la Petite Enfance",
-      "status": "error",
-      "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.lesprosdelapetiteenfance.fr/actualites/",
+      "status": "ok",
+      "method": "official_feed",
+      "items": 10,
       "feed": "pros-petite-enfance.xml"
     },
     {
