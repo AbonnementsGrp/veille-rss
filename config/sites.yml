@@ -1,0 +1,51 @@
+settings:
+  merged_feed_name: "Veille RSS globale"
+  merged_feed_description: "Flux consolidé des sources de veille"
+  merged_output: "veille.xml"
+  max_history_items: 500
+  max_items_per_feed: 50
+  request_timeout: 25
+  user_agent: "VeilleRSS/2.0 (+https://github.com/AbonnementsGrp/veille-rss)"
+
+sites:
+  - name: "CNSA - Actualités"
+    url: "https://www.cnsa.fr/actualites"
+    official_feed: "https://www.cnsa.fr/flux-rss.xml/article"
+    output: "cnsa.xml"
+
+  - name: "Enfance & Jeunesse Infos - Veille juridique"
+    url: "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/"
+    official_feed: "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/"
+    output: "enfance-jeunesse-veille-juridique.xml"
+
+  - name: "Les Pros de la Petite Enfance"
+    url: "https://www.lesprosdelapetiteenfance.fr/actualites/"
+    output: "pros-petite-enfance.xml"
+    selectors:
+      item: ["article", ".post", ".card"]
+      title: ["h2 a", "h3 a", ".entry-title a", "a"]
+      description: [".excerpt", ".entry-summary", "p"]
+      date: ["time", ".date", ".published"]
+
+  - name: "Observatoire de la culture"
+    url: "https://www.observatoire-culture.net/"
+    output: "observatoire-culture.xml"
+
+  - name: "ADN Tourisme"
+    url: "https://www.adn-tourisme.fr/publications/actus/"
+    output: "adn-tourisme.xml"
+
+  - name: "C2L Solutions - Restauration collective"
+    url: "https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/"
+    official_feed: "https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/feed/"
+    output: "c2l-restauration-collective.xml"
+
+  - name: "SNRC"
+    url: "https://www.snrc.fr/le-snrc/actualites-snrc/"
+    output: "snrc.xml"
+
+  - name: "ANAP - Actualités"
+    url: "https://www.anap.fr/s/actualites"
+    output: "anap.xml"
+    dynamic: true
+    notes: "Site dynamique : cette V2 tente le HTML et les données structurées. Une adaptation spécifique pourra être nécessaire."
