@@ -2,10 +2,12 @@ settings:
   merged_feed_name: "Veille RSS globale"
   merged_feed_description: "Flux consolidé des sources de veille"
   merged_output: "veille.xml"
-  max_history_items: 500
-  max_items_per_feed: 50
-  request_timeout: 25
-  user_agent: "VeilleRSS/2.0 (+https://github.com/AbonnementsGrp/veille-rss)"
+  site_title: "Tableau de bord de la veille RSS"
+  max_history_items: 1000
+  max_items_per_feed: 60
+  request_timeout: 30
+  keep_previous_on_error: true
+  user_agent: "VeilleRSS/1.0 (+https://github.com/AbonnementsGrp/veille-rss)"
 
 sites:
   - name: "CNSA - Actualités"
@@ -22,9 +24,9 @@ sites:
     url: "https://www.lesprosdelapetiteenfance.fr/actualites/"
     output: "pros-petite-enfance.xml"
     selectors:
-      item: ["article", ".post", ".card"]
-      title: ["h2 a", "h3 a", ".entry-title a", "a"]
-      description: [".excerpt", ".entry-summary", "p"]
+      item: ["article", ".views-row", ".card", ".post"]
+      title: ["h2 a", "h3 a", ".title a", ".entry-title a"]
+      description: [".excerpt", ".summary", ".entry-summary", "p"]
       date: ["time", ".date", ".published"]
 
   - name: "Observatoire de la culture"
@@ -47,5 +49,4 @@ sites:
   - name: "ANAP - Actualités"
     url: "https://www.anap.fr/s/actualites"
     output: "anap.xml"
-    dynamic: true
-    notes: "Site dynamique : cette V2 tente le HTML et les données structurées. Une adaptation spécifique pourra être nécessaire."
+    link_patterns: ["/s/article/", "/s/actualite", "/s/actualites/"]

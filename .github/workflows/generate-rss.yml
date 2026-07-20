@@ -1,4 +1,4 @@
-name: Générer les flux RSS
+name: Générer et publier les flux RSS
 
 on:
   workflow_dispatch:
@@ -18,7 +18,7 @@ permissions:
   id-token: write
 
 concurrency:
-  group: pages
+  group: veille-rss-pages
   cancel-in-progress: false
 
 jobs:
@@ -37,7 +37,7 @@ jobs:
       - name: Installer les dépendances
         run: pip install -r requirements.txt
 
-      - name: Générer les flux
+      - name: Générer les flux et le tableau de bord
         run: python generate.py
 
       - name: Enregistrer les flux et l'historique
@@ -46,6 +46,7 @@ jobs:
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
           git add public data/history.json
           git diff --cached --quiet || git commit -m "Mise à jour automatique des flux RSS"
+          git pull --rebase
           git push
 
       - name: Configurer GitHub Pages

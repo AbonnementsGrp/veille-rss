@@ -1,42 +1,26 @@
-# Veille RSS — V2
+# Veille RSS
 
-Générateur gratuit de flux RSS hébergé sur GitHub.
+Générateur automatique de flux RSS hébergé gratuitement sur GitHub.
 
-## Ce que fait cette version
+## Fonctions incluses
 
-- utilise un flux RSS officiel lorsqu'il est renseigné ou détecté ;
-- sinon tente d'extraire les actualités depuis le HTML et le JSON-LD ;
-- crée un flux par source dans `public/` ;
-- crée un flux consolidé `public/veille.xml` ;
-- conserve un historique dans `data/history.json` ;
-- produit un état de fonctionnement dans `public/status.json` ;
-- s'exécute automatiquement toutes les trois heures avec GitHub Actions ;
-- publie les flux avec GitHub Pages.
+- utilisation prioritaire des flux RSS/Atom officiels ;
+- découverte automatique d'un flux officiel ;
+- extraction HTML avec sélecteurs configurables ;
+- extraction de données JSON-LD ;
+- détection générique des liens d'actualités ;
+- conservation de l'historique ;
+- maintien du précédent flux lorsqu'une source est temporairement en erreur ;
+- flux individuel pour chaque source ;
+- flux consolidé `veille.xml` ;
+- tableau de bord `index.html` ;
+- état machine lisible `status.json` ;
+- fichier OPML `feeds.opml` ;
+- exécution automatique toutes les trois heures.
 
-## Installation depuis le navigateur GitHub
+## Ajouter une source
 
-1. Décompresser le ZIP sur l'ordinateur.
-2. Dans le dépôt GitHub vide, cliquer sur **uploading an existing file**.
-3. Glisser tout le contenu du dossier décompressé, y compris les dossiers `.github`, `config`, `data` et `public`.
-4. Valider avec **Commit changes**.
-5. Ouvrir **Settings > Pages** et choisir **GitHub Actions** dans **Source**.
-6. Ouvrir **Actions > Générer les flux RSS > Run workflow**.
-
-L'adresse finale du flux global sera :
-
-```text
-https://VOTRE-COMPTE.github.io/veille-rss/veille.xml
-```
-
-Le fichier `status.json` permettra de contrôler les sites en erreur :
-
-```text
-https://VOTRE-COMPTE.github.io/veille-rss/status.json
-```
-
-## Ajouter un site
-
-Modifier `config/sites.yml` :
+Modifier `config/sites.yml`, puis ajouter :
 
 ```yaml
 - name: "Nom de la source"
@@ -44,25 +28,19 @@ Modifier `config/sites.yml` :
   output: "exemple.xml"
 ```
 
-Lorsqu'un flux officiel est connu :
+Pour une page difficile, ajouter des sélecteurs CSS :
 
 ```yaml
-- name: "Nom de la source"
-  url: "https://exemple.fr/actualites"
-  official_feed: "https://exemple.fr/feed.xml"
-  output: "exemple.xml"
+  selectors:
+    item: ["article", ".card"]
+    title: ["h2 a", "h3 a"]
+    description: [".summary", "p"]
+    date: ["time", ".date"]
 ```
 
-Pour une page HTML difficile, des sélecteurs peuvent être précisés :
+## Adresses publiées
 
-```yaml
-selectors:
-  item: ["article", ".news-card"]
-  title: ["h2 a", "h3 a"]
-  description: [".excerpt", "p"]
-  date: ["time", ".date"]
-```
-
-## Limite importante
-
-Les sites qui chargent leurs articles uniquement avec JavaScript, une API protégée ou une plateforme dynamique peuvent nécessiter une adaptation spécifique. L'ANAP est conservée dans la configuration, mais son bon fonctionnement devra être vérifié après la première exécution.
+- tableau de bord : `https://abonnementsgrp.github.io/veille-rss/`
+- flux global : `https://abonnementsgrp.github.io/veille-rss/veille.xml`
+- état : `https://abonnementsgrp.github.io/veille-rss/status.json`
+- liste OPML : `https://abonnementsgrp.github.io/veille-rss/feeds.opml`
