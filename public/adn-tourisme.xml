@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 20 Jul 2026 15:05:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 16:45:00 +0000</lastBuildDate>
+    <item>
+      <title>Un podcast réalisé avec des étudiants</title>
+      <link>https://www.adn-tourisme.fr/podcast-etudiants-tourisme/</link>
+      <description>&lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/podcast-etudiants-tourisme/"&gt;Un podcast réalisé avec des étudiants&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">d2ef349e71c943a9e4d70f646a74f0e7dd1ac5886d892b2fa724ceca4fcc522e</guid>
+      <pubDate>Mon, 29 Jun 2026 13:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un label pour valoriser la gastronomie locale</title>
+      <link>https://www.adn-tourisme.fr/label-saint-cyr-sur-mer/</link>
+      <description>The post Un label pour valoriser &lt;br&gt; la gastronomie locale appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">47da35181351e18ea380ff5b70953cbe4e0ce990d24b7d228145d411ecf074b2</guid>
+      <pubDate>Mon, 20 Jul 2026 15:06:53 +0000</pubDate>
+    </item>
     <item>
       <title>Aude Tourisme recrute sa/son Directrice / Directeur</title>
       <link>https://www.adn-tourisme.fr/aude-tourisme-recrute-sa-son-directrice-directeur/</link>
@@ -71,13 +85,6 @@
       <description>The post Christelle Chassagne élue &lt;br&gt; Présidente d’ADN Tourisme appeared first on ADN Tourisme .</description>
       <guid isPermaLink="false">0c9c1d8f2976409e424bdedb843d105d036fa4e20cf7408d88f419f7df2b2d2b</guid>
       <pubDate>Thu, 02 Jul 2026 14:13:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Un podcast réalisé avec des étudiants</title>
-      <link>https://www.adn-tourisme.fr/podcast-etudiants-tourisme/</link>
-      <description>The post Un podcast réalisé avec des étudiants appeared first on ADN Tourisme .</description>
-      <guid isPermaLink="false">d2ef349e71c943a9e4d70f646a74f0e7dd1ac5886d892b2fa724ceca4fcc522e</guid>
-      <pubDate>Mon, 29 Jun 2026 13:25:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
