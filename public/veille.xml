@@ -2,480 +2,481 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>Veille RSS globale</title>
-    <link>https://github.com/AbonnementsGrp/veille-rss</link>
+    <link>https://abonnementsgrp.github.io/veille-rss/veille.xml</link>
     <description>Flux consolidé des sources de veille</description>
+    <atom:link href="https://abonnementsgrp.github.io/veille-rss/veille.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 20 Jul 2026 14:58:03 +0000</lastBuildDate>
-    <item>
-      <title>Bonjour tout le monde !</title>
-      <link>https://www.snrc.fr/2021/06/30/bonjour-tout-le-monde/</link>
-      <description>&lt;p&gt;Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !&lt;/p&gt; &lt;p&gt;L’article &lt;a href="https://www.snrc.fr/2021/06/30/bonjour-tout-le-monde/"&gt;Bonjour tout le monde !&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.snrc.fr"&gt;SNRC&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">d89cfd120a29cd31a51e31b47eb71175db3c39739efe389439fff07c2cda4b68</guid>
-      <pubDate>Wed, 30 Jun 2021 09:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prévention de la perte d’autonomie : 2024, une année charnière pour la structuration et l’investissement</title>
-      <link>https://www.cnsa.fr/actualites/prevention-de-la-perte-dautonomie-2024-une-annee-charniere-pour-la-structuration-et</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/prevention-de-la-perte-dautonomie-2024-une-annee-charniere-pour-la-structuration-et" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-04/ACTU_CFPPA_2024.JPG?itok=660ByOkV" /&gt; &lt;/a&gt; &lt;p&gt;Dans un contexte de vieillissement de la population et de tension croissante sur les ressources, la prévention de la perte d’autonomie s’impose comme un levier de réduction des risques et des inégalités. En 2024, 293 millions d’euros ont ainsi été mobilisés dans le cadre des commissions des financeurs de la perte d’autonomie (CFPPA), confirmant leur rôle central dans le pilotage territorial de la prévention.&lt;/p&gt;</description>
-      <guid isPermaLink="false">741ac54a6876b10a98acbd8ebc6c2960a855132d1bdd6c3ce18d72f47ba37ecd</guid>
-      <pubDate>Wed, 22 Apr 2026 08:22:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Protection des enfants : Sarah El Haïry veut mieux former et contrôler les professionnels</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/protection-des-enfants-sarah-el-hairy-veut-mieux-former-et-controler-les-professionnels/</link>
-      <description>&lt;p&gt;L’article &lt;a href="https://www.lesprosdelapetiteenfance.fr/protection-des-enfants-sarah-el-hairy-veut-mieux-former-et-controler-les-professionnels/"&gt;Protection des enfants : Sarah El Haïry veut mieux former et contrôler les professionnels&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.lesprosdelapetiteenfance.fr"&gt;Les pros de la petite enfance&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">9b6fa7b77203e2f9c0720378cc29a6335be8b2879b7b58665c456d1be5202206</guid>
-      <pubDate>Wed, 15 Jul 2026 16:08:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>« Nous refusons la disparition d’une profession qui protège les enfants » : les infirmières-puéricultrices rejettent les recommandations de la mission flash sur les IPA</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/reingenierie-du-diplome-dinfirmiere-puericultrice-les-propositions-de-la-mission-flash-sur-les-ipa-suscitent-la-colere-de-la-profession/</link>
-      <description>&lt;p&gt;L’article &lt;a href="https://www.lesprosdelapetiteenfance.fr/reingenierie-du-diplome-dinfirmiere-puericultrice-les-propositions-de-la-mission-flash-sur-les-ipa-suscitent-la-colere-de-la-profession/"&gt;« Nous refusons la disparition d&amp;rsquo;une profession qui protège les enfants » : les infirmières-puéricultrices rejettent les recommandations de la mission flash sur les IPA&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.lesprosdelapetiteenfance.fr"&gt;Les pros de la petite enfance&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">8e5cca97513a0b3222b608e799084bce1a0ca78c05a1e6f94ce48b6819887d66</guid>
-      <pubDate>Wed, 15 Jul 2026 10:18:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Petite enfance : la chaleur pourrait affecter le développement du langage</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/petite-enfance-la-chaleur-pourrait-affecter-le-developpement-du-langage/</link>
-      <description>&lt;p&gt;L’article &lt;a href="https://www.lesprosdelapetiteenfance.fr/petite-enfance-la-chaleur-pourrait-affecter-le-developpement-du-langage/"&gt;Petite enfance : la chaleur pourrait affecter le développement du langage&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.lesprosdelapetiteenfance.fr"&gt;Les pros de la petite enfance&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">1d2aaf4a5095d7ad483f6ed28105c5a9a2e7e2938e59bf9382d04a3e2967209d</guid>
-      <pubDate>Wed, 15 Jul 2026 09:35:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>La CNSA lance une expérimentation avec 11 MDPH pour tester des solutions d’intelligence artificielle (IA)</title>
-      <link>https://www.cnsa.fr/actualites/la-cnsa-lance-une-experimentation-avec-11-mdph-pour-tester-des-solutions-dintelligence</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/la-cnsa-lance-une-experimentation-avec-11-mdph-pour-tester-des-solutions-dintelligence" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2025-04/210622_CNSA_MDPH_METZ_ADetienne_066_0.jpg?itok=jVaCEwjN" /&gt; &lt;/a&gt; &lt;p&gt;Engagée dans l’identification de solutions innovantes pour renforcer le service aux usagers et faciliter le travail des professionnels, la CNSA accompagnera en 2026 11 maisons départementales des personnes handicapées (MDPH) dans une expérimentation en conditions réelles pour tester 2 cas d’usages optimisés par l’IA.&lt;/p&gt;</description>
-      <guid isPermaLink="false">e6bb7147cff7e11615e368e2c24698f4e376ddbeacf8c9425c0d207c068a80c1</guid>
-      <pubDate>Wed, 11 Mar 2026 15:44:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Publication de l’étude sur la préfiguration des pôles d’appui à la scolarité</title>
-      <link>https://www.cnsa.fr/actualites/publication-de-letude-sur-la-prefiguration-des-poles-dappui-la-scolarite</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/publication-de-letude-sur-la-prefiguration-des-poles-dappui-la-scolarite" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-06/201905-CNSA-Massy-276.jpg?itok=1k5iBdx2" /&gt; &lt;/a&gt; &lt;p&gt;La CNSA publie l’étude consacrée à l’analyse des pratiques professionnelles mises en œuvre dans les 4 départements engagés dans la phase de préfiguration des pôles d’appui à la scolarité (PAS) : Aisne, Côte-d’Or, Eure-et-Loir et Var.&lt;/p&gt;</description>
-      <guid isPermaLink="false">bb0f4e9b9c2e618715735419c68b4d8a5d5669d42da1dd1b0d753e9eefe3cdbd</guid>
-      <pubDate>Wed, 10 Jun 2026 14:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le bailleur social : l’affirmation d’un nouvel acteur culturel dans les quartiers populaires ?</title>
-      <link>https://www.observatoire-culture.net/bailleur-social-affirmation-nouvel-acteur-culturel-quartiers-populaires/</link>
-      <description>&lt;p&gt;Fresques, festivals, résidences d’artistes... Longtemps cantonnés à la gestion locative, les bailleurs sociaux s’affirment comme de véritables acteurs culturels des quartiers populaires. Démocratisation, cohésion sociale, image à soigner ou tensions à apaiser : les motivations sont multiples. Mais un défi demeure : faire participer les habitants.&lt;/p&gt; &lt;p&gt;L’article &lt;a href="https://www.observatoire-culture.net/bailleur-social-affirmation-nouvel-acteur-culturel-quartiers-populaires/"&gt;Le bailleur social : l’affirmation d’un nouvel acteur culturel dans les quartiers populaires ?&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.observatoire-culture.net"&gt;Observatoire des politiques culturelles&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">e275cbb295ab36c39a13e4b3164b21ffbba4195cbf9ba0c8114d1a9a84ee445e</guid>
-      <pubDate>Wed, 08 Jul 2026 12:19:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Conseil de la CNSA élit Paul Christophe à sa présidence et adopte le premier budget rectificatif 2026 de la branche Autonomie</title>
-      <link>https://www.cnsa.fr/actualites/le-conseil-de-la-cnsa-elit-paul-christophe-sa-presidence-et-adopte-le-premier-budget</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/le-conseil-de-la-cnsa-elit-paul-christophe-sa-presidence-et-adopte-le-premier-budget" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-04/ACTU_Paul-Christophe_Elu_0.jpg?itok=APVpgBAV" /&gt; &lt;/a&gt; &lt;p&gt;En présence de Camille Galliard-Minier, ministre déléguée chargée de l'Autonomie et des Personnes handicapées, le Conseil de la Caisse nationale de solidarité pour l'autonomie (CNSA) a élu Paul Christophe à sa présidence, succédant à Jean-René Lecerf dont le mandat s'achève après quatre années d'engagement continu pour la branche.&lt;/p&gt;</description>
-      <guid isPermaLink="false">ebdd18ee60797ca555f6b7353ebdceb81dc1aa4256a2531268b7d98a8928be24</guid>
-      <pubDate>Wed, 08 Apr 2026 16:55:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Écoles d’art et de design : ces lieux de l’inattendu</title>
-      <link>https://www.observatoire-culture.net/ecoles-art-design-lieux-inattendu/</link>
-      <description>&lt;p&gt;En mai 2025, les présidentes et présidents des écoles supérieures d’art et de design publiques tiraient la sonnette d’alarme : si rien n’est fait, celles-ci risquent de disparaître les unes après les autres. Pour Jérôme Delormas, il y a non seulement urgence à revoir leur modèle économique mais aussi à mieux faire reconnaître leur singularité, loin de tout formatage académique. Car ce sont, rappelle-t-il, dans ces lieux de l’inattendu que s’inventent de nouveaux regards sur nos sociétés.&lt;/p&gt; &lt;p&gt;L’article &lt;a href="https://www.observatoire-culture.net/ecoles-art-design-lieux-inattendu/"&gt;Écoles d’art et de design : ces lieux de l’inattendu&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.observatoire-culture.net"&gt;Observatoire des politiques culturelles&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">74d6bb8376a1688157da6f0890d7a12707d84989516a97e488a662fd91112264</guid>
-      <pubDate>Wed, 03 Jun 2026 19:04:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Campagne budgétaire 2026 des établissements de santé : les priorités pour les enfants et les jeunes</title>
-      <link>https://www.enfancejeunesseinfos.fr/campagne-budgetaire-2026-des-etablissements-de-sante-les-priorites-pour-les-enfants-et-les-jeunes/</link>
-      <description>Près de 34 milliards d'euros sont délégués aux établissements de santé dans la première circulaire budgétaire 2026. Pédopsychiatrie, autisme, TDAH, enfants témoins de féminicides ou mineurs de retour de zones de conflit figurent parmi les priorités financées par le gouvernement.</description>
-      <guid isPermaLink="false">7f3b79df8be4cb9ac483831ce1e159e89240a25a501f1fe058e2d19cf451572b</guid>
-      <pubDate>Wed, 03 Jun 2026 07:15:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prix des EHPAD en 2024 : un écart important entre les chambres habilitées à l’aide sociale et les autres</title>
-      <link>https://www.cnsa.fr/actualites/prix-des-ehpad-en-2024-un-ecart-important-entre-les-chambres-habilitees-laide-sociale-et</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/prix-des-ehpad-en-2024-un-ecart-important-entre-les-chambres-habilitees-laide-sociale-et" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-04/CNSA-EHPAD-Martinique.jpg?itok=zHB424ir" /&gt; &lt;/a&gt; &lt;p&gt;En 2024, les prix de l’hébergement en établissement d’hébergement pour personnes âgées dépendantes (EHPAD) continuent d’augmenter davantage que l’inflation. Ils varient fortement selon les territoires, le statut juridique, la taille et la localisation géographique des établissements expliquant ces différences.&lt;/p&gt;</description>
-      <guid isPermaLink="false">9b397d71fb3f238c81143f38ec4ae382512ddc20c8fb848d1d9802f7a1862e10</guid>
-      <pubDate>Wed, 01 Apr 2026 08:27:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025, une année de consolidation de la branche Autonomie</title>
-      <link>https://www.cnsa.fr/actualites/2025-une-annee-de-consolidation-de-la-branche-autonomie</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/2025-une-annee-de-consolidation-de-la-branche-autonomie" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-06/CNSA-amis-de-Laurence-EEAP.jpg?itok=vfcH0FQd" /&gt; &lt;/a&gt; &lt;p&gt;En 2025, la branche Autonomie a franchi une étape décisive dans sa structuration et son ancrage territorial. Face à une population vieillissante, à la hausse continue des demandes adressées aux maisons départementales des personnes handicapées (MDPH) et aux attentes des aidants, l’accès effectif aux droits reste une priorité.&lt;/p&gt;</description>
-      <guid isPermaLink="false">d983a32d0adeca0e115d68b855bc1ad1ddebaf95159ec95ab68d9a91bff89664</guid>
-      <pubDate>Tue, 30 Jun 2026 08:42:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Décentralisation culturelle : clarifier les compétences ou brider la coopération ?</title>
-      <link>https://www.observatoire-culture.net/decentralisation-culturelle-clarifier-competences-brider-cooperation/</link>
-      <description>&lt;p&gt;Dans le Livre blanc de la décentralisation culturelle, publié début 2026, une quarantaine d’associations d’élus, de collectivités et de professionnels avancent des propositions pour refonder l’organisation territoriale des politiques publiques de la culture. Dans ce contexte, Emmanuel Wallon s’interroge plus particulièrement sur la question des « compétences partagées » des collectivités territoriales : veut-on simplifier et clarifier leurs attributions, ou brider et brader la coopération ? &lt;/p&gt; &lt;p&gt;L’article &lt;a href="https://www.observatoire-culture.net/decentralisation-culturelle-clarifier-competences-brider-cooperation/"&gt;Décentralisation culturelle : clarifier les compétences ou brider la coopération ?&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.observatoire-culture.net"&gt;Observatoire des politiques culturelles&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">51ca2be8557751d7c533946c375594e9e31fe2fee2143b48879507ce675db695</guid>
-      <pubDate>Tue, 30 Jun 2026 08:38:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>La CNSA renforce son soutien auprès des fédérations du domicile avec un nouveau programme de conventionnement</title>
-      <link>https://www.cnsa.fr/actualites/la-cnsa-renforce-son-soutien-aupres-des-federations-du-domicile-avec-un-nouveau</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/la-cnsa-renforce-son-soutien-aupres-des-federations-du-domicile-avec-un-nouveau" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-04/ACTU_Conventions_SAD.JPG?itok=A3iocV5q" /&gt; &lt;/a&gt; &lt;p&gt;En 2026, la CNSA fait évoluer son programme de conventionnement, qu’elle conduit auprès des fédérations et têtes de réseau du secteur du domicile depuis 2008. Dans ce cadre renouvelé, elle a signé en début d’année deux nouvelles conventions d’accompagnement avec la FEHAP et NEXEM.&lt;/p&gt;</description>
-      <guid isPermaLink="false">737d5ed1573196aa68d51224dde15bef659bae23b66defa53f37a5bb4e8fae62</guid>
-      <pubDate>Tue, 28 Apr 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Campagnes de transmission des comptes administratifs et des ERRD 2025</title>
-      <link>https://www.cnsa.fr/actualites/campagnes-de-transmission-des-comptes-administratifs-et-des-errd-2025</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/campagnes-de-transmission-des-comptes-administratifs-et-des-errd-2025" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-03/ACTU_20241118-CNSA-BracieuxSAB_4864-R-Sabrina-Budon.jpg?itok=7n6R4d0B" /&gt; &lt;/a&gt; &lt;p&gt;Les gestionnaires d’établissements et services médico-sociaux peuvent déposer leurs documents budgétaires et financiers dans les plateformes ImportCA et ImportERRD. Chaque année, les établissements et services médico-sociaux transmettent à leurs autorités de tarification leur compte administratif (CA) ou leur état réalisé des recettes et des dépenses (ERRD).&lt;/p&gt;</description>
-      <guid isPermaLink="false">b3d84e821ea38dc1abeef868e9a43d96ff05f875e1cfd65cc39541f85112b56b</guid>
-      <pubDate>Tue, 24 Mar 2026 17:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Justice des mineurs : un décret actualise les règles de financement de plusieurs dispositifs éducatifs</title>
-      <link>https://www.enfancejeunesseinfos.fr/justice-des-mineurs-un-decret-actualise-les-regles-de-financement-de-plusieurs-dispositifs-educatifs/</link>
-      <description>Un décret publié au Journal officiel met à jour plusieurs dispositions du code de l'action sociale et des familles (CASF) afin de les aligner sur le code de la justice pénale des mineurs (CJPM).</description>
-      <guid isPermaLink="false">ab2bdce0ab39ba769938dad02443ef50bc0e7db02c917672d7bb8bb832899954</guid>
-      <pubDate>Tue, 23 Jun 2026 05:08:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>La CNSA mobilise 207 millions d’euros en 2026 en soutien de la préservation de l’autonomie des personnes âgées de 60 ans et plus</title>
-      <link>https://www.cnsa.fr/actualites/la-cnsa-mobilise-207-millions-deuros-en-2026-en-soutien-de-la-preservation-de-lautonomie</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/la-cnsa-mobilise-207-millions-deuros-en-2026-en-soutien-de-la-preservation-de-lautonomie" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-04/ACTU_Concours_CFPPA_2026.JPG?itok=fpQiBp5U" /&gt; &lt;/a&gt; &lt;p&gt;En 2026, la CNSA renforce son soutien aux départements à travers ses deux concours « Forfait autonomie » et « Autres actions de prévention ». Ces financements sont complétés par un appui technique de la CNSA auprès des 101 commissions des financeurs de la prévention de la perte d’autonomie (CFPPA), qui bénéficient également de l’accompagnement du Centre de ressources et de preuves (CRP) afin de développer des actions de prévention toujours plus qualitatives et efficaces.&lt;/p&gt;</description>
-      <guid isPermaLink="false">040ab2a26ad06aaf2258eb528c7e9446988ff1d29a32c42d3889cd6909cb2e5f</guid>
-      <pubDate>Tue, 21 Apr 2026 07:57:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>Comptes 2025 : la Cour des comptes certifie la branche Autonomie</title>
-      <link>https://www.cnsa.fr/actualites/comptes-2025-la-cour-des-comptes-certifie-la-branche-autonomie</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/comptes-2025-la-cour-des-comptes-certifie-la-branche-autonomie" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-05/ACTU_comptes_2025_autonomie.JPG?itok=uX0RoJ-z" /&gt; &lt;/a&gt; &lt;p&gt;Réuni le 19 mai, le Conseil de la CNSA a examiné le rapport de certification des comptes 2025 présenté par la Cour des comptes, en présence de ses membres. Les comptes ont ensuite été présentés puis approuvés. La Cour les a certifiés, à l’instar de ceux des branches du régime général de la Sécurité sociale et du Conseil de la protection sociale des travailleurs indépendants. Elle a salué les progrès accomplis par la CNSA dans la sécurisation de ses procédures comptables et financiers. Créée en 2020, la branche Autonomie confirme ainsi la fiabilité croissante de sa gestion.&lt;/p&gt;</description>
-      <guid isPermaLink="false">9784d04c4412215c7f97cd63536b573dba18280707421cf58b555d5328f51946</guid>
-      <pubDate>Tue, 19 May 2026 09:56:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Du repérage aux soins : le nouveau parcours coordonné des enfants en situation de handicap</title>
-      <link>https://www.enfancejeunesseinfos.fr/du-reperage-aux-soins-le-nouveau-parcours-coordonne-des-enfants-en-situation-de-handicap/</link>
-      <description>Destiné aux enfants et aux jeunes présentant ou susceptibles de présenter un handicap, le nouveau service de repérage précoce entre dans sa phase opérationnelle. Une instruction interministérielle en précise l'organisation, le financement et les modalités de déploiement dans les territoires.</description>
-      <guid isPermaLink="false">1737e8f90ca8a09dfce5fa605493e28bcb8b2b734381f39f8467a3a17338fa2f</guid>
-      <pubDate>Tue, 16 Jun 2026 05:12:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Assistance éducative : la loi généralisant l'avocat de l'enfant est promulguée</title>
-      <link>https://www.enfancejeunesseinfos.fr/assistance-educative-la-loi-generalisant-lavocat-de-lenfant-est-promulguee/</link>
-      <description>Tout enfant concerné par une mesure d'assistance éducative aura désormais son avocat, quel que soit son âge. Promulguée le 13 juillet 2026 et applicable au 6 janvier 2027, la loi en fait un droit automatique, financé par l'État.</description>
-      <guid isPermaLink="false">2241a256322b36f78f9dff754701f67c418b2ed596101ac7e0c9f46ead925b57</guid>
-      <pubDate>Tue, 14 Jul 2026 09:32:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Transformation de l’offre handicap : le fonds d’appui accélère le passage à une offre de services coordonnés</title>
-      <link>https://www.cnsa.fr/actualites/transformation-de-loffre-handicap-le-fonds-dappui-accelere-le-passage-une-offre-de</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/transformation-de-loffre-handicap-le-fonds-dappui-accelere-le-passage-une-offre-de" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-07/ACTU_Appui-Transfo-de-l-offre-2026.jpg?itok=qHgkWKce" /&gt; &lt;/a&gt; &lt;p&gt;Prévu par la Conférence nationale du handicap de 2023, le fonds d’appui à la transformation de l’offre pour les personnes en situation de handicap poursuit son déploiement en 2026. Pensé comme un levier d’ingénierie, et d’investissement immobilier, il accompagne dans les territoires le passage d’une logique de places à une logique de services coordonnés, plus souple, plus lisible et davantage centrée sur les besoins et les choix de vie des personnes.&lt;/p&gt;</description>
-      <guid isPermaLink="false">dc485203250fcebce7949c74aabaac1e56f48840ef148e8f7d4ef693b0675a37</guid>
-      <pubDate>Tue, 07 Jul 2026 08:39:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>En 2024, les CMPP ont accompagné plus de 141 000 enfants et adolescents</title>
-      <link>https://www.cnsa.fr/actualites/en-2024-les-cmpp-ont-accompagne-plus-de-141-000-enfants-et-adolescents</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/en-2024-les-cmpp-ont-accompagne-plus-de-141-000-enfants-et-adolescents" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-06/202304-CNSA-Sessad-Saint-Denis-241.jpg?itok=F2efkM0L" /&gt; &lt;/a&gt; &lt;p&gt;Le n° 28 des Repères statistiques présente un bilan de l’activité des 482 centres médico-psychopédagogiques (CMPP) recensés en France en 2024. Si le nombre d’enfants et d’adolescents accompagnés diminue de 2 % par rapport à 2023, dans la continuité du recul progressif observé depuis 2017, cette baisse ne traduit toutefois pas une réduction de l’activité des CMPP.&lt;/p&gt;</description>
-      <guid isPermaLink="false">5c732624d8d4256721d793444803705c88fc6441db66b5cb3c14448578eb8cfa</guid>
-      <pubDate>Tue, 02 Jun 2026 12:51:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>La métropolisation des politiques culturelles</title>
-      <link>https://www.observatoire-culture.net/metropolisation-politiques-culturelles/</link>
-      <description>&lt;p&gt;Avec les années 2000 et l’essor de la globalisation, les grandes villes se transforment en « centres de commandement culturel ». L’investissement financier dans la culture devient un indicateur du rang que veulent tenir ces capitales régionales. Un phénomène de métropolisation qui s’accompagne de tensions qu’elles peinent à résoudre. Le concept de « ville créative » s’impose comme un [&amp;#8230;]&lt;/p&gt; &lt;p&gt;L’article &lt;a href="https://www.observatoire-culture.net/metropolisation-politiques-culturelles/"&gt;La métropolisation des politiques culturelles&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.observatoire-culture.net"&gt;Observatoire des politiques culturelles&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">a9043f2a18c6a5c1d486ca5754da3835dc83202ac28256a84e9822cc2104d70c</guid>
-      <pubDate>Thu, 28 May 2026 07:52:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jeunes majeurs sortant de l'ASE : l'État répartit près de 50 M€ entre les départements</title>
-      <link>https://www.enfancejeunesseinfos.fr/jeunes-majeurs-sortant-de-lase-letat-repartit-pres-de-50-meur-entre-les-departements/</link>
-      <description>Un arrêté du 23 juin 2026 fixe la répartition de 49,75 M€ entre les départements pour financer l'accompagnement des jeunes majeurs sortant de l'aide sociale à l'enfance. Il prévoit aussi un nouveau mode de calcul des dotations à partir de 2027.</description>
-      <guid isPermaLink="false">95bdf76ecbd16d51cd37b5d44d93992d255b6596ff4eb92347552f152c75fb71</guid>
-      <pubDate>Thu, 25 Jun 2026 14:40:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Edgar Morin, compagnon de l’humanité</title>
-      <link>https://www.observatoire-culture.net/edgar-morin-compagnon-humanite/</link>
-      <description>&lt;p&gt;Edgar Morin s’en est allé et laisse derrière lui une œuvre colossale. C’est à ce géant de la pensée que Jean-Pierre Saez, ancien directeur de l’Observatoire des politiques culturelles, rend hommage dans ces lignes. Mais également au résistant, à l’ami et au penseur avec lequel il a cheminé si longtemps, à l’OPC et dans la vie.&lt;/p&gt; &lt;p&gt;L’article &lt;a href="https://www.observatoire-culture.net/edgar-morin-compagnon-humanite/"&gt;Edgar Morin, compagnon de l’humanité&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.observatoire-culture.net"&gt;Observatoire des politiques culturelles&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">a7741f07e82dcaf289c5411a336d6ef3448d08151c57c3fae4cc516e0b5a6c42</guid>
-      <pubDate>Thu, 25 Jun 2026 07:24:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ouverture des bars après minuit : du droit à la convivialité et à la culture comme conditions de la démocratie</title>
-      <link>https://www.observatoire-culture.net/ouverture-bars-apres-minuit-droit-convivialite/</link>
-      <description>&lt;p&gt;En Seine-Saint-Denis, un arrêté préfectoral impose une fermeture des bars à minuit alors que cette autorisation est fixée à 2h du matin à Paris. Deux heures d’écart en apparence anodines, mais qui impactent pourtant lourdement la vie sociale, la convivialité et la culture. Pour Vito Marinese, les bars sont des lieux essentiels à la démocratie et au vivre ensemble : après avoir travaillé, fait nos corvées et s’être reposé, combien de temps nous reste-t-il pour faire société ?&lt;/p&gt; &lt;p&gt;L’article &lt;a href="https://www.observatoire-culture.net/ouverture-bars-apres-minuit-droit-convivialite/"&gt;Ouverture des bars après minuit : du droit à la convivialité et à la culture comme conditions de la démocratie&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.observatoire-culture.net"&gt;Observatoire des politiques culturelles&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">df58cf034eae8d9c73e4b33bcda08844c19f16954edd687e3f862c6f7e3bd827</guid>
-      <pubDate>Thu, 18 Jun 2026 08:27:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>MNA : la répartition des accueils département par département en 2026</title>
-      <link>https://www.enfancejeunesseinfos.fr/mna-la-repartition-des-accueils-departement-par-departement-en-2026/</link>
-      <description>Le gouvernement publie les objectifs de répartition départementale des mineurs non accompagnés (MNA) pour 2026.</description>
-      <guid isPermaLink="false">594f3a9925dafefcbdee28033f00d2ffee5cd27f954f1ab3526497249b89671c</guid>
-      <pubDate>Thu, 16 Jul 2026 16:30:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aude Tourisme recrute sa/son Directrice / Directeur</title>
-      <link>https://www.adn-tourisme.fr/aude-tourisme-recrute-sa-son-directrice-directeur/</link>
-      <description>&lt;p&gt;Avec la stratégie touristique départementale 2023-2028, le Conseil Départemental de l’Aude a acté son ambition d’impulser un nouveau modèle touristique qui régénère le territoire et s’engage « positivement » dans les transitions. Outil technique du Département, l’ADT de l’Aude déploie cette stratégie et s’attache à prendre en compte les transitions dans ses différents projets. Composée [&amp;#8230;]&lt;/p&gt; &lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/aude-tourisme-recrute-sa-son-directrice-directeur/"&gt;Aude Tourisme recrute sa/son Directrice / Directeur&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">6461e871b6e0598dbf62187a5c0c2165d66ad22a6bff2b1e977e985af14aaf80</guid>
-      <pubDate>Thu, 16 Jul 2026 13:11:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le site Nounou-top visé par une procédure de la DGCCRF sur la vérification de ses profils</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/garde-denfants-le-site-nounou-top-fr-vise-par-une-procedure-de-la-dgccrf/</link>
-      <description>&lt;p&gt;L’article &lt;a href="https://www.lesprosdelapetiteenfance.fr/garde-denfants-le-site-nounou-top-fr-vise-par-une-procedure-de-la-dgccrf/"&gt;Le site Nounou-top visé par une procédure de la DGCCRF sur la vérification de ses profils&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.lesprosdelapetiteenfance.fr"&gt;Les pros de la petite enfance&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">80d7e7b40e8cf9c1c2d31ef3104cbb6d589fe8a5aa7521d7e4137b7db6365c6b</guid>
-      <pubDate>Thu, 16 Jul 2026 12:35:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>De main en main, les vies d’occasion du livre</title>
-      <link>https://www.observatoire-culture.net/vies-occasion-livre/</link>
-      <description>&lt;p&gt;Quand un livre change de mains, que devient sa valeur ? Longtemps cantonné aux bouquinistes et aux librairies spécialisées, le marché de l’occasion s’est profondément transformé avec les plateformes numériques et les nouveaux usages. Cet article explore les multiples vies du livre après son premier achat. Entre enjeux économiques, rémunération des auteurs, transition écologique et nouvelles pratiques de lecture, il montre que l’essor de l’occasion dépasse largement la seule question du prix : il invite à repenser l’économie du livre dans son ensemble. &lt;/p&gt; &lt;p&gt;L’article &lt;a href="https://www.observatoire-culture.net/vies-occasion-livre/"&gt;De main en main, les vies d’occasion du livre&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.observatoire-culture.net"&gt;Observatoire des politiques culturelles&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">5f647f75ba5261806a42831f4f4f6c045c42f41d848fd8816f895ccb4a49f4da</guid>
-      <pubDate>Thu, 16 Jul 2026 10:08:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diversification : des portions trop importantes associées à un risque accru de surpoids</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/diversification-des-portions-trop-importantes-associees-a-un-risque-accru-de-surpoids/</link>
-      <description>&lt;p&gt;L’article &lt;a href="https://www.lesprosdelapetiteenfance.fr/diversification-des-portions-trop-importantes-associees-a-un-risque-accru-de-surpoids/"&gt;Diversification : des portions trop importantes associées à un risque accru de surpoids&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.lesprosdelapetiteenfance.fr"&gt;Les pros de la petite enfance&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">53e42b0046b710dddcee931d8e6c10a671e65ece3493b7653b72caca312e4584</guid>
-      <pubDate>Thu, 16 Jul 2026 08:56:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Portrait de l’enseignement artistique en France</title>
-      <link>https://www.observatoire-culture.net/portrait-enseignement-artistique-france/</link>
-      <description>&lt;p&gt;Comment se structure l’enseignement artistique français ? Quels sont les lieux de l’enseignement spécialisé ? Comment ont évolué les dépenses départementales en faveur des enseignements artistiques ? Quelle part de l’enseignement supérieur dédié à la culture relève du ministère du même nom ? Comment se répartissent les disciplines ? Alors que les cadres et les finalités [&amp;#8230;]&lt;/p&gt; &lt;p&gt;L’article &lt;a href="https://www.observatoire-culture.net/portrait-enseignement-artistique-france/"&gt;Portrait de l’enseignement artistique en France&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.observatoire-culture.net"&gt;Observatoire des politiques culturelles&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">b0beb3640f30817d17a8a2cf3a782305a9453be7b7ccb78ea7a0354fda65278f</guid>
-      <pubDate>Thu, 16 Jul 2026 08:36:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>La CNSA signe deux conventions pour soutenir la formation des professionnels de l’autonomie</title>
-      <link>https://www.cnsa.fr/actualites/la-cnsa-signe-deux-conventions-pour-soutenir-la-formation-des-professionnels-de</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/la-cnsa-signe-deux-conventions-pour-soutenir-la-formation-des-professionnels-de" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-06/ACTU_Convention_formation-OPCO_UNI.jpg?itok=8IQ9YcqL" /&gt; &lt;/a&gt; &lt;p&gt;La formation des professionnels du secteur de l’autonomie se voit renforcée par deux nouvelles conventions, l’une avec OPCO Santé, l’autre avec Uniformation. Elles visent à soutenir le développement des compétences des professionnels exerçant dans les établissements et services accompagnant les personnes âgées dépendantes et les personnes en situation de handicap.&lt;/p&gt;</description>
-      <guid isPermaLink="false">e2dc16eee93f758fca21effe0f50e9426395545327e0016bae8af75e48dfde55</guid>
-      <pubDate>Thu, 11 Jun 2026 13:37:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autisme : La CNSA mobilisée aux côtés de la DITND pour améliorer l’accompagnement des adultes autistes en situation très complexe</title>
-      <link>https://www.cnsa.fr/actualites/autisme-la-cnsa-mobilisee-aux-cotes-de-la-ditnd-pour-ameliorer-laccompagnement-des</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/autisme-la-cnsa-mobilisee-aux-cotes-de-la-ditnd-pour-ameliorer-laccompagnement-des" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-06/ACTU_URTSA-de-Pierrefeu-du-Var.PNG?itok=P13Kpv1a" /&gt; &lt;/a&gt; &lt;p&gt;En 2024, la CNSA a lancé une étude évaluative des premières unités résidentielles pour adultes autistes en situation très complexe (URTSA) afin de soutenir le déploiement de cette offre spécifique et d’éclairer les travaux de révision de son cahier des charges, conduits par la Délégation interministérielle à la stratégie pour les troubles du neurodéveloppement (DITND).&lt;/p&gt;</description>
-      <guid isPermaLink="false">1b625a41483a0fb9df80ad09c81b3eb8e9539868b8f754e24d3b8da9df9f302b</guid>
-      <pubDate>Thu, 11 Jun 2026 10:24:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le Conseil de la CNSA appelle le Gouvernement à préparer le choc démographique</title>
-      <link>https://www.cnsa.fr/actualites/le-conseil-de-la-cnsa-appelle-le-gouvernement-preparer-le-choc-demographique</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/le-conseil-de-la-cnsa-appelle-le-gouvernement-preparer-le-choc-demographique" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-02/ACTU_ConseilCNSA2.JPG?itok=60RgsnYW" /&gt; &lt;/a&gt; &lt;p&gt;À l'approche des arbitrages du Projet de loi de financement de la sécurité sociale (PLFSS) pour 2027, les membres du Conseil de la CNSA appellent le Gouvernement à conforter durablement les moyens de la branche Autonomie. Dans un courrier adressé au Premier ministre, son président, Paul Christophe, défend une politique d'investissement social à la hauteur du vieillissement de la population, des besoins des personnes âgées et des personnes en situation de handicap, et des enjeux d'équité entre les territoires.&lt;/p&gt;</description>
-      <guid isPermaLink="false">d14dbb5a8d146398cc649aac4905b12b72c18414bf75b95f3b60417facbc67fb</guid>
-      <pubDate>Thu, 09 Jul 2026 10:23:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Christelle Chassagne élue Présidente d’ADN Tourisme</title>
-      <link>https://www.adn-tourisme.fr/christelle-chassagne-elue-presidente-adn-tourisme/</link>
-      <description>&lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/christelle-chassagne-elue-presidente-adn-tourisme/"&gt;Christelle Chassagne élue &amp;lt;br&amp;gt; Présidente d’ADN Tourisme&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">57e84768a28f3b621d2bd28906a267b3795fe262e8f984edad2d482a5f34d0a1</guid>
-      <pubDate>Thu, 02 Jul 2026 14:13:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>CAMSP et CMPP : les recommandations de la HAS s'imposent aux établissements</title>
-      <link>https://www.enfancejeunesseinfos.fr/camsp-et-cmpp-les-recommandations-de-la-has-simposent-aux-etablissements/</link>
-      <description>Le niveau d'exigence des centres d'action médico-sociale précoce (CAMSP) et des centres médico-psycho-pédagogiques (CMPP). Contrôles, évaluations et coopérations évoluent, tandis que les recommandations de la Haute Autorité de santé (HAS) deviennent « opposables ».</description>
-      <guid isPermaLink="false">a27e7b8c2147312ddabc7c1a7089889111438f2e91e1138801de743b09ab6c4e</guid>
-      <pubDate>Thu, 02 Jul 2026 06:25:37 +0000</pubDate>
-    </item>
-    <item>
-      <title>La CNSA sélectionne 12 projets pour renforcer le repérage et l’accompagnement des jeunes aidants</title>
-      <link>https://www.cnsa.fr/actualites/la-cnsa-selectionne-12-projets-pour-renforcer-le-reperage-et-laccompagnement-des-jeunes</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/la-cnsa-selectionne-12-projets-pour-renforcer-le-reperage-et-laccompagnement-des-jeunes" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-03/Actu-AAP-Jeunes-aidants-2026.jpg?itok=ro3W6j6B" /&gt; &lt;/a&gt; &lt;p&gt;La CNSA place l’adaptation de l’offre de soutien aux proches aidants et sa couverture territoriale au cœur de l’action de la branche Autonomie. À l’issue d’un appel à projets lancé en novembre, 12 projets ont été sélectionnés sur l’ensemble du territoire pour mener des actions à destination des jeunes aidants.&lt;/p&gt;</description>
-      <guid isPermaLink="false">05a752ace823dfb44fc310393f862c2895f940619c5dece4c8b15d90a046a20c</guid>
-      <pubDate>Mon, 30 Mar 2026 14:22:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>APL : les associations redoutent une précarisation de milliers d'étudiants étrangers</title>
-      <link>https://www.enfancejeunesseinfos.fr/apl-les-associations-redoutent-une-precarisation-de-milliers-detudiants-etrangers/</link>
-      <description>Un décret publié le 28 juin au Journal officiel supprime les APL des étudiants non européens et non boursiers à compter du 1ᵉʳ juillet. Neuf organisations dénoncent une réforme imposée malgré l'avis défavorable unanime du Conseil national de l'habitat.</description>
-      <guid isPermaLink="false">7bc2569b6140246583cc954ab0df9069cb50c54b9d7bfba42bb8a96484eda15d</guid>
-      <pubDate>Mon, 29 Jun 2026 16:18:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Un podcast réalisé avec des étudiants</title>
-      <link>https://www.adn-tourisme.fr/podcast-etudiants-tourisme/</link>
-      <description>&lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/podcast-etudiants-tourisme/"&gt;Un podcast réalisé avec des étudiants&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">e4676390d925bf3716a3856ada5a727ba36483d27e50eb10b2261f7a935870fd</guid>
-      <pubDate>Mon, 29 Jun 2026 13:25:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>ASE : le Conseil d’État écarte l’argument de la saturation pour refuser l’hébergement d’un jeune majeur</title>
-      <link>https://www.enfancejeunesseinfos.fr/ase-le-conseil-detat-ecarte-largument-de-la-saturation-pour-refuser-lhebergement-dun-jeune-majeur/</link>
-      <description>Un département peut-il invoquer le manque de places disponibles pour ne pas héberger un jeune majeur relevant encore de l’aide sociale à l’enfance ? Dans une ordonnance rendue en référé, le Conseil d’État rappelle que la saturation d’un dispositif ne suffit pas si elle n’est pas démontrée.</description>
-      <guid isPermaLink="false">3797f258c368f4594f98706d9abe7fbd9dcd36ce7d1db8c42b4b60d57c80008d</guid>
-      <pubDate>Mon, 22 Jun 2026 06:34:23 +0000</pubDate>
-    </item>
+    <lastBuildDate>Mon, 20 Jul 2026 15:05:39 +0000</lastBuildDate>
     <item>
       <title>Assistantes maternelles : des salaires qui varient selon les régions</title>
       <link>https://www.lesprosdelapetiteenfance.fr/assistantes-maternelles-des-salaires-qui-varient-selon-les-regions/</link>
-      <description>&lt;p&gt;L’article &lt;a href="https://www.lesprosdelapetiteenfance.fr/assistantes-maternelles-des-salaires-qui-varient-selon-les-regions/"&gt;Assistantes maternelles : des salaires qui varient selon les régions&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.lesprosdelapetiteenfance.fr"&gt;Les pros de la petite enfance&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">91ebe61b3eb36e5a6719ecfe0a7060aa521140541a94c0de6e707113adc48182</guid>
+      <description>L’article Assistantes maternelles : des salaires qui varient selon les régions est apparu en premier sur Les pros de la petite enfance .</description>
+      <guid isPermaLink="false">bfc11a978a57bd87035d03c66520e05265a38c5e706e063dba757aca3b319a76</guid>
       <pubDate>Mon, 20 Jul 2026 13:31:52 +0000</pubDate>
     </item>
     <item>
       <title>Assistantes maternelles : le salaire horaire net moyen progresse de 3,4 % en 2025</title>
       <link>https://www.lesprosdelapetiteenfance.fr/assistantes-maternelles-le-salaire-horaire-net-moyen-progresse-de-34-en-2025/</link>
-      <description>&lt;p&gt;L’article &lt;a href="https://www.lesprosdelapetiteenfance.fr/assistantes-maternelles-le-salaire-horaire-net-moyen-progresse-de-34-en-2025/"&gt;Assistantes maternelles : le salaire horaire net moyen progresse de 3,4 % en 2025&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.lesprosdelapetiteenfance.fr"&gt;Les pros de la petite enfance&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">320f55d25bb8c4aab493b6bc0f810a78ab05cfaaed6dc15ef5140d8cbf2062ac</guid>
+      <description>L’article Assistantes maternelles : le salaire horaire net moyen progresse de 3,4 % en 2025 est apparu en premier sur Les pros de la petite enfance .</description>
+      <guid isPermaLink="false">9fe8bdee6974eef3240f2baf0951f89e2da8adceed43d8479672fd9e60d99b9a</guid>
       <pubDate>Mon, 20 Jul 2026 11:57:13 +0000</pubDate>
     </item>
     <item>
       <title>PFAS : une exposition in utero ou les premiers jours de vie favoriserait l’inflammation intestinale chez l’enfant</title>
       <link>https://www.lesprosdelapetiteenfance.fr/pfas-une-exposition-in-utero-ou-les-premiers-jours-de-vie-favoriserait-linflammation-intestinale-chez-lenfant/</link>
-      <description>&lt;p&gt;L’article &lt;a href="https://www.lesprosdelapetiteenfance.fr/pfas-une-exposition-in-utero-ou-les-premiers-jours-de-vie-favoriserait-linflammation-intestinale-chez-lenfant/"&gt;PFAS : une exposition in utero ou les premiers jours de vie favoriserait l&amp;rsquo;inflammation intestinale chez l&amp;rsquo;enfant&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.lesprosdelapetiteenfance.fr"&gt;Les pros de la petite enfance&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">84a5ece606ad3fd1b19275f33e2affc125342034c705cf2591b1c4aaca8ff7d5</guid>
+      <description>L’article PFAS : une exposition in utero ou les premiers jours de vie favoriserait l’inflammation intestinale chez l’enfant est apparu en premier sur Les pros de la petite enfance .</description>
+      <guid isPermaLink="false">9d870b693ee09fa1915549a87fc145408aad52824c5f0094a47ad1fda208f972</guid>
       <pubDate>Mon, 20 Jul 2026 10:35:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>La CNSA à SantExpo : trois conférences emblématiques à ne pas manquer</title>
-      <link>https://www.cnsa.fr/actualites/la-cnsa-santexpo-trois-conferences-emblematiques-ne-pas-manquer</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/la-cnsa-santexpo-trois-conferences-emblematiques-ne-pas-manquer" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-05/ACTU_Santexpo_2026_CNSA.PNG?itok=9qzE6q6_" /&gt; &lt;/a&gt; &lt;p&gt;La Caisse nationale de solidarité pour l’autonomie sera présente au salon SantExpo, organisé du 19 au 21 mai 2026 à Paris Expo Porte de Versailles. À cette occasion, la CNSA participera à trois conférences : les apports du service public de l’autonomie (SPDA) pour faciliter les sorties d’hospitalisation, les enjeux de la donnée avec Data Autonomie, et la réforme tarifaire SERAFIN PH.&lt;/p&gt;</description>
-      <guid isPermaLink="false">e63ccc9b229e20e8b5cb89d0e2b085ecad39f8057730edfe7b02a37818413523</guid>
-      <pubDate>Mon, 18 May 2026 08:51:22 +0000</pubDate>
-    </item>
-    <item>
-      <title>« Manque de mobilisation », « posture de défiance » : ces motifs ne peuvent pas justifier une fin de contrat jeune majeur</title>
-      <link>https://www.enfancejeunesseinfos.fr/manque-de-mobilisation-posture-de-defiance-ces-motifs-ne-peuvent-pas-justifier-une-fin-de-contrat-jeune-majeur/</link>
-      <description>Le tribunal administratif de Nantes a enjoint un département de reprendre sans délai la prise en charge d'un jeune majeur de 20 ans dont il avait rompu le contrat jeune majeur en invoquant son attitude et son manque supposé d'implication dans certaines démarches.</description>
-      <guid isPermaLink="false">3148350f0090d77d9b5caac724f3509f6915c8419d64b62a30a87438c5de2613</guid>
-      <pubDate>Mon, 15 Jun 2026 06:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MNA : le Conseil d'État impose la prise en charge malgré un jugement de majorité</title>
-      <link>https://www.enfancejeunesseinfos.fr/mna-le-conseil-detat-impose-la-prise-en-charge-malgre-un-jugement-de-majorite/</link>
-      <description>Entre un jugement de majorité et une décision d'appel, la protection d'un mineur non accompagné (MNA) ne s'interrompt pas automatiquement. Le Conseil d'État confirme qu'un département doit maintenir l'hébergement lorsqu'un doute sérieux subsiste sur l'âge du jeune.</description>
-      <guid isPermaLink="false">331996a2f2d0223897ec22d9ff793f0598ae5f985aad24a5fc6d510a738b52ef</guid>
-      <pubDate>Mon, 15 Jun 2026 06:40:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Tarifs en crèche : l’État automatise le calcul pour alléger les démarches des professionnels et des familles</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/tarifs-en-creche-letat-automatise-le-calcul-pour-alleger-les-demarches-des-professionnels-et-des-familles/</link>
-      <description>&lt;p&gt;L’article &lt;a href="https://www.lesprosdelapetiteenfance.fr/tarifs-en-creche-letat-automatise-le-calcul-pour-alleger-les-demarches-des-professionnels-et-des-familles/"&gt;Tarifs en crèche : l&amp;rsquo;État automatise le calcul pour alléger les démarches des professionnels et des familles&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.lesprosdelapetiteenfance.fr"&gt;Les pros de la petite enfance&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">7f6c2ab85fd77d28c82e30fc3e921caeceaf96beccba65ea56b96f386d813b73</guid>
-      <pubDate>Mon, 13 Jul 2026 08:42:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Délégation d’autorité parentale : l’ASE face à l’obligation d’informer le mineur</title>
-      <link>https://www.enfancejeunesseinfos.fr/delegation-dautorite-parentale-lase-face-a-lobligation-dinformer-le-mineur/</link>
-      <description>Qui doit informer un enfant de son droit à être entendu lorsque l’exercice de l’autorité parentale a été entièrement délégué au département ? La Cour de cassation précise les obligations du service gardien et le contrôle exercé par les juges.</description>
-      <guid isPermaLink="false">5e0c21511e1a78fd03590bfcaa7c264f3c24d0272b15c32ed5f8534a32d040d6</guid>
-      <pubDate>Mon, 08 Jun 2026 06:50:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Référent communication et développement commercial</title>
-      <link>https://www.adn-tourisme.fr/referent-communication-et-developpement-commercial/</link>
-      <description>&lt;p&gt;Innovation &amp;#38; Développement Tourisme est une association Loi 1901 qui fédère les Offices de tourisme et les territoires à vocation touristique de la Haute Savoie (OT). Nos missions concernent : la défense des intérêts des OT, la représentation des OT, l’animation et la fédération des OT, la formation et la professionnalisation des acteurs du tourisme, [&amp;#8230;]&lt;/p&gt; &lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/referent-communication-et-developpement-commercial/"&gt;Référent communication et développement commercial&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">ec82f0b71eec4fd66a419538aa45eac46c3246e655d87fcb981ee94b8c4669c9</guid>
-      <pubDate>Mon, 06 Jul 2026 10:07:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Responsable du Pôle Qualification de l’offre</title>
-      <link>https://www.adn-tourisme.fr/responsable-du-pole-qualification-de-loffre/</link>
-      <description>&lt;p&gt;Innovation &amp;#38; Développement Tourisme est une association Loi 1901 qui fédère les Offices de tourisme et les territoires à vocation touristique de la Haute Savoie (OT). Nos missions concernent : la défense des intérêts des OT, la représentation des OT, l’animation et la fédération des OT, la formation et la professionnalisation des acteurs du tourisme, [&amp;#8230;]&lt;/p&gt; &lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/responsable-du-pole-qualification-de-loffre/"&gt;Responsable du Pôle Qualification de l&amp;#8217;offre&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">6bf110cb603e6a5af1593c9eed4ad194999bb8385703d7979861c92756b6f64c</guid>
-      <pubDate>Mon, 06 Jul 2026 10:00:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’autopartage pour faciliter les déplacements sur le territoire</title>
-      <link>https://www.adn-tourisme.fr/lautopartage-faciliter-deplacements-territoire/</link>
-      <description>&lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/lautopartage-faciliter-deplacements-territoire/"&gt;L’autopartage pour faciliter &amp;lt;br&amp;gt; les déplacements sur le territoire&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">ed95f34de38a9c2e23b811bc32bc2f54f45a44c2d9d3f754335a3503d87b97f3</guid>
-      <pubDate>Mon, 06 Jul 2026 09:39:36 +0000</pubDate>
-    </item>
-    <item>
-      <title>L’office de tourisme du Pays Ségali recrute un.e conseiller.e en séjour en alternance</title>
-      <link>https://www.adn-tourisme.fr/loffice-de-tourisme-du-pays-segali-recrute-un-e-conseiller-e-en-sejour-en-alternance/</link>
-      <description>&lt;p&gt;L’office de tourisme Pays Ségali, recherche son/sa futur.e conseiller.e en séjour en alternance. Situé au sud-ouest du département de l’Aveyron, l’office de tourisme Pays Ségali assure ses missions d’accueil, d’information, de promotion et de développement touristique sur un territoire de 23 communes, grâce à une équipe de 4 personnes réparties dans 2 bureaux d’informations (Naucelle [&amp;#8230;]&lt;/p&gt; &lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/loffice-de-tourisme-du-pays-segali-recrute-un-e-conseiller-e-en-sejour-en-alternance/"&gt;L&amp;#8217;office de tourisme du Pays Ségali recrute un.e conseiller.e en séjour en alternance&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">8ed80b501b868d2ef6f89741e4f8dbc4c2e4e2265c4c4b0e0a1cf8fd6d478737</guid>
-      <pubDate>Mon, 06 Jul 2026 09:37:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>La découvrabilité : un cheval de bataille pour rendre visible les contenus culturels en ligne</title>
-      <link>https://www.observatoire-culture.net/decouvrabilite-cheval-bataille-rendre-visible-contenus-culturels/</link>
-      <description>&lt;p&gt;Si, il y a 20 ans, un contenu bien référencé était aisément trouvable sur le web, aujourd’hui, dans un environnement numérique saturé et envahi par les plateformes, les algorithmes dictent leur loi. Guidés par des stratégies publicitaires, ils orientent ce que voient les usagers. Une tendance qui conduit à invisibiliser une partie des contenus culturels [&amp;#8230;]&lt;/p&gt; &lt;p&gt;L’article &lt;a href="https://www.observatoire-culture.net/decouvrabilite-cheval-bataille-rendre-visible-contenus-culturels/"&gt;La découvrabilité : un cheval de bataille pour rendre visible les contenus culturels en ligne&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.observatoire-culture.net"&gt;Observatoire des politiques culturelles&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">f11d4e6593a9636be1fa33693972502503653542b19793f81f7068ed27ad6d35</guid>
-      <pubDate>Mon, 06 Jul 2026 08:56:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Interfel</title>
-      <link>https://www.snrc.fr/2023/04/03/interfel/</link>
-      <description>&lt;p&gt;L’article &lt;a href="https://www.snrc.fr/2023/04/03/interfel/"&gt;Interfel&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.snrc.fr"&gt;SNRC&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">98464257420fc2330854315274cc75d397f0eab98a837c764c9671a6c40928a8</guid>
-      <pubDate>Mon, 03 Apr 2023 09:25:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le plan national « 50 000 solutions » : des avancées tangibles</title>
-      <link>https://www.cnsa.fr/actualites/le-plan-national-50-000-solutions-des-avancees-tangibles</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/le-plan-national-50-000-solutions-des-avancees-tangibles" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-03/Capture-d-ecran-2026-03-20-144805.png?itok=RjKnR2mA" /&gt; &lt;/a&gt; &lt;p&gt;Le plan national « 50 000 solutions », annoncé par le président de la République lors de la Conférence nationale du handicap de 2023, marque une étape structurante de la politique publique du handicap, avec une ambition forte : apporter des réponses concrètes, adaptées et durables aux besoins des enfants et des adultes en situation de handicap, à tous les moments de leur vie.&lt;/p&gt;</description>
-      <guid isPermaLink="false">df31750c8a645f9b5fd3e2ec46a401167855984b807baa78aa6fb6759ce48a27</guid>
-      <pubDate>Fri, 20 Mar 2026 14:07:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>La CNSA renforce son appui à la transformation de l’offre PH avec 37 conseillers dédiés recrutés par les agences régionales de santé</title>
-      <link>https://www.cnsa.fr/actualites/la-cnsa-renforce-son-appui-la-transformation-de-loffre-ph-avec-37-conseillers-dedies</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/la-cnsa-renforce-son-appui-la-transformation-de-loffre-ph-avec-37-conseillers-dedies" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-03/DSC_0038.JPG?itok=lMqFGh2i" /&gt; &lt;/a&gt; &lt;p&gt;Pour accélérer la transformation de l’offre médico sociale au bénéfice des personnes en situation de handicap, la CNSA structure et anime un réseau de conseillers en transformation de l’offre (CTO) intégrés directement au sein des agences régionales de santé (ARS). Ce réseau s’est réuni pour la première fois en présentiel ce jeudi à l’occasion d’un séminaire national.&lt;/p&gt;</description>
-      <guid isPermaLink="false">f132bd1491002d35c7cead52474c1b8db6e3e83b752e3e7d6073e8be507cf208</guid>
-      <pubDate>Fri, 20 Mar 2026 11:11:02 +0000</pubDate>
     </item>
     <item>
       <title>Accidents de la vie courante : un enfant sur sept pris en charge à l’hôpital entre 1 et 2 ans</title>
       <link>https://www.lesprosdelapetiteenfance.fr/accidents-de-la-vie-courante-un-enfant-sur-sept-pris-en-charge-a-lhopital-entre-1-et-2-ans/</link>
-      <description>&lt;p&gt;L’article &lt;a href="https://www.lesprosdelapetiteenfance.fr/accidents-de-la-vie-courante-un-enfant-sur-sept-pris-en-charge-a-lhopital-entre-1-et-2-ans/"&gt;Accidents de la vie courante : un enfant sur sept pris en charge à l’hôpital entre 1 et 2 ans&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.lesprosdelapetiteenfance.fr"&gt;Les pros de la petite enfance&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">5cb5daf6a39bed5018d8cd81a0c42ee0bddaa1ffe45318721d700ad62d909579</guid>
+      <description>L’article Accidents de la vie courante : un enfant sur sept pris en charge à l’hôpital entre 1 et 2 ans est apparu en premier sur Les pros de la petite enfance .</description>
+      <guid isPermaLink="false">4d5bebbf97482066d02f487866e8eb483e1220eb1851f02621e2d1d670fb6417</guid>
       <pubDate>Fri, 17 Jul 2026 14:27:21 +0000</pubDate>
     </item>
     <item>
-      <title>De la restitution à la réappropriation : enjeux actuels du patrimoine postcolonial</title>
-      <link>https://www.observatoire-culture.net/restitution-reappropriation-enjeux-patrimoine-postcolonial/</link>
-      <description>&lt;p&gt;Le 13 avril 2026, l'Assemblée nationale adoptait à l'unanimité une loi-cadre facilitant la restitution des biens culturels spoliés durant la période coloniale. Une avancée historique qui laisse néanmoins de côté la question plus profonde de leur réappropriation par les sociétés d’origine. Pour Kévin Lebrun, s’appuyer sur la Convention de Faro permettrait d’ouvrir une seconde étape afin que cette restitution ne soit pas envisagée uniquement comme une affaire d’États.&lt;/p&gt; &lt;p&gt;L’article &lt;a href="https://www.observatoire-culture.net/restitution-reappropriation-enjeux-patrimoine-postcolonial/"&gt;De la restitution à la réappropriation : enjeux actuels du patrimoine postcolonial&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.observatoire-culture.net"&gt;Observatoire des politiques culturelles&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">204dc686240bb66b3d5a203e9f1105fe1f96470e130f1b585f1cd78daca46a3f</guid>
-      <pubDate>Fri, 12 Jun 2026 07:22:52 +0000</pubDate>
+      <title>MNA : la répartition des accueils département par département en 2026</title>
+      <link>https://www.enfancejeunesseinfos.fr/mna-la-repartition-des-accueils-departement-par-departement-en-2026/</link>
+      <description>Le gouvernement publie les objectifs de répartition départementale des mineurs non accompagnés (MNA) pour 2026.</description>
+      <guid isPermaLink="false">5dbe969f0b6574bc3da66cb0f1cd6c1ec7d446fa854d5a0bc2dea1690a211d2f</guid>
+      <pubDate>Thu, 16 Jul 2026 16:30:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Aude Tourisme recrute sa/son Directrice / Directeur</title>
+      <link>https://www.adn-tourisme.fr/aude-tourisme-recrute-sa-son-directrice-directeur/</link>
+      <description>Avec la stratégie touristique départementale 2023-2028, le Conseil Départemental de l’Aude a acté son ambition d’impulser un nouveau modèle touristique qui régénère le territoire et s’engage « positivement » dans les transitions. Outil technique du Département, l’ADT de l’Aude déploie cette stratégie et s’attache à prendre en compte les transitions dans ses différents projets. Composée […] The post Aude Tourisme recrute sa/son Directrice / Directeur appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">d930efa58649a278823f0a99adfaae8e4a6d552c8340ba5dd9a1a328507b60bf</guid>
+      <pubDate>Thu, 16 Jul 2026 13:11:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le site Nounou-top visé par une procédure de la DGCCRF sur la vérification de ses profils</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/garde-denfants-le-site-nounou-top-fr-vise-par-une-procedure-de-la-dgccrf/</link>
+      <description>L’article Le site Nounou-top visé par une procédure de la DGCCRF sur la vérification de ses profils est apparu en premier sur Les pros de la petite enfance .</description>
+      <guid isPermaLink="false">e72331c4c4156955372f4cb918d4d4b7d45f7ff635fd373a513342670967426e</guid>
+      <pubDate>Thu, 16 Jul 2026 12:35:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>De main en main, les vies d’occasion du livre</title>
+      <link>https://www.observatoire-culture.net/vies-occasion-livre/</link>
+      <description>Quand un livre change de mains, que devient sa valeur ? Longtemps cantonné aux bouquinistes et aux librairies spécialisées, le marché de l’occasion s’est profondément transformé avec les plateformes numériques et les nouveaux usages. Cet article explore les multiples vies du livre après son premier achat. Entre enjeux économiques, rémunération des auteurs, transition écologique et nouvelles pratiques de lecture, il montre que l’essor de l’occasion dépasse largement la seule question du prix : il invite à repenser l’économie du livre dans son ensemble. L’article De main en main, les vies d’occasion du livre est apparu en premier sur Observatoire des politiques culturelles .</description>
+      <guid isPermaLink="false">f4d221dd1f0cf3864b4c1dac485b414fcafaeafae33cc53202e434909ced9f18</guid>
+      <pubDate>Thu, 16 Jul 2026 10:08:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diversification : des portions trop importantes associées à un risque accru de surpoids</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/diversification-des-portions-trop-importantes-associees-a-un-risque-accru-de-surpoids/</link>
+      <description>L’article Diversification : des portions trop importantes associées à un risque accru de surpoids est apparu en premier sur Les pros de la petite enfance .</description>
+      <guid isPermaLink="false">1569d039a523a3eebb4b06bc0f84cf5f5fe4ac11c61a06f56717e72de81142a0</guid>
+      <pubDate>Thu, 16 Jul 2026 08:56:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Portrait de l’enseignement artistique en France</title>
+      <link>https://www.observatoire-culture.net/portrait-enseignement-artistique-france/</link>
+      <description>Comment se structure l’enseignement artistique français ? Quels sont les lieux de l’enseignement spécialisé ? Comment ont évolué les dépenses départementales en faveur des enseignements artistiques ? Quelle part de l’enseignement supérieur dédié à la culture relève du ministère du même nom ? Comment se répartissent les disciplines ? Alors que les cadres et les finalités […] L’article Portrait de l’enseignement artistique en France est apparu en premier sur Observatoire des politiques culturelles .</description>
+      <guid isPermaLink="false">e6ca39ea05bb52b2b1423f211ebabcb84d8a47c670a0eabe514760532e12c6b1</guid>
+      <pubDate>Thu, 16 Jul 2026 08:36:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protection des enfants : Sarah El Haïry veut mieux former et contrôler les professionnels</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/protection-des-enfants-sarah-el-hairy-veut-mieux-former-et-controler-les-professionnels/</link>
+      <description>L’article Protection des enfants : Sarah El Haïry veut mieux former et contrôler les professionnels est apparu en premier sur Les pros de la petite enfance .</description>
+      <guid isPermaLink="false">d1d0525b57b84514bdf61fc131982fab129ac2b905a4056bc289a65d1def7484</guid>
+      <pubDate>Wed, 15 Jul 2026 16:08:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>« Nous refusons la disparition d’une profession qui protège les enfants » : les infirmières-puéricultrices rejettent les recommandations de la mission flash sur les IPA</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/reingenierie-du-diplome-dinfirmiere-puericultrice-les-propositions-de-la-mission-flash-sur-les-ipa-suscitent-la-colere-de-la-profession/</link>
+      <description>L’article « Nous refusons la disparition d’une profession qui protège les enfants » : les infirmières-puéricultrices rejettent les recommandations de la mission flash sur les IPA est apparu en premier sur Les pros de la petite enfance .</description>
+      <guid isPermaLink="false">4f68e4f2f762218280a975c781a15b45dd50236c5d489202c6dc8feac63aa63c</guid>
+      <pubDate>Wed, 15 Jul 2026 10:18:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Petite enfance : la chaleur pourrait affecter le développement du langage</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/petite-enfance-la-chaleur-pourrait-affecter-le-developpement-du-langage/</link>
+      <description>L’article Petite enfance : la chaleur pourrait affecter le développement du langage est apparu en premier sur Les pros de la petite enfance .</description>
+      <guid isPermaLink="false">edd41fc69778522873a4e663465c38127d6c56ecb90858ad711cbef343fcf42e</guid>
+      <pubDate>Wed, 15 Jul 2026 09:35:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Assistance éducative : la loi généralisant l'avocat de l'enfant est promulguée</title>
+      <link>https://www.enfancejeunesseinfos.fr/assistance-educative-la-loi-generalisant-lavocat-de-lenfant-est-promulguee/</link>
+      <description>Tout enfant concerné par une mesure d'assistance éducative aura désormais son avocat, quel que soit son âge. Promulguée le 13 juillet 2026 et applicable au 6 janvier 2027, la loi en fait un droit automatique, financé par l'État.</description>
+      <guid isPermaLink="false">ccc0bd07defdb3d1c4dd71090804bd354f6a81c2d7cf82e7a3e64facdd00d7c8</guid>
+      <pubDate>Tue, 14 Jul 2026 09:32:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tarifs en crèche : l’État automatise le calcul pour alléger les démarches des professionnels et des familles</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/tarifs-en-creche-letat-automatise-le-calcul-pour-alleger-les-demarches-des-professionnels-et-des-familles/</link>
+      <description>L’article Tarifs en crèche : l’État automatise le calcul pour alléger les démarches des professionnels et des familles est apparu en premier sur Les pros de la petite enfance .</description>
+      <guid isPermaLink="false">520af7078223fa140fb209b79de2d4f0ba5d50a04663ee666d0ef43400ceb3bd</guid>
+      <pubDate>Mon, 13 Jul 2026 08:42:08 +0000</pubDate>
     </item>
     <item>
       <title>L’ADT Ariège Pyrénées recrute son(sa) chargé(e) de communication digitale</title>
       <link>https://www.adn-tourisme.fr/ladt-ariege-pyrenees-recrute-sonsa-chargee-de-communication-digitale/</link>
-      <description>&lt;p&gt;Rejoignez une équipe passionnée et dynamique dédiée à la promotion et au rayonnement de l&amp;#8217;Ariège ! Présentation de la structure L’Agence de Développement Touristique Ariège Pyrénées (ADT), une équipe génératrice d’impulsion, experte et bienveillante, au service de l’attractivité et du rayonnement de la destination, animée par le développement du territoire. Ce qui nous [&amp;#8230;]&lt;/p&gt; &lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/ladt-ariege-pyrenees-recrute-sonsa-chargee-de-communication-digitale/"&gt;L&amp;#8217;ADT Ariège Pyrénées recrute son(sa) chargé(e) de communication digitale&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">a44e1b73510b946cab1dbcffe37c0d4ec8b40f192286fc033b3c20bd43b87468</guid>
+      <description>Rejoignez une équipe passionnée et dynamique dédiée à la promotion et au rayonnement de l’Ariège ! Présentation de la structure L’Agence de Développement Touristique Ariège Pyrénées (ADT), une équipe génératrice d’impulsion, experte et bienveillante, au service de l’attractivité et du rayonnement de la destination, animée par le développement du territoire. Ce qui nous […] The post L’ADT Ariège Pyrénées recrute son(sa) chargé(e) de communication digitale appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">061d9d6d0666a8aab4c039bf5cea35de652d352a63c9ce345ff48f927d1dcdf8</guid>
       <pubDate>Fri, 10 Jul 2026 14:26:58 +0000</pubDate>
     </item>
     <item>
       <title>Responsable de l’accueil touristique (H/F)</title>
       <link>https://www.adn-tourisme.fr/responsable-de-laccueil-touristique-h-f/</link>
-      <description>&lt;p&gt;Rejoignez Dombes Tourisme ! Située dans le département de l&amp;#8217;Ain, la Dombes, région aux milles étangs, est une destination nature reconnue pour sa biodiversité exceptionnelle, ses paysages, son patrimoine et sa gastronomie. Dombes Tourisme est une Société Publique Locale qui assure la promotion, l&amp;#8217;accueil et le développement touristique de la Communauté de Communes de la [&amp;#8230;]&lt;/p&gt; &lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/responsable-de-laccueil-touristique-h-f/"&gt;Responsable de l&amp;#8217;accueil touristique (H/F)&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">dbbfdba3d99beb29cf17aded10eeb1f1f0eb8440f8cf3af3fac01b52268cd5f0</guid>
+      <description>Rejoignez Dombes Tourisme ! Située dans le département de l’Ain, la Dombes, région aux milles étangs, est une destination nature reconnue pour sa biodiversité exceptionnelle, ses paysages, son patrimoine et sa gastronomie. Dombes Tourisme est une Société Publique Locale qui assure la promotion, l’accueil et le développement touristique de la Communauté de Communes de la […] The post Responsable de l’accueil touristique (H/F) appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">f1d6365854345667a5d1086daf39cb390af37fd7e17f44ed2f9f3d9baff17368</guid>
       <pubDate>Fri, 10 Jul 2026 13:55:33 +0000</pubDate>
     </item>
     <item>
       <title>Santé mentale des élèves : le « coupe-file » vers les soins entre en vigueur</title>
       <link>https://www.enfancejeunesseinfos.fr/sante-mentale-des-eleves-le-coupe-file-vers-les-soins-entre-en-vigueur/</link>
       <description>Un parcours unique, trois niveaux d'urgence et un accès prioritaire aux soins. Une circulaire précise, étape par étape, la conduite à tenir lorsqu'un élève présente des signes de souffrance psychique.</description>
-      <guid isPermaLink="false">ca09d5ccf2ec53049266b65e8e0d93346ac05ab0520172dabfa6cd07d889c3b0</guid>
+      <guid isPermaLink="false">68d65c8ef7d4bc0f568a0033989c02987f53e68fa8f0893e5fefeef0faf71bdf</guid>
       <pubDate>Fri, 10 Jul 2026 12:56:00 +0000</pubDate>
     </item>
     <item>
       <title>Face à la canicule, les adhérents d’ADN Tourisme s’adaptent !</title>
       <link>https://www.adn-tourisme.fr/face-a-la-canicule-les-adherents-dadn-tourisme-sadaptent/</link>
-      <description>&lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/face-a-la-canicule-les-adherents-dadn-tourisme-sadaptent/"&gt;Face à la canicule, les adhérents &amp;lt;br&amp;gt; d&amp;#8217;ADN Tourisme s&amp;#8217;adaptent !&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">bd27ecaf203bd8b4b6fb40ec964d19b99fc6f9dbb41ca6d863c33fdfdff36785</guid>
+      <description>The post Face à la canicule, les adhérents &lt;br&gt; d’ADN Tourisme s’adaptent ! appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">336d40b6e0ae413341ee4d3a7d9c4946d3979981b8156acf45a289f599ad0db5</guid>
       <pubDate>Fri, 10 Jul 2026 09:54:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le Conseil de la CNSA appelle le Gouvernement à préparer le choc démographique</title>
+      <link>https://www.cnsa.fr/actualites/le-conseil-de-la-cnsa-appelle-le-gouvernement-preparer-le-choc-demographique</link>
+      <description>À l'approche des arbitrages du Projet de loi de financement de la sécurité sociale (PLFSS) pour 2027, les membres du Conseil de la CNSA appellent le Gouvernement à conforter durablement les moyens de la branche Autonomie. Dans un courrier adressé au Premier ministre, son président, Paul Christophe, défend une politique d'investissement social à la hauteur du vieillissement de la population, des besoins des personnes âgées et des personnes en situation de handicap, et des enjeux d'équité entre les territoires.</description>
+      <guid isPermaLink="false">d14dbb5a8d146398cc649aac4905b12b72c18414bf75b95f3b60417facbc67fb</guid>
+      <pubDate>Thu, 09 Jul 2026 10:23:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le bailleur social : l’affirmation d’un nouvel acteur culturel dans les quartiers populaires ?</title>
+      <link>https://www.observatoire-culture.net/bailleur-social-affirmation-nouvel-acteur-culturel-quartiers-populaires/</link>
+      <description>Fresques, festivals, résidences d’artistes... Longtemps cantonnés à la gestion locative, les bailleurs sociaux s’affirment comme de véritables acteurs culturels des quartiers populaires. Démocratisation, cohésion sociale, image à soigner ou tensions à apaiser : les motivations sont multiples. Mais un défi demeure : faire participer les habitants. L’article Le bailleur social : l’affirmation d’un nouvel acteur culturel dans les quartiers populaires ? est apparu en premier sur Observatoire des politiques culturelles .</description>
+      <guid isPermaLink="false">960cbf8a66c8905320895d1cd3c1938b27b064fc4f67b076e1900145183df78f</guid>
+      <pubDate>Wed, 08 Jul 2026 12:19:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transformation de l’offre handicap : le fonds d’appui accélère le passage à une offre de services coordonnés</title>
+      <link>https://www.cnsa.fr/actualites/transformation-de-loffre-handicap-le-fonds-dappui-accelere-le-passage-une-offre-de</link>
+      <description>Prévu par la Conférence nationale du handicap de 2023, le fonds d’appui à la transformation de l’offre pour les personnes en situation de handicap poursuit son déploiement en 2026. Pensé comme un levier d’ingénierie, et d’investissement immobilier, il accompagne dans les territoires le passage d’une logique de places à une logique de services coordonnés, plus souple, plus lisible et davantage centrée sur les besoins et les choix de vie des personnes.</description>
+      <guid isPermaLink="false">dc485203250fcebce7949c74aabaac1e56f48840ef148e8f7d4ef693b0675a37</guid>
+      <pubDate>Tue, 07 Jul 2026 08:39:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Référent communication et développement commercial</title>
+      <link>https://www.adn-tourisme.fr/referent-communication-et-developpement-commercial/</link>
+      <description>Innovation &amp; Développement Tourisme est une association Loi 1901 qui fédère les Offices de tourisme et les territoires à vocation touristique de la Haute Savoie (OT). Nos missions concernent : la défense des intérêts des OT, la représentation des OT, l’animation et la fédération des OT, la formation et la professionnalisation des acteurs du tourisme, […] The post Référent communication et développement commercial appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">50fb3f1a2a96dbe85d918fc8884e5b01a5c4709b5f14bb3b7af39624026c36b4</guid>
+      <pubDate>Mon, 06 Jul 2026 10:07:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>Responsable du Pôle Qualification de l’offre</title>
+      <link>https://www.adn-tourisme.fr/responsable-du-pole-qualification-de-loffre/</link>
+      <description>Innovation &amp; Développement Tourisme est une association Loi 1901 qui fédère les Offices de tourisme et les territoires à vocation touristique de la Haute Savoie (OT). Nos missions concernent : la défense des intérêts des OT, la représentation des OT, l’animation et la fédération des OT, la formation et la professionnalisation des acteurs du tourisme, […] The post Responsable du Pôle Qualification de l’offre appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">2a5e2c1c773363f2b5a554d92d6e7adb85fedf367f80407f6eefa75980a810f3</guid>
+      <pubDate>Mon, 06 Jul 2026 10:00:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’autopartage pour faciliter les déplacements sur le territoire</title>
+      <link>https://www.adn-tourisme.fr/lautopartage-faciliter-deplacements-territoire/</link>
+      <description>The post L’autopartage pour faciliter &lt;br&gt; les déplacements sur le territoire appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">eb71192800d80eb47a0ad313c4c944146ee856777da5697345306f2f2c11b3cc</guid>
+      <pubDate>Mon, 06 Jul 2026 09:39:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’office de tourisme du Pays Ségali recrute un.e conseiller.e en séjour en alternance</title>
+      <link>https://www.adn-tourisme.fr/loffice-de-tourisme-du-pays-segali-recrute-un-e-conseiller-e-en-sejour-en-alternance/</link>
+      <description>L’office de tourisme Pays Ségali, recherche son/sa futur.e conseiller.e en séjour en alternance. Situé au sud-ouest du département de l’Aveyron, l’office de tourisme Pays Ségali assure ses missions d’accueil, d’information, de promotion et de développement touristique sur un territoire de 23 communes, grâce à une équipe de 4 personnes réparties dans 2 bureaux d’informations (Naucelle […] The post L’office de tourisme du Pays Ségali recrute un.e conseiller.e en séjour en alternance appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">bb31ccd03525e7536af3965a23bbb6d040d19048c78ab1427ce0f2e1def132ad</guid>
+      <pubDate>Mon, 06 Jul 2026 09:37:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>La découvrabilité : un cheval de bataille pour rendre visible les contenus culturels en ligne</title>
+      <link>https://www.observatoire-culture.net/decouvrabilite-cheval-bataille-rendre-visible-contenus-culturels/</link>
+      <description>Si, il y a 20 ans, un contenu bien référencé était aisément trouvable sur le web, aujourd’hui, dans un environnement numérique saturé et envahi par les plateformes, les algorithmes dictent leur loi. Guidés par des stratégies publicitaires, ils orientent ce que voient les usagers. Une tendance qui conduit à invisibiliser une partie des contenus culturels […] L’article La découvrabilité : un cheval de bataille pour rendre visible les contenus culturels en ligne est apparu en premier sur Observatoire des politiques culturelles .</description>
+      <guid isPermaLink="false">8cfef88fd52082e4e0ba506850b4e0a580418b228f52b9fd309b4ee585abbc5a</guid>
+      <pubDate>Mon, 06 Jul 2026 08:56:10 +0000</pubDate>
     </item>
     <item>
       <title>Handicap : le dispositif intégré s'étend dans les établissements pour enfants</title>
       <link>https://www.enfancejeunesseinfos.fr/handicap-le-dispositif-integre-setend-dans-les-etablissements-pour-enfants/</link>
       <description>Sortir d'une logique de places au profit d'une logique de services coordonnés : une instruction du 30 juin fixe les orientations 2026 du Fonds d'appui à la transformation de l'offre médico-sociale et consacre le premier axe de ses financements au champ de l'enfance.</description>
-      <guid isPermaLink="false">a369d2a0c5c1b98dd1c08bbd8ef7364d7b1605c3fbd43614f5f3b2eeba99471f</guid>
+      <guid isPermaLink="false">158e0b4f0ac0b5d6ce29818a706bc5b8db360fea8edf8a1916ff36eba8da0358</guid>
       <pubDate>Fri, 03 Jul 2026 17:08:40 +0000</pubDate>
     </item>
     <item>
       <title>Criminalité organisée : l'identité des professionnels accompagnant les mineurs mieux protégée</title>
       <link>https://www.enfancejeunesseinfos.fr/criminalite-organisee-lidentite-des-professionnels-accompagnant-les-mineurs-mieux-protegee/</link>
       <description>Face aux risques de pressions et de représailles, les professionnels accompagnant des mineurs dans les procédures de criminalité organisée peuvent désormais préserver leur identité. Un décret précise les bénéficiaires, les conditions d'anonymisation et les garanties du dispositif.</description>
-      <guid isPermaLink="false">f9e616ec8721c5d740e50afc5c53d13f14bd4f85cb1c1a231222d26014923e2a</guid>
+      <guid isPermaLink="false">3a2fb5cdc1c6d780cdcd26f30ca29b36df2b770834d64ba560eaeb49ccfc720f</guid>
       <pubDate>Fri, 03 Jul 2026 08:32:51 +0000</pubDate>
     </item>
     <item>
       <title>Canicule : la CNSA s’associe à la plateforme JeVeuxAider.gouv.fr pour mobiliser des bénévoles</title>
       <link>https://www.cnsa.fr/actualites/canicule-la-cnsa-sassocie-la-plateforme-jeveuxaidergouvfr-pour-mobiliser-des-benevoles</link>
-      <description>&lt;a href="https://www.cnsa.fr/actualites/canicule-la-cnsa-sassocie-la-plateforme-jeveuxaidergouvfr-pour-mobiliser-des-benevoles" hreflang="fr"&gt;&lt;img alt="alt" src="https://www.cnsa.fr/sites/default/files/styles/medium/public/2026-07/ACTU_Canicule_JeveuxAider.jpg?itok=QBfVLbKl" /&gt; &lt;/a&gt; &lt;p&gt;En étroite collaboration avec JeVeuxAider.gouv.fr, la CNSA invite les acteurs de ses réseaux à publier leurs missions de bénévolat afin de renforcer l'accompagnement des personnes âgées et des personnes en situation de handicap, particulièrement vulnérables durant les fortes chaleurs.&lt;/p&gt;</description>
+      <description>En étroite collaboration avec JeVeuxAider.gouv.fr, la CNSA invite les acteurs de ses réseaux à publier leurs missions de bénévolat afin de renforcer l'accompagnement des personnes âgées et des personnes en situation de handicap, particulièrement vulnérables durant les fortes chaleurs.</description>
       <guid isPermaLink="false">674f38a6c5156c2d135a6b5214d5025316d9b2d5c845013e5719b622b5bb8261</guid>
       <pubDate>Fri, 03 Jul 2026 06:42:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Christelle Chassagne élue Présidente d’ADN Tourisme</title>
+      <link>https://www.adn-tourisme.fr/christelle-chassagne-elue-presidente-adn-tourisme/</link>
+      <description>The post Christelle Chassagne élue &lt;br&gt; Présidente d’ADN Tourisme appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">0c9c1d8f2976409e424bdedb843d105d036fa4e20cf7408d88f419f7df2b2d2b</guid>
+      <pubDate>Thu, 02 Jul 2026 14:13:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>CAMSP et CMPP : les recommandations de la HAS s'imposent aux établissements</title>
+      <link>https://www.enfancejeunesseinfos.fr/camsp-et-cmpp-les-recommandations-de-la-has-simposent-aux-etablissements/</link>
+      <description>Le niveau d'exigence des centres d'action médico-sociale précoce (CAMSP) et des centres médico-psycho-pédagogiques (CMPP). Contrôles, évaluations et coopérations évoluent, tandis que les recommandations de la Haute Autorité de santé (HAS) deviennent « opposables ».</description>
+      <guid isPermaLink="false">20a96fa4444041a015b497fd1c6f12c0cb29844681e29ea582b99a68d9464b77</guid>
+      <pubDate>Thu, 02 Jul 2026 06:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>2025, une année de consolidation de la branche Autonomie</title>
+      <link>https://www.cnsa.fr/actualites/2025-une-annee-de-consolidation-de-la-branche-autonomie</link>
+      <description>En 2025, la branche Autonomie a franchi une étape décisive dans sa structuration et son ancrage territorial. Face à une population vieillissante, à la hausse continue des demandes adressées aux maisons départementales des personnes handicapées (MDPH) et aux attentes des aidants, l’accès effectif aux droits reste une priorité.</description>
+      <guid isPermaLink="false">d983a32d0adeca0e115d68b855bc1ad1ddebaf95159ec95ab68d9a91bff89664</guid>
+      <pubDate>Tue, 30 Jun 2026 08:42:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Décentralisation culturelle : clarifier les compétences ou brider la coopération ?</title>
+      <link>https://www.observatoire-culture.net/decentralisation-culturelle-clarifier-competences-brider-cooperation/</link>
+      <description>Dans le Livre blanc de la décentralisation culturelle, publié début 2026, une quarantaine d’associations d’élus, de collectivités et de professionnels avancent des propositions pour refonder l’organisation territoriale des politiques publiques de la culture. Dans ce contexte, Emmanuel Wallon s’interroge plus particulièrement sur la question des « compétences partagées » des collectivités territoriales : veut-on simplifier et clarifier leurs attributions, ou brider et brader la coopération ? L’article Décentralisation culturelle : clarifier les compétences ou brider la coopération ? est apparu en premier sur Observatoire des politiques culturelles .</description>
+      <guid isPermaLink="false">b3224919da1f07afbae1111cf813a7c1994272f3e72a77c9c76c6cb992bffc72</guid>
+      <pubDate>Tue, 30 Jun 2026 08:38:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>APL : les associations redoutent une précarisation de milliers d'étudiants étrangers</title>
+      <link>https://www.enfancejeunesseinfos.fr/apl-les-associations-redoutent-une-precarisation-de-milliers-detudiants-etrangers/</link>
+      <description>Un décret publié le 28 juin au Journal officiel supprime les APL des étudiants non européens et non boursiers à compter du 1ᵉʳ juillet. Neuf organisations dénoncent une réforme imposée malgré l'avis défavorable unanime du Conseil national de l'habitat.</description>
+      <guid isPermaLink="false">b397df8402dcb323b7fecd4123de7695e0732bbc8a9e5ea16e0ba3e8fb6e49c4</guid>
+      <pubDate>Mon, 29 Jun 2026 16:18:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un podcast réalisé avec des étudiants</title>
+      <link>https://www.adn-tourisme.fr/podcast-etudiants-tourisme/</link>
+      <description>The post Un podcast réalisé avec des étudiants appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">d2ef349e71c943a9e4d70f646a74f0e7dd1ac5886d892b2fa724ceca4fcc522e</guid>
+      <pubDate>Mon, 29 Jun 2026 13:25:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jeunes majeurs sortant de l'ASE : l'État répartit près de 50 M€ entre les départements</title>
+      <link>https://www.enfancejeunesseinfos.fr/jeunes-majeurs-sortant-de-lase-letat-repartit-pres-de-50-meur-entre-les-departements/</link>
+      <description>Un arrêté du 23 juin 2026 fixe la répartition de 49,75 M€ entre les départements pour financer l'accompagnement des jeunes majeurs sortant de l'aide sociale à l'enfance. Il prévoit aussi un nouveau mode de calcul des dotations à partir de 2027.</description>
+      <guid isPermaLink="false">90827aa19f1608d2bb8bf4f0fa47cf8fc6af35974ae91d6d1826133aa7fbeed7</guid>
+      <pubDate>Thu, 25 Jun 2026 14:40:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Edgar Morin, compagnon de l’humanité</title>
+      <link>https://www.observatoire-culture.net/edgar-morin-compagnon-humanite/</link>
+      <description>Edgar Morin s’en est allé et laisse derrière lui une œuvre colossale. C’est à ce géant de la pensée que Jean-Pierre Saez, ancien directeur de l’Observatoire des politiques culturelles, rend hommage dans ces lignes. Mais également au résistant, à l’ami et au penseur avec lequel il a cheminé si longtemps, à l’OPC et dans la vie. L’article Edgar Morin, compagnon de l’humanité est apparu en premier sur Observatoire des politiques culturelles .</description>
+      <guid isPermaLink="false">168932887f4a8febafb87ba58454c62dc3a7b3876ec1e3368c68a922b39873fc</guid>
+      <pubDate>Thu, 25 Jun 2026 07:24:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Justice des mineurs : un décret actualise les règles de financement de plusieurs dispositifs éducatifs</title>
+      <link>https://www.enfancejeunesseinfos.fr/justice-des-mineurs-un-decret-actualise-les-regles-de-financement-de-plusieurs-dispositifs-educatifs/</link>
+      <description>Un décret publié au Journal officiel met à jour plusieurs dispositions du code de l'action sociale et des familles (CASF) afin de les aligner sur le code de la justice pénale des mineurs (CJPM).</description>
+      <guid isPermaLink="false">32b9b1481250cbf02310d01820d81b7cecc330103ab125c6e425bb0175693551</guid>
+      <pubDate>Tue, 23 Jun 2026 05:08:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>ASE : le Conseil d’État écarte l’argument de la saturation pour refuser l’hébergement d’un jeune majeur</title>
+      <link>https://www.enfancejeunesseinfos.fr/ase-le-conseil-detat-ecarte-largument-de-la-saturation-pour-refuser-lhebergement-dun-jeune-majeur/</link>
+      <description>Un département peut-il invoquer le manque de places disponibles pour ne pas héberger un jeune majeur relevant encore de l’aide sociale à l’enfance ? Dans une ordonnance rendue en référé, le Conseil d’État rappelle que la saturation d’un dispositif ne suffit pas si elle n’est pas démontrée.</description>
+      <guid isPermaLink="false">5e403c1db2c414fb0a109191d960d130cf55d5cbbd285dcb77ba74bdfc59519e</guid>
+      <pubDate>Mon, 22 Jun 2026 06:34:23 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ouverture des bars après minuit : du droit à la convivialité et à la culture comme conditions de la démocratie</title>
+      <link>https://www.observatoire-culture.net/ouverture-bars-apres-minuit-droit-convivialite/</link>
+      <description>En Seine-Saint-Denis, un arrêté préfectoral impose une fermeture des bars à minuit alors que cette autorisation est fixée à 2h du matin à Paris. Deux heures d’écart en apparence anodines, mais qui impactent pourtant lourdement la vie sociale, la convivialité et la culture. Pour Vito Marinese, les bars sont des lieux essentiels à la démocratie et au vivre ensemble : après avoir travaillé, fait nos corvées et s’être reposé, combien de temps nous reste-t-il pour faire société ? L’article Ouverture des bars après minuit : du droit à la convivialité et à la culture comme conditions de la démocratie est apparu en premier sur Observatoire des politiques culturelles .</description>
+      <guid isPermaLink="false">b3cad5a9bfbe751f7200f4b34451ec0e095e3fdaf29356c6d9f49281c2ae65eb</guid>
+      <pubDate>Thu, 18 Jun 2026 08:27:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Du repérage aux soins : le nouveau parcours coordonné des enfants en situation de handicap</title>
+      <link>https://www.enfancejeunesseinfos.fr/du-reperage-aux-soins-le-nouveau-parcours-coordonne-des-enfants-en-situation-de-handicap/</link>
+      <description>Destiné aux enfants et aux jeunes présentant ou susceptibles de présenter un handicap, le nouveau service de repérage précoce entre dans sa phase opérationnelle. Une instruction interministérielle en précise l'organisation, le financement et les modalités de déploiement dans les territoires.</description>
+      <guid isPermaLink="false">08d27388b0e50c45d097aaf64581f118342143328d721af985d8e3589b418e44</guid>
+      <pubDate>Tue, 16 Jun 2026 05:12:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>« Manque de mobilisation », « posture de défiance » : ces motifs ne peuvent pas justifier une fin de contrat jeune majeur</title>
+      <link>https://www.enfancejeunesseinfos.fr/manque-de-mobilisation-posture-de-defiance-ces-motifs-ne-peuvent-pas-justifier-une-fin-de-contrat-jeune-majeur/</link>
+      <description>Le tribunal administratif de Nantes a enjoint un département de reprendre sans délai la prise en charge d'un jeune majeur de 20 ans dont il avait rompu le contrat jeune majeur en invoquant son attitude et son manque supposé d'implication dans certaines démarches.</description>
+      <guid isPermaLink="false">dc4ffde34b78c0f6de93478de0be57d692c3a5caa08be708e454ac35218190c1</guid>
+      <pubDate>Mon, 15 Jun 2026 06:43:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MNA : le Conseil d'État impose la prise en charge malgré un jugement de majorité</title>
+      <link>https://www.enfancejeunesseinfos.fr/mna-le-conseil-detat-impose-la-prise-en-charge-malgre-un-jugement-de-majorite/</link>
+      <description>Entre un jugement de majorité et une décision d'appel, la protection d'un mineur non accompagné (MNA) ne s'interrompt pas automatiquement. Le Conseil d'État confirme qu'un département doit maintenir l'hébergement lorsqu'un doute sérieux subsiste sur l'âge du jeune.</description>
+      <guid isPermaLink="false">56bd34c0115277e88591b78d3df18b05a33288392874a691402d188280102c44</guid>
+      <pubDate>Mon, 15 Jun 2026 06:40:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>De la restitution à la réappropriation : enjeux actuels du patrimoine postcolonial</title>
+      <link>https://www.observatoire-culture.net/restitution-reappropriation-enjeux-patrimoine-postcolonial/</link>
+      <description>Le 13 avril 2026, l'Assemblée nationale adoptait à l'unanimité une loi-cadre facilitant la restitution des biens culturels spoliés durant la période coloniale. Une avancée historique qui laisse néanmoins de côté la question plus profonde de leur réappropriation par les sociétés d’origine. Pour Kévin Lebrun, s’appuyer sur la Convention de Faro permettrait d’ouvrir une seconde étape afin que cette restitution ne soit pas envisagée uniquement comme une affaire d’États. L’article De la restitution à la réappropriation : enjeux actuels du patrimoine postcolonial est apparu en premier sur Observatoire des politiques culturelles .</description>
+      <guid isPermaLink="false">102a91c75863fb24d631bd29b13cfe491bcbcc73d867951d161dbea98e942aee</guid>
+      <pubDate>Fri, 12 Jun 2026 07:22:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>La CNSA signe deux conventions pour soutenir la formation des professionnels de l’autonomie</title>
+      <link>https://www.cnsa.fr/actualites/la-cnsa-signe-deux-conventions-pour-soutenir-la-formation-des-professionnels-de</link>
+      <description>La formation des professionnels du secteur de l’autonomie se voit renforcée par deux nouvelles conventions, l’une avec OPCO Santé, l’autre avec Uniformation. Elles visent à soutenir le développement des compétences des professionnels exerçant dans les établissements et services accompagnant les personnes âgées dépendantes et les personnes en situation de handicap.</description>
+      <guid isPermaLink="false">e2dc16eee93f758fca21effe0f50e9426395545327e0016bae8af75e48dfde55</guid>
+      <pubDate>Thu, 11 Jun 2026 13:37:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autisme : La CNSA mobilisée aux côtés de la DITND pour améliorer l’accompagnement des adultes autistes en situation très complexe</title>
+      <link>https://www.cnsa.fr/actualites/autisme-la-cnsa-mobilisee-aux-cotes-de-la-ditnd-pour-ameliorer-laccompagnement-des</link>
+      <description>En 2024, la CNSA a lancé une étude évaluative des premières unités résidentielles pour adultes autistes en situation très complexe (URTSA) afin de soutenir le déploiement de cette offre spécifique et d’éclairer les travaux de révision de son cahier des charges, conduits par la Délégation interministérielle à la stratégie pour les troubles du neurodéveloppement (DITND).</description>
+      <guid isPermaLink="false">1b625a41483a0fb9df80ad09c81b3eb8e9539868b8f754e24d3b8da9df9f302b</guid>
+      <pubDate>Thu, 11 Jun 2026 10:24:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Publication de l’étude sur la préfiguration des pôles d’appui à la scolarité</title>
+      <link>https://www.cnsa.fr/actualites/publication-de-letude-sur-la-prefiguration-des-poles-dappui-la-scolarite</link>
+      <description>La CNSA publie l’étude consacrée à l’analyse des pratiques professionnelles mises en œuvre dans les 4 départements engagés dans la phase de préfiguration des pôles d’appui à la scolarité (PAS) : Aisne, Côte-d’Or, Eure-et-Loir et Var.</description>
+      <guid isPermaLink="false">bb0f4e9b9c2e618715735419c68b4d8a5d5669d42da1dd1b0d753e9eefe3cdbd</guid>
+      <pubDate>Wed, 10 Jun 2026 14:00:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Délégation d’autorité parentale : l’ASE face à l’obligation d’informer le mineur</title>
+      <link>https://www.enfancejeunesseinfos.fr/delegation-dautorite-parentale-lase-face-a-lobligation-dinformer-le-mineur/</link>
+      <description>Qui doit informer un enfant de son droit à être entendu lorsque l’exercice de l’autorité parentale a été entièrement délégué au département ? La Cour de cassation précise les obligations du service gardien et le contrôle exercé par les juges.</description>
+      <guid isPermaLink="false">9c1915f3a3c9ac965b50ba5b699cccf728ff0acfdb7486e0360ab5631e75c62b</guid>
+      <pubDate>Mon, 08 Jun 2026 06:50:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Écoles d’art et de design : ces lieux de l’inattendu</title>
+      <link>https://www.observatoire-culture.net/ecoles-art-design-lieux-inattendu/</link>
+      <description>En mai 2025, les présidentes et présidents des écoles supérieures d’art et de design publiques tiraient la sonnette d’alarme : si rien n’est fait, celles-ci risquent de disparaître les unes après les autres. Pour Jérôme Delormas, il y a non seulement urgence à revoir leur modèle économique mais aussi à mieux faire reconnaître leur singularité, loin de tout formatage académique. Car ce sont, rappelle-t-il, dans ces lieux de l’inattendu que s’inventent de nouveaux regards sur nos sociétés. L’article Écoles d’art et de design : ces lieux de l’inattendu est apparu en premier sur Observatoire des politiques culturelles .</description>
+      <guid isPermaLink="false">d73d61109e89d3144d2a6a66f2e1dae8d294ff3f6a8752a76c613222a12381af</guid>
+      <pubDate>Wed, 03 Jun 2026 19:04:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Campagne budgétaire 2026 des établissements de santé : les priorités pour les enfants et les jeunes</title>
+      <link>https://www.enfancejeunesseinfos.fr/campagne-budgetaire-2026-des-etablissements-de-sante-les-priorites-pour-les-enfants-et-les-jeunes/</link>
+      <description>Près de 34 milliards d'euros sont délégués aux établissements de santé dans la première circulaire budgétaire 2026. Pédopsychiatrie, autisme, TDAH, enfants témoins de féminicides ou mineurs de retour de zones de conflit figurent parmi les priorités financées par le gouvernement.</description>
+      <guid isPermaLink="false">310c54df5a50b18b8f76c82013e83555d2528bd579e3d3e73dfdce3abcc9a6f1</guid>
+      <pubDate>Wed, 03 Jun 2026 07:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>En 2024, les CMPP ont accompagné plus de 141 000 enfants et adolescents</title>
+      <link>https://www.cnsa.fr/actualites/en-2024-les-cmpp-ont-accompagne-plus-de-141-000-enfants-et-adolescents</link>
+      <description>Le n° 28 des Repères statistiques présente un bilan de l’activité des 482 centres médico-psychopédagogiques (CMPP) recensés en France en 2024. Si le nombre d’enfants et d’adolescents accompagnés diminue de 2 % par rapport à 2023, dans la continuité du recul progressif observé depuis 2017, cette baisse ne traduit toutefois pas une réduction de l’activité des CMPP.</description>
+      <guid isPermaLink="false">5c732624d8d4256721d793444803705c88fc6441db66b5cb3c14448578eb8cfa</guid>
+      <pubDate>Tue, 02 Jun 2026 12:51:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>La métropolisation des politiques culturelles</title>
+      <link>https://www.observatoire-culture.net/metropolisation-politiques-culturelles/</link>
+      <description>Avec les années 2000 et l’essor de la globalisation, les grandes villes se transforment en « centres de commandement culturel ». L’investissement financier dans la culture devient un indicateur du rang que veulent tenir ces capitales régionales. Un phénomène de métropolisation qui s’accompagne de tensions qu’elles peinent à résoudre. Le concept de « ville créative » s’impose comme un […] L’article La métropolisation des politiques culturelles est apparu en premier sur Observatoire des politiques culturelles .</description>
+      <guid isPermaLink="false">e375cd8a347afbbfe3b9f57a033b015d0b23c531017a37d79eae66754992529c</guid>
+      <pubDate>Thu, 28 May 2026 07:52:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comptes 2025 : la Cour des comptes certifie la branche Autonomie</title>
+      <link>https://www.cnsa.fr/actualites/comptes-2025-la-cour-des-comptes-certifie-la-branche-autonomie</link>
+      <description>Réuni le 19 mai, le Conseil de la CNSA a examiné le rapport de certification des comptes 2025 présenté par la Cour des comptes, en présence de ses membres. Les comptes ont ensuite été présentés puis approuvés. La Cour les a certifiés, à l’instar de ceux des branches du régime général de la Sécurité sociale et du Conseil de la protection sociale des travailleurs indépendants. Elle a salué les progrès accomplis par la CNSA dans la sécurisation de ses procédures comptables et financiers. Créée en 2020, la branche Autonomie confirme ainsi la fiabilité croissante de sa gestion.</description>
+      <guid isPermaLink="false">9784d04c4412215c7f97cd63536b573dba18280707421cf58b555d5328f51946</guid>
+      <pubDate>Tue, 19 May 2026 09:56:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>La CNSA à SantExpo : trois conférences emblématiques à ne pas manquer</title>
+      <link>https://www.cnsa.fr/actualites/la-cnsa-santexpo-trois-conferences-emblematiques-ne-pas-manquer</link>
+      <description>La Caisse nationale de solidarité pour l’autonomie sera présente au salon SantExpo, organisé du 19 au 21 mai 2026 à Paris Expo Porte de Versailles. À cette occasion, la CNSA participera à trois conférences : les apports du service public de l’autonomie (SPDA) pour faciliter les sorties d’hospitalisation, les enjeux de la donnée avec Data Autonomie, et la réforme tarifaire SERAFIN PH.</description>
+      <guid isPermaLink="false">e63ccc9b229e20e8b5cb89d0e2b085ecad39f8057730edfe7b02a37818413523</guid>
+      <pubDate>Mon, 18 May 2026 08:51:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>La CNSA renforce son soutien auprès des fédérations du domicile avec un nouveau programme de conventionnement</title>
+      <link>https://www.cnsa.fr/actualites/la-cnsa-renforce-son-soutien-aupres-des-federations-du-domicile-avec-un-nouveau</link>
+      <description>En 2026, la CNSA fait évoluer son programme de conventionnement, qu’elle conduit auprès des fédérations et têtes de réseau du secteur du domicile depuis 2008. Dans ce cadre renouvelé, elle a signé en début d’année deux nouvelles conventions d’accompagnement avec la FEHAP et NEXEM.</description>
+      <guid isPermaLink="false">737d5ed1573196aa68d51224dde15bef659bae23b66defa53f37a5bb4e8fae62</guid>
+      <pubDate>Tue, 28 Apr 2026 10:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prévention de la perte d’autonomie : 2024, une année charnière pour la structuration et l’investissement</title>
+      <link>https://www.cnsa.fr/actualites/prevention-de-la-perte-dautonomie-2024-une-annee-charniere-pour-la-structuration-et</link>
+      <description>Dans un contexte de vieillissement de la population et de tension croissante sur les ressources, la prévention de la perte d’autonomie s’impose comme un levier de réduction des risques et des inégalités. En 2024, 293 millions d’euros ont ainsi été mobilisés dans le cadre des commissions des financeurs de la perte d’autonomie (CFPPA), confirmant leur rôle central dans le pilotage territorial de la prévention.</description>
+      <guid isPermaLink="false">741ac54a6876b10a98acbd8ebc6c2960a855132d1bdd6c3ce18d72f47ba37ecd</guid>
+      <pubDate>Wed, 22 Apr 2026 08:22:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>La CNSA mobilise 207 millions d’euros en 2026 en soutien de la préservation de l’autonomie des personnes âgées de 60 ans et plus</title>
+      <link>https://www.cnsa.fr/actualites/la-cnsa-mobilise-207-millions-deuros-en-2026-en-soutien-de-la-preservation-de-lautonomie</link>
+      <description>En 2026, la CNSA renforce son soutien aux départements à travers ses deux concours « Forfait autonomie » et « Autres actions de prévention ». Ces financements sont complétés par un appui technique de la CNSA auprès des 101 commissions des financeurs de la prévention de la perte d’autonomie (CFPPA), qui bénéficient également de l’accompagnement du Centre de ressources et de preuves (CRP) afin de développer des actions de prévention toujours plus qualitatives et efficaces.</description>
+      <guid isPermaLink="false">040ab2a26ad06aaf2258eb528c7e9446988ff1d29a32c42d3889cd6909cb2e5f</guid>
+      <pubDate>Tue, 21 Apr 2026 07:57:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le Conseil de la CNSA élit Paul Christophe à sa présidence et adopte le premier budget rectificatif 2026 de la branche Autonomie</title>
+      <link>https://www.cnsa.fr/actualites/le-conseil-de-la-cnsa-elit-paul-christophe-sa-presidence-et-adopte-le-premier-budget</link>
+      <description>En présence de Camille Galliard-Minier, ministre déléguée chargée de l'Autonomie et des Personnes handicapées, le Conseil de la Caisse nationale de solidarité pour l'autonomie (CNSA) a élu Paul Christophe à sa présidence, succédant à Jean-René Lecerf dont le mandat s'achève après quatre années d'engagement continu pour la branche.</description>
+      <guid isPermaLink="false">ebdd18ee60797ca555f6b7353ebdceb81dc1aa4256a2531268b7d98a8928be24</guid>
+      <pubDate>Wed, 08 Apr 2026 16:55:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Prix des EHPAD en 2024 : un écart important entre les chambres habilitées à l’aide sociale et les autres</title>
+      <link>https://www.cnsa.fr/actualites/prix-des-ehpad-en-2024-un-ecart-important-entre-les-chambres-habilitees-laide-sociale-et</link>
+      <description>En 2024, les prix de l’hébergement en établissement d’hébergement pour personnes âgées dépendantes (EHPAD) continuent d’augmenter davantage que l’inflation. Ils varient fortement selon les territoires, le statut juridique, la taille et la localisation géographique des établissements expliquant ces différences.</description>
+      <guid isPermaLink="false">9b397d71fb3f238c81143f38ec4ae382512ddc20c8fb848d1d9802f7a1862e10</guid>
+      <pubDate>Wed, 01 Apr 2026 08:27:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>La CNSA sélectionne 12 projets pour renforcer le repérage et l’accompagnement des jeunes aidants</title>
+      <link>https://www.cnsa.fr/actualites/la-cnsa-selectionne-12-projets-pour-renforcer-le-reperage-et-laccompagnement-des-jeunes</link>
+      <description>La CNSA place l’adaptation de l’offre de soutien aux proches aidants et sa couverture territoriale au cœur de l’action de la branche Autonomie. À l’issue d’un appel à projets lancé en novembre, 12 projets ont été sélectionnés sur l’ensemble du territoire pour mener des actions à destination des jeunes aidants.</description>
+      <guid isPermaLink="false">05a752ace823dfb44fc310393f862c2895f940619c5dece4c8b15d90a046a20c</guid>
+      <pubDate>Mon, 30 Mar 2026 14:22:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Campagnes de transmission des comptes administratifs et des ERRD 2025</title>
+      <link>https://www.cnsa.fr/actualites/campagnes-de-transmission-des-comptes-administratifs-et-des-errd-2025</link>
+      <description>Les gestionnaires d’établissements et services médico-sociaux peuvent déposer leurs documents budgétaires et financiers dans les plateformes ImportCA et ImportERRD. Chaque année, les établissements et services médico-sociaux transmettent à leurs autorités de tarification leur compte administratif (CA) ou leur état réalisé des recettes et des dépenses (ERRD).</description>
+      <guid isPermaLink="false">b3d84e821ea38dc1abeef868e9a43d96ff05f875e1cfd65cc39541f85112b56b</guid>
+      <pubDate>Tue, 24 Mar 2026 17:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le plan national « 50 000 solutions » : des avancées tangibles</title>
+      <link>https://www.cnsa.fr/actualites/le-plan-national-50-000-solutions-des-avancees-tangibles</link>
+      <description>Le plan national « 50 000 solutions », annoncé par le président de la République lors de la Conférence nationale du handicap de 2023, marque une étape structurante de la politique publique du handicap, avec une ambition forte : apporter des réponses concrètes, adaptées et durables aux besoins des enfants et des adultes en situation de handicap, à tous les moments de leur vie.</description>
+      <guid isPermaLink="false">df31750c8a645f9b5fd3e2ec46a401167855984b807baa78aa6fb6759ce48a27</guid>
+      <pubDate>Fri, 20 Mar 2026 14:07:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>La CNSA renforce son appui à la transformation de l’offre PH avec 37 conseillers dédiés recrutés par les agences régionales de santé</title>
+      <link>https://www.cnsa.fr/actualites/la-cnsa-renforce-son-appui-la-transformation-de-loffre-ph-avec-37-conseillers-dedies</link>
+      <description>Pour accélérer la transformation de l’offre médico sociale au bénéfice des personnes en situation de handicap, la CNSA structure et anime un réseau de conseillers en transformation de l’offre (CTO) intégrés directement au sein des agences régionales de santé (ARS). Ce réseau s’est réuni pour la première fois en présentiel ce jeudi à l’occasion d’un séminaire national.</description>
+      <guid isPermaLink="false">f132bd1491002d35c7cead52474c1b8db6e3e83b752e3e7d6073e8be507cf208</guid>
+      <pubDate>Fri, 20 Mar 2026 11:11:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>La CNSA lance une expérimentation avec 11 MDPH pour tester des solutions d’intelligence artificielle (IA)</title>
+      <link>https://www.cnsa.fr/actualites/la-cnsa-lance-une-experimentation-avec-11-mdph-pour-tester-des-solutions-dintelligence</link>
+      <description>Engagée dans l’identification de solutions innovantes pour renforcer le service aux usagers et faciliter le travail des professionnels, la CNSA accompagnera en 2026 11 maisons départementales des personnes handicapées (MDPH) dans une expérimentation en conditions réelles pour tester 2 cas d’usages optimisés par l’IA.</description>
+      <guid isPermaLink="false">e6bb7147cff7e11615e368e2c24698f4e376ddbeacf8c9425c0d207c068a80c1</guid>
+      <pubDate>Wed, 11 Mar 2026 15:44:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Interfel</title>
+      <link>https://www.snrc.fr/2023/04/03/interfel/</link>
+      <description>L’article Interfel est apparu en premier sur SNRC .</description>
+      <guid isPermaLink="false">1892ac64e2ccf09e6ee1ddeec7f883a67c5d27db4156bcde6045bb83f9965e51</guid>
+      <pubDate>Mon, 03 Apr 2023 09:25:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bonjour tout le monde !</title>
+      <link>https://www.snrc.fr/2021/06/30/bonjour-tout-le-monde/</link>
+      <description>Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire ! L’article Bonjour tout le monde ! est apparu en premier sur SNRC .</description>
+      <guid isPermaLink="false">8faadaf0f6fe24fe543950045b787f8f5b0de22cea703a7ce4ce4b0ca78e86bf</guid>
+      <pubDate>Wed, 30 Jun 2021 09:14:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

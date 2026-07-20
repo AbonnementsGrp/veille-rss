@@ -1,64 +1,84 @@
 {
-  "generated_at": "2026-07-20T14:58:03.904924+00:00",
+  "generated_at": "2026-07-20T15:05:39.800881+00:00",
   "sites_total": 8,
   "sites_ok": 6,
   "sites_error": 2,
-  "new_items": 10,
+  "new_items": 47,
   "merged_items": 67,
   "sites": [
     {
       "site": "CNSA - Actualités",
+      "url": "https://www.cnsa.fr/actualites",
       "status": "ok",
-      "method": "official_feed",
+      "method": "flux officiel",
       "items": 20,
-      "feed": "cnsa.xml"
+      "feed": "cnsa.xml",
+      "source_feed": "https://www.cnsa.fr/flux-rss.xml/article"
     },
     {
       "site": "Enfance & Jeunesse Infos - Veille juridique",
+      "url": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/",
       "status": "ok",
-      "method": "official_feed",
+      "method": "flux officiel",
       "items": 15,
-      "feed": "enfance-jeunesse-veille-juridique.xml"
+      "feed": "enfance-jeunesse-veille-juridique.xml",
+      "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/"
     },
     {
       "site": "Les Pros de la Petite Enfance",
+      "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
       "status": "ok",
-      "method": "official_feed",
+      "method": "flux détecté",
       "items": 10,
-      "feed": "pros-petite-enfance.xml"
+      "feed": "pros-petite-enfance.xml",
+      "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/"
     },
     {
       "site": "Observatoire de la culture",
+      "url": "https://www.observatoire-culture.net/",
       "status": "ok",
-      "method": "official_feed",
+      "method": "flux détecté",
       "items": 10,
-      "feed": "observatoire-culture.xml"
+      "feed": "observatoire-culture.xml",
+      "source_feed": "https://www.observatoire-culture.net/feed/"
     },
     {
       "site": "ADN Tourisme",
+      "url": "https://www.adn-tourisme.fr/publications/actus/",
       "status": "ok",
-      "method": "official_feed",
+      "method": "flux détecté",
       "items": 10,
-      "feed": "adn-tourisme.xml"
+      "feed": "adn-tourisme.xml",
+      "source_feed": "https://www.adn-tourisme.fr/feed/"
     },
     {
       "site": "C2L Solutions - Restauration collective",
+      "url": "https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/",
       "status": "error",
-      "error": "Aucun article détecté",
-      "feed": "c2l-restauration-collective.xml"
+      "method": "échec",
+      "items": 0,
+      "feed": "c2l-restauration-collective.xml",
+      "error": "Flux RSS invalide : <unknown>:12:26: not well-formed (invalid token)",
+      "source_feed": "https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/feed/"
     },
     {
       "site": "SNRC",
+      "url": "https://www.snrc.fr/le-snrc/actualites-snrc/",
       "status": "ok",
-      "method": "official_feed",
+      "method": "flux détecté",
       "items": 2,
-      "feed": "snrc.xml"
+      "feed": "snrc.xml",
+      "source_feed": "https://www.snrc.fr/feed/"
     },
     {
       "site": "ANAP - Actualités",
+      "url": "https://www.anap.fr/s/actualites",
       "status": "error",
-      "error": "Aucun article détecté",
-      "feed": "anap.xml"
+      "method": "échec",
+      "items": 0,
+      "feed": "anap.xml",
+      "error": "Aucun article détecté sur la page",
+      "source_feed": ""
     }
   ]
 }

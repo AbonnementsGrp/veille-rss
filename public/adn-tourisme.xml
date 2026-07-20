@@ -2,80 +2,81 @@
 <rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
   <channel>
     <title>ADN Tourisme</title>
-    <link>https://www.adn-tourisme.fr/publications/actus/</link>
+    <link>https://abonnementsgrp.github.io/veille-rss/adn-tourisme.xml</link>
     <description>Actualités de ADN Tourisme</description>
+    <atom:link href="https://abonnementsgrp.github.io/veille-rss/adn-tourisme.xml" rel="self"/>
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 20 Jul 2026 14:57:56 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 20 Jul 2026 15:05:32 +0000</lastBuildDate>
     <item>
       <title>Aude Tourisme recrute sa/son Directrice / Directeur</title>
       <link>https://www.adn-tourisme.fr/aude-tourisme-recrute-sa-son-directrice-directeur/</link>
-      <description>&lt;p&gt;Avec la stratégie touristique départementale 2023-2028, le Conseil Départemental de l’Aude a acté son ambition d’impulser un nouveau modèle touristique qui régénère le territoire et s’engage « positivement » dans les transitions. Outil technique du Département, l’ADT de l’Aude déploie cette stratégie et s’attache à prendre en compte les transitions dans ses différents projets. Composée [&amp;#8230;]&lt;/p&gt; &lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/aude-tourisme-recrute-sa-son-directrice-directeur/"&gt;Aude Tourisme recrute sa/son Directrice / Directeur&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">6461e871b6e0598dbf62187a5c0c2165d66ad22a6bff2b1e977e985af14aaf80</guid>
+      <description>Avec la stratégie touristique départementale 2023-2028, le Conseil Départemental de l’Aude a acté son ambition d’impulser un nouveau modèle touristique qui régénère le territoire et s’engage « positivement » dans les transitions. Outil technique du Département, l’ADT de l’Aude déploie cette stratégie et s’attache à prendre en compte les transitions dans ses différents projets. Composée […] The post Aude Tourisme recrute sa/son Directrice / Directeur appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">d930efa58649a278823f0a99adfaae8e4a6d552c8340ba5dd9a1a328507b60bf</guid>
       <pubDate>Thu, 16 Jul 2026 13:11:35 +0000</pubDate>
     </item>
     <item>
       <title>L’ADT Ariège Pyrénées recrute son(sa) chargé(e) de communication digitale</title>
       <link>https://www.adn-tourisme.fr/ladt-ariege-pyrenees-recrute-sonsa-chargee-de-communication-digitale/</link>
-      <description>&lt;p&gt;Rejoignez une équipe passionnée et dynamique dédiée à la promotion et au rayonnement de l&amp;#8217;Ariège ! Présentation de la structure L’Agence de Développement Touristique Ariège Pyrénées (ADT), une équipe génératrice d’impulsion, experte et bienveillante, au service de l’attractivité et du rayonnement de la destination, animée par le développement du territoire. Ce qui nous [&amp;#8230;]&lt;/p&gt; &lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/ladt-ariege-pyrenees-recrute-sonsa-chargee-de-communication-digitale/"&gt;L&amp;#8217;ADT Ariège Pyrénées recrute son(sa) chargé(e) de communication digitale&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">a44e1b73510b946cab1dbcffe37c0d4ec8b40f192286fc033b3c20bd43b87468</guid>
+      <description>Rejoignez une équipe passionnée et dynamique dédiée à la promotion et au rayonnement de l’Ariège ! Présentation de la structure L’Agence de Développement Touristique Ariège Pyrénées (ADT), une équipe génératrice d’impulsion, experte et bienveillante, au service de l’attractivité et du rayonnement de la destination, animée par le développement du territoire. Ce qui nous […] The post L’ADT Ariège Pyrénées recrute son(sa) chargé(e) de communication digitale appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">061d9d6d0666a8aab4c039bf5cea35de652d352a63c9ce345ff48f927d1dcdf8</guid>
       <pubDate>Fri, 10 Jul 2026 14:26:58 +0000</pubDate>
     </item>
     <item>
       <title>Responsable de l’accueil touristique (H/F)</title>
       <link>https://www.adn-tourisme.fr/responsable-de-laccueil-touristique-h-f/</link>
-      <description>&lt;p&gt;Rejoignez Dombes Tourisme ! Située dans le département de l&amp;#8217;Ain, la Dombes, région aux milles étangs, est une destination nature reconnue pour sa biodiversité exceptionnelle, ses paysages, son patrimoine et sa gastronomie. Dombes Tourisme est une Société Publique Locale qui assure la promotion, l&amp;#8217;accueil et le développement touristique de la Communauté de Communes de la [&amp;#8230;]&lt;/p&gt; &lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/responsable-de-laccueil-touristique-h-f/"&gt;Responsable de l&amp;#8217;accueil touristique (H/F)&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">dbbfdba3d99beb29cf17aded10eeb1f1f0eb8440f8cf3af3fac01b52268cd5f0</guid>
+      <description>Rejoignez Dombes Tourisme ! Située dans le département de l’Ain, la Dombes, région aux milles étangs, est une destination nature reconnue pour sa biodiversité exceptionnelle, ses paysages, son patrimoine et sa gastronomie. Dombes Tourisme est une Société Publique Locale qui assure la promotion, l’accueil et le développement touristique de la Communauté de Communes de la […] The post Responsable de l’accueil touristique (H/F) appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">f1d6365854345667a5d1086daf39cb390af37fd7e17f44ed2f9f3d9baff17368</guid>
       <pubDate>Fri, 10 Jul 2026 13:55:33 +0000</pubDate>
     </item>
     <item>
       <title>Face à la canicule, les adhérents d’ADN Tourisme s’adaptent !</title>
       <link>https://www.adn-tourisme.fr/face-a-la-canicule-les-adherents-dadn-tourisme-sadaptent/</link>
-      <description>&lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/face-a-la-canicule-les-adherents-dadn-tourisme-sadaptent/"&gt;Face à la canicule, les adhérents &amp;lt;br&amp;gt; d&amp;#8217;ADN Tourisme s&amp;#8217;adaptent !&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">bd27ecaf203bd8b4b6fb40ec964d19b99fc6f9dbb41ca6d863c33fdfdff36785</guid>
+      <description>The post Face à la canicule, les adhérents &lt;br&gt; d’ADN Tourisme s’adaptent ! appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">336d40b6e0ae413341ee4d3a7d9c4946d3979981b8156acf45a289f599ad0db5</guid>
       <pubDate>Fri, 10 Jul 2026 09:54:26 +0000</pubDate>
     </item>
     <item>
       <title>Référent communication et développement commercial</title>
       <link>https://www.adn-tourisme.fr/referent-communication-et-developpement-commercial/</link>
-      <description>&lt;p&gt;Innovation &amp;#38; Développement Tourisme est une association Loi 1901 qui fédère les Offices de tourisme et les territoires à vocation touristique de la Haute Savoie (OT). Nos missions concernent : la défense des intérêts des OT, la représentation des OT, l’animation et la fédération des OT, la formation et la professionnalisation des acteurs du tourisme, [&amp;#8230;]&lt;/p&gt; &lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/referent-communication-et-developpement-commercial/"&gt;Référent communication et développement commercial&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">ec82f0b71eec4fd66a419538aa45eac46c3246e655d87fcb981ee94b8c4669c9</guid>
+      <description>Innovation &amp; Développement Tourisme est une association Loi 1901 qui fédère les Offices de tourisme et les territoires à vocation touristique de la Haute Savoie (OT). Nos missions concernent : la défense des intérêts des OT, la représentation des OT, l’animation et la fédération des OT, la formation et la professionnalisation des acteurs du tourisme, […] The post Référent communication et développement commercial appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">50fb3f1a2a96dbe85d918fc8884e5b01a5c4709b5f14bb3b7af39624026c36b4</guid>
       <pubDate>Mon, 06 Jul 2026 10:07:53 +0000</pubDate>
     </item>
     <item>
       <title>Responsable du Pôle Qualification de l’offre</title>
       <link>https://www.adn-tourisme.fr/responsable-du-pole-qualification-de-loffre/</link>
-      <description>&lt;p&gt;Innovation &amp;#38; Développement Tourisme est une association Loi 1901 qui fédère les Offices de tourisme et les territoires à vocation touristique de la Haute Savoie (OT). Nos missions concernent : la défense des intérêts des OT, la représentation des OT, l’animation et la fédération des OT, la formation et la professionnalisation des acteurs du tourisme, [&amp;#8230;]&lt;/p&gt; &lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/responsable-du-pole-qualification-de-loffre/"&gt;Responsable du Pôle Qualification de l&amp;#8217;offre&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">6bf110cb603e6a5af1593c9eed4ad194999bb8385703d7979861c92756b6f64c</guid>
+      <description>Innovation &amp; Développement Tourisme est une association Loi 1901 qui fédère les Offices de tourisme et les territoires à vocation touristique de la Haute Savoie (OT). Nos missions concernent : la défense des intérêts des OT, la représentation des OT, l’animation et la fédération des OT, la formation et la professionnalisation des acteurs du tourisme, […] The post Responsable du Pôle Qualification de l’offre appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">2a5e2c1c773363f2b5a554d92d6e7adb85fedf367f80407f6eefa75980a810f3</guid>
       <pubDate>Mon, 06 Jul 2026 10:00:21 +0000</pubDate>
     </item>
     <item>
       <title>L’autopartage pour faciliter les déplacements sur le territoire</title>
       <link>https://www.adn-tourisme.fr/lautopartage-faciliter-deplacements-territoire/</link>
-      <description>&lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/lautopartage-faciliter-deplacements-territoire/"&gt;L’autopartage pour faciliter &amp;lt;br&amp;gt; les déplacements sur le territoire&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">ed95f34de38a9c2e23b811bc32bc2f54f45a44c2d9d3f754335a3503d87b97f3</guid>
+      <description>The post L’autopartage pour faciliter &lt;br&gt; les déplacements sur le territoire appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">eb71192800d80eb47a0ad313c4c944146ee856777da5697345306f2f2c11b3cc</guid>
       <pubDate>Mon, 06 Jul 2026 09:39:36 +0000</pubDate>
     </item>
     <item>
       <title>L’office de tourisme du Pays Ségali recrute un.e conseiller.e en séjour en alternance</title>
       <link>https://www.adn-tourisme.fr/loffice-de-tourisme-du-pays-segali-recrute-un-e-conseiller-e-en-sejour-en-alternance/</link>
-      <description>&lt;p&gt;L’office de tourisme Pays Ségali, recherche son/sa futur.e conseiller.e en séjour en alternance. Situé au sud-ouest du département de l’Aveyron, l’office de tourisme Pays Ségali assure ses missions d’accueil, d’information, de promotion et de développement touristique sur un territoire de 23 communes, grâce à une équipe de 4 personnes réparties dans 2 bureaux d’informations (Naucelle [&amp;#8230;]&lt;/p&gt; &lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/loffice-de-tourisme-du-pays-segali-recrute-un-e-conseiller-e-en-sejour-en-alternance/"&gt;L&amp;#8217;office de tourisme du Pays Ségali recrute un.e conseiller.e en séjour en alternance&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">8ed80b501b868d2ef6f89741e4f8dbc4c2e4e2265c4c4b0e0a1cf8fd6d478737</guid>
+      <description>L’office de tourisme Pays Ségali, recherche son/sa futur.e conseiller.e en séjour en alternance. Situé au sud-ouest du département de l’Aveyron, l’office de tourisme Pays Ségali assure ses missions d’accueil, d’information, de promotion et de développement touristique sur un territoire de 23 communes, grâce à une équipe de 4 personnes réparties dans 2 bureaux d’informations (Naucelle […] The post L’office de tourisme du Pays Ségali recrute un.e conseiller.e en séjour en alternance appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">bb31ccd03525e7536af3965a23bbb6d040d19048c78ab1427ce0f2e1def132ad</guid>
       <pubDate>Mon, 06 Jul 2026 09:37:26 +0000</pubDate>
     </item>
     <item>
       <title>Christelle Chassagne élue Présidente d’ADN Tourisme</title>
       <link>https://www.adn-tourisme.fr/christelle-chassagne-elue-presidente-adn-tourisme/</link>
-      <description>&lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/christelle-chassagne-elue-presidente-adn-tourisme/"&gt;Christelle Chassagne élue &amp;lt;br&amp;gt; Présidente d’ADN Tourisme&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">57e84768a28f3b621d2bd28906a267b3795fe262e8f984edad2d482a5f34d0a1</guid>
+      <description>The post Christelle Chassagne élue &lt;br&gt; Présidente d’ADN Tourisme appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">0c9c1d8f2976409e424bdedb843d105d036fa4e20cf7408d88f419f7df2b2d2b</guid>
       <pubDate>Thu, 02 Jul 2026 14:13:12 +0000</pubDate>
     </item>
     <item>
       <title>Un podcast réalisé avec des étudiants</title>
       <link>https://www.adn-tourisme.fr/podcast-etudiants-tourisme/</link>
-      <description>&lt;p&gt;The post &lt;a href="https://www.adn-tourisme.fr/podcast-etudiants-tourisme/"&gt;Un podcast réalisé avec des étudiants&lt;/a&gt; appeared first on &lt;a href="https://www.adn-tourisme.fr"&gt;ADN Tourisme&lt;/a&gt;.&lt;/p&gt;</description>
-      <guid isPermaLink="false">e4676390d925bf3716a3856ada5a727ba36483d27e50eb10b2261f7a935870fd</guid>
+      <description>The post Un podcast réalisé avec des étudiants appeared first on ADN Tourisme .</description>
+      <guid isPermaLink="false">d2ef349e71c943a9e4d70f646a74f0e7dd1ac5886d892b2fa724ceca4fcc522e</guid>
       <pubDate>Mon, 29 Jun 2026 13:25:03 +0000</pubDate>
     </item>
   </channel>

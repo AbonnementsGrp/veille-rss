@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<opml version="2.0">
+  <head><title>Veille RSS</title></head>
+  <body>
+    <outline type="rss" text="CNSA - Actualités" title="CNSA - Actualités" xmlUrl="https://abonnementsgrp.github.io/veille-rss/cnsa.xml" htmlUrl="https://www.cnsa.fr/actualites"/>
+    <outline type="rss" text="Enfance &amp; Jeunesse Infos - Veille juridique" title="Enfance &amp; Jeunesse Infos - Veille juridique" xmlUrl="https://abonnementsgrp.github.io/veille-rss/enfance-jeunesse-veille-juridique.xml" htmlUrl="https://www.enfancejeunesseinfos.fr/tag/veille-juridique/"/>
+    <outline type="rss" text="Les Pros de la Petite Enfance" title="Les Pros de la Petite Enfance" xmlUrl="https://abonnementsgrp.github.io/veille-rss/pros-petite-enfance.xml" htmlUrl="https://www.lesprosdelapetiteenfance.fr/actualites/"/>
+    <outline type="rss" text="Observatoire de la culture" title="Observatoire de la culture" xmlUrl="https://abonnementsgrp.github.io/veille-rss/observatoire-culture.xml" htmlUrl="https://www.observatoire-culture.net/"/>
+    <outline type="rss" text="ADN Tourisme" title="ADN Tourisme" xmlUrl="https://abonnementsgrp.github.io/veille-rss/adn-tourisme.xml" htmlUrl="https://www.adn-tourisme.fr/publications/actus/"/>
+    <outline type="rss" text="C2L Solutions - Restauration collective" title="C2L Solutions - Restauration collective" xmlUrl="https://abonnementsgrp.github.io/veille-rss/c2l-restauration-collective.xml" htmlUrl="https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/"/>
+    <outline type="rss" text="SNRC" title="SNRC" xmlUrl="https://abonnementsgrp.github.io/veille-rss/snrc.xml" htmlUrl="https://www.snrc.fr/le-snrc/actualites-snrc/"/>
+    <outline type="rss" text="ANAP - Actualités" title="ANAP - Actualités" xmlUrl="https://abonnementsgrp.github.io/veille-rss/anap.xml" htmlUrl="https://www.anap.fr/s/actualites"/>
+  </body>
+</opml>
