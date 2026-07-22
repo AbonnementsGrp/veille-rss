@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-22T03:48:49.858877+00:00",
+  "generated_at": "2026-07-22T08:46:08.128104+00:00",
   "sites_total": 8,
   "sites_ok": 6,
   "sites_error": 2,
-  "new_items": 0,
-  "merged_items": 70,
+  "new_items": 1,
+  "merged_items": 71,
   "sites": [
     {
       "site": "CNSA - Actualités",
@@ -47,7 +47,7 @@
       "url": "https://www.adn-tourisme.fr/publications/actus/",
       "status": "ok",
       "method": "flux détecté",
-      "items": 12,
+      "items": 13,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/feed/"
     },
@@ -58,7 +58,7 @@
       "method": "échec",
       "items": 0,
       "feed": "c2l-restauration-collective.xml",
-      "error": "503 Server Error: Service Unavailable for url: https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/feed/",
+      "error": "Flux RSS invalide : <unknown>:12:26: not well-formed (invalid token)",
       "source_feed": "https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/feed/"
     },
     {
