@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 23 Jul 2026 03:46:02 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 23 Jul 2026 08:45:23 +0000</lastBuildDate>
+    <item>
+      <title>Campagne budgétaire 2026 des établissements de santé : les priorités pour les enfants et les jeunes</title>
+      <link>https://www.enfancejeunesseinfos.fr/campagne-budgetaire-2026-des-etablissements-de-sante-les-priorites-pour-les-enfants-et-les-jeunes/</link>
+      <description>Près de 34 milliards d'euros sont délégués aux établissements de santé dans la première circulaire budgétaire 2026. Pédopsychiatrie, autisme, TDAH, enfants témoins de féminicides ou mineurs de retour de zones de conflit figurent parmi les priorités financées par le gouvernement.</description>
+      <guid isPermaLink="false">310c54df5a50b18b8f76c82013e83555d2528bd579e3d3e73dfdce3abcc9a6f1</guid>
+      <pubDate>Wed, 03 Jun 2026 07:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Autisme et milieu aquatique : quatre outils de prévention des noyades recommandés</title>
+      <link>https://www.enfancejeunesseinfos.fr/autisme-et-milieu-aquatique-quatre-outils-de-prevention-des-noyades-recommandes/</link>
+      <description>Une note interministérielle du 10 juillet 2026 fixe les bonnes pratiques d'accompagnement des personnes autistes aux abords de l'eau et précise le financement des équipements de sécurité.</description>
+      <guid isPermaLink="false">12c39ab7fc5520e90dd5214fbeec6e018e1bbac69ee4ecbdc177e5aa1052b236</guid>
+      <pubDate>Tue, 21 Jul 2026 07:30:04 +0000</pubDate>
+    </item>
     <item>
       <title>MNA : la répartition des accueils département par département en 2026</title>
       <link>https://www.enfancejeunesseinfos.fr/mna-la-repartition-des-accueils-departement-par-departement-en-2026/</link>
@@ -106,13 +120,6 @@
       <description>Qui doit informer un enfant de son droit à être entendu lorsque l’exercice de l’autorité parentale a été entièrement délégué au département ? La Cour de cassation précise les obligations du service gardien et le contrôle exercé par les juges.</description>
       <guid isPermaLink="false">9c1915f3a3c9ac965b50ba5b699cccf728ff0acfdb7486e0360ab5631e75c62b</guid>
       <pubDate>Mon, 08 Jun 2026 06:50:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Campagne budgétaire 2026 des établissements de santé : les priorités pour les enfants et les jeunes</title>
-      <link>https://www.enfancejeunesseinfos.fr/campagne-budgetaire-2026-des-etablissements-de-sante-les-priorites-pour-les-enfants-et-les-jeunes/</link>
-      <description>Près de 34 milliards d'euros sont délégués aux établissements de santé dans la première circulaire budgétaire 2026. Pédopsychiatrie, autisme, TDAH, enfants témoins de féminicides ou mineurs de retour de zones de conflit figurent parmi les priorités financées par le gouvernement.</description>
-      <guid isPermaLink="false">310c54df5a50b18b8f76c82013e83555d2528bd579e3d3e73dfdce3abcc9a6f1</guid>
-      <pubDate>Wed, 03 Jun 2026 07:15:36 +0000</pubDate>
     </item>
   </channel>
 </rss>
