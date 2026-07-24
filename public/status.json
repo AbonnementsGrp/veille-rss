@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-24T08:44:33.026518+00:00",
+  "generated_at": "2026-07-24T11:13:11.626408+00:00",
   "sites_total": 8,
-  "sites_ok": 6,
-  "sites_error": 2,
-  "new_items": 2,
-  "merged_items": 77,
+  "sites_ok": 5,
+  "sites_error": 3,
+  "new_items": 1,
+  "merged_items": 78,
   "sites": [
     {
       "site": "CNSA - Actualités",
@@ -27,11 +27,12 @@
     {
       "site": "Les Pros de la Petite Enfance",
       "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
-      "status": "ok",
-      "method": "flux détecté",
-      "items": 15,
+      "status": "error",
+      "method": "historique conservé",
+      "items": 27,
       "feed": "pros-petite-enfance.xml",
-      "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/"
+      "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.lesprosdelapetiteenfance.fr/actualites/",
+      "source_feed": ""
     },
     {
       "site": "Observatoire de la culture",
@@ -47,7 +48,7 @@
       "url": "https://www.adn-tourisme.fr/publications/actus/",
       "status": "ok",
       "method": "flux détecté",
-      "items": 13,
+      "items": 14,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/feed/"
     },
@@ -58,7 +59,7 @@
       "method": "échec",
       "items": 0,
       "feed": "c2l-restauration-collective.xml",
-      "error": "Flux RSS invalide : <unknown>:12:26: not well-formed (invalid token)",
+      "error": "500 Server Error: Internal Server Error for url: https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/",
       "source_feed": "https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/feed/"
     },
     {
