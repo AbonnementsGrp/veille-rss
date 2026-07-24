@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 24 Jul 2026 03:45:35 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 24 Jul 2026 08:44:16 +0000</lastBuildDate>
     <item>
       <title>Protection des enfants : Sarah El Haïry veut mieux former et contrôler les professionnels</title>
       <link>https://www.lesprosdelapetiteenfance.fr/protection-des-enfants-sarah-el-hairy-veut-mieux-former-et-controler-les-professionnels/</link>
@@ -31,6 +31,13 @@
       <pubDate>Wed, 15 Jul 2026 09:35:59 +0000</pubDate>
     </item>
     <item>
+      <title>Diversification : des portions trop importantes associées à un risque accru de surpoids</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/diversification-des-portions-trop-importantes-associees-a-un-risque-accru-de-surpoids/</link>
+      <description>&lt;p&gt;L’article &lt;a href="https://www.lesprosdelapetiteenfance.fr/diversification-des-portions-trop-importantes-associees-a-un-risque-accru-de-surpoids/"&gt;Diversification : des portions trop importantes associées à un risque accru de surpoids&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.lesprosdelapetiteenfance.fr"&gt;Les pros de la petite enfance&lt;/a&gt;.&lt;/p&gt;</description>
+      <guid isPermaLink="false">1569d039a523a3eebb4b06bc0f84cf5f5fe4ac11c61a06f56717e72de81142a0</guid>
+      <pubDate>Thu, 16 Jul 2026 08:56:12 +0000</pubDate>
+    </item>
+    <item>
       <title>Tarifs en crèche : l’État automatise le calcul pour alléger les démarches des professionnels et des familles</title>
       <link>https://www.lesprosdelapetiteenfance.fr/tarifs-en-creche-letat-automatise-le-calcul-pour-alleger-les-demarches-des-professionnels-et-des-familles/</link>
       <description>&lt;p&gt;L’article &lt;a href="https://www.lesprosdelapetiteenfance.fr/tarifs-en-creche-letat-automatise-le-calcul-pour-alleger-les-demarches-des-professionnels-et-des-familles/"&gt;Tarifs en crèche : l&amp;rsquo;État automatise le calcul pour alléger les démarches des professionnels et des familles&lt;/a&gt; est apparu en premier sur &lt;a href="https://www.lesprosdelapetiteenfance.fr"&gt;Les pros de la petite enfance&lt;/a&gt;.&lt;/p&gt;</description>
@@ -38,10 +45,17 @@
       <pubDate>Mon, 13 Jul 2026 08:42:08 +0000</pubDate>
     </item>
     <item>
-      <title>Garde d’enfants sauvage à Yerres : PMI, Pajemploi et CNAF doivent s’expliquer</title>
+      <title>Décret pouponnières : l’État répartit près de 35 millions d’euros entre les départements</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/decret-pouponnieres-letat-repartit-pres-de-35-millions-deuros-entre-les-departements/</link>
+      <description>L’article Décret pouponnières : l’État répartit près de 35 millions d’euros entre les départements est apparu en premier sur Les pros de la petite enfance .</description>
+      <guid isPermaLink="false">865604cf2c7a8b60cc9dcebf4b707483e9cdeb9e0c86865b885cb8d9aa9a834a</guid>
+      <pubDate>Fri, 24 Jul 2026 08:42:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Garde d’enfants sauvage à Yerres : en attente des explications de la PMI, de la CNAF et de Pajemploi</title>
       <link>https://www.lesprosdelapetiteenfance.fr/garde-denfants-sauvage-a-yerres-pmi-pajemploi-et-cnaf-doivent-sexpliquer/</link>
-      <description>L’article Garde d’enfants sauvage à Yerres : PMI, Pajemploi et CNAF doivent s’expliquer est apparu en premier sur Les pros de la petite enfance .</description>
-      <guid isPermaLink="false">c571cf91deccb8ffe3d069d4275c9e0c2d9a2a0a082e9757cb2f0d913f9fbf8b</guid>
+      <description>L’article Garde d’enfants sauvage à Yerres : en attente des explications de la PMI, de la CNAF et de Pajemploi est apparu en premier sur Les pros de la petite enfance .</description>
+      <guid isPermaLink="false">907db0dcff3274c2679f692070e333ad351aac4c750a65930242f81eb0fc8ea3</guid>
       <pubDate>Thu, 23 Jul 2026 16:04:21 +0000</pubDate>
     </item>
     <item>
@@ -99,13 +113,6 @@
       <description>L’article Le site Nounou-top visé par une procédure de la DGCCRF sur la vérification de ses profils est apparu en premier sur Les pros de la petite enfance .</description>
       <guid isPermaLink="false">e72331c4c4156955372f4cb918d4d4b7d45f7ff635fd373a513342670967426e</guid>
       <pubDate>Thu, 16 Jul 2026 12:35:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diversification : des portions trop importantes associées à un risque accru de surpoids</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/diversification-des-portions-trop-importantes-associees-a-un-risque-accru-de-surpoids/</link>
-      <description>L’article Diversification : des portions trop importantes associées à un risque accru de surpoids est apparu en premier sur Les pros de la petite enfance .</description>
-      <guid isPermaLink="false">1569d039a523a3eebb4b06bc0f84cf5f5fe4ac11c61a06f56717e72de81142a0</guid>
-      <pubDate>Thu, 16 Jul 2026 08:56:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
