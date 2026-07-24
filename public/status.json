@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-24T11:13:11.626408+00:00",
+  "generated_at": "2026-07-24T14:14:23.424129+00:00",
   "sites_total": 8,
-  "sites_ok": 5,
-  "sites_error": 3,
-  "new_items": 1,
-  "merged_items": 78,
+  "sites_ok": 6,
+  "sites_error": 2,
+  "new_items": 2,
+  "merged_items": 80,
   "sites": [
     {
       "site": "CNSA - Actualités",
@@ -27,12 +27,11 @@
     {
       "site": "Les Pros de la Petite Enfance",
       "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
-      "status": "error",
-      "method": "historique conservé",
-      "items": 27,
+      "status": "ok",
+      "method": "flux détecté",
+      "items": 17,
       "feed": "pros-petite-enfance.xml",
-      "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.lesprosdelapetiteenfance.fr/actualites/",
-      "source_feed": ""
+      "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/"
     },
     {
       "site": "Observatoire de la culture",
@@ -59,7 +58,7 @@
       "method": "échec",
       "items": 0,
       "feed": "c2l-restauration-collective.xml",
-      "error": "500 Server Error: Internal Server Error for url: https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/",
+      "error": "Flux RSS invalide : <unknown>:12:26: not well-formed (invalid token)",
       "source_feed": "https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/feed/"
     },
     {
