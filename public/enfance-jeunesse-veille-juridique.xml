@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 27 Jul 2026 17:12:31 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 27 Jul 2026 19:56:44 +0000</lastBuildDate>
     <item>
       <title>Campagne budgétaire 2026 des établissements de santé : les priorités pour les enfants et les jeunes</title>
       <link>https://www.enfancejeunesseinfos.fr/campagne-budgetaire-2026-des-etablissements-de-sante-les-priorites-pour-les-enfants-et-les-jeunes/</link>
       <description>Près de 34 milliards d'euros sont délégués aux établissements de santé dans la première circulaire budgétaire 2026. Pédopsychiatrie, autisme, TDAH, enfants témoins de féminicides ou mineurs de retour de zones de conflit figurent parmi les priorités financées par le gouvernement.</description>
       <guid isPermaLink="false">310c54df5a50b18b8f76c82013e83555d2528bd579e3d3e73dfdce3abcc9a6f1</guid>
       <pubDate>Wed, 03 Jun 2026 07:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Du repérage aux soins : le nouveau parcours coordonné des enfants en situation de handicap</title>
+      <link>https://www.enfancejeunesseinfos.fr/du-reperage-aux-soins-le-nouveau-parcours-coordonne-des-enfants-en-situation-de-handicap/</link>
+      <description>Destiné aux enfants et aux jeunes présentant ou susceptibles de présenter un handicap, le nouveau service de repérage précoce entre dans sa phase opérationnelle. Une instruction interministérielle en précise l'organisation, le financement et les modalités de déploiement dans les territoires.</description>
+      <guid isPermaLink="false">08d27388b0e50c45d097aaf64581f118342143328d721af985d8e3589b418e44</guid>
+      <pubDate>Tue, 16 Jun 2026 05:12:09 +0000</pubDate>
     </item>
     <item>
       <title>« Manque de mobilisation », « posture de défiance » : ces motifs ne peuvent pas justifier une fin de contrat jeune majeur</title>
@@ -50,6 +57,13 @@
       <description>Un arrêté du 22 juillet 2026 fixe la répartition entre départements de l'aide de l'État destinée à compenser le renforcement de l'encadrement dans les pouponnières à caractère social. Une ventilation qui ne profite pas à tous les territoires.</description>
       <guid isPermaLink="false">ef96da2e7937d1ddb890adf20d5d4fc137d90c1e59bb553b1e7277814585a54a</guid>
       <pubDate>Mon, 27 Jul 2026 13:40:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>MNA : que pèse vraiment un parcours d’insertion face à la préfecture ?</title>
+      <link>https://www.enfancejeunesseinfos.fr/mna-que-pese-vraiment-un-parcours-dinsertion-face-a-la-prefecture/</link>
+      <description>À 18 ans, les anciens mineurs non accompagnés (MNA) confiés à l’ASE ne bénéficient d’aucun droit automatique au séjour. Deux jugements montrent comment le juge apprécie leur formation, leur insertion professionnelle et leurs attaches familiales face à un refus préfectoral.</description>
+      <guid isPermaLink="false">1f1e5b7a4b48979e2e40fb7600110bbf186a5290586953cae69c9d8c203aa479</guid>
+      <pubDate>Mon, 27 Jul 2026 09:12:00 +0000</pubDate>
     </item>
     <item>
       <title>Ségur numérique : 8,26 millions d'euros pour équiper les structures de l'enfance handicapée et protégée</title>
@@ -134,13 +148,6 @@
       <description>Un département peut-il invoquer le manque de places disponibles pour ne pas héberger un jeune majeur relevant encore de l’aide sociale à l’enfance ? Dans une ordonnance rendue en référé, le Conseil d’État rappelle que la saturation d’un dispositif ne suffit pas si elle n’est pas démontrée.</description>
       <guid isPermaLink="false">5e403c1db2c414fb0a109191d960d130cf55d5cbbd285dcb77ba74bdfc59519e</guid>
       <pubDate>Mon, 22 Jun 2026 06:34:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Du repérage aux soins : le nouveau parcours coordonné des enfants en situation de handicap</title>
-      <link>https://www.enfancejeunesseinfos.fr/du-reperage-aux-soins-le-nouveau-parcours-coordonne-des-enfants-en-situation-de-handicap/</link>
-      <description>Destiné aux enfants et aux jeunes présentant ou susceptibles de présenter un handicap, le nouveau service de repérage précoce entre dans sa phase opérationnelle. Une instruction interministérielle en précise l'organisation, le financement et les modalités de déploiement dans les territoires.</description>
-      <guid isPermaLink="false">08d27388b0e50c45d097aaf64581f118342143328d721af985d8e3589b418e44</guid>
-      <pubDate>Tue, 16 Jun 2026 05:12:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
