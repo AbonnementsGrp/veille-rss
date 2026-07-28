@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-07-28T03:37:51.398646+00:00",
+  "generated_at": "2026-07-28T09:06:10.006706+00:00",
   "sites_total": 8,
   "sites_ok": 6,
   "sites_error": 2,
-  "new_items": 0,
-  "merged_items": 89,
+  "new_items": 1,
+  "merged_items": 90,
   "sites": [
     {
       "site": "CNSA - Actualités",
@@ -38,7 +38,7 @@
       "url": "https://www.observatoire-culture.net/",
       "status": "ok",
       "method": "flux détecté",
-      "items": 11,
+      "items": 12,
       "feed": "observatoire-culture.xml",
       "source_feed": "https://www.observatoire-culture.net/feed/"
     },
