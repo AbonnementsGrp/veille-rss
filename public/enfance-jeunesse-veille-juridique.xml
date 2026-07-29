@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 29 Jul 2026 09:10:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 29 Jul 2026 11:34:33 +0000</lastBuildDate>
     <item>
       <title>Campagne budgétaire 2026 des établissements de santé : les priorités pour les enfants et les jeunes</title>
       <link>https://www.enfancejeunesseinfos.fr/campagne-budgetaire-2026-des-etablissements-de-sante-les-priorites-pour-les-enfants-et-les-jeunes/</link>
       <description>Près de 34 milliards d'euros sont délégués aux établissements de santé dans la première circulaire budgétaire 2026. Pédopsychiatrie, autisme, TDAH, enfants témoins de féminicides ou mineurs de retour de zones de conflit figurent parmi les priorités financées par le gouvernement.</description>
       <guid isPermaLink="false">310c54df5a50b18b8f76c82013e83555d2528bd579e3d3e73dfdce3abcc9a6f1</guid>
       <pubDate>Wed, 03 Jun 2026 07:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Justice des mineurs : un décret actualise les règles de financement de plusieurs dispositifs éducatifs</title>
+      <link>https://www.enfancejeunesseinfos.fr/justice-des-mineurs-un-decret-actualise-les-regles-de-financement-de-plusieurs-dispositifs-educatifs/</link>
+      <description>Un décret publié au Journal officiel met à jour plusieurs dispositions du code de l'action sociale et des familles (CASF) afin de les aligner sur le code de la justice pénale des mineurs (CJPM).</description>
+      <guid isPermaLink="false">32b9b1481250cbf02310d01820d81b7cecc330103ab125c6e425bb0175693551</guid>
+      <pubDate>Tue, 23 Jun 2026 05:08:34 +0000</pubDate>
     </item>
     <item>
       <title>Du repérage aux soins : le nouveau parcours coordonné des enfants en situation de handicap</title>
@@ -50,6 +57,13 @@
       <description>Qui doit informer un enfant de son droit à être entendu lorsque l’exercice de l’autorité parentale a été entièrement délégué au département ? La Cour de cassation précise les obligations du service gardien et le contrôle exercé par les juges.</description>
       <guid isPermaLink="false">9c1915f3a3c9ac965b50ba5b699cccf728ff0acfdb7486e0360ab5631e75c62b</guid>
       <pubDate>Mon, 08 Jun 2026 06:50:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Honorabilité : une enquête en cours pourrait-elle empêcher de travailler auprès des mineurs ?</title>
+      <link>https://www.enfancejeunesseinfos.fr/honorabilite-une-enquete-en-cours-pourrait-elle-empecher-de-travailler-aupres-des-mineurs/</link>
+      <description>Une enquête en cours n’apparaît pas toujours lors du contrôle d’honorabilité des personnes travaillant auprès de mineurs. Le Gouvernement admet que le fichier de police TAJ pourrait combler cette faille, mais aucune réforme n’est annoncée.</description>
+      <guid isPermaLink="false">38c29ff0b775b1912baba29acf58483fef39db967febf3c4e48e50b8edf81858</guid>
+      <pubDate>Wed, 29 Jul 2026 10:43:49 +0000</pubDate>
     </item>
     <item>
       <title>MNA : quand le juge administratif écarte la minorité reconnue par le juge des enfants</title>
@@ -148,13 +162,6 @@
       <description>Un arrêté du 23 juin 2026 fixe la répartition de 49,75 M€ entre les départements pour financer l'accompagnement des jeunes majeurs sortant de l'aide sociale à l'enfance. Il prévoit aussi un nouveau mode de calcul des dotations à partir de 2027.</description>
       <guid isPermaLink="false">90827aa19f1608d2bb8bf4f0fa47cf8fc6af35974ae91d6d1826133aa7fbeed7</guid>
       <pubDate>Thu, 25 Jun 2026 14:40:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Justice des mineurs : un décret actualise les règles de financement de plusieurs dispositifs éducatifs</title>
-      <link>https://www.enfancejeunesseinfos.fr/justice-des-mineurs-un-decret-actualise-les-regles-de-financement-de-plusieurs-dispositifs-educatifs/</link>
-      <description>Un décret publié au Journal officiel met à jour plusieurs dispositions du code de l'action sociale et des familles (CASF) afin de les aligner sur le code de la justice pénale des mineurs (CJPM).</description>
-      <guid isPermaLink="false">32b9b1481250cbf02310d01820d81b7cecc330103ab125c6e425bb0175693551</guid>
-      <pubDate>Tue, 23 Jun 2026 05:08:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
