@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-07-30T11:21:51.637145+00:00",
+  "generated_at": "2026-07-30T14:33:32.288133+00:00",
   "sites_total": 8,
   "sites_ok": 6,
   "sites_error": 2,
-  "new_items": 1,
-  "merged_items": 99,
+  "new_items": 2,
+  "merged_items": 101,
   "sites": [
     {
       "site": "CNSA - Actualités",
       "url": "https://www.cnsa.fr/actualites",
       "status": "ok",
       "method": "flux officiel",
-      "items": 22,
+      "items": 23,
       "feed": "cnsa.xml",
       "source_feed": "https://www.cnsa.fr/flux-rss.xml/article"
     },
@@ -29,7 +29,7 @@
       "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
       "status": "ok",
       "method": "flux détecté",
-      "items": 24,
+      "items": 25,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/"
     },
