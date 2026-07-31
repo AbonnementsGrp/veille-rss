@@ -1,8 +1,8 @@
 {
-  "generated_at": "2026-07-31T03:52:15.823689+00:00",
+  "generated_at": "2026-07-31T09:17:55.621805+00:00",
   "sites_total": 8,
-  "sites_ok": 5,
-  "sites_error": 3,
+  "sites_ok": 6,
+  "sites_error": 2,
   "new_items": 0,
   "merged_items": 101,
   "sites": [
@@ -27,12 +27,11 @@
     {
       "site": "Les Pros de la Petite Enfance",
       "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
-      "status": "error",
-      "method": "historique conservé",
-      "items": 37,
+      "status": "ok",
+      "method": "flux détecté",
+      "items": 25,
       "feed": "pros-petite-enfance.xml",
-      "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.lesprosdelapetiteenfance.fr/actualites/",
-      "source_feed": ""
+      "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/"
     },
     {
       "site": "Observatoire de la culture",
