@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-03T03:56:17.694086+00:00",
+  "generated_at": "2026-08-03T10:07:18.972686+00:00",
   "sites_total": 8,
   "sites_ok": 6,
   "sites_error": 2,
-  "new_items": 0,
-  "merged_items": 102,
+  "new_items": 1,
+  "merged_items": 103,
   "sites": [
     {
       "site": "CNSA - Actualités",
@@ -29,7 +29,7 @@
       "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
       "status": "ok",
       "method": "flux détecté",
-      "items": 25,
+      "items": 26,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/"
     },
