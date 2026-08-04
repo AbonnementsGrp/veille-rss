@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-08-04T17:04:55.592346+00:00",
+  "generated_at": "2026-08-04T19:59:02.822380+00:00",
   "sites_total": 8,
   "sites_ok": 6,
   "sites_error": 2,
@@ -58,7 +58,7 @@
       "method": "échec",
       "items": 0,
       "feed": "c2l-restauration-collective.xml",
-      "error": "HTTPSConnectionPool(host='www.c2lsolutions.fr', port=443): Read timed out. (read timeout=30)",
+      "error": "Flux RSS invalide : <unknown>:12:26: not well-formed (invalid token)",
       "source_feed": "https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/feed/"
     },
     {
