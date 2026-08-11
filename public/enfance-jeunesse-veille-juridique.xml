@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 11 Aug 2026 07:38:16 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 11 Aug 2026 10:11:49 +0000</lastBuildDate>
     <item>
       <title>Campagne budgétaire 2026 des établissements de santé : les priorités pour les enfants et les jeunes</title>
       <link>https://www.enfancejeunesseinfos.fr/campagne-budgetaire-2026-des-etablissements-de-sante-les-priorites-pour-les-enfants-et-les-jeunes/</link>
@@ -36,13 +36,6 @@
       <description>Un arrêté du 23 juin 2026 fixe la répartition de 49,75 M€ entre les départements pour financer l'accompagnement des jeunes majeurs sortant de l'aide sociale à l'enfance. Il prévoit aussi un nouveau mode de calcul des dotations à partir de 2027.</description>
       <guid isPermaLink="false">90827aa19f1608d2bb8bf4f0fa47cf8fc6af35974ae91d6d1826133aa7fbeed7</guid>
       <pubDate>Thu, 25 Jun 2026 14:40:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>APL : les associations redoutent une précarisation de milliers d'étudiants étrangers</title>
-      <link>https://www.enfancejeunesseinfos.fr/apl-les-associations-redoutent-une-precarisation-de-milliers-detudiants-etrangers/</link>
-      <description>Un décret publié le 28 juin au Journal officiel supprime les APL des étudiants non européens et non boursiers à compter du 1ᵉʳ juillet. Neuf organisations dénoncent une réforme imposée malgré l'avis défavorable unanime du Conseil national de l'habitat.</description>
-      <guid isPermaLink="false">b397df8402dcb323b7fecd4123de7695e0732bbc8a9e5ea16e0ba3e8fb6e49c4</guid>
-      <pubDate>Mon, 29 Jun 2026 16:18:11 +0000</pubDate>
     </item>
     <item>
       <title>ASE : le Conseil d’État écarte l’argument de la saturation pour refuser l’hébergement d’un jeune majeur</title>
@@ -183,6 +176,13 @@
       <description>Le niveau d'exigence des centres d'action médico-sociale précoce (CAMSP) et des centres médico-psycho-pédagogiques (CMPP). Contrôles, évaluations et coopérations évoluent, tandis que les recommandations de la Haute Autorité de santé (HAS) deviennent « opposables ».</description>
       <guid isPermaLink="false">20a96fa4444041a015b497fd1c6f12c0cb29844681e29ea582b99a68d9464b77</guid>
       <pubDate>Thu, 02 Jul 2026 06:25:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>APL : les associations redoutent une précarisation de milliers d'étudiants étrangers</title>
+      <link>https://www.enfancejeunesseinfos.fr/apl-les-associations-redoutent-une-precarisation-de-milliers-detudiants-etrangers/</link>
+      <description>Un décret publié le 28 juin au Journal officiel supprime les APL des étudiants non européens et non boursiers à compter du 1ᵉʳ juillet. Neuf organisations dénoncent une réforme imposée malgré l'avis défavorable unanime du Conseil national de l'habitat.</description>
+      <guid isPermaLink="false">b397df8402dcb323b7fecd4123de7695e0732bbc8a9e5ea16e0ba3e8fb6e49c4</guid>
+      <pubDate>Mon, 29 Jun 2026 16:18:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
