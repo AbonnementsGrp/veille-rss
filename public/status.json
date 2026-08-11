@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-11T10:12:10.544007+00:00",
+  "generated_at": "2026-08-11T13:44:10.765158+00:00",
   "sites_total": 8,
   "sites_ok": 6,
   "sites_error": 2,
-  "new_items": 2,
-  "merged_items": 138,
+  "new_items": 1,
+  "merged_items": 139,
   "sites": [
     {
       "site": "CNSA - Actualités",
       "url": "https://www.cnsa.fr/actualites",
       "status": "ok",
       "method": "flux officiel",
-      "items": 43,
+      "items": 44,
       "feed": "cnsa.xml",
       "source_feed": "https://www.cnsa.fr/flux-rss.xml/article"
     },
