@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-17T07:17:29.946557+00:00",
+  "generated_at": "2026-08-17T09:58:24.263935+00:00",
   "sites_total": 8,
-  "sites_ok": 6,
-  "sites_error": 2,
-  "new_items": 0,
-  "merged_items": 147,
+  "sites_ok": 5,
+  "sites_error": 3,
+  "new_items": 1,
+  "merged_items": 148,
   "sites": [
     {
       "site": "CNSA - Actualités",
       "url": "https://www.cnsa.fr/actualites",
       "status": "ok",
       "method": "flux officiel",
-      "items": 46,
+      "items": 47,
       "feed": "cnsa.xml",
       "source_feed": "https://www.cnsa.fr/flux-rss.xml/article"
     },
@@ -27,11 +27,12 @@
     {
       "site": "Les Pros de la Petite Enfance",
       "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
-      "status": "ok",
-      "method": "flux détecté",
-      "items": 36,
+      "status": "error",
+      "method": "historique conservé",
+      "items": 50,
       "feed": "pros-petite-enfance.xml",
-      "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/"
+      "error": "503 Server Error: Service Temporarily Unavailable for url: https://www.lesprosdelapetiteenfance.fr/actualites/",
+      "source_feed": ""
     },
     {
       "site": "Observatoire de la culture",
