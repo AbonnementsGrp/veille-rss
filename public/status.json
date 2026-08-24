@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-24T07:29:56.080693+00:00",
+  "generated_at": "2026-08-24T10:05:13.629304+00:00",
   "sites_total": 8,
   "sites_ok": 6,
   "sites_error": 2,
-  "new_items": 0,
-  "merged_items": 153,
+  "new_items": 2,
+  "merged_items": 155,
   "sites": [
     {
       "site": "CNSA - Actualités",
@@ -20,7 +20,7 @@
       "url": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/",
       "status": "ok",
       "method": "flux officiel",
-      "items": 25,
+      "items": 26,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/"
     },
@@ -47,7 +47,7 @@
       "url": "https://www.adn-tourisme.fr/publications/actus/",
       "status": "ok",
       "method": "flux détecté",
-      "items": 28,
+      "items": 29,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/feed/"
     },
