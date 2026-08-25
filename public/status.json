@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-24T13:14:16.572932+00:00",
+  "generated_at": "2026-08-25T15:57:18.333561+00:00",
   "sites_total": 8,
   "sites_ok": 6,
   "sites_error": 2,
-  "new_items": 1,
-  "merged_items": 156,
+  "new_items": 2,
+  "merged_items": 158,
   "sites": [
     {
       "site": "CNSA - Actualités",
       "url": "https://www.cnsa.fr/actualites",
       "status": "ok",
       "method": "flux officiel",
-      "items": 47,
+      "items": 48,
       "feed": "cnsa.xml",
       "source_feed": "https://www.cnsa.fr/flux-rss.xml/article"
     },
@@ -29,7 +29,7 @@
       "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
       "status": "ok",
       "method": "flux détecté",
-      "items": 40,
+      "items": 41,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/"
     },
@@ -58,7 +58,7 @@
       "method": "échec",
       "items": 0,
       "feed": "c2l-restauration-collective.xml",
-      "error": "503 Server Error: Service Unavailable for url: https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/feed/",
+      "error": "Flux RSS invalide : <unknown>:12:27: not well-formed (invalid token)",
       "source_feed": "https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/feed/"
     },
     {
