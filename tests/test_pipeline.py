@@ -9,7 +9,13 @@ from __future__ import annotations
 import pytest
 
 from veille.models import Item
-from veille.pipeline import fetch_items, output_name_for, record_in_history, resolve_feed_url
+from veille.pipeline import (
+    fetch_items,
+    output_name_for,
+    read_feed,
+    record_in_history,
+    resolve_feed_url,
+)
 
 
 class StubResponse:
@@ -114,3 +120,70 @@ class TestRecordInHistory:
         item = self._item()
         record_in_history([item], history)
         assert history[item.uid]["uid"] == item.uid
+
+
+class FailingFeedSession:
+    """Sert une page HTML sur l'URL du flux, la vraie page sur l'URL du site.
+
+    Reproduit le cas C2L : le `/feed/` annoncé renvoie la page de la rubrique.
+    """
+
+    def __init__(self, page: bytes, feed_url: str):
+        self.page = page
+        self.feed_url = feed_url
+        self.urls: list[str] = []
+
+    def get(self, url, timeout=None, allow_redirects=False):
+        self.urls.append(url)
+        reponse = StubResponse(self.page, url)
+        reponse.headers = {"content-type": "text/html; charset=UTF-8"}
+        return reponse
+
+
+class TestRepliSurLaPage:
+    def _site(self):
+        return {
+            "name": "C2L Solutions",
+            "url": "https://exemple.fr/category/actus/",
+            "official_feed": "https://exemple.fr/category/actus/feed/",
+        }
+
+    def test_un_flux_officiel_qui_sert_du_html_ne_condamne_plus_la_source(self, fixture_text):
+        site = self._site()
+        session = FailingFeedSession(fixture_text("page_selectors.html").encode("utf-8"), site["official_feed"])
+        items, method = fetch_items(session, site, site["official_feed"], 10, 60)
+        assert len(items) == 2
+        assert method.startswith("repli :")
+
+    def test_le_repli_se_fait_sur_la_page_configuree(self, fixture_text):
+        site = self._site()
+        session = FailingFeedSession(fixture_text("page_selectors.html").encode("utf-8"), site["official_feed"])
+        fetch_items(session, site, site["official_feed"], 10, 60)
+        assert site["url"] in session.urls
+
+    def test_l_erreur_cumule_les_deux_echecs(self):
+        site = self._site()
+        session = FailingFeedSession(b"<html><body><p>Rien du tout ici</p></body></html>", site["official_feed"])
+        with pytest.raises(RuntimeError) as excinfo:
+            fetch_items(session, site, site["official_feed"], 10, 60)
+        message = str(excinfo.value)
+        assert "ne sert pas un flux" in message
+        assert "aucun article" in message
+
+    def test_un_flux_valide_n_entraine_aucun_repli(self, fixture_bytes):
+        site = self._site()
+        session = StubSession(fixture_bytes("wordpress_feed.xml"))
+        items, method = fetch_items(session, site, site["official_feed"], 10, 60)
+        assert method == "flux officiel"
+        assert session.urls == [site["official_feed"]]
+
+
+class TestReadFeed:
+    def test_refuse_une_page_html(self, fixture_text):
+        session = FailingFeedSession(fixture_text("page_selectors.html").encode("utf-8"), "https://exemple.fr/feed/")
+        with pytest.raises(RuntimeError, match="ne sert pas un flux"):
+            read_feed(session, "https://exemple.fr/feed/", "S", 10, 60)
+
+    def test_accepte_un_flux(self, fixture_bytes):
+        session = StubSession(fixture_bytes("wordpress_feed.xml"))
+        assert len(read_feed(session, "https://exemple.fr/feed/", "S", 10, 60)) == 2

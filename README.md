@@ -38,6 +38,7 @@ Les méthodes possibles, de la plus fiable à la plus fragile :
 |---|---|
 | `flux officiel` | Le flux déclaré dans `config/sites.yml` a répondu. |
 | `flux détecté` | Aucun flux configuré, mais un flux natif a été trouvé sur le site. |
+| `repli : …` | Le flux configuré s'est avéré inexploitable ; les articles viennent de la page. |
 | `json_ld+html` | Pas de flux : les articles ont été lus dans les données structurées de la page. |
 | `html_selectors` | Articles extraits via des sélecteurs CSS. |
 | `generic_links` | Dernier recours : les liens de la page ont été notés et filtrés. |
@@ -202,17 +203,16 @@ l'historique, écriture du flux individuel et intégration au flux global.
 ### Restauration
 
 - **C2L Solutions** — https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/
-  — le `/feed/` annoncé renvoie du HTML, flux à générer
+  — le `/feed/` annoncé renvoie du HTML : articles extraits de la page par repli
 - **SNRC** — https://www.snrc.fr/le-snrc/actualites-snrc/ — flux à générer
 
 ## Reste à faire
 
 1. Ajouter la source IGAS à `config/sites.yml`.
-2. Rendre le repli automatique quand un `official_feed` s'avère invalide (cas C2L).
-3. Écrire les extracteurs manquants : SNRC, IGAS, page actus d'ADN Tourisme.
-4. Traiter l'ANAP, dont la page d'actualités est rendue en JavaScript.
-5. Nettoyer les résumés doublement échappés issus de certains flux WordPress.
-6. Porter les champs prévus dans `sites.yml` : nom court, ordre, thème.
+2. Écrire les extracteurs manquants : SNRC, IGAS, page actus d'ADN Tourisme.
+3. Traiter l'ANAP, dont la page d'actualités est rendue en JavaScript.
+4. Nettoyer les résumés doublement échappés issus de certains flux WordPress.
+5. Porter les champs prévus dans `sites.yml` : nom court, ordre, thème.
 
 ## Contraintes
 

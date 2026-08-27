@@ -18,7 +18,7 @@ from veille.config import BASE_URL, PUBLIC_DIR, STATUS_PATH, load_config
 from veille.dates import item_sort_key, utc_now
 from veille.extract import scrape_page
 from veille.feeds import discover_feed, parse_feed_bytes
-from veille.fetch import request_session
+from veille.fetch import is_feed_content, request_session
 from veille.history import history_items_for_source, load_history, save_history
 from veille.models import Item, dedupe
 from veille.output import write_dashboard, write_feed, write_opml
@@ -43,18 +43,44 @@ def resolve_feed_url(session: Any, site: dict[str, Any], timeout: int) -> str:
     return site.get("official_feed") or discover_feed(session, site["url"], timeout) or ""
 
 
+def read_feed(session: Any, url: str, source: str, timeout: int, max_items: int) -> list[Item]:
+    """Lit un flux à une URL donnée, en refusant ce qui n'en est pas un.
+
+    Un `/feed/` WordPress désactivé renvoie la page HTML de la rubrique avec un
+    code 200 : sans ce contrôle, l'erreur remontée parle de XML mal formé au
+    lieu de dire que l'URL ne sert pas un flux.
+    """
+    response = session.get(url, timeout=timeout, allow_redirects=True)
+    response.raise_for_status()
+    if not is_feed_content(response):
+        type_recu = response.headers.get("content-type", "inconnu").split(";")[0]
+        raise RuntimeError(f"{url} ne sert pas un flux (contenu {type_recu})")
+    return parse_feed_bytes(response.content, source, max_items)
+
+
 def fetch_items(session: Any, site: dict[str, Any], feed_url: str, timeout: int, max_items: int) -> tuple[list[Item], str]:
-    """Lit les articles d'une source et rend (articles, méthode employée)."""
+    """Lit les articles d'une source et rend (articles, méthode employée).
+
+    Un flux configuré qui s'avère inexploitable ne condamne pas la source : le
+    traitement se replie sur l'extraction de la page d'actualités, qui reste
+    thématiquement juste là où un flux découvert au hasard du site ne l'est pas.
+    """
+    echec_flux = ""
     if feed_url:
-        response = session.get(feed_url, timeout=timeout, allow_redirects=True)
-        response.raise_for_status()
-        items = parse_feed_bytes(response.content, site["name"], max_items)
-        method = "flux officiel" if site.get("official_feed") else "flux détecté"
-    else:
-        items, method = scrape_page(session, site, timeout, max_items)
+        try:
+            items = read_feed(session, feed_url, site["name"], timeout, max_items)
+            if items:
+                return items, "flux officiel" if site.get("official_feed") else "flux détecté"
+            echec_flux = "flux sans article exploitable"
+        except Exception as exc:
+            echec_flux = str(exc)
+        log.warning("%s : %s. Repli sur la page d'actualités.", site["name"], echec_flux)
+
+    items, method = scrape_page(session, site, timeout, max_items)
     if not items:
-        raise RuntimeError("Aucun article détecté sur la page")
-    return items, method
+        detail = f"{echec_flux} ; aucun article détecté sur la page" if echec_flux else "Aucun article détecté sur la page"
+        raise RuntimeError(detail)
+    return items, f"repli : {method}" if echec_flux else method
 
 
 def record_in_history(items: list[Item], history: dict[str, dict[str, Any]]) -> int:
