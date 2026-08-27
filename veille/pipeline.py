@@ -16,6 +16,7 @@ from urllib.parse import urljoin
 
 from veille.config import BASE_URL, PUBLIC_DIR, STATUS_PATH, load_config
 from veille.dates import item_sort_key, utc_now
+from veille.enrich import describe_article
 from veille.extract import scrape_page
 from veille.feeds import discover_feed, parse_feed_bytes
 from veille.fetch import is_feed_content, request_session
@@ -112,9 +113,62 @@ def record_in_history(items: list[Item], history: dict[str, dict[str, Any]]) -> 
             new_count += 1
             history[item.uid] = {**asdict(item), "uid": item.uid, "first_seen": seen_at}
         else:
-            item.first_seen = history[item.uid].get("first_seen", seen_at)
-            history[item.uid].update({**asdict(item), "uid": item.uid})
+            connu = history[item.uid]
+            item.first_seen = connu.get("first_seen", seen_at)
+            fiche = {**asdict(item), "uid": item.uid}
+            # Un résumé déjà obtenu ne doit pas être effacé par un flux qui n'en
+            # fournit pas : il a pu être lu sur la page de l'article.
+            if not fiche["description"] and connu.get("description"):
+                fiche["description"] = connu["description"]
+            connu.update(fiche)
     return new_count
+
+
+def reuse_known_descriptions(items: list[Item], history: dict[str, dict[str, Any]]) -> None:
+    """Reprend le résumé déjà connu d'un article dont le flux n'en donne pas.
+
+    Ne coûte rien, donc jamais soumis au budget réseau de l'enrichissement.
+    """
+    for item in items:
+        if item.description:
+            continue
+        connu = (history.get(item.uid) or {}).get("description")
+        if connu:
+            item.description = connu
+
+
+def enrich_descriptions(session: Any, items: list[Item], history: dict[str, dict[str, Any]],
+                        budget: int, timeout: int) -> int:
+    """Complète les résumés encore manquants en lisant la page des articles.
+
+    Rend le nombre de pages visitées. Chaque article n'est tenté qu'une fois :
+    l'historique retient la tentative, pour ne pas redemander indéfiniment une
+    page qui n'a rien à offrir. Le budget étant global et consommé dans l'ordre
+    des sources, les dernières sources sont servies aux exécutions suivantes.
+
+    Les sources en `mode: sitemap` sont exclues par l'appelant : leurs pages
+    sont rendues en JavaScript, elles ne livreraient aucun résumé.
+    """
+    visitees = 0
+    for item in items:
+        if visitees >= budget:
+            break
+        if item.description:
+            continue
+        fiche = history.get(item.uid)
+        if fiche is None or fiche.get("description_checked"):
+            continue
+        visitees += 1
+        fiche["description_checked"] = True
+        try:
+            resume = describe_article(session, item.link, timeout)
+        except Exception as exc:
+            log.debug("Résumé indisponible pour %s (%s)", item.link, exc)
+            continue
+        if resume:
+            item.description = resume
+            fiche["description"] = resume
+    return visitees
 
 
 def run() -> int:
@@ -125,6 +179,7 @@ def run() -> int:
     max_items = int(settings.get("max_items_per_feed", 60))
     history_limit = int(settings.get("max_history_items", 1000))
     keep_previous = bool(settings.get("keep_previous_on_error", True))
+    enrich_budget = int(settings.get("max_enrichments_per_run", 25)) if settings.get("enrich_descriptions", True) else 0
     PUBLIC_DIR.mkdir(parents=True, exist_ok=True)
     history = load_history()
     session = request_session(settings)
@@ -141,6 +196,11 @@ def run() -> int:
             items, method = fetch_items(session, site, feed_url, timeout, max_items)
             new_count += record_in_history(items, history)
             source_items = dedupe(items + history_items_for_source(history, source, max_items))[:max_items]
+            # Sur le flux publié, et non sur les seuls articles du jour : les
+            # articles venus de l'historique méritent aussi un résumé.
+            reuse_known_descriptions(source_items, history)
+            if enrich_budget > 0 and str(site.get("mode", "")).lower() != "sitemap":
+                enrich_budget -= enrich_descriptions(session, source_items, history, enrich_budget, timeout)
             write_feed(source_items, source, f"Actualités de {source}", PUBLIC_DIR / output_name, site["url"], urljoin(BASE_URL, output_name))
             all_items.extend(source_items)
             statuses.append({"site": source, "url": site["url"], "status": "ok", "method": method, "items": len(source_items), "feed": output_name, "source_feed": feed_url})

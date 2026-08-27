@@ -14,24 +14,35 @@ from typing import Any
 from veille.config import HISTORY_PATH
 from veille.dates import EPOCH, normalize_date, parse_date_for_feed
 from veille.models import Item
+from veille.text import clean_summary
 
 log = logging.getLogger(__name__)
 
 DATE_FIELDS = ("published", "first_seen")
 
 
-def normalize_record_dates(record: dict[str, Any]) -> dict[str, Any]:
-    """Aligne les dates d'un enregistrement sur l'ISO 8601 UTC.
+def normalize_record(record: dict[str, Any]) -> dict[str, Any]:
+    """Remet un enregistrement d'historique aux normes courantes.
 
-    Les versions antérieures du script ont enregistré `published` au format
-    RFC-822 ("Wed, 03 Jun 2026 19:04:18 +0000"), ce qui faussait tout tri
-    effectué sur la chaîne brute.
+    Les dates d'abord : des versions antérieures ont enregistré `published` au
+    format RFC-822 ("Wed, 03 Jun 2026 19:04:18 +0000"), ce qui faussait tout
+    tri effectué sur la chaîne brute.
+
+    Le résumé ensuite : les mentions ajoutées par WordPress et le balisage
+    doublement échappé y ont aussi été enregistrés, et l'historique complétant
+    chaque flux, ils continueraient d'être publiés.
     """
     for field in DATE_FIELDS:
         value = record.get(field)
         if value:
             record[field] = normalize_date(value)
+    if record.get("description"):
+        record["description"] = clean_summary(record["description"])
     return record
+
+
+# Ancien nom, conservé pour ne pas casser un appel existant.
+normalize_record_dates = normalize_record
 
 
 def load_history(path: Path | None = None) -> dict[str, dict[str, Any]]:
@@ -42,7 +53,7 @@ def load_history(path: Path | None = None) -> dict[str, dict[str, Any]]:
         raw = json.loads(path.read_text(encoding="utf-8"))
         if not isinstance(raw, dict):
             return {}
-        return {uid: normalize_record_dates(record) for uid, record in raw.items() if isinstance(record, dict)}
+        return {uid: normalize_record(record) for uid, record in raw.items() if isinstance(record, dict)}
     except Exception as exc:
         log.warning("Historique illisible (%s). Un historique vide sera utilisé.", exc)
         return {}
@@ -83,6 +94,7 @@ def remove_source(history: dict[str, dict[str, Any]], source: str) -> int:
 
 __all__ = [
     "history_items_for_source",
+    "normalize_record",
     "remove_source",
     "load_history",
     "normalize_record_dates",

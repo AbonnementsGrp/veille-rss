@@ -227,3 +227,88 @@ class TestModeSitemap:
         site = {k: v for k, v in self._site().items() if k != "sitemap"}
         with pytest.raises(RuntimeError, match="sans clé 'sitemap'"):
             fetch_items(ExplodingSession(), site, "", 10, 60)
+
+
+RESUME = ("Le Premier ministre a confié à l'Inspection générale des affaires sociales "
+          "une mission sur le temps de travail des médecins.")
+
+
+class SessionPageArticle:
+    """Sert une page d'article porteuse d'un résumé, et compte les visites."""
+
+    def __init__(self):
+        self.urls: list[str] = []
+
+    def get(self, url, timeout=None, allow_redirects=False):
+        self.urls.append(url)
+        return StubResponse(
+            f'<html><head><meta property="og:description" content="{RESUME}">'
+            "</head><body></body></html>".encode("utf-8"), url)
+
+
+class TestReuseKnownDescriptions:
+    def test_reprend_un_resume_deja_connu(self):
+        from veille.pipeline import reuse_known_descriptions
+        item = Item("S", "T", "https://exemple.fr/a")
+        history = {item.uid: {"description": RESUME}}
+        reuse_known_descriptions([item], history)
+        assert item.description == RESUME
+
+    def test_ne_remplace_pas_un_resume_fourni_par_le_flux(self):
+        from veille.pipeline import reuse_known_descriptions
+        item = Item("S", "T", "https://exemple.fr/a", description="Résumé du flux")
+        reuse_known_descriptions([item], {item.uid: {"description": RESUME}})
+        assert item.description == "Résumé du flux"
+
+
+class TestEnrichDescriptions:
+    def _item(self):
+        return Item("S", "Un titre", "https://exemple.fr/a")
+
+    def test_lit_la_page_et_garde_le_resume(self):
+        from veille.pipeline import enrich_descriptions
+        item = self._item()
+        history = {item.uid: {"uid": item.uid}}
+        session = SessionPageArticle()
+        assert enrich_descriptions(session, [item], history, 5, 10) == 1
+        assert item.description == RESUME
+        assert history[item.uid]["description"] == RESUME
+
+    def test_ne_visite_qu_une_fois_le_meme_article(self):
+        from veille.pipeline import enrich_descriptions
+        item = self._item()
+        history = {item.uid: {"uid": item.uid, "description_checked": True}}
+        session = SessionPageArticle()
+        assert enrich_descriptions(session, [item], history, 5, 10) == 0
+        assert session.urls == []
+
+    def test_respecte_le_budget(self):
+        from veille.pipeline import enrich_descriptions
+        items = [Item("S", f"Titre {n}", f"https://exemple.fr/{n}") for n in range(5)]
+        history = {i.uid: {"uid": i.uid} for i in items}
+        session = SessionPageArticle()
+        assert enrich_descriptions(session, items, history, 2, 10) == 2
+        assert len(session.urls) == 2
+
+    def test_une_page_injoignable_ne_fait_pas_echouer_la_source(self):
+        from veille.pipeline import enrich_descriptions
+        item = self._item()
+        history = {item.uid: {"uid": item.uid}}
+        assert enrich_descriptions(ExplodingSession(), [item], history, 5, 10) == 1
+        assert item.description == ""
+        assert history[item.uid]["description_checked"] is True
+
+    def test_ignore_un_article_absent_de_l_historique(self):
+        from veille.pipeline import enrich_descriptions
+        session = SessionPageArticle()
+        assert enrich_descriptions(session, [self._item()], {}, 5, 10) == 0
+
+
+class TestRecordInHistoryEtResumes:
+    def test_un_resume_obtenu_survit_a_un_flux_qui_n_en_donne_pas(self):
+        history: dict = {}
+        item = Item("S", "Un titre", "https://exemple.fr/a", description="")
+        record_in_history([item], history)
+        history[item.uid]["description"] = RESUME
+        record_in_history([Item("S", "Un titre", "https://exemple.fr/a")], history)
+        assert history[item.uid]["description"] == RESUME

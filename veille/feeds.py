@@ -10,7 +10,7 @@ from urllib.parse import urljoin, urlparse
 from veille.dates import normalize_date
 from veille.fetch import is_feed_content
 from veille.models import Item, dedupe
-from veille.text import clean_text
+from veille.text import clean_summary, clean_text
 
 # Emplacements conventionnels testés quand le site ne déclare pas son flux.
 FEED_PATH_CANDIDATES = ("/feed/", "/rss.xml", "/feed.xml", "/atom.xml", "/index.xml")
@@ -34,7 +34,7 @@ def parse_feed_bytes(content: bytes, source: str, max_items: int) -> list[Item]:
             source=source,
             title=title,
             link=link,
-            description=clean_text(entry.get("summary") or entry.get("description") or entry.get("content")),
+            description=clean_summary(entry.get("summary") or entry.get("description") or entry.get("content")),
             published=published,
         ))
     return dedupe(items)

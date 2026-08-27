@@ -7,6 +7,10 @@ settings:
   max_items_per_feed: 60
   request_timeout: 30
   keep_previous_on_error: true
+  # Certains flux WordPress ne publient aucun résumé : il est alors lu sur la
+  # page de l'article. Une page par article, jamais redemandée ensuite.
+  enrich_descriptions: true
+  max_enrichments_per_run: 25
   user_agent: "VeilleRSS/1.0 (+https://github.com/AbonnementsGrp/veille-rss)"
 
 sites:
