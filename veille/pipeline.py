@@ -21,6 +21,7 @@ from veille.feeds import discover_feed, parse_feed_bytes
 from veille.fetch import is_feed_content, request_session
 from veille.history import history_items_for_source, load_history, save_history
 from veille.models import Item, dedupe
+from veille.sitemap import items_from_sitemap
 from veille.output import write_dashboard, write_feed, write_opml
 
 log = logging.getLogger(__name__)
@@ -46,7 +47,7 @@ def resolve_feed_url(session: Any, site: dict[str, Any], timeout: int) -> str:
     """
     if site.get("official_feed"):
         return str(site["official_feed"])
-    if str(site.get("mode", "")).lower() == "page":
+    if str(site.get("mode", "")).lower() in ("page", "sitemap"):
         return ""
     return discover_feed(session, site["url"], timeout) or ""
 
@@ -72,7 +73,16 @@ def fetch_items(session: Any, site: dict[str, Any], feed_url: str, timeout: int,
     Un flux configuré qui s'avère inexploitable ne condamne pas la source : le
     traitement se replie sur l'extraction de la page d'actualités, qui reste
     thématiquement juste là où un flux découvert au hasard du site ne l'est pas.
+
+    `mode: sitemap` court-circuite tout cela : c'est le seul recours pour un
+    site dont les pages sont rendues en JavaScript.
     """
+    if str(site.get("mode", "")).lower() == "sitemap":
+        plan = site.get("sitemap") or ""
+        if not plan:
+            raise RuntimeError("mode sitemap sans clé 'sitemap' dans la configuration")
+        return items_from_sitemap(session, str(plan), site["name"], timeout, max_items), "plan de site"
+
     echec_flux = ""
     if feed_url:
         try:

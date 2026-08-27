@@ -200,3 +200,30 @@ class TestModePage:
         site = {"name": "S", "url": "https://exemple.fr/actu/", "mode": "page",
                 "official_feed": "https://exemple.fr/rss.xml"}
         assert resolve_feed_url(ExplodingSession(), site, 10) == "https://exemple.fr/rss.xml"
+
+
+class TestModeSitemap:
+    """`mode: sitemap` remplace toute autre stratégie."""
+
+    def _site(self):
+        return {
+            "name": "ANAP - Actualités",
+            "url": "https://exemple.fr/s/actualites",
+            "mode": "sitemap",
+            "sitemap": "https://exemple.fr/s/sitemap-news-1.xml",
+        }
+
+    def test_lit_le_plan_de_site(self, fixture_bytes):
+        session = StubSession(fixture_bytes("sitemap_news.xml"))
+        items, method = fetch_items(session, self._site(), "", 10, 60)
+        assert method == "plan de site"
+        assert len(items) == 3
+        assert session.urls == ["https://exemple.fr/s/sitemap-news-1.xml"]
+
+    def test_n_essaie_ni_flux_ni_page(self):
+        assert resolve_feed_url(ExplodingSession(), self._site(), 10) == ""
+
+    def test_exige_la_cle_sitemap(self):
+        site = {k: v for k, v in self._site().items() if k != "sitemap"}
+        with pytest.raises(RuntimeError, match="sans clé 'sitemap'"):
+            fetch_items(ExplodingSession(), site, "", 10, 60)

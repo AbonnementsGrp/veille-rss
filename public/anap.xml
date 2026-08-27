@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ANAP - Actualités</title>
+    <link>https://abonnementsgrp.github.io/veille-rss/anap.xml</link>
+    <description>Actualités de ANAP - Actualités</description>
+    <atom:link href="https://abonnementsgrp.github.io/veille-rss/anap.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>fr</language>
+    <lastBuildDate>Fri, 21 Aug 2026 15:54:46 +0000</lastBuildDate>
+    <item>
+      <title>Journée nationale de la transformation du handicap</title>
+      <link>https://www.anap.fr/s/article/Journ%C3%A9e-nationale-de-la-transformation-du-handicap</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">d2bbfdea71df81e23b957331862a5a924a693e4357463c704ec76b3d96fa2ae1</guid>
+      <pubDate>Fri, 21 Aug 2026 15:54:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire rdv transfo</title>
+      <link>https://www.anap.fr/s/article/webinaire-rdv-transfo</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">908c16c5be426d9b20d0ae002a139d2ac41adcf2b25d206afe9d610eb0521b3f</guid>
+      <pubDate>Fri, 21 Aug 2026 13:41:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Handicap offre services coordonnes transformation</title>
+      <link>https://www.anap.fr/s/article/handicap-offre-services-coordonnes-transformation</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">c7d2a58c41d711efc159ea28fbed0a940c13ae44c8aecd916c965754f76e4e58</guid>
+      <pubDate>Fri, 21 Aug 2026 10:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les rendez vous juridiques de la transition ecologique</title>
+      <link>https://www.anap.fr/s/article/les-rendez-vous-juridiques-de-la-transition-ecologique</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245</guid>
+      <pubDate>Wed, 19 Aug 2026 10:10:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cybersecurite en etablissement de sante plan attaque contre les attaques</title>
+      <link>https://www.anap.fr/s/article/cybersecurite-en-etablissement-de-sante-plan-attaque-contre-les-attaques</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">671d7f5a63909a335bc2ae3efc406e796707c71fdaba7339361bfc62ce509067</guid>
+      <pubDate>Mon, 17 Aug 2026 09:35:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anatomocytopathologie pourquoi et comment numeriser l activite</title>
+      <link>https://www.anap.fr/s/article/anatomocytopathologie-pourquoi-et-comment-numeriser-l-activite</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">fef109f8db45e210fd0dbeac14dcd45e170095f783e3ca07014ced4764a2018f</guid>
+      <pubDate>Mon, 17 Aug 2026 09:34:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire immobilier travaux maitrise ouvrage</title>
+      <link>https://www.anap.fr/s/article/webinaire-immobilier-travaux-maitrise-ouvrage</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">0381aa4177b4e7c2b2284caa5cf71c7262742bcca9028c51e4902c6e3b081387</guid>
+      <pubDate>Thu, 30 Jul 2026 13:48:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carte postale de demain saison 2 un podcast à glisser dans vos valises</title>
+      <link>https://www.anap.fr/s/article/Carte-postale-de-demain-saison-2-un-podcast-%C3%A0-glisser-dans-vos-valises</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">d26e20e96584b6ce924785dc142c7fead9ca0757f93cc94d55112213b2ae87a2</guid>
+      <pubDate>Thu, 30 Jul 2026 11:20:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Septembre Bouge partagez les initiatives positives des référents APS en ESMS</title>
+      <link>https://www.anap.fr/s/article/Septembre-Bouge-partagez-les-initiatives-positives-des-r%C3%A9f%C3%A9rents-APS-en-ESMS</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">3f4750019bd00b3b2608113030247bde5a29d52ce8b2ec7de35f8911fa93c18f</guid>
+      <pubDate>Thu, 30 Jul 2026 11:20:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire rh evaluer les besoins en temps medical</title>
+      <link>https://www.anap.fr/s/article/webinaire-rh-evaluer-les-besoins-en-temps-medical</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">5481d8cd1eff52b868e558c9c76a2d3c4a4bfa4d52180e1a0f52f95aca2872ea</guid>
+      <pubDate>Thu, 30 Jul 2026 09:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire rh le teletravail pour les soignants c est possible</title>
+      <link>https://www.anap.fr/s/article/webinaire-rh-le-teletravail-pour-les-soignants-c-est-possible</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">237aac35d41a37a193420996a0553e910acf9f363345c608cf9dbee393655e89</guid>
+      <pubDate>Thu, 30 Jul 2026 09:44:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire immobilier reperes dimensionnels etablissements sanitaires</title>
+      <link>https://www.anap.fr/s/article/webinaire-immobilier-reperes-dimensionnels-etablissements-sanitaires</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">ad06d4603ecf27a0aa913a36304f3b3f130a90fb01dcc05e03deac0167584da7</guid>
+      <pubDate>Thu, 30 Jul 2026 08:27:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire activite et territoires d intervention</title>
+      <link>https://www.anap.fr/s/article/webinaire-activite-et-territoires-d-intervention</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">ba7f705485775bee4fd4da5e7059eb5c3f1618dc2e09970ae77f8c1c4785e13a</guid>
+      <pubDate>Wed, 29 Jul 2026 11:32:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Masterclass bfr ars accompagnement tresorerie etablissements</title>
+      <link>https://www.anap.fr/s/article/masterclass-bfr-ars-accompagnement-tresorerie-etablissements</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">cbc33d1a125b97a9faac614d4e1b1641a7c8c773bbab1a18a1c0ff0e909389d1</guid>
+      <pubDate>Tue, 28 Jul 2026 09:13:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appui terrain secretariats medicaux</title>
+      <link>https://www.anap.fr/s/article/appui-terrain-secretariats-medicaux</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">a189edfcc41915dc05923b2210b2153c18300ccdac0eea80933913afd8512fb3</guid>
+      <pubDate>Fri, 24 Jul 2026 13:49:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trophees logistique durable sante gagnants</title>
+      <link>https://www.anap.fr/s/article/trophees-logistique-durable-sante-gagnants</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">8ed25860ebe53675ee5377b07e529a0f7b4683174baf893357e050ced26d0d24</guid>
+      <pubDate>Thu, 23 Jul 2026 09:11:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soins eco responsables une mobilisation massive et de nouvelles ressources</title>
+      <link>https://www.anap.fr/s/article/soins-eco-responsables-une-mobilisation-massive-et-de-nouvelles-ressources</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">d5b3600304871c8a6ce12b3cbda667097aa3595adf3230bd5bf3e9d4b37b7af5</guid>
+      <pubDate>Thu, 23 Jul 2026 09:10:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Masterclass bfr etablissements sanitaires optimiser tresorerie</title>
+      <link>https://www.anap.fr/s/article/masterclass-bfr-etablissements-sanitaires-optimiser-tresorerie</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">db9f7e17a9a770c41b55b1d738eee69fda8614a9817ab4090495fdc234997da1</guid>
+      <pubDate>Wed, 22 Jul 2026 13:00:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Performance sans frontiere voyages etudes</title>
+      <link>https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446</guid>
+      <pubDate>Wed, 22 Jul 2026 09:34:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire urgences mieux orienter s appuyer sur le territoire</title>
+      <link>https://www.anap.fr/s/article/webinaire-urgences-mieux-orienter-s-appuyer-sur-le-territoire</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c</guid>
+      <pubDate>Tue, 21 Jul 2026 15:03:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 1580</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-1580</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">fe0016a515ac7d228e22b0cdff7e031334fb22d4717587e4a919ea72ec5a4322</guid>
+      <pubDate>Tue, 21 Jul 2026 07:01:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 1711</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-1711</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">3bdc5d960b1a9c893f96f17ac7adec1aa579033d25236ac35194b196d548d621</guid>
+      <pubDate>Tue, 21 Jul 2026 06:17:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 1709</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-1709</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">84257007f5c7c7dfbc6675180aa2de4f22833b4e59fd1e7cca1f7e81283e2ff0</guid>
+      <pubDate>Tue, 21 Jul 2026 06:16:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 1702</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-1702</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">55d061f9951d91849432f3beb9198b43e2d9ed7a9d4a21ff0ce8210f4a8a2b1b</guid>
+      <pubDate>Tue, 21 Jul 2026 06:16:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 1716</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-1716</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">9188a55931f0ced618c18ff38be3e613a6f83145a8112eb83702d49b8df11c89</guid>
+      <pubDate>Tue, 21 Jul 2026 06:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 1700</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-1700</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">c06727d19676fc0f381f5121a9d26c4ae79c1e8859d7ef4d6151dc9bc8822410</guid>
+      <pubDate>Tue, 21 Jul 2026 06:15:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Education therapeutique du patient a distance</title>
+      <link>https://www.anap.fr/s/article/education-therapeutique-du-patient-a-distance</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">9afcd7a22a1f3012ba33b4e588fd5764aa3062cc60554af466a01c2542d15c49</guid>
+      <pubDate>Tue, 21 Jul 2026 06:14:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appui terrain innovation management collaboratifs</title>
+      <link>https://www.anap.fr/s/article/appui-terrain-innovation-management-collaboratifs</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">4894be7e86e210d7c569d7d8b61f5fb4fb465ff7043f5fc9917597ab55e72b55</guid>
+      <pubDate>Tue, 21 Jul 2026 06:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide innovation collaborative</title>
+      <link>https://www.anap.fr/s/article/guide-innovation-collaborative</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">d82f188670ce9276f5da644c46e4c03c98ea17e902c78c9965296405fe77c978</guid>
+      <pubDate>Tue, 21 Jul 2026 06:12:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Devenir un etablissement a impact</title>
+      <link>https://www.anap.fr/s/article/devenir-un-etablissement-a-impact</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">c6f0f3ebce0a8f51b71715c2ee86057b991c6dc641343415a281beae81624071</guid>
+      <pubDate>Tue, 21 Jul 2026 06:12:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boite a outil innovation collaborative</title>
+      <link>https://www.anap.fr/s/article/boite-a-outil-innovation-collaborative</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">77dda2d59e428d7cbb11c11b60fe43e5642d35c84f9a4ce490421528b5f10fed</guid>
+      <pubDate>Tue, 21 Jul 2026 06:11:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parcours publication 2765</title>
+      <link>https://www.anap.fr/s/article/parcours-publication-2765</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">dd7e05b3360fee05cce68354a5db228a02a19e2b50935eda582662dc1e1c8d02</guid>
+      <pubDate>Tue, 21 Jul 2026 06:11:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pensees prospectives 5</title>
+      <link>https://www.anap.fr/s/article/pensees-prospectives-5</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">53c8b21ae6c2cb8862683124acda47a99dad0571014cdac79a84d00f9b124eb8</guid>
+      <pubDate>Tue, 21 Jul 2026 06:10:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Faites décoller votre démarche Innovation</title>
+      <link>https://www.anap.fr/s/article/Faites-d%C3%A9coller-votre-d%C3%A9marche-Innovation</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">453aa84c83ca5947c8784478b8832b9fcb473f4f232dd47787f1e31dd18e56fd</guid>
+      <pubDate>Tue, 21 Jul 2026 06:09:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pensees prospectives</title>
+      <link>https://www.anap.fr/s/article/pensees-prospectives</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">3378053b1f0c599c04e598e9faac3ee7a70634670d3eefc9002e78a2a1c925d7</guid>
+      <pubDate>Tue, 21 Jul 2026 06:09:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Santexpo 2026 la performance commence avec vos idées</title>
+      <link>https://www.anap.fr/s/article/Santexpo-2026-la-performance-commence-avec-vos-id%C3%A9es</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">80a10d823dca58768d98953ce95abab3013761648067da84d99766f105ed4c66</guid>
+      <pubDate>Tue, 21 Jul 2026 06:08:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webconference transformer blocages en solutions puissance innovation collaborative</title>
+      <link>https://www.anap.fr/s/article/webconference-transformer-blocages-en-solutions-puissance-innovation-collaborative</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">bbe6a06769f5789e08680f3a5bd96f3ae85b64c4111307b24778448f955d237b</guid>
+      <pubDate>Tue, 21 Jul 2026 06:08:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webconference intelligence collective management collaboratif ils s en servent lancez vous</title>
+      <link>https://www.anap.fr/s/article/webconference-intelligence-collective-management-collaboratif-ils-s-en-servent-lancez-vous</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">b47342080e5bc0224f334ffdc69b33f995f20207cf32b42e5ecb4197317097e7</guid>
+      <pubDate>Tue, 21 Jul 2026 06:07:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webconference et si vous deveniez un etablissement a impact</title>
+      <link>https://www.anap.fr/s/article/webconference-et-si-vous-deveniez-un-etablissement-a-impact</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">7f7ef8ed98b456c1787fb9c252c21f08a80b7ff6b6e82d7408ddff574af7d5cd</guid>
+      <pubDate>Tue, 21 Jul 2026 06:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webconference innovation collaborative comment ca marche</title>
+      <link>https://www.anap.fr/s/article/webconference-innovation-collaborative-comment-ca-marche</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">d80aea2a7b138e69c242f1c282b7808d963f486aa643111c3de42516b308ed59</guid>
+      <pubDate>Tue, 21 Jul 2026 06:06:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Univanap 2022 les nouveaux chemins de la performance</title>
+      <link>https://www.anap.fr/s/article/univanap-2022-les-nouveaux-chemins-de-la-performance</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">f11918628fc868f5ddbbcefc9c75678a39fd40ccaf144dd43dfbf91005981891</guid>
+      <pubDate>Tue, 21 Jul 2026 06:05:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Innovation collaborative webconference guide retours appui terrain</title>
+      <link>https://www.anap.fr/s/article/innovation-collaborative-webconference-guide-retours-appui-terrain</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">f8d138a2c152ac8f9ccfdc7d6b7e3aded0edaf773f8e287cd6421261f88b5e1e</guid>
+      <pubDate>Tue, 21 Jul 2026 06:04:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Futur sante podcast carte postale</title>
+      <link>https://www.anap.fr/s/article/futur-sante-podcast-carte-postale</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">0913345ab6df7ce69d363dc6aeb51a52378ecdad9714656971c199c50552c558</guid>
+      <pubDate>Tue, 21 Jul 2026 06:03:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Outil visualisation donnees hopitaux proximite</title>
+      <link>https://www.anap.fr/s/article/outil-visualisation-donnees-hopitaux-proximite</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">7d2bd283761d83a93200088e09a3e9f3f1ccf853b27212d56c37d07c79b31adf</guid>
+      <pubDate>Tue, 21 Jul 2026 06:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cooperation publication 2032</title>
+      <link>https://www.anap.fr/s/article/cooperation-publication-2032</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">96172f7a62e9324ff766e029fa3870d66501c96e8deda6d0ac6e1dc1c9c22afe</guid>
+      <pubDate>Tue, 21 Jul 2026 05:59:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 2190</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-2190</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">2add8a7665376b0f46daddc335e0ad33c222a3a28ec4b1969ce7764733d8eff5</guid>
+      <pubDate>Tue, 21 Jul 2026 05:58:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 1489</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-1489</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">90973c8c891419f5e7f78fba26d92088f505f117fce3c0691544cb3fa7819edf</guid>
+      <pubDate>Tue, 21 Jul 2026 05:58:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 279</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-279</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">0c6ab942d870458aa6d6c84fff2d2f01fddca3316a8ae59a91b5077dfdb2c8a2</guid>
+      <pubDate>Tue, 21 Jul 2026 05:57:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 255</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-255</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">fbec602eefa9f7b780cf4e17d8a658c4dadc8b3757bd1bd530dc81bdab7e1353</guid>
+      <pubDate>Tue, 21 Jul 2026 05:57:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Partage de donnees de sante rgpd pas une contrainte</title>
+      <link>https://www.anap.fr/s/article/partage-de-donnees-de-sante-rgpd-pas-une-contrainte</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">237446f0b32aad824b7f70f3df6b510d0e6fbebe6e774e1227b4dfbbd528e81a</guid>
+      <pubDate>Tue, 21 Jul 2026 05:56:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reperes dimensionnels dsi gouvernance systeme information dsi dsn</title>
+      <link>https://www.anap.fr/s/article/reperes-dimensionnels-dsi-gouvernance-systeme-information-dsi-dsn</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">af08e4100c87766465a35cfa2f71a65118b4425cbb86717948e0cef135883967</guid>
+      <pubDate>Tue, 21 Jul 2026 05:56:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 2607</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-2607</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">569337ca45e52cdbc9019f566cf73d8c752ee41094397f47333f20158d41ca2c</guid>
+      <pubDate>Tue, 21 Jul 2026 05:55:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 2793</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-2793</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">328223d86a5e0318ecd7ff34f4a85a372239cc79be08af4aa6f07e1ca7eac73d</guid>
+      <pubDate>Tue, 21 Jul 2026 05:55:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 196</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-196</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">5a97e48768c5e1de151ccd4bb1cfaa9179674926e2de183e4dc8b669818a50d1</guid>
+      <pubDate>Tue, 21 Jul 2026 05:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 160</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-160</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">508e91130a64e7b369367100e72703700f998e7b630d3666df47d568212a7dc2</guid>
+      <pubDate>Tue, 21 Jul 2026 05:54:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 345</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-345</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">43092e307556500a0d53420400a8f5e6f857b5779fb706d9c528902670a0ce50</guid>
+      <pubDate>Tue, 21 Jul 2026 05:53:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 154</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-154</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">3697791d503ceba7ab53910a2d1283566abe70683e8b3d72724e495fe451ed15</guid>
+      <pubDate>Tue, 21 Jul 2026 05:53:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 2610</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-2610</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">dc33b7060aeefba86ed9b90d303eff68734ca8b5008b7bf0e6cbdaffebcd236c</guid>
+      <pubDate>Tue, 21 Jul 2026 05:52:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 2601</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-2601</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">d35fe1ea68e7434bdd2c4f859055a35c1bb627fb4e8a3059aa72b1b84c58553a</guid>
+      <pubDate>Tue, 21 Jul 2026 05:52:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 187</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-187</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">5b855ffb38b4329f1af5e518dfad2ef46cbf969994c3553d4abe26d8cd713ed8</guid>
+      <pubDate>Tue, 21 Jul 2026 05:51:18 +0000</pubDate>
+    </item>
+  </channel>
+</rss>

@@ -7,8 +7,11 @@
     <outline type="rss" text="Les Pros de la Petite Enfance" title="Les Pros de la Petite Enfance" xmlUrl="https://abonnementsgrp.github.io/veille-rss/pros-petite-enfance.xml" htmlUrl="https://www.lesprosdelapetiteenfance.fr/actualites/"/>
     <outline type="rss" text="Localtis - Jeunesse, éducation et formation" title="Localtis - Jeunesse, éducation et formation" xmlUrl="https://abonnementsgrp.github.io/veille-rss/localtis-jeunesse-education-formation.xml" htmlUrl="https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation"/>
     <outline type="rss" text="Localtis - Publics fragiles" title="Localtis - Publics fragiles" xmlUrl="https://abonnementsgrp.github.io/veille-rss/localtis-publics-fragiles.xml" htmlUrl="https://www.banquedesterritoires.fr/thematiques/publics-fragiles"/>
+    <outline type="rss" text="IGAS" title="IGAS" xmlUrl="https://abonnementsgrp.github.io/veille-rss/igas.xml" htmlUrl="https://igas.gouv.fr/actualites"/>
     <outline type="rss" text="Observatoire de la culture" title="Observatoire de la culture" xmlUrl="https://abonnementsgrp.github.io/veille-rss/observatoire-culture.xml" htmlUrl="https://www.observatoire-culture.net/"/>
     <outline type="rss" text="ADN Tourisme" title="ADN Tourisme" xmlUrl="https://abonnementsgrp.github.io/veille-rss/adn-tourisme.xml" htmlUrl="https://www.adn-tourisme.fr/publications/actus/"/>
+    <outline type="rss" text="C2L Solutions - Restauration collective" title="C2L Solutions - Restauration collective" xmlUrl="https://abonnementsgrp.github.io/veille-rss/c2l-restauration-collective.xml" htmlUrl="https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/"/>
     <outline type="rss" text="SNRC" title="SNRC" xmlUrl="https://abonnementsgrp.github.io/veille-rss/snrc.xml" htmlUrl="https://www.snrc.fr/le-snrc/actualites-snrc/"/>
+    <outline type="rss" text="ANAP - Actualités" title="ANAP - Actualités" xmlUrl="https://abonnementsgrp.github.io/veille-rss/anap.xml" htmlUrl="https://www.anap.fr/s/actualites"/>
   </body>
 </opml>

@@ -27,7 +27,13 @@ DASHBOARD_STYLE = (
 
 
 def write_feed(items: list[Item], title: str, description: str, output: Path, home_url: str, self_url: str = "") -> None:
-    """Écrit un flux RSS 2.0, articles triés du plus récent au plus ancien."""
+    """Écrit un flux RSS 2.0, articles triés du plus récent au plus ancien.
+
+    `lastBuildDate` porte la date du plus récent article, et non l'heure de
+    génération : la spec RSS la définit comme la dernière fois que le contenu
+    du canal a changé. Un flux inchangé produit ainsi un fichier identique,
+    ce qui évite un commit toutes les trois heures pour rien.
+    """
     fg = FeedGenerator()
     fg.id(home_url)
     fg.title(title)
@@ -36,8 +42,9 @@ def write_feed(items: list[Item], title: str, description: str, output: Path, ho
     fg.link(href=home_url, rel="alternate")
     if self_url:
         fg.link(href=self_url, rel="self")
-    fg.lastBuildDate(utc_now())
-    for item in sorted(items, key=item_sort_key, reverse=True):
+    tries = sorted(items, key=item_sort_key, reverse=True)
+    fg.lastBuildDate(item_sort_key(tries[0]) if tries else utc_now())
+    for item in tries:
         entry = fg.add_entry(order="append")
         entry.id(item.uid)
         entry.title(item.title)

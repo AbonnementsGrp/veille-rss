@@ -41,7 +41,8 @@ Les méthodes possibles, de la plus fiable à la plus fragile :
 | `repli : …` | Le flux configuré s'est avéré inexploitable ; les articles viennent de la page. |
 | `json_ld+html` | Pas de flux : les articles ont été lus dans les données structurées de la page. |
 | `html_selectors` | Articles extraits via des sélecteurs CSS. |
-| `generic_links` | Dernier recours : les liens de la page ont été notés et filtrés. |
+| `generic_links` | Les liens de la page ont été notés et filtrés. |
+| `plan de site` | Site rendu en JavaScript : URL et dates viennent de son sitemap.xml. |
 | `historique conservé` | La source est tombée ; son dernier contenu connu reste publié. |
 | `échec` | La source est tombée et aucun historique n'était disponible. |
 
@@ -125,7 +126,8 @@ une URL de page et un fichier de sortie :
 | `url` | Page d'actualités, utilisée pour la découverte de flux et le scraping. |
 | `official_feed` | Flux RSS/Atom connu. À ne renseigner qu'après l'avoir testé. |
 | `output` | Nom du fichier XML produit. Déduit du `name` si absent. |
-| `mode` | `page` interdit la découverte de flux : la page devient la seule source. Utile quand le flux racine du site n'a rien à voir avec la rubrique suivie. |
+| `mode` | `page` interdit la découverte de flux : la page devient la seule source, utile quand le flux racine du site n'a rien à voir avec la rubrique suivie. `sitemap` lit le plan de site, seul recours pour un site rendu en JavaScript. |
+| `sitemap` | URL du plan de site à lire, obligatoire avec `mode: sitemap`. |
 | `selectors` | Sélecteurs CSS (`item`, `title`, `description`, `date`) pour les sites sans flux. |
 | `link_patterns` | Fragments d'URL caractéristiques des articles, pour orienter le dernier recours. |
 
@@ -184,6 +186,10 @@ l'historique, écriture du flux individuel et intégration au flux global.
   compter les nouveautés et de republier une source momentanément tombée.
 - **Le nom d'une source est sa clé d'historique.** Le modifier revient à repartir
   de zéro pour cette source.
+- **Un flux inchangé doit produire un fichier identique.** `lastBuildDate`
+  porte donc la date du plus récent article, pas l'heure de génération, et la
+  CI ne committe que lorsqu'un article change. Le site publié reste à jour à
+  chaque exécution : l'artefact Pages vient du dossier `public`, pas du commit.
 - **Les liens sont débarrassés de leurs paramètres de suivi** (`utm_*`, `pk_*`,
   `fbclid`…) dès la création de l'article : c'est le lien qui porte son identité,
   deux rubriques d'un même site ne doivent pas produire deux fois l'article.
@@ -201,12 +207,19 @@ l'historique, écriture du flux individuel et intégration au flux global.
 
 ### Santé, Social & Sénior
 
-- **CNSA** — https://www.cnsa.fr/actualites — flux officiel : `https://www.cnsa.fr/flux-rss.xml/article`
-- **IGAS** — https://igas.gouv.fr/ — flux à générer
+- **CNSA** — https://www.cnsa.fr/actualites — flux officiel :
+  `https://www.cnsa.fr/flux-rss.xml/article`. Ce flux sert chaque article deux
+  fois, sous `/actualites/x` et `/index%2Ephp/actualites/x` ; la déduplication
+  s'en charge.
+- **IGAS** — https://igas.gouv.fr/actualites — flux officiel :
+  `https://igas.gouv.fr/rss.xml`, qui couvre actualités et rapports
 - **Localtis — Publics fragiles** — flux officiel :
   `https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml`
   — attention : rubrique dormante côté Localtis, aucun article publié depuis avril 2024
-- **ANAP** — https://www.anap.fr/s/actualites — flux à générer ; site dynamique
+- **ANAP** — https://www.anap.fr/s/actualites — `mode: sitemap`. Le site est
+  rendu en JavaScript : ses pages ne livrent aucun titre à un client HTTP. Les
+  titres sont donc déduits des URL du plan de site, d'où des libellés parfois
+  sans accents ni majuscules.
 
 ### Culture
 
@@ -227,11 +240,18 @@ l'historique, écriture du flux individuel et intégration au flux global.
 
 ## Reste à faire
 
-1. Ajouter la source IGAS à `config/sites.yml`.
-2. Écrire l'extracteur IGAS.
-3. Traiter l'ANAP, dont la page d'actualités est rendue en JavaScript.
-4. Nettoyer les résumés doublement échappés issus de certains flux WordPress.
-5. Porter les champs prévus dans `sites.yml` : nom court, ordre, thème.
+Les onze sources sont opérationnelles. Les chantiers restants portent sur la
+qualité du rendu, non sur la couverture.
+
+1. Nettoyer les résumés doublement échappés de certains flux WordPress : le
+   balisage y ressort en texte visible ("&lt;p&gt;L'article …").
+2. Remplacer les résumés passe-partout des flux WordPress ("L'article X est
+   apparu en premier sur Y") par un extrait utile.
+3. Porter les champs prévus dans `sites.yml` : nom court, ordre, thème, pour
+   grouper le tableau de bord par domaine.
+4. Surveiller le planificateur : un trou de treize heures a été observé le
+   27 août 2026, sans échec de workflow ni alerte.
+5. Améliorer les titres ANAP, qui dépendent du slug faute de mieux.
 
 ## Contraintes
 

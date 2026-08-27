@@ -1,17 +1,17 @@
 {
-  "generated_at": "2026-08-27T15:07:43.386273+00:00",
-  "sites_total": 10,
-  "sites_ok": 9,
-  "sites_error": 1,
-  "new_items": 20,
-  "merged_items": 202,
+  "generated_at": "2026-08-27T15:21:39.236914+00:00",
+  "sites_total": 11,
+  "sites_ok": 11,
+  "sites_error": 0,
+  "new_items": 0,
+  "merged_items": 279,
   "sites": [
     {
       "site": "CNSA - Actualités",
       "url": "https://www.cnsa.fr/actualites",
       "status": "ok",
       "method": "flux officiel",
-      "items": 48,
+      "items": 28,
       "feed": "cnsa.xml",
       "source_feed": "https://www.cnsa.fr/flux-rss.xml/article"
     },
@@ -52,6 +52,15 @@
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml"
     },
     {
+      "site": "IGAS",
+      "url": "https://igas.gouv.fr/actualites",
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 37,
+      "feed": "igas.xml",
+      "source_feed": "https://igas.gouv.fr/rss.xml"
+    },
+    {
       "site": "Observatoire de la culture",
       "url": "https://www.observatoire-culture.net/",
       "status": "ok",
@@ -90,11 +99,10 @@
     {
       "site": "ANAP - Actualités",
       "url": "https://www.anap.fr/s/actualites",
-      "status": "error",
-      "method": "échec",
-      "items": 0,
+      "status": "ok",
+      "method": "plan de site",
+      "items": 60,
       "feed": "anap.xml",
-      "error": "Aucun article détecté sur la page",
       "source_feed": ""
     }
   ]

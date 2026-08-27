@@ -133,3 +133,29 @@ class TestWriteDashboard:
         page = (tmp_path / "index.html").read_text(encoding="utf-8")
         assert "&lt;unknown&gt;" in page
         assert "&amp;lt;unknown" not in page
+
+
+class TestFluxDeterministe:
+    """Un contenu inchangé doit produire un fichier identique."""
+
+    ARTICLES = [
+        Item("S", "Récent", "https://exemple.fr/a", published="2026-08-25T10:00:00+00:00"),
+        Item("S", "Ancien", "https://exemple.fr/b", published="2026-07-15T10:00:00+00:00"),
+    ]
+
+    def test_deux_ecritures_identiques_donnent_le_meme_fichier(self, tmp_path):
+        premier, second = tmp_path / "1.xml", tmp_path / "2.xml"
+        write_feed(self.ARTICLES, "T", "D", premier, HOME, HOME + "f.xml")
+        write_feed(self.ARTICLES, "T", "D", second, HOME, HOME + "f.xml")
+        assert premier.read_bytes() == second.read_bytes()
+
+    def test_last_build_date_suit_le_plus_recent_article(self, tmp_path):
+        sortie = tmp_path / "flux.xml"
+        write_feed(self.ARTICLES, "T", "D", sortie, HOME)
+        construit = ET.parse(sortie).findtext(".//channel/lastBuildDate")
+        assert parsedate_to_datetime(construit).date().isoformat() == "2026-08-25"
+
+    def test_un_flux_vide_reste_ecrit(self, tmp_path):
+        sortie = tmp_path / "flux.xml"
+        write_feed([], "T", "D", sortie, HOME)
+        assert ET.parse(sortie).findtext(".//channel/title") == "T"

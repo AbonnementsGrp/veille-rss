@@ -1,4 +1,877 @@
 {
+  "d2bbfdea71df81e23b957331862a5a924a693e4357463c704ec76b3d96fa2ae1": {
+    "source": "ANAP - Actualités",
+    "title": "Journée nationale de la transformation du handicap",
+    "link": "https://www.anap.fr/s/article/Journ%C3%A9e-nationale-de-la-transformation-du-handicap",
+    "description": "",
+    "published": "2026-08-21T15:54:46+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "d2bbfdea71df81e23b957331862a5a924a693e4357463c704ec76b3d96fa2ae1"
+  },
+  "908c16c5be426d9b20d0ae002a139d2ac41adcf2b25d206afe9d610eb0521b3f": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire rdv transfo",
+    "link": "https://www.anap.fr/s/article/webinaire-rdv-transfo",
+    "description": "",
+    "published": "2026-08-21T13:41:33+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "908c16c5be426d9b20d0ae002a139d2ac41adcf2b25d206afe9d610eb0521b3f"
+  },
+  "c7d2a58c41d711efc159ea28fbed0a940c13ae44c8aecd916c965754f76e4e58": {
+    "source": "ANAP - Actualités",
+    "title": "Handicap offre services coordonnes transformation",
+    "link": "https://www.anap.fr/s/article/handicap-offre-services-coordonnes-transformation",
+    "description": "",
+    "published": "2026-08-21T10:18:29+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "c7d2a58c41d711efc159ea28fbed0a940c13ae44c8aecd916c965754f76e4e58"
+  },
+  "b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245": {
+    "source": "ANAP - Actualités",
+    "title": "Les rendez vous juridiques de la transition ecologique",
+    "link": "https://www.anap.fr/s/article/les-rendez-vous-juridiques-de-la-transition-ecologique",
+    "description": "",
+    "published": "2026-08-19T10:10:09+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245"
+  },
+  "671d7f5a63909a335bc2ae3efc406e796707c71fdaba7339361bfc62ce509067": {
+    "source": "ANAP - Actualités",
+    "title": "Cybersecurite en etablissement de sante plan attaque contre les attaques",
+    "link": "https://www.anap.fr/s/article/cybersecurite-en-etablissement-de-sante-plan-attaque-contre-les-attaques",
+    "description": "",
+    "published": "2026-08-17T09:35:21+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "671d7f5a63909a335bc2ae3efc406e796707c71fdaba7339361bfc62ce509067"
+  },
+  "fef109f8db45e210fd0dbeac14dcd45e170095f783e3ca07014ced4764a2018f": {
+    "source": "ANAP - Actualités",
+    "title": "Anatomocytopathologie pourquoi et comment numeriser l activite",
+    "link": "https://www.anap.fr/s/article/anatomocytopathologie-pourquoi-et-comment-numeriser-l-activite",
+    "description": "",
+    "published": "2026-08-17T09:34:28+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "fef109f8db45e210fd0dbeac14dcd45e170095f783e3ca07014ced4764a2018f"
+  },
+  "0381aa4177b4e7c2b2284caa5cf71c7262742bcca9028c51e4902c6e3b081387": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire immobilier travaux maitrise ouvrage",
+    "link": "https://www.anap.fr/s/article/webinaire-immobilier-travaux-maitrise-ouvrage",
+    "description": "",
+    "published": "2026-07-30T13:48:20+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "0381aa4177b4e7c2b2284caa5cf71c7262742bcca9028c51e4902c6e3b081387"
+  },
+  "d26e20e96584b6ce924785dc142c7fead9ca0757f93cc94d55112213b2ae87a2": {
+    "source": "ANAP - Actualités",
+    "title": "Carte postale de demain saison 2 un podcast à glisser dans vos valises",
+    "link": "https://www.anap.fr/s/article/Carte-postale-de-demain-saison-2-un-podcast-%C3%A0-glisser-dans-vos-valises",
+    "description": "",
+    "published": "2026-07-30T11:20:48+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "d26e20e96584b6ce924785dc142c7fead9ca0757f93cc94d55112213b2ae87a2"
+  },
+  "3f4750019bd00b3b2608113030247bde5a29d52ce8b2ec7de35f8911fa93c18f": {
+    "source": "ANAP - Actualités",
+    "title": "Septembre Bouge partagez les initiatives positives des référents APS en ESMS",
+    "link": "https://www.anap.fr/s/article/Septembre-Bouge-partagez-les-initiatives-positives-des-r%C3%A9f%C3%A9rents-APS-en-ESMS",
+    "description": "",
+    "published": "2026-07-30T11:20:15+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "3f4750019bd00b3b2608113030247bde5a29d52ce8b2ec7de35f8911fa93c18f"
+  },
+  "5481d8cd1eff52b868e558c9c76a2d3c4a4bfa4d52180e1a0f52f95aca2872ea": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire rh evaluer les besoins en temps medical",
+    "link": "https://www.anap.fr/s/article/webinaire-rh-evaluer-les-besoins-en-temps-medical",
+    "description": "",
+    "published": "2026-07-30T09:49:00+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "5481d8cd1eff52b868e558c9c76a2d3c4a4bfa4d52180e1a0f52f95aca2872ea"
+  },
+  "237aac35d41a37a193420996a0553e910acf9f363345c608cf9dbee393655e89": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire rh le teletravail pour les soignants c est possible",
+    "link": "https://www.anap.fr/s/article/webinaire-rh-le-teletravail-pour-les-soignants-c-est-possible",
+    "description": "",
+    "published": "2026-07-30T09:44:58+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "237aac35d41a37a193420996a0553e910acf9f363345c608cf9dbee393655e89"
+  },
+  "ad06d4603ecf27a0aa913a36304f3b3f130a90fb01dcc05e03deac0167584da7": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire immobilier reperes dimensionnels etablissements sanitaires",
+    "link": "https://www.anap.fr/s/article/webinaire-immobilier-reperes-dimensionnels-etablissements-sanitaires",
+    "description": "",
+    "published": "2026-07-30T08:27:41+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "ad06d4603ecf27a0aa913a36304f3b3f130a90fb01dcc05e03deac0167584da7"
+  },
+  "ba7f705485775bee4fd4da5e7059eb5c3f1618dc2e09970ae77f8c1c4785e13a": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire activite et territoires d intervention",
+    "link": "https://www.anap.fr/s/article/webinaire-activite-et-territoires-d-intervention",
+    "description": "",
+    "published": "2026-07-29T11:32:31+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "ba7f705485775bee4fd4da5e7059eb5c3f1618dc2e09970ae77f8c1c4785e13a"
+  },
+  "cbc33d1a125b97a9faac614d4e1b1641a7c8c773bbab1a18a1c0ff0e909389d1": {
+    "source": "ANAP - Actualités",
+    "title": "Masterclass bfr ars accompagnement tresorerie etablissements",
+    "link": "https://www.anap.fr/s/article/masterclass-bfr-ars-accompagnement-tresorerie-etablissements",
+    "description": "",
+    "published": "2026-07-28T09:13:05+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "cbc33d1a125b97a9faac614d4e1b1641a7c8c773bbab1a18a1c0ff0e909389d1"
+  },
+  "a189edfcc41915dc05923b2210b2153c18300ccdac0eea80933913afd8512fb3": {
+    "source": "ANAP - Actualités",
+    "title": "Appui terrain secretariats medicaux",
+    "link": "https://www.anap.fr/s/article/appui-terrain-secretariats-medicaux",
+    "description": "",
+    "published": "2026-07-24T13:49:48+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "a189edfcc41915dc05923b2210b2153c18300ccdac0eea80933913afd8512fb3"
+  },
+  "8ed25860ebe53675ee5377b07e529a0f7b4683174baf893357e050ced26d0d24": {
+    "source": "ANAP - Actualités",
+    "title": "Trophees logistique durable sante gagnants",
+    "link": "https://www.anap.fr/s/article/trophees-logistique-durable-sante-gagnants",
+    "description": "",
+    "published": "2026-07-23T09:11:04+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "8ed25860ebe53675ee5377b07e529a0f7b4683174baf893357e050ced26d0d24"
+  },
+  "d5b3600304871c8a6ce12b3cbda667097aa3595adf3230bd5bf3e9d4b37b7af5": {
+    "source": "ANAP - Actualités",
+    "title": "Soins eco responsables une mobilisation massive et de nouvelles ressources",
+    "link": "https://www.anap.fr/s/article/soins-eco-responsables-une-mobilisation-massive-et-de-nouvelles-ressources",
+    "description": "",
+    "published": "2026-07-23T09:10:13+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "d5b3600304871c8a6ce12b3cbda667097aa3595adf3230bd5bf3e9d4b37b7af5"
+  },
+  "db9f7e17a9a770c41b55b1d738eee69fda8614a9817ab4090495fdc234997da1": {
+    "source": "ANAP - Actualités",
+    "title": "Masterclass bfr etablissements sanitaires optimiser tresorerie",
+    "link": "https://www.anap.fr/s/article/masterclass-bfr-etablissements-sanitaires-optimiser-tresorerie",
+    "description": "",
+    "published": "2026-07-22T13:00:35+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "db9f7e17a9a770c41b55b1d738eee69fda8614a9817ab4090495fdc234997da1"
+  },
+  "43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446": {
+    "source": "ANAP - Actualités",
+    "title": "Performance sans frontiere voyages etudes",
+    "link": "https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes",
+    "description": "",
+    "published": "2026-07-22T09:34:01+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446"
+  },
+  "8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire urgences mieux orienter s appuyer sur le territoire",
+    "link": "https://www.anap.fr/s/article/webinaire-urgences-mieux-orienter-s-appuyer-sur-le-territoire",
+    "description": "",
+    "published": "2026-07-21T15:03:35+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c"
+  },
+  "fe0016a515ac7d228e22b0cdff7e031334fb22d4717587e4a919ea72ec5a4322": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 1580",
+    "link": "https://www.anap.fr/s/article/numerique-publication-1580",
+    "description": "",
+    "published": "2026-07-21T07:01:52+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "fe0016a515ac7d228e22b0cdff7e031334fb22d4717587e4a919ea72ec5a4322"
+  },
+  "3bdc5d960b1a9c893f96f17ac7adec1aa579033d25236ac35194b196d548d621": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 1711",
+    "link": "https://www.anap.fr/s/article/numerique-publication-1711",
+    "description": "",
+    "published": "2026-07-21T06:17:20+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "3bdc5d960b1a9c893f96f17ac7adec1aa579033d25236ac35194b196d548d621"
+  },
+  "84257007f5c7c7dfbc6675180aa2de4f22833b4e59fd1e7cca1f7e81283e2ff0": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 1709",
+    "link": "https://www.anap.fr/s/article/numerique-publication-1709",
+    "description": "",
+    "published": "2026-07-21T06:16:52+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "84257007f5c7c7dfbc6675180aa2de4f22833b4e59fd1e7cca1f7e81283e2ff0"
+  },
+  "55d061f9951d91849432f3beb9198b43e2d9ed7a9d4a21ff0ce8210f4a8a2b1b": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 1702",
+    "link": "https://www.anap.fr/s/article/numerique-publication-1702",
+    "description": "",
+    "published": "2026-07-21T06:16:03+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "55d061f9951d91849432f3beb9198b43e2d9ed7a9d4a21ff0ce8210f4a8a2b1b"
+  },
+  "9188a55931f0ced618c18ff38be3e613a6f83145a8112eb83702d49b8df11c89": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 1716",
+    "link": "https://www.anap.fr/s/article/numerique-publication-1716",
+    "description": "",
+    "published": "2026-07-21T06:15:32+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "9188a55931f0ced618c18ff38be3e613a6f83145a8112eb83702d49b8df11c89"
+  },
+  "c06727d19676fc0f381f5121a9d26c4ae79c1e8859d7ef4d6151dc9bc8822410": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 1700",
+    "link": "https://www.anap.fr/s/article/numerique-publication-1700",
+    "description": "",
+    "published": "2026-07-21T06:15:01+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "c06727d19676fc0f381f5121a9d26c4ae79c1e8859d7ef4d6151dc9bc8822410"
+  },
+  "9afcd7a22a1f3012ba33b4e588fd5764aa3062cc60554af466a01c2542d15c49": {
+    "source": "ANAP - Actualités",
+    "title": "Education therapeutique du patient a distance",
+    "link": "https://www.anap.fr/s/article/education-therapeutique-du-patient-a-distance",
+    "description": "",
+    "published": "2026-07-21T06:14:24+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "9afcd7a22a1f3012ba33b4e588fd5764aa3062cc60554af466a01c2542d15c49"
+  },
+  "4894be7e86e210d7c569d7d8b61f5fb4fb465ff7043f5fc9917597ab55e72b55": {
+    "source": "ANAP - Actualités",
+    "title": "Appui terrain innovation management collaboratifs",
+    "link": "https://www.anap.fr/s/article/appui-terrain-innovation-management-collaboratifs",
+    "description": "",
+    "published": "2026-07-21T06:13:54+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "4894be7e86e210d7c569d7d8b61f5fb4fb465ff7043f5fc9917597ab55e72b55"
+  },
+  "d82f188670ce9276f5da644c46e4c03c98ea17e902c78c9965296405fe77c978": {
+    "source": "ANAP - Actualités",
+    "title": "Guide innovation collaborative",
+    "link": "https://www.anap.fr/s/article/guide-innovation-collaborative",
+    "description": "",
+    "published": "2026-07-21T06:12:35+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "d82f188670ce9276f5da644c46e4c03c98ea17e902c78c9965296405fe77c978"
+  },
+  "c6f0f3ebce0a8f51b71715c2ee86057b991c6dc641343415a281beae81624071": {
+    "source": "ANAP - Actualités",
+    "title": "Devenir un etablissement a impact",
+    "link": "https://www.anap.fr/s/article/devenir-un-etablissement-a-impact",
+    "description": "",
+    "published": "2026-07-21T06:12:06+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "c6f0f3ebce0a8f51b71715c2ee86057b991c6dc641343415a281beae81624071"
+  },
+  "77dda2d59e428d7cbb11c11b60fe43e5642d35c84f9a4ce490421528b5f10fed": {
+    "source": "ANAP - Actualités",
+    "title": "Boite a outil innovation collaborative",
+    "link": "https://www.anap.fr/s/article/boite-a-outil-innovation-collaborative",
+    "description": "",
+    "published": "2026-07-21T06:11:32+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "77dda2d59e428d7cbb11c11b60fe43e5642d35c84f9a4ce490421528b5f10fed"
+  },
+  "dd7e05b3360fee05cce68354a5db228a02a19e2b50935eda582662dc1e1c8d02": {
+    "source": "ANAP - Actualités",
+    "title": "Parcours publication 2765",
+    "link": "https://www.anap.fr/s/article/parcours-publication-2765",
+    "description": "",
+    "published": "2026-07-21T06:11:01+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "dd7e05b3360fee05cce68354a5db228a02a19e2b50935eda582662dc1e1c8d02"
+  },
+  "53c8b21ae6c2cb8862683124acda47a99dad0571014cdac79a84d00f9b124eb8": {
+    "source": "ANAP - Actualités",
+    "title": "Pensees prospectives 5",
+    "link": "https://www.anap.fr/s/article/pensees-prospectives-5",
+    "description": "",
+    "published": "2026-07-21T06:10:33+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "53c8b21ae6c2cb8862683124acda47a99dad0571014cdac79a84d00f9b124eb8"
+  },
+  "453aa84c83ca5947c8784478b8832b9fcb473f4f232dd47787f1e31dd18e56fd": {
+    "source": "ANAP - Actualités",
+    "title": "Faites décoller votre démarche Innovation",
+    "link": "https://www.anap.fr/s/article/Faites-d%C3%A9coller-votre-d%C3%A9marche-Innovation",
+    "description": "",
+    "published": "2026-07-21T06:09:55+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "453aa84c83ca5947c8784478b8832b9fcb473f4f232dd47787f1e31dd18e56fd"
+  },
+  "3378053b1f0c599c04e598e9faac3ee7a70634670d3eefc9002e78a2a1c925d7": {
+    "source": "ANAP - Actualités",
+    "title": "Pensees prospectives",
+    "link": "https://www.anap.fr/s/article/pensees-prospectives",
+    "description": "",
+    "published": "2026-07-21T06:09:16+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "3378053b1f0c599c04e598e9faac3ee7a70634670d3eefc9002e78a2a1c925d7"
+  },
+  "80a10d823dca58768d98953ce95abab3013761648067da84d99766f105ed4c66": {
+    "source": "ANAP - Actualités",
+    "title": "Santexpo 2026 la performance commence avec vos idées",
+    "link": "https://www.anap.fr/s/article/Santexpo-2026-la-performance-commence-avec-vos-id%C3%A9es",
+    "description": "",
+    "published": "2026-07-21T06:08:38+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "80a10d823dca58768d98953ce95abab3013761648067da84d99766f105ed4c66"
+  },
+  "bbe6a06769f5789e08680f3a5bd96f3ae85b64c4111307b24778448f955d237b": {
+    "source": "ANAP - Actualités",
+    "title": "Webconference transformer blocages en solutions puissance innovation collaborative",
+    "link": "https://www.anap.fr/s/article/webconference-transformer-blocages-en-solutions-puissance-innovation-collaborative",
+    "description": "",
+    "published": "2026-07-21T06:08:07+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "bbe6a06769f5789e08680f3a5bd96f3ae85b64c4111307b24778448f955d237b"
+  },
+  "b47342080e5bc0224f334ffdc69b33f995f20207cf32b42e5ecb4197317097e7": {
+    "source": "ANAP - Actualités",
+    "title": "Webconference intelligence collective management collaboratif ils s en servent lancez vous",
+    "link": "https://www.anap.fr/s/article/webconference-intelligence-collective-management-collaboratif-ils-s-en-servent-lancez-vous",
+    "description": "",
+    "published": "2026-07-21T06:07:32+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "b47342080e5bc0224f334ffdc69b33f995f20207cf32b42e5ecb4197317097e7"
+  },
+  "7f7ef8ed98b456c1787fb9c252c21f08a80b7ff6b6e82d7408ddff574af7d5cd": {
+    "source": "ANAP - Actualités",
+    "title": "Webconference et si vous deveniez un etablissement a impact",
+    "link": "https://www.anap.fr/s/article/webconference-et-si-vous-deveniez-un-etablissement-a-impact",
+    "description": "",
+    "published": "2026-07-21T06:07:01+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "7f7ef8ed98b456c1787fb9c252c21f08a80b7ff6b6e82d7408ddff574af7d5cd"
+  },
+  "d80aea2a7b138e69c242f1c282b7808d963f486aa643111c3de42516b308ed59": {
+    "source": "ANAP - Actualités",
+    "title": "Webconference innovation collaborative comment ca marche",
+    "link": "https://www.anap.fr/s/article/webconference-innovation-collaborative-comment-ca-marche",
+    "description": "",
+    "published": "2026-07-21T06:06:26+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "d80aea2a7b138e69c242f1c282b7808d963f486aa643111c3de42516b308ed59"
+  },
+  "f11918628fc868f5ddbbcefc9c75678a39fd40ccaf144dd43dfbf91005981891": {
+    "source": "ANAP - Actualités",
+    "title": "Univanap 2022 les nouveaux chemins de la performance",
+    "link": "https://www.anap.fr/s/article/univanap-2022-les-nouveaux-chemins-de-la-performance",
+    "description": "",
+    "published": "2026-07-21T06:05:51+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "f11918628fc868f5ddbbcefc9c75678a39fd40ccaf144dd43dfbf91005981891"
+  },
+  "f8d138a2c152ac8f9ccfdc7d6b7e3aded0edaf773f8e287cd6421261f88b5e1e": {
+    "source": "ANAP - Actualités",
+    "title": "Innovation collaborative webconference guide retours appui terrain",
+    "link": "https://www.anap.fr/s/article/innovation-collaborative-webconference-guide-retours-appui-terrain",
+    "description": "",
+    "published": "2026-07-21T06:04:30+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "f8d138a2c152ac8f9ccfdc7d6b7e3aded0edaf773f8e287cd6421261f88b5e1e"
+  },
+  "0913345ab6df7ce69d363dc6aeb51a52378ecdad9714656971c199c50552c558": {
+    "source": "ANAP - Actualités",
+    "title": "Futur sante podcast carte postale",
+    "link": "https://www.anap.fr/s/article/futur-sante-podcast-carte-postale",
+    "description": "",
+    "published": "2026-07-21T06:03:56+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "0913345ab6df7ce69d363dc6aeb51a52378ecdad9714656971c199c50552c558"
+  },
+  "7d2bd283761d83a93200088e09a3e9f3f1ccf853b27212d56c37d07c79b31adf": {
+    "source": "ANAP - Actualités",
+    "title": "Outil visualisation donnees hopitaux proximite",
+    "link": "https://www.anap.fr/s/article/outil-visualisation-donnees-hopitaux-proximite",
+    "description": "",
+    "published": "2026-07-21T06:01:47+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "7d2bd283761d83a93200088e09a3e9f3f1ccf853b27212d56c37d07c79b31adf"
+  },
+  "96172f7a62e9324ff766e029fa3870d66501c96e8deda6d0ac6e1dc1c9c22afe": {
+    "source": "ANAP - Actualités",
+    "title": "Cooperation publication 2032",
+    "link": "https://www.anap.fr/s/article/cooperation-publication-2032",
+    "description": "",
+    "published": "2026-07-21T05:59:48+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "96172f7a62e9324ff766e029fa3870d66501c96e8deda6d0ac6e1dc1c9c22afe"
+  },
+  "2add8a7665376b0f46daddc335e0ad33c222a3a28ec4b1969ce7764733d8eff5": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 2190",
+    "link": "https://www.anap.fr/s/article/numerique-publication-2190",
+    "description": "",
+    "published": "2026-07-21T05:58:48+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "2add8a7665376b0f46daddc335e0ad33c222a3a28ec4b1969ce7764733d8eff5"
+  },
+  "90973c8c891419f5e7f78fba26d92088f505f117fce3c0691544cb3fa7819edf": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 1489",
+    "link": "https://www.anap.fr/s/article/numerique-publication-1489",
+    "description": "",
+    "published": "2026-07-21T05:58:20+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "90973c8c891419f5e7f78fba26d92088f505f117fce3c0691544cb3fa7819edf"
+  },
+  "0c6ab942d870458aa6d6c84fff2d2f01fddca3316a8ae59a91b5077dfdb2c8a2": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 279",
+    "link": "https://www.anap.fr/s/article/numerique-publication-279",
+    "description": "",
+    "published": "2026-07-21T05:57:49+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "0c6ab942d870458aa6d6c84fff2d2f01fddca3316a8ae59a91b5077dfdb2c8a2"
+  },
+  "fbec602eefa9f7b780cf4e17d8a658c4dadc8b3757bd1bd530dc81bdab7e1353": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 255",
+    "link": "https://www.anap.fr/s/article/numerique-publication-255",
+    "description": "",
+    "published": "2026-07-21T05:57:09+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "fbec602eefa9f7b780cf4e17d8a658c4dadc8b3757bd1bd530dc81bdab7e1353"
+  },
+  "237446f0b32aad824b7f70f3df6b510d0e6fbebe6e774e1227b4dfbbd528e81a": {
+    "source": "ANAP - Actualités",
+    "title": "Partage de donnees de sante rgpd pas une contrainte",
+    "link": "https://www.anap.fr/s/article/partage-de-donnees-de-sante-rgpd-pas-une-contrainte",
+    "description": "",
+    "published": "2026-07-21T05:56:37+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "237446f0b32aad824b7f70f3df6b510d0e6fbebe6e774e1227b4dfbbd528e81a"
+  },
+  "af08e4100c87766465a35cfa2f71a65118b4425cbb86717948e0cef135883967": {
+    "source": "ANAP - Actualités",
+    "title": "Reperes dimensionnels dsi gouvernance systeme information dsi dsn",
+    "link": "https://www.anap.fr/s/article/reperes-dimensionnels-dsi-gouvernance-systeme-information-dsi-dsn",
+    "description": "",
+    "published": "2026-07-21T05:56:08+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "af08e4100c87766465a35cfa2f71a65118b4425cbb86717948e0cef135883967"
+  },
+  "569337ca45e52cdbc9019f566cf73d8c752ee41094397f47333f20158d41ca2c": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 2607",
+    "link": "https://www.anap.fr/s/article/numerique-publication-2607",
+    "description": "",
+    "published": "2026-07-21T05:55:37+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "569337ca45e52cdbc9019f566cf73d8c752ee41094397f47333f20158d41ca2c"
+  },
+  "328223d86a5e0318ecd7ff34f4a85a372239cc79be08af4aa6f07e1ca7eac73d": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 2793",
+    "link": "https://www.anap.fr/s/article/numerique-publication-2793",
+    "description": "",
+    "published": "2026-07-21T05:55:08+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "328223d86a5e0318ecd7ff34f4a85a372239cc79be08af4aa6f07e1ca7eac73d"
+  },
+  "5a97e48768c5e1de151ccd4bb1cfaa9179674926e2de183e4dc8b669818a50d1": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 196",
+    "link": "https://www.anap.fr/s/article/numerique-publication-196",
+    "description": "",
+    "published": "2026-07-21T05:54:40+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "5a97e48768c5e1de151ccd4bb1cfaa9179674926e2de183e4dc8b669818a50d1"
+  },
+  "508e91130a64e7b369367100e72703700f998e7b630d3666df47d568212a7dc2": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 160",
+    "link": "https://www.anap.fr/s/article/numerique-publication-160",
+    "description": "",
+    "published": "2026-07-21T05:54:09+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "508e91130a64e7b369367100e72703700f998e7b630d3666df47d568212a7dc2"
+  },
+  "43092e307556500a0d53420400a8f5e6f857b5779fb706d9c528902670a0ce50": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 345",
+    "link": "https://www.anap.fr/s/article/numerique-publication-345",
+    "description": "",
+    "published": "2026-07-21T05:53:40+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "43092e307556500a0d53420400a8f5e6f857b5779fb706d9c528902670a0ce50"
+  },
+  "3697791d503ceba7ab53910a2d1283566abe70683e8b3d72724e495fe451ed15": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 154",
+    "link": "https://www.anap.fr/s/article/numerique-publication-154",
+    "description": "",
+    "published": "2026-07-21T05:53:06+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "3697791d503ceba7ab53910a2d1283566abe70683e8b3d72724e495fe451ed15"
+  },
+  "dc33b7060aeefba86ed9b90d303eff68734ca8b5008b7bf0e6cbdaffebcd236c": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 2610",
+    "link": "https://www.anap.fr/s/article/numerique-publication-2610",
+    "description": "",
+    "published": "2026-07-21T05:52:35+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "dc33b7060aeefba86ed9b90d303eff68734ca8b5008b7bf0e6cbdaffebcd236c"
+  },
+  "d35fe1ea68e7434bdd2c4f859055a35c1bb627fb4e8a3059aa72b1b84c58553a": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 2601",
+    "link": "https://www.anap.fr/s/article/numerique-publication-2601",
+    "description": "",
+    "published": "2026-07-21T05:52:05+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "d35fe1ea68e7434bdd2c4f859055a35c1bb627fb4e8a3059aa72b1b84c58553a"
+  },
+  "5b855ffb38b4329f1af5e518dfad2ef46cbf969994c3553d4abe26d8cd713ed8": {
+    "source": "ANAP - Actualités",
+    "title": "Numerique publication 187",
+    "link": "https://www.anap.fr/s/article/numerique-publication-187",
+    "description": "",
+    "published": "2026-07-21T05:51:18+00:00",
+    "first_seen": "2026-08-27T15:16:35.558461+00:00",
+    "uid": "5b855ffb38b4329f1af5e518dfad2ef46cbf969994c3553d4abe26d8cd713ed8"
+  },
+  "28c24929c3981c26fc812a893bbf0fae776cc0a918f2df3b2c72314650cde6df": {
+    "source": "IGAS",
+    "title": "Le temps de travail des médecins",
+    "link": "https://igas.gouv.fr/le-temps-de-travail-des-medecins",
+    "description": "",
+    "published": "2026-08-25T12:06:27+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "28c24929c3981c26fc812a893bbf0fae776cc0a918f2df3b2c72314650cde6df"
+  },
+  "8e35abba4f641fda3a8391352c642fd6546f584e6ec3d43ce32721ef527a9fcf": {
+    "source": "IGAS",
+    "title": "La lutte contre la fraude aux prescriptions et aux facturations à l'assurance maladie",
+    "link": "https://igas.gouv.fr/la-lutte-contre-la-fraude-aux-prescriptions-et-aux-facturations-lassurance-maladie-0",
+    "description": "",
+    "published": "2026-08-20T07:58:17+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "8e35abba4f641fda3a8391352c642fd6546f584e6ec3d43ce32721ef527a9fcf"
+  },
+  "6907075465548619033f361933c24800896d68e746a01ecf2417c69b9ea42409": {
+    "source": "IGAS",
+    "title": "Podcast de l’Igas : La qualité de la formation professionnelle",
+    "link": "https://igas.gouv.fr/podcast-de-ligas-la-qualite-de-la-formation-professionnelle",
+    "description": "",
+    "published": "2026-08-18T12:08:44+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "6907075465548619033f361933c24800896d68e746a01ecf2417c69b9ea42409"
+  },
+  "bd28d9cbe7343867d8a872058b82c0782bca0881d470ff4c9eaacc5d3b8871f8": {
+    "source": "IGAS",
+    "title": "Revue de dépenses relative à l’efficacité des politiques familiales",
+    "link": "https://igas.gouv.fr/revue-de-depenses-relative-lefficacite-des-politiques-familiales",
+    "description": "",
+    "published": "2026-08-14T08:04:33+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "bd28d9cbe7343867d8a872058b82c0782bca0881d470ff4c9eaacc5d3b8871f8"
+  },
+  "5c48f538c021c5dfb7b57b4775d796edfbff86921821b7cbe15ba1acffeb3a5a": {
+    "source": "IGAS",
+    "title": "Organisation de la périnatalité dans les territoires : affirmer une logique de santé publique",
+    "link": "https://igas.gouv.fr/organisation-de-la-perinatalite-dans-les-territoires-affirmer-une-logique-de-sante-publique-0",
+    "description": "",
+    "published": "2026-08-05T06:32:41+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "5c48f538c021c5dfb7b57b4775d796edfbff86921821b7cbe15ba1acffeb3a5a"
+  },
+  "83dde98b4fc52a1222e69f4718f6c1865bb6e39e3ded5fc15c0e82cc7d1ba229": {
+    "source": "IGAS",
+    "title": "Dépollution de l’eau potable : stratégies et pistes de financement",
+    "link": "https://igas.gouv.fr/depollution-de-leau-potable-strategies-et-pistes-de-financement-0",
+    "description": "",
+    "published": "2026-07-31T07:05:13+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "83dde98b4fc52a1222e69f4718f6c1865bb6e39e3ded5fc15c0e82cc7d1ba229"
+  },
+  "ba48fa27d9d2a5aa72b46ee3326c058e841e712f31995b84eb0865a65ba8bddf": {
+    "source": "IGAS",
+    "title": "Farida Belkhir, nommée sous-directrice au sein de la direction du budget du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique",
+    "link": "https://igas.gouv.fr/farida-belkhir-nommee-sous-directrice-au-sein-de-la-direction-du-budget-du-ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique",
+    "description": "",
+    "published": "2026-07-27T07:56:37+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "ba48fa27d9d2a5aa72b46ee3326c058e841e712f31995b84eb0865a65ba8bddf"
+  },
+  "2ab7834887d87a7fdac91ae8f88b041333602d9fee5fd2eac3f89ae992a63ec7": {
+    "source": "IGAS",
+    "title": "Le déploiement de l’intelligence artificielle dans les administrations publiques : analyse comparée, enjeux et conditions de réussite",
+    "link": "https://igas.gouv.fr/le-deploiement-de-lintelligence-artificielle-dans-les-administrations-publiques-analyse-comparee-enjeux-et-conditions-de-reussite-0",
+    "description": "",
+    "published": "2026-07-24T12:47:42+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "2ab7834887d87a7fdac91ae8f88b041333602d9fee5fd2eac3f89ae992a63ec7"
+  },
+  "f64e36c4b1eb00197da0506fe1045b596c4f9d1731936cb40b0d5e392a582cc1": {
+    "source": "IGAS",
+    "title": "Politiques sanitaires et sociales : quels sujets émergents ou en mutation ?",
+    "link": "https://igas.gouv.fr/politiques-sanitaires-et-sociales-quels-sujets-emergents-ou-en-mutation",
+    "description": "Comment adapter les politiques sanitaires et sociales aux grandes transformations économiques, démographiques, environnementales et technologiques à l’œuvre ? Quels sujets méritent une attention particulière ?",
+    "published": "2026-07-24T12:28:28+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "f64e36c4b1eb00197da0506fe1045b596c4f9d1731936cb40b0d5e392a582cc1"
+  },
+  "5ffce86b45b47ee737c60527d8f4b021aa00acc201af4c628dc9aae9fc648eae": {
+    "source": "IGAS",
+    "title": "Mission de contrôle du centre de formation Iscod",
+    "link": "https://igas.gouv.fr/mission-de-controle-du-centre-de-formation-iscod",
+    "description": "Centre de formation à distance, l'Iscod connaît une forte croissance depuis sa création en 2020. Dans son rapport de contrôle, l’Igas analyse son modèle et évalue le coût de ses formations, notamment en les comparant à des données nationales.",
+    "published": "2026-07-24T12:28:05+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "5ffce86b45b47ee737c60527d8f4b021aa00acc201af4c628dc9aae9fc648eae"
+  },
+  "1dc1781298ccf20fb32b8ef14ce32d9669ee6e33f47e6c6e9ceb543e6b20c75e": {
+    "source": "IGAS",
+    "title": "Yann Gaël Amghar, nommé directeur général de l’Agence régionale de santé des Hauts-de-France",
+    "link": "https://igas.gouv.fr/yann-gael-amghar-nomme-directeur-general-de-lagence-regionale-de-sante-des-hauts-de-france",
+    "description": "",
+    "published": "2026-07-07T07:42:33+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "1dc1781298ccf20fb32b8ef14ce32d9669ee6e33f47e6c6e9ceb543e6b20c75e"
+  },
+  "b0f57546045d2397d70221bdd7eadcfb9d6564adb7c25e3bb90f888176df9227": {
+    "source": "IGAS",
+    "title": "Le recueil de preuves sans plaintes pour les victimes de violences physiques et sexuelles",
+    "link": "https://igas.gouv.fr/le-recueil-de-preuves-sans-plaintes-pour-les-victimes-de-violences-physiques-et-sexuelles",
+    "description": "",
+    "published": "2026-07-01T10:07:12+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "b0f57546045d2397d70221bdd7eadcfb9d6564adb7c25e3bb90f888176df9227"
+  },
+  "3fa8123437bb8ae0dc025baf9ae57d3283f0c9885f71b7e19412c49cc233bcc6": {
+    "source": "IGAS",
+    "title": "Enseignement supérieur privé lucratif : 32 propositions pour réguler le secteur",
+    "link": "https://igas.gouv.fr/enseignement-superieur-prive-lucratif-32-propositions-pour-reguler-le-secteur",
+    "description": "Le rapport dresse un état des lieux du secteur, en forte expansion depuis la réforme de l'apprentissage de 2018 et largement soutenu, en France, par des financements publics.",
+    "published": "2026-06-30T08:59:00+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "3fa8123437bb8ae0dc025baf9ae57d3283f0c9885f71b7e19412c49cc233bcc6"
+  },
+  "f3cf307009c9cdecc340cad7931135b6ee4d0010a9ea40c5ece663550a0a92aa": {
+    "source": "IGAS",
+    "title": "La protection sociale complémentaire en entreprise : un dispositif à réformer ?",
+    "link": "https://igas.gouv.fr/la-protection-sociale-complementaire-en-entreprise-un-dispositif-reformer",
+    "description": "",
+    "published": "2026-06-26T12:05:40+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "f3cf307009c9cdecc340cad7931135b6ee4d0010a9ea40c5ece663550a0a92aa"
+  },
+  "9034d3cb22754c8c74e78d92cec1955c093387aff1d7a0dba4fe9d8eed0e57d3": {
+    "source": "IGAS",
+    "title": "Évaluation de la prise en charge des jeunes se déclarant mineurs non accompagnés (MNA)",
+    "link": "https://igas.gouv.fr/evaluation-de-la-prise-en-charge-des-jeunes-se-declarant-mineurs-non-accompagnes-mna",
+    "description": "",
+    "published": "2026-06-24T14:48:12+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "9034d3cb22754c8c74e78d92cec1955c093387aff1d7a0dba4fe9d8eed0e57d3"
+  },
+  "c7ca86ad1b4a9b9d9ffff98fd2630b072ee7fac0787e65ed8accd3fe3632c507": {
+    "source": "IGAS",
+    "title": "Évaluation du modèle économique de la Caisse des Français de l’étranger",
+    "link": "https://igas.gouv.fr/evaluation-du-modele-economique-de-la-caisse-des-francais-de-letranger-0",
+    "description": "",
+    "published": "2026-06-12T16:16:47+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "c7ca86ad1b4a9b9d9ffff98fd2630b072ee7fac0787e65ed8accd3fe3632c507"
+  },
+  "e3a9f83c53e4eb22f2f2660e1214424daf69eb25fb9f12cdbc641c4650adc0c7": {
+    "source": "IGAS",
+    "title": "Analyse du fonds d'intervention régional : actions, doctrine d'emploi, pilotage et gestion par les agences régionales de santé",
+    "link": "https://igas.gouv.fr/analyse-du-fonds-dintervention-regional-actions-doctrine-demploi-pilotage-et-gestion-par-les-agences-regionales-de-sante",
+    "description": "",
+    "published": "2026-06-11T16:31:09+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "e3a9f83c53e4eb22f2f2660e1214424daf69eb25fb9f12cdbc641c4650adc0c7"
+  },
+  "fa91c5562a34c8552c2039727cfd8232d073b85fbbe315ef4f404f2308f76c68": {
+    "source": "IGAS",
+    "title": "Mieux prévenir, mieux dépister et mieux prendre en charge la maladie rénale chronique",
+    "link": "https://igas.gouv.fr/mieux-prevenir-mieux-depister-et-mieux-prendre-en-charge-la-maladie-renale-chronique-0",
+    "description": "",
+    "published": "2026-06-11T16:22:20+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "fa91c5562a34c8552c2039727cfd8232d073b85fbbe315ef4f404f2308f76c68"
+  },
+  "f4fc07b2e8708894bc90d7ee6cebe2074258f054eacc355caae19750c6deda0f": {
+    "source": "IGAS",
+    "title": "Revue de dépenses sur les prescriptions en ville et à l’hôpital",
+    "link": "https://igas.gouv.fr/revue-de-depenses-sur-les-prescriptions-en-ville-et-lhopital-0",
+    "description": "",
+    "published": "2026-06-11T16:12:27+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "f4fc07b2e8708894bc90d7ee6cebe2074258f054eacc355caae19750c6deda0f"
+  },
+  "b86afa2b132bf2b3b88805cdf37ae8a112a1eda7fc12e31eaedce40b1402d484": {
+    "source": "IGAS",
+    "title": "Analyse du fonds d'intervention régional: actions, doctrine d'emploi, pilotage et gestion par les ARS",
+    "link": "https://igas.gouv.fr/analyse-du-fonds-dintervention-regional-actions-doctrine-demploi-pilotage-et-gestion-par-les-ars",
+    "description": "",
+    "published": "2026-06-11T10:16:41+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "b86afa2b132bf2b3b88805cdf37ae8a112a1eda7fc12e31eaedce40b1402d484"
+  },
+  "df8cdcd2d367956c2e6b2b65d6d7002f6f540c51c5b5bcde63408144b7248e5b": {
+    "source": "IGAS",
+    "title": "Trois nouveaux stagiaires ont rejoint l’Igas en avril dernier",
+    "link": "https://igas.gouv.fr/trois-nouveaux-stagiaires-ont-rejoint-ligas-en-avril-dernier",
+    "description": "",
+    "published": "2026-06-05T10:40:15+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "df8cdcd2d367956c2e6b2b65d6d7002f6f540c51c5b5bcde63408144b7248e5b"
+  },
+  "916358d0fa9608b0dda6c6ffda2c0a04f37bfc6f14c99fee79a64c563ecec7a6": {
+    "source": "IGAS",
+    "title": "L'Igas rencontre une délégation ukrainienne pour évoquer les pratiques de contrôle",
+    "link": "https://igas.gouv.fr/ligas-rencontre-une-delegation-ukrainienne-pour-evoquer-les-pratiques-de-controle",
+    "description": "",
+    "published": "2026-06-03T10:49:52+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "916358d0fa9608b0dda6c6ffda2c0a04f37bfc6f14c99fee79a64c563ecec7a6"
+  },
+  "e95e968a555ae81bfc20ec4161175f6c5d77cdb64eeee144fe91bc9db3246402": {
+    "source": "IGAS",
+    "title": "Cloé Chapelet, nommée directrice interrégionale adjointe à la protection de la jeunesse - Grand-Centre",
+    "link": "https://igas.gouv.fr/cloe-chapelet-nommee-directrice-interregionale-adjointe-la-protection-de-la-jeunesse-grand-centre",
+    "description": "",
+    "published": "2026-06-03T10:47:44+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "e95e968a555ae81bfc20ec4161175f6c5d77cdb64eeee144fe91bc9db3246402"
+  },
+  "893829bb7e143a5022efcf9953ef3c080b8d338ab89bdd0b2533e82006eee263": {
+    "source": "IGAS",
+    "title": "Évolution des parcours des cadres affectés sur des emplois de direction de l’administration territoriale de l’État en DDI et SGCD",
+    "link": "https://igas.gouv.fr/evolution-des-parcours-des-cadres-affectes-sur-des-emplois-de-direction-de-ladministration-territoriale-de-letat-en-ddi-et-sgcd",
+    "description": "Le rapport examine les conditions dans lesquelles s’exercent les parcours professionnels de directeurs des services déconcentrés et de leurs adjoints au niveau départemental.",
+    "published": "2026-06-02T16:07:35+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "893829bb7e143a5022efcf9953ef3c080b8d338ab89bdd0b2533e82006eee263"
+  },
+  "82956b9fa6bc5dce7af48accf3133645cdb9e8ebbbf9c332ccf96563f219f4af": {
+    "source": "IGAS",
+    "title": "Appel à manifestation d’intérêt : Les conditions de réussite des transformations organisationnelles",
+    "link": "https://igas.gouv.fr/appel-manifestation-dinteret-les-conditions-de-reussite-des-transformations-organisationnelles",
+    "description": "",
+    "published": "2026-05-29T10:18:49+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "82956b9fa6bc5dce7af48accf3133645cdb9e8ebbbf9c332ccf96563f219f4af"
+  },
+  "1abef6fd0ad9e263bc0f582f346c6fb191898b576598d457bf2f9b3da55852eb": {
+    "source": "IGAS",
+    "title": "Evaluation du régime social et fiscal des indemnités de rupture de contrat de travail",
+    "link": "https://igas.gouv.fr/evaluation-du-regime-social-et-fiscal-des-indemnites-de-rupture-de-contrat-de-travail",
+    "description": "",
+    "published": "2026-05-22T15:32:35+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "1abef6fd0ad9e263bc0f582f346c6fb191898b576598d457bf2f9b3da55852eb"
+  },
+  "4d99decc05725b530838d1f8e5d1187f5ea4801cc7daf40666688ed9c57b9d23": {
+    "source": "IGAS",
+    "title": "Rôle et missions des AESH dans l’école inclusive, aujourd’hui et demain",
+    "link": "https://igas.gouv.fr/role-et-missions-des-aesh-dans-lecole-inclusive-aujourdhui-et-demain-0",
+    "description": "",
+    "published": "2026-05-22T07:53:53+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "4d99decc05725b530838d1f8e5d1187f5ea4801cc7daf40666688ed9c57b9d23"
+  },
+  "ed44b15bde761168db8215e541d995e8ae126b74acfc62ac363aeb22e3a506ee": {
+    "source": "IGAS",
+    "title": "Contrôle de l’activité du groupe Medicharme",
+    "link": "https://igas.gouv.fr/Controle-de-l-activite-du-groupe-Medicharme",
+    "description": "",
+    "published": "2026-05-18T14:43:20+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "ed44b15bde761168db8215e541d995e8ae126b74acfc62ac363aeb22e3a506ee"
+  },
+  "0a8e809fcb523f391faacc615554b1f7c8199752b287168cbfa8c3ea2bcb068e": {
+    "source": "IGAS",
+    "title": "Mission inter-inspections relative aux diverses formes d’habitat partagé adapté au vieillissement",
+    "link": "https://igas.gouv.fr/mission-inter-inspections-relative-aux-diverses-formes-dhabitat-partage-adapte-au-vieillissement-0",
+    "description": "",
+    "published": "2026-05-11T15:08:06+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "0a8e809fcb523f391faacc615554b1f7c8199752b287168cbfa8c3ea2bcb068e"
+  },
+  "6bf2b08a53fdd3d26fa128d85a056d7bf4c883eed9c6810e0a8dbcb5d9b6978d": {
+    "source": "IGAS",
+    "title": "Bilan et évolution du dispositif de régulation du prix des médicaments",
+    "link": "https://igas.gouv.fr/bilan-et-evolution-du-dispositif-de-regulation-du-prix-des-medicaments",
+    "description": "Dans un contexte de forte progression des dépenses des médicaments, ce rapport dresse un bilan du système actuel et formule des propositions pour en améliorer la lisibilité et la soutenabilité.",
+    "published": "2026-05-07T15:20:34+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "6bf2b08a53fdd3d26fa128d85a056d7bf4c883eed9c6810e0a8dbcb5d9b6978d"
+  },
+  "e2aba11654b9943caebd3232a7ac6076baaa3da493f8a7efd3930132e6a0d9df": {
+    "source": "IGAS",
+    "title": "La chaîne de distribution pharmaceutique",
+    "link": "https://igas.gouv.fr/la-chaine-de-distribution-pharmaceutique-0",
+    "description": "",
+    "published": "2026-05-07T14:30:37+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "e2aba11654b9943caebd3232a7ac6076baaa3da493f8a7efd3930132e6a0d9df"
+  },
+  "940541be1e7118d02bba6ce0021944566b3f38305de28d192a8dd8c6e8f3bead": {
+    "source": "IGAS",
+    "title": "Mission complémentaire sur le système de retraite des agents des collectivités locales et des établissements hospitaliers : perspectives à horizon 2045",
+    "link": "https://igas.gouv.fr/mission-complementaire-sur-le-systeme-de-retraite-des-agents-des-collectivites-locales-et-des-etablissements-hospitaliers-perspectives-horizon-2045-0",
+    "description": "",
+    "published": "2026-05-06T14:15:36+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "940541be1e7118d02bba6ce0021944566b3f38305de28d192a8dd8c6e8f3bead"
+  },
+  "18a3e1b129ef1c26fa1fba8dc29d678097d071f3372da6e53df9ac2f5b7a7ab0": {
+    "source": "IGAS",
+    "title": "Mission complémentaire sur le système de retraite des agents des collectivités locales et des établissements hospitaliers – Perspectives à horizon 2045",
+    "link": "https://igas.gouv.fr/mission-complementaire-sur-le-systeme-de-retraite-des-agents-des-collectivites-locales-et-des-etablissements-hospitaliers-perspectives-horizon-2045",
+    "description": "",
+    "published": "2026-05-06T12:52:14+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "18a3e1b129ef1c26fa1fba8dc29d678097d071f3372da6e53df9ac2f5b7a7ab0"
+  },
+  "beebabf06bff332fa5a22b49b7bdd73b90e6f27507e6fad21e1fc332fd4c9067": {
+    "source": "IGAS",
+    "title": "L'Igas lance son premier Prix du mémoire de recherche",
+    "link": "https://igas.gouv.fr/ligas-lance-son-premier-prix-du-memoire-de-recherche",
+    "description": "",
+    "published": "2026-04-17T09:27:13+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "beebabf06bff332fa5a22b49b7bdd73b90e6f27507e6fad21e1fc332fd4c9067"
+  },
+  "ff5c6d89d9b5dae3c06122234bebed940588239317c847d8486725e5a04e4bfe": {
+    "source": "IGAS",
+    "title": "Signature d'une convention cadre entre l'Igas et Expertise France",
+    "link": "https://igas.gouv.fr/signature-dune-convention-cadre-entre-ligas-et-expertise-france",
+    "description": "",
+    "published": "2026-04-16T08:55:01+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "ff5c6d89d9b5dae3c06122234bebed940588239317c847d8486725e5a04e4bfe"
+  },
+  "d87ce0785190199b0ca0950014264a44bdf388079ebb791f4945f157d1126110": {
+    "source": "IGAS",
+    "title": "Prix de thèse 2026",
+    "link": "https://igas.gouv.fr/prix-de-these-2026",
+    "description": "",
+    "published": "2026-04-14T08:34:29+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "d87ce0785190199b0ca0950014264a44bdf388079ebb791f4945f157d1126110"
+  },
+  "26751e22470e269147933b5054f9bf76966c718d423781065b6788ac610c482f": {
+    "source": "IGAS",
+    "title": "Commission des suites de l’Igas : Premier bilan d’activité pour la période 2023-2025",
+    "link": "https://igas.gouv.fr/commission-des-suites-de-ligas-premier-bilan-dactivite-pour-la-periode-2023-2025",
+    "description": "",
+    "published": "2026-04-13T09:04:05+00:00",
+    "first_seen": "2026-08-27T15:12:45.751597+00:00",
+    "uid": "26751e22470e269147933b5054f9bf76966c718d423781065b6788ac610c482f"
+  },
   "f33303c0289d0c45308552422e184d7d8c08579bddb2ca8b57480e5179ff2855": {
     "source": "SNRC",
     "title": "[Infographie]- Découvrez en images les résultats du sondage IPSOS pour le SNRC !",

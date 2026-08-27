@@ -8,7 +8,7 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 15:07:43 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 14:07:03 +0000</lastBuildDate>
     <item>
       <title>Alerte sur 150 produits pour bébés vendus en ligne jugés dangereux</title>
       <link>https://www.lesprosdelapetiteenfance.fr/une-association-de-consommateurs-britannique-alerte-150-articles-pour-bebes-vendus-sur-les-plateformes-en-ligne-presentent-un-danger-potentiel/</link>
@@ -52,6 +52,13 @@
       <pubDate>Tue, 25 Aug 2026 14:06:34 +0000</pubDate>
     </item>
     <item>
+      <title>Le temps de travail des médecins</title>
+      <link>https://igas.gouv.fr/le-temps-de-travail-des-medecins</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">28c24929c3981c26fc812a893bbf0fae776cc0a918f2df3b2c72314650cde6df</guid>
+      <pubDate>Tue, 25 Aug 2026 12:06:27 +0000</pubDate>
+    </item>
+    <item>
       <title>Offre médico-sociale : la CNSA soutient 5 nouveaux projets innovants en 2026</title>
       <link>https://www.cnsa.fr/actualites/offre-medico-sociale-la-cnsa-soutient-5-nouveaux-projets-innovants-en-2026</link>
       <description>Cette année 2026, 152 projets ont été soumis dans le cadre de l’appel à projets annuel « Expérimenter pour accompagner l’évolution de l’offre médico-sociale ». À l’issue de la sélection par le comité des subventions de la CNSA, 5 projets ont été retenus, pour un montant total de soutien de plus d'un million d'euros.</description>
@@ -80,11 +87,53 @@
       <pubDate>Mon, 24 Aug 2026 07:47:06 +0000</pubDate>
     </item>
     <item>
+      <title>Journée nationale de la transformation du handicap</title>
+      <link>https://www.anap.fr/s/article/Journ%C3%A9e-nationale-de-la-transformation-du-handicap</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">d2bbfdea71df81e23b957331862a5a924a693e4357463c704ec76b3d96fa2ae1</guid>
+      <pubDate>Fri, 21 Aug 2026 15:54:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire rdv transfo</title>
+      <link>https://www.anap.fr/s/article/webinaire-rdv-transfo</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">908c16c5be426d9b20d0ae002a139d2ac41adcf2b25d206afe9d610eb0521b3f</guid>
+      <pubDate>Fri, 21 Aug 2026 13:41:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Handicap offre services coordonnes transformation</title>
+      <link>https://www.anap.fr/s/article/handicap-offre-services-coordonnes-transformation</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">c7d2a58c41d711efc159ea28fbed0a940c13ae44c8aecd916c965754f76e4e58</guid>
+      <pubDate>Fri, 21 Aug 2026 10:18:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>La lutte contre la fraude aux prescriptions et aux facturations à l'assurance maladie</title>
+      <link>https://igas.gouv.fr/la-lutte-contre-la-fraude-aux-prescriptions-et-aux-facturations-lassurance-maladie-0</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">8e35abba4f641fda3a8391352c642fd6546f584e6ec3d43ce32721ef527a9fcf</guid>
+      <pubDate>Thu, 20 Aug 2026 07:58:17 +0000</pubDate>
+    </item>
+    <item>
       <title>Crèche : et si l’âge des autres enfants importait moins qu’on ne le pense ?</title>
       <link>https://www.lesprosdelapetiteenfance.fr/creche-et-si-lage-des-autres-enfants-importait-moins-quon-ne-le-pense/</link>
       <description>L’article Crèche : et si l’âge des autres enfants importait moins qu’on ne le pense ? est apparu en premier sur Les pros de la petite enfance .</description>
       <guid isPermaLink="false">cc806d5bdcb7c354016f044ab28edb12a03e85f088617320edeaca9a5ca091b4</guid>
       <pubDate>Thu, 20 Aug 2026 07:44:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les rendez vous juridiques de la transition ecologique</title>
+      <link>https://www.anap.fr/s/article/les-rendez-vous-juridiques-de-la-transition-ecologique</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245</guid>
+      <pubDate>Wed, 19 Aug 2026 10:10:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Podcast de l’Igas : La qualité de la formation professionnelle</title>
+      <link>https://igas.gouv.fr/podcast-de-ligas-la-qualite-de-la-formation-professionnelle</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">6907075465548619033f361933c24800896d68e746a01ecf2417c69b9ea42409</guid>
+      <pubDate>Tue, 18 Aug 2026 12:08:44 +0000</pubDate>
     </item>
     <item>
       <title>Faut-il multiplier les jouets pour stimuler le développement du bébé ?</title>
@@ -101,6 +150,20 @@
       <pubDate>Mon, 17 Aug 2026 13:16:23 +0000</pubDate>
     </item>
     <item>
+      <title>Cybersecurite en etablissement de sante plan attaque contre les attaques</title>
+      <link>https://www.anap.fr/s/article/cybersecurite-en-etablissement-de-sante-plan-attaque-contre-les-attaques</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">671d7f5a63909a335bc2ae3efc406e796707c71fdaba7339361bfc62ce509067</guid>
+      <pubDate>Mon, 17 Aug 2026 09:35:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Anatomocytopathologie pourquoi et comment numeriser l activite</title>
+      <link>https://www.anap.fr/s/article/anatomocytopathologie-pourquoi-et-comment-numeriser-l-activite</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">fef109f8db45e210fd0dbeac14dcd45e170095f783e3ca07014ced4764a2018f</guid>
+      <pubDate>Mon, 17 Aug 2026 09:34:28 +0000</pubDate>
+    </item>
+    <item>
       <title>Sonia Pires est nommée directrice de l’accès aux droits et aux parcours de la CNSA</title>
       <link>https://www.cnsa.fr/actualites/sonia-pires-est-nommee-directrice-de-lacces-aux-droits-et-aux-parcours-de-la-cnsa</link>
       <description>Depuis le 6 août 2026, Sonia Pires est nommée directrice de l’accès aux droits et aux parcours de la CNSA.</description>
@@ -113,6 +176,13 @@
       <description>L’article Canicule : la chaleur affecte-t-elle le développement cognitif des jeunes enfants ? est apparu en premier sur Les pros de la petite enfance .</description>
       <guid isPermaLink="false">5f9ea7c36c0fce8e8c82285f7d7eeaa599fe81cab208e7cda74205d24bd1271c</guid>
       <pubDate>Sat, 15 Aug 2026 17:25:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Revue de dépenses relative à l’efficacité des politiques familiales</title>
+      <link>https://igas.gouv.fr/revue-de-depenses-relative-lefficacite-des-politiques-familiales</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">bd28d9cbe7343867d8a872058b82c0782bca0881d470ff4c9eaacc5d3b8871f8</guid>
+      <pubDate>Fri, 14 Aug 2026 08:04:33 +0000</pubDate>
     </item>
     <item>
       <title>Caries et gingivites chez les tout-petits : la prévention précoce compte plus qu’on ne le pense</title>
@@ -192,6 +262,13 @@
       <pubDate>Wed, 05 Aug 2026 07:54:42 +0000</pubDate>
     </item>
     <item>
+      <title>Organisation de la périnatalité dans les territoires : affirmer une logique de santé publique</title>
+      <link>https://igas.gouv.fr/organisation-de-la-perinatalite-dans-les-territoires-affirmer-une-logique-de-sante-publique-0</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">5c48f538c021c5dfb7b57b4775d796edfbff86921821b7cbe15ba1acffeb3a5a</guid>
+      <pubDate>Wed, 05 Aug 2026 06:32:41 +0000</pubDate>
+    </item>
+    <item>
       <title>Santé mentale des enfants : l’imprévisibilité du quotidien, un signal à ne pas négliger</title>
       <link>https://www.lesprosdelapetiteenfance.fr/sante-mentale-des-enfants-limprevisibilite-du-quotidien-un-signal-a-ne-pas-negliger/</link>
       <description>L’article Santé mentale des enfants : l’imprévisibilité du quotidien, un signal à ne pas négliger est apparu en premier sur Les pros de la petite enfance .</description>
@@ -213,17 +290,24 @@
       <pubDate>Mon, 03 Aug 2026 09:20:12 +0000</pubDate>
     </item>
     <item>
+      <title>Dépollution de l’eau potable : stratégies et pistes de financement</title>
+      <link>https://igas.gouv.fr/depollution-de-leau-potable-strategies-et-pistes-de-financement-0</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">83dde98b4fc52a1222e69f4718f6c1865bb6e39e3ded5fc15c0e82cc7d1ba229</guid>
+      <pubDate>Fri, 31 Jul 2026 07:05:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire immobilier travaux maitrise ouvrage</title>
+      <link>https://www.anap.fr/s/article/webinaire-immobilier-travaux-maitrise-ouvrage</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">0381aa4177b4e7c2b2284caa5cf71c7262742bcca9028c51e4902c6e3b081387</guid>
+      <pubDate>Thu, 30 Jul 2026 13:48:20 +0000</pubDate>
+    </item>
+    <item>
       <title>Habitat inclusif : l’appel à manifestation d’intérêt 2026 est lancé !</title>
       <link>https://www.cnsa.fr/actualites/habitat-inclusif-lappel-manifestation-dinteret-2026-est-lance</link>
       <description>Les habitats inclusifs se développent fortement depuis 2020, sous l’impulsion des conseils départementaux et de partenaires diversifiés, et grâce au soutien technique et financier de la CNSA via l’aide à la vie partagée (AVP). En 2026, la CNSA lance un nouvel appel à manifestation d’intérêt (AMI) pour consolider l’offre d’habitat inclusif, partout en France, à destination des personnes âgées et des personnes en situation de handicap.</description>
       <guid isPermaLink="false">65d10ccb24ddbb7b8d046488c4b59d16ecf59930e40da1fbc2a9f4bb90c59f15</guid>
-      <pubDate>Thu, 30 Jul 2026 13:08:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Habitat inclusif : l’appel à manifestation d’intérêt 2026 est lancé !</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/habitat-inclusif-lappel-manifestation-dinteret-2026-est-lance</link>
-      <description>Les habitats inclusifs se développent fortement depuis 2020, sous l’impulsion des conseils départementaux et de partenaires diversifiés, et grâce au soutien technique et financier de la CNSA via l’aide à la vie partagée (AVP). En 2026, la CNSA lance un nouvel appel à manifestation d’intérêt (AMI) pour consolider l’offre d’habitat inclusif, partout en France, à destination des personnes âgées et des personnes en situation de handicap.</description>
-      <guid isPermaLink="false">29d7615341aea7c17d7d28e118b140e5143a127e74aee7afeb2fa96562c02af2</guid>
       <pubDate>Thu, 30 Jul 2026 13:08:48 +0000</pubDate>
     </item>
     <item>
@@ -248,6 +332,20 @@
       <pubDate>Thu, 30 Jul 2026 11:30:23 +0000</pubDate>
     </item>
     <item>
+      <title>Carte postale de demain saison 2 un podcast à glisser dans vos valises</title>
+      <link>https://www.anap.fr/s/article/Carte-postale-de-demain-saison-2-un-podcast-%C3%A0-glisser-dans-vos-valises</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">d26e20e96584b6ce924785dc142c7fead9ca0757f93cc94d55112213b2ae87a2</guid>
+      <pubDate>Thu, 30 Jul 2026 11:20:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Septembre Bouge partagez les initiatives positives des référents APS en ESMS</title>
+      <link>https://www.anap.fr/s/article/Septembre-Bouge-partagez-les-initiatives-positives-des-r%C3%A9f%C3%A9rents-APS-en-ESMS</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">3f4750019bd00b3b2608113030247bde5a29d52ce8b2ec7de35f8911fa93c18f</guid>
+      <pubDate>Thu, 30 Jul 2026 11:20:15 +0000</pubDate>
+    </item>
+    <item>
       <title>MAM de Yerres : l’Ufnafaam réagit</title>
       <link>https://www.lesprosdelapetiteenfance.fr/mam-de-yerres-lufnafaam-reagit/</link>
       <description>L’article MAM de Yerres : l’Ufnafaam réagit est apparu en premier sur Les pros de la petite enfance .</description>
@@ -255,11 +353,32 @@
       <pubDate>Thu, 30 Jul 2026 10:20:26 +0000</pubDate>
     </item>
     <item>
+      <title>Webinaire rh evaluer les besoins en temps medical</title>
+      <link>https://www.anap.fr/s/article/webinaire-rh-evaluer-les-besoins-en-temps-medical</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">5481d8cd1eff52b868e558c9c76a2d3c4a4bfa4d52180e1a0f52f95aca2872ea</guid>
+      <pubDate>Thu, 30 Jul 2026 09:49:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire rh le teletravail pour les soignants c est possible</title>
+      <link>https://www.anap.fr/s/article/webinaire-rh-le-teletravail-pour-les-soignants-c-est-possible</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">237aac35d41a37a193420996a0553e910acf9f363345c608cf9dbee393655e89</guid>
+      <pubDate>Thu, 30 Jul 2026 09:44:58 +0000</pubDate>
+    </item>
+    <item>
       <title>Les visages d’ADN Tourisme : Ludovic AZUAR</title>
       <link>https://www.adn-tourisme.fr/les-visages-adn-tourisme-ludovic-azuar/</link>
       <description>The post Les visages d’ADN Tourisme : &lt;br&gt; Ludovic AZUAR appeared first on ADN Tourisme .</description>
       <guid isPermaLink="false">7e80ca9c9933cd5ae8fb21875b0e446c534e4bdda2fba83a57709931b0ab22fe</guid>
       <pubDate>Thu, 30 Jul 2026 08:58:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire immobilier reperes dimensionnels etablissements sanitaires</title>
+      <link>https://www.anap.fr/s/article/webinaire-immobilier-reperes-dimensionnels-etablissements-sanitaires</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">ad06d4603ecf27a0aa913a36304f3b3f130a90fb01dcc05e03deac0167584da7</guid>
+      <pubDate>Thu, 30 Jul 2026 08:27:41 +0000</pubDate>
     </item>
     <item>
       <title>Service public de la petite enfance : les aides 2026 aux communes sont fixées</title>
@@ -274,6 +393,13 @@
       <description>Selon les dernières données de l'Insee, le taux de pauvreté s'est stabilisé en 2024 au niveau historiquement élevé de 15,4%, soit 9,8 millions de personnes vivant avec moins de 1.337 euros par mois et par unité de consommation. Recueillies par le CNLE, les remontées des professionnels de terrain laissent apparaître une intensification de la pauvreté – une "spirale de précarisation" – et la poursuite de l'élargissement des publics touchés. Alors que la pauvreté augmente depuis vingt ans, comment inverser la tendance sur les dix prochaines années ? Mandaté par le gouvernement, le CNLE a récemment publié une note de cadrage sur ce sujet. À plus court terme, les textes budgétaires de l'automne seront l'occasion de débattre des priorités et des moyens à dégager, le ministre du Travail et des Solidarités assumant de ne préserver que la jeunesse des 2 milliards d'économies prévues à ce jour sur son périmètre.</description>
       <guid isPermaLink="false">d09fed63891341370145404689ea5d338b0ce782433c550636440859689e40d0</guid>
       <pubDate>Wed, 29 Jul 2026 13:10:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire activite et territoires d intervention</title>
+      <link>https://www.anap.fr/s/article/webinaire-activite-et-territoires-d-intervention</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">ba7f705485775bee4fd4da5e7059eb5c3f1618dc2e09970ae77f8c1c4785e13a</guid>
+      <pubDate>Wed, 29 Jul 2026 11:32:31 +0000</pubDate>
     </item>
     <item>
       <title>Honorabilité : une enquête en cours pourrait-elle empêcher de travailler auprès des mineurs ?</title>
@@ -325,6 +451,13 @@
       <pubDate>Tue, 28 Jul 2026 10:47:57 +0000</pubDate>
     </item>
     <item>
+      <title>Masterclass bfr ars accompagnement tresorerie etablissements</title>
+      <link>https://www.anap.fr/s/article/masterclass-bfr-ars-accompagnement-tresorerie-etablissements</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">cbc33d1a125b97a9faac614d4e1b1641a7c8c773bbab1a18a1c0ff0e909389d1</guid>
+      <pubDate>Tue, 28 Jul 2026 09:13:05 +0000</pubDate>
+    </item>
+    <item>
       <title>Résidences en mer : l’art et la science à l’épreuve du grand large</title>
       <link>https://www.observatoire-culture.net/residences-mer-art-science-epreuve-grand-large/</link>
       <description>Sur les navires de recherche océanographique, artistes et scientifiques embarquent ensemble pour de longues traversées. Car l’urgence climatique a changé la donne : là où les rapports du GIEC butent sur l’abstraction des chiffres, l’art peut susciter de l’attachement et rendre sensible ce que la science seule peine à transmettre. Une collaboration fructueuse qui nécessiterait toutefois un engagement interministériel renforcé. L’article Résidences en mer : l’art et la science à l’épreuve du grand large est apparu en premier sur Observatoire des politiques culturelles .</description>
@@ -350,13 +483,6 @@
       <link>https://www.cnsa.fr/actualites/deploiement-et-usages-du-dui-8-millions-deuros-pour-les-essms-du-handicap-enfant-et-de</link>
       <description>Dans le cadre du programme ESMS Numérique, la CNSA mobilise en 2026 une enveloppe de plus de 8 millions d’euros, issue des crédits non consommés lors des campagnes précédentes. Cet appui vise à soutenir prioritairement l’équipement et les usages du dossier de l’usager informatisé (DUI) dans les établissements et services sociaux et médico-sociaux (ESSMS) accompagnant des enfants en situation de handicap, ainsi que dans les établissements et services du champ de la protection de l’enfance.</description>
       <guid isPermaLink="false">c66600d694da804b153da4a239c8320078340ff37eb5943e9113c10e3b50831c</guid>
-      <pubDate>Mon, 27 Jul 2026 13:47:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Déploiement et usages du DUI : 8 millions d’euros pour les ESSMS du handicap enfant et de la protection de l’enfance</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/deploiement-et-usages-du-dui-8-millions-deuros-pour-les-essms-du-handicap-enfant-et-de</link>
-      <description>Dans le cadre du programme ESMS Numérique, la CNSA mobilise en 2026 une enveloppe de plus de 8 millions d’euros, issue des crédits non consommés lors des campagnes précédentes. Cet appui vise à soutenir prioritairement l’équipement et les usages du dossier de l’usager informatisé (DUI) dans les établissements et services sociaux et médico-sociaux (ESSMS) accompagnant des enfants en situation de handicap, ainsi que dans les établissements et services du champ de la protection de l’enfance.</description>
-      <guid isPermaLink="false">59cdf66046ea95ab08f74c7225aaa6fe9d070f0ad5d7069c6779f8b82d5527e3</guid>
       <pubDate>Mon, 27 Jul 2026 13:47:27 +0000</pubDate>
     </item>
     <item>
@@ -388,6 +514,20 @@
       <pubDate>Mon, 27 Jul 2026 09:12:00 +0000</pubDate>
     </item>
     <item>
+      <title>Farida Belkhir, nommée sous-directrice au sein de la direction du budget du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique</title>
+      <link>https://igas.gouv.fr/farida-belkhir-nommee-sous-directrice-au-sein-de-la-direction-du-budget-du-ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">ba48fa27d9d2a5aa72b46ee3326c058e841e712f31995b84eb0865a65ba8bddf</guid>
+      <pubDate>Mon, 27 Jul 2026 07:56:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appui terrain secretariats medicaux</title>
+      <link>https://www.anap.fr/s/article/appui-terrain-secretariats-medicaux</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">a189edfcc41915dc05923b2210b2153c18300ccdac0eea80933913afd8512fb3</guid>
+      <pubDate>Fri, 24 Jul 2026 13:49:48 +0000</pubDate>
+    </item>
+    <item>
       <title>Fournitures scolaires : face à la hausse des prix, la gratuité gagne du terrain chez les collectivités</title>
       <link>https://www.banquedesterritoires.fr/fournitures-scolaires-face-la-hausse-des-prix-la-gratuite-gagne-du-terrain-chez-les-collectivites</link>
       <description>Selon le relevé annuel de l'UFC-Que Choisir publié début juillet 2026, les prix des fournitures scolaires en grande surface ont encore augmenté de 2% par rapport à 2025. Une hausse modérée mais qui s'ajoute à celle de 2% déjà observée l'an dernier et de 10% en 2023. Sur le terrain, de nombreuses collectivités continuent de soutenir les familles : de la gratuité totale aux kits ciblés en passant par les bons d'achat ou des subventions, les dispositifs d'aides se multiplient pour alléger la facture des familles à l'approche de la rentrée 2026.</description>
@@ -400,6 +540,27 @@
       <description>Le ministère de l'Éducation nationale a publié au Journal officiel du 23 juillet 2026 l'arrêté fixant le calendrier scolaire de l'année 2027-2028. La prérentrée des enseignants est fixée au mercredi 1er septembre 2027, tandis que les élèves reprendront…</description>
       <guid isPermaLink="false">ce878aa9072c02f7f212f4ba24c02000c786552677322ab53b7fe1eb7c0bbc14</guid>
       <pubDate>Fri, 24 Jul 2026 13:06:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le déploiement de l’intelligence artificielle dans les administrations publiques : analyse comparée, enjeux et conditions de réussite</title>
+      <link>https://igas.gouv.fr/le-deploiement-de-lintelligence-artificielle-dans-les-administrations-publiques-analyse-comparee-enjeux-et-conditions-de-reussite-0</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">2ab7834887d87a7fdac91ae8f88b041333602d9fee5fd2eac3f89ae992a63ec7</guid>
+      <pubDate>Fri, 24 Jul 2026 12:47:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Politiques sanitaires et sociales : quels sujets émergents ou en mutation ?</title>
+      <link>https://igas.gouv.fr/politiques-sanitaires-et-sociales-quels-sujets-emergents-ou-en-mutation</link>
+      <description>Comment adapter les politiques sanitaires et sociales aux grandes transformations économiques, démographiques, environnementales et technologiques à l’œuvre ? Quels sujets méritent une attention particulière ?</description>
+      <guid isPermaLink="false">f64e36c4b1eb00197da0506fe1045b596c4f9d1731936cb40b0d5e392a582cc1</guid>
+      <pubDate>Fri, 24 Jul 2026 12:28:28 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission de contrôle du centre de formation Iscod</title>
+      <link>https://igas.gouv.fr/mission-de-controle-du-centre-de-formation-iscod</link>
+      <description>Centre de formation à distance, l'Iscod connaît une forte croissance depuis sa création en 2020. Dans son rapport de contrôle, l’Igas analyse son modèle et évalue le coût de ses formations, notamment en les comparant à des données nationales.</description>
+      <guid isPermaLink="false">5ffce86b45b47ee737c60527d8f4b021aa00acc201af4c628dc9aae9fc648eae</guid>
+      <pubDate>Fri, 24 Jul 2026 12:28:05 +0000</pubDate>
     </item>
     <item>
       <title>VAE du titre IEPE : les cinq premières candidates ont passé leur examen</title>
@@ -444,6 +605,20 @@
       <pubDate>Thu, 23 Jul 2026 15:58:47 +0000</pubDate>
     </item>
     <item>
+      <title>Trophees logistique durable sante gagnants</title>
+      <link>https://www.anap.fr/s/article/trophees-logistique-durable-sante-gagnants</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">8ed25860ebe53675ee5377b07e529a0f7b4683174baf893357e050ced26d0d24</guid>
+      <pubDate>Thu, 23 Jul 2026 09:11:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soins eco responsables une mobilisation massive et de nouvelles ressources</title>
+      <link>https://www.anap.fr/s/article/soins-eco-responsables-une-mobilisation-massive-et-de-nouvelles-ressources</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">d5b3600304871c8a6ce12b3cbda667097aa3595adf3230bd5bf3e9d4b37b7af5</guid>
+      <pubDate>Thu, 23 Jul 2026 09:10:13 +0000</pubDate>
+    </item>
+    <item>
       <title>La Gaîté Lyrique, entre refuge et lieu ouvert</title>
       <link>https://www.observatoire-culture.net/gaite-lyrique-refuge-lieu-ouvert/</link>
       <description>Jusqu’où une institution culturelle peut-elle s’engager face aux fractures de son époque ? L’occupation de la Gaîté Lyrique par 250 mineurs isolés en décembre 2024 n’a fait que renforcer cette conviction : lutter contre le repli sur soi est au fondement même d’un lieu culturel ouvert. L’article La Gaîté Lyrique, entre refuge et lieu ouvert est apparu en premier sur Observatoire des politiques culturelles .</description>
@@ -465,11 +640,32 @@
       <pubDate>Wed, 22 Jul 2026 13:48:25 +0000</pubDate>
     </item>
     <item>
+      <title>Masterclass bfr etablissements sanitaires optimiser tresorerie</title>
+      <link>https://www.anap.fr/s/article/masterclass-bfr-etablissements-sanitaires-optimiser-tresorerie</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">db9f7e17a9a770c41b55b1d738eee69fda8614a9817ab4090495fdc234997da1</guid>
+      <pubDate>Wed, 22 Jul 2026 13:00:35 +0000</pubDate>
+    </item>
+    <item>
       <title>SPPE : l’arrêté détaillant les montants de la compensation financière par commune publié</title>
       <link>https://www.lesprosdelapetiteenfance.fr/sppe-larrete-detaillant-les-montants-de-la-compensation-financiere-par-commune-publie/</link>
       <description>L’article SPPE : l’arrêté détaillant les montants de la compensation financière par commune publié est apparu en premier sur Les pros de la petite enfance .</description>
       <guid isPermaLink="false">dd3235dc2f59597011538dd76b86e3b04998f5dc88caf143d3147346a2d975ca</guid>
       <pubDate>Wed, 22 Jul 2026 10:47:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Performance sans frontiere voyages etudes</title>
+      <link>https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446</guid>
+      <pubDate>Wed, 22 Jul 2026 09:34:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire urgences mieux orienter s appuyer sur le territoire</title>
+      <link>https://www.anap.fr/s/article/webinaire-urgences-mieux-orienter-s-appuyer-sur-le-territoire</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c</guid>
+      <pubDate>Tue, 21 Jul 2026 15:03:35 +0000</pubDate>
     </item>
     <item>
       <title>Défenseur des droits : la nomination de François-Noël Buffet validée par le Parlement</title>
@@ -484,6 +680,286 @@
       <description>Une note interministérielle du 10 juillet 2026 fixe les bonnes pratiques d'accompagnement des personnes autistes aux abords de l'eau et précise le financement des équipements de sécurité.</description>
       <guid isPermaLink="false">12c39ab7fc5520e90dd5214fbeec6e018e1bbac69ee4ecbdc177e5aa1052b236</guid>
       <pubDate>Tue, 21 Jul 2026 07:30:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 1580</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-1580</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">fe0016a515ac7d228e22b0cdff7e031334fb22d4717587e4a919ea72ec5a4322</guid>
+      <pubDate>Tue, 21 Jul 2026 07:01:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 1711</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-1711</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">3bdc5d960b1a9c893f96f17ac7adec1aa579033d25236ac35194b196d548d621</guid>
+      <pubDate>Tue, 21 Jul 2026 06:17:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 1709</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-1709</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">84257007f5c7c7dfbc6675180aa2de4f22833b4e59fd1e7cca1f7e81283e2ff0</guid>
+      <pubDate>Tue, 21 Jul 2026 06:16:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 1702</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-1702</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">55d061f9951d91849432f3beb9198b43e2d9ed7a9d4a21ff0ce8210f4a8a2b1b</guid>
+      <pubDate>Tue, 21 Jul 2026 06:16:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 1716</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-1716</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">9188a55931f0ced618c18ff38be3e613a6f83145a8112eb83702d49b8df11c89</guid>
+      <pubDate>Tue, 21 Jul 2026 06:15:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 1700</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-1700</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">c06727d19676fc0f381f5121a9d26c4ae79c1e8859d7ef4d6151dc9bc8822410</guid>
+      <pubDate>Tue, 21 Jul 2026 06:15:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Education therapeutique du patient a distance</title>
+      <link>https://www.anap.fr/s/article/education-therapeutique-du-patient-a-distance</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">9afcd7a22a1f3012ba33b4e588fd5764aa3062cc60554af466a01c2542d15c49</guid>
+      <pubDate>Tue, 21 Jul 2026 06:14:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appui terrain innovation management collaboratifs</title>
+      <link>https://www.anap.fr/s/article/appui-terrain-innovation-management-collaboratifs</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">4894be7e86e210d7c569d7d8b61f5fb4fb465ff7043f5fc9917597ab55e72b55</guid>
+      <pubDate>Tue, 21 Jul 2026 06:13:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide innovation collaborative</title>
+      <link>https://www.anap.fr/s/article/guide-innovation-collaborative</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">d82f188670ce9276f5da644c46e4c03c98ea17e902c78c9965296405fe77c978</guid>
+      <pubDate>Tue, 21 Jul 2026 06:12:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Devenir un etablissement a impact</title>
+      <link>https://www.anap.fr/s/article/devenir-un-etablissement-a-impact</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">c6f0f3ebce0a8f51b71715c2ee86057b991c6dc641343415a281beae81624071</guid>
+      <pubDate>Tue, 21 Jul 2026 06:12:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boite a outil innovation collaborative</title>
+      <link>https://www.anap.fr/s/article/boite-a-outil-innovation-collaborative</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">77dda2d59e428d7cbb11c11b60fe43e5642d35c84f9a4ce490421528b5f10fed</guid>
+      <pubDate>Tue, 21 Jul 2026 06:11:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Parcours publication 2765</title>
+      <link>https://www.anap.fr/s/article/parcours-publication-2765</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">dd7e05b3360fee05cce68354a5db228a02a19e2b50935eda582662dc1e1c8d02</guid>
+      <pubDate>Tue, 21 Jul 2026 06:11:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pensees prospectives 5</title>
+      <link>https://www.anap.fr/s/article/pensees-prospectives-5</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">53c8b21ae6c2cb8862683124acda47a99dad0571014cdac79a84d00f9b124eb8</guid>
+      <pubDate>Tue, 21 Jul 2026 06:10:33 +0000</pubDate>
+    </item>
+    <item>
+      <title>Faites décoller votre démarche Innovation</title>
+      <link>https://www.anap.fr/s/article/Faites-d%C3%A9coller-votre-d%C3%A9marche-Innovation</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">453aa84c83ca5947c8784478b8832b9fcb473f4f232dd47787f1e31dd18e56fd</guid>
+      <pubDate>Tue, 21 Jul 2026 06:09:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pensees prospectives</title>
+      <link>https://www.anap.fr/s/article/pensees-prospectives</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">3378053b1f0c599c04e598e9faac3ee7a70634670d3eefc9002e78a2a1c925d7</guid>
+      <pubDate>Tue, 21 Jul 2026 06:09:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Santexpo 2026 la performance commence avec vos idées</title>
+      <link>https://www.anap.fr/s/article/Santexpo-2026-la-performance-commence-avec-vos-id%C3%A9es</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">80a10d823dca58768d98953ce95abab3013761648067da84d99766f105ed4c66</guid>
+      <pubDate>Tue, 21 Jul 2026 06:08:38 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webconference transformer blocages en solutions puissance innovation collaborative</title>
+      <link>https://www.anap.fr/s/article/webconference-transformer-blocages-en-solutions-puissance-innovation-collaborative</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">bbe6a06769f5789e08680f3a5bd96f3ae85b64c4111307b24778448f955d237b</guid>
+      <pubDate>Tue, 21 Jul 2026 06:08:07 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webconference intelligence collective management collaboratif ils s en servent lancez vous</title>
+      <link>https://www.anap.fr/s/article/webconference-intelligence-collective-management-collaboratif-ils-s-en-servent-lancez-vous</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">b47342080e5bc0224f334ffdc69b33f995f20207cf32b42e5ecb4197317097e7</guid>
+      <pubDate>Tue, 21 Jul 2026 06:07:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webconference et si vous deveniez un etablissement a impact</title>
+      <link>https://www.anap.fr/s/article/webconference-et-si-vous-deveniez-un-etablissement-a-impact</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">7f7ef8ed98b456c1787fb9c252c21f08a80b7ff6b6e82d7408ddff574af7d5cd</guid>
+      <pubDate>Tue, 21 Jul 2026 06:07:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webconference innovation collaborative comment ca marche</title>
+      <link>https://www.anap.fr/s/article/webconference-innovation-collaborative-comment-ca-marche</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">d80aea2a7b138e69c242f1c282b7808d963f486aa643111c3de42516b308ed59</guid>
+      <pubDate>Tue, 21 Jul 2026 06:06:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Univanap 2022 les nouveaux chemins de la performance</title>
+      <link>https://www.anap.fr/s/article/univanap-2022-les-nouveaux-chemins-de-la-performance</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">f11918628fc868f5ddbbcefc9c75678a39fd40ccaf144dd43dfbf91005981891</guid>
+      <pubDate>Tue, 21 Jul 2026 06:05:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Innovation collaborative webconference guide retours appui terrain</title>
+      <link>https://www.anap.fr/s/article/innovation-collaborative-webconference-guide-retours-appui-terrain</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">f8d138a2c152ac8f9ccfdc7d6b7e3aded0edaf773f8e287cd6421261f88b5e1e</guid>
+      <pubDate>Tue, 21 Jul 2026 06:04:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Futur sante podcast carte postale</title>
+      <link>https://www.anap.fr/s/article/futur-sante-podcast-carte-postale</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">0913345ab6df7ce69d363dc6aeb51a52378ecdad9714656971c199c50552c558</guid>
+      <pubDate>Tue, 21 Jul 2026 06:03:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>Outil visualisation donnees hopitaux proximite</title>
+      <link>https://www.anap.fr/s/article/outil-visualisation-donnees-hopitaux-proximite</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">7d2bd283761d83a93200088e09a3e9f3f1ccf853b27212d56c37d07c79b31adf</guid>
+      <pubDate>Tue, 21 Jul 2026 06:01:47 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cooperation publication 2032</title>
+      <link>https://www.anap.fr/s/article/cooperation-publication-2032</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">96172f7a62e9324ff766e029fa3870d66501c96e8deda6d0ac6e1dc1c9c22afe</guid>
+      <pubDate>Tue, 21 Jul 2026 05:59:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 2190</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-2190</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">2add8a7665376b0f46daddc335e0ad33c222a3a28ec4b1969ce7764733d8eff5</guid>
+      <pubDate>Tue, 21 Jul 2026 05:58:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 1489</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-1489</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">90973c8c891419f5e7f78fba26d92088f505f117fce3c0691544cb3fa7819edf</guid>
+      <pubDate>Tue, 21 Jul 2026 05:58:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 279</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-279</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">0c6ab942d870458aa6d6c84fff2d2f01fddca3316a8ae59a91b5077dfdb2c8a2</guid>
+      <pubDate>Tue, 21 Jul 2026 05:57:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 255</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-255</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">fbec602eefa9f7b780cf4e17d8a658c4dadc8b3757bd1bd530dc81bdab7e1353</guid>
+      <pubDate>Tue, 21 Jul 2026 05:57:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Partage de donnees de sante rgpd pas une contrainte</title>
+      <link>https://www.anap.fr/s/article/partage-de-donnees-de-sante-rgpd-pas-une-contrainte</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">237446f0b32aad824b7f70f3df6b510d0e6fbebe6e774e1227b4dfbbd528e81a</guid>
+      <pubDate>Tue, 21 Jul 2026 05:56:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Reperes dimensionnels dsi gouvernance systeme information dsi dsn</title>
+      <link>https://www.anap.fr/s/article/reperes-dimensionnels-dsi-gouvernance-systeme-information-dsi-dsn</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">af08e4100c87766465a35cfa2f71a65118b4425cbb86717948e0cef135883967</guid>
+      <pubDate>Tue, 21 Jul 2026 05:56:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 2607</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-2607</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">569337ca45e52cdbc9019f566cf73d8c752ee41094397f47333f20158d41ca2c</guid>
+      <pubDate>Tue, 21 Jul 2026 05:55:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 2793</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-2793</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">328223d86a5e0318ecd7ff34f4a85a372239cc79be08af4aa6f07e1ca7eac73d</guid>
+      <pubDate>Tue, 21 Jul 2026 05:55:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 196</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-196</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">5a97e48768c5e1de151ccd4bb1cfaa9179674926e2de183e4dc8b669818a50d1</guid>
+      <pubDate>Tue, 21 Jul 2026 05:54:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 160</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-160</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">508e91130a64e7b369367100e72703700f998e7b630d3666df47d568212a7dc2</guid>
+      <pubDate>Tue, 21 Jul 2026 05:54:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 345</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-345</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">43092e307556500a0d53420400a8f5e6f857b5779fb706d9c528902670a0ce50</guid>
+      <pubDate>Tue, 21 Jul 2026 05:53:40 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 154</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-154</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">3697791d503ceba7ab53910a2d1283566abe70683e8b3d72724e495fe451ed15</guid>
+      <pubDate>Tue, 21 Jul 2026 05:53:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 2610</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-2610</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">dc33b7060aeefba86ed9b90d303eff68734ca8b5008b7bf0e6cbdaffebcd236c</guid>
+      <pubDate>Tue, 21 Jul 2026 05:52:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 2601</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-2601</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">d35fe1ea68e7434bdd2c4f859055a35c1bb627fb4e8a3059aa72b1b84c58553a</guid>
+      <pubDate>Tue, 21 Jul 2026 05:52:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Numerique publication 187</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-187</link>
+      <description>Source : ANAP - Actualités</description>
+      <guid isPermaLink="false">5b855ffb38b4329f1af5e518dfad2ef46cbf969994c3553d4abe26d8cd713ed8</guid>
+      <pubDate>Tue, 21 Jul 2026 05:51:18 +0000</pubDate>
     </item>
     <item>
       <title>Un label pour valoriser la gastronomie locale</title>
@@ -640,13 +1116,6 @@
       <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>En 2026, la CNSA poursuit et actualise son soutien aux projets immobiliers qui transforment l’offre médico-sociale</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/en-2026-la-cnsa-poursuit-et-actualise-son-soutien-aux-projets-immobiliers-qui</link>
-      <description>Qu’il s’agisse d’EHPAD, d’habitats intermédiaires ou de solutions d’habitats plus inclusifs pour les personnes handicapées, les financements visent à encourager des projets matures, territorialisés et porteurs d’un impact concret sur l’accompagnement. Ils doivent aussi permettre d’améliorer les conditions d’exercice des professionnels et de réduire les risques d’accidents du travail.</description>
-      <guid isPermaLink="false">96bbbf5aa88ef41d8b4608da33e25a1b425c8732ae3f0527d81584bd0071c73b</guid>
-      <pubDate>Tue, 14 Jul 2026 08:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Tarifs en crèche : l’État automatise le calcul pour alléger les démarches des professionnels et des familles</title>
       <link>https://www.lesprosdelapetiteenfance.fr/tarifs-en-creche-letat-automatise-le-calcul-pour-alleger-les-demarches-des-professionnels-et-des-familles/</link>
       <description>L’article Tarifs en crèche : l’État automatise le calcul pour alléger les démarches des professionnels et des familles est apparu en premier sur Les pros de la petite enfance .</description>
@@ -682,13 +1151,6 @@
       <pubDate>Thu, 09 Jul 2026 10:23:10 +0000</pubDate>
     </item>
     <item>
-      <title>Le Conseil de la CNSA appelle le Gouvernement à préparer le choc démographique</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/le-conseil-de-la-cnsa-appelle-le-gouvernement-preparer-le-choc-demographique</link>
-      <description>À l'approche des arbitrages du Projet de loi de financement de la sécurité sociale (PLFSS) pour 2027, les membres du Conseil de la CNSA appellent le Gouvernement à conforter durablement les moyens de la branche Autonomie. Dans un courrier adressé au Premier ministre, son président, Paul Christophe, défend une politique d'investissement social à la hauteur du vieillissement de la population, des besoins des personnes âgées et des personnes en situation de handicap, et des enjeux d'équité entre les territoires.</description>
-      <guid isPermaLink="false">4436368d2ce2a2af302fac423863e90f1eded8bc9dafeda675541eaab082f115</guid>
-      <pubDate>Thu, 09 Jul 2026 10:23:10 +0000</pubDate>
-    </item>
-    <item>
       <title>Hausse continue des saisines des services de la médiatrice de l'Éducation nationale</title>
       <link>https://www.banquedesterritoires.fr/hausse-continue-des-saisines-des-services-de-la-mediatrice-de-leducation-nationale</link>
       <description>Le rapport annuel de la médiatrice de l'Éducation nationale et de l'Enseignement supérieur, présenté le 8 juillet 2026, consacre pour la première fois son bilan à la santé mentale des élèves, des étudiants et des personnels. Les services ont traité en 2025 plus de 28.5000 saisines, soit 22% de plus qu'en 2024 et +57% depuis 2020. La médiatrice met en garde contre le fonctionnement du système éducatif, qui, dans de nombreux cas, peut "provoquer ou aggraver le mal-être des usagers ou des agents". Cela concerne les collectivités, coemployeurs des AESH et partenaires des dispositifs locaux d'accompagnement psychologique des jeunes.</description>
@@ -717,18 +1179,18 @@
       <pubDate>Tue, 07 Jul 2026 08:39:04 +0000</pubDate>
     </item>
     <item>
-      <title>Transformation de l’offre handicap : le fonds d’appui accélère le passage à une offre de services coordonnés</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/transformation-de-loffre-handicap-le-fonds-dappui-accelere-le-passage-une-offre-de</link>
-      <description>Prévu par la Conférence nationale du handicap de 2023, le fonds d’appui à la transformation de l’offre pour les personnes en situation de handicap poursuit son déploiement en 2026. Pensé comme un levier d’ingénierie, et d’investissement immobilier, il accompagne dans les territoires le passage d’une logique de places à une logique de services coordonnés, plus souple, plus lisible et davantage centrée sur les besoins et les choix de vie des personnes.</description>
-      <guid isPermaLink="false">8e6f91e3f1de95ed0b8ffab84117d8b264cb65b65a6eb0738b6ca5afa2e61d3f</guid>
-      <pubDate>Tue, 07 Jul 2026 08:39:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Education artistique et culturelle : une nouvelle campagne pour relancer le label "100% EAC"</title>
       <link>https://www.banquedesterritoires.fr/education-artistique-et-culturelle-une-nouvelle-campagne-pour-relancer-le-label-100-eac</link>
       <description>Les ministères de la Culture et de l'Éducation nationale ont lancé le 1er juillet 2026 la troisième campagne nationale de labellisation "100% éducation artistique et culturelle-EAC" destinée aux collectivités territoriales (hors régions) et à leurs groupements. Lancé en 2022, le label…</description>
       <guid isPermaLink="false">933ee6215979459cbf3d9218fadc4aed753edffd62ad6d13a635894334d9232f</guid>
       <pubDate>Tue, 07 Jul 2026 08:35:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>Yann Gaël Amghar, nommé directeur général de l’Agence régionale de santé des Hauts-de-France</title>
+      <link>https://igas.gouv.fr/yann-gael-amghar-nomme-directeur-general-de-lagence-regionale-de-sante-des-hauts-de-france</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">1dc1781298ccf20fb32b8ef14ce32d9669ee6e33f47e6c6e9ceb543e6b20c75e</guid>
+      <pubDate>Tue, 07 Jul 2026 07:42:33 +0000</pubDate>
     </item>
     <item>
       <title>Les porteurs de projet invités à candidater aux "Trophées des initiatives FSE+ et FTJ 2026"</title>
@@ -780,13 +1242,6 @@
       <pubDate>Fri, 03 Jul 2026 06:42:52 +0000</pubDate>
     </item>
     <item>
-      <title>Canicule : la CNSA s’associe à la plateforme JeVeuxAider.gouv.fr pour mobiliser des bénévoles</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/canicule-la-cnsa-sassocie-la-plateforme-jeveuxaidergouvfr-pour-mobiliser-des-benevoles</link>
-      <description>En étroite collaboration avec JeVeuxAider.gouv.fr, la CNSA invite les acteurs de ses réseaux à publier leurs missions de bénévolat afin de renforcer l'accompagnement des personnes âgées et des personnes en situation de handicap, particulièrement vulnérables durant les fortes chaleurs.</description>
-      <guid isPermaLink="false">8ada123fe91d33e479df7fbdf53e1651a58a9875c92ec2fd0a55c33d3cda7f5d</guid>
-      <pubDate>Fri, 03 Jul 2026 06:42:52 +0000</pubDate>
-    </item>
-    <item>
       <title>Christelle Chassagne élue Présidente d’ADN Tourisme</title>
       <link>https://www.adn-tourisme.fr/christelle-chassagne-elue-presidente-adn-tourisme/</link>
       <description>The post Christelle Chassagne élue &lt;br&gt; Présidente d’ADN Tourisme appeared first on ADN Tourisme .</description>
@@ -801,17 +1256,24 @@
       <pubDate>Thu, 02 Jul 2026 06:25:37 +0000</pubDate>
     </item>
     <item>
+      <title>Le recueil de preuves sans plaintes pour les victimes de violences physiques et sexuelles</title>
+      <link>https://igas.gouv.fr/le-recueil-de-preuves-sans-plaintes-pour-les-victimes-de-violences-physiques-et-sexuelles</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">b0f57546045d2397d70221bdd7eadcfb9d6564adb7c25e3bb90f888176df9227</guid>
+      <pubDate>Wed, 01 Jul 2026 10:07:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enseignement supérieur privé lucratif : 32 propositions pour réguler le secteur</title>
+      <link>https://igas.gouv.fr/enseignement-superieur-prive-lucratif-32-propositions-pour-reguler-le-secteur</link>
+      <description>Le rapport dresse un état des lieux du secteur, en forte expansion depuis la réforme de l'apprentissage de 2018 et largement soutenu, en France, par des financements publics.</description>
+      <guid isPermaLink="false">3fa8123437bb8ae0dc025baf9ae57d3283f0c9885f71b7e19412c49cc233bcc6</guid>
+      <pubDate>Tue, 30 Jun 2026 08:59:00 +0000</pubDate>
+    </item>
+    <item>
       <title>2025, une année de consolidation de la branche Autonomie</title>
       <link>https://www.cnsa.fr/actualites/2025-une-annee-de-consolidation-de-la-branche-autonomie</link>
       <description>En 2025, la branche Autonomie a franchi une étape décisive dans sa structuration et son ancrage territorial. Face à une population vieillissante, à la hausse continue des demandes adressées aux maisons départementales des personnes handicapées (MDPH) et aux attentes des aidants, l’accès effectif aux droits reste une priorité.</description>
       <guid isPermaLink="false">d983a32d0adeca0e115d68b855bc1ad1ddebaf95159ec95ab68d9a91bff89664</guid>
-      <pubDate>Tue, 30 Jun 2026 08:42:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>2025, une année de consolidation de la branche Autonomie</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/2025-une-annee-de-consolidation-de-la-branche-autonomie</link>
-      <description>En 2025, la branche Autonomie a franchi une étape décisive dans sa structuration et son ancrage territorial. Face à une population vieillissante, à la hausse continue des demandes adressées aux maisons départementales des personnes handicapées (MDPH) et aux attentes des aidants, l’accès effectif aux droits reste une priorité.</description>
-      <guid isPermaLink="false">b93c153eef7558c8190f2b210b7a7f9be7252b4d7ef15521e812d57b365e862e</guid>
       <pubDate>Tue, 30 Jun 2026 08:42:44 +0000</pubDate>
     </item>
     <item>
@@ -836,6 +1298,13 @@
       <pubDate>Mon, 29 Jun 2026 13:25:03 +0000</pubDate>
     </item>
     <item>
+      <title>La protection sociale complémentaire en entreprise : un dispositif à réformer ?</title>
+      <link>https://igas.gouv.fr/la-protection-sociale-complementaire-en-entreprise-un-dispositif-reformer</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">f3cf307009c9cdecc340cad7931135b6ee4d0010a9ea40c5ece663550a0a92aa</guid>
+      <pubDate>Fri, 26 Jun 2026 12:05:40 +0000</pubDate>
+    </item>
+    <item>
       <title>Jeunes majeurs sortant de l'ASE : l'État répartit près de 50 M€ entre les départements</title>
       <link>https://www.enfancejeunesseinfos.fr/jeunes-majeurs-sortant-de-lase-letat-repartit-pres-de-50-meur-entre-les-departements/</link>
       <description>Un arrêté du 23 juin 2026 fixe la répartition de 49,75 M€ entre les départements pour financer l'accompagnement des jeunes majeurs sortant de l'aide sociale à l'enfance. Il prévoit aussi un nouveau mode de calcul des dotations à partir de 2027.</description>
@@ -855,6 +1324,13 @@
       <description>Plan de correction EGalim restauration collective : obligations pour l’État et ses établissements publics Le plan de correction EGalim restauration collective concerne les ministères, les établissements publics placés sous leur…</description>
       <guid isPermaLink="false">f77ec15a810a3be0130271012009cb169e8832514e37fa43c03842f6b150bb9f</guid>
       <pubDate>Thu, 25 Jun 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Évaluation de la prise en charge des jeunes se déclarant mineurs non accompagnés (MNA)</title>
+      <link>https://igas.gouv.fr/evaluation-de-la-prise-en-charge-des-jeunes-se-declarant-mineurs-non-accompagnes-mna</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">9034d3cb22754c8c74e78d92cec1955c093387aff1d7a0dba4fe9d8eed0e57d3</guid>
+      <pubDate>Wed, 24 Jun 2026 14:48:12 +0000</pubDate>
     </item>
     <item>
       <title>ADN Tourisme partenaire de la campagne nationale “Je pars en vacances”</title>
@@ -906,6 +1382,13 @@
       <pubDate>Mon, 15 Jun 2026 06:40:00 +0000</pubDate>
     </item>
     <item>
+      <title>Évaluation du modèle économique de la Caisse des Français de l’étranger</title>
+      <link>https://igas.gouv.fr/evaluation-du-modele-economique-de-la-caisse-des-francais-de-letranger-0</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">c7ca86ad1b4a9b9d9ffff98fd2630b072ee7fac0787e65ed8accd3fe3632c507</guid>
+      <pubDate>Fri, 12 Jun 2026 16:16:47 +0000</pubDate>
+    </item>
+    <item>
       <title>De la restitution à la réappropriation : enjeux actuels du patrimoine postcolonial</title>
       <link>https://www.observatoire-culture.net/restitution-reappropriation-enjeux-patrimoine-postcolonial/</link>
       <description>Le 13 avril 2026, l'Assemblée nationale adoptait à l'unanimité une loi-cadre facilitant la restitution des biens culturels spoliés durant la période coloniale. Une avancée historique qui laisse néanmoins de côté la question plus profonde de leur réappropriation par les sociétés d’origine. Pour Kévin Lebrun, s’appuyer sur la Convention de Faro permettrait d’ouvrir une seconde étape afin que cette restitution ne soit pas envisagée uniquement comme une affaire d’États. L’article De la restitution à la réappropriation : enjeux actuels du patrimoine postcolonial est apparu en premier sur Observatoire des politiques culturelles .</description>
@@ -913,17 +1396,31 @@
       <pubDate>Fri, 12 Jun 2026 07:22:52 +0000</pubDate>
     </item>
     <item>
+      <title>Analyse du fonds d'intervention régional : actions, doctrine d'emploi, pilotage et gestion par les agences régionales de santé</title>
+      <link>https://igas.gouv.fr/analyse-du-fonds-dintervention-regional-actions-doctrine-demploi-pilotage-et-gestion-par-les-agences-regionales-de-sante</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">e3a9f83c53e4eb22f2f2660e1214424daf69eb25fb9f12cdbc641c4650adc0c7</guid>
+      <pubDate>Thu, 11 Jun 2026 16:31:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mieux prévenir, mieux dépister et mieux prendre en charge la maladie rénale chronique</title>
+      <link>https://igas.gouv.fr/mieux-prevenir-mieux-depister-et-mieux-prendre-en-charge-la-maladie-renale-chronique-0</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">fa91c5562a34c8552c2039727cfd8232d073b85fbbe315ef4f404f2308f76c68</guid>
+      <pubDate>Thu, 11 Jun 2026 16:22:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Revue de dépenses sur les prescriptions en ville et à l’hôpital</title>
+      <link>https://igas.gouv.fr/revue-de-depenses-sur-les-prescriptions-en-ville-et-lhopital-0</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">f4fc07b2e8708894bc90d7ee6cebe2074258f054eacc355caae19750c6deda0f</guid>
+      <pubDate>Thu, 11 Jun 2026 16:12:27 +0000</pubDate>
+    </item>
+    <item>
       <title>La CNSA signe deux conventions pour soutenir la formation des professionnels de l’autonomie</title>
       <link>https://www.cnsa.fr/actualites/la-cnsa-signe-deux-conventions-pour-soutenir-la-formation-des-professionnels-de</link>
       <description>La formation des professionnels du secteur de l’autonomie se voit renforcée par deux nouvelles conventions, l’une avec OPCO Santé, l’autre avec Uniformation. Elles visent à soutenir le développement des compétences des professionnels exerçant dans les établissements et services accompagnant les personnes âgées dépendantes et les personnes en situation de handicap.</description>
       <guid isPermaLink="false">e2dc16eee93f758fca21effe0f50e9426395545327e0016bae8af75e48dfde55</guid>
-      <pubDate>Thu, 11 Jun 2026 13:37:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>La CNSA signe deux conventions pour soutenir la formation des professionnels de l’autonomie</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/la-cnsa-signe-deux-conventions-pour-soutenir-la-formation-des-professionnels-de</link>
-      <description>La formation des professionnels du secteur de l’autonomie se voit renforcée par deux nouvelles conventions, l’une avec OPCO Santé, l’autre avec Uniformation. Elles visent à soutenir le développement des compétences des professionnels exerçant dans les établissements et services accompagnant les personnes âgées dépendantes et les personnes en situation de handicap.</description>
-      <guid isPermaLink="false">30c510349c0a7d0baa38e9ca920fc2ecb6374523beeb69a126ef2bee4143015e</guid>
       <pubDate>Thu, 11 Jun 2026 13:37:08 +0000</pubDate>
     </item>
     <item>
@@ -934,24 +1431,17 @@
       <pubDate>Thu, 11 Jun 2026 10:24:38 +0000</pubDate>
     </item>
     <item>
-      <title>Autisme : La CNSA mobilisée aux côtés de la DITND pour améliorer l’accompagnement des adultes autistes en situation très complexe</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/autisme-la-cnsa-mobilisee-aux-cotes-de-la-ditnd-pour-ameliorer-laccompagnement-des</link>
-      <description>En 2024, la CNSA a lancé une étude évaluative des premières unités résidentielles pour adultes autistes en situation très complexe (URTSA) afin de soutenir le déploiement de cette offre spécifique et d’éclairer les travaux de révision de son cahier des charges, conduits par la Délégation interministérielle à la stratégie pour les troubles du neurodéveloppement (DITND).</description>
-      <guid isPermaLink="false">262fd27cb26a105bcd9abc3f6cfd9a8b1d969c98cd03d041c8cb9e7a98f64b0a</guid>
-      <pubDate>Thu, 11 Jun 2026 10:24:38 +0000</pubDate>
+      <title>Analyse du fonds d'intervention régional: actions, doctrine d'emploi, pilotage et gestion par les ARS</title>
+      <link>https://igas.gouv.fr/analyse-du-fonds-dintervention-regional-actions-doctrine-demploi-pilotage-et-gestion-par-les-ars</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">b86afa2b132bf2b3b88805cdf37ae8a112a1eda7fc12e31eaedce40b1402d484</guid>
+      <pubDate>Thu, 11 Jun 2026 10:16:41 +0000</pubDate>
     </item>
     <item>
       <title>Publication de l’étude sur la préfiguration des pôles d’appui à la scolarité</title>
       <link>https://www.cnsa.fr/actualites/publication-de-letude-sur-la-prefiguration-des-poles-dappui-la-scolarite</link>
       <description>La CNSA publie l’étude consacrée à l’analyse des pratiques professionnelles mises en œuvre dans les 4 départements engagés dans la phase de préfiguration des pôles d’appui à la scolarité (PAS) : Aisne, Côte-d’Or, Eure-et-Loir et Var.</description>
       <guid isPermaLink="false">bb0f4e9b9c2e618715735419c68b4d8a5d5669d42da1dd1b0d753e9eefe3cdbd</guid>
-      <pubDate>Wed, 10 Jun 2026 14:00:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Publication de l’étude sur la préfiguration des pôles d’appui à la scolarité</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/publication-de-letude-sur-la-prefiguration-des-poles-dappui-la-scolarite</link>
-      <description>La CNSA publie l’étude consacrée à l’analyse des pratiques professionnelles mises en œuvre dans les 4 départements engagés dans la phase de préfiguration des pôles d’appui à la scolarité (PAS) : Aisne, Côte-d’Or, Eure-et-Loir et Var.</description>
-      <guid isPermaLink="false">0a95220a0f864863a4f7ed63910d46454d427a15309c48da1b972ccea85d911e</guid>
       <pubDate>Wed, 10 Jun 2026 14:00:47 +0000</pubDate>
     </item>
     <item>
@@ -962,11 +1452,32 @@
       <pubDate>Mon, 08 Jun 2026 06:50:14 +0000</pubDate>
     </item>
     <item>
+      <title>Trois nouveaux stagiaires ont rejoint l’Igas en avril dernier</title>
+      <link>https://igas.gouv.fr/trois-nouveaux-stagiaires-ont-rejoint-ligas-en-avril-dernier</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">df8cdcd2d367956c2e6b2b65d6d7002f6f540c51c5b5bcde63408144b7248e5b</guid>
+      <pubDate>Fri, 05 Jun 2026 10:40:15 +0000</pubDate>
+    </item>
+    <item>
       <title>Écoles d’art et de design : ces lieux de l’inattendu</title>
       <link>https://www.observatoire-culture.net/ecoles-art-design-lieux-inattendu/</link>
       <description>En mai 2025, les présidentes et présidents des écoles supérieures d’art et de design publiques tiraient la sonnette d’alarme : si rien n’est fait, celles-ci risquent de disparaître les unes après les autres. Pour Jérôme Delormas, il y a non seulement urgence à revoir leur modèle économique mais aussi à mieux faire reconnaître leur singularité, loin de tout formatage académique. Car ce sont, rappelle-t-il, dans ces lieux de l’inattendu que s’inventent de nouveaux regards sur nos sociétés. L’article Écoles d’art et de design : ces lieux de l’inattendu est apparu en premier sur Observatoire des politiques culturelles .</description>
       <guid isPermaLink="false">d73d61109e89d3144d2a6a66f2e1dae8d294ff3f6a8752a76c613222a12381af</guid>
       <pubDate>Wed, 03 Jun 2026 19:04:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'Igas rencontre une délégation ukrainienne pour évoquer les pratiques de contrôle</title>
+      <link>https://igas.gouv.fr/ligas-rencontre-une-delegation-ukrainienne-pour-evoquer-les-pratiques-de-controle</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">916358d0fa9608b0dda6c6ffda2c0a04f37bfc6f14c99fee79a64c563ecec7a6</guid>
+      <pubDate>Wed, 03 Jun 2026 10:49:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cloé Chapelet, nommée directrice interrégionale adjointe à la protection de la jeunesse - Grand-Centre</title>
+      <link>https://igas.gouv.fr/cloe-chapelet-nommee-directrice-interregionale-adjointe-la-protection-de-la-jeunesse-grand-centre</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">e95e968a555ae81bfc20ec4161175f6c5d77cdb64eeee144fe91bc9db3246402</guid>
+      <pubDate>Wed, 03 Jun 2026 10:47:44 +0000</pubDate>
     </item>
     <item>
       <title>Campagne budgétaire 2026 des établissements de santé : les priorités pour les enfants et les jeunes</title>
@@ -976,6 +1487,13 @@
       <pubDate>Wed, 03 Jun 2026 07:15:36 +0000</pubDate>
     </item>
     <item>
+      <title>Évolution des parcours des cadres affectés sur des emplois de direction de l’administration territoriale de l’État en DDI et SGCD</title>
+      <link>https://igas.gouv.fr/evolution-des-parcours-des-cadres-affectes-sur-des-emplois-de-direction-de-ladministration-territoriale-de-letat-en-ddi-et-sgcd</link>
+      <description>Le rapport examine les conditions dans lesquelles s’exercent les parcours professionnels de directeurs des services déconcentrés et de leurs adjoints au niveau départemental.</description>
+      <guid isPermaLink="false">893829bb7e143a5022efcf9953ef3c080b8d338ab89bdd0b2533e82006eee263</guid>
+      <pubDate>Tue, 02 Jun 2026 16:07:35 +0000</pubDate>
+    </item>
+    <item>
       <title>En 2024, les CMPP ont accompagné plus de 141 000 enfants et adolescents</title>
       <link>https://www.cnsa.fr/actualites/en-2024-les-cmpp-ont-accompagne-plus-de-141-000-enfants-et-adolescents</link>
       <description>Le n° 28 des Repères statistiques présente un bilan de l’activité des 482 centres médico-psychopédagogiques (CMPP) recensés en France en 2024. Si le nombre d’enfants et d’adolescents accompagnés diminue de 2 % par rapport à 2023, dans la continuité du recul progressif observé depuis 2017, cette baisse ne traduit toutefois pas une réduction de l’activité des CMPP.</description>
@@ -983,11 +1501,11 @@
       <pubDate>Tue, 02 Jun 2026 12:51:03 +0000</pubDate>
     </item>
     <item>
-      <title>En 2024, les CMPP ont accompagné plus de 141 000 enfants et adolescents</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/en-2024-les-cmpp-ont-accompagne-plus-de-141-000-enfants-et-adolescents</link>
-      <description>Le n° 28 des Repères statistiques présente un bilan de l’activité des 482 centres médico-psychopédagogiques (CMPP) recensés en France en 2024. Si le nombre d’enfants et d’adolescents accompagnés diminue de 2 % par rapport à 2023, dans la continuité du recul progressif observé depuis 2017, cette baisse ne traduit toutefois pas une réduction de l’activité des CMPP.</description>
-      <guid isPermaLink="false">95ba9a686f3f39ef4fc916f1de5e798f8f4ee1b42b8c1e249005969f5a24c30d</guid>
-      <pubDate>Tue, 02 Jun 2026 12:51:03 +0000</pubDate>
+      <title>Appel à manifestation d’intérêt : Les conditions de réussite des transformations organisationnelles</title>
+      <link>https://igas.gouv.fr/appel-manifestation-dinteret-les-conditions-de-reussite-des-transformations-organisationnelles</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">82956b9fa6bc5dce7af48accf3133645cdb9e8ebbbf9c332ccf96563f219f4af</guid>
+      <pubDate>Fri, 29 May 2026 10:18:49 +0000</pubDate>
     </item>
     <item>
       <title>La métropolisation des politiques culturelles</title>
@@ -997,6 +1515,20 @@
       <pubDate>Thu, 28 May 2026 07:52:42 +0000</pubDate>
     </item>
     <item>
+      <title>Evaluation du régime social et fiscal des indemnités de rupture de contrat de travail</title>
+      <link>https://igas.gouv.fr/evaluation-du-regime-social-et-fiscal-des-indemnites-de-rupture-de-contrat-de-travail</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">1abef6fd0ad9e263bc0f582f346c6fb191898b576598d457bf2f9b3da55852eb</guid>
+      <pubDate>Fri, 22 May 2026 15:32:35 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rôle et missions des AESH dans l’école inclusive, aujourd’hui et demain</title>
+      <link>https://igas.gouv.fr/role-et-missions-des-aesh-dans-lecole-inclusive-aujourdhui-et-demain-0</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">4d99decc05725b530838d1f8e5d1187f5ea4801cc7daf40666688ed9c57b9d23</guid>
+      <pubDate>Fri, 22 May 2026 07:53:53 +0000</pubDate>
+    </item>
+    <item>
       <title>Comptes 2025 : la Cour des comptes certifie la branche Autonomie</title>
       <link>https://www.cnsa.fr/actualites/comptes-2025-la-cour-des-comptes-certifie-la-branche-autonomie</link>
       <description>Réuni le 19 mai, le Conseil de la CNSA a examiné le rapport de certification des comptes 2025 présenté par la Cour des comptes, en présence de ses membres. Les comptes ont ensuite été présentés puis approuvés. La Cour les a certifiés, à l’instar de ceux des branches du régime général de la Sécurité sociale et du Conseil de la protection sociale des travailleurs indépendants. Elle a salué les progrès accomplis par la CNSA dans la sécurisation de ses procédures comptables et financiers. Créée en 2020, la branche Autonomie confirme ainsi la fiabilité croissante de sa gestion.</description>
@@ -1004,11 +1536,11 @@
       <pubDate>Tue, 19 May 2026 09:56:12 +0000</pubDate>
     </item>
     <item>
-      <title>Comptes 2025 : la Cour des comptes certifie la branche Autonomie</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/comptes-2025-la-cour-des-comptes-certifie-la-branche-autonomie</link>
-      <description>Réuni le 19 mai, le Conseil de la CNSA a examiné le rapport de certification des comptes 2025 présenté par la Cour des comptes, en présence de ses membres. Les comptes ont ensuite été présentés puis approuvés. La Cour les a certifiés, à l’instar de ceux des branches du régime général de la Sécurité sociale et du Conseil de la protection sociale des travailleurs indépendants. Elle a salué les progrès accomplis par la CNSA dans la sécurisation de ses procédures comptables et financiers. Créée en 2020, la branche Autonomie confirme ainsi la fiabilité croissante de sa gestion.</description>
-      <guid isPermaLink="false">f2d38e0a65768fdcdc8b6794503bf855e30f909e03ab1f68fbd0130ecda4350d</guid>
-      <pubDate>Tue, 19 May 2026 09:56:12 +0000</pubDate>
+      <title>Contrôle de l’activité du groupe Medicharme</title>
+      <link>https://igas.gouv.fr/Controle-de-l-activite-du-groupe-Medicharme</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">ed44b15bde761168db8215e541d995e8ae126b74acfc62ac363aeb22e3a506ee</guid>
+      <pubDate>Mon, 18 May 2026 14:43:20 +0000</pubDate>
     </item>
     <item>
       <title>La CNSA à SantExpo : trois conférences emblématiques à ne pas manquer</title>
@@ -1018,11 +1550,11 @@
       <pubDate>Mon, 18 May 2026 08:51:22 +0000</pubDate>
     </item>
     <item>
-      <title>La CNSA à SantExpo : trois conférences emblématiques à ne pas manquer</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/la-cnsa-santexpo-trois-conferences-emblematiques-ne-pas-manquer</link>
-      <description>La Caisse nationale de solidarité pour l’autonomie sera présente au salon SantExpo, organisé du 19 au 21 mai 2026 à Paris Expo Porte de Versailles. À cette occasion, la CNSA participera à trois conférences : les apports du service public de l’autonomie (SPDA) pour faciliter les sorties d’hospitalisation, les enjeux de la donnée avec Data Autonomie, et la réforme tarifaire SERAFIN PH.</description>
-      <guid isPermaLink="false">313553bdefaebc4aaadbd8de6f1abb1b3e02023fc6e1df0edb754eee5596344c</guid>
-      <pubDate>Mon, 18 May 2026 08:51:22 +0000</pubDate>
+      <title>Mission inter-inspections relative aux diverses formes d’habitat partagé adapté au vieillissement</title>
+      <link>https://igas.gouv.fr/mission-inter-inspections-relative-aux-diverses-formes-dhabitat-partage-adapte-au-vieillissement-0</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">0a8e809fcb523f391faacc615554b1f7c8199752b287168cbfa8c3ea2bcb068e</guid>
+      <pubDate>Mon, 11 May 2026 15:08:06 +0000</pubDate>
     </item>
     <item>
       <title>CCTP restauration : comment définir des fréquences de contrôle efficaces ?</title>
@@ -1032,17 +1564,38 @@
       <pubDate>Sun, 10 May 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Bilan et évolution du dispositif de régulation du prix des médicaments</title>
+      <link>https://igas.gouv.fr/bilan-et-evolution-du-dispositif-de-regulation-du-prix-des-medicaments</link>
+      <description>Dans un contexte de forte progression des dépenses des médicaments, ce rapport dresse un bilan du système actuel et formule des propositions pour en améliorer la lisibilité et la soutenabilité.</description>
+      <guid isPermaLink="false">6bf2b08a53fdd3d26fa128d85a056d7bf4c883eed9c6810e0a8dbcb5d9b6978d</guid>
+      <pubDate>Thu, 07 May 2026 15:20:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>La chaîne de distribution pharmaceutique</title>
+      <link>https://igas.gouv.fr/la-chaine-de-distribution-pharmaceutique-0</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">e2aba11654b9943caebd3232a7ac6076baaa3da493f8a7efd3930132e6a0d9df</guid>
+      <pubDate>Thu, 07 May 2026 14:30:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission complémentaire sur le système de retraite des agents des collectivités locales et des établissements hospitaliers : perspectives à horizon 2045</title>
+      <link>https://igas.gouv.fr/mission-complementaire-sur-le-systeme-de-retraite-des-agents-des-collectivites-locales-et-des-etablissements-hospitaliers-perspectives-horizon-2045-0</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">940541be1e7118d02bba6ce0021944566b3f38305de28d192a8dd8c6e8f3bead</guid>
+      <pubDate>Wed, 06 May 2026 14:15:36 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mission complémentaire sur le système de retraite des agents des collectivités locales et des établissements hospitaliers – Perspectives à horizon 2045</title>
+      <link>https://igas.gouv.fr/mission-complementaire-sur-le-systeme-de-retraite-des-agents-des-collectivites-locales-et-des-etablissements-hospitaliers-perspectives-horizon-2045</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">18a3e1b129ef1c26fa1fba8dc29d678097d071f3372da6e53df9ac2f5b7a7ab0</guid>
+      <pubDate>Wed, 06 May 2026 12:52:14 +0000</pubDate>
+    </item>
+    <item>
       <title>La CNSA renforce son soutien auprès des fédérations du domicile avec un nouveau programme de conventionnement</title>
       <link>https://www.cnsa.fr/actualites/la-cnsa-renforce-son-soutien-aupres-des-federations-du-domicile-avec-un-nouveau</link>
       <description>En 2026, la CNSA fait évoluer son programme de conventionnement, qu’elle conduit auprès des fédérations et têtes de réseau du secteur du domicile depuis 2008. Dans ce cadre renouvelé, elle a signé en début d’année deux nouvelles conventions d’accompagnement avec la FEHAP et NEXEM.</description>
       <guid isPermaLink="false">737d5ed1573196aa68d51224dde15bef659bae23b66defa53f37a5bb4e8fae62</guid>
-      <pubDate>Tue, 28 Apr 2026 10:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La CNSA renforce son soutien auprès des fédérations du domicile avec un nouveau programme de conventionnement</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/la-cnsa-renforce-son-soutien-aupres-des-federations-du-domicile-avec-un-nouveau</link>
-      <description>En 2026, la CNSA fait évoluer son programme de conventionnement, qu’elle conduit auprès des fédérations et têtes de réseau du secteur du domicile depuis 2008. Dans ce cadre renouvelé, elle a signé en début d’année deux nouvelles conventions d’accompagnement avec la FEHAP et NEXEM.</description>
-      <guid isPermaLink="false">7b2271657eb8d35ae2a5f24e4b55d13881fa9cf36126732e6f0b703a7f7d5714</guid>
       <pubDate>Tue, 28 Apr 2026 10:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1053,13 +1606,6 @@
       <pubDate>Wed, 22 Apr 2026 08:22:42 +0000</pubDate>
     </item>
     <item>
-      <title>Prévention de la perte d’autonomie : 2024, une année charnière pour la structuration et l’investissement</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/prevention-de-la-perte-dautonomie-2024-une-annee-charniere-pour-la-structuration-et</link>
-      <description>Dans un contexte de vieillissement de la population et de tension croissante sur les ressources, la prévention de la perte d’autonomie s’impose comme un levier de réduction des risques et des inégalités. En 2024, 293 millions d’euros ont ainsi été mobilisés dans le cadre des commissions des financeurs de la perte d’autonomie (CFPPA), confirmant leur rôle central dans le pilotage territorial de la prévention.</description>
-      <guid isPermaLink="false">4afeedd9ef46411b2607f95d0700d24dafb460112484ec480baa4c956cf7fc4e</guid>
-      <pubDate>Wed, 22 Apr 2026 08:22:42 +0000</pubDate>
-    </item>
-    <item>
       <title>La CNSA mobilise 207 millions d’euros en 2026 en soutien de la préservation de l’autonomie des personnes âgées de 60 ans et plus</title>
       <link>https://www.cnsa.fr/actualites/la-cnsa-mobilise-207-millions-deuros-en-2026-en-soutien-de-la-preservation-de-lautonomie</link>
       <description>En 2026, la CNSA renforce son soutien aux départements à travers ses deux concours « Forfait autonomie » et « Autres actions de prévention ». Ces financements sont complétés par un appui technique de la CNSA auprès des 101 commissions des financeurs de la prévention de la perte d’autonomie (CFPPA), qui bénéficient également de l’accompagnement du Centre de ressources et de preuves (CRP) afin de développer des actions de prévention toujours plus qualitatives et efficaces.</description>
@@ -1067,11 +1613,18 @@
       <pubDate>Tue, 21 Apr 2026 07:57:13 +0000</pubDate>
     </item>
     <item>
-      <title>La CNSA mobilise 207 millions d’euros en 2026 en soutien de la préservation de l’autonomie des personnes âgées de 60 ans et plus</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/la-cnsa-mobilise-207-millions-deuros-en-2026-en-soutien-de-la-preservation-de-lautonomie</link>
-      <description>En 2026, la CNSA renforce son soutien aux départements à travers ses deux concours « Forfait autonomie » et « Autres actions de prévention ». Ces financements sont complétés par un appui technique de la CNSA auprès des 101 commissions des financeurs de la prévention de la perte d’autonomie (CFPPA), qui bénéficient également de l’accompagnement du Centre de ressources et de preuves (CRP) afin de développer des actions de prévention toujours plus qualitatives et efficaces.</description>
-      <guid isPermaLink="false">4dc6bd4ff1188d2f7f0caf5b3c7c9af9f23430125d7db67cb24d96a0f352b243</guid>
-      <pubDate>Tue, 21 Apr 2026 07:57:13 +0000</pubDate>
+      <title>L'Igas lance son premier Prix du mémoire de recherche</title>
+      <link>https://igas.gouv.fr/ligas-lance-son-premier-prix-du-memoire-de-recherche</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">beebabf06bff332fa5a22b49b7bdd73b90e6f27507e6fad21e1fc332fd4c9067</guid>
+      <pubDate>Fri, 17 Apr 2026 09:27:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Signature d'une convention cadre entre l'Igas et Expertise France</title>
+      <link>https://igas.gouv.fr/signature-dune-convention-cadre-entre-ligas-et-expertise-france</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">ff5c6d89d9b5dae3c06122234bebed940588239317c847d8486725e5a04e4bfe</guid>
+      <pubDate>Thu, 16 Apr 2026 08:55:01 +0000</pubDate>
     </item>
     <item>
       <title>5 conseils pour renforcer la santé auditive et visuelle des personnes de plus de 60 ans</title>
@@ -1081,11 +1634,18 @@
       <pubDate>Tue, 14 Apr 2026 15:26:25 +0000</pubDate>
     </item>
     <item>
-      <title>Le Conseil de la CNSA élit Paul Christophe à sa présidence et adopte le premier budget rectificatif 2026 de la branche Autonomie</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/le-conseil-de-la-cnsa-elit-paul-christophe-sa-presidence-et-adopte-le-premier-budget</link>
-      <description>En présence de Camille Galliard-Minier, ministre déléguée chargée de l'Autonomie et des Personnes handicapées, le Conseil de la Caisse nationale de solidarité pour l'autonomie (CNSA) a élu Paul Christophe à sa présidence, succédant à Jean-René Lecerf dont le mandat s'achève après quatre années d'engagement continu pour la branche.</description>
-      <guid isPermaLink="false">85c3221c62ddaafaeaf3f3438ed4ed3fb220773357520abd8250302ec2faa41f</guid>
-      <pubDate>Wed, 08 Apr 2026 16:55:51 +0000</pubDate>
+      <title>Prix de thèse 2026</title>
+      <link>https://igas.gouv.fr/prix-de-these-2026</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">d87ce0785190199b0ca0950014264a44bdf388079ebb791f4945f157d1126110</guid>
+      <pubDate>Tue, 14 Apr 2026 08:34:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Commission des suites de l’Igas : Premier bilan d’activité pour la période 2023-2025</title>
+      <link>https://igas.gouv.fr/commission-des-suites-de-ligas-premier-bilan-dactivite-pour-la-periode-2023-2025</link>
+      <description>Source : IGAS</description>
+      <guid isPermaLink="false">26751e22470e269147933b5054f9bf76966c718d423781065b6788ac610c482f</guid>
+      <pubDate>Mon, 13 Apr 2026 09:04:05 +0000</pubDate>
     </item>
     <item>
       <title>Le Conseil de la CNSA élit Paul Christophe à sa présidence et adopte le premier budget rectificatif 2026 de la branche Autonomie</title>
@@ -1096,13 +1656,6 @@
     </item>
     <item>
       <title>Prix des EHPAD en 2024 : un écart important entre les chambres habilitées à l’aide sociale et les autres</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/prix-des-ehpad-en-2024-un-ecart-important-entre-les-chambres-habilitees-laide-sociale-et</link>
-      <description>En 2024, les prix de l’hébergement en établissement d’hébergement pour personnes âgées dépendantes (EHPAD) continuent d’augmenter davantage que l’inflation. Ils varient fortement selon les territoires, le statut juridique, la taille et la localisation géographique des établissements expliquant ces différences.</description>
-      <guid isPermaLink="false">a34f43f4a93fb2fe69a8638f0a99fa31878da64fcecb2ad30b4051fe390c7ceb</guid>
-      <pubDate>Wed, 01 Apr 2026 08:27:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prix des EHPAD en 2024 : un écart important entre les chambres habilitées à l’aide sociale et les autres</title>
       <link>https://www.cnsa.fr/actualites/prix-des-ehpad-en-2024-un-ecart-important-entre-les-chambres-habilitees-laide-sociale-et</link>
       <description>En 2024, les prix de l’hébergement en établissement d’hébergement pour personnes âgées dépendantes (EHPAD) continuent d’augmenter davantage que l’inflation. Ils varient fortement selon les territoires, le statut juridique, la taille et la localisation géographique des établissements expliquant ces différences.</description>
       <guid isPermaLink="false">9b397d71fb3f238c81143f38ec4ae382512ddc20c8fb848d1d9802f7a1862e10</guid>
@@ -1110,24 +1663,10 @@
     </item>
     <item>
       <title>La CNSA sélectionne 12 projets pour renforcer le repérage et l’accompagnement des jeunes aidants</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/la-cnsa-selectionne-12-projets-pour-renforcer-le-reperage-et-laccompagnement-des-jeunes</link>
-      <description>La CNSA place l’adaptation de l’offre de soutien aux proches aidants et sa couverture territoriale au cœur de l’action de la branche Autonomie. À l’issue d’un appel à projets lancé en novembre, 12 projets ont été sélectionnés sur l’ensemble du territoire pour mener des actions à destination des jeunes aidants.</description>
-      <guid isPermaLink="false">70703c8d21f885ea404a05d0d1f0cee550f5d6e12b7eafe429ccedee6e53a055</guid>
-      <pubDate>Mon, 30 Mar 2026 14:22:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>La CNSA sélectionne 12 projets pour renforcer le repérage et l’accompagnement des jeunes aidants</title>
       <link>https://www.cnsa.fr/actualites/la-cnsa-selectionne-12-projets-pour-renforcer-le-reperage-et-laccompagnement-des-jeunes</link>
       <description>La CNSA place l’adaptation de l’offre de soutien aux proches aidants et sa couverture territoriale au cœur de l’action de la branche Autonomie. À l’issue d’un appel à projets lancé en novembre, 12 projets ont été sélectionnés sur l’ensemble du territoire pour mener des actions à destination des jeunes aidants.</description>
       <guid isPermaLink="false">05a752ace823dfb44fc310393f862c2895f940619c5dece4c8b15d90a046a20c</guid>
       <pubDate>Mon, 30 Mar 2026 14:22:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Campagnes de transmission des comptes administratifs et des ERRD 2025</title>
-      <link>https://www.cnsa.fr/index%2Ephp/actualites/campagnes-de-transmission-des-comptes-administratifs-et-des-errd-2025</link>
-      <description>Les gestionnaires d’établissements et services médico-sociaux peuvent déposer leurs documents budgétaires et financiers dans les plateformes ImportCA et ImportERRD. Chaque année, les établissements et services médico-sociaux transmettent à leurs autorités de tarification leur compte administratif (CA) ou leur état réalisé des recettes et des dépenses (ERRD).</description>
-      <guid isPermaLink="false">c07ececbd4221b4a6b618e44f8a920511a02ad90a877ed36f6f1e09cee0942a2</guid>
-      <pubDate>Tue, 24 Mar 2026 17:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Campagnes de transmission des comptes administratifs et des ERRD 2025</title>

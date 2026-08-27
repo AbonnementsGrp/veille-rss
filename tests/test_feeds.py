@@ -57,7 +57,8 @@ class TestDedupe:
 
     def test_preserve_l_ordre(self):
         liens = [f"https://exemple.fr/{n}" for n in range(5)]
-        assert [i.link for i in dedupe([self._item(l) for l in liens])] == liens
+        items = [self._item(lien, f"Titre {n}") for n, lien in enumerate(liens)]
+        assert [i.link for i in dedupe(items)] == liens
 
     def test_se_replie_sur_l_uid_sans_lien(self):
         items = [self._item("", "Titre A"), self._item("", "Titre B")]
@@ -96,3 +97,49 @@ class TestCleanLink:
             Item("S", "Même article", "https://exemple.fr/a?pk_kwd=publics-fragiles"),
         ]
         assert len(dedupe(items)) == 1
+
+
+class TestDedupeParTitre:
+    """Un même article peut être servi sous deux URL par un même site."""
+
+    def _item(self, link, titre, source="S"):
+        return Item(source=source, title=titre, link=link)
+
+    def test_ecarte_le_meme_titre_dans_une_source(self):
+        """Cas Igas : Drupal publie un rapport comme actualité et comme page."""
+        items = [
+            self._item("https://igas.gouv.fr/le-rapport", "Le temps de travail des médecins"),
+            self._item("https://igas.gouv.fr/le-rapport-0", "Le temps de travail des médecins"),
+        ]
+        garde = dedupe(items)
+        assert len(garde) == 1
+        assert garde[0].link == "https://igas.gouv.fr/le-rapport"
+
+    def test_ignore_la_casse_et_les_espaces_du_titre(self):
+        items = [
+            self._item("https://exemple.fr/a", "Le  Temps de   travail"),
+            self._item("https://exemple.fr/b", "le temps de travail"),
+        ]
+        assert len(dedupe(items)) == 1
+
+    def test_deux_sources_gardent_chacune_leur_article(self):
+        """Deux sources qui couvrent le même sujet restent toutes deux lisibles."""
+        items = [
+            self._item("https://a.fr/x", "Réforme des retraites", source="Source A"),
+            self._item("https://b.fr/y", "Réforme des retraites", source="Source B"),
+        ]
+        assert len(dedupe(items)) == 2
+
+    def test_un_titre_vide_ne_regroupe_rien(self):
+        items = [self._item("https://exemple.fr/a", ""), self._item("https://exemple.fr/b", "")]
+        assert len(dedupe(items)) == 2
+
+    def test_le_controleur_frontal_ne_dedouble_plus_les_articles(self):
+        """Cas CNSA : le flux sert /actualites/x et /index%2Ephp/actualites/x."""
+        items = [
+            self._item("https://www.cnsa.fr/actualites/canicule", "Canicule : la CNSA s'associe"),
+            self._item("https://www.cnsa.fr/index%2Ephp/actualites/canicule", "Canicule : la CNSA s'associe"),
+        ]
+        garde = dedupe(items)
+        assert len(garde) == 1
+        assert "index" not in garde[0].link

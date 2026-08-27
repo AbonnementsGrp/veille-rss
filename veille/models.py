@@ -29,13 +29,23 @@ class Item:
 
 
 def dedupe(items: list[Item]) -> list[Item]:
-    """Conserve la première occurrence de chaque lien, dans l'ordre reçu."""
-    seen: set[str] = set()
+    """Conserve la première occurrence de chaque article, dans l'ordre reçu.
+
+    Deux clés, car un même article peut se présenter sous deux formes. Le lien,
+    d'abord. Puis le titre au sein d'une source : Drupal publie un rapport à la
+    fois comme actualité et comme page de rapport, sous deux URL distinctes.
+    Le titre est associé à la source, pour que deux sources qui couvrent le même
+    sujet restent toutes deux visibles dans le flux consolidé.
+    """
+    liens: set[str] = set()
+    titres: set[tuple[str, str]] = set()
     result: list[Item] = []
     for item in items:
-        key = item.link.rstrip("/").lower() or item.uid
-        if key in seen:
+        lien = item.link.rstrip("/").lower() or item.uid
+        titre = (item.source, " ".join(item.title.lower().split()))
+        if lien in liens or (titre[1] and titre in titres):
             continue
-        seen.add(key)
+        liens.add(lien)
+        titres.add(titre)
         result.append(item)
     return result
