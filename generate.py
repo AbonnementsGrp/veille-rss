@@ -26,6 +26,7 @@ PUBLIC_DIR = ROOT / "public"
 DATA_DIR = ROOT / "data"
 HISTORY_PATH = DATA_DIR / "history.json"
 STATUS_PATH = PUBLIC_DIR / "status.json"
+EPOCH = datetime(1970, 1, 1, tzinfo=timezone.utc)
 
 logging.basicConfig(level=logging.INFO, format="%(levelname)s | %(message)s")
 log = logging.getLogger("veille-rss")
@@ -58,6 +59,19 @@ def clean_text(value: Any, limit: int = 1800) -> str:
     return re.sub(r"\s+", " ", value).strip()[:limit]
 
 
+def parse_iso(value: str) -> datetime | None:
+    """Lit une date déjà normalisée sans l'ambiguïté jour/mois de dateutil.
+
+    `dayfirst=True` est indispensable pour les dates françaises en clair, mais
+    il inverse jour et mois sur une chaîne ISO ("2026-07-10" -> 10 juillet lu
+    comme 10e mois). L'ISO doit donc être reconnu en premier.
+    """
+    try:
+        return datetime.fromisoformat(value.strip().replace("Z", "+00:00"))
+    except (ValueError, AttributeError):
+        return None
+
+
 def normalize_date(value: Any) -> str:
     if not value:
         return ""
@@ -67,7 +81,8 @@ def normalize_date(value: Any) -> str:
         elif isinstance(value, (tuple, list)) and len(value) >= 6:
             dt = datetime(*value[:6], tzinfo=timezone.utc)
         else:
-            dt = date_parser.parse(str(value), dayfirst=True, fuzzy=True)
+            text = str(value)
+            dt = parse_iso(text) or date_parser.parse(text, dayfirst=True, fuzzy=True)
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
         return dt.astimezone(timezone.utc).isoformat()
@@ -79,7 +94,7 @@ def parse_date_for_feed(value: str) -> datetime | None:
     if not value:
         return None
     try:
-        dt = date_parser.parse(value)
+        dt = parse_iso(value) or date_parser.parse(value)
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
         return dt
@@ -95,12 +110,28 @@ def load_config() -> dict[str, Any]:
     return cfg
 
 
+def normalize_record_dates(record: dict[str, Any]) -> dict[str, Any]:
+    """Aligne les dates d'un enregistrement d'historique sur l'ISO 8601 UTC.
+
+    Les versions antérieures du script ont enregistré `published` au format
+    RFC-822 ("Wed, 03 Jun 2026 19:04:18 +0000"), ce qui faussait tout tri
+    effectué sur la chaîne brute.
+    """
+    for field in ("published", "first_seen"):
+        value = record.get(field)
+        if value:
+            record[field] = normalize_date(value)
+    return record
+
+
 def load_history() -> dict[str, dict[str, Any]]:
     if not HISTORY_PATH.exists():
         return {}
     try:
         raw = json.loads(HISTORY_PATH.read_text(encoding="utf-8"))
-        return raw if isinstance(raw, dict) else {}
+        if not isinstance(raw, dict):
+            return {}
+        return {uid: normalize_record_dates(record) for uid, record in raw.items() if isinstance(record, dict)}
     except Exception as exc:
         log.warning("Historique illisible (%s). Un historique vide sera utilisé.", exc)
         return {}
@@ -378,15 +409,15 @@ def dedupe(items: list[Item]) -> list[Item]:
 
 def history_items_for_source(history: dict[str, dict[str, Any]], source: str, limit: int) -> list[Item]:
     records = [r for r in history.values() if r.get("source") == source]
-    records.sort(key=lambda r: r.get("published") or r.get("first_seen") or "", reverse=True)
+    records.sort(key=lambda r: parse_date_for_feed(r.get("published") or r.get("first_seen") or "") or EPOCH, reverse=True)
     return [Item(
         source=r.get("source", source), title=r.get("title", ""), link=r.get("link", ""),
         description=r.get("description", ""), published=r.get("published", ""), first_seen=r.get("first_seen", "")
     ) for r in records[:limit] if r.get("title") and r.get("link")]
 
 
-def item_sort_key(item: Item) -> str:
-    return item.published or item.first_seen or ""
+def item_sort_key(item: Item) -> datetime:
+    return parse_date_for_feed(item.published) or parse_date_for_feed(item.first_seen) or EPOCH
 
 
 def write_feed(items: list[Item], title: str, description: str, output: Path, home_url: str, self_url: str = "") -> None:
