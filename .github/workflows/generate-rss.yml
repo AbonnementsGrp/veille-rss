@@ -8,8 +8,11 @@ on:
     branches: ["main"]
     paths:
       - "generate.py"
+      - "veille/**"
+      - "tests/**"
       - "config/**"
       - "requirements.txt"
+      - "requirements-dev.txt"
       - ".github/workflows/generate-rss.yml"
 
 permissions:
@@ -35,7 +38,12 @@ jobs:
           cache: pip
 
       - name: Installer les dépendances
-        run: pip install -r requirements.txt
+        run: pip install -r requirements-dev.txt
+
+      # Les tests précèdent la génération : une régression sur les dates ou
+      # l'extraction ne doit jamais être publiée.
+      - name: Exécuter les tests
+        run: python -m pytest
 
       - name: Générer les flux et le tableau de bord
         run: python generate.py

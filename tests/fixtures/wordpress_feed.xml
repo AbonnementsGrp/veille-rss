@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Actualités - Site de démonstration</title>
+    <link>https://exemple.fr/actualites/</link>
+    <description>Flux de démonstration au format WordPress</description>
+    <item>
+      <title>Deuxième article, publié le 10 juillet</title>
+      <link>https://exemple.fr/deuxieme-article/</link>
+      <pubDate>Fri, 10 Jul 2026 08:42:08 +0000</pubDate>
+      <description>Un résumé avec de l'&lt;strong&gt;HTML&lt;/strong&gt; échappé.</description>
+    </item>
+    <item>
+      <title>Premier article, publié le 25 août</title>
+      <link>https://exemple.fr/premier-article/</link>
+      <pubDate>Tue, 25 Aug 2026 10:02:53 +0200</pubDate>
+      <description>Résumé du premier article.</description>
+    </item>
+    <item>
+      <title>Article en doublon</title>
+      <link>https://exemple.fr/premier-article/</link>
+      <pubDate>Tue, 25 Aug 2026 11:00:00 +0000</pubDate>
+      <description>Même lien que le premier article.</description>
+    </item>
+    <item>
+      <title>Article sans lien exploitable</title>
+      <link></link>
+      <pubDate>Mon, 24 Aug 2026 07:47:06 +0000</pubDate>
+      <description>Doit être ignoré.</description>
+    </item>
+  </channel>
+</rss>
