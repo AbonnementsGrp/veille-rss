@@ -167,6 +167,9 @@ l'historique, écriture du flux individuel et intégration au flux global.
   compter les nouveautés et de republier une source momentanément tombée.
 - **Le nom d'une source est sa clé d'historique.** Le modifier revient à repartir
   de zéro pour cette source.
+- **Les liens sont débarrassés de leurs paramètres de suivi** (`utm_*`, `pk_*`,
+  `fbclid`…) dès la création de l'article : c'est le lien qui porte son identité,
+  deux rubriques d'un même site ne doivent pas produire deux fois l'article.
 
 ## Sources suivies
 
@@ -176,7 +179,7 @@ l'historique, écriture du flux individuel et intégration au flux global.
   — flux officiel : `.../tag/veille-juridique/feed/`
 - **Les Pros de la Petite Enfance** — https://www.lesprosdelapetiteenfance.fr/actualites/
   — flux natif découvert automatiquement
-- **Localtis — Jeunesse, Éducation et Formation** — flux officiel :
+- **Localtis — Jeunesse, éducation et formation** — flux officiel :
   `https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml`
 
 ### Santé, Social & Sénior
@@ -185,6 +188,7 @@ l'historique, écriture du flux individuel et intégration au flux global.
 - **IGAS** — https://igas.gouv.fr/ — flux à générer
 - **Localtis — Publics fragiles** — flux officiel :
   `https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml`
+  — attention : rubrique dormante côté Localtis, aucun article publié depuis avril 2024
 - **ANAP** — https://www.anap.fr/s/actualites — flux à générer ; site dynamique
 
 ### Culture
@@ -203,7 +207,7 @@ l'historique, écriture du flux individuel et intégration au flux global.
 
 ## Reste à faire
 
-1. Ajouter les deux flux Localtis et la source IGAS à `config/sites.yml`.
+1. Ajouter la source IGAS à `config/sites.yml`.
 2. Rendre le repli automatique quand un `official_feed` s'avère invalide (cas C2L).
 3. Écrire les extracteurs manquants : SNRC, IGAS, page actus d'ADN Tourisme.
 4. Traiter l'ANAP, dont la page d'actualités est rendue en JavaScript.

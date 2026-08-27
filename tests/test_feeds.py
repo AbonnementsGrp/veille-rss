@@ -62,3 +62,37 @@ class TestDedupe:
     def test_se_replie_sur_l_uid_sans_lien(self):
         items = [self._item("", "Titre A"), self._item("", "Titre B")]
         assert len(dedupe(items)) == 2
+
+
+class TestCleanLink:
+    def test_retire_les_parametres_de_campagne(self):
+        from veille.urls import clean_link
+        sale = ("https://www.banquedesterritoires.fr/un-article"
+                "?pk_campaign=Flux%20RSS&pk_kwd=publics-fragiles&pk_source=Localtis&pk_medium=RSS")
+        assert clean_link(sale) == "https://www.banquedesterritoires.fr/un-article"
+
+    def test_retire_utm_et_identifiants_de_clic(self):
+        from veille.urls import clean_link
+        assert clean_link("https://exemple.fr/a?utm_source=x&fbclid=y") == "https://exemple.fr/a"
+
+    def test_conserve_les_parametres_utiles(self):
+        from veille.urls import clean_link
+        assert clean_link("https://exemple.fr/a?id=42&utm_source=x") == "https://exemple.fr/a?id=42"
+
+    def test_laisse_une_url_sans_parametre_intacte(self):
+        from veille.urls import clean_link
+        assert clean_link("https://exemple.fr/a/") == "https://exemple.fr/a/"
+
+    def test_un_item_normalise_son_lien(self):
+        a = Item("S", "T", "https://exemple.fr/a?pk_kwd=jeunesse")
+        b = Item("S", "T", "https://exemple.fr/a")
+        assert a.link == b.link == "https://exemple.fr/a"
+        assert a.uid == b.uid
+
+    def test_deux_rubriques_ne_produisent_plus_de_doublon(self):
+        """Cas Localtis : un même article servi par deux flux thématiques."""
+        items = [
+            Item("S", "Même article", "https://exemple.fr/a?pk_kwd=jeunesse"),
+            Item("S", "Même article", "https://exemple.fr/a?pk_kwd=publics-fragiles"),
+        ]
+        assert len(dedupe(items)) == 1

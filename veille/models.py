@@ -5,6 +5,8 @@ from __future__ import annotations
 import hashlib
 from dataclasses import dataclass
 
+from veille.urls import clean_link
+
 
 @dataclass
 class Item:
@@ -14,6 +16,11 @@ class Item:
     description: str = ""
     published: str = ""
     first_seen: str = ""
+
+    def __post_init__(self) -> None:
+        # Normalisé ici, donc pour toutes les sources : le lien porte l'identité
+        # de l'article, il ne doit pas dépendre des paramètres de campagne.
+        self.link = clean_link(self.link)
 
     @property
     def uid(self) -> str:

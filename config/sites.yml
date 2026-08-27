@@ -29,6 +29,16 @@ sites:
       description: [".excerpt", ".summary", ".entry-summary", "p"]
       date: ["time", ".date", ".published"]
 
+  - name: "Localtis - Jeunesse, éducation et formation"
+    url: "https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation"
+    official_feed: "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml"
+    output: "localtis-jeunesse-education-formation.xml"
+
+  - name: "Localtis - Publics fragiles"
+    url: "https://www.banquedesterritoires.fr/thematiques/publics-fragiles"
+    official_feed: "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml"
+    output: "localtis-publics-fragiles.xml"
+
   - name: "Observatoire de la culture"
     url: "https://www.observatoire-culture.net/"
     output: "observatoire-culture.xml"
