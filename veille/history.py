@@ -68,8 +68,22 @@ def history_items_for_source(history: dict[str, dict[str, Any]], source: str, li
     ) for r in records[:limit] if r.get("title") and r.get("link")]
 
 
+def remove_source(history: dict[str, dict[str, Any]], source: str) -> int:
+    """Retire de l'historique toutes les entrées d'une source, et les compte.
+
+    À utiliser quand la méthode d'extraction d'une source change : les
+    articles récoltés par l'ancienne, devenus non représentatifs, continuent
+    sinon d'être republiés puisque l'historique complète chaque flux.
+    """
+    vises = [uid for uid, record in history.items() if record.get("source") == source]
+    for uid in vises:
+        del history[uid]
+    return len(vises)
+
+
 __all__ = [
     "history_items_for_source",
+    "remove_source",
     "load_history",
     "normalize_record_dates",
     "save_history",

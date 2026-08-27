@@ -1,4 +1,634 @@
 {
+  "f33303c0289d0c45308552422e184d7d8c08579bddb2ca8b57480e5179ff2855": {
+    "source": "SNRC",
+    "title": "[Infographie]- Découvrez en images les résultats du sondage IPSOS pour le SNRC !",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/infographie-decouvrez-en-images-les-resultats-du-sondage-ipsos-pour-le-snrc/",
+    "description": "En savoir +",
+    "published": "2026-02-17T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:07:40.992505+00:00",
+    "uid": "f33303c0289d0c45308552422e184d7d8c08579bddb2ca8b57480e5179ff2855"
+  },
+  "7b1b920a81845f9a33ad4867d94a48a059e6197a51a7b5b8372baeeafb928ed1": {
+    "source": "SNRC",
+    "title": "Découvrez le dossier de presse du sondage exclusif IPSOS \"Les Français et les entreprises de la restauration collective\"",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/decouvrez-le-dossier-de-presse-du-sondage-exclusif-ipsos-les-francais-et-les-entreprises-de-la-restauration-collective/",
+    "description": "En savoir +",
+    "published": "2026-02-16T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:07:40.992505+00:00",
+    "uid": "7b1b920a81845f9a33ad4867d94a48a059e6197a51a7b5b8372baeeafb928ed1"
+  },
+  "ae09d53004aa6fa995f640477455d9ed269edd73021ff54f0f78f4bc04c33039": {
+    "source": "SNRC",
+    "title": "La cantine nourrit l'avenir - Investissons ensemble au service d'un modèle d'intérêt général",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/la-cantine-nourrit-lavenir-investissons-ensemble-au-service-dune-modele-dinteret-general/",
+    "description": "En savoir +",
+    "published": "2025-11-16T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:07:40.992505+00:00",
+    "uid": "ae09d53004aa6fa995f640477455d9ed269edd73021ff54f0f78f4bc04c33039"
+  },
+  "2aeeac19698889a2db44a707c63f9753dd80b681c89b8c7fcf447425c1f7753b": {
+    "source": "SNRC",
+    "title": "« Elle vous a manqué ? À eux aussi » Les entreprises de la restauration collective rappellent, en cette rentrée, l’impact positif de la cantine pour la société",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/elle-vous-a-manque-a-eux-aussi-les-entreprises-de-la-restauration-collective-rappellent-en-cette-rentree-limpact-positif-de-la-cantine-pour-la-societe/",
+    "description": "En savoir +",
+    "published": "2025-08-27T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:07:40.992505+00:00",
+    "uid": "2aeeac19698889a2db44a707c63f9753dd80b681c89b8c7fcf447425c1f7753b"
+  },
+  "dabb3520abe198519fd13926ed3d4ce388101fe0096da065567887240812a364": {
+    "source": "SNRC",
+    "title": "\"Mieux manger ensemble pour mieux vivre ensemble\". Les entreprises de la restauration collective entrent en campagne!",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/mieux-manger-ensemble-pour-mieux-vivre-ensemble-les-entreprises-de-la-restauration-collective-entrent-en-campagne/",
+    "description": "En savoir +",
+    "published": "2025-04-21T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:07:40.992505+00:00",
+    "uid": "dabb3520abe198519fd13926ed3d4ce388101fe0096da065567887240812a364"
+  },
+  "ea432eed85231048c111a9843461d3fa7a233e61b932767b6cd0a11211570a5e": {
+    "source": "SNRC",
+    "title": "Le Manifeste des Entreprises de la Restauration Collective",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/le-manifeste-des-entreprises-de-la-restauration-collective/",
+    "description": "En savoir +",
+    "published": "2025-02-13T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:07:40.992505+00:00",
+    "uid": "ea432eed85231048c111a9843461d3fa7a233e61b932767b6cd0a11211570a5e"
+  },
+  "9818805e353c5cc2c6af64fa21ea6bc75ee51de7074f6b93f95fe585b379541e": {
+    "source": "SNRC",
+    "title": "[Communiqué de presse] - Que feraient des millions de Français sans cantines scolaires ?",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/communique-de-presse-que-feraient-des-millions-de-francais-sans-cantines-scolaires/",
+    "description": "Le Syndicat national de la restauration collective (SNRC) appelle les pouvoirs publics à agir de toute urgence pour préserver un modèle en danger bien qu’au service des Français.",
+    "published": "2024-11-20T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:07:40.992505+00:00",
+    "uid": "9818805e353c5cc2c6af64fa21ea6bc75ee51de7074f6b93f95fe585b379541e"
+  },
+  "a50ff1e3feee349af30b82716b8d0987fe790480f82c5a48284c2fbe0582044c": {
+    "source": "SNRC",
+    "title": "[Infographie] - Rentrée des classes: découvrez par le menu le fonctionnement des cantines scolaires",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/infographie-rentree-des-classes-decouvrez-par-le-menu-le-fonctionnement-des-cantines-scolaires/",
+    "description": "En France, des millions d’écoliers, collégiens et lycéens ont fait leur rentrée des classes la semaine dernière. L’occasion pour les entreprises de restauration collective de rappeler l’importance et le mode d’emploi de la restauration scolaire au service des jeunes Français.",
+    "published": "2024-09-11T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:07:40.992505+00:00",
+    "uid": "a50ff1e3feee349af30b82716b8d0987fe790480f82c5a48284c2fbe0582044c"
+  },
+  "9705076fcaa6c09c99ba821f4f87e83aedd0116601e960a6f871e6523a981a41": {
+    "source": "SNRC",
+    "title": "Isabelle Aprile élue pour trois ans à la tête du Syndicat National de la Restauration Collective (SNRC) pour promouvoir un modèle culturel et social au service des Français",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/isabelle-aprile-directrice-des-affaires-publiques-de-sodexo-france-elue-premiere-presidente-du-syndicat-national-de-la-restauration-collective-copy/",
+    "description": "En savoir +",
+    "published": "2024-06-18T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:07:40.992505+00:00",
+    "uid": "9705076fcaa6c09c99ba821f4f87e83aedd0116601e960a6f871e6523a981a41"
+  },
+  "3831bcac02ae8bb096e632d7381efdd538e10d37f12d7088f592555b5a2c157a": {
+    "source": "SNRC",
+    "title": "Isabelle Aprile au micro d'Alexandre Le mer",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/isabelle-aprile-au-micro-dalexandre-le-mer/",
+    "description": "En savoir +",
+    "published": "2024-04-17T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:07:40.992505+00:00",
+    "uid": "3831bcac02ae8bb096e632d7381efdd538e10d37f12d7088f592555b5a2c157a"
+  },
+  "f7d099eebdb3a7c4a0422064c6646814004d3af73cec3838e88cdd29fef11e34": {
+    "source": "ADN Tourisme",
+    "title": "Les visages d’ADN Tourisme : Didier Leprince",
+    "link": "https://www.adn-tourisme.fr/les-visages-dadn-tourisme-didier-leprince/",
+    "description": "The post Les visages d’ADN Tourisme : <br> Didier Leprince appeared first on ADN Tourisme .",
+    "published": "2026-08-24T07:47:06+00:00",
+    "first_seen": "2026-08-27T15:07:37.249544+00:00",
+    "uid": "f7d099eebdb3a7c4a0422064c6646814004d3af73cec3838e88cdd29fef11e34"
+  },
+  "7b3af18f8843fd865b6cb6e5949f5db951eb5b177db27beecdcbca985e399642": {
+    "source": "ADN Tourisme",
+    "title": "Incendies : ADN Tourisme appelle à une mobilisation collective",
+    "link": "https://www.adn-tourisme.fr/incendies-adn-tourisme-mobilisation-collective/",
+    "description": "The post Incendies : ADN Tourisme appelle <br> à une mobilisation collective appeared first on ADN Tourisme .",
+    "published": "2026-08-11T07:51:28+00:00",
+    "first_seen": "2026-08-27T15:07:37.249544+00:00",
+    "uid": "7b3af18f8843fd865b6cb6e5949f5db951eb5b177db27beecdcbca985e399642"
+  },
+  "7e80ca9c9933cd5ae8fb21875b0e446c534e4bdda2fba83a57709931b0ab22fe": {
+    "source": "ADN Tourisme",
+    "title": "Les visages d’ADN Tourisme : Ludovic AZUAR",
+    "link": "https://www.adn-tourisme.fr/les-visages-adn-tourisme-ludovic-azuar/",
+    "description": "The post Les visages d’ADN Tourisme : <br> Ludovic AZUAR appeared first on ADN Tourisme .",
+    "published": "2026-07-30T08:58:06+00:00",
+    "first_seen": "2026-08-27T15:07:37.249544+00:00",
+    "uid": "7e80ca9c9933cd5ae8fb21875b0e446c534e4bdda2fba83a57709931b0ab22fe"
+  },
+  "498b39137b104e853d9a18826aff11f22a0d610010ef3c00c01475793b500ff3": {
+    "source": "ADN Tourisme",
+    "title": "Les visages d’ADN Tourisme : Marie-Flo GUY",
+    "link": "https://www.adn-tourisme.fr/marie-flo-guy-adn-tourisme/",
+    "description": "The post Les visages d’ADN Tourisme : <br> Marie-Flo GUY appeared first on ADN Tourisme .",
+    "published": "2026-07-24T09:54:54+00:00",
+    "first_seen": "2026-08-27T15:07:37.249544+00:00",
+    "uid": "498b39137b104e853d9a18826aff11f22a0d610010ef3c00c01475793b500ff3"
+  },
+  "47da35181351e18ea380ff5b70953cbe4e0ce990d24b7d228145d411ecf074b2": {
+    "source": "ADN Tourisme",
+    "title": "Un label pour valoriser la gastronomie locale",
+    "link": "https://www.adn-tourisme.fr/label-saint-cyr-sur-mer/",
+    "description": "The post Un label pour valoriser <br> la gastronomie locale appeared first on ADN Tourisme .",
+    "published": "2026-07-20T15:06:53+00:00",
+    "first_seen": "2026-08-27T15:07:37.249544+00:00",
+    "uid": "47da35181351e18ea380ff5b70953cbe4e0ce990d24b7d228145d411ecf074b2"
+  },
+  "336d40b6e0ae413341ee4d3a7d9c4946d3979981b8156acf45a289f599ad0db5": {
+    "source": "ADN Tourisme",
+    "title": "Face à la canicule, les adhérents d’ADN Tourisme s’adaptent !",
+    "link": "https://www.adn-tourisme.fr/face-a-la-canicule-les-adherents-dadn-tourisme-sadaptent/",
+    "description": "The post Face à la canicule, les adhérents <br> d’ADN Tourisme s’adaptent ! appeared first on ADN Tourisme .",
+    "published": "2026-07-10T09:54:26+00:00",
+    "first_seen": "2026-08-27T15:07:37.249544+00:00",
+    "uid": "336d40b6e0ae413341ee4d3a7d9c4946d3979981b8156acf45a289f599ad0db5"
+  },
+  "eb71192800d80eb47a0ad313c4c944146ee856777da5697345306f2f2c11b3cc": {
+    "source": "ADN Tourisme",
+    "title": "L’autopartage pour faciliter les déplacements sur le territoire",
+    "link": "https://www.adn-tourisme.fr/lautopartage-faciliter-deplacements-territoire/",
+    "description": "The post L’autopartage pour faciliter <br> les déplacements sur le territoire appeared first on ADN Tourisme .",
+    "published": "2026-07-06T09:39:36+00:00",
+    "first_seen": "2026-08-27T15:07:37.249544+00:00",
+    "uid": "eb71192800d80eb47a0ad313c4c944146ee856777da5697345306f2f2c11b3cc"
+  },
+  "0c9c1d8f2976409e424bdedb843d105d036fa4e20cf7408d88f419f7df2b2d2b": {
+    "source": "ADN Tourisme",
+    "title": "Christelle Chassagne élue Présidente d’ADN Tourisme",
+    "link": "https://www.adn-tourisme.fr/christelle-chassagne-elue-presidente-adn-tourisme/",
+    "description": "The post Christelle Chassagne élue <br> Présidente d’ADN Tourisme appeared first on ADN Tourisme .",
+    "published": "2026-07-02T14:13:12+00:00",
+    "first_seen": "2026-08-27T15:07:37.249544+00:00",
+    "uid": "0c9c1d8f2976409e424bdedb843d105d036fa4e20cf7408d88f419f7df2b2d2b"
+  },
+  "d2ef349e71c943a9e4d70f646a74f0e7dd1ac5886d892b2fa724ceca4fcc522e": {
+    "source": "ADN Tourisme",
+    "title": "Un podcast réalisé avec des étudiants",
+    "link": "https://www.adn-tourisme.fr/podcast-etudiants-tourisme/",
+    "description": "The post Un podcast réalisé avec des étudiants appeared first on ADN Tourisme .",
+    "published": "2026-06-29T13:25:03+00:00",
+    "first_seen": "2026-08-27T15:07:37.249544+00:00",
+    "uid": "d2ef349e71c943a9e4d70f646a74f0e7dd1ac5886d892b2fa724ceca4fcc522e"
+  },
+  "a16fb2dd669976bddbd311c64b71f0387ff5a0d9457c14d8b59a1b96a3af3285": {
+    "source": "ADN Tourisme",
+    "title": "ADN Tourisme partenaire de la campagne nationale “Je pars en vacances”",
+    "link": "https://www.adn-tourisme.fr/campagne-je-pars-en-vacances/",
+    "description": "The post ADN Tourisme partenaire de<br> la campagne nationale “Je pars en vacances” appeared first on ADN Tourisme .",
+    "published": "2026-06-23T13:38:47+00:00",
+    "first_seen": "2026-08-27T15:07:37.249544+00:00",
+    "uid": "a16fb2dd669976bddbd311c64b71f0387ff5a0d9457c14d8b59a1b96a3af3285"
+  },
+  "f77ec15a810a3be0130271012009cb169e8832514e37fa43c03842f6b150bb9f": {
+    "source": "C2L Solutions - Restauration collective",
+    "title": "Plan de correction EGalim restauration collective",
+    "link": "https://c2lsolutions.fr/plan-correction-egalim-restauration-collective/",
+    "description": "Plan de correction EGalim restauration collective : obligations pour l’État et ses établissements publics Le plan de correction EGalim restauration collective concerne les ministères, les établissements publics placés sous leur…",
+    "published": "2026-06-25T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:05:53.323299+00:00",
+    "uid": "f77ec15a810a3be0130271012009cb169e8832514e37fa43c03842f6b150bb9f"
+  },
+  "da62968f082b40b0f0e1582e54387f489e81f4d11b05cb94b207b70626d44a5a": {
+    "source": "C2L Solutions - Restauration collective",
+    "title": "CCTP restauration : comment définir des fréquences de contrôle efficaces ?",
+    "link": "https://c2lsolutions.fr/cctp-restauration-frequences-controle/",
+    "description": "CCTP restauration : comment définir des fréquences de contrôle efficaces ? Table des matières Dans un marché public de restauration collective, le Cahier des Clauses Techniques Particulières (CCTP) est le…",
+    "published": "2026-05-10T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:05:53.323299+00:00",
+    "uid": "da62968f082b40b0f0e1582e54387f489e81f4d11b05cb94b207b70626d44a5a"
+  },
+  "f9ba994d180414b6e3082775ed77122f6b7b14079fb26cef60ae1a49a5b2cb94": {
+    "source": "C2L Solutions - Restauration collective",
+    "title": "Audit en restauration collective : quelles méthodes de contrôle utiliser ?",
+    "link": "https://c2lsolutions.fr/audit-restauration-collective/",
+    "description": "Audit en restauration collective : quelles méthodes de contrôle utiliser ? L'audit en restauration collective est un outil indispensable pour vérifier la conformité d'un service, qu'il soit en gestion directe…",
+    "published": "2026-02-27T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:05:53.323299+00:00",
+    "uid": "f9ba994d180414b6e3082775ed77122f6b7b14079fb26cef60ae1a49a5b2cb94"
+  },
+  "5b00301cde2f3531a119f13282cbaf787287018ccfc0345297d96888368d4826": {
+    "source": "C2L Solutions - Restauration collective",
+    "title": "Accompagner les territoires dans la télédéclaration avec ma cantine",
+    "link": "https://c2lsolutions.fr/teledeclaration-amo-territoire-webinaire-ma-cantine/",
+    "description": "Accompagner les territoires dans la télédéclaration avec ma cantine Le 5 février 2026, C2L Solutions a participé au webinaire ma cantine intitulé « Je suis un acteur de terrain : comment accompagner mon territoire…",
+    "published": "2026-02-19T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:05:53.323299+00:00",
+    "uid": "5b00301cde2f3531a119f13282cbaf787287018ccfc0345297d96888368d4826"
+  },
+  "a5b8b819dcacfe0776a104460b11967e1e245bde9596b6e2b8a147ae0b00d09d": {
+    "source": "C2L Solutions - Restauration collective",
+    "title": "Structurer les lots dans un marché alimentaire",
+    "link": "https://c2lsolutions.fr/structurer-lots-marche-alimentaire/",
+    "description": "Structurer les lots dans un marché alimentaire : comment favoriser les producteurs sans enfreindre la loi ? Dans les marchés alimentaires publics, l’organisation des lots constitue un levier essentiel pour…",
+    "published": "2026-01-23T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:05:53.323299+00:00",
+    "uid": "a5b8b819dcacfe0776a104460b11967e1e245bde9596b6e2b8a147ae0b00d09d"
+  },
+  "b0ad88d4697114a90ed3045690c8a7579ea1c559f4e49ff1641ec27136a45097": {
+    "source": "C2L Solutions - Restauration collective",
+    "title": "Label anti-gaspi en restauration collective : enjeux, critères et mise en œuvre",
+    "link": "https://c2lsolutions.fr/label-anti-gaspi-restauration-collective/",
+    "description": "Label anti-gaspi en restauration collective : enjeux, critères et mise en œuvre Introduction Le secteur de la restauration collective est concerné de façon croissante par la lutte contre le gaspillage…",
+    "published": "2026-01-13T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:05:53.323299+00:00",
+    "uid": "b0ad88d4697114a90ed3045690c8a7579ea1c559f4e49ff1641ec27136a45097"
+  },
+  "a7f25a9ffc1ba5ba4bbe68c4b74b14dde5c1c8111bf0a4e4546b655de1712f41": {
+    "source": "C2L Solutions - Restauration collective",
+    "title": "Gestion concédée ou livraison de repas : comment choisir le bon mode de gestion ?",
+    "link": "https://c2lsolutions.fr/gestion-concedee-ou-livraison-de-repas/",
+    "description": "Gestion concédée ou livraison de repas : comment choisir le bon mode de gestion ? Le choix du mode de gestion en restauration collective est une décision structurante pour toute…",
+    "published": "2025-12-09T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:05:53.323299+00:00",
+    "uid": "a7f25a9ffc1ba5ba4bbe68c4b74b14dde5c1c8111bf0a4e4546b655de1712f41"
+  },
+  "4a88beb43ec4cfd75b9a8edf9319404d0080eb7d0ec7e9e15d5fe03a3d450d4f": {
+    "source": "C2L Solutions - Restauration collective",
+    "title": "Déclaration EGalim 2026 : dates, obligations et conseils pour préparer votre télédéclaration",
+    "link": "https://c2lsolutions.fr/declaration-egalim-2026/",
+    "description": "Déclaration EGalim 2026 : dates, obligations et conseils pour préparer votre télédéclaration La campagne annuelle de télédéclaration EGalim constitue désormais un rendez-vous incontournable pour l’ensemble des gestionnaires publics engagés dans…",
+    "published": "2025-12-05T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:05:53.323299+00:00",
+    "uid": "4a88beb43ec4cfd75b9a8edf9319404d0080eb7d0ec7e9e15d5fe03a3d450d4f"
+  },
+  "ba3732296f448aac3bf4f4aff8d7e45ee6004f375d4cc909214684b51d96b06e": {
+    "source": "C2L Solutions - Restauration collective",
+    "title": "Construire un marché de restauration scolaire durable conforme à la loi Egalim",
+    "link": "https://c2lsolutions.fr/marche-restauration-scolaire-egalim/",
+    "description": "Comment construire un marché de restauration scolaire durable et conforme à la loi Egalim Depuis l’entrée en vigueur de la loi EGALIM , les acheteurs publics en charge de la restauration…",
+    "published": "2025-11-19T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:05:53.323299+00:00",
+    "uid": "ba3732296f448aac3bf4f4aff8d7e45ee6004f375d4cc909214684b51d96b06e"
+  },
+  "83e802b52daace266083d9430c1bdfef4a8bccdb6783c2f189d000d09fef4564": {
+    "source": "C2L Solutions - Restauration collective",
+    "title": "Semaine de la dénutrition 2025",
+    "link": "https://c2lsolutions.fr/semaine-de-la-denutrition-2025/",
+    "description": "Semaine de la dénutrition 2025 🟢 La Semaine nationale de la dénutrition 2025 : du 17 au 23 novembre, une mobilisation collective essentielle Chaque année, la Semaine nationale de la…",
+    "published": "2025-11-13T00:00:00+00:00",
+    "first_seen": "2026-08-27T15:05:53.323299+00:00",
+    "uid": "83e802b52daace266083d9430c1bdfef4a8bccdb6783c2f189d000d09fef4564"
+  },
+  "f742972cae095604f3e1314677b8f812a2a652a96c6c20dab5ed7a1985963c15": {
+    "source": "Localtis - Publics fragiles",
+    "title": "Prise en charge par l'Etat des AESH sur le temps méridien : adoption à l'unanimité de la proposition de loi en commission mais...",
+    "link": "https://www.banquedesterritoires.fr/prise-en-charge-par-letat-des-aesh-sur-le-temps-meridien-adoption-lunanimite-de-la-proposition-de",
+    "description": "La commission des affaires culturelles et de l'éducation de l'Assemblée nationale a adopté, le 3 avril 2024, à l'unanimité, la proposition de loi, déjà adoptée par le Sénat, \"visant la prise en charge par l’État de l'accompagnement humain des élèves en situation de handicap sur le temps méridien\". Une difficulté juridique cependant est apparue concernant les rémunérations des AESH, qui pourraient encore baisser après réforme.",
+    "published": "2024-04-04T10:10:21+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "f742972cae095604f3e1314677b8f812a2a652a96c6c20dab5ed7a1985963c15"
+  },
+  "8acdb646e6fba872333b7c973ed6078ec7e6c34147512bdaca76689c1160ad1a": {
+    "source": "Localtis - Publics fragiles",
+    "title": "56% des enfants de moins de 3 ans sont gardés à titre principal par leurs parents, souvent faute d'autre choix",
+    "link": "https://www.banquedesterritoires.fr/56-des-enfants-de-moins-de-3-ans-sont-gardes-titre-principal-par-leurs-parents-souvent-faute-dautre",
+    "description": "La Direction de la recherche, des études, de l’évaluation et des statistiques (Drees) a publié le 14 février 2024 des statistiques sur les modes de garde et d'accueil ainsi que sur la scolarisation des enfants âgés de moins de 6 ans, en France métropolitaine, en 2021. Il en ressort que 56%…",
+    "published": "2024-02-19T09:22:43+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "8acdb646e6fba872333b7c973ed6078ec7e6c34147512bdaca76689c1160ad1a"
+  },
+  "8ff0f393d17a645cd71c77fa69e969793fd0f42d6f28c824e14321cc789e5ce3": {
+    "source": "Localtis - Publics fragiles",
+    "title": "Démarrage de MaPrimeAdapt’ au 1er janvier 2024",
+    "link": "https://www.banquedesterritoires.fr/demarrage-de-maprimeadapt-au-1er-janvier-2024",
+    "description": "Accessible aux personnes handicapées et dépendantes et aux personnes âgées de 70 ans et plus, sous conditions de ressources, le dispositif MaPrimeAdapt’ prévoit l’attribution d’une aide et un accompagnement pour adapter le logement à la perte d’autonomie.",
+    "published": "2024-01-12T14:52:24+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "8ff0f393d17a645cd71c77fa69e969793fd0f42d6f28c824e14321cc789e5ce3"
+  },
+  "064b92693cf511ecf65ea4edb09698f22fa98d31e33aa9f3284f297b384ddc3b": {
+    "source": "Localtis - Publics fragiles",
+    "title": "Une circulaire précise l'utilisation du Fonds territorial d'accessibilité",
+    "link": "https://www.banquedesterritoires.fr/une-circulaire-precise-lutilisation-du-fonds-territorial-daccessibilite",
+    "description": "Le Fonds territorial d’accessibilité (FTA) et les \"ambassadeurs de l’accessibilité\" vont être déployés en \"synergie\" pour obtenir une \"amélioration substantielle\" de l'accueil des personnes handicapées dans les \"établissements du quotidien\". Une circulaire gouvernementale précise les modalités de mise en oeuvre de ces deux dispositifs.",
+    "published": "2023-11-29T10:57:31+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "064b92693cf511ecf65ea4edb09698f22fa98d31e33aa9f3284f297b384ddc3b"
+  },
+  "6ff27873d9a205174f78be17419ff4663aa153d1ad707677fe09fcfd2daf415f": {
+    "source": "Localtis - Publics fragiles",
+    "title": "La Dinum et le FIPHP veulent améliorer l'accessibilité des systèmes d'information publics",
+    "link": "https://www.banquedesterritoires.fr/la-dinum-et-le-fiphp-veulent-ameliorer-laccessibilite-des-systemes-dinformation-publics",
+    "description": "La Direction interministérielle du numérique (Dinum) et le Fonds pour l'insertion des personnes handicapées dans la fonction publique (FIPHFP) ont signé le 21 novembre 2023 une convention centrée sur l'accessibilité numérique. Dotée d'un budget de 20 millions d’euros sur 4 ans, cette initiative…",
+    "published": "2023-11-23T14:14:58+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "6ff27873d9a205174f78be17419ff4663aa153d1ad707677fe09fcfd2daf415f"
+  },
+  "8f1c20abec49134fa91abd427a16f2744f07df81129d0444304203ba486770b9": {
+    "source": "Localtis - Publics fragiles",
+    "title": "L'école inclusive peut mieux faire, selon un rapport parlementaire",
+    "link": "https://www.banquedesterritoires.fr/lecole-inclusive-peut-mieux-faire-selon-un-rapport-parlementaire",
+    "description": "Un rapport parlementaire dresse un bilan positif en termes quantitatifs de l'école inclusive, mais beaucoup plus mitigé en termes qualitatifs. Il invite à sortir de la logique centrée sur le seul accompagnement humain, dont les limites sont par ailleurs soulignées.",
+    "published": "2023-11-21T14:28:08+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "8f1c20abec49134fa91abd427a16f2744f07df81129d0444304203ba486770b9"
+  },
+  "159939fc7dc61299858f441af263c6cab695a4081b044105dbf814f0bf52cf75": {
+    "source": "Localtis - Publics fragiles",
+    "title": "École inclusive : prévus dans le PLF 2024, les pôles d'appui à la scolarité suscitent déjà des inquiétudes",
+    "link": "https://www.banquedesterritoires.fr/ecole-inclusive-prevus-dans-le-plf-2024-les-poles-dappui-la-scolarite-suscitent-deja-des",
+    "description": "Le projet de loi de finances pour 2024 prévoit la création de pôles d'appui à la scolarité pour accompagner la scolarisation des enfants handicapés. Parmi leurs futures missions : donner une réponse de premier niveau aux besoins des enfants. Un rôle qui, selon de nombreuses associations, entraîne une confusion avec l'intervention des maisons départementales des personnes handicapées.",
+    "published": "2023-11-13T14:13:16+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "159939fc7dc61299858f441af263c6cab695a4081b044105dbf814f0bf52cf75"
+  },
+  "a0e511fba1de9faccadfd982e71d1f62546474d5b5294a4d86fd730ed5d3a63d": {
+    "source": "Localtis - Publics fragiles",
+    "title": "Accessibilité web : l'Arcom pourra imposer des sanctions allant jusqu'à 50.000 euros",
+    "link": "https://www.banquedesterritoires.fr/accessibilite-web-larcom-pourra-imposer-des-sanctions-allant-jusqua-50000-euros",
+    "description": "Deux ordonnances viennent d'être publiées au Journal officiel concernant l'accessibilité des sites web et des services téléphoniques. Le contrôle des obligations d'accessibilité des administrations est désormais confié à l'Arcom qui pourra imposer des sanctions allant jusqu'à 50.000 euros. De son côté, l'État a renforcé les obligations des administrations invitées à respecter un \"système de design\".",
+    "published": "2023-09-08T12:04:57+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "a0e511fba1de9faccadfd982e71d1f62546474d5b5294a4d86fd730ed5d3a63d"
+  },
+  "d8c2444d8c51c9918b1144b1132122cbdeb55465002d88ed728ccfbbe9ed49f4": {
+    "source": "Localtis - Publics fragiles",
+    "title": "Rentrée scolaire : la Défenseure des droits alerte sur 5 situations",
+    "link": "https://www.banquedesterritoires.fr/rentree-scolaire-la-defenseure-des-droits-alerte-sur-5-situations",
+    "description": "La Défenseure des droits Claire Hédon s'est inquiétée dans un communiqué publié jeudi 31 août 2023 des entraves au droit à l'éducation des enfants en France, se disant \"particulièrement vigilante\" à cinq situations. Elle mentionne d'abord la situation des lycéens qui seront sans lycée…",
+    "published": "2023-09-01T11:38:36+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "d8c2444d8c51c9918b1144b1132122cbdeb55465002d88ed728ccfbbe9ed49f4"
+  },
+  "eb55bc7a60ffc755d579ee8ac13c3bc7a3f6741638a8b1868093a5bc0bf4c14a": {
+    "source": "Localtis - Publics fragiles",
+    "title": "Une PPL pour mettre à la charge de l'État l'intervention des AESH sur la pause méridienne",
+    "link": "https://www.banquedesterritoires.fr/une-ppl-pour-mettre-la-charge-de-letat-lintervention-des-aesh-sur-la-pause-meridienne",
+    "description": "Une proposition parlementaire de loi (PPL) récemment déposée par quatre-vingt-quatre membres de la majorité sénatoriale pourrait changer la donne en matière de recours aux accompagnants d'élèves en situation de handicap (AESH). Cette PPL vise en effet à faire peser sur l'État la charge financière…",
+    "published": "2023-08-31T06:45:23+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "eb55bc7a60ffc755d579ee8ac13c3bc7a3f6741638a8b1868093a5bc0bf4c14a"
+  },
+  "bca38b9db8ce30dff3451082b9124684bf35e8f32f25d2defcb9e46889bcb4b9": {
+    "source": "Localtis - Publics fragiles",
+    "title": "Handicap : le Comité national de suivi de l'école inclusive tire un bilan positif de l'année scolaire",
+    "link": "https://www.banquedesterritoires.fr/handicap-le-comite-national-de-suivi-de-lecole-inclusive-tire-un-bilan-positif-de-lannee-scolaire",
+    "description": "Le Comité national de suivi de l'école inclusive (CNSEI), réuni le 29 juin 2023 au ministère de l'Éducation nationale, a dressé un bilan positif de l'année scolaire 2022-2023 qui s'achève. Alors que le nombre d'élèves en situation de handicap scolarisés en milieu ordinaire, en augmentation…",
+    "published": "2023-06-30T10:57:53+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "bca38b9db8ce30dff3451082b9124684bf35e8f32f25d2defcb9e46889bcb4b9"
+  },
+  "0c00dd997d998a2823673488f67e7d0092b76a47bdd00fb384582894ec9232be": {
+    "source": "Localtis - Publics fragiles",
+    "title": "Action sociale départementale : une hausse modérée du nombre d’aides attribuées aux personnes âgées en 2021",
+    "link": "https://www.banquedesterritoires.fr/action-sociale-departementale-une-hausse-moderee-du-nombre-daides-attribuees-aux-personnes-agees-en",
+    "description": "Concernant les personnes en situation de handicap, la hausse des bénéficiaires d'aides sociales a été plus importante en 2021, année post-Covid, selon les chiffres publiés par la Drees le 12 mai 2023. Les effectifs de personnel, tous secteurs sociaux confondus, connaissent au global une quasi-stagnation sur cette période.",
+    "published": "2023-05-15T13:24:55+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "0c00dd997d998a2823673488f67e7d0092b76a47bdd00fb384582894ec9232be"
+  },
+  "f2cd32d5b1d8d2ac67a759d7d16b42b979972deb2981c48b49f8e83829d22ff5": {
+    "source": "Localtis - Publics fragiles",
+    "title": "AESH : Emmanuel Macron veut accélérer le temps plein",
+    "link": "https://www.banquedesterritoires.fr/aesh-emmanuel-macron-veut-accelerer-le-temps-plein",
+    "description": "Reconnaître le temps passé par les AESH (accompagnants d'élèves en situation de handicap) à la cantine ou pour faire les devoirs quand un enfant n'est pas autonome de façon à arriver à un temps de travail trente-cinq heures hebdomadaires, c'est une piste évoquée par Emmanuel Macron le 20 avril…",
+    "published": "2023-04-20T12:36:20+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "f2cd32d5b1d8d2ac67a759d7d16b42b979972deb2981c48b49f8e83829d22ff5"
+  },
+  "7e4825efa54f9b75cbb1eb1931edba4035d51a49292db74c982fa8ea375a7c45": {
+    "source": "Localtis - Publics fragiles",
+    "title": "Les collectivités invitées à développer l'accueil de sportifs handicapés dans les clubs ordinaires",
+    "link": "https://www.banquedesterritoires.fr/les-collectivites-invitees-developper-laccueil-de-sportifs-handicapes-dans-les-clubs-ordinaires",
+    "description": "Le Comité paralympique et sportif français (CPSF) vient de lancer le dispositif Club inclusif. Son but ? Former plus de 3.000 associations sportives ordinaires et non spécialisées à l’accueil de personnes en situation de handicap. Le CPSF constate en effet aujourd'hui \"l’absence d’offre…",
+    "published": "2023-01-06T09:54:19+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "7e4825efa54f9b75cbb1eb1931edba4035d51a49292db74c982fa8ea375a7c45"
+  },
+  "019443d11a7ef11009908936e88d1391de9c395080e31d2818b0cb6627452ad4": {
+    "source": "Localtis - Publics fragiles",
+    "title": "Inclusion scolaire : un rapport invite à sortir du \"tout aide humaine\"",
+    "link": "https://www.banquedesterritoires.fr/inclusion-scolaire-un-rapport-invite-sortir-du-tout-aide-humaine",
+    "description": "Un rapport commun de l'IGF et de l'IGESR sur l'école inclusive invite à reconsidérer la place des assistants d'élèves en situation de handicap – qui devraient par ailleurs être mis à disposition des collectivités par l'État sur le temps périscolaire – mais aussi à consolider la place de l'Éducation nationale dans les attributions de ces aides humaines.",
+    "published": "2022-12-09T14:02:34+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "019443d11a7ef11009908936e88d1391de9c395080e31d2818b0cb6627452ad4"
+  },
+  "66f6ac05639c52c77381eb4f5929583ed1a52149d08081d0965776672c7ccbd1": {
+    "source": "Localtis - Publics fragiles",
+    "title": "Sport et handicap : la Cour des comptes en faveur d'un nouveau partage des rôles",
+    "link": "https://www.banquedesterritoires.fr/sport-et-handicap-la-cour-des-comptes-en-faveur-dun-nouveau-partage-des-roles",
+    "description": "La stratégie nationale pour le parasport doit être clarifiée. C'est ce qui ressort d'un référé de la Cour des comptes portant sur la politique de l’État en faveur du parasport publié le 5 décembre. La Cour rappelle d'abord que la Fédération française handisport (FFH), qui s'adresse aux…",
+    "published": "2022-12-07T13:19:21+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "66f6ac05639c52c77381eb4f5929583ed1a52149d08081d0965776672c7ccbd1"
+  },
+  "8b67699bc1da8ce03ee479e6a557a354bebd617e363399933c96f10cd2429d14": {
+    "source": "Localtis - Publics fragiles",
+    "title": "Les députés rejettent la fonctionnarisation des AESH",
+    "link": "https://www.banquedesterritoires.fr/les-deputes-rejettent-la-fonctionnarisation-des-aesh",
+    "description": "La commission des affaires culturelles et de l'éducation de l'Assemblée nationale a voté contre une proposition de loi visant à créer un corps de fonctionnaires pour les accompagnants d’élèves en situation de handicap. Pour lutter contre les difficultés de recrutement du métier, les députés ont retenu la possibilité d'un passage en contrat à durée indéterminée après trois ans d'exercice.",
+    "published": "2022-11-17T13:35:30+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "8b67699bc1da8ce03ee479e6a557a354bebd617e363399933c96f10cd2429d14"
+  },
+  "3e1f24eafa4aaa5d56da8b94b83904ae174ef92a39c05a9612e8714872a4d4a0": {
+    "source": "Localtis - Publics fragiles",
+    "title": "Quand l'État appelle les collectivités à accueillir dans leurs cantines les élèves du privé en situation de handicap",
+    "link": "https://www.banquedesterritoires.fr/quand-letat-appelle-les-collectivites-accueillir-dans-leurs-cantines-les-eleves-du-prive-en",
+    "description": "Dans une réponse à une question parlementaire, le ministère de l'Éducation nationale invite les collectivités à accueillir dans les cantines publiques les élèves du privé en situation de handicap. Et, partant, suggère d'assurer la prise en charge de leurs accompagnants.",
+    "published": "2022-11-16T14:54:39+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "3e1f24eafa4aaa5d56da8b94b83904ae174ef92a39c05a9612e8714872a4d4a0"
+  },
+  "4e97ce435d0ec14ab28a253f56b44924cd47d326b862362e9335cfb4112381a5": {
+    "source": "Localtis - Publics fragiles",
+    "title": "Inclusion scolaire : la Défenseure des droits délivre une mention à peine passable",
+    "link": "https://www.banquedesterritoires.fr/inclusion-scolaire-la-defenseure-des-droits-delivre-une-mention-peine-passable",
+    "description": "Dans un rapport consacré à l’accompagnement humain des élèves en situation de handicap, la Défenseure des droits souligne les résultats quantitatifs positifs enregistrés ces dernières années. Mais déplore une inadéquation entre les moyens mis en œuvre et les véritables besoins des élèves.",
+    "published": "2022-08-30T12:59:11+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "4e97ce435d0ec14ab28a253f56b44924cd47d326b862362e9335cfb4112381a5"
+  },
+  "7f8a9b490d2c69e05e91a34849f55ef705bb5d9685f50d702a4615bc77ad08e9": {
+    "source": "Localtis - Publics fragiles",
+    "title": "Financement des AESH : un sujet majeur pour le prochain quinquennat",
+    "link": "https://www.banquedesterritoires.fr/financement-des-aesh-un-sujet-majeur-pour-le-prochain-quinquennat",
+    "description": "Le financement des accompagnants des enfants en situation de handicap dans le cadre scolaire pose un problème depuis son origine. Mais alors que la jurisprudence penchait pour faire peser sa charge sur l'État, le Conseil d'État a rebattu les cartes fin 2020. Depuis, les élus locaux sont inquiets et en appellent à l'État. La prochaine législature pourrait être l'occasion de repréciser les règles de financement et de recrutement.",
+    "published": "2022-04-29T12:18:06+00:00",
+    "first_seen": "2026-08-27T15:05:45.159348+00:00",
+    "uid": "7f8a9b490d2c69e05e91a34849f55ef705bb5d9685f50d702a4615bc77ad08e9"
+  },
+  "85dd32247f6e190684bea44b9b662e0db9ea75526e751cb55bb22982b79e0ef9": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Éducation : des chantiers tous azimuts pour la rentrée 2026",
+    "link": "https://www.banquedesterritoires.fr/education-des-chantiers-tous-azimuts-pour-la-rentree-2026",
+    "description": "La rentrée scolaire 2026-2027 sera marquée par de nombreux chantiers pour les collectivités locales. Si les questions récurrentes portant sur la carte scolaire, l'adaptation du bâti scolaire au changement climatique ou les AESH demeurent, l'interdiction des téléphones portables au lycée et les nouvelles règles de recrutement des animateurs périscolaires occuperont aussi les acteurs de terrain.",
+    "published": "2026-07-30T12:18:45+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "85dd32247f6e190684bea44b9b662e0db9ea75526e751cb55bb22982b79e0ef9"
+  },
+  "26df5ca228a775d5ffc8b9d1f5c9aa29b71a146640e8a419bfea10d233bc034a": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Protection de l'enfance : un projet de loi élargi, quitte à brouiller les pistes",
+    "link": "https://www.banquedesterritoires.fr/protection-de-lenfance-un-projet-de-loi-elargi-quitte-brouiller-les-pistes",
+    "description": "Les acteurs de la protection de l'enfance attendaient depuis longtemps le projet de loi qui viendrait répondre à la crise que connaît le secteur depuis plusieurs années. Mais, en réponse à l'actualité et aux attentes sociétales fortes, le gouvernement a fait le choix d'élargir le texte pour y intégrer des mesures de prévention – le fameux dispositif de contrôle des antécédents judiciaires – et de répression, afin de protéger plus efficacement les enfants des prédateurs sexuels. Aux associations et aux parlementaires ne se retrouvant plus dans ce texte, la ministre de la Santé et des Familles Stéphanie Rist assure que la refondation de la protection de l'enfance, à travers plusieurs modalités, est bien en ordre de marche.",
+    "published": "2026-07-30T11:35:20+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "26df5ca228a775d5ffc8b9d1f5c9aa29b71a146640e8a419bfea10d233bc034a"
+  },
+  "d09fed63891341370145404689ea5d338b0ce782433c550636440859689e40d0": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Priorité au retour à l'emploi, approche \"multidimensionnelle\" : quelle stratégie – et quels moyens – pour inverser la courbe de la pauvreté ?",
+    "link": "https://www.banquedesterritoires.fr/priorite-au-retour-lemploi-approche-multidimensionnelle-quelle-strategie-et-quels-moyens-pour",
+    "description": "Selon les dernières données de l'Insee, le taux de pauvreté s'est stabilisé en 2024 au niveau historiquement élevé de 15,4%, soit 9,8 millions de personnes vivant avec moins de 1.337 euros par mois et par unité de consommation. Recueillies par le CNLE, les remontées des professionnels de terrain laissent apparaître une intensification de la pauvreté – une \"spirale de précarisation\" – et la poursuite de l'élargissement des publics touchés. Alors que la pauvreté augmente depuis vingt ans, comment inverser la tendance sur les dix prochaines années ? Mandaté par le gouvernement, le CNLE a récemment publié une note de cadrage sur ce sujet. À plus court terme, les textes budgétaires de l'automne seront l'occasion de débattre des priorités et des moyens à dégager, le ministre du Travail et des Solidarités assumant de ne préserver que la jeunesse des 2 milliards d'économies prévues à ce jour sur son périmètre.",
+    "published": "2026-07-29T13:10:20+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "d09fed63891341370145404689ea5d338b0ce782433c550636440859689e40d0"
+  },
+  "c317d66ba5abeccfd06f21c8c6c8d59efddb287a4208159ffd5d5cd802bdd570": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Le maire devra procéder au changement d'école d'un élève dont un parent menace les personnels",
+    "link": "https://www.banquedesterritoires.fr/le-maire-devra-proceder-au-changement-decole-dun-eleve-dont-un-parent-menace-les-personnels",
+    "description": "Un décret prévoit le changement d'école ou d'établissement scolaire d'un élève dont un parent menace la sécurité d'un membre de la communauté éducative. Le maire devra procéder à la radiation puis à la réinscription de l'enfant, lequel fera l'objet de mesures d'accompagnement.",
+    "published": "2026-07-29T07:08:36+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "c317d66ba5abeccfd06f21c8c6c8d59efddb287a4208159ffd5d5cd802bdd570"
+  },
+  "47a70f525bf91aa1a7816c67c752101a9ac63a2908dd3bd0862face744c70d84": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Le gouvernement veut mieux contrôler les politiques de la jeunesse",
+    "link": "https://www.banquedesterritoires.fr/le-gouvernement-veut-mieux-controler-les-politiques-de-la-jeunesse",
+    "description": "Dans une directive à ses services déconcentrés, la ministre des Sports, de la Jeunesse et de la Vie associative en appelle à développer la qualité des loisirs éducatifs, et notamment leur encadrement. Elle avance des objectifs de contrôles chiffrés et érige la protection des jeunes accueillis collectivement en priorité absolue.",
+    "published": "2026-07-27T12:06:15+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "47a70f525bf91aa1a7816c67c752101a9ac63a2908dd3bd0862face744c70d84"
+  },
+  "9d17df45324aac10ed448612e7da6a8897bcb7c9988ea865d19f213eee651f0b": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Fournitures scolaires : face à la hausse des prix, la gratuité gagne du terrain chez les collectivités",
+    "link": "https://www.banquedesterritoires.fr/fournitures-scolaires-face-la-hausse-des-prix-la-gratuite-gagne-du-terrain-chez-les-collectivites",
+    "description": "Selon le relevé annuel de l'UFC-Que Choisir publié début juillet 2026, les prix des fournitures scolaires en grande surface ont encore augmenté de 2% par rapport à 2025. Une hausse modérée mais qui s'ajoute à celle de 2% déjà observée l'an dernier et de 10% en 2023. Sur le terrain, de nombreuses collectivités continuent de soutenir les familles : de la gratuité totale aux kits ciblés en passant par les bons d'achat ou des subventions, les dispositifs d'aides se multiplient pour alléger la facture des familles à l'approche de la rentrée 2026.",
+    "published": "2026-07-24T13:28:01+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "9d17df45324aac10ed448612e7da6a8897bcb7c9988ea865d19f213eee651f0b"
+  },
+  "ce878aa9072c02f7f212f4ba24c02000c786552677322ab53b7fe1eb7c0bbc14": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Le calendrier scolaire 2027-2028 publié au Journal officiel",
+    "link": "https://www.banquedesterritoires.fr/le-calendrier-scolaire-2027-2028-publie-au-journal-officiel",
+    "description": "Le ministère de l'Éducation nationale a publié au Journal officiel du 23 juillet 2026 l'arrêté fixant le calendrier scolaire de l'année 2027-2028. La prérentrée des enseignants est fixée au mercredi 1er septembre 2027, tandis que les élèves reprendront…",
+    "published": "2026-07-24T13:06:56+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "ce878aa9072c02f7f212f4ba24c02000c786552677322ab53b7fe1eb7c0bbc14"
+  },
+  "90ebdcd2981d68bdc2ed521e330e0dc2f9a2566ff1981606a1a65ef17e889ba5": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Protection des enfants : l'Assemblée nationale adopte le projet de loi",
+    "link": "https://www.banquedesterritoires.fr/protection-des-enfants-lassemblee-nationale-adopte-le-projet-de-loi",
+    "description": "Ce sont essentiellement les voix du centre, de la droite et du RN qui ont permis l'approbation, en première lecture le 21 juillet 2026, de ce projet de loi aux contours particuliers. Le texte comporte trois facettes : des mesures s'appliquant au champ de la protection de l'enfance, dont la création d'une nouvelle ordonnance de sûreté de l'enfant, le dispositif – pensé en particulier pour l'école et le périscolaire – de contrôle d'honorabilité des personnes exerçant au contact d'enfants et, enfin, des dispositions visant à intensifier la lutte contre la pédocriminalité – dont l'imprescriptibilité des crimes sur mineurs et l'extension de la réclusion à perpétuité aux auteurs de crimes sexuels graves et en série sur mineurs de moins de 15 ans.",
+    "published": "2026-07-22T13:48:25+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "90ebdcd2981d68bdc2ed521e330e0dc2f9a2566ff1981606a1a65ef17e889ba5"
+  },
+  "ac4ffbfe5e9b61554b2f05434d2acf0be22eb19b81da893d0ffdd38ccbf6e3ab": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "FPT : forte baisse du recrutement d'apprentis en 2025",
+    "link": "https://www.banquedesterritoires.fr/fpt-forte-baisse-du-recrutement-dapprentis-en-2025",
+    "description": "L'an dernier, 11.210 nouveaux contrats d'apprentissage ont débuté dans la fonction publique territoriale (FPT), soit 17,1% de moins qu'en 2024.",
+    "published": "2026-07-20T13:15:50+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "ac4ffbfe5e9b61554b2f05434d2acf0be22eb19b81da893d0ffdd38ccbf6e3ab"
+  },
+  "477b11eeb056af069bf99805861f9b45561fecfc0614ee8aa82cb994c1115bc9": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "La commission des finances de l’Assemblée nationale appelle à rétablir la dotation financière aux régions pour l’apprentissage",
+    "link": "https://www.banquedesterritoires.fr/la-commission-des-finances-de-lassemblee-nationale-appelle-retablir-la-dotation-financiere-aux",
+    "description": "La commission des finances de l’Assemblée nationales déplore les restrictions budgétaires sur l’apprentissage, dont la chute des dotations aux régions pour le soutien des centres de formation d’apprentis.",
+    "published": "2026-07-20T06:10:34+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "477b11eeb056af069bf99805861f9b45561fecfc0614ee8aa82cb994c1115bc9"
+  },
+  "fa24397fd7e10ea632474b1f169648681fece4e3d9ee8a77bf24851c5d44c46c": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Pass sport 2026 : élus locaux et mouvement sportif veulent des éclaircissements rapides",
+    "link": "https://www.banquedesterritoires.fr/pass-sport-2026-elus-locaux-et-mouvement-sportif-veulent-des-eclaircissements-rapides",
+    "description": "Modifié à plusieurs reprises ces derniers mois, le Pass sport n'a pas encore publié ses modalités de fonctionnement pour la saison qui s'ouvre début septembre. Élus locaux et responsables sportifs demandent au gouvernement d'en préciser les règles au plus vite.",
+    "published": "2026-07-17T11:32:47+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "fa24397fd7e10ea632474b1f169648681fece4e3d9ee8a77bf24851c5d44c46c"
+  },
+  "c12aedf7f6cd30a1898a5be3a079cc4fef4f30ae09dac2206d8b7fc8b81c0072": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Enfance : Sarah El Haïry formule 20 propositions pour \"construire une chaîne de protection continue\"",
+    "link": "https://www.banquedesterritoires.fr/enfance-sarah-el-hairy-formule-20-propositions-pour-construire-une-chaine-de-protection-continue",
+    "description": "La haute-commissaire à l'enfance estime que le corpus juridique est \"robuste\" mais que les dispositifs ne sont pas suffisamment articulés autour du parcours de l'enfant. Les propositions formulées visent à combler les trous dans la raquette, en mutualisant les moyens d'enquête administrative, en formant tous les adultes au contact des enfants mais aussi en renforçant le statut d'administrateur ad-hoc pour permettre à chaque enfant victime d'être accompagné.",
+    "published": "2026-07-16T13:43:04+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "c12aedf7f6cd30a1898a5be3a079cc4fef4f30ae09dac2206d8b7fc8b81c0072"
+  },
+  "28f60ed0ccbc94f8025af983739f10e3d6440bd413812d7084bbd584418775a9": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Les classes \"prépa seconde\" pérennisées et assouplies",
+    "link": "https://www.banquedesterritoires.fr/les-classes-prepa-seconde-perennisees-et-assouplies",
+    "description": "Destinées à remobiliser les élèves en difficulté avant leur entrée en seconde, les \"prépas seconde\" sont reconduites après deux ans d'expérimentation. Un décret les ouvre à tous les élèves et en élargit les règles d'orientation et de changement d'établissement.",
+    "published": "2026-07-16T12:54:52+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "28f60ed0ccbc94f8025af983739f10e3d6440bd413812d7084bbd584418775a9"
+  },
+  "ffa2bdbda1a6aa4d102dfa503ae7bf00def21072ac7034b248bce1bbefc4856a": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Handicap à l'école : toujours des élèves sans accompagnement, surtout lors de la pause méridienne",
+    "link": "https://www.banquedesterritoires.fr/handicap-lecole-toujours-des-eleves-sans-accompagnement-surtout-lors-de-la-pause-meridienne",
+    "description": "Près de 44.000 élèves sont encore en attente d'un accompagnant d'élève en situation de handicap (AESH) et plus d'un tiers de ceux qui ont besoin d'un accompagnement pendant la pause méridienne ne sont pas accompagnés, selon un rapport au Parlement du ministère de l'Éducation nationale dont…",
+    "published": "2026-07-15T13:42:07+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "ffa2bdbda1a6aa4d102dfa503ae7bf00def21072ac7034b248bce1bbefc4856a"
+  },
+  "83d221f978708177ddd106e8cf4748db45a8ba312599d32b531aec43e3f69937": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Protection de l'enfance : promulgation de la loi systématisant la présence d'un avocat aux côtés du mineur",
+    "link": "https://www.banquedesterritoires.fr/protection-de-lenfance-promulgation-de-la-loi-systematisant-la-presence-dun-avocat-aux-cotes-du",
+    "description": "La loi \"visant à assurer le droit de chaque enfant à être assisté d'un avocat dans le cadre d'une mesure d'assistance éducative et de protection de l'enfance\" a été publiée au Journal officiel du 14 juillet 2026. \"En matière d'assistance éducative, le mineur, sans condition de discernement,…",
+    "published": "2026-07-15T13:15:41+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "83d221f978708177ddd106e8cf4748db45a8ba312599d32b531aec43e3f69937"
+  },
+  "ff601e9053b3d58cb0055907f1704bf129c77741b002a7e69aacd9a4e648256d": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Mobilisation des cellules régionales pour accompagner les jeunes qui souhaitent s’orienter vers l’apprentissage",
+    "link": "https://www.banquedesterritoires.fr/mobilisation-des-cellules-regionales-pour-accompagner-les-jeunes-qui-souhaitent-sorienter-vers",
+    "description": "Dans un contexte de baisse du nombre de contrats d’apprentissage enregistrés en 2025, le gouvernement remobilise les \"cellules régionales\" afin de renforcer l’accompagnement des jeunes qui souhaitent s’orienter vers l’apprentissage.",
+    "published": "2026-07-10T06:38:37+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "ff601e9053b3d58cb0055907f1704bf129c77741b002a7e69aacd9a4e648256d"
+  },
+  "56519f49a96a041cc705fb46b019f03be6a9f2ebfc75b128d5987770df6d9fab": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Hausse continue des saisines des services de la médiatrice de l'Éducation nationale",
+    "link": "https://www.banquedesterritoires.fr/hausse-continue-des-saisines-des-services-de-la-mediatrice-de-leducation-nationale",
+    "description": "Le rapport annuel de la médiatrice de l'Éducation nationale et de l'Enseignement supérieur, présenté le 8 juillet 2026, consacre pour la première fois son bilan à la santé mentale des élèves, des étudiants et des personnels. Les services ont traité en 2025 plus de 28.5000 saisines, soit 22% de plus qu'en 2024 et +57% depuis 2020. La médiatrice met en garde contre le fonctionnement du système éducatif, qui, dans de nombreux cas, peut \"provoquer ou aggraver le mal-être des usagers ou des agents\". Cela concerne les collectivités, coemployeurs des AESH et partenaires des dispositifs locaux d'accompagnement psychologique des jeunes.",
+    "published": "2026-07-08T12:23:46+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "56519f49a96a041cc705fb46b019f03be6a9f2ebfc75b128d5987770df6d9fab"
+  },
+  "933ee6215979459cbf3d9218fadc4aed753edffd62ad6d13a635894334d9232f": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Education artistique et culturelle : une nouvelle campagne pour relancer le label \"100% EAC\"",
+    "link": "https://www.banquedesterritoires.fr/education-artistique-et-culturelle-une-nouvelle-campagne-pour-relancer-le-label-100-eac",
+    "description": "Les ministères de la Culture et de l'Éducation nationale ont lancé le 1er juillet 2026 la troisième campagne nationale de labellisation \"100% éducation artistique et culturelle-EAC\" destinée aux collectivités territoriales (hors régions) et à leurs groupements. Lancé en 2022, le label…",
+    "published": "2026-07-07T08:35:55+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "933ee6215979459cbf3d9218fadc4aed753edffd62ad6d13a635894334d9232f"
+  },
+  "5117146c961fb6733f54863ebbb76c21a2d6a5f63495c091fd691497e23d7061": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Les porteurs de projet invités à candidater aux \"Trophées des initiatives FSE+ et FTJ 2026\"",
+    "link": "https://www.banquedesterritoires.fr/les-porteurs-de-projet-invites-candidater-aux-trophees-des-initiatives-fse-et-ftj-2026",
+    "description": "Il est encore temps de s'inscrire à l'édition 2026 des \"Trophées des initiatives FSE+ et FTJ\" (fonds pour une transition juste), organisés par la délégation générale à l'emploi et à la formation professionnelle (DGEFP) et Régions de France, qui visent à \"donner du sens à l'action\" de ces…",
+    "published": "2026-07-07T06:22:41+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "5117146c961fb6733f54863ebbb76c21a2d6a5f63495c091fd691497e23d7061"
+  },
+  "1dc8a6c420a646104a67b6638ffd64c0fd40ed97a5726ce21f7c4daa55ef671f": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Une circulaire invite les lycées à se préparer à l'interdiction du téléphone portable",
+    "link": "https://www.banquedesterritoires.fr/une-circulaire-invite-les-lycees-se-preparer-linterdiction-du-telephone-portable",
+    "description": "Alors qu'une proposition de loi visant à interdire les téléphones portables au lycée a été adoptée en première lecture à l'Assemblée nationale et au Sénat, et attend sa deuxième lecture, une circulaire publiée au Bulletin officiel de l'Éducation nationale du 2 juillet propose d'en anticiper…",
+    "published": "2026-07-03T12:20:16+00:00",
+    "first_seen": "2026-08-27T15:05:44.857106+00:00",
+    "uid": "1dc8a6c420a646104a67b6638ffd64c0fd40ed97a5726ce21f7c4daa55ef671f"
+  },
   "a22a9507587958809f8a8fef9a0a1bf11c473d12d9d80b10059ae5e7ab575ab0": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Alerte sur 150 produits pour bébés vendus en ligne jugés dangereux",
@@ -53,15 +683,6 @@
     "first_seen": "2026-08-27T14:06:25.410336+00:00",
     "uid": "0c9ebccd80d5b5dc5bcbde6ba07b2c1a8cbdb4ee0e2f52337ba3b679fe7cddcd"
   },
-  "e79ddafdf35c4702a323dac0718a63321b89fabc296035d7aa96d4ebce4d010d": {
-    "source": "ADN Tourisme",
-    "title": "Responsable commercialisation et adhérents et conseiller(ère) en séjour",
-    "link": "https://www.adn-tourisme.fr/responsable-commercialisation-et-adherents-et-conseillerere-en-sejour/",
-    "description": "L’Office de Tourisme de Passy Mont-Blanc (association) recherche son/sa Responsable commercialisation et adhérents (H/F) et conseiller(ère) en séjour. · Avez-vous envie de rejoindre une équipe jeune, motivée et solidaire et de relever des défis riches et variés ? · Avez-vous envie de participer à la valorisation d’un territoire […] The post Responsable commercialisation et adhérents et conseiller(ère) en séjour appeared first on ADN Tourisme .",
-    "published": "2026-08-25T13:38:40+00:00",
-    "first_seen": "2026-08-26T07:10:00.280382+00:00",
-    "uid": "e79ddafdf35c4702a323dac0718a63321b89fabc296035d7aa96d4ebce4d010d"
-  },
   "0f36b517f46c342fda766107aeb7e42119e4e3558f855e22643296710471fcd6": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Bruit routier : une étude de l’Inserm montre un impact durable sur l’équilibre émotionnel des enfants",
@@ -89,15 +710,6 @@
     "first_seen": "2026-08-24T13:13:58.327046+00:00",
     "uid": "ae99c0a2f92aff626b5f645ea0166c32885b7b7a54c898ebe67c0db720c6a467"
   },
-  "f7d099eebdb3a7c4a0422064c6646814004d3af73cec3838e88cdd29fef11e34": {
-    "source": "ADN Tourisme",
-    "title": "Les visages d’ADN Tourisme : Didier Leprince",
-    "link": "https://www.adn-tourisme.fr/les-visages-dadn-tourisme-didier-leprince/",
-    "description": "The post Les visages d’ADN Tourisme : <br> Didier Leprince appeared first on ADN Tourisme .",
-    "published": "2026-08-24T07:47:06+00:00",
-    "first_seen": "2026-08-24T10:05:02.634015+00:00",
-    "uid": "f7d099eebdb3a7c4a0422064c6646814004d3af73cec3838e88cdd29fef11e34"
-  },
   "db51af271e0e493fd55a6927d3682ca19ed1ab4a64305e1e9af627d86609d717": {
     "source": "Enfance & Jeunesse Infos - Veille juridique",
     "title": "Détention des mineurs : la loi du 23 juillet 2026 referme la brèche",
@@ -115,24 +727,6 @@
     "published": "2026-08-20T07:44:27+00:00",
     "first_seen": "2026-08-20T09:50:59.832648+00:00",
     "uid": "cc806d5bdcb7c354016f044ab28edb12a03e85f088617320edeaca9a5ca091b4"
-  },
-  "8fcbdc33c22968ea268d4ee1653d65c18ecf0efb9c1c1a14dc3186df83ba7b20": {
-    "source": "ADN Tourisme",
-    "title": "L’Alsace Verte recrute son/sa Directeur/Directrice",
-    "link": "https://www.adn-tourisme.fr/lalsace-verte-recrute-son-sa-directeur-directrice/",
-    "description": "L’Office de Tourisme Intercommunautaire de l’Alsace Verte est un établissement public à caractère industriel et commercial (EPIC) chargé de mettre en oeuvre la politique touristique définie par les quatre Communautés de communes membres de l’Alsace Verte.Implanté sur un territoire de 68 communes regroupant près de 75 000 habitants, l’Office de Tourisme dispose de quatre bureaux […] The post L’Alsace Verte recrute son/sa Directeur/Directrice appeared first on ADN Tourisme .",
-    "published": "2026-08-19T05:20:32+00:00",
-    "first_seen": "2026-08-20T07:07:12.180194+00:00",
-    "uid": "8fcbdc33c22968ea268d4ee1653d65c18ecf0efb9c1c1a14dc3186df83ba7b20"
-  },
-  "fe251d713809526949509528116ec0cc2a6e69a6be749760e16f295bc91b3898": {
-    "source": "ADN Tourisme",
-    "title": "Chargé(e) de Communication digitale et Marketing de Destination (H/F) CDI – Vallée du Loir Tourisme",
-    "link": "https://www.adn-tourisme.fr/chargee-de-communication-digitale-et-marketing-de-destination-h-f-cdi-vallee-du-loir-tourisme/",
-    "description": "Qui sommes-nous ? La SPL Vallée du Loir Tourisme recrute son/sa futur(e) Chargé(e) de communication digitale et marketing de destination. Au cœur d’un territoire préservé entre Tours, Le Mans et Angers, la Vallée du Loir incarne une autre façon de voyager : plus authentique, plus locale, plus durable. Entre villages de caractère, vignobles, itinéraires vélo, […] The post Chargé(e) de Communication digitale et Marketing de Destination (H/F) CDI – Vallée du Loir Tourisme appeared first on ADN Tourisme .",
-    "published": "2026-08-18T14:06:08+00:00",
-    "first_seen": "2026-08-19T07:06:34.043811+00:00",
-    "uid": "fe251d713809526949509528116ec0cc2a6e69a6be749760e16f295bc91b3898"
   },
   "c0a6c7cbce90ced54e659a2cf5b09f72c91ca031346be58291bed2910c2be0b7": {
     "source": "Les Pros de la Petite Enfance",
@@ -170,15 +764,6 @@
     "first_seen": "2026-08-15T18:48:03.017670+00:00",
     "uid": "5f9ea7c36c0fce8e8c82285f7d7eeaa599fe81cab208e7cda74205d24bd1271c"
   },
-  "82a71d5bc62cde8b9f86a01e3c7110dc7edde1385cfb57a8bce32fa4cb716b93": {
-    "source": "ADN Tourisme",
-    "title": "Chargé(e) des relations médias et des contenus journalistiques",
-    "link": "https://www.adn-tourisme.fr/chargee-des-relations-medias-et-des-contenus-journalistiques/",
-    "description": "La Société Publique Locale – Gorges de l’Ardèche Tourisme – intervient à l’échelle de 29 communes et 2 communautés de communes : la comcom des Gorges de l’Ardèche et la comcom Du Rhône Aux Gorges de l’Ardèche. Elle agit notamment en tant qu’Office de Tourisme de la destination Gorges de l’Ardèche – Pont d’Arc […] The post Chargé(e) des relations médias et des contenus journalistiques appeared first on ADN Tourisme .",
-    "published": "2026-08-14T08:16:00+00:00",
-    "first_seen": "2026-08-15T06:58:43.257464+00:00",
-    "uid": "82a71d5bc62cde8b9f86a01e3c7110dc7edde1385cfb57a8bce32fa4cb716b93"
-  },
   "768989206b96f145da42ac4c418210aa5c7f9bc4c10e06e62502c6785d611cbb": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Caries et gingivites chez les tout-petits : la prévention précoce compte plus qu’on ne le pense",
@@ -187,15 +772,6 @@
     "published": "2026-08-13T07:24:31+00:00",
     "first_seen": "2026-08-13T10:28:46.792731+00:00",
     "uid": "768989206b96f145da42ac4c418210aa5c7f9bc4c10e06e62502c6785d611cbb"
-  },
-  "2eaa3c05758709dc8cfd360aa99c8985af7eb06ae64e3989c307cfaedb9071b2": {
-    "source": "ADN Tourisme",
-    "title": "L’Office de tourisme Causses et Gorges de l’Aveyron recrute un(e) Chargé(e) Accueil-Boutique & Qualité",
-    "link": "https://www.adn-tourisme.fr/loffice-de-tourisme-causses-et-gorges-de-laveyron-recrute-une-chargee-accueil-boutique-qualite/",
-    "description": "Au cœur d’un territoire d’exception entre nature, patrimoine et activités de pleine nature, l’Office de Tourisme Causses & Gorges de l’Aveyron œuvre au développement et à la promotion de la destination. Afin de renforcer notre équipe, nous recrutons un(e) chargé(e) Accueil-Boutique & Qualité. Choisir de travailler en Causses et Gorges de l’Aveyron, c’est faire le […] The post L’Office de tourisme Causses et Gorges de l’Aveyron recrute un(e) Chargé(e) Accueil-Boutique & Qualité appeared first on ADN Tourisme .",
-    "published": "2026-08-12T14:45:57+00:00",
-    "first_seen": "2026-08-13T05:07:07.268192+00:00",
-    "uid": "2eaa3c05758709dc8cfd360aa99c8985af7eb06ae64e3989c307cfaedb9071b2"
   },
   "ed00e079873134518d228d21232c05b04b99f5efa33b7540c1fc5ea7bd11cb18": {
     "source": "CNSA - Actualités",
@@ -215,24 +791,6 @@
     "first_seen": "2026-08-12T16:10:10.970726+00:00",
     "uid": "cbb2fb97a7373a792c33e2c06d18c01167e152ba19573e605b658ad97aa7aee6"
   },
-  "aabf33a0b6d73e113415025d2448b3b8cb765973f93bf629de8646b20557edd3": {
-    "source": "ADN Tourisme",
-    "title": "Alsace Destination Tourisme recrute son/sa Directeur/Directrice Général(e) en CDI",
-    "link": "https://www.adn-tourisme.fr/alsace-destination-tourisme-recrute-son-sa-directeur-directrice-generale-en-cdi/",
-    "description": "Alsace Destination Tourisme, agence de développement et de promotion touristique de la Collectivité européenne d’Alsace, recrute son ou sa Directeur/trice général/e. Acteur stratégique du développement touristique alsacien, ADT accompagne les collectivités, les Offices de Tourisme, les entreprises, les filières professionnelles, les sites de visite et les porteurs de projets dans le développement, la qualification, la […] The post Alsace Destination Tourisme recrute son/sa Directeur/Directrice Général(e) en CDI appeared first on ADN Tourisme .",
-    "published": "2026-08-11T12:25:59+00:00",
-    "first_seen": "2026-08-12T05:04:17.818722+00:00",
-    "uid": "aabf33a0b6d73e113415025d2448b3b8cb765973f93bf629de8646b20557edd3"
-  },
-  "88279e17f289158865d6ad1c444de11eb9b6d4d283329cf42f9b320bc01ab750": {
-    "source": "ADN Tourisme",
-    "title": "Réferent(e) hébergeurs et taxe de séjour",
-    "link": "https://www.adn-tourisme.fr/referente-hebergeurs-et-taxe-de-sejour/",
-    "description": "La communauté de communes des Avant-Monts, au cœur de l’Hérault, regroupe 25 communes de Thézan-lès-Béziers à Faugères et de Causses-et-Veyran à Neffiès. Sa situation privilégiée entre Béziers et Bédarieux, entre mer et montagne, ses richesses naturelles, patrimoniales et œnologiques en font une destination touristique idéalement située pour rayonner dans tout l’Hérault. L’Office de Tourisme est […] The post Réferent(e) hébergeurs et taxe de séjour appeared first on ADN Tourisme .",
-    "published": "2026-08-11T09:29:07+00:00",
-    "first_seen": "2026-08-12T05:04:17.818722+00:00",
-    "uid": "88279e17f289158865d6ad1c444de11eb9b6d4d283329cf42f9b320bc01ab750"
-  },
   "a9e2c7a0f5036b197d936a975e75ebf9893053d74acc799019d75d103b977d48": {
     "source": "CNSA - Actualités",
     "title": "Décès de M. Dominique Libault",
@@ -242,15 +800,6 @@
     "first_seen": "2026-08-11T13:43:50.011162+00:00",
     "uid": "a9e2c7a0f5036b197d936a975e75ebf9893053d74acc799019d75d103b977d48"
   },
-  "7b3af18f8843fd865b6cb6e5949f5db951eb5b177db27beecdcbca985e399642": {
-    "source": "ADN Tourisme",
-    "title": "Incendies : ADN Tourisme appelle à une mobilisation collective",
-    "link": "https://www.adn-tourisme.fr/incendies-adn-tourisme-mobilisation-collective/",
-    "description": "The post Incendies : ADN Tourisme appelle <br> à une mobilisation collective appeared first on ADN Tourisme .",
-    "published": "2026-08-11T07:51:28+00:00",
-    "first_seen": "2026-08-11T10:12:01.191386+00:00",
-    "uid": "7b3af18f8843fd865b6cb6e5949f5db951eb5b177db27beecdcbca985e399642"
-  },
   "406b4b6cc37fd26106108b90e7fd42e53a8d6a9ed75d7a6dedc28ebf0b367c5d": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Autisme : et si l’on pouvait agir avant même le diagnostic ?",
@@ -259,15 +808,6 @@
     "published": "2026-08-11T08:16:48+00:00",
     "first_seen": "2026-08-11T10:11:52.397379+00:00",
     "uid": "406b4b6cc37fd26106108b90e7fd42e53a8d6a9ed75d7a6dedc28ebf0b367c5d"
-  },
-  "2266762968f22af7e63f0e6088cc3eed1948224b348f4e8f56f70b25a2847aa1": {
-    "source": "ADN Tourisme",
-    "title": "Chargé(e) de développement touristique pour le Haut Limousin",
-    "link": "https://www.adn-tourisme.fr/chargee-de-developpement-touristique-pour-le-haut-limousin/",
-    "description": "La SPL Terres de Limousin (Comité Départemental de Tourisme de la Haute-Vienne) recrute un(e) chargé(e) de développement touristique pour le Haut Limousin. Vous avez déjà une expérience en tourisme et/ou développement local Vous êtes à l’écoute, connecté(e) et passionné(e) par le terrain ? Vous souhaitez contribuer au développement d’une destination touristique et accompagner des acteurs […] The post Chargé(e) de développement touristique pour le Haut Limousin appeared first on ADN Tourisme .",
-    "published": "2026-08-10T14:00:41+00:00",
-    "first_seen": "2026-08-11T07:38:26.688577+00:00",
-    "uid": "2266762968f22af7e63f0e6088cc3eed1948224b348f4e8f56f70b25a2847aa1"
   },
   "46b1623c048a4387bf7a97bcca7a2a964e7eb1c6e120e0bdc15276628f1dae42": {
     "source": "Les Pros de la Petite Enfance",
@@ -503,24 +1043,6 @@
     "first_seen": "2026-08-05T14:34:46.597437+00:00",
     "uid": "c07ececbd4221b4a6b618e44f8a920511a02ad90a877ed36f6f1e09cee0942a2"
   },
-  "bfa2675980c2f5b6615a74b873469b83a62a1994d0c0bc6ae26a7e52844e48e0": {
-    "source": "ADN Tourisme",
-    "title": "Chargé(e) de mission développement touristique",
-    "link": "https://www.adn-tourisme.fr/chargee-de-mission-developpement-touristique/",
-    "description": "OBJECTIFS DU POSTE Assurer la coordination de l’activité des bureaux d’information touristique en qualité de référent accueil et boutique. Il/Elle veille à la qualité de l’accueil et de l’information délivrée aux visiteurs ainsi qu’à son amélioration continue, à la bonne gestion et à la performance de la boutique, au suivi des procédures internes, et participe […] The post Chargé(e) de mission développement touristique appeared first on ADN Tourisme .",
-    "published": "2026-08-04T12:17:14+00:00",
-    "first_seen": "2026-08-05T09:07:15.675120+00:00",
-    "uid": "bfa2675980c2f5b6615a74b873469b83a62a1994d0c0bc6ae26a7e52844e48e0"
-  },
-  "0b886b455ddd65b9862848642485608837d31748ff178ec102b8b5f24d8fe225": {
-    "source": "ADN Tourisme",
-    "title": "Directeur(trice) de l’Office de Tourisme et des Congrès de Montpellier Méditerranée Métropole (H/F)",
-    "link": "https://www.adn-tourisme.fr/directeurtrice-de-loffice-de-tourisme-et-des-congres-de-montpellier-mediterranee-metropole-h-f/",
-    "description": "Rejoignez une destination d’exception Montpellier Méditerranée Métropole est l’une des métropoles françaises les plus dynamiques, conjuguant croissance démographique, excellence universitaire, innovation économique, patrimoine historique et qualité de vie méditerranéenne. Destination touristique, culturelle, événementielle et d’affaires majeure en Occitanie, elle accueille chaque année 5,2 millions d’arrivées de touristes générant près de 15 millions de nuitées et […] The post Directeur(trice) de l’Office de Tourisme et des Congrès de Montpellier Méditerranée Métropole (H/F) appeared first on ADN Tourisme .",
-    "published": "2026-08-04T06:57:08+00:00",
-    "first_seen": "2026-08-05T09:07:15.675120+00:00",
-    "uid": "0b886b455ddd65b9862848642485608837d31748ff178ec102b8b5f24d8fe225"
-  },
   "8f6b1986bb0de74800114a123b8710f75544008e6120aeb83c2ce26a88766d5b": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Sommeil des bébés en crèche : un manque criant de données scientifiques",
@@ -557,15 +1079,6 @@
     "first_seen": "2026-08-04T11:34:20.179686+00:00",
     "uid": "7ddbe4a8bf9a472f8118051dce915da08100ffd3c48b84721db3bf1e08dcc789"
   },
-  "7e80ca9c9933cd5ae8fb21875b0e446c534e4bdda2fba83a57709931b0ab22fe": {
-    "source": "ADN Tourisme",
-    "title": "Les visages d’ADN Tourisme : Ludovic AZUAR",
-    "link": "https://www.adn-tourisme.fr/les-visages-adn-tourisme-ludovic-azuar/",
-    "description": "The post Les visages d’ADN Tourisme : <br> Ludovic AZUAR appeared first on ADN Tourisme .",
-    "published": "2026-07-30T08:58:06+00:00",
-    "first_seen": "2026-08-03T15:18:03.045150+00:00",
-    "uid": "7e80ca9c9933cd5ae8fb21875b0e446c534e4bdda2fba83a57709931b0ab22fe"
-  },
   "f8dd063058bf0e05ba20dcd52d4a8a6404a4bc9867e30697b0ea5028a2a267c8": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Le Prix du livre pour les bébés revient : les albums en compétition",
@@ -583,15 +1096,6 @@
     "published": "2026-08-03T09:20:12+00:00",
     "first_seen": "2026-08-03T10:06:51.330635+00:00",
     "uid": "213171c9eafdecfbaa9a8e86d7290fd57414857e82f5a66f38f39372883be8ba"
-  },
-  "53dd0bb4f0e4d5e8d13191b5f9f1886b3e83a077f1c8eeb62451a3e36ed07cf5": {
-    "source": "ADN Tourisme",
-    "title": "Toulouse Team, l’agence d’attracivité de Toulouse Métropole recrute son chargé de missions Datas & Marketing, en CDI",
-    "link": "https://www.adn-tourisme.fr/toulouse-team-lagence-dattracivite-de-toulouse-metropole-recrute-son-charge-de-missions-datas-marketing-en-cdi/",
-    "description": "L’Agence d’Attractivité de Toulouse Métropole (Toulouse Team) recherche son / sa chargé(e) de mission data & marketing Vous souhaitez intégrer une structure innovante, au service du développement durable du territoire et de ses habitants ? Vous avez une vision marketing des datas et une appétence pour le secteur touristique et l’attractivité économique ? […] The post Toulouse Team, l’agence d’attracivité de Toulouse Métropole recrute son chargé de missions Datas & Marketing, en CDI appeared first on ADN Tourisme .",
-    "published": "2026-07-31T09:15:53+00:00",
-    "first_seen": "2026-08-01T08:34:49.646326+00:00",
-    "uid": "53dd0bb4f0e4d5e8d13191b5f9f1886b3e83a077f1c8eeb62451a3e36ed07cf5"
   },
   "55edc016091319caa25057d2d6d7ef801fbe1c7351dc8969d68a68a4ba28d2cf": {
     "source": "Les Pros de la Petite Enfance",
@@ -764,24 +1268,6 @@
     "first_seen": "2026-07-27T15:15:11.381933+00:00",
     "uid": "c66600d694da804b153da4a239c8320078340ff37eb5943e9113c10e3b50831c"
   },
-  "5f2adfd967b55eb3e53c005d6033ae77811dd1de7b7888119e61e09b676d8836": {
-    "source": "ADN Tourisme",
-    "title": "L’OT Vexin-Nacre recrute son/sa future chargé/e de commercialisation",
-    "link": "https://www.adn-tourisme.fr/lot-vexin-nacre-recrute-son-sa-future-charge-e-de-commercialisation/",
-    "description": "L’Office de Tourisme Vexin en Pays de Nacre est un EPIC situé dans le sud-ouest de l’Oise (Hauts-de-France) aux portes de la Région parisienne et de la Normandie. C’est une Destination alliant nature, patrimoine culturel et patrimoine industriel dans un cadre rural et semi-urbain. La destination regroupe deux EPCI, la Communauté de Communes des Sablons […] The post L’OT Vexin-Nacre recrute son/sa future chargé/e de commercialisation appeared first on ADN Tourisme .",
-    "published": "2026-07-24T14:09:31+00:00",
-    "first_seen": "2026-07-25T08:25:15.084456+00:00",
-    "uid": "5f2adfd967b55eb3e53c005d6033ae77811dd1de7b7888119e61e09b676d8836"
-  },
-  "85bf1be71664e908c6337c1abc03a7b62bf2bf6fa41d2cf58f2f0a3f6a523b21": {
-    "source": "ADN Tourisme",
-    "title": "[CDI] L’office de tourisme Beauvais et Beauvaisis recherche son futur responsable Accueil (H/F)",
-    "link": "https://www.adn-tourisme.fr/cdi-loffice-de-tourisme-beauvais-et-beauvaisis-recherche-son-futur-responsable-accueil-h-f/",
-    "description": "Au cœur d’un territoire de 53 communes et 100 000 habitants, l’Office de Tourisme Beauvais & Beauvaisis, labellisé Destination d’Excellence, recherche son ou sa Responsable Accueil. Votre prochain défi : faire rayonner le territoire du Beauvaisis !Management, qualité, sens du service personnalisé : rejoignez l’Office de Tourisme Beauvais & Beauvaisis pour piloter une équipe engagée […] The post [CDI] L’office de tourisme Beauvais et Beauvaisis recherche son futur responsable Accueil (H/F) appeared first on ADN Tourisme .",
-    "published": "2026-07-24T10:15:06+00:00",
-    "first_seen": "2026-07-25T08:25:15.084456+00:00",
-    "uid": "85bf1be71664e908c6337c1abc03a7b62bf2bf6fa41d2cf58f2f0a3f6a523b21"
-  },
   "b75dfa519a94d0ba180402d044b0d4f90426ae0aa6e201a3d87f26e8441f29e0": {
     "source": "Les Pros de la Petite Enfance",
     "title": "VAE du titre IEPE : les cinq premières candidates ont passé leur examen",
@@ -799,15 +1285,6 @@
     "published": "2026-07-24T10:52:18+00:00",
     "first_seen": "2026-07-24T14:14:02.848648+00:00",
     "uid": "8136ae030c13da2fdfdd767200deee904e0c2293533cb462592028624541809a"
-  },
-  "498b39137b104e853d9a18826aff11f22a0d610010ef3c00c01475793b500ff3": {
-    "source": "ADN Tourisme",
-    "title": "Les visages d’ADN Tourisme : Marie-Flo GUY",
-    "link": "https://www.adn-tourisme.fr/marie-flo-guy-adn-tourisme/",
-    "description": "The post Les visages d’ADN Tourisme : <br> Marie-Flo GUY appeared first on ADN Tourisme .",
-    "published": "2026-07-24T09:54:54+00:00",
-    "first_seen": "2026-07-24T11:13:06.169211+00:00",
-    "uid": "498b39137b104e853d9a18826aff11f22a0d610010ef3c00c01475793b500ff3"
   },
   "865604cf2c7a8b60cc9dcebf4b707483e9cdeb9e0c86865b885cb8d9aa9a834a": {
     "source": "Les Pros de la Petite Enfance",
@@ -872,15 +1349,6 @@
     "first_seen": "2026-07-22T11:20:46.934615+00:00",
     "uid": "dd3235dc2f59597011538dd76b86e3b04998f5dc88caf143d3147346a2d975ca"
   },
-  "e9dff154de52c7a742977533cafb09ccee824a9fb482d661f08c2b6a2873581b": {
-    "source": "ADN Tourisme",
-    "title": "Chargé-e de Communication",
-    "link": "https://www.adn-tourisme.fr/charge-e-de-communication/",
-    "description": "L’Agence de Développement Touristique de l’Aude, association de loi 1901 et outil technique du Conseil Départemental a pour missions : · De préparer et de mettre en œuvre la politique touristique du Département de l’Aude, · D’accompagner le développement d’une offre qualifiée et éco-responsable, · De coordonner et de […] The post Chargé-e de Communication appeared first on ADN Tourisme .",
-    "published": "2026-07-21T10:00:32+00:00",
-    "first_seen": "2026-07-22T08:45:59.878540+00:00",
-    "uid": "e9dff154de52c7a742977533cafb09ccee824a9fb482d661f08c2b6a2873581b"
-  },
   "586784d2f1d14afe8c0abac64bed6aceceb1cff159c6c814f4be86be67994547": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Défenseur des droits : la nomination de François-Noël Buffet validée par le Parlement",
@@ -890,24 +1358,6 @@
     "first_seen": "2026-07-21T14:24:11.708331+00:00",
     "uid": "586784d2f1d14afe8c0abac64bed6aceceb1cff159c6c814f4be86be67994547"
   },
-  "2f98c1854d1e1e13d1ec9d0729dfaf59bcba474b947ab77274acbe8e35699f95": {
-    "source": "ADN Tourisme",
-    "title": "L’Office de Tourisme et des Congrès de Versailles Grand Parc recrute un(e) Chargé(e) de commercialisation numérique (H/F) – CDI",
-    "link": "https://www.adn-tourisme.fr/loffice-de-tourisme-et-des-congres-de-versailles-grand-parc-recrute-une-chargee-de-commercialisation-numerique-h-f-cdi/",
-    "description": "Rejoignez l’Office de Tourisme et des Congrès de Versailles Grand Parc Au cœur d’une destination touristique internationale, l’Office de Tourisme et des Congrès de Versailles Grand Parc développe une offre de visites, d’expériences et de séjours à destination des visiteurs français et internationaux. Afin d’accompagner le développement de notre activité commerciale, nous recrutons un(e) Chargé(e) […] The post L’Office de Tourisme et des Congrès de Versailles Grand Parc recrute un(e) Chargé(e) de commercialisation numérique (H/F) – CDI appeared first on ADN Tourisme .",
-    "published": "2026-07-20T13:32:13+00:00",
-    "first_seen": "2026-07-21T08:46:35.002531+00:00",
-    "uid": "2f98c1854d1e1e13d1ec9d0729dfaf59bcba474b947ab77274acbe8e35699f95"
-  },
-  "47da35181351e18ea380ff5b70953cbe4e0ce990d24b7d228145d411ecf074b2": {
-    "source": "ADN Tourisme",
-    "title": "Un label pour valoriser la gastronomie locale",
-    "link": "https://www.adn-tourisme.fr/label-saint-cyr-sur-mer/",
-    "description": "The post Un label pour valoriser <br> la gastronomie locale appeared first on ADN Tourisme .",
-    "published": "2026-07-20T15:06:53+00:00",
-    "first_seen": "2026-07-20T16:45:00.198861+00:00",
-    "uid": "47da35181351e18ea380ff5b70953cbe4e0ce990d24b7d228145d411ecf074b2"
-  },
   "faa3fc04821ac41083a0ea831c2738684a61d03e949862f99d1f7e7d6c875ad2": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Salaires des assistantes maternelles : des disparités selon les régions",
@@ -916,114 +1366,6 @@
     "published": "2026-07-20T13:31:52+00:00",
     "first_seen": "2026-07-20T16:44:52.731713+00:00",
     "uid": "faa3fc04821ac41083a0ea831c2738684a61d03e949862f99d1f7e7d6c875ad2"
-  },
-  "1892ac64e2ccf09e6ee1ddeec7f883a67c5d27db4156bcde6045bb83f9965e51": {
-    "source": "SNRC",
-    "title": "Interfel",
-    "link": "https://www.snrc.fr/2023/04/03/interfel/",
-    "description": "L’article Interfel est apparu en premier sur SNRC .",
-    "published": "2023-04-03T09:25:20+00:00",
-    "first_seen": "2026-07-20T15:05:36.474342+00:00",
-    "uid": "1892ac64e2ccf09e6ee1ddeec7f883a67c5d27db4156bcde6045bb83f9965e51"
-  },
-  "8faadaf0f6fe24fe543950045b787f8f5b0de22cea703a7ce4ce4b0ca78e86bf": {
-    "source": "SNRC",
-    "title": "Bonjour tout le monde !",
-    "link": "https://www.snrc.fr/2021/06/30/bonjour-tout-le-monde/",
-    "description": "Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire ! L’article Bonjour tout le monde ! est apparu en premier sur SNRC .",
-    "published": "2021-06-30T09:14:28+00:00",
-    "first_seen": "2026-07-20T15:05:36.474342+00:00",
-    "uid": "8faadaf0f6fe24fe543950045b787f8f5b0de22cea703a7ce4ce4b0ca78e86bf"
-  },
-  "d930efa58649a278823f0a99adfaae8e4a6d552c8340ba5dd9a1a328507b60bf": {
-    "source": "ADN Tourisme",
-    "title": "Aude Tourisme recrute sa/son Directrice / Directeur",
-    "link": "https://www.adn-tourisme.fr/aude-tourisme-recrute-sa-son-directrice-directeur/",
-    "description": "Avec la stratégie touristique départementale 2023-2028, le Conseil Départemental de l’Aude a acté son ambition d’impulser un nouveau modèle touristique qui régénère le territoire et s’engage « positivement » dans les transitions. Outil technique du Département, l’ADT de l’Aude déploie cette stratégie et s’attache à prendre en compte les transitions dans ses différents projets. Composée […] The post Aude Tourisme recrute sa/son Directrice / Directeur appeared first on ADN Tourisme .",
-    "published": "2026-07-16T13:11:35+00:00",
-    "first_seen": "2026-07-20T15:05:32.010838+00:00",
-    "uid": "d930efa58649a278823f0a99adfaae8e4a6d552c8340ba5dd9a1a328507b60bf"
-  },
-  "061d9d6d0666a8aab4c039bf5cea35de652d352a63c9ce345ff48f927d1dcdf8": {
-    "source": "ADN Tourisme",
-    "title": "L’ADT Ariège Pyrénées recrute son(sa) chargé(e) de communication digitale",
-    "link": "https://www.adn-tourisme.fr/ladt-ariege-pyrenees-recrute-sonsa-chargee-de-communication-digitale/",
-    "description": "Rejoignez une équipe passionnée et dynamique dédiée à la promotion et au rayonnement de l’Ariège ! Présentation de la structure L’Agence de Développement Touristique Ariège Pyrénées (ADT), une équipe génératrice d’impulsion, experte et bienveillante, au service de l’attractivité et du rayonnement de la destination, animée par le développement du territoire. Ce qui nous […] The post L’ADT Ariège Pyrénées recrute son(sa) chargé(e) de communication digitale appeared first on ADN Tourisme .",
-    "published": "2026-07-10T14:26:58+00:00",
-    "first_seen": "2026-07-20T15:05:32.010838+00:00",
-    "uid": "061d9d6d0666a8aab4c039bf5cea35de652d352a63c9ce345ff48f927d1dcdf8"
-  },
-  "f1d6365854345667a5d1086daf39cb390af37fd7e17f44ed2f9f3d9baff17368": {
-    "source": "ADN Tourisme",
-    "title": "Responsable de l’accueil touristique (H/F)",
-    "link": "https://www.adn-tourisme.fr/responsable-de-laccueil-touristique-h-f/",
-    "description": "Rejoignez Dombes Tourisme ! Située dans le département de l’Ain, la Dombes, région aux milles étangs, est une destination nature reconnue pour sa biodiversité exceptionnelle, ses paysages, son patrimoine et sa gastronomie. Dombes Tourisme est une Société Publique Locale qui assure la promotion, l’accueil et le développement touristique de la Communauté de Communes de la […] The post Responsable de l’accueil touristique (H/F) appeared first on ADN Tourisme .",
-    "published": "2026-07-10T13:55:33+00:00",
-    "first_seen": "2026-07-20T15:05:32.010838+00:00",
-    "uid": "f1d6365854345667a5d1086daf39cb390af37fd7e17f44ed2f9f3d9baff17368"
-  },
-  "336d40b6e0ae413341ee4d3a7d9c4946d3979981b8156acf45a289f599ad0db5": {
-    "source": "ADN Tourisme",
-    "title": "Face à la canicule, les adhérents d’ADN Tourisme s’adaptent !",
-    "link": "https://www.adn-tourisme.fr/face-a-la-canicule-les-adherents-dadn-tourisme-sadaptent/",
-    "description": "The post Face à la canicule, les adhérents <br> d’ADN Tourisme s’adaptent ! appeared first on ADN Tourisme .",
-    "published": "2026-07-10T09:54:26+00:00",
-    "first_seen": "2026-07-20T15:05:32.010838+00:00",
-    "uid": "336d40b6e0ae413341ee4d3a7d9c4946d3979981b8156acf45a289f599ad0db5"
-  },
-  "50fb3f1a2a96dbe85d918fc8884e5b01a5c4709b5f14bb3b7af39624026c36b4": {
-    "source": "ADN Tourisme",
-    "title": "Référent communication et développement commercial",
-    "link": "https://www.adn-tourisme.fr/referent-communication-et-developpement-commercial/",
-    "description": "Innovation & Développement Tourisme est une association Loi 1901 qui fédère les Offices de tourisme et les territoires à vocation touristique de la Haute Savoie (OT). Nos missions concernent : la défense des intérêts des OT, la représentation des OT, l’animation et la fédération des OT, la formation et la professionnalisation des acteurs du tourisme, […] The post Référent communication et développement commercial appeared first on ADN Tourisme .",
-    "published": "2026-07-06T10:07:53+00:00",
-    "first_seen": "2026-07-20T15:05:32.010838+00:00",
-    "uid": "50fb3f1a2a96dbe85d918fc8884e5b01a5c4709b5f14bb3b7af39624026c36b4"
-  },
-  "2a5e2c1c773363f2b5a554d92d6e7adb85fedf367f80407f6eefa75980a810f3": {
-    "source": "ADN Tourisme",
-    "title": "Responsable du Pôle Qualification de l’offre",
-    "link": "https://www.adn-tourisme.fr/responsable-du-pole-qualification-de-loffre/",
-    "description": "Innovation & Développement Tourisme est une association Loi 1901 qui fédère les Offices de tourisme et les territoires à vocation touristique de la Haute Savoie (OT). Nos missions concernent : la défense des intérêts des OT, la représentation des OT, l’animation et la fédération des OT, la formation et la professionnalisation des acteurs du tourisme, […] The post Responsable du Pôle Qualification de l’offre appeared first on ADN Tourisme .",
-    "published": "2026-07-06T10:00:21+00:00",
-    "first_seen": "2026-07-20T15:05:32.010838+00:00",
-    "uid": "2a5e2c1c773363f2b5a554d92d6e7adb85fedf367f80407f6eefa75980a810f3"
-  },
-  "eb71192800d80eb47a0ad313c4c944146ee856777da5697345306f2f2c11b3cc": {
-    "source": "ADN Tourisme",
-    "title": "L’autopartage pour faciliter les déplacements sur le territoire",
-    "link": "https://www.adn-tourisme.fr/lautopartage-faciliter-deplacements-territoire/",
-    "description": "The post L’autopartage pour faciliter <br> les déplacements sur le territoire appeared first on ADN Tourisme .",
-    "published": "2026-07-06T09:39:36+00:00",
-    "first_seen": "2026-07-20T15:05:32.010838+00:00",
-    "uid": "eb71192800d80eb47a0ad313c4c944146ee856777da5697345306f2f2c11b3cc"
-  },
-  "bb31ccd03525e7536af3965a23bbb6d040d19048c78ab1427ce0f2e1def132ad": {
-    "source": "ADN Tourisme",
-    "title": "L’office de tourisme du Pays Ségali recrute un.e conseiller.e en séjour en alternance",
-    "link": "https://www.adn-tourisme.fr/loffice-de-tourisme-du-pays-segali-recrute-un-e-conseiller-e-en-sejour-en-alternance/",
-    "description": "L’office de tourisme Pays Ségali, recherche son/sa futur.e conseiller.e en séjour en alternance. Situé au sud-ouest du département de l’Aveyron, l’office de tourisme Pays Ségali assure ses missions d’accueil, d’information, de promotion et de développement touristique sur un territoire de 23 communes, grâce à une équipe de 4 personnes réparties dans 2 bureaux d’informations (Naucelle […] The post L’office de tourisme du Pays Ségali recrute un.e conseiller.e en séjour en alternance appeared first on ADN Tourisme .",
-    "published": "2026-07-06T09:37:26+00:00",
-    "first_seen": "2026-07-20T15:05:32.010838+00:00",
-    "uid": "bb31ccd03525e7536af3965a23bbb6d040d19048c78ab1427ce0f2e1def132ad"
-  },
-  "0c9c1d8f2976409e424bdedb843d105d036fa4e20cf7408d88f419f7df2b2d2b": {
-    "source": "ADN Tourisme",
-    "title": "Christelle Chassagne élue Présidente d’ADN Tourisme",
-    "link": "https://www.adn-tourisme.fr/christelle-chassagne-elue-presidente-adn-tourisme/",
-    "description": "The post Christelle Chassagne élue <br> Présidente d’ADN Tourisme appeared first on ADN Tourisme .",
-    "published": "2026-07-02T14:13:12+00:00",
-    "first_seen": "2026-07-20T15:05:32.010838+00:00",
-    "uid": "0c9c1d8f2976409e424bdedb843d105d036fa4e20cf7408d88f419f7df2b2d2b"
-  },
-  "d2ef349e71c943a9e4d70f646a74f0e7dd1ac5886d892b2fa724ceca4fcc522e": {
-    "source": "ADN Tourisme",
-    "title": "Un podcast réalisé avec des étudiants",
-    "link": "https://www.adn-tourisme.fr/podcast-etudiants-tourisme/",
-    "description": "The post Un podcast réalisé avec des étudiants appeared first on ADN Tourisme .",
-    "published": "2026-06-29T13:25:03+00:00",
-    "first_seen": "2026-07-20T15:05:32.010838+00:00",
-    "uid": "d2ef349e71c943a9e4d70f646a74f0e7dd1ac5886d892b2fa724ceca4fcc522e"
   },
   "f4d221dd1f0cf3864b4c1dac485b414fcafaeafae33cc53202e434909ced9f18": {
     "source": "Observatoire de la culture",
@@ -1429,114 +1771,6 @@
     "published": "2026-07-20T13:31:52+00:00",
     "uid": "91ebe61b3eb36e5a6719ecfe0a7060aa521140541a94c0de6e707113adc48182",
     "first_seen": "2026-07-20T14:57:50.974527+00:00"
-  },
-  "d89cfd120a29cd31a51e31b47eb71175db3c39739efe389439fff07c2cda4b68": {
-    "source": "SNRC",
-    "title": "Bonjour tout le monde !",
-    "link": "https://www.snrc.fr/2021/06/30/bonjour-tout-le-monde/",
-    "description": "<p>Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire !</p> <p>L’article <a href=\"https://www.snrc.fr/2021/06/30/bonjour-tout-le-monde/\">Bonjour tout le monde !</a> est apparu en premier sur <a href=\"https://www.snrc.fr\">SNRC</a>.</p>",
-    "published": "2021-06-30T09:14:28+00:00",
-    "uid": "d89cfd120a29cd31a51e31b47eb71175db3c39739efe389439fff07c2cda4b68",
-    "first_seen": "2026-07-20T14:50:53.146483+00:00"
-  },
-  "98464257420fc2330854315274cc75d397f0eab98a837c764c9671a6c40928a8": {
-    "source": "SNRC",
-    "title": "Interfel",
-    "link": "https://www.snrc.fr/2023/04/03/interfel/",
-    "description": "<p>L’article <a href=\"https://www.snrc.fr/2023/04/03/interfel/\">Interfel</a> est apparu en premier sur <a href=\"https://www.snrc.fr\">SNRC</a>.</p>",
-    "published": "2023-04-03T09:25:20+00:00",
-    "uid": "98464257420fc2330854315274cc75d397f0eab98a837c764c9671a6c40928a8",
-    "first_seen": "2026-07-20T14:50:53.146468+00:00"
-  },
-  "e4676390d925bf3716a3856ada5a727ba36483d27e50eb10b2261f7a935870fd": {
-    "source": "ADN Tourisme",
-    "title": "Un podcast réalisé avec des étudiants",
-    "link": "https://www.adn-tourisme.fr/podcast-etudiants-tourisme/",
-    "description": "<p>The post <a href=\"https://www.adn-tourisme.fr/podcast-etudiants-tourisme/\">Un podcast réalisé avec des étudiants</a> appeared first on <a href=\"https://www.adn-tourisme.fr\">ADN Tourisme</a>.</p>",
-    "published": "2026-06-29T13:25:03+00:00",
-    "uid": "e4676390d925bf3716a3856ada5a727ba36483d27e50eb10b2261f7a935870fd",
-    "first_seen": "2026-07-20T14:50:50.351400+00:00"
-  },
-  "57e84768a28f3b621d2bd28906a267b3795fe262e8f984edad2d482a5f34d0a1": {
-    "source": "ADN Tourisme",
-    "title": "Christelle Chassagne élue Présidente d’ADN Tourisme",
-    "link": "https://www.adn-tourisme.fr/christelle-chassagne-elue-presidente-adn-tourisme/",
-    "description": "<p>The post <a href=\"https://www.adn-tourisme.fr/christelle-chassagne-elue-presidente-adn-tourisme/\">Christelle Chassagne élue &lt;br&gt; Présidente d’ADN Tourisme</a> appeared first on <a href=\"https://www.adn-tourisme.fr\">ADN Tourisme</a>.</p>",
-    "published": "2026-07-02T14:13:12+00:00",
-    "uid": "57e84768a28f3b621d2bd28906a267b3795fe262e8f984edad2d482a5f34d0a1",
-    "first_seen": "2026-07-20T14:50:50.351392+00:00"
-  },
-  "8ed80b501b868d2ef6f89741e4f8dbc4c2e4e2265c4c4b0e0a1cf8fd6d478737": {
-    "source": "ADN Tourisme",
-    "title": "L’office de tourisme du Pays Ségali recrute un.e conseiller.e en séjour en alternance",
-    "link": "https://www.adn-tourisme.fr/loffice-de-tourisme-du-pays-segali-recrute-un-e-conseiller-e-en-sejour-en-alternance/",
-    "description": "<p>L’office de tourisme Pays Ségali, recherche son/sa futur.e conseiller.e en séjour en alternance. Situé au sud-ouest du département de l’Aveyron, l’office de tourisme Pays Ségali assure ses missions d’accueil, d’information, de promotion et de développement touristique sur un territoire de 23 communes, grâce à une équipe de 4 personnes réparties dans 2 bureaux d’informations (Naucelle [&#8230;]</p> <p>The post <a href=\"https://www.adn-tourisme.fr/loffice-de-tourisme-du-pays-segali-recrute-un-e-conseiller-e-en-sejour-en-alternance/\">L&#8217;office de tourisme du Pays Ségali recrute un.e conseiller.e en séjour en alternance</a> appeared first on <a href=\"https://www.adn-tourisme.fr\">ADN Tourisme</a>.</p>",
-    "published": "2026-07-06T09:37:26+00:00",
-    "uid": "8ed80b501b868d2ef6f89741e4f8dbc4c2e4e2265c4c4b0e0a1cf8fd6d478737",
-    "first_seen": "2026-07-20T14:50:50.351384+00:00"
-  },
-  "ed95f34de38a9c2e23b811bc32bc2f54f45a44c2d9d3f754335a3503d87b97f3": {
-    "source": "ADN Tourisme",
-    "title": "L’autopartage pour faciliter les déplacements sur le territoire",
-    "link": "https://www.adn-tourisme.fr/lautopartage-faciliter-deplacements-territoire/",
-    "description": "<p>The post <a href=\"https://www.adn-tourisme.fr/lautopartage-faciliter-deplacements-territoire/\">L’autopartage pour faciliter &lt;br&gt; les déplacements sur le territoire</a> appeared first on <a href=\"https://www.adn-tourisme.fr\">ADN Tourisme</a>.</p>",
-    "published": "2026-07-06T09:39:36+00:00",
-    "uid": "ed95f34de38a9c2e23b811bc32bc2f54f45a44c2d9d3f754335a3503d87b97f3",
-    "first_seen": "2026-07-20T14:50:50.351376+00:00"
-  },
-  "6bf110cb603e6a5af1593c9eed4ad194999bb8385703d7979861c92756b6f64c": {
-    "source": "ADN Tourisme",
-    "title": "Responsable du Pôle Qualification de l’offre",
-    "link": "https://www.adn-tourisme.fr/responsable-du-pole-qualification-de-loffre/",
-    "description": "<p>Innovation &#38; Développement Tourisme est une association Loi 1901 qui fédère les Offices de tourisme et les territoires à vocation touristique de la Haute Savoie (OT). Nos missions concernent : la défense des intérêts des OT, la représentation des OT, l’animation et la fédération des OT, la formation et la professionnalisation des acteurs du tourisme, [&#8230;]</p> <p>The post <a href=\"https://www.adn-tourisme.fr/responsable-du-pole-qualification-de-loffre/\">Responsable du Pôle Qualification de l&#8217;offre</a> appeared first on <a href=\"https://www.adn-tourisme.fr\">ADN Tourisme</a>.</p>",
-    "published": "2026-07-06T10:00:21+00:00",
-    "uid": "6bf110cb603e6a5af1593c9eed4ad194999bb8385703d7979861c92756b6f64c",
-    "first_seen": "2026-07-20T14:50:50.351368+00:00"
-  },
-  "ec82f0b71eec4fd66a419538aa45eac46c3246e655d87fcb981ee94b8c4669c9": {
-    "source": "ADN Tourisme",
-    "title": "Référent communication et développement commercial",
-    "link": "https://www.adn-tourisme.fr/referent-communication-et-developpement-commercial/",
-    "description": "<p>Innovation &#38; Développement Tourisme est une association Loi 1901 qui fédère les Offices de tourisme et les territoires à vocation touristique de la Haute Savoie (OT). Nos missions concernent : la défense des intérêts des OT, la représentation des OT, l’animation et la fédération des OT, la formation et la professionnalisation des acteurs du tourisme, [&#8230;]</p> <p>The post <a href=\"https://www.adn-tourisme.fr/referent-communication-et-developpement-commercial/\">Référent communication et développement commercial</a> appeared first on <a href=\"https://www.adn-tourisme.fr\">ADN Tourisme</a>.</p>",
-    "published": "2026-07-06T10:07:53+00:00",
-    "uid": "ec82f0b71eec4fd66a419538aa45eac46c3246e655d87fcb981ee94b8c4669c9",
-    "first_seen": "2026-07-20T14:50:50.351361+00:00"
-  },
-  "bd27ecaf203bd8b4b6fb40ec964d19b99fc6f9dbb41ca6d863c33fdfdff36785": {
-    "source": "ADN Tourisme",
-    "title": "Face à la canicule, les adhérents d’ADN Tourisme s’adaptent !",
-    "link": "https://www.adn-tourisme.fr/face-a-la-canicule-les-adherents-dadn-tourisme-sadaptent/",
-    "description": "<p>The post <a href=\"https://www.adn-tourisme.fr/face-a-la-canicule-les-adherents-dadn-tourisme-sadaptent/\">Face à la canicule, les adhérents &lt;br&gt; d&#8217;ADN Tourisme s&#8217;adaptent !</a> appeared first on <a href=\"https://www.adn-tourisme.fr\">ADN Tourisme</a>.</p>",
-    "published": "2026-07-10T09:54:26+00:00",
-    "uid": "bd27ecaf203bd8b4b6fb40ec964d19b99fc6f9dbb41ca6d863c33fdfdff36785",
-    "first_seen": "2026-07-20T14:50:50.351352+00:00"
-  },
-  "dbbfdba3d99beb29cf17aded10eeb1f1f0eb8440f8cf3af3fac01b52268cd5f0": {
-    "source": "ADN Tourisme",
-    "title": "Responsable de l’accueil touristique (H/F)",
-    "link": "https://www.adn-tourisme.fr/responsable-de-laccueil-touristique-h-f/",
-    "description": "<p>Rejoignez Dombes Tourisme ! Située dans le département de l&#8217;Ain, la Dombes, région aux milles étangs, est une destination nature reconnue pour sa biodiversité exceptionnelle, ses paysages, son patrimoine et sa gastronomie. Dombes Tourisme est une Société Publique Locale qui assure la promotion, l&#8217;accueil et le développement touristique de la Communauté de Communes de la [&#8230;]</p> <p>The post <a href=\"https://www.adn-tourisme.fr/responsable-de-laccueil-touristique-h-f/\">Responsable de l&#8217;accueil touristique (H/F)</a> appeared first on <a href=\"https://www.adn-tourisme.fr\">ADN Tourisme</a>.</p>",
-    "published": "2026-07-10T13:55:33+00:00",
-    "uid": "dbbfdba3d99beb29cf17aded10eeb1f1f0eb8440f8cf3af3fac01b52268cd5f0",
-    "first_seen": "2026-07-20T14:50:50.351344+00:00"
-  },
-  "a44e1b73510b946cab1dbcffe37c0d4ec8b40f192286fc033b3c20bd43b87468": {
-    "source": "ADN Tourisme",
-    "title": "L’ADT Ariège Pyrénées recrute son(sa) chargé(e) de communication digitale",
-    "link": "https://www.adn-tourisme.fr/ladt-ariege-pyrenees-recrute-sonsa-chargee-de-communication-digitale/",
-    "description": "<p>Rejoignez une équipe passionnée et dynamique dédiée à la promotion et au rayonnement de l&#8217;Ariège ! Présentation de la structure L’Agence de Développement Touristique Ariège Pyrénées (ADT), une équipe génératrice d’impulsion, experte et bienveillante, au service de l’attractivité et du rayonnement de la destination, animée par le développement du territoire. Ce qui nous [&#8230;]</p> <p>The post <a href=\"https://www.adn-tourisme.fr/ladt-ariege-pyrenees-recrute-sonsa-chargee-de-communication-digitale/\">L&#8217;ADT Ariège Pyrénées recrute son(sa) chargé(e) de communication digitale</a> appeared first on <a href=\"https://www.adn-tourisme.fr\">ADN Tourisme</a>.</p>",
-    "published": "2026-07-10T14:26:58+00:00",
-    "uid": "a44e1b73510b946cab1dbcffe37c0d4ec8b40f192286fc033b3c20bd43b87468",
-    "first_seen": "2026-07-20T14:50:50.351332+00:00"
-  },
-  "6461e871b6e0598dbf62187a5c0c2165d66ad22a6bff2b1e977e985af14aaf80": {
-    "source": "ADN Tourisme",
-    "title": "Aude Tourisme recrute sa/son Directrice / Directeur",
-    "link": "https://www.adn-tourisme.fr/aude-tourisme-recrute-sa-son-directrice-directeur/",
-    "description": "<p>Avec la stratégie touristique départementale 2023-2028, le Conseil Départemental de l’Aude a acté son ambition d’impulser un nouveau modèle touristique qui régénère le territoire et s’engage « positivement » dans les transitions. Outil technique du Département, l’ADT de l’Aude déploie cette stratégie et s’attache à prendre en compte les transitions dans ses différents projets. Composée [&#8230;]</p> <p>The post <a href=\"https://www.adn-tourisme.fr/aude-tourisme-recrute-sa-son-directrice-directeur/\">Aude Tourisme recrute sa/son Directrice / Directeur</a> appeared first on <a href=\"https://www.adn-tourisme.fr\">ADN Tourisme</a>.</p>",
-    "published": "2026-07-16T13:11:35+00:00",
-    "uid": "6461e871b6e0598dbf62187a5c0c2165d66ad22a6bff2b1e977e985af14aaf80",
-    "first_seen": "2026-07-20T14:50:50.351314+00:00"
   },
   "a9043f2a18c6a5c1d486ca5754da3835dc83202ac28256a84e9822cc2104d70c": {
     "source": "Observatoire de la culture",

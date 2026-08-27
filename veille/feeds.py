@@ -40,9 +40,37 @@ def parse_feed_bytes(content: bytes, source: str, max_items: int) -> list[Item]:
     return dedupe(items)
 
 
+def try_feed(session: requests.Session, url: str, timeout: int) -> str | None:
+    """Rend l'URL finale si elle sert un flux exploitable, sinon None."""
+    try:
+        response = session.get(url, timeout=timeout, allow_redirects=True)
+        if response.ok and is_feed_content(response) and parse_feed_bytes(response.content, "test", 1):
+            return response.url
+    except Exception:
+        return None
+    return None
+
+
+def declared_feeds(soup: BeautifulSoup, base_url: str) -> list[str]:
+    """URL des flux que la page déclare elle-même via <link rel="alternate">."""
+    trouves = []
+    for link in soup.select('link[rel~="alternate"][href]'):
+        typ = (link.get("type") or "").lower()
+        titre = (link.get("title") or "").lower()
+        if any(terme in typ + " " + titre for terme in ("rss", "atom", "feed", "xml")):
+            trouves.append(urljoin(base_url, link["href"]))
+    return trouves
+
+
 def discover_feed(session: requests.Session, page_url: str, timeout: int) -> str | None:
-    """Cherche un flux natif : la page elle-même, sa balise <link>, puis les
-    emplacements conventionnels. Rend None si aucun flux exploitable."""
+    """Cherche le flux natif le plus pertinent pour une page d'actualités.
+
+    L'ordre compte. Le flux propre à la rubrique passe avant celui que la page
+    déclare : WordPress annonce le flux global du site dans son <link
+    rel="alternate">, or le flux d'une section est thématiquement plus juste.
+    ADN Tourisme en est l'exemple : son flux racine mêle actualités et offres
+    d'emploi, quand /publications/actus/feed/ ne sert que les actualités.
+    """
     try:
         response = session.get(page_url, timeout=timeout, allow_redirects=True)
         response.raise_for_status()
@@ -55,31 +83,18 @@ def discover_feed(session: requests.Session, page_url: str, timeout: int) -> str
         except Exception:
             pass
     soup = BeautifulSoup(response.text, "html.parser")
-    for link in soup.select('link[rel~="alternate"][href]'):
-        typ = (link.get("type") or "").lower()
-        title = (link.get("title") or "").lower()
-        if any(term in typ + " " + title for term in ("rss", "atom", "feed", "xml")):
-            candidate = urljoin(response.url, link["href"])
-            try:
-                rr = session.get(candidate, timeout=timeout)
-                if rr.ok and parse_feed_bytes(rr.content, "test", 1):
-                    return candidate
-            except Exception:
-                continue
     parsed = urlparse(response.url)
     base = f"{parsed.scheme}://{parsed.netloc}"
     path = parsed.path.rstrip("/")
-    candidates = [f"{base}{path}/feed/", f"{base}{path}/feed"]
-    candidates += [f"{base}{suffix}" for suffix in FEED_PATH_CANDIDATES]
-    seen: set[str] = set()
-    for candidate in candidates:
-        if candidate in seen:
+
+    propres = [f"{base}{path}/feed/", f"{base}{path}/feed"] if path else []
+    racine = [f"{base}{suffixe}" for suffixe in FEED_PATH_CANDIDATES]
+    deja: set[str] = set()
+    for candidate in propres + declared_feeds(soup, response.url) + racine:
+        if candidate in deja:
             continue
-        seen.add(candidate)
-        try:
-            rr = session.get(candidate, timeout=timeout, allow_redirects=True)
-            if rr.ok and is_feed_content(rr) and parse_feed_bytes(rr.content, "test", 1):
-                return rr.url
-        except Exception:
-            continue
+        deja.add(candidate)
+        trouve = try_feed(session, candidate, timeout)
+        if trouve:
+            return trouve
     return None

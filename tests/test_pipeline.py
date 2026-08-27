@@ -187,3 +187,16 @@ class TestReadFeed:
     def test_accepte_un_flux(self, fixture_bytes):
         session = StubSession(fixture_bytes("wordpress_feed.xml"))
         assert len(read_feed(session, "https://exemple.fr/feed/", "S", 10, 60)) == 2
+
+
+class TestModePage:
+    """`mode: page` interdit la découverte de flux."""
+
+    def test_ignore_la_decouverte(self):
+        site = {"name": "SNRC", "url": "https://exemple.fr/actu/", "mode": "page"}
+        assert resolve_feed_url(ExplodingSession(), site, 10) == ""
+
+    def test_le_flux_officiel_reste_prioritaire_sur_le_mode(self):
+        site = {"name": "S", "url": "https://exemple.fr/actu/", "mode": "page",
+                "official_feed": "https://exemple.fr/rss.xml"}
+        assert resolve_feed_url(ExplodingSession(), site, 10) == "https://exemple.fr/rss.xml"

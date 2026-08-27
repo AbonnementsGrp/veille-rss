@@ -8,20 +8,76 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 27 Aug 2026 14:40:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 27 Aug 2026 15:07:40 +0000</lastBuildDate>
     <item>
-      <title>Interfel</title>
-      <link>https://www.snrc.fr/2023/04/03/interfel/</link>
-      <description>L’article Interfel est apparu en premier sur SNRC .</description>
-      <guid isPermaLink="false">1892ac64e2ccf09e6ee1ddeec7f883a67c5d27db4156bcde6045bb83f9965e51</guid>
-      <pubDate>Mon, 03 Apr 2023 09:25:20 +0000</pubDate>
+      <title>[Infographie]- Découvrez en images les résultats du sondage IPSOS pour le SNRC !</title>
+      <link>https://www.snrc.fr/le-snrc/actualites-snrc/infographie-decouvrez-en-images-les-resultats-du-sondage-ipsos-pour-le-snrc/</link>
+      <description>En savoir +</description>
+      <guid isPermaLink="false">f33303c0289d0c45308552422e184d7d8c08579bddb2ca8b57480e5179ff2855</guid>
+      <pubDate>Tue, 17 Feb 2026 00:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Bonjour tout le monde !</title>
-      <link>https://www.snrc.fr/2021/06/30/bonjour-tout-le-monde/</link>
-      <description>Bienvenue sur WordPress. Ceci est votre premier article. Modifiez-le ou supprimez-le, puis commencez à écrire ! L’article Bonjour tout le monde ! est apparu en premier sur SNRC .</description>
-      <guid isPermaLink="false">8faadaf0f6fe24fe543950045b787f8f5b0de22cea703a7ce4ce4b0ca78e86bf</guid>
-      <pubDate>Wed, 30 Jun 2021 09:14:28 +0000</pubDate>
+      <title>Découvrez le dossier de presse du sondage exclusif IPSOS "Les Français et les entreprises de la restauration collective"</title>
+      <link>https://www.snrc.fr/le-snrc/actualites-snrc/decouvrez-le-dossier-de-presse-du-sondage-exclusif-ipsos-les-francais-et-les-entreprises-de-la-restauration-collective/</link>
+      <description>En savoir +</description>
+      <guid isPermaLink="false">7b1b920a81845f9a33ad4867d94a48a059e6197a51a7b5b8372baeeafb928ed1</guid>
+      <pubDate>Mon, 16 Feb 2026 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La cantine nourrit l'avenir - Investissons ensemble au service d'un modèle d'intérêt général</title>
+      <link>https://www.snrc.fr/le-snrc/actualites-snrc/la-cantine-nourrit-lavenir-investissons-ensemble-au-service-dune-modele-dinteret-general/</link>
+      <description>En savoir +</description>
+      <guid isPermaLink="false">ae09d53004aa6fa995f640477455d9ed269edd73021ff54f0f78f4bc04c33039</guid>
+      <pubDate>Sun, 16 Nov 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>« Elle vous a manqué ? À eux aussi » Les entreprises de la restauration collective rappellent, en cette rentrée, l’impact positif de la cantine pour la société</title>
+      <link>https://www.snrc.fr/le-snrc/actualites-snrc/elle-vous-a-manque-a-eux-aussi-les-entreprises-de-la-restauration-collective-rappellent-en-cette-rentree-limpact-positif-de-la-cantine-pour-la-societe/</link>
+      <description>En savoir +</description>
+      <guid isPermaLink="false">2aeeac19698889a2db44a707c63f9753dd80b681c89b8c7fcf447425c1f7753b</guid>
+      <pubDate>Wed, 27 Aug 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>"Mieux manger ensemble pour mieux vivre ensemble". Les entreprises de la restauration collective entrent en campagne!</title>
+      <link>https://www.snrc.fr/le-snrc/actualites-snrc/mieux-manger-ensemble-pour-mieux-vivre-ensemble-les-entreprises-de-la-restauration-collective-entrent-en-campagne/</link>
+      <description>En savoir +</description>
+      <guid isPermaLink="false">dabb3520abe198519fd13926ed3d4ce388101fe0096da065567887240812a364</guid>
+      <pubDate>Mon, 21 Apr 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le Manifeste des Entreprises de la Restauration Collective</title>
+      <link>https://www.snrc.fr/le-snrc/actualites-snrc/le-manifeste-des-entreprises-de-la-restauration-collective/</link>
+      <description>En savoir +</description>
+      <guid isPermaLink="false">ea432eed85231048c111a9843461d3fa7a233e61b932767b6cd0a11211570a5e</guid>
+      <pubDate>Thu, 13 Feb 2025 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Communiqué de presse] - Que feraient des millions de Français sans cantines scolaires ?</title>
+      <link>https://www.snrc.fr/le-snrc/actualites-snrc/communique-de-presse-que-feraient-des-millions-de-francais-sans-cantines-scolaires/</link>
+      <description>Le Syndicat national de la restauration collective (SNRC) appelle les pouvoirs publics à agir de toute urgence pour préserver un modèle en danger bien qu’au service des Français.</description>
+      <guid isPermaLink="false">9818805e353c5cc2c6af64fa21ea6bc75ee51de7074f6b93f95fe585b379541e</guid>
+      <pubDate>Wed, 20 Nov 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>[Infographie] - Rentrée des classes: découvrez par le menu le fonctionnement des cantines scolaires</title>
+      <link>https://www.snrc.fr/le-snrc/actualites-snrc/infographie-rentree-des-classes-decouvrez-par-le-menu-le-fonctionnement-des-cantines-scolaires/</link>
+      <description>En France, des millions d’écoliers, collégiens et lycéens ont fait leur rentrée des classes la semaine dernière. L’occasion pour les entreprises de restauration collective de rappeler l’importance et le mode d’emploi de la restauration scolaire au service des jeunes Français.</description>
+      <guid isPermaLink="false">a50ff1e3feee349af30b82716b8d0987fe790480f82c5a48284c2fbe0582044c</guid>
+      <pubDate>Wed, 11 Sep 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Isabelle Aprile élue pour trois ans à la tête du Syndicat National de la Restauration Collective (SNRC) pour promouvoir un modèle culturel et social au service des Français</title>
+      <link>https://www.snrc.fr/le-snrc/actualites-snrc/isabelle-aprile-directrice-des-affaires-publiques-de-sodexo-france-elue-premiere-presidente-du-syndicat-national-de-la-restauration-collective-copy/</link>
+      <description>En savoir +</description>
+      <guid isPermaLink="false">9705076fcaa6c09c99ba821f4f87e83aedd0116601e960a6f871e6523a981a41</guid>
+      <pubDate>Tue, 18 Jun 2024 00:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Isabelle Aprile au micro d'Alexandre Le mer</title>
+      <link>https://www.snrc.fr/le-snrc/actualites-snrc/isabelle-aprile-au-micro-dalexandre-le-mer/</link>
+      <description>En savoir +</description>
+      <guid isPermaLink="false">3831bcac02ae8bb096e632d7381efdd538e10d37f12d7088f592555b5a2c157a</guid>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

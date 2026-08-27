@@ -55,6 +55,12 @@ sites:
   - name: "SNRC"
     url: "https://www.snrc.fr/le-snrc/actualites-snrc/"
     output: "snrc.xml"
+    # Le flux racine du site ne contient que deux billets sans rapport, dont
+    # l'article de démonstration de WordPress : la page est la seule source.
+    mode: "page"
+    selectors:
+      item: [".list-default-art"]
+      title: ["h2 a"]
 
   - name: "ANAP - Actualités"
     url: "https://www.anap.fr/s/actualites"

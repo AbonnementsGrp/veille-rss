@@ -227,17 +227,22 @@ def scrape_page(session: requests.Session, site: dict[str, Any], timeout: int, m
     response = session.get(site["url"], timeout=timeout, allow_redirects=True)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "html.parser")
+    site = {**site, "url": response.url}
+
+    # Le JSON-LD se lit avant tout nettoyage : il vit dans une balise <script>,
+    # que le retrait du bruit ci-dessous supprimerait.
+    json_items = parse_json_ld(soup, site["name"], response.url, max_items)
     for selector in ("script", "style", "noscript", "svg"):
         for node in soup.select(selector):
             node.decompose()
-    json_items = parse_json_ld(soup, site["name"], response.url, max_items)
-    selector_items = extract_with_selectors(soup, {**site, "url": response.url}, max_items)
-    generic_items = extract_generic_links(soup, {**site, "url": response.url}, max_items)
-    combined = dedupe(json_items + selector_items + generic_items)[:max_items]
-    if json_items:
-        method = "json_ld+html"
-    elif selector_items:
-        method = "html_selectors"
-    else:
-        method = "generic_links"
-    return combined, method
+    selector_items = extract_with_selectors(soup, site, max_items)
+
+    # Les données structurées et les sélecteurs désignent des articles ; ils se
+    # complètent sans se contredire. La notation des liens, elle, ratisse toute
+    # la page : elle ne sert que si les deux premières n'ont rien donné, sinon
+    # elle rajoute au résultat le lien de FAQ ou d'agenda du bandeau latéral.
+    identifies = dedupe(json_items + selector_items)
+    if identifies:
+        method = "json_ld+html" if json_items else "html_selectors"
+        return identifies[:max_items], method
+    return extract_generic_links(soup, site, max_items)[:max_items], "generic_links"

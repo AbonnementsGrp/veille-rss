@@ -8,6 +8,7 @@ from veille.history import (
     history_items_for_source,
     load_history,
     normalize_record_dates,
+    remove_source,
     save_history,
 )
 
@@ -107,3 +108,19 @@ class TestHistoryItemsForSource:
             "sans_lien": {**_record("sans_lien", "S", ""), "link": ""},
         }
         assert len(history_items_for_source(history, "S", 10)) == 1
+
+
+class TestRemoveSource:
+    def test_retire_les_entrees_de_la_source_visee(self):
+        history = {
+            "a": _record("a", "ADN Tourisme", "2026-08-25T00:00:00+00:00"),
+            "b": _record("b", "ADN Tourisme", "2026-08-24T00:00:00+00:00"),
+            "c": _record("c", "SNRC", "2026-08-23T00:00:00+00:00"),
+        }
+        assert remove_source(history, "ADN Tourisme") == 2
+        assert list(history) == ["c"]
+
+    def test_ne_touche_a_rien_si_la_source_est_absente(self):
+        history = {"a": _record("a", "SNRC", "")}
+        assert remove_source(history, "Inconnue") == 0
+        assert list(history) == ["a"]

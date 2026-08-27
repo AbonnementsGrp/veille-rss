@@ -95,6 +95,18 @@ Les tests n'accèdent pas au réseau : ils s'appuient sur les jeux de données d
 `tests/fixtures/`. La CI les exécute avant toute génération, afin qu'une
 régression ne soit jamais publiée.
 
+## Purger l'historique d'une source
+
+L'historique complète chaque flux : après un changement de méthode
+d'extraction, les articles récoltés par l'ancienne continuent d'être publiés.
+
+```bash
+.venv/Scripts/python.exe scripts/purger_source.py --lister          # sources connues
+.venv/Scripts/python.exe scripts/purger_source.py "ADN Tourisme"    # aperçu
+.venv/Scripts/python.exe scripts/purger_source.py "ADN Tourisme" --appliquer
+.venv/Scripts/python.exe generate.py                                # reconstitue le flux
+```
+
 ## Ajouter ou corriger une source
 
 Tout se passe dans [`config/sites.yml`](config/sites.yml). Le minimum est un nom,
@@ -113,6 +125,7 @@ une URL de page et un fichier de sortie :
 | `url` | Page d'actualités, utilisée pour la découverte de flux et le scraping. |
 | `official_feed` | Flux RSS/Atom connu. À ne renseigner qu'après l'avoir testé. |
 | `output` | Nom du fichier XML produit. Déduit du `name` si absent. |
+| `mode` | `page` interdit la découverte de flux : la page devient la seule source. Utile quand le flux racine du site n'a rien à voir avec la rubrique suivie. |
 | `selectors` | Sélecteurs CSS (`item`, `title`, `description`, `date`) pour les sites sans flux. |
 | `link_patterns` | Fragments d'URL caractéristiques des articles, pour orienter le dernier recours. |
 
@@ -121,8 +134,11 @@ Marche à suivre recommandée :
 1. Tester le flux supposé (`curl -sI <url>` puis vérifier la présence de `<item>`).
    Un `/feed/` WordPress qui renvoie du HTML n'est pas un flux.
 2. S'il est valide, le renseigner dans `official_feed`.
-3. Sinon, laisser le moteur chercher : il teste la balise `<link rel="alternate">`
-   puis les emplacements conventionnels (`/feed/`, `/rss.xml`, `/atom.xml`…).
+3. Sinon, laisser le moteur chercher, dans cet ordre : le flux propre à la
+   rubrique (`<url de la page>/feed/`), puis celui que la page déclare en
+   `<link rel="alternate">`, puis les emplacements conventionnels à la racine.
+   La rubrique passe avant la déclaration de la page : WordPress y annonce le
+   flux global du site, thématiquement plus large que la rubrique suivie.
 4. En dernier ressort, ajouter des `selectors` en s'inspirant du code source de
    la page.
 5. Lancer `generate.py` en local et vérifier la ligne de la source dans le
@@ -179,7 +195,7 @@ l'historique, écriture du flux individuel et intégration au flux global.
 - **Enfance & Jeunesse Infos** — https://www.enfancejeunesseinfos.fr/tag/veille-juridique/
   — flux officiel : `.../tag/veille-juridique/feed/`
 - **Les Pros de la Petite Enfance** — https://www.lesprosdelapetiteenfance.fr/actualites/
-  — flux natif découvert automatiquement
+  — flux natif de la rubrique, découvert automatiquement
 - **Localtis — Jeunesse, éducation et formation** — flux officiel :
   `https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml`
 
@@ -199,17 +215,20 @@ l'historique, écriture du flux individuel et intégration au flux global.
 ### Tourisme
 
 - **ADN Tourisme** — https://www.adn-tourisme.fr/publications/actus/
+  — flux de la rubrique actus ; le flux racine du site, lui, mêle actualités et
+  offres d'emploi
 
 ### Restauration
 
 - **C2L Solutions** — https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/
   — le `/feed/` annoncé renvoie du HTML : articles extraits de la page par repli
-- **SNRC** — https://www.snrc.fr/le-snrc/actualites-snrc/ — flux à générer
+- **SNRC** — https://www.snrc.fr/le-snrc/actualites-snrc/ — `mode: page` et
+  sélecteurs : le flux racine du site ne contient que deux billets sans rapport
 
 ## Reste à faire
 
 1. Ajouter la source IGAS à `config/sites.yml`.
-2. Écrire les extracteurs manquants : SNRC, IGAS, page actus d'ADN Tourisme.
+2. Écrire l'extracteur IGAS.
 3. Traiter l'ANAP, dont la page d'actualités est rendue en JavaScript.
 4. Nettoyer les résumés doublement échappés issus de certains flux WordPress.
 5. Porter les champs prévus dans `sites.yml` : nom court, ordre, thème.

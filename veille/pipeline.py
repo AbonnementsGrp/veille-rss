@@ -39,8 +39,16 @@ def resolve_feed_url(session: Any, site: dict[str, Any], timeout: int) -> str:
 
     Résolue avant toute lecture, afin que `status.json` conserve l'URL testée
     même quand la lecture échoue ensuite.
+
+    `mode: page` désactive la découverte : certains sites servent un flux
+    racine qui n'a rien à voir avec la rubrique suivie, la page est alors la
+    seule source fiable.
     """
-    return site.get("official_feed") or discover_feed(session, site["url"], timeout) or ""
+    if site.get("official_feed"):
+        return str(site["official_feed"])
+    if str(site.get("mode", "")).lower() == "page":
+        return ""
+    return discover_feed(session, site["url"], timeout) or ""
 
 
 def read_feed(session: Any, url: str, source: str, timeout: int, max_items: int) -> list[Item]:

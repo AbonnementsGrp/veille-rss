@@ -211,3 +211,64 @@ class TestFiltrageDeLaNavigation:
         """rel="bookmark" est le permalien WordPress : il ne doit pas tomber."""
         a = self._anchor('<a rel="bookmark" href="/plan-correction-egalim/">Plan de correction EGalim</a>')
         assert generic_link_score(a, "exemple.fr", []) > 0
+
+
+class StubReponsePage:
+    def __init__(self, html: str, url: str = "https://exemple.fr/actualites/"):
+        self.text = html
+        self.url = url
+        self.ok = True
+        self.headers = {"content-type": "text/html"}
+
+    def raise_for_status(self) -> None:
+        return None
+
+
+class StubSessionPage:
+    def __init__(self, html: str):
+        self.html = html
+
+    def get(self, url, timeout=None, allow_redirects=False):
+        return StubReponsePage(self.html, url)
+
+
+class TestCascadeDesStrategies:
+    """Les liens génériques ne doivent pas polluer un résultat déjà propre."""
+
+    PAGE_MIXTE = """
+    <main>
+      <article class="post">
+        <h2><a href="/actualites/premier-sujet/">Premier sujet de la liste</a></h2>
+      </article>
+      <article class="post">
+        <h2><a href="/actualites/deuxieme-sujet/">Deuxième sujet de la liste</a></h2>
+      </article>
+    </main>
+    <aside>
+      <a href="/faq/">Découvrez la réponse dans notre FAQ</a>
+      <a href="/agenda/assemblee-generale/">Assemblée générale ordinaire du syndicat</a>
+    </aside>
+    """
+
+    def test_les_selecteurs_gagnants_excluent_le_bruit_lateral(self):
+        from veille.extract import scrape_page
+        items, method = scrape_page(StubSessionPage(self.PAGE_MIXTE), dict(SITE), 10, 60)
+        assert method == "html_selectors"
+        assert [i.title for i in items] == ["Premier sujet de la liste", "Deuxième sujet de la liste"]
+
+    def test_les_liens_generiques_prennent_le_relais_si_rien_d_autre(self):
+        from veille.extract import scrape_page
+        page = """
+        <main>
+          <p><a href="/actualites/un-sujet-de-fond/">Un sujet de fond traité en détail</a></p>
+          <p><a href="/actualites/un-autre-sujet/">Un autre sujet également détaillé</a></p>
+        </main>
+        """
+        items, method = scrape_page(StubSessionPage(page), dict(SITE), 10, 60)
+        assert method == "generic_links"
+        assert len(items) == 2
+
+    def test_le_json_ld_est_prioritaire_dans_le_libelle(self, fixture_text):
+        from veille.extract import scrape_page
+        _, method = scrape_page(StubSessionPage(fixture_text("page_json_ld.html")), dict(SITE), 10, 60)
+        assert method == "json_ld+html"
