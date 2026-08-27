@@ -100,3 +100,28 @@ class TestItemSortKey:
         date = self._item(published="1999-01-01T00:00:00+00:00")
         assert item_sort_key(sans_date) == EPOCH
         assert sorted([sans_date, date], key=item_sort_key, reverse=True) == [date, sans_date]
+
+
+class TestDatesFrancaises:
+    """Les pages d'actualités françaises datent en clair : "25 juin 2026"."""
+
+    @pytest.mark.parametrize("value, attendu", [
+        ("25 juin 2026", "2026-06-25"),
+        ("1er août 2026", "2026-08-01"),
+        ("3 février 2026", "2026-02-03"),
+        ("27 févr. 2026", "2026-02-27"),
+        ("lundi 3 février 2026", "2026-02-03"),
+        ("15 décembre 2025", "2025-12-15"),
+        ("1 janvier 2026", "2026-01-01"),
+        ("30 septembre 2026", "2026-09-30"),
+    ])
+    def test_lit_les_mois_en_francais(self, value, attendu):
+        assert normalize_date(value).startswith(attendu)
+
+    def test_lit_encore_les_mois_en_anglais(self):
+        """Les flux RSS datent en RFC-822 anglais : ne pas le perdre."""
+        assert normalize_date("Wed, 03 Jun 2026 19:04:18 +0000") == "2026-06-03T19:04:18+00:00"
+        assert normalize_date("15 Dec 2025 10:00:00 +0000").startswith("2025-12-15")
+
+    def test_le_jour_reste_devant_le_mois(self):
+        assert normalize_date("03/02/2026").startswith("2026-02-03")

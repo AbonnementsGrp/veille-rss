@@ -4,7 +4,10 @@ from __future__ import annotations
 
 from bs4 import BeautifulSoup
 
+import pytest
+
 from veille.extract import (
+    date_from_text,
     extract_generic_links,
     extract_with_selectors,
     generic_link_score,
@@ -127,3 +130,84 @@ class TestCleanText:
 
     def test_tolere_none(self):
         assert clean_text(None) == ""
+
+
+class TestDateFromText:
+    """Repli quand le site ne met sa date ni dans <time> ni dans un attribut."""
+
+    @pytest.mark.parametrize("texte, attendu", [
+        ("Auteur : Tatiana CORRE Publication publiée : 25 juin 2026", "2026-06-25"),
+        ("Publié le 03/02/2026 par la rédaction", "2026-02-03"),
+        ("Mis à jour le 1er août 2026", "2026-08-01"),
+        ("Actualité du 27 févr. 2026", "2026-02-27"),
+        ("Le 15.01.2026 en bref", "2026-01-15"),
+    ])
+    def test_trouve_une_date_dans_une_phrase(self, texte, attendu):
+        assert date_from_text(texte).startswith(attendu)
+
+    @pytest.mark.parametrize("texte", [
+        "Aucune date ici, juste 42 articles et 2026 quelque part",
+        "Réf. 12345678 2026 sans date",
+        "",
+    ])
+    def test_ne_fabrique_pas_de_date(self, texte):
+        assert date_from_text(texte) == ""
+
+    def test_les_selecteurs_se_replient_sur_le_texte_du_bloc(self):
+        """Cas C2L : la date est dans le texte, hors de toute balise dédiée."""
+        html = """
+        <article class="post">
+          <h2><a href="/a/">Plan de correction EGalim en restauration</a></h2>
+          <span class="meta">Publication publiée : 25 juin 2026</span>
+        </article>
+        <article class="post">
+          <h2><a href="/b/">CCTP restauration et fréquences de contrôle</a></h2>
+          <span class="meta">Publication publiée : 10 mai 2026</span>
+        </article>
+        """
+        items = extract_with_selectors(soup_of(html), SITE, 60)
+        assert [i.published[:10] for i in items] == ["2026-06-25", "2026-05-10"]
+
+    def test_une_balise_de_date_reste_prioritaire(self):
+        html = """
+        <article class="post">
+          <h2><a href="/a/">Un titre suffisamment long pour passer</a></h2>
+          <time datetime="2026-08-20T09:00:00+00:00">une autre mention : 25 juin 2026</time>
+        </article>
+        <article class="post">
+          <h2><a href="/b/">Un second titre suffisamment long</a></h2>
+          <time datetime="2026-08-18T09:00:00+00:00">18 août 2026</time>
+        </article>
+        """
+        items = extract_with_selectors(soup_of(html), SITE, 60)
+        assert items[0].published == "2026-08-20T09:00:00+00:00"
+
+
+class TestFiltrageDeLaNavigation:
+    """Rubriques, mots-clés et pagination cohabitent avec les articles."""
+
+    def _anchor(self, html):
+        return soup_of(html).find("a")
+
+    def test_rejette_un_lien_de_rubrique(self):
+        a = self._anchor('<a rel="category tag" href="/category/actualites/">La restauration collective</a>')
+        assert generic_link_score(a, "exemple.fr", []) < 0
+
+    def test_rejette_un_lien_de_pagination_par_sa_classe(self):
+        a = self._anchor('<a class="next page-numbers" href="/suite/">Aller à la page suivante</a>')
+        assert generic_link_score(a, "exemple.fr", []) < 0
+
+    def test_rejette_un_lien_de_pagination_par_son_url(self):
+        for href in ("/category/actus/page/2/", "/actualites?paged=3"):
+            a = self._anchor(f'<a href="{href}">Aller à la page suivante</a>')
+            assert generic_link_score(a, "exemple.fr", []) < 0
+
+    def test_rejette_les_pages_de_mots_cles_et_d_auteurs(self):
+        for href in ("/tag/egalim/", "/author/tatiana-corre/", "/etiquette/cantine/"):
+            a = self._anchor(f'<a href="{href}">Un libellé suffisamment long</a>')
+            assert generic_link_score(a, "exemple.fr", []) < 0
+
+    def test_conserve_le_lien_permanent_d_un_article(self):
+        """rel="bookmark" est le permalien WordPress : il ne doit pas tomber."""
+        a = self._anchor('<a rel="bookmark" href="/plan-correction-egalim/">Plan de correction EGalim</a>')
+        assert generic_link_score(a, "exemple.fr", []) > 0

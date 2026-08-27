@@ -17,6 +17,42 @@ from veille.models import Item
 EPOCH = datetime(1970, 1, 1, tzinfo=timezone.utc)
 
 
+class FrenchParserInfo(date_parser.parserinfo):
+    """Apprend les noms de mois et de jours français à dateutil.
+
+    Les pages d'actualités françaises datent leurs articles en clair
+    ("25 juin 2026"), forme que le parseur par défaut, anglophone, rejette.
+    Les libellés anglais sont conservés : les flux RSS s'en servent.
+    """
+
+    WEEKDAYS = [
+        ("Mon", "Monday", "lundi", "lun"),
+        ("Tue", "Tuesday", "mardi", "mar"),
+        ("Wed", "Wednesday", "mercredi", "mer"),
+        ("Thu", "Thursday", "jeudi", "jeu"),
+        ("Fri", "Friday", "vendredi", "ven"),
+        ("Sat", "Saturday", "samedi", "sam"),
+        ("Sun", "Sunday", "dimanche", "dim"),
+    ]
+    MONTHS = [
+        ("Jan", "January", "janvier", "janv"),
+        ("Feb", "February", "février", "fevrier", "févr", "fevr"),
+        ("Mar", "March", "mars"),
+        ("Apr", "April", "avril", "avr"),
+        ("May", "May", "mai"),
+        ("Jun", "June", "juin"),
+        ("Jul", "July", "juillet", "juil"),
+        ("Aug", "August", "août", "aout"),
+        ("Sep", "Sept", "September", "septembre", "sept"),
+        ("Oct", "October", "octobre"),
+        ("Nov", "November", "novembre"),
+        ("Dec", "December", "décembre", "decembre", "déc"),
+    ]
+
+
+FRENCH = FrenchParserInfo(dayfirst=True)
+
+
 def utc_now() -> datetime:
     return datetime.now(timezone.utc)
 
@@ -45,7 +81,7 @@ def normalize_date(value: Any) -> str:
             dt = datetime(*value[:6], tzinfo=timezone.utc)
         else:
             text = str(value)
-            dt = parse_iso(text) or date_parser.parse(text, dayfirst=True, fuzzy=True)
+            dt = parse_iso(text) or date_parser.parse(text, FRENCH, dayfirst=True, fuzzy=True)
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
         return dt.astimezone(timezone.utc).isoformat()
@@ -58,7 +94,7 @@ def parse_date_for_feed(value: str) -> datetime | None:
     if not value:
         return None
     try:
-        dt = parse_iso(value) or date_parser.parse(value)
+        dt = parse_iso(value) or date_parser.parse(value, FRENCH)
         if dt.tzinfo is None:
             dt = dt.replace(tzinfo=timezone.utc)
         return dt

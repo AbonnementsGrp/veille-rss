@@ -32,6 +32,41 @@ LINK_BLOCKLIST = (
 LINK_TOPIC_HINTS = ("actualit", "news", "article", "publication", "communique", "blog")
 MIN_LINK_SCORE = 5
 
+# Liens de navigation d'un site : rubriques, mots-clés, auteurs, pagination.
+# Ils cohabitent avec les articles dans la même liste et ressemblent à des
+# titres. Attention : rel="bookmark" désigne au contraire le lien permanent
+# d'un article WordPress, il ne doit pas être écarté.
+NAV_RELS = frozenset({"category", "tag", "author", "next", "prev", "search"})
+NAV_CLASSES = frozenset({"next", "prev", "previous", "page-numbers", "pagination"})
+TAXONOMY_PATHS = ("/category/", "/categorie/", "/rubrique/", "/tag/", "/etiquette/", "/author/", "/auteur/")
+PAGINATION_PATH = re.compile(r"/page/\d+|[?&]paged?=\d+")
+
+# Dates lisibles dans le texte d'un bloc, quand le site n'emploie ni <time> ni
+# attribut datetime : "Publication publiée : 25 juin 2026", "le 03/02/2026".
+MOIS_FR = ("janvier|f[ée]vrier|mars|avril|mai|juin|juillet|ao[ûu]t|septembre|octobre|novembre|d[ée]cembre"
+           "|janv|f[ée]vr|avr|juil|sept|d[ée]c")
+DATE_EN_CLAIR = re.compile(rf"(?<!\d)(\d{{1,2}})\s*(?:er)?\s+({MOIS_FR})\.?\s+(\d{{4}})(?!\d)", re.IGNORECASE)
+DATE_NUMERIQUE = re.compile(r"(?<!\d)(\d{1,2}[/.]\d{1,2}[/.]\d{4})(?!\d)")
+
+
+def date_from_text(text: str) -> str:
+    """Cherche une date en clair dans un texte et la normalise.
+
+    Le repérage est délibérément étroit : on ne soumet au parseur que la
+    portion qui ressemble à une date, jamais le bloc entier, pour ne pas
+    ramasser un nombre quelconque de la page.
+    """
+    if not text:
+        return ""
+    trouve = DATE_EN_CLAIR.search(text)
+    if trouve:
+        jour, mois, annee = trouve.groups()
+        return normalize_date(f"{jour} {mois} {annee}")
+    trouve = DATE_NUMERIQUE.search(text)
+    if trouve:
+        return normalize_date(trouve.group(1).replace(".", "/"))
+    return ""
+
 
 def first_match(node: Any, selectors: Iterable[str]) -> Any | None:
     for selector in selectors:
@@ -115,12 +150,13 @@ def extract_with_selectors(soup: BeautifulSoup, site: dict[str, Any], max_items:
         raw_date = ""
         if date_node:
             raw_date = date_node.get("datetime") or date_node.get("content") or date_node.get_text(" ", strip=True)
+        published = normalize_date(raw_date) or date_from_text(node.get_text(" ", strip=True))
         items.append(Item(
             source=site["name"],
             title=title,
             link=urljoin(site["url"], anchor["href"]),
             description=clean_text(desc_node.get_text(" ", strip=True) if desc_node else ""),
-            published=normalize_date(raw_date),
+            published=published,
         ))
         if len(items) >= max_items:
             break
@@ -141,6 +177,13 @@ def generic_link_score(anchor: Any, base_host: str, patterns: list[str]) -> int:
     if href.startswith(("#", "mailto:", "tel:", "javascript:")):
         return -100
     if any(x in low for x in LINK_BLOCKLIST):
+        return -100
+    if {r.lower() for r in (anchor.get("rel") or [])} & NAV_RELS:
+        return -100
+    if {c.lower() for c in (anchor.get("class") or [])} & NAV_CLASSES:
+        return -100
+    low_href = href.lower()
+    if any(t in low_href for t in TAXONOMY_PATHS) or PAGINATION_PATH.search(low_href):
         return -100
     score = 0
     if anchor.find_parent(["article", "main"]): score += 4
@@ -172,6 +215,8 @@ def extract_generic_links(soup: BeautifulSoup, site: dict[str, Any], max_items: 
             time_node = container.find("time") or container.select_one(".date, .published, [datetime]")
             if time_node:
                 published = normalize_date(time_node.get("datetime") or time_node.get("content") or time_node.get_text(" ", strip=True))
+            if not published:
+                published = date_from_text(container.get_text(" ", strip=True))
         ranked.append((score, Item(site["name"], title, href, description, published)))
     ranked.sort(key=lambda pair: pair[0], reverse=True)
     return dedupe([item for _, item in ranked])[:max_items]
