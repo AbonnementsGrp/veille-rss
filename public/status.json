@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-28T15:25:06.351741+00:00",
+  "generated_at": "2026-08-29T01:45:58.032046+00:00",
   "sites_total": 11,
-  "sites_ok": 11,
-  "sites_error": 0,
+  "sites_ok": 10,
+  "sites_error": 1,
   "new_items": 1,
-  "merged_items": 280,
+  "merged_items": 281,
   "sites": [
     {
       "site": "CNSA - Actualités",
@@ -20,7 +20,7 @@
       "url": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/",
       "status": "ok",
       "method": "flux officiel",
-      "items": 29,
+      "items": 30,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/"
     },
@@ -99,10 +99,11 @@
     {
       "site": "ANAP - Actualités",
       "url": "https://www.anap.fr/s/actualites",
-      "status": "ok",
-      "method": "plan de site",
+      "status": "error",
+      "method": "historique conservé",
       "items": 60,
       "feed": "anap.xml",
+      "error": "HTTPSConnectionPool(host='www.anap.fr', port=443): Max retries exceeded with url: /s/sitemap-topicarticle-1.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",
       "source_feed": ""
     }
   ]
