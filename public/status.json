@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-31T06:14:01.197972+00:00",
+  "generated_at": "2026-08-31T13:54:26.280576+00:00",
   "sites_total": 11,
   "sites_ok": 10,
   "sites_error": 1,
-  "new_items": 0,
-  "merged_items": 281,
+  "new_items": 1,
+  "merged_items": 282,
   "sites": [
     {
       "site": "Enfance & Jeunesse Infos - Veille juridique",
@@ -24,7 +24,7 @@
       "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
       "status": "ok",
       "method": "flux détecté",
-      "items": 44,
+      "items": 45,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/"
     },
@@ -81,7 +81,7 @@
       "method": "historique conservé",
       "items": 60,
       "feed": "anap.xml",
-      "error": "HTTPSConnectionPool(host='www.anap.fr', port=443): Max retries exceeded with url: /s/sitemap-topicarticle-1.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))",
+      "error": "HTTPSConnectionPool(host='www.anap.fr', port=443): Max retries exceeded with url: /s/sitemap-topicarticle-1.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",
       "source_feed": ""
     },
     {
