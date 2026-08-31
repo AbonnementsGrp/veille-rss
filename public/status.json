@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-31T06:12:02.488409+00:00",
+  "generated_at": "2026-08-31T06:14:01.197972+00:00",
   "sites_total": 11,
   "sites_ok": 10,
   "sites_error": 1,
   "new_items": 0,
-  "merged_items": 280,
+  "merged_items": 281,
   "sites": [
     {
       "site": "Enfance & Jeunesse Infos - Veille juridique",
@@ -13,7 +13,7 @@
       "url": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/",
       "status": "ok",
       "method": "flux officiel",
-      "items": 29,
+      "items": 30,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/"
     },
