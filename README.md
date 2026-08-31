@@ -52,6 +52,11 @@ La veille tourne **toutes les trois heures** via GitHub Actions. Pour forcer une
 mise à jour immédiate : onglet *Actions* du dépôt → *Générer et publier les flux
 RSS* → *Run workflow*.
 
+Le tableau de bord indique l'ancienneté de la dernière génération et affiche un
+avertissement au-delà de neuf heures, soit trois créneaux manqués. Le calcul se
+fait dans le navigateur : une page statique qui cesse d'être regénérée se
+figerait sinon avec sa date, sans que rien ne le signale.
+
 ## Exécuter en local
 
 Prérequis : Python 3.12 et un accès réseau sortant.
@@ -249,17 +254,18 @@ l'historique, écriture du flux individuel et intégration au flux global.
 - **SNRC** — https://www.snrc.fr/le-snrc/actualites-snrc/ — `mode: page` et
   sélecteurs : le flux racine du site ne contient que deux billets sans rapport
 
-## Reste à faire
+## Points connus, sans action prévue
 
-1. Surveiller le planificateur : un trou de treize heures a été observé le
-   27 août 2026, sans échec de workflow ni alerte.
-2. Améliorer les titres ANAP, qui dépendent du slug faute de mieux.
-
-### Points connus, sans action prévue
-
-- **anap.fr sert une chaîne de certificats incomplète** par intermittence. Le
-  message est alors `CERTIFICATE_VERIFY_FAILED`. La source bascule sur son
-  historique et reste publiée ; rien à corriger de notre côté.
+- **Les titres ANAP dépendent du slug de l'URL.** Vérifié : une page d'article
+  ne contient que `<title>Site de l'Anap</title>`, aucune balise Open Graph, et
+  pas même le texte de l'article — tout est rendu en JavaScript. Le plan de site
+  reste la seule source, et le slug le seul titre disponible. Beaucoup sont
+  corrects (« Journée nationale de la transformation du handicap »), d'autres
+  sont laconiques (« Webinaire rdv transfo ») : ils le sont à la source.
+  Y remédier supposerait un navigateur sans tête à chaque exécution.
+- **anap.fr sert par intermittence une chaîne de certificats incomplète**, d'où
+  un `CERTIFICATE_VERIFY_FAILED`. La source bascule alors sur son historique et
+  reste publiée. Rien à corriger de notre côté.
 - **La rubrique Publics fragiles de Localtis est dormante** : aucun article
   publié depuis avril 2024. Le flux est valide, la source ne l'alimente plus.
 

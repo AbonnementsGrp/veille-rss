@@ -221,3 +221,33 @@ class TestGroupementParDomaine:
         write_opml(TROIS_SOURCES, HOME, public_dir=tmp_path)
         arbre = ET.parse(tmp_path / "feeds.opml")
         assert len(arbre.findall(".//outline[@type='rss']")) == 1
+
+
+class TestIndicateurDeFraicheur:
+    """La page est statique : seul le navigateur peut voir qu'elle a vieilli."""
+
+    def _page(self, tmp_path):
+        write_dashboard({**PAYLOAD, "sites": []}, "T", public_dir=tmp_path)
+        return (tmp_path / "index.html").read_text(encoding="utf-8")
+
+    def test_la_date_de_generation_est_lisible_par_machine(self, tmp_path):
+        page = self._page(tmp_path)
+        assert f'<time id="generation" datetime="{PAYLOAD["generated_at"]}"' in page
+
+    def test_le_bandeau_d_alerte_est_masque_par_defaut(self, tmp_path):
+        """Sans JavaScript, aucune alerte ne doit s'afficher à tort."""
+        page = self._page(tmp_path)
+        assert '<div id="alerte" hidden class="stale">' in page
+
+    def test_le_seuil_d_alerte_est_celui_du_module(self, tmp_path):
+        from veille.output import STALE_AFTER_HOURS
+        assert f"heures >= {STALE_AFTER_HOURS}" in self._page(tmp_path)
+
+    def test_le_seuil_laisse_passer_la_dispersion_du_planificateur(self):
+        """La veille tourne toutes les 3 h, avec un décalage courant de plusieurs heures."""
+        from veille.output import STALE_AFTER_HOURS
+        assert STALE_AFTER_HOURS >= 6
+
+    def test_la_page_reste_lisible_sans_javascript(self, tmp_path):
+        page = self._page(tmp_path)
+        assert PAYLOAD["generated_at"] in page.split("<script>")[0]

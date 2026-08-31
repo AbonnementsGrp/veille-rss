@@ -13,6 +13,10 @@ from veille.config import PUBLIC_DIR
 from veille.dates import item_sort_key, parse_date_for_feed, utc_now
 from veille.models import Item
 
+# Le planificateur GitHub décale les exécutions, parfois de plusieurs heures.
+# Trois créneaux manqués sortent nettement de cette dispersion.
+STALE_AFTER_HOURS = 9
+
 DASHBOARD_STYLE = (
     "body{font-family:Arial,sans-serif;max-width:1150px;margin:40px auto;padding:0 20px;color:#1f2937}"
     "h1{margin-bottom:6px}.meta{color:#6b7280;margin-bottom:24px}"
@@ -23,6 +27,7 @@ DASHBOARD_STYLE = (
     "th{background:#f7f7f7}.ok{color:#087830;font-weight:bold}.error{color:#b42318;font-weight:bold}"
     "tr.theme th{background:#eef2f7;color:#334155;font-size:13px;letter-spacing:.04em;text-transform:uppercase;padding-top:18px}"
     "a{color:#075e9e}code{background:#f3f4f6;padding:2px 5px;border-radius:4px}"
+    ".stale{background:#fef3c7;border:1px solid #f59e0b;color:#92400e;padding:12px 16px;border-radius:8px;margin:16px 0}"
     "@media(max-width:700px){table{font-size:13px}}"
 )
 
@@ -154,9 +159,34 @@ def write_dashboard(payload: dict[str, Any], title: str, public_dir: Path | None
 <html lang="fr"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1">
 <title>{html.escape(title)}</title><style>
 {DASHBOARD_STYLE}
-</style></head><body><h1>{html.escape(title)}</h1><div class="meta">Dernière génération : {generated}</div>
+</style></head><body><h1>{html.escape(title)}</h1><div class="meta">Dernière génération : <time id="generation" datetime="{generated}">{generated}</time><span id="fraicheur"></span></div>
+<div id="alerte" hidden class="stale"></div>
 <div class="cards">{cards}</div>
 <p><a href="veille.xml"><strong>Flux global veille.xml</strong></a> · <a href="feeds.opml">Exporter tous les flux (OPML)</a> · <a href="status.json">État JSON</a></p>
 <table><thead><tr><th>Source</th><th>État</th><th>Articles</th><th>Méthode / détail</th><th>Flux</th></tr></thead><tbody>{lignes}</tbody></table>
+<script>
+// La page est statique : si la génération s'arrête, elle se fige avec sa date.
+// Seul le navigateur du lecteur peut donc constater que la veille ne tourne plus.
+(function () {{
+  var balise = document.getElementById("generation");
+  var quand = Date.parse(balise ? balise.getAttribute("datetime") : "");
+  if (!quand) return;
+  var heures = (Date.now() - quand) / 3600000;
+  document.getElementById("fraicheur").textContent = heures < 2
+    ? " (il y a moins de deux heures)"
+    : " (il y a " + Math.floor(heures) + " heures)";
+  if (heures >= {STALE_AFTER_HOURS}) {{
+    var alerte = document.getElementById("alerte");
+    alerte.textContent = "La veille n'a pas été mise à jour depuis "
+      + Math.floor(heures) + " heures, alors qu'elle tourne normalement toutes les trois heures.";
+    alerte.appendChild(document.createElement("br"));
+    var lien = document.createElement("a");
+    lien.href = "https://github.com/AbonnementsGrp/veille-rss/actions";
+    lien.textContent = "Voir les exécutions GitHub Actions";
+    alerte.appendChild(lien);
+    alerte.hidden = false;
+  }}
+}})();
+</script>
 </body></html>'''
     (public_dir / "index.html").write_text(page, encoding="utf-8")
