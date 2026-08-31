@@ -21,13 +21,15 @@ Trois façons de s'abonner, de la plus simple à la plus fine :
 | Une source précise | `https://abonnementsgrp.github.io/veille-rss/<fichier>.xml` (voir la colonne « Flux » du tableau de bord) |
 
 L'OPML s'importe depuis Thunderbird, Feedly, Inoreader, Outlook ou tout autre
-lecteur compatible : il crée un dossier contenant toutes les sources d'un coup.
+lecteur compatible. Il crée **un dossier par domaine** — Enfance & Éducation,
+Santé, Culture, Tourisme, Restauration — et y range les flux correspondants.
 
 ### Vérifier que tout fonctionne
 
 Le [tableau de bord](https://abonnementsgrp.github.io/veille-rss/) affiche, pour
 chaque source : son état, le nombre d'articles, la méthode qui a permis de les
-récupérer, et le message d'erreur le cas échéant. La même information est
+récupérer, et le message d'erreur le cas échéant. Les sources y sont groupées
+par domaine, dans l'ordre défini par `settings.themes`. La même information est
 disponible en JSON dans
 [`status.json`](https://abonnementsgrp.github.io/veille-rss/status.json), pour
 une supervision automatisée.
@@ -122,7 +124,10 @@ une URL de page et un fichier de sortie :
 
 | Clé | Rôle |
 |---|---|
-| `name` | Libellé affiché ; sert aussi de clé dans l'historique. Le renommer repart d'un historique vide. |
+| `name` | Nom complet ; sert aussi de clé dans l'historique. Le renommer repart d'un historique vide. |
+| `short_name` | Nom affiché sur le tableau de bord et dans l'OPML. À défaut, `name` est utilisé. |
+| `theme` | Domaine de regroupement. Doit figurer dans `settings.themes`, sinon la source passe en fin de tableau sous « Autres ». |
+| `order` | Rang dans le domaine. À défaut, l'ordre du fichier fait foi. |
 | `url` | Page d'actualités, utilisée pour la découverte de flux et le scraping. |
 | `official_feed` | Flux RSS/Atom connu. À ne renseigner qu'après l'avoir testé. |
 | `output` | Nom du fichier XML produit. Déduit du `name` si absent. |
@@ -146,8 +151,10 @@ Marche à suivre recommandée :
 5. Lancer `generate.py` en local et vérifier la ligne de la source dans le
    tableau de bord avant de committer.
 
-Les réglages globaux (nombre d'articles par flux, taille de l'historique,
-délai réseau, user-agent) sont dans la section `settings` du même fichier.
+Les réglages globaux sont dans la section `settings` du même fichier : nombre
+d'articles par flux, taille de l'historique, délai réseau, user-agent, liste
+ordonnée des domaines (`themes`), et enrichissement des résumés manquants
+(`enrich_descriptions`, `max_enrichments_per_run`).
 
 ## Architecture
 
@@ -157,15 +164,19 @@ veille-rss/
 ├── veille/
 │   ├── config.py            chemins du projet, lecture de sites.yml
 │   ├── models.py            l'article (Item) et la déduplication
-│   ├── text.py              nettoyage des textes
+│   ├── text.py              nettoyage des textes et des résumés
+│   ├── urls.py              normalisation des liens d'articles
 │   ├── dates.py             normalisation ISO 8601 UTC et tri
 │   ├── fetch.py             session HTTP, détection d'un contenu de flux
 │   ├── feeds.py             lecture RSS/Atom, découverte du flux d'un site
 │   ├── extract.py           extraction HTML : JSON-LD, sélecteurs, liens
+│   ├── sitemap.py           extraction depuis un plan de site
+│   ├── enrich.py            résumé lu sur la page d'un article
 │   ├── history.py           historique des articles vus
 │   ├── output.py            écriture des flux, de l'OPML, du tableau de bord
 │   └── pipeline.py          orchestration d'une exécution
 ├── tests/                   suite pytest + fixtures hors réseau
+├── scripts/                 outils de maintenance
 ├── config/sites.yml         définition des sources
 ├── data/history.json        historique (committé, sert de mémoire entre les runs)
 ├── public/                  sorties publiées par GitHub Pages
@@ -240,18 +251,17 @@ l'historique, écriture du flux individuel et intégration au flux global.
 
 ## Reste à faire
 
-Les onze sources sont opérationnelles. Les chantiers restants portent sur la
-qualité du rendu, non sur la couverture.
-
-1. Nettoyer les résumés doublement échappés de certains flux WordPress : le
-   balisage y ressort en texte visible ("&lt;p&gt;L'article …").
-2. Remplacer les résumés passe-partout des flux WordPress ("L'article X est
-   apparu en premier sur Y") par un extrait utile.
-3. Porter les champs prévus dans `sites.yml` : nom court, ordre, thème, pour
-   grouper le tableau de bord par domaine.
-4. Surveiller le planificateur : un trou de treize heures a été observé le
+1. Surveiller le planificateur : un trou de treize heures a été observé le
    27 août 2026, sans échec de workflow ni alerte.
-5. Améliorer les titres ANAP, qui dépendent du slug faute de mieux.
+2. Améliorer les titres ANAP, qui dépendent du slug faute de mieux.
+
+### Points connus, sans action prévue
+
+- **anap.fr sert une chaîne de certificats incomplète** par intermittence. Le
+  message est alors `CERTIFICATE_VERIFY_FAILED`. La source bascule sur son
+  historique et reste publiée ; rien à corriger de notre côté.
+- **La rubrique Publics fragiles de Localtis est dormante** : aucun article
+  publié depuis avril 2024. Le flux est valide, la source ne l'alimente plus.
 
 ## Contraintes
 

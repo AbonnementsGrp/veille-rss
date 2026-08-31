@@ -159,3 +159,65 @@ class TestFluxDeterministe:
         sortie = tmp_path / "flux.xml"
         write_feed([], "T", "D", sortie, HOME)
         assert ET.parse(sortie).findtext(".//channel/title") == "T"
+
+
+def source_status(nom, court, theme, feed, statut="ok"):
+    return {"site": nom, "short_name": court, "theme": theme, "url": f"https://{feed}",
+            "status": statut, "method": "flux officiel", "items": 5, "feed": feed}
+
+
+TROIS_SOURCES = [
+    source_status("Enfance & Jeunesse Infos - Veille juridique", "Enfance & Jeunesse Infos",
+                  "Enfance & Éducation", "eji.xml"),
+    source_status("CNSA - Actualités", "CNSA", "Santé, social & séniors", "cnsa.xml"),
+    source_status("IGAS", "IGAS", "Santé, social & séniors", "igas.xml"),
+]
+
+
+def creer_flux(tmp_path, statuses):
+    for st in statuses:
+        (tmp_path / st["feed"]).write_text("<rss/>", encoding="utf-8")
+
+
+class TestGroupementParDomaine:
+    def test_le_tableau_porte_un_intertitre_par_domaine(self, tmp_path):
+        creer_flux(tmp_path, TROIS_SOURCES)
+        write_dashboard({**PAYLOAD, "sites": TROIS_SOURCES}, "T", public_dir=tmp_path)
+        page = (tmp_path / "index.html").read_text(encoding="utf-8")
+        assert page.count('<tr class="theme">') == 2
+        assert "Enfance &amp; Éducation" in page and "Santé, social &amp; séniors" in page
+
+    def test_le_nom_court_est_affiche_le_nom_complet_au_survol(self, tmp_path):
+        creer_flux(tmp_path, TROIS_SOURCES)
+        write_dashboard({**PAYLOAD, "sites": TROIS_SOURCES}, "T", public_dir=tmp_path)
+        page = (tmp_path / "index.html").read_text(encoding="utf-8")
+        assert ">Enfance &amp; Jeunesse Infos<" in page
+        assert 'title="Enfance &amp; Jeunesse Infos - Veille juridique"' in page
+
+    def test_un_domaine_n_apparait_qu_une_fois(self, tmp_path):
+        creer_flux(tmp_path, TROIS_SOURCES)
+        write_dashboard({**PAYLOAD, "sites": TROIS_SOURCES}, "T", public_dir=tmp_path)
+        page = (tmp_path / "index.html").read_text(encoding="utf-8")
+        assert page.count('<th colspan="5">Santé, social &amp; séniors</th>') == 1
+
+    def test_l_opml_cree_un_dossier_par_domaine(self, tmp_path):
+        creer_flux(tmp_path, TROIS_SOURCES)
+        write_opml(TROIS_SOURCES, HOME, public_dir=tmp_path)
+        arbre = ET.parse(tmp_path / "feeds.opml")
+        dossiers = arbre.findall(".//body/outline")
+        assert [d.get("text") for d in dossiers] == ["Enfance & Éducation", "Santé, social & séniors"]
+        assert len(dossiers[1].findall("outline")) == 2
+
+    def test_l_opml_emploie_les_noms_courts(self, tmp_path):
+        creer_flux(tmp_path, TROIS_SOURCES)
+        write_opml(TROIS_SOURCES, HOME, public_dir=tmp_path)
+        contenu = (tmp_path / "feeds.opml").read_text(encoding="utf-8")
+        assert 'text="CNSA"' in contenu
+        assert "CNSA - Actualités" not in contenu
+
+    def test_l_opml_reste_valide_si_un_flux_manque(self, tmp_path):
+        """Le dossier d'un domaine dont aucun flux n'existe ne doit pas rester ouvert."""
+        (tmp_path / "eji.xml").write_text("<rss/>", encoding="utf-8")
+        write_opml(TROIS_SOURCES, HOME, public_dir=tmp_path)
+        arbre = ET.parse(tmp_path / "feeds.opml")
+        assert len(arbre.findall(".//outline[@type='rss']")) == 1

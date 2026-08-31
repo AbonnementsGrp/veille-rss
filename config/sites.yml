@@ -12,19 +12,33 @@ settings:
   enrich_descriptions: true
   max_enrichments_per_run: 25
   user_agent: "VeilleRSS/1.0 (+https://github.com/AbonnementsGrp/veille-rss)"
+  # Ordre d'affichage des domaines sur le tableau de bord. Un domaine absent de
+  # cette liste apparaît en dernier, regroupé sous « Autres ».
+  themes:
+    - "Enfance & Éducation"
+    - "Santé, social & séniors"
+    - "Culture"
+    - "Tourisme"
+    - "Restauration"
 
 sites:
   - name: "CNSA - Actualités"
+    short_name: "CNSA"
+    theme: "Santé, social & séniors"
     url: "https://www.cnsa.fr/actualites"
     official_feed: "https://www.cnsa.fr/flux-rss.xml/article"
     output: "cnsa.xml"
 
   - name: "Enfance & Jeunesse Infos - Veille juridique"
+    short_name: "Enfance & Jeunesse Infos"
+    theme: "Enfance & Éducation"
     url: "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/"
     official_feed: "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/"
     output: "enfance-jeunesse-veille-juridique.xml"
 
   - name: "Les Pros de la Petite Enfance"
+    short_name: "Pros de la petite enfance"
+    theme: "Enfance & Éducation"
     url: "https://www.lesprosdelapetiteenfance.fr/actualites/"
     output: "pros-petite-enfance.xml"
     selectors:
@@ -34,16 +48,22 @@ sites:
       date: ["time", ".date", ".published"]
 
   - name: "Localtis - Jeunesse, éducation et formation"
+    short_name: "Localtis — Jeunesse"
+    theme: "Enfance & Éducation"
     url: "https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation"
     official_feed: "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml"
     output: "localtis-jeunesse-education-formation.xml"
 
   - name: "Localtis - Publics fragiles"
+    short_name: "Localtis — Publics fragiles"
+    theme: "Santé, social & séniors"
     url: "https://www.banquedesterritoires.fr/thematiques/publics-fragiles"
     official_feed: "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml"
     output: "localtis-publics-fragiles.xml"
 
   - name: "IGAS"
+    short_name: "IGAS"
+    theme: "Santé, social & séniors"
     url: "https://igas.gouv.fr/actualites"
     # Flux du site entier : actualités et rapports, ces derniers étant le
     # cœur de la production de l'Igas.
@@ -51,19 +71,27 @@ sites:
     output: "igas.xml"
 
   - name: "Observatoire de la culture"
+    short_name: "Observatoire de la culture"
+    theme: "Culture"
     url: "https://www.observatoire-culture.net/"
     output: "observatoire-culture.xml"
 
   - name: "ADN Tourisme"
+    short_name: "ADN Tourisme"
+    theme: "Tourisme"
     url: "https://www.adn-tourisme.fr/publications/actus/"
     output: "adn-tourisme.xml"
 
   - name: "C2L Solutions - Restauration collective"
+    short_name: "C2L Solutions"
+    theme: "Restauration"
     url: "https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/"
     official_feed: "https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/feed/"
     output: "c2l-restauration-collective.xml"
 
   - name: "SNRC"
+    short_name: "SNRC"
+    theme: "Restauration"
     url: "https://www.snrc.fr/le-snrc/actualites-snrc/"
     output: "snrc.xml"
     # Le flux racine du site ne contient que deux billets sans rapport, dont
@@ -74,6 +102,8 @@ sites:
       title: ["h2 a"]
 
   - name: "ANAP - Actualités"
+    short_name: "ANAP"
+    theme: "Santé, social & séniors"
     url: "https://www.anap.fr/s/actualites"
     output: "anap.xml"
     # Site Salesforce rendu entièrement en JavaScript : ses pages ne livrent

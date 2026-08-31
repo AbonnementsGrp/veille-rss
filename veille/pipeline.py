@@ -14,7 +14,7 @@ from dataclasses import asdict
 from typing import Any
 from urllib.parse import urljoin
 
-from veille.config import BASE_URL, PUBLIC_DIR, STATUS_PATH, load_config
+from veille.config import BASE_URL, PUBLIC_DIR, STATUS_PATH, load_config, ordered_sites, theme_of
 from veille.dates import item_sort_key, utc_now
 from veille.enrich import describe_article
 from veille.extract import scrape_page
@@ -26,6 +26,16 @@ from veille.sitemap import items_from_sitemap
 from veille.output import write_dashboard, write_feed, write_opml
 
 log = logging.getLogger(__name__)
+
+
+def identity(site: dict[str, Any]) -> dict[str, str]:
+    """Champs d'identité d'une source, repris tels quels dans status.json."""
+    return {
+        "site": site["name"],
+        "short_name": str(site.get("short_name") or site["name"]),
+        "theme": theme_of(site),
+        "url": site["url"],
+    }
 
 
 def output_name_for(site: dict[str, Any]) -> str:
@@ -174,7 +184,7 @@ def enrich_descriptions(session: Any, items: list[Item], history: dict[str, dict
 def run() -> int:
     cfg = load_config()
     settings = cfg.get("settings") or {}
-    sites = cfg["sites"]
+    sites = ordered_sites(cfg)
     timeout = int(settings.get("request_timeout", 30))
     max_items = int(settings.get("max_items_per_feed", 60))
     history_limit = int(settings.get("max_history_items", 1000))
@@ -203,14 +213,18 @@ def run() -> int:
                 enrich_budget -= enrich_descriptions(session, source_items, history, enrich_budget, timeout)
             write_feed(source_items, source, f"Actualités de {source}", PUBLIC_DIR / output_name, site["url"], urljoin(BASE_URL, output_name))
             all_items.extend(source_items)
-            statuses.append({"site": source, "url": site["url"], "status": "ok", "method": method, "items": len(source_items), "feed": output_name, "source_feed": feed_url})
+            statuses.append({**identity(site), "status": "ok", "method": method,
+                             "items": len(source_items), "feed": output_name, "source_feed": feed_url})
             log.info("%s : %d article(s) via %s", source, len(source_items), method)
         except Exception as exc:
             previous = history_items_for_source(history, source, max_items) if keep_previous else []
             if previous:
                 write_feed(previous, source, f"Actualités de {source}", PUBLIC_DIR / output_name, site["url"], urljoin(BASE_URL, output_name))
                 all_items.extend(previous)
-            statuses.append({"site": source, "url": site["url"], "status": "error", "method": "historique conservé" if previous else "échec", "items": len(previous), "feed": output_name, "error": str(exc), "source_feed": feed_url})
+            statuses.append({**identity(site), "status": "error",
+                             "method": "historique conservé" if previous else "échec",
+                             "items": len(previous), "feed": output_name, "error": str(exc),
+                             "source_feed": feed_url})
             log.error("%s : %s", source, exc)
 
     merged = dedupe(all_items)

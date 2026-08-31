@@ -1,22 +1,15 @@
 {
-  "generated_at": "2026-08-29T01:45:58.032046+00:00",
+  "generated_at": "2026-08-31T06:06:53.122095+00:00",
   "sites_total": 11,
   "sites_ok": 10,
   "sites_error": 1,
-  "new_items": 1,
-  "merged_items": 281,
+  "new_items": 0,
+  "merged_items": 280,
   "sites": [
     {
-      "site": "CNSA - Actualités",
-      "url": "https://www.cnsa.fr/actualites",
-      "status": "ok",
-      "method": "flux officiel",
-      "items": 28,
-      "feed": "cnsa.xml",
-      "source_feed": "https://www.cnsa.fr/flux-rss.xml/article"
-    },
-    {
       "site": "Enfance & Jeunesse Infos - Veille juridique",
+      "short_name": "Enfance & Jeunesse Infos",
+      "theme": "Enfance & Éducation",
       "url": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/",
       "status": "ok",
       "method": "flux officiel",
@@ -26,6 +19,8 @@
     },
     {
       "site": "Les Pros de la Petite Enfance",
+      "short_name": "Pros de la petite enfance",
+      "theme": "Enfance & Éducation",
       "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
       "status": "ok",
       "method": "flux détecté",
@@ -35,6 +30,8 @@
     },
     {
       "site": "Localtis - Jeunesse, éducation et formation",
+      "short_name": "Localtis — Jeunesse",
+      "theme": "Enfance & Éducation",
       "url": "https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation",
       "status": "ok",
       "method": "flux officiel",
@@ -43,7 +40,20 @@
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml"
     },
     {
+      "site": "CNSA - Actualités",
+      "short_name": "CNSA",
+      "theme": "Santé, social & séniors",
+      "url": "https://www.cnsa.fr/actualites",
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 28,
+      "feed": "cnsa.xml",
+      "source_feed": "https://www.cnsa.fr/flux-rss.xml/article"
+    },
+    {
       "site": "Localtis - Publics fragiles",
+      "short_name": "Localtis — Publics fragiles",
+      "theme": "Santé, social & séniors",
       "url": "https://www.banquedesterritoires.fr/thematiques/publics-fragiles",
       "status": "ok",
       "method": "flux officiel",
@@ -53,6 +63,8 @@
     },
     {
       "site": "IGAS",
+      "short_name": "IGAS",
+      "theme": "Santé, social & séniors",
       "url": "https://igas.gouv.fr/actualites",
       "status": "ok",
       "method": "flux officiel",
@@ -61,7 +73,21 @@
       "source_feed": "https://igas.gouv.fr/rss.xml"
     },
     {
+      "site": "ANAP - Actualités",
+      "short_name": "ANAP",
+      "theme": "Santé, social & séniors",
+      "url": "https://www.anap.fr/s/actualites",
+      "status": "error",
+      "method": "historique conservé",
+      "items": 60,
+      "feed": "anap.xml",
+      "error": "HTTPSConnectionPool(host='www.anap.fr', port=443): Max retries exceeded with url: /s/sitemap-topicarticle-1.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))",
+      "source_feed": ""
+    },
+    {
       "site": "Observatoire de la culture",
+      "short_name": "Observatoire de la culture",
+      "theme": "Culture",
       "url": "https://www.observatoire-culture.net/",
       "status": "ok",
       "method": "flux détecté",
@@ -71,6 +97,8 @@
     },
     {
       "site": "ADN Tourisme",
+      "short_name": "ADN Tourisme",
+      "theme": "Tourisme",
       "url": "https://www.adn-tourisme.fr/publications/actus/",
       "status": "ok",
       "method": "flux détecté",
@@ -80,6 +108,8 @@
     },
     {
       "site": "C2L Solutions - Restauration collective",
+      "short_name": "C2L Solutions",
+      "theme": "Restauration",
       "url": "https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/",
       "status": "ok",
       "method": "repli : html_selectors",
@@ -89,21 +119,13 @@
     },
     {
       "site": "SNRC",
+      "short_name": "SNRC",
+      "theme": "Restauration",
       "url": "https://www.snrc.fr/le-snrc/actualites-snrc/",
       "status": "ok",
       "method": "html_selectors",
       "items": 10,
       "feed": "snrc.xml",
-      "source_feed": ""
-    },
-    {
-      "site": "ANAP - Actualités",
-      "url": "https://www.anap.fr/s/actualites",
-      "status": "error",
-      "method": "historique conservé",
-      "items": 60,
-      "feed": "anap.xml",
-      "error": "HTTPSConnectionPool(host='www.anap.fr', port=443): Max retries exceeded with url: /s/sitemap-topicarticle-1.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",
       "source_feed": ""
     }
   ]
