@@ -57,6 +57,11 @@ avertissement au-delà de neuf heures, soit trois créneaux manqués. Le calcul 
 fait dans le navigateur : une page statique qui cesse d'être regénérée se
 figerait sinon avec sa date, sans que rien ne le signale.
 
+Le seuil n'est pas théorique : sur trente exécutions planifiées entre le 25 et le
+31 août 2026, l'écart médian était de 3,5 heures, mais quatre créneaux ont sauté
+pendant 10 à 15 heures sans qu'aucune exécution n'échoue. GitHub décale, voire
+annule, les tâches planifiées quand la file d'attente s'allonge.
+
 ## Exécuter en local
 
 Prérequis : Python 3.12 et un accès réseau sortant.
@@ -263,9 +268,13 @@ l'historique, écriture du flux individuel et intégration au flux global.
   corrects (« Journée nationale de la transformation du handicap »), d'autres
   sont laconiques (« Webinaire rdv transfo ») : ils le sont à la source.
   Y remédier supposerait un navigateur sans tête à chaque exécution.
-- **anap.fr sert par intermittence une chaîne de certificats incomplète**, d'où
-  un `CERTIFICATE_VERIFY_FAILED`. La source bascule alors sur son historique et
-  reste publiée. Rien à corriger de notre côté.
+- **anap.fr sert une chaîne de certificats incomplète** depuis le 28 août 2026,
+  d'où un `CERTIFICATE_VERIFY_FAILED`. Le défaut est côté site : il touche aussi
+  bien la CI que les postes de travail, alors que la même URL répondait
+  normalement le 27. La source bascule sur son historique et reste publiée, avec
+  son erreur visible au tableau de bord. Y remédier de notre côté supposerait de
+  fournir nous-mêmes le certificat intermédiaire manquant ; à faire seulement si
+  l'ANAP tarde à corriger.
 - **La rubrique Publics fragiles de Localtis est dormante** : aucun article
   publié depuis avril 2024. Le flux est valide, la source ne l'alimente plus.
 
