@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-01T14:10:13.092783+00:00",
+  "generated_at": "2026-09-01T18:33:03.153542+00:00",
   "sites_total": 11,
   "sites_ok": 10,
   "sites_error": 1,
   "new_items": 1,
-  "merged_items": 287,
+  "merged_items": 288,
   "sites": [
     {
       "site": "Enfance & Jeunesse Infos - Veille juridique",
@@ -35,7 +35,7 @@
       "url": "https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation",
       "status": "ok",
       "method": "flux officiel",
-      "items": 24,
+      "items": 25,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml"
     },
