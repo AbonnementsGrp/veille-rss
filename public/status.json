@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-08-31T20:51:02.391937+00:00",
+  "generated_at": "2026-09-01T08:41:19.582293+00:00",
   "sites_total": 11,
   "sites_ok": 10,
   "sites_error": 1,
-  "new_items": 4,
-  "merged_items": 286,
+  "new_items": 1,
+  "merged_items": 287,
   "sites": [
     {
       "site": "Enfance & Jeunesse Infos - Veille juridique",
@@ -24,7 +24,7 @@
       "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
       "status": "ok",
       "method": "flux détecté",
-      "items": 45,
+      "items": 46,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/"
     },
