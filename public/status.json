@@ -81,7 +81,7 @@
       "method": "historique conservé",
       "items": 60,
       "feed": "anap.xml",
-      "error": "HTTPSConnectionPool(host='www.anap.fr', port=443): Max retries exceeded with url: /s/sitemap-topicarticle-1.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",
+      "error": "HTTPSConnectionPool(host='www.anap.fr', port=443): Max retries exceeded with url: /s/sitemap-topicarticle-1.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1000)')))",
       "source_feed": ""
     },
     {
