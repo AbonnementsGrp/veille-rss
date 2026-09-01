@@ -63,45 +63,71 @@ annule, les tâches planifiées quand la file d'attente s'allonge.
 
 Prérequis : Python 3.12 et un accès réseau sortant.
 
+### PowerShell (Windows)
+
+```powershell
+git clone https://github.com/AbonnementsGrp/veille-rss.git
+cd veille-rss
+python -m venv .venv
+.\.venv\Scripts\Activate.ps1
+pip install -r requirements-dev.txt
+```
+
+L'activation fonctionne sous la politique d'exécution `RemoteSigned` par défaut
+de Windows : `Activate.ps1` est créé localement, il n'est donc pas bloqué. Une
+fois le venv activé, `python` et `pytest` désignent ceux du projet :
+
+```powershell
+python generate.py                  # génération complète
+python -m pytest                    # tests
+Invoke-Item .\public\index.html     # ouvrir le tableau de bord produit
+```
+
+Sans activer le venv, préfixez chaque commande par son interpréteur :
+
+```powershell
+.\.venv\Scripts\python.exe generate.py
+```
+
+PowerShell affiche correctement les accents des journaux, ce que Git Bash ne fait
+pas sur ce poste : préférez-le pour lire les bilans d'exécution.
+
+### Bash (Linux, macOS, Git Bash)
+
 ```bash
 git clone https://github.com/AbonnementsGrp/veille-rss.git
 cd veille-rss
 python -m venv .venv
-.venv/Scripts/python.exe -m pip install -r requirements-dev.txt   # Windows
-# source .venv/bin/activate && pip install -r requirements-dev.txt  # Linux/macOS
+source .venv/bin/activate          # .venv/Scripts/activate sous Git Bash
+pip install -r requirements-dev.txt
+python generate.py
+python -m pytest
 ```
 
-Lancer une génération complète :
+### Ce que fait une génération
 
-```bash
-.venv/Scripts/python.exe generate.py
-```
-
-Le script interroge les sources déclarées, écrit les flux dans `public/`, met à jour
-`data/history.json`, et affiche un bilan :
+Le script interroge les sources déclarées, écrit les flux dans `public/`, met à
+jour `data/history.json`, et affiche un bilan :
 
 ```
-INFO | CNSA - Actualités : 48 article(s) via flux officiel
-ERROR | ANAP - Actualités : Aucun article détecté sur la page
-INFO | Bilan : 8 source(s), 6 OK, 2 erreur(s), 164 article(s)
+INFO | CNSA - Actualités : 28 article(s) via flux officiel
+WARNING | C2L Solutions : …/feed/ ne sert pas un flux (contenu text/html). Repli sur la page d'actualités.
+INFO | C2L Solutions : 10 article(s) via repli : html_selectors
+INFO | Bilan : 11 source(s), 11 OK, 0 erreur(s), 287 article(s)
 ```
 
-Ouvrez ensuite `public/index.html` dans un navigateur pour voir le résultat tel
-qu'il sera publié. Une source en erreur n'interrompt jamais les autres.
+Ouvrez `public/index.html` dans un navigateur pour voir le résultat tel qu'il sera
+publié. Une source en erreur n'interrompt jamais les autres.
 
 Pour annuler une génération locale sans conséquence :
 
-```bash
+```
 git restore data/history.json public/
 ```
 
-### Lancer les tests
+### Les tests
 
-```bash
-.venv/Scripts/python.exe -m pytest
-```
-
-Les tests n'accèdent pas au réseau : ils s'appuient sur les jeux de données de
+Ils n'accèdent pas au réseau : ils s'appuient sur les jeux de données de
 `tests/fixtures/`. La CI les exécute avant toute génération, afin qu'une
 régression ne soit jamais publiée.
 
@@ -110,12 +136,14 @@ régression ne soit jamais publiée.
 L'historique complète chaque flux : après un changement de méthode
 d'extraction, les articles récoltés par l'ancienne continuent d'être publiés.
 
-```bash
-.venv/Scripts/python.exe scripts/purger_source.py --lister          # sources connues
-.venv/Scripts/python.exe scripts/purger_source.py "ADN Tourisme"    # aperçu
-.venv/Scripts/python.exe scripts/purger_source.py "ADN Tourisme" --appliquer
-.venv/Scripts/python.exe generate.py                                # reconstitue le flux
+```powershell
+python scripts/purger_source.py --lister          # sources connues
+python scripts/purger_source.py "ADN Tourisme"    # aperçu, n'écrit rien
+python scripts/purger_source.py "ADN Tourisme" --appliquer
+python generate.py                                # reconstitue le flux
 ```
+
+(venv activé ; sinon préfixez par `.\.venv\Scripts\python.exe`)
 
 ## Ajouter ou corriger une source
 
