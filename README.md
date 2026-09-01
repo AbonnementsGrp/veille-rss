@@ -8,21 +8,18 @@ tableau de bord d'état publiés sur GitHub Pages.
 - **Flux global** : https://abonnementsgrp.github.io/veille-rss/veille.xml
 - **Dépôt** : https://github.com/AbonnementsGrp/veille-rss
 
+> **Vous voulez seulement suivre la veille ?** Le
+> [guide d'utilisation](GUIDE-UTILISATEUR.md) explique comment s'abonner selon
+> votre lecteur de flux, comment lire le tableau de bord et ce que couvre chaque
+> source. Le présent README s'adresse à qui fait évoluer l'application.
+
 ## Se servir de l'application
 
 ### Suivre la veille dans un lecteur de flux
 
-Trois façons de s'abonner, de la plus simple à la plus fine :
-
-| Ce que vous voulez | L'adresse à ajouter dans votre lecteur |
-|---|---|
-| Toute la veille en un seul flux | `https://abonnementsgrp.github.io/veille-rss/veille.xml` |
-| Toutes les sources d'un coup, séparées | importez `https://abonnementsgrp.github.io/veille-rss/feeds.opml` |
-| Une source précise | `https://abonnementsgrp.github.io/veille-rss/<fichier>.xml` (voir la colonne « Flux » du tableau de bord) |
-
-L'OPML s'importe depuis Thunderbird, Feedly, Inoreader, Outlook ou tout autre
-lecteur compatible. Il crée **un dossier par domaine** — Enfance & Éducation,
-Santé, Culture, Tourisme, Restauration — et y range les flux correspondants.
+Trois adresses, détaillées dans le [guide d'utilisation](GUIDE-UTILISATEUR.md) :
+le flux global `veille.xml`, le fichier d'abonnements `feeds.opml` — qui crée un
+dossier par domaine à l'import — et le flux propre à chaque source.
 
 ### Vérifier que tout fonctionne
 
@@ -187,6 +184,7 @@ veille-rss/
 │   └── pipeline.py          orchestration d'une exécution
 ├── tests/                   suite pytest + fixtures hors réseau
 ├── scripts/                 outils de maintenance
+├── GUIDE-UTILISATEUR.md     documentation à destination des lecteurs
 ├── config/sites.yml         définition des sources
 ├── data/history.json        historique (committé, sert de mémoire entre les runs)
 ├── public/                  sorties publiées par GitHub Pages
