@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-02T16:36:19.406112+00:00",
+  "generated_at": "2026-09-03T11:17:34.446389+00:00",
   "sites_total": 11,
   "sites_ok": 10,
   "sites_error": 1,
-  "new_items": 3,
-  "merged_items": 292,
+  "new_items": 2,
+  "merged_items": 294,
   "sites": [
     {
       "site": "Enfance & Jeunesse Infos - Veille juridique",
@@ -24,7 +24,7 @@
       "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
       "status": "ok",
       "method": "flux détecté",
-      "items": 46,
+      "items": 47,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/"
     },
@@ -91,7 +91,7 @@
       "url": "https://www.observatoire-culture.net/",
       "status": "ok",
       "method": "flux détecté",
-      "items": 12,
+      "items": 13,
       "feed": "observatoire-culture.xml",
       "source_feed": "https://www.observatoire-culture.net/feed/"
     },
