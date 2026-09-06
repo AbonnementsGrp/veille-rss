@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-06T20:27:04.382608+00:00",
+  "generated_at": "2026-09-06T22:54:12.214538+00:00",
   "sites_total": 11,
-  "sites_ok": 9,
-  "sites_error": 2,
-  "new_items": 6,
-  "merged_items": 304,
+  "sites_ok": 10,
+  "sites_error": 1,
+  "new_items": 0,
+  "merged_items": 302,
   "sites": [
     {
       "site": "Enfance & Jeunesse Infos - Veille juridique",
@@ -23,8 +23,8 @@
       "theme": "Enfance & Éducation",
       "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
       "status": "ok",
-      "method": "repli : generic_links",
-      "items": 52,
+      "method": "flux détecté",
+      "items": 50,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/"
     },
@@ -89,12 +89,11 @@
       "short_name": "Observatoire de la culture",
       "theme": "Culture",
       "url": "https://www.observatoire-culture.net/",
-      "status": "error",
-      "method": "historique conservé",
-      "items": 23,
+      "status": "ok",
+      "method": "flux détecté",
+      "items": 13,
       "feed": "observatoire-culture.xml",
-      "error": "HTTPSConnectionPool(host='www.observatoire-culture.net', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.observatoire-culture.net', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "source_feed": ""
+      "source_feed": "https://www.observatoire-culture.net/feed/"
     },
     {
       "site": "ADN Tourisme",
