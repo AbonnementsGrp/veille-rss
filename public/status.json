@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-06T22:54:12.214538+00:00",
+  "generated_at": "2026-09-07T12:36:42.336896+00:00",
   "sites_total": 11,
   "sites_ok": 10,
   "sites_error": 1,
-  "new_items": 0,
-  "merged_items": 302,
+  "new_items": 2,
+  "merged_items": 303,
   "sites": [
     {
       "site": "Enfance & Jeunesse Infos - Veille juridique",
@@ -46,7 +46,7 @@
       "url": "https://www.cnsa.fr/actualites",
       "status": "ok",
       "method": "flux officiel",
-      "items": 28,
+      "items": 29,
       "feed": "cnsa.xml",
       "source_feed": "https://www.cnsa.fr/flux-rss.xml/article"
     },

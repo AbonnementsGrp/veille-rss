@@ -1,4 +1,23 @@
 {
+  "749377298411119dc49e20783e26cf5b73ab93de04e71ee0e99190a3c0a2617d": {
+    "source": "CNSA - Actualités",
+    "title": "La CNSA sélectionne 5 nouveaux doctorants pour son programme de recherche « Autonomie, grand âge et handicap »",
+    "link": "https://www.cnsa.fr/actualites/la-cnsa-selectionne-5-nouveaux-doctorants-pour-son-programme-de-recherche-autonomie",
+    "description": "Leurs recherches portent sur les violences vécues par les femmes sourdes, les conséquences de la maladie de Huntington sur les familles, le travail des femmes migrantes auprès des personnes âgées, les transformations des Établissements et services d’aide par le travail (ESAT), ainsi que les parcours professionnels des aides-soignantes.",
+    "published": "2026-09-07T09:02:04+00:00",
+    "first_seen": "2026-09-07T12:36:26.878930+00:00",
+    "uid": "749377298411119dc49e20783e26cf5b73ab93de04e71ee0e99190a3c0a2617d"
+  },
+  "5c42b38faf6617629414cc9c490654d3998e944484a350d5d1cd40ee9f8a2818": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "Jouer dehors, faire la sieste : pas si simple en crèche !",
+    "link": "https://www.lesprosdelapetiteenfance.fr/jouer-dehors-faire-la-sieste-pas-si-simple-en-creche/",
+    "description": "Une étude internationale menée auprès de 187 structures d’accueil de la petite enfance montre que les conditions environnementales peuvent limiter les sorties et perturber la sieste.",
+    "published": "2026-09-07T08:33:55+00:00",
+    "first_seen": "2026-09-07T12:36:24.703853+00:00",
+    "uid": "5c42b38faf6617629414cc9c490654d3998e944484a350d5d1cd40ee9f8a2818",
+    "description_checked": true
+  },
   "e3f820d1d5fcf5260a001422f951781f9068b06ee720888afe51643df12d4026": {
     "source": "Les Pros de la Petite Enfance",
     "title": "21 septembre 2026 : La Rentrée de la Petite Enfance",
@@ -278,7 +297,7 @@
     "title": "Le temps de travail des médecins",
     "link": "https://igas.gouv.fr/le-temps-de-travail-des-medecins",
     "description": "Le Premier ministre a confié à l’Inspection générale des affaires sociales (IGAS) et à l’Inspection générale des finances (IGF) une mission visant à dresser un état des lieux du temps de travail des médecins en ville et à l’hôpital. La mission devait notamment recenser les données disponibles, analyser les évolutions du temps de travail médical et les dispositifs permettant de l’optimiser, et examiner l’organisation et le pilotage du temps de travail dans les hôpitaux publics.",
-    "published": "2026-08-25T10:34:53+00:00",
+    "published": "2026-09-07T10:31:49+00:00",
     "first_seen": "2026-08-27T15:44:06.513017+00:00",
     "uid": "28c24929c3981c26fc812a893bbf0fae776cc0a918f2df3b2c72314650cde6df",
     "description_checked": true
