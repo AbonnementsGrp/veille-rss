@@ -1,9 +1,10 @@
 {
-  "generated_at": "2026-09-08T11:24:13.141175+00:00",
+  "generated_at": "2026-09-08T12:13:23.270813+00:00",
   "sites_total": 11,
   "sites_ok": 11,
   "sites_error": 0,
-  "new_items": 1,
+  "sites_warning": 3,
+  "new_items": 0,
   "merged_items": 306,
   "sites": [
     {
@@ -17,7 +18,8 @@
       "method": "flux détecté",
       "items": 13,
       "feed": "observatoire-culture.xml",
-      "source_feed": "https://www.observatoire-culture.net/feed/"
+      "source_feed": "https://www.observatoire-culture.net/feed/",
+      "warnings": []
     },
     {
       "site": "Enfance & Jeunesse Infos - Veille juridique",
@@ -30,7 +32,8 @@
       "method": "flux officiel",
       "items": 33,
       "feed": "enfance-jeunesse-veille-juridique.xml",
-      "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/"
+      "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
+      "warnings": []
     },
     {
       "site": "Localtis - Jeunesse, éducation et formation",
@@ -43,7 +46,8 @@
       "method": "flux officiel",
       "items": 32,
       "feed": "localtis-jeunesse-education-formation.xml",
-      "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml"
+      "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
+      "warnings": []
     },
     {
       "site": "Les Pros de la Petite Enfance",
@@ -56,7 +60,8 @@
       "method": "flux détecté",
       "items": 51,
       "feed": "pros-petite-enfance.xml",
-      "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/"
+      "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
+      "warnings": []
     },
     {
       "site": "C2L Solutions - Restauration collective",
@@ -71,7 +76,10 @@
       "method": "flux officiel",
       "items": 10,
       "feed": "c2l-restauration-collective.xml",
-      "source_feed": "https://c2lsolutions.fr/feed/?post_type=post"
+      "source_feed": "https://c2lsolutions.fr/feed/?post_type=post",
+      "warnings": [
+        "rien de neuf depuis 74 jours (seuil : 60)"
+      ]
     },
     {
       "site": "SNRC",
@@ -84,7 +92,10 @@
       "method": "flux officiel",
       "items": 10,
       "feed": "snrc.xml",
-      "source_feed": "https://www.snrc.fr/feed/?post_type=actualites"
+      "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
+      "warnings": [
+        "rien de neuf depuis 203 jours (seuil : 60)"
+      ]
     },
     {
       "site": "ANAP - Actualités",
@@ -97,7 +108,8 @@
       "method": "plan de site",
       "items": 60,
       "feed": "anap.xml",
-      "source_feed": ""
+      "source_feed": "",
+      "warnings": []
     },
     {
       "site": "CNSA - Actualités",
@@ -110,7 +122,8 @@
       "method": "flux officiel",
       "items": 29,
       "feed": "cnsa.xml",
-      "source_feed": "https://www.cnsa.fr/flux-rss.xml/article"
+      "source_feed": "https://www.cnsa.fr/flux-rss.xml/article",
+      "warnings": []
     },
     {
       "site": "IGAS",
@@ -123,7 +136,8 @@
       "method": "flux officiel",
       "items": 38,
       "feed": "igas.xml",
-      "source_feed": "https://igas.gouv.fr/rss.xml"
+      "source_feed": "https://igas.gouv.fr/rss.xml",
+      "warnings": []
     },
     {
       "site": "Localtis - Publics fragiles",
@@ -136,7 +150,10 @@
       "method": "flux officiel",
       "items": 20,
       "feed": "localtis-publics-fragiles.xml",
-      "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml"
+      "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
+      "warnings": [
+        "rien de neuf depuis 887 jours (seuil : 60)"
+      ]
     },
     {
       "site": "ADN Tourisme",
@@ -149,7 +166,8 @@
       "method": "flux détecté",
       "items": 10,
       "feed": "adn-tourisme.xml",
-      "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/"
+      "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
+      "warnings": []
     }
   ]
 }
