@@ -26,7 +26,8 @@ dossier par domaine à l'import — et le flux propre à chaque source.
 Le [tableau de bord](https://abonnementsgrp.github.io/veille-rss/) affiche, pour
 chaque source : son état, le nombre d'articles, la méthode qui a permis de les
 récupérer, et le message d'erreur le cas échéant. Les sources y sont groupées
-par domaine, dans l'ordre défini par `settings.themes`. La même information est
+par domaine ; domaines et sources sont classés par ordre alphabétique, « Autres »
+regroupant en dernier les sources sans domaine. La même information est
 disponible en JSON dans
 [`status.json`](https://abonnementsgrp.github.io/veille-rss/status.json), pour
 une supervision automatisée.
@@ -189,9 +190,11 @@ reconnaissance des formulaires sont choisis sans apostrophe pour cette raison.
 ### Ajouter un domaine
 
 Les domaines vivent à deux endroits : `settings.themes` dans `config/sites.yml`,
-qui fixe l'ordre d'affichage, et la liste déroulante du formulaire de source.
-`veille/themes.py` est le seul à les modifier, et les modifie ensemble ; un test
-vérifie qu'ils restent identiques.
+qui dit quels domaines sont reconnus, et la liste déroulante du formulaire de
+source. `veille/themes.py` est le seul à les modifier, et les modifie ensemble,
+en les réécrivant par ordre alphabétique ; un test vérifie qu'ils restent
+identiques et triés. L'affichage du tableau de bord suit le même ordre : il n'y
+a pas de position à choisir.
 
 Par formulaire : *Proposer un nouveau domaine*, traité par
 [nouveau-domaine.yml](.github/workflows/nouveau-domaine.yml) sur le même schéma
@@ -199,8 +202,8 @@ que les sources — vérification en commentaire, étiquette **approuvé**, écr
 et commit automatiques. En ligne de commande :
 
 ```powershell
-python scripts/ajouter_theme.py "Logement & Habitat" --apres "Culture"          # aperçu
-python scripts/ajouter_theme.py "Logement & Habitat" --apres "Culture" --ecrire
+python scripts/ajouter_theme.py "Logement & Habitat"            # aperçu
+python scripts/ajouter_theme.py "Logement & Habitat" --ecrire
 git add config/sites.yml .github/ISSUE_TEMPLATE/nouvelle-source.yml
 ```
 
@@ -246,8 +249,7 @@ sortie :
 |---|---|
 | `name` | Nom complet ; sert aussi de clé dans l'historique. Le renommer repart d'un historique vide. |
 | `short_name` | Nom affiché sur le tableau de bord et dans l'OPML. À défaut, `name` est utilisé. |
-| `theme` | Domaine de regroupement. Doit figurer dans `settings.themes`, sinon la source passe en fin de tableau sous « Autres ». |
-| `order` | Rang dans le domaine. À défaut, l'ordre du fichier fait foi. |
+| `theme` | Domaine de regroupement. À déclarer dans `settings.themes` pour qu'il soit proposé dans le formulaire ; sans domaine, la source va sous « Autres », en dernier. |
 | `url` | Page d'actualités, utilisée pour la découverte de flux et le scraping. |
 | `official_feed` | Flux RSS/Atom connu. À ne renseigner qu'après l'avoir testé. |
 | `output` | Nom du fichier XML produit. Déduit du `name` si absent. |
@@ -272,9 +274,10 @@ Marche à suivre recommandée :
    tableau de bord avant de committer.
 
 Les réglages globaux sont dans la section `settings` du même fichier : nombre
-d'articles par flux, taille de l'historique, délai réseau, user-agent, liste
-ordonnée des domaines (`themes`), et enrichissement des résumés manquants
-(`enrich_descriptions`, `max_enrichments_per_run`).
+d'articles par flux, taille de l'historique, délai réseau, user-agent, liste des
+domaines reconnus (`themes` — son ordre est sans effet, l'affichage est
+alphabétique), et enrichissement des résumés manquants (`enrich_descriptions`,
+`max_enrichments_per_run`).
 
 ## Architecture
 

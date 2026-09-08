@@ -27,7 +27,6 @@ from veille.themes import ThemePlan, add_theme, plan_theme  # noqa: E402
 # Libellés du formulaire .github/ISSUE_TEMPLATE/nouveau-domaine.yml → clé.
 CHAMPS = {
     "Nom du domaine": "nom",
-    "Placer après quel domaine ?": "apres",
     "Pourquoi ce domaine ?": "pourquoi",
 }
 VIDE = "_No response_"
@@ -49,9 +48,8 @@ def parse_issue_body(body: str) -> dict[str, str]:
 def commentaire(plan: ThemePlan, ajoute: bool = False) -> str:
     lignes = ["### ✅ " + ("Domaine ajouté" if ajoute else "Domaine prêt à être créé"), ""]
     lignes.append(f"**Nom** : {plan.name}")
-    lignes.append(f"**Place** : {plan.position}ᵉ sur {len(plan.result)}"
-                  + (f", après « {plan.after} »" if plan.after else ", en dernier"))
-    lignes += ["", "**Ordre des domaines qui en résulte :**", ""]
+    lignes.append(f"**Place** : {plan.position}ᵉ sur {len(plan.result)}, par ordre alphabétique")
+    lignes += ["", "**Domaines qui en résultent :**", ""]
     for n, theme in enumerate(plan.result, 1):
         lignes.append(f"{n}. " + (f"**{theme}** ← nouveau" if theme == plan.name else theme))
     lignes.append("")
@@ -60,8 +58,7 @@ def commentaire(plan: ThemePlan, ajoute: bool = False) -> str:
                       "Il apparaîtra sur le tableau de bord dès qu'une source lui sera rattachée.")
     else:
         lignes.append("Pour créer le domaine, un responsable pose l'étiquette **approuvé** sur cette issue. "
-                      "Pour changer le nom ou la place, modifiez le formulaire ci-dessus : la vérification "
-                      "sera relancée.")
+                      "Pour changer le nom, modifiez le formulaire ci-dessus : la vérification sera relancée.")
     return "\n".join(lignes) + "\n"
 
 
@@ -73,7 +70,7 @@ def main(argv: list[str]) -> int:
     mode = argv[0] if argv else "enquete"
     champs = parse_issue_body(os.environ.get("ISSUE_BODY", ""))
     try:
-        plan = plan_theme(champs.get("nom", ""), champs.get("apres", ""))
+        plan = plan_theme(champs.get("nom", ""))
     except ValueError as exc:
         ecrire("commentaire.md", f"❌ Demande refusée : {exc}.\n\nModifiez le formulaire ci-dessus pour corriger.\n")
         ecrire("verdict.txt", "erreur")

@@ -6,8 +6,9 @@ body:
     attributes:
       value: |
         Un domaine est une rubrique du tableau de bord : *Enfance & Éducation*,
-        *Culture*, *Restauration*… Une fois créé, il apparaît dans la liste des
-        domaines proposés au moment d'ajouter une source. Un responsable valide la
+        *Culture*, *Restauration*… Les domaines y sont classés par ordre
+        alphabétique. Une fois créé, le nouveau domaine apparaît dans la liste
+        proposée au moment d'ajouter une source. Un responsable valide la
         création ; le domaine est alors ajouté automatiquement.
 
   - type: input
@@ -18,13 +19,6 @@ body:
       placeholder: Logement & Habitat
     validations:
       required: true
-
-  - type: input
-    id: apres
-    attributes:
-      label: Placer après quel domaine ?
-      description: Facultatif. Le nom exact d'un domaine existant ; à défaut, le nouveau domaine se place en dernier.
-      placeholder: Culture
 
   - type: textarea
     id: pourquoi

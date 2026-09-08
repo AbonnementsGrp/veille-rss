@@ -1,28 +1,31 @@
-"""Domaines : validation, insertion dans les deux fichiers, cohérence."""
+"""Domaines : validation, réécriture alphabétique des deux listes, cohérence."""
 
 from __future__ import annotations
 
 import yaml
 import pytest
 
+from veille.config import sort_key
 from veille.themes import (
     FORM_PATH,
     add_theme,
     current_themes,
     form_themes,
-    insert_list_item,
+    list_items,
     plan_theme,
+    replace_list_items,
+    sorted_themes,
 )
 
-THEMES = ["Enfance & Éducation", "Santé, social & séniors", "Culture"]
+THEMES = ["Culture", "Enfance & Éducation", "Santé, social & séniors"]
 
 CONFIG = '''settings:
   merged_output: "veille.xml"
-  # Ordre d'affichage des domaines.
+  # Domaines reconnus.
   themes:
+    - "Culture"
     - "Enfance & Éducation"
     - "Santé, social & séniors"
-    - "Culture"
   request_timeout: 30
 
 sites:
@@ -37,9 +40,9 @@ body:
     attributes:
       label: Domaine
       options:
+        - "Culture"
         - "Enfance & Éducation"
         - "Santé, social & séniors"
-        - "Culture"
     validations:
       required: true
   - type: input
@@ -49,16 +52,22 @@ body:
 '''
 
 
-class TestPlanTheme:
-    def test_place_en_dernier_par_defaut(self):
-        plan = plan_theme("Logement", themes=THEMES)
-        assert plan.result == THEMES + ["Logement"] and plan.position == 4
+def entete(texte, mot):
+    return next(i for i, l in enumerate(texte.split("\n")) if l.strip() == mot)
 
-    def test_place_apres_un_domaine_donne(self):
-        plan = plan_theme("Logement", after="culture", themes=THEMES)
-        assert plan.result == THEMES + ["Logement"]
-        plan = plan_theme("Logement", after="Enfance & Éducation", themes=THEMES)
-        assert plan.result[1] == "Logement" and plan.after == "Enfance & Éducation"
+
+class TestPlanTheme:
+    def test_place_le_domaine_a_sa_position_alphabetique(self):
+        plan = plan_theme("Logement", themes=THEMES)
+        assert plan.result == ["Culture", "Enfance & Éducation", "Logement", "Santé, social & séniors"]
+        assert plan.position == 3
+
+    def test_les_accents_ne_perturbent_pas_le_classement(self):
+        assert plan_theme("Écoles", themes=THEMES).result[1] == "Écoles"
+
+    def test_trie_aussi_une_liste_de_depart_desordonnee(self):
+        plan = plan_theme("Logement", themes=["Tourisme", "Culture"])
+        assert plan.result == ["Culture", "Logement", "Tourisme"]
 
     def test_normalise_les_espaces(self):
         assert plan_theme("  Logement   &  Habitat ", themes=THEMES).name == "Logement & Habitat"
@@ -73,35 +82,34 @@ class TestPlanTheme:
         with pytest.raises(ValueError, match=motif):
             plan_theme(nom, themes=THEMES)
 
-    def test_refuse_un_domaine_de_reference_inconnu(self):
-        with pytest.raises(ValueError, match="aucun domaine « Sport »"):
-            plan_theme("Logement", after="Sport", themes=THEMES)
 
-
-class TestInsertListItem:
-    def test_insere_en_fin_de_liste_sans_toucher_au_reste(self):
+class TestListItems:
+    def test_lit_les_elements_de_la_liste(self):
         lignes = CONFIG.split("\n")
-        entete = next(i for i, l in enumerate(lignes) if l.strip() == "themes:")
-        resultat = insert_list_item(CONFIG, entete, "Logement")
-        assert yaml.safe_load(resultat)["settings"]["themes"] == THEMES + ["Logement"]
-        assert "# Ordre d'affichage des domaines." in resultat
-        assert yaml.safe_load(resultat)["settings"]["request_timeout"] == 30
+        assert [v for _, v in list_items(lignes, entete(CONFIG, "themes:"))] == THEMES
 
-    def test_insere_apres_un_element(self):
+    def test_s_arrete_a_la_fin_de_la_liste(self):
         lignes = CONFIG.split("\n")
-        entete = next(i for i, l in enumerate(lignes) if l.strip() == "themes:")
-        resultat = insert_list_item(CONFIG, entete, "Logement", after="Enfance & Éducation")
-        assert yaml.safe_load(resultat)["settings"]["themes"][1] == "Logement"
+        numeros = [n for n, _ in list_items(lignes, entete(CONFIG, "themes:"))]
+        assert lignes[max(numeros) + 1].strip().startswith("request_timeout")
+
+
+class TestReplaceListItems:
+    def test_remplace_les_elements_sans_toucher_au_reste(self):
+        resultat = replace_list_items(CONFIG, entete(CONFIG, "themes:"), ["A", "B"])
+        relu = yaml.safe_load(resultat)
+        assert relu["settings"]["themes"] == ["A", "B"]
+        assert relu["settings"]["request_timeout"] == 30
+        assert "# Domaines reconnus." in resultat
+        assert relu["sites"][0]["name"] == "A"
 
     def test_reprend_l_indentation_des_elements(self):
-        lignes = CONFIG.split("\n")
-        entete = next(i for i, l in enumerate(lignes) if l.strip() == "themes:")
-        resultat = insert_list_item(CONFIG, entete, "Logement")
+        resultat = replace_list_items(CONFIG, entete(CONFIG, "themes:"), ["Logement"])
         assert '    - "Logement"' in resultat.split("\n")
 
     def test_refuse_une_liste_absente(self):
         with pytest.raises(ValueError):
-            insert_list_item("settings:\n  themes:\n  autre: 1\n", 1, "X")
+            replace_list_items("settings:\n  themes:\n  autre: 1\n", 1, ["X"])
 
 
 class TestAddTheme:
@@ -112,22 +120,25 @@ class TestAddTheme:
         formulaire.write_text(form, encoding="utf-8")
         return config, formulaire
 
-    def test_ecrit_le_domaine_aux_deux_endroits(self, tmp_path):
+    def test_ecrit_la_liste_alphabetique_aux_deux_endroits(self, tmp_path):
         config, formulaire = self._fichiers(tmp_path)
         add_theme(plan_theme("Logement", themes=THEMES), config, formulaire)
-        assert current_themes(config) == THEMES + ["Logement"]
-        assert form_themes(formulaire) == THEMES + ["Logement"]
-
-    def test_respecte_la_place_demandee_dans_les_deux_fichiers(self, tmp_path):
-        config, formulaire = self._fichiers(tmp_path)
-        add_theme(plan_theme("Logement", after="Culture", themes=THEMES), config, formulaire)
-        assert current_themes(config)[-1] == "Logement" == form_themes(formulaire)[-1]
+        attendu = ["Culture", "Enfance & Éducation", "Logement", "Santé, social & séniors"]
+        assert current_themes(config) == attendu
+        assert form_themes(formulaire) == attendu
 
     def test_preserve_le_reste_des_fichiers(self, tmp_path):
         config, formulaire = self._fichiers(tmp_path)
         add_theme(plan_theme("Logement", themes=THEMES), config, formulaire)
-        assert "# Ordre d'affichage des domaines." in config.read_text(encoding="utf-8")
+        assert "# Domaines reconnus." in config.read_text(encoding="utf-8")
         assert yaml.safe_load(formulaire.read_text(encoding="utf-8"))["body"][1]["id"] == "nom"
+
+    def test_tolere_un_ordre_different_mais_pas_un_contenu_different(self, tmp_path):
+        desordonne = FORM.replace('        - "Culture"\n        - "Enfance & Éducation"\n',
+                                  '        - "Enfance & Éducation"\n        - "Culture"\n')
+        config, formulaire = self._fichiers(tmp_path, form=desordonne)
+        add_theme(plan_theme("Logement", themes=THEMES), config, formulaire)
+        assert form_themes(formulaire) == current_themes(config)
 
     def test_refuse_si_le_formulaire_a_derive(self, tmp_path):
         config, formulaire = self._fichiers(tmp_path, form=FORM.replace('        - "Culture"\n', ""))
@@ -137,7 +148,11 @@ class TestAddTheme:
 
 
 class TestCoherenceDuDepot:
-    """Les deux listes réelles doivent rester identiques : c'est ce que l'outil garantit."""
+    """Ce que l'outil garantit sur les fichiers réels : mêmes domaines, ordre alphabétique."""
 
     def test_le_formulaire_offre_exactement_les_domaines_configures(self):
         assert form_themes(FORM_PATH) == current_themes()
+
+    def test_les_domaines_sont_ranges_par_ordre_alphabetique(self):
+        assert current_themes() == sorted_themes(current_themes())
+        assert sorted(current_themes(), key=sort_key) == current_themes()

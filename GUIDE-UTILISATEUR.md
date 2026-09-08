@@ -25,8 +25,8 @@ Trois façons, selon ce que vous voulez :
 | Une seule source | l'adresse de son flux, colonne « Flux » du tableau de bord (voir aussi la liste plus bas) |
 
 L'**OPML** est un fichier d'abonnements : votre lecteur l'importe et crée d'un
-coup les onze flux, rangés dans cinq dossiers (Enfance & Éducation, Santé, social
-& séniors, Culture, Tourisme, Restauration). C'est l'option recommandée si vous
+coup les onze flux, rangés dans cinq dossiers (Culture, Enfance & Éducation,
+Restauration, Santé, social & séniors, Tourisme). C'est l'option recommandée si vous
 voulez pouvoir traiter les domaines séparément.
 
 ### Selon votre lecteur
@@ -57,7 +57,8 @@ derniers états et donne accès à chaque flux.
 ## Lire le tableau de bord
 
 La page d'accueil affiche cinq compteurs, puis un tableau des sources groupées
-par domaine.
+par domaine. Domaines et sources y sont classés par ordre alphabétique ; les
+sources sans domaine sont regroupées en dernier sous « Autres ».
 
 | Colonne | Ce qu'elle dit |
 |---|---|
@@ -91,31 +92,41 @@ résultat.
 
 Les nombres d'articles évoluent à chaque collecte.
 
+### Culture
+
+| Source | Ce qu'elle couvre | Flux |
+|---|---|---|
+| **Observatoire de la culture** | Politiques culturelles territoriales | `observatoire-culture.xml` |
+
 ### Enfance & Éducation
 
 | Source | Ce qu'elle couvre | Flux |
 |---|---|---|
 | **Enfance & Jeunesse Infos** | Veille juridique du secteur enfance-jeunesse : décrets, circulaires, jurisprudence | `enfance-jeunesse-veille-juridique.xml` |
-| **Pros de la petite enfance** | Actualité professionnelle de la petite enfance : métiers, structures, études | `pros-petite-enfance.xml` |
 | **Localtis — Jeunesse** | Jeunesse, éducation et formation vues du côté des collectivités | `localtis-jeunesse-education-formation.xml` |
+| **Pros de la petite enfance** | Actualité professionnelle de la petite enfance : métiers, structures, études | `pros-petite-enfance.xml` |
+
+### Restauration
+
+| Source | Ce qu'elle couvre | Flux |
+|---|---|---|
+| **C2L Solutions** | Restauration collective : marchés, réglementation, EGalim | `c2l-restauration-collective.xml` |
+| **SNRC** | Syndicat national de la restauration collective | `snrc.xml` |
 
 ### Santé, social & séniors
 
 | Source | Ce qu'elle couvre | Flux |
 |---|---|---|
-| **CNSA** | Autonomie, handicap, grand âge : financements, appels à projets, nominations | `cnsa.xml` |
-| **Localtis — Publics fragiles** | Publics fragiles côté collectivités | `localtis-publics-fragiles.xml` |
-| **IGAS** | Rapports et actualités de l'Inspection générale des affaires sociales | `igas.xml` |
 | **ANAP** | Ressources et publications sur la performance des établissements sanitaires et médico-sociaux | `anap.xml` |
+| **CNSA** | Autonomie, handicap, grand âge : financements, appels à projets, nominations | `cnsa.xml` |
+| **IGAS** | Rapports et actualités de l'Inspection générale des affaires sociales | `igas.xml` |
+| **Localtis — Publics fragiles** | Publics fragiles côté collectivités | `localtis-publics-fragiles.xml` |
 
-### Culture, Tourisme, Restauration
+### Tourisme
 
 | Source | Ce qu'elle couvre | Flux |
 |---|---|---|
-| **Observatoire de la culture** | Politiques culturelles territoriales | `observatoire-culture.xml` |
 | **ADN Tourisme** | Fédération des organismes institutionnels de tourisme | `adn-tourisme.xml` |
-| **C2L Solutions** | Restauration collective : marchés, réglementation, EGalim | `c2l-restauration-collective.xml` |
-| **SNRC** | Syndicat national de la restauration collective | `snrc.xml` |
 
 Chaque flux s'obtient en préfixant son nom de fichier par
 `https://abonnementsgrp.github.io/veille-rss/`.
@@ -160,10 +171,10 @@ social & séniors, Culture, Tourisme, Restauration. Pour en créer un :
 1. Ouvrez le formulaire : bouton **Proposer un domaine** sur le tableau de bord,
    ou directement
    https://github.com/AbonnementsGrp/veille-rss/issues/new?template=nouveau-domaine.yml
-2. Donnez son **nom**, court et lisible. Vous pouvez indiquer après quel domaine
-   existant le placer ; à défaut il va en dernier.
-3. Un commentaire automatique montre l'ordre des domaines qui en résulterait, ou
-   explique le refus (nom déjà pris, trop long, domaine de référence inconnu).
+2. Donnez son **nom**, court et lisible. Il prendra sa place alphabétique parmi
+   les domaines existants.
+3. Un commentaire automatique montre la liste des domaines qui en résulterait, ou
+   explique le refus (nom déjà pris, trop long).
 4. Un responsable pose l'étiquette **approuvé** : le domaine est créé et apparaît
    aussitôt dans la liste proposée au moment d'ajouter une source. Il ne
    s'affiche sur le tableau de bord qu'une fois qu'une source lui est rattachée.

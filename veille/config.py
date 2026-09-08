@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import unicodedata
 from pathlib import Path
 from typing import Any
 
@@ -24,22 +25,33 @@ def theme_of(site: dict[str, Any]) -> str:
     return str(site.get("theme") or AUTRES).strip() or AUTRES
 
 
+def sort_key(texte: str) -> str:
+    """Clé de tri alphabétique insensible à la casse et aux accents.
+
+    « Éducation » se range à E, « école » à e : les accents sont décomposés
+    puis écartés, et la casse est neutralisée. Indépendant du réglage de langue
+    du système, donc identique sur un poste Windows et sur la CI Linux.
+    """
+    decompose = unicodedata.normalize("NFKD", texte)
+    return "".join(c for c in decompose if not unicodedata.combining(c)).casefold()
+
+
+def display_name(site: dict[str, Any]) -> str:
+    return str(site.get("short_name") or site["name"])
+
+
 def ordered_sites(cfg: dict[str, Any]) -> list[dict[str, Any]]:
     """Rend les sources dans l'ordre d'affichage.
 
-    Trois critères : le domaine, selon la liste `settings.themes` ; puis la clé
-    `order` de la source ; puis sa position dans le fichier. Un domaine absent
-    de la liste passe en dernier, sous « Autres ».
+    Domaines par ordre alphabétique, « Autres » en dernier ; dans chaque
+    domaine, sources par ordre alphabétique de leur nom affiché. Le tri étant
+    stable, deux sources de même nom gardent l'ordre du fichier.
     """
-    themes = [str(t) for t in ((cfg.get("settings") or {}).get("themes") or [])]
-    rang = {theme: n for n, theme in enumerate(themes)}
-    apres = len(rang)
+    def cle(site: dict[str, Any]) -> tuple[bool, str, str]:
+        theme = theme_of(site)
+        return (theme == AUTRES, sort_key(theme), sort_key(display_name(site)))
 
-    def cle(paire: tuple[int, dict[str, Any]]) -> tuple[int, float, int]:
-        index, site = paire
-        return (rang.get(theme_of(site), apres), float(site.get("order", index)), index)
-
-    return [site for _, site in sorted(enumerate(cfg["sites"]), key=cle)]
+    return sorted(cfg["sites"], key=cle)
 
 
 def load_config(path: Path | None = None) -> dict[str, Any]:

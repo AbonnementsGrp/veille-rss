@@ -12,14 +12,15 @@ settings:
   enrich_descriptions: true
   max_enrichments_per_run: 25
   user_agent: "VeilleRSS/1.0 (+https://github.com/AbonnementsGrp/veille-rss)"
-  # Ordre d'affichage des domaines sur le tableau de bord. Un domaine absent de
-  # cette liste apparaît en dernier, regroupé sous « Autres ».
+  # Domaines reconnus, proposés dans le formulaire d'ajout de source. L'ordre de
+  # cette liste est sans effet : le tableau de bord classe les domaines par ordre
+  # alphabétique, et « Autres » regroupe en dernier les sources sans domaine.
   themes:
-    - "Enfance & Éducation"
-    - "Santé, social & séniors"
     - "Culture"
-    - "Tourisme"
+    - "Enfance & Éducation"
     - "Restauration"
+    - "Santé, social & séniors"
+    - "Tourisme"
 
 sites:
   - name: "CNSA - Actualités"

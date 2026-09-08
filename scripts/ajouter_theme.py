@@ -2,12 +2,12 @@
 """Ajoute un domaine (rubrique du tableau de bord) à la veille.
 
     python scripts/ajouter_theme.py "Logement & Habitat"
-    python scripts/ajouter_theme.py "Logement & Habitat" --apres "Culture" --ecrire
+    python scripts/ajouter_theme.py "Logement & Habitat" --ecrire
 
-Sans --ecrire, affiche la liste des domaines qui en résulterait et n'écrit rien.
-Avec, écrit le domaine aux deux endroits où la liste vit : `settings.themes`
-dans config/sites.yml et la liste déroulante du formulaire de proposition de
-source. Les deux fichiers sont ensuite à committer.
+Sans --ecrire, affiche la liste alphabétique des domaines qui en résulterait et
+n'écrit rien. Avec, réécrit la liste aux deux endroits où elle vit :
+`settings.themes` dans config/sites.yml et la liste déroulante du formulaire de
+proposition de source. Les deux fichiers sont ensuite à committer.
 """
 
 from __future__ import annotations
@@ -24,17 +24,16 @@ from veille.themes import add_theme, plan_theme  # noqa: E402
 def main(argv: list[str]) -> int:
     ap = argparse.ArgumentParser(description=__doc__, formatter_class=argparse.RawDescriptionHelpFormatter)
     ap.add_argument("nom")
-    ap.add_argument("--apres", default="", help="domaine existant après lequel placer le nouveau")
     ap.add_argument("--ecrire", action="store_true")
     args = ap.parse_args(argv)
 
     try:
-        plan = plan_theme(args.nom, args.apres)
+        plan = plan_theme(args.nom)
     except ValueError as exc:
         print(f"Refusé : {exc}")
         return 1
 
-    print("Domaines après ajout :")
+    print("Domaines après ajout, par ordre alphabétique :")
     for n, theme in enumerate(plan.result, 1):
         print(f"  {n}. {theme}" + ("   <- nouveau" if theme == plan.name else ""))
     if not args.ecrire:
