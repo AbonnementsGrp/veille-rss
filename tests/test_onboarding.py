@@ -125,9 +125,11 @@ class TestInvestigate:
                         "https://exemple.fr/vide/", cfg=CFG)
         assert p.verdict == VERDICT_MANUEL
 
-    def test_signale_une_adresse_deja_suivie(self):
-        p = investigate(SiteFactice("<html></html>"), "https://www.cnsa.fr/actualites/", cfg=CFG)
+    def test_signale_une_adresse_deja_suivie(self, fixture_bytes):
+        site = SiteFactice("<html></html>", fixture_bytes("wordpress_feed.xml"), "https://www.cnsa.fr/actualites/feed/")
+        p = investigate(site, "https://www.cnsa.fr/actualites/", cfg=CFG)
         assert any("déjà suivie" in w and "CNSA" in w for w in p.warnings)
+        assert p.verdict != VERDICT_OK, "un doublon ne doit jamais être annoncé comme prêt"
 
     def test_signale_un_domaine_inconnu(self):
         p = investigate(SiteFactice("<html></html>"), "https://exemple.fr/", theme="Sport", cfg=CFG)

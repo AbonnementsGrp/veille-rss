@@ -145,14 +145,69 @@ python generate.py                                # reconstitue le flux
 
 (venv activé ; sinon préfixez par `.\.venv\Scripts\python.exe`)
 
-## Ajouter ou corriger une source
+## Ajouter une source
 
-Tout se passe dans [`config/sites.yml`](config/sites.yml). Le minimum est un nom,
-une URL de page et un fichier de sortie :
+Trois voies, de la plus simple à la plus manuelle. Les deux premières reposent sur
+la même enquête automatique (`veille/onboarding.py`) : à partir de l'adresse
+d'une page d'actualités, elle cherche le flux, extrait les articles, propose un
+nom, et rend un verdict — prête, à vérifier, ou réglage manuel — avec ses
+réserves.
+
+### Par formulaire, sans outillage (recommandé pour les demandeurs)
+
+N'importe qui avec un compte GitHub ouvre le formulaire *Proposer une nouvelle
+source* (bouton sur le tableau de bord, ou onglet *Issues* → *New issue*). Le
+workflow [nouvelle-source.yml](.github/workflows/nouvelle-source.yml) enquête et
+publie le résultat en commentaire, avec l'aperçu des articles et le bloc de
+configuration qu'il écrirait. Il pose une étiquette selon le verdict :
+`enquete-ok`, `enquete-a-verifier`, `enquete-manuel` ou `enquete-erreur`.
+
+**Rôle du responsable** : lire le commentaire, puis poser l'étiquette
+**approuvé** si la source convient. Le workflow ajoute alors le bloc à
+`config/sites.yml`, committe, ferme l'issue, et la génération repart d'elle-même
+puisque tout push sur `config/` la déclenche. Un verdict « manuel » ou une
+adresse déjà suivie sont refusés même approuvés, et l'étiquette est retirée.
+
+Deux garde-fous. Seules les personnes ayant au moins le droit *triage* sur le
+dépôt peuvent poser une étiquette : un demandeur ne peut pas approuver sa propre
+demande. Et le corps de l'issue, écrit par le demandeur, ne transite jamais par
+un shell : il passe par une variable d'environnement lue par Python.
+
+La liste des domaines du formulaire est recopiée dans
+[.github/ISSUE_TEMPLATE/nouvelle-source.yml](.github/ISSUE_TEMPLATE/nouvelle-source.yml) :
+la tenir alignée avec `settings.themes` si l'une ou l'autre change.
+
+### En ligne de commande
+
+```powershell
+python scripts/ajouter_source.py https://www.exemple.fr/actualites/
+```
+
+Sans option, le script enquête, affiche l'aperçu et le bloc proposé, et n'écrit
+rien. Dans un terminal, il demande le nom et le domaine s'ils manquent.
+
+```powershell
+python scripts/ajouter_source.py https://www.exemple.fr/actualites/ --theme "Culture" --ecrire
+python generate.py              # vérifier la ligne de la source sur le tableau de bord
+git add config/sites.yml
+git commit -m "Ajouter la source Exemple"
+git push                        # la CI régénère et publie
+```
+
+`--nom` et `--court` fixent les libellés, `--forcer` passe outre un verdict
+« manuel » ou une adresse déjà suivie, `--json` sert au traitement automatique.
+
+### À la main, dans `config/sites.yml`
+
+Nécessaire quand l'enquête rend un verdict « manuel » : site en JavaScript,
+page sans structure lisible. Le minimum est un nom, une URL et un fichier de
+sortie :
 
 ```yaml
   - name: "Localtis - Publics fragiles"
-    url: "https://www.banquedesterritoires.fr/publics-fragiles"
+    short_name: "Localtis — Publics fragiles"
+    theme: "Santé, social & séniors"
+    url: "https://www.banquedesterritoires.fr/thematiques/publics-fragiles"
     official_feed: "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml"
     output: "localtis-publics-fragiles.xml"
 ```
@@ -207,11 +262,12 @@ veille-rss/
 │   ├── extract.py           extraction HTML : JSON-LD, sélecteurs, liens
 │   ├── sitemap.py           extraction depuis un plan de site
 │   ├── enrich.py            résumé lu sur la page d'un article
+│   ├── onboarding.py        enquête sur une URL en vue d'en faire une source
 │   ├── history.py           historique des articles vus
 │   ├── output.py            écriture des flux, de l'OPML, du tableau de bord
 │   └── pipeline.py          orchestration d'une exécution
 ├── tests/                   suite pytest + fixtures hors réseau
-├── scripts/                 outils de maintenance
+├── scripts/                 ajouter_source.py, purger_source.py, issue_source.py
 ├── GUIDE-UTILISATEUR.md     documentation à destination des lecteurs
 ├── config/sites.yml         définition des sources
 ├── data/history.json        historique (committé, sert de mémoire entre les runs)

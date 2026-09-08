@@ -120,6 +120,35 @@ Les nombres d'articles évoluent à chaque collecte.
 Chaque flux s'obtient en préfixant son nom de fichier par
 `https://abonnementsgrp.github.io/veille-rss/`.
 
+## Proposer une source
+
+Vous connaissez un site qui mériterait d'être suivi ? Il suffit d'un compte GitHub,
+aucune manipulation technique.
+
+1. Ouvrez le formulaire : bouton **Proposer une source** sur le tableau de bord,
+   ou directement
+   https://github.com/AbonnementsGrp/veille-rss/issues/new?template=nouvelle-source.yml
+2. Indiquez l'**adresse de la page d'actualités** du site — la page qui liste les
+   articles, pas la page d'accueil — et choisissez le **domaine**. Le nom est
+   facultatif : il est proposé d'après le site si vous le laissez vide.
+3. Envoyez. Dans les minutes qui suivent, un commentaire automatique apparaît
+   sous votre demande avec le résultat de l'enquête :
+
+| En tête du commentaire | Ce que cela veut dire |
+|---|---|
+| ✅ Source prête à être ajoutée | Un flux ou une liste d'articles propre a été trouvée. Il ne manque que la validation. |
+| ⚠️ Exploitable, à vérifier | Des articles ont été trouvés, mais avec des réserves — dates manquantes, méthode fragile, adresse déjà suivie. Lisez l'aperçu : s'il montre des liens de menu plutôt que des articles, proposez une autre page du site. |
+| ❌ Demande un réglage manuel | La page ne se laisse pas lire automatiquement (site en JavaScript, structure inhabituelle). Un responsable devra intervenir à la main, ou une autre page peut être tentée. |
+
+   Le commentaire montre les cinq premiers articles trouvés : c'est le meilleur
+   moyen de juger si la source est la bonne.
+4. Un responsable valide en posant l'étiquette **approuvé**. La source est alors
+   ajoutée automatiquement, votre demande est fermée, et elle apparaît sur le
+   tableau de bord à la génération suivante.
+
+Pour corriger le nom ou le domaine après coup, modifiez simplement votre demande :
+l'enquête est relancée et un nouveau commentaire remplace le précédent.
+
 ## Questions fréquentes
 
 **À quelle vitesse un nouvel article apparaît-il ?**
@@ -158,9 +187,9 @@ Soixante au maximum par source, mille pour l'ensemble. Les plus anciens sortent
 au fur et à mesure.
 
 **Puis-je demander l'ajout d'une source ?**
-Oui : ouvrez une *issue* sur le [dépôt](https://github.com/AbonnementsGrp/veille-rss/issues)
-en indiquant l'adresse de la page d'actualités. Il n'est pas nécessaire qu'elle
-dispose d'un flux RSS.
+Oui, par le formulaire décrit plus haut : une adresse et un domaine suffisent, et
+le résultat de l'enquête vous est montré avant toute validation. Il n'est pas
+nécessaire que le site dispose d'un flux RSS.
 
 **Un flux ne se met plus à jour dans mon lecteur.**
 Comparez d'abord avec le tableau de bord. Si la page est à jour et votre lecteur

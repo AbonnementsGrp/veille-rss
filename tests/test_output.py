@@ -251,3 +251,12 @@ class TestIndicateurDeFraicheur:
     def test_la_page_reste_lisible_sans_javascript(self, tmp_path):
         page = self._page(tmp_path)
         assert PAYLOAD["generated_at"] in page.split("<script>")[0]
+
+
+class TestBoutonProposerUneSource:
+    def test_le_tableau_de_bord_mene_au_formulaire(self, tmp_path):
+        from veille.output import PROPOSE_SOURCE_URL
+        write_dashboard({**PAYLOAD, "sites": []}, "T", public_dir=tmp_path)
+        page = (tmp_path / "index.html").read_text(encoding="utf-8")
+        assert f'href="{PROPOSE_SOURCE_URL}">Proposer une source</a>' in page
+        assert "template=nouvelle-source.yml" in PROPOSE_SOURCE_URL

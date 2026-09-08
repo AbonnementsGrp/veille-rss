@@ -154,6 +154,9 @@ def investigate(session: Any, url: str, *, name: str = "", short_name: str = "",
 
     verdict, reserves = juger(items, method)
     warnings.extend(reserves)
+    if deja and verdict == VERDICT_OK:
+        # Un doublon n'est pas une erreur technique, mais l'approbateur doit s'arrêter dessus.
+        verdict = VERDICT_A_VERIFIER
     if theme and themes and theme not in themes:
         warnings.append(f"le domaine « {theme} » n'est pas dans la liste settings.themes : "
                         "la source apparaîtra sous « Autres »")

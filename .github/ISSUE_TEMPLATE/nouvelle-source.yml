@@ -1,0 +1,54 @@
+name: Proposer une nouvelle source
+description: Demander l'ajout d'un site à la veille. Aucune connaissance technique requise.
+title: "[Source] "
+labels: ["nouvelle-source"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Indiquez la **page d'actualités** du site (pas sa page d'accueil : la page
+        qui liste les articles). Une enquête automatique vérifie ce qui peut en
+        être extrait et publie le résultat en commentaire dans les minutes qui
+        suivent. Un responsable valide ensuite l'ajout.
+
+  - type: input
+    id: url
+    attributes:
+      label: Adresse de la page d'actualités
+      placeholder: https://www.exemple.fr/actualites/
+    validations:
+      required: true
+
+  - type: dropdown
+    id: domaine
+    attributes:
+      label: Domaine
+      description: Rubrique du tableau de bord dans laquelle classer la source.
+      options:
+        - "Enfance & Éducation"
+        - "Santé, social & séniors"
+        - "Culture"
+        - "Tourisme"
+        - "Restauration"
+    validations:
+      required: true
+
+  - type: input
+    id: nom
+    attributes:
+      label: Nom de la source
+      description: Facultatif. Proposé automatiquement d'après le site si vous le laissez vide.
+      placeholder: Caisse nationale de solidarité pour l'autonomie
+
+  - type: input
+    id: court
+    attributes:
+      label: Nom court
+      description: Facultatif. Affiché sur le tableau de bord et dans les lecteurs de flux.
+      placeholder: CNSA
+
+  - type: textarea
+    id: pourquoi
+    attributes:
+      label: Pourquoi cette source ?
+      description: Facultatif. Aide le responsable à décider.
