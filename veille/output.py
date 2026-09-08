@@ -137,7 +137,10 @@ def native_feed_url(site: dict[str, Any]) -> str:
 
 
 def native_feed_cell(site: dict[str, Any]) -> str:
-    """La cellule « Activité » : l'adresse du flux du site, en clair, avec un bouton pour la copier.
+    """La cellule « Flux » : l'adresse du flux du site, en clair, avec un bouton pour la copier.
+
+    Vocabulaire du tableau : « Flux » est le flux que le site publie lui-même,
+    « Activité » le flux que la veille produit pour cette source.
 
     L'adresse est affichée telle quelle plutôt que derrière un libellé : c'est
     elle que l'on veut copier dans un lecteur de flux, sans passer par un clic
@@ -146,7 +149,7 @@ def native_feed_cell(site: dict[str, Any]) -> str:
     """
     url = native_feed_url(site)
     if not url:
-        return '<td class="activite"><span title="Ce site ne publie pas de flux exploitable : utiliser le flux de la veille, colonne Flux.">—</span></td>'
+        return '<td class="activite"><span title="Ce site ne publie pas de flux exploitable : utiliser le flux de la veille, colonne Activité.">—</span></td>'
     echappee = html.escape(url, quote=True)
     return (f'<td class="activite"><a class="url" href="{echappee}">{echappee}</a>'
             f' <button type="button" class="copier" data-url="{echappee}" title="Copier l\'adresse">Copier</button></td>')
@@ -259,7 +262,7 @@ def write_dashboard(payload: dict[str, Any], title: str, public_dir: Path | None
 <div class="cards">{cards}</div>
 <p><a href="veille.xml"><strong>Flux global veille.xml</strong></a> · <a href="feeds.opml">Exporter tous les flux (OPML)</a> · <a href="status.json">État JSON</a> · <a href="{PROPOSE_SOURCE_URL}">Proposer une source</a> · <a href="{PROPOSE_THEME_URL}">Proposer un domaine</a></p>
 <div class="layout">{sommaire}<div class="contenu">
-<table><thead><tr><th>Source</th><th>État</th><th>Articles</th><th>Activité</th><th>Flux</th><th>Méthode / détail</th></tr></thead><tbody>{lignes}</tbody></table>
+<table><thead><tr><th>Source</th><th>État</th><th>Articles</th><th>Flux</th><th>Activité</th><th>Méthode / détail</th></tr></thead><tbody>{lignes}</tbody></table>
 </div></div>
 <script>
 // La page est statique : si la génération s'arrête, elle se fige avec sa date.

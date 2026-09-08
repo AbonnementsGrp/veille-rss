@@ -22,7 +22,7 @@ Trois façons, selon ce que vous voulez :
 |---|---|
 | Tout suivre dans un seul fil | le flux global `https://abonnementsgrp.github.io/veille-rss/veille.xml` |
 | Garder les sources séparées, classées par domaine | le fichier OPML `https://abonnementsgrp.github.io/veille-rss/feeds.opml` |
-| Une seule source | l'adresse de son flux, colonne « Flux » du tableau de bord (voir aussi la liste plus bas) |
+| Une seule source | colonne « Activité » du tableau de bord pour le flux produit par la veille ; colonne « Flux » pour le flux brut publié par le site (voir aussi la liste plus bas) |
 
 L'**OPML** est un fichier d'abonnements : votre lecteur l'importe et crée d'un
 coup les onze flux, rangés dans cinq dossiers (Culture, Enfance & Éducation,
@@ -71,8 +71,8 @@ passe au-dessus du tableau.
 | **Source** | Le nom court. Survolez-le pour voir le nom complet. |
 | **État** | `OK` si la source a répondu, `ERREUR` sinon. |
 | **Articles** | Nombre d'articles publiés dans le flux de cette source. |
-| **Activité** | L'adresse du flux RSS que le site publie lui-même, en clair, avec un bouton **Copier**. Un tiret signifie que le site n'en publie pas d'exploitable : la veille l'a lu sur sa page, utilisez alors la colonne Flux. |
-| **Flux** | Lien vers le flux RSS produit par la veille pour cette source : articles dédoublonnés, résumés complétés, historique conservé. |
+| **Flux** | L'adresse du flux RSS que le site publie lui-même, en clair, avec un bouton **Copier**. Un tiret signifie que le site n'en publie pas d'exploitable : la veille l'a lu sur sa page, utilisez alors la colonne Activité. |
+| **Activité** | Lien vers le flux RSS produit par la veille pour cette source : articles dédoublonnés, résumés complétés, historique conservé. |
 | **Méthode / détail** | Comment les articles ont été obtenus, et le message d'erreur le cas échéant. |
 
 Sous le titre, la date de dernière génération est suivie de son ancienneté

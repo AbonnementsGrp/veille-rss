@@ -338,10 +338,10 @@ class TestColonneActivite:
         return (tmp_path / "index.html").read_text(encoding="utf-8")
 
     def test_l_ordre_des_colonnes(self, tmp_path):
-        """Activité avant Flux ; Méthode / détail, souvent long, en dernier."""
+        """« Flux » = adresse publiée par le site ; « Activité » = flux de la veille ; le détail en dernier."""
         page = self._page(tmp_path, source_status("A", "A", "Culture", "a.xml"))
-        assert ("<th>Source</th><th>État</th><th>Articles</th><th>Activité</th>"
-                "<th>Flux</th><th>Méthode / détail</th>") in page
+        assert ("<th>Source</th><th>État</th><th>Articles</th><th>Flux</th>"
+                "<th>Activité</th><th>Méthode / détail</th>") in page
 
     def test_les_cellules_suivent_l_ordre_des_en_tetes(self, tmp_path):
         site = {**source_status("L", "L", "Culture", "l.xml"), "source_feed": self.LOCALTIS}
