@@ -1,4 +1,14 @@
 {
+  "9e1d3a2c3a9d0d1228f5a496f1211e0f900b40125e8d07b5c0e4af100679f55a": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "ARPEDA : l’UNSA ProAssmat demande à la ministre le retrait ou la révision profonde du dispositif",
+    "link": "https://www.lesprosdelapetiteenfance.fr/arpeda-face-aux-inquietudes-lunsa-pro-assmat-demande-a-la-ministre-le-retrait-ou-la-revision-profonde-du-dispositif/",
+    "description": "Dans un courrier adressé à Stéphanie Rist, ministre des Familles, ce 8 septembre, l’UNSA Pro Assmat & AssFam demande de reconsidérer les dispositions relatives à ARPEDA (Accompagnement renforcé des parents employeurs pour leurs démarches administratives ), mission expérimentée dans plusieurs RPE à partir de ce mois de septembre.",
+    "published": "2026-09-08T10:41:34+00:00",
+    "first_seen": "2026-09-08T11:22:14.497715+00:00",
+    "uid": "9e1d3a2c3a9d0d1228f5a496f1211e0f900b40125e8d07b5c0e4af100679f55a",
+    "description_checked": true
+  },
   "204001e8c5a325dca25e0ce3b8bfdfdb855f93aebcc82feb55a83c8317c194ca": {
     "source": "Les Pros de la Petite Enfance",
     "title": "ARPEDA : face aux inquiétudes, l’UNSA Pro Assmat demande à la ministre le retrait ou la révision profonde du dispositif",
@@ -1028,243 +1038,291 @@
   },
   "8ed25860ebe53675ee5377b07e529a0f7b4683174baf893357e050ced26d0d24": {
     "source": "ANAP - Actualités",
-    "title": "Trophees logistique durable sante gagnants",
+    "title": "Trophées nationaux de la logistique durable en santé : découvrez les lauréats !",
     "link": "https://www.anap.fr/s/article/trophees-logistique-durable-sante-gagnants",
-    "description": "",
+    "description": "À l'occasion des 38ᵉ Journées d'études et de formation de l'ARTLH à Bordeaux, l'Anap et l'ARTLH ont dévoilé les lauréats de la première édition des Trophées nationaux de la logistique durable en santé . Une édition qui a mobilisé 22 établissements candidats.",
     "published": "2026-07-23T09:11:04+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "8ed25860ebe53675ee5377b07e529a0f7b4683174baf893357e050ced26d0d24",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "d5b3600304871c8a6ce12b3cbda667097aa3595adf3230bd5bf3e9d4b37b7af5": {
     "source": "ANAP - Actualités",
-    "title": "Soins eco responsables une mobilisation massive et de nouvelles ressources",
+    "title": "Soins éco‑responsables : une mobilisation massive et de nouvelles ressources",
     "link": "https://www.anap.fr/s/article/soins-eco-responsables-une-mobilisation-massive-et-de-nouvelles-ressources",
-    "description": "",
+    "description": "Les soins éco-responsables sont le premier levier de décarbonation du secteur de la santé : pour accélérer cette transition, l'Anap publie de nouvelles ressources et a organisé un évènement dédié.",
     "published": "2026-07-23T09:10:13+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "d5b3600304871c8a6ce12b3cbda667097aa3595adf3230bd5bf3e9d4b37b7af5",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "db9f7e17a9a770c41b55b1d738eee69fda8614a9817ab4090495fdc234997da1": {
     "source": "ANAP - Actualités",
-    "title": "Masterclass bfr etablissements sanitaires optimiser tresorerie",
+    "title": "Masterclass Besoin en Fonds de Roulement pour les établissements sanitaires",
     "link": "https://www.anap.fr/s/article/masterclass-bfr-etablissements-sanitaires-optimiser-tresorerie",
-    "description": "",
+    "description": "Face aux tensions de trésorerie, l’optimisation du Besoin en Fonds de Roulement (BFR) est un levier essentiel de performance financière. Gestion des échéances, pilotage des stocks, définition et suivi d’indicateurs financiers... Découvrez les techniques qui permettent de sécuriser le BFR.",
     "published": "2026-07-22T13:00:35+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "db9f7e17a9a770c41b55b1d738eee69fda8614a9817ab4090495fdc234997da1",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446": {
     "source": "ANAP - Actualités",
-    "title": "Performance sans frontiere voyages etudes",
+    "title": "Performance sans frontière : les voyages d’études de l’Anap",
     "link": "https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes",
-    "description": "",
+    "description": "Espagne, Hollande, Belgique, Allemagne… Embarquez pour des séjours immersifs au sein des établissements européens les plus performants ! Échangez, inspirez-vous des systèmes de soins étrangers, découvrez les solutions de demain, explorez les enjeux de la performance sous un nouvel angle.",
     "published": "2026-07-22T09:34:01+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c": {
     "source": "ANAP - Actualités",
-    "title": "Webinaire urgences mieux orienter s appuyer sur le territoire",
+    "title": "Webinaire Urgences : mieux orienter, s’appuyer sur le territoire",
     "link": "https://www.anap.fr/s/article/webinaire-urgences-mieux-orienter-s-appuyer-sur-le-territoire",
-    "description": "",
+    "description": "À l’occasion de la publication de son guide, l’Anap propose une série de webinaires consacrés à la réorientation depuis les services d’urgences. Ces rendez-vous ont pour objectif d’accompagner la mise en place d’une dynamique territoriale, afin d’améliorer l’orientation des patients et la coordination entre les différents acteurs.",
     "published": "2026-07-21T15:03:35+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "fe0016a515ac7d228e22b0cdff7e031334fb22d4717587e4a919ea72ec5a4322": {
     "source": "ANAP - Actualités",
-    "title": "Numerique publication 1580",
+    "title": "Télémédecine : retour d'expérience sur la permanence des soins en imagerie",
     "link": "https://www.anap.fr/s/article/numerique-publication-1580",
-    "description": "",
+    "description": "La radiologie est une discipline qui, ne nécessitant pas la présence du patient pour la réalisation de l'acte d'interprétation, se prête bien à la télémédecine. Cette publication capitalise sur l'expérience des trois projets pilotes du plan national de télémédecine.",
     "published": "2026-07-21T07:01:52+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "fe0016a515ac7d228e22b0cdff7e031334fb22d4717587e4a919ea72ec5a4322",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "3bdc5d960b1a9c893f96f17ac7adec1aa579033d25236ac35194b196d548d621": {
     "source": "ANAP - Actualités",
-    "title": "Numerique publication 1711",
+    "title": "Télémédecine : analyse de 25 projets",
     "link": "https://www.anap.fr/s/article/numerique-publication-1711",
-    "description": "",
+    "description": "Destiné aux porteurs de projet télémédecine et aux ARS, ce document a pour ambition de les aider à consolider des organisations de télémédecine existantes ou à mettre en place de nouveaux projets, au travers du retour d'expérience et de la capitalisation réalisés à partir de 25 projets matures.",
     "published": "2026-07-21T06:17:20+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "3bdc5d960b1a9c893f96f17ac7adec1aa579033d25236ac35194b196d548d621",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "84257007f5c7c7dfbc6675180aa2de4f22833b4e59fd1e7cca1f7e81283e2ff0": {
     "source": "ANAP - Actualités",
-    "title": "Numerique publication 1709",
+    "title": "Télémédecine : retour d'expérience sur la prise en charge des personnes détenues",
     "link": "https://www.anap.fr/s/article/numerique-publication-1709",
-    "description": "",
+    "description": "Pour répondre aux besoins de prise en charge des personnes détenues, certaines unités sanitaires se sont équipées en vue d'une activité de télé-expertise ou de téléconsultation en lien avec un établissement de rattachement ou des services experts référents d'autres établissements de santé. Capitalisant sur l'expéri...",
     "published": "2026-07-21T06:16:52+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "84257007f5c7c7dfbc6675180aa2de4f22833b4e59fd1e7cca1f7e81283e2ff0",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "55d061f9951d91849432f3beb9198b43e2d9ed7a9d4a21ff0ce8210f4a8a2b1b": {
     "source": "ANAP - Actualités",
-    "title": "Numerique publication 1702",
+    "title": "Télémédecine : prise en charge de l'AVC au niveau régional",
     "link": "https://www.anap.fr/s/article/numerique-publication-1702",
-    "description": "",
+    "description": "S'appuyant sur des retours d'expérience de régions pilotes, l'Anap propose une démarche pour aider les régions à définir leur propre organisation au regard de modèles types et d'un macro-processus socle. Un ensemble de fiches pratiques est proposé pour accompagner la mise en œuvre sur différents thèmes.",
     "published": "2026-07-21T06:16:03+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "55d061f9951d91849432f3beb9198b43e2d9ed7a9d4a21ff0ce8210f4a8a2b1b",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "9188a55931f0ced618c18ff38be3e613a6f83145a8112eb83702d49b8df11c89": {
     "source": "ANAP - Actualités",
-    "title": "Numerique publication 1716",
+    "title": "Télémédecine : présentation de 25 projets",
     "link": "https://www.anap.fr/s/article/numerique-publication-1716",
-    "description": "",
+    "description": "Destiné aux porteurs de projet télémédecine et aux Agences régionales de santé, ce document a pour ambition de les aider à consolider des organisations de télémédecine existantes ou à mettre en place de nouveaux projets, au travers du retour d'expérience et de la capitalisation réalisés à partir de 25 projets mature...",
     "published": "2026-07-21T06:15:32+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "9188a55931f0ced618c18ff38be3e613a6f83145a8112eb83702d49b8df11c89",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "c06727d19676fc0f381f5121a9d26c4ae79c1e8859d7ef4d6151dc9bc8822410": {
     "source": "ANAP - Actualités",
-    "title": "Numerique publication 1700",
+    "title": "Télémédecine : construire un projet",
     "link": "https://www.anap.fr/s/article/numerique-publication-1700",
-    "description": "",
+    "description": "A travers cette publication, l'Anap a cherché à définir une démarche centrée sur la définition d'un projet médical et un processus de prise en charge qui soient adaptés à toutes les situations afin de répondre aux besoins des porteurs de projets de télémédecine, quelle que soit la pathologie ou la population dont i...",
     "published": "2026-07-21T06:15:01+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "c06727d19676fc0f381f5121a9d26c4ae79c1e8859d7ef4d6151dc9bc8822410",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "9afcd7a22a1f3012ba33b4e588fd5764aa3062cc60554af466a01c2542d15c49": {
     "source": "ANAP - Actualités",
-    "title": "Education therapeutique du patient a distance",
+    "title": "TéléETP : éducation thérapeutique du patient à distance",
     "link": "https://www.anap.fr/s/article/education-therapeutique-du-patient-a-distance",
-    "description": "",
+    "description": "Comment mieux inscrire l'ETP dans les parcours grâce aux nouvelles modalités d'échanges avec les patients ? Planification, suivi régulier, réactivité… Cette publication fait le point sur l'éducation thérapeutique à distance (télé-ETP).",
     "published": "2026-07-21T06:14:24+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "9afcd7a22a1f3012ba33b4e588fd5764aa3062cc60554af466a01c2542d15c49",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "4894be7e86e210d7c569d7d8b61f5fb4fb465ff7043f5fc9917597ab55e72b55": {
     "source": "ANAP - Actualités",
-    "title": "Appui terrain innovation management collaboratifs",
+    "title": "Appui terrain \"Innovation et management collaboratifs\": engagez vos équipes, accélérez vos projets !",
     "link": "https://www.anap.fr/s/article/appui-terrain-innovation-management-collaboratifs",
-    "description": "",
+    "description": "Vous souhaitez renforcer l’attractivité de votre structure et l’engagement de vos équipes ? Vous êtes prêt à impulser de nouvelles dynamiques collaboratives ? L’Anap vous accompagne à travers un appui terrain consacré à l’innovation et au management collaboratifs.",
     "published": "2026-07-21T06:13:54+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "4894be7e86e210d7c569d7d8b61f5fb4fb465ff7043f5fc9917597ab55e72b55",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "d82f188670ce9276f5da644c46e4c03c98ea17e902c78c9965296405fe77c978": {
     "source": "ANAP - Actualités",
-    "title": "Guide innovation collaborative",
+    "title": "Innovation collaborative : oubliez les post-its, appréciez le résultat !",
     "link": "https://www.anap.fr/s/article/guide-innovation-collaborative",
-    "description": "",
+    "description": "Coordination territoriale des urgences, attractivité et fidélisation des professionnels, gouvernance de la transition écologique… Sur le terrain, l’Anap constate que l’innovation collaborative est déterminante pour débloquer les situations complexes, restaurer la coopération et remobiliser les équipes. Découvrez le nouveau guide dédié à l’innovation collaborative, accompagné de six retours d’expériences éprouvés.",
     "published": "2026-07-21T06:12:35+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "d82f188670ce9276f5da644c46e4c03c98ea17e902c78c9965296405fe77c978",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "c6f0f3ebce0a8f51b71715c2ee86057b991c6dc641343415a281beae81624071": {
     "source": "ANAP - Actualités",
-    "title": "Devenir un etablissement a impact",
+    "title": "Devenir un établissement à impact : approche et cas concrets",
     "link": "https://www.anap.fr/s/article/devenir-un-etablissement-a-impact",
-    "description": "",
+    "description": "Vous souhaitez faire de votre établissement un acteur du développement social local ? Réalisé en collaboration avec l’association FP21, ce guide vous donne des outils pratiques, des conseils et des exemples inspirants pour concrétiser vos projets d’innovation sociale.",
     "published": "2026-07-21T06:12:06+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "c6f0f3ebce0a8f51b71715c2ee86057b991c6dc641343415a281beae81624071",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "77dda2d59e428d7cbb11c11b60fe43e5642d35c84f9a4ce490421528b5f10fed": {
     "source": "ANAP - Actualités",
-    "title": "Boite a outil innovation collaborative",
+    "title": "Boîte à outils Innovation collaborative",
     "link": "https://www.anap.fr/s/article/boite-a-outil-innovation-collaborative",
-    "description": "",
+    "description": "La boîte à outils \"innovation collaborative\" propose des outils pratiques pour mobiliser les démarches de design et d'innovation au service de vos projets. Conçue pour être utilisée tout au long d’une démarche collaborative, vous y trouverez une méthodologie, des conseils et des canevas prêts à l’emploi.",
     "published": "2026-07-21T06:11:32+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "77dda2d59e428d7cbb11c11b60fe43e5642d35c84f9a4ce490421528b5f10fed",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "dd7e05b3360fee05cce68354a5db228a02a19e2b50935eda582662dc1e1c8d02": {
     "source": "ANAP - Actualités",
-    "title": "Parcours publication 2765",
+    "title": "Article 51 EDS, IPEP et PEPS : premiers mois de mise en oeuvre des 3 expérimentations",
     "link": "https://www.anap.fr/s/article/parcours-publication-2765",
-    "description": "",
+    "description": "Cette publication tire les premiers enseignements de la mise en œuvre des trois expérimentations nationales EDS, IPEP et PEPS, un an après leur lancement, et propose une synthèse des points clés de leur démarrage.",
     "published": "2026-07-21T06:11:01+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "dd7e05b3360fee05cce68354a5db228a02a19e2b50935eda582662dc1e1c8d02",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "53c8b21ae6c2cb8862683124acda47a99dad0571014cdac79a84d00f9b124eb8": {
     "source": "ANAP - Actualités",
-    "title": "Pensees prospectives 5",
+    "title": "Pensées Prospectives #5 - Informatique quantique et santé",
     "link": "https://www.anap.fr/s/article/pensees-prospectives-5",
-    "description": "",
+    "description": "\"Pensées prospectives\" explore une thématique prospective, issue de différentes disciplines, en lien avec les enjeux d’un ou plusieurs pôles de l’Anap. Avec cet article, explorez l'informatique quantique et la santé.",
     "published": "2026-07-21T06:10:33+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "53c8b21ae6c2cb8862683124acda47a99dad0571014cdac79a84d00f9b124eb8",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "453aa84c83ca5947c8784478b8832b9fcb473f4f232dd47787f1e31dd18e56fd": {
     "source": "ANAP - Actualités",
-    "title": "Faites décoller votre démarche Innovation",
+    "title": "Réussir sa démarche d'innovation",
     "link": "https://www.anap.fr/s/article/Faites-d%C3%A9coller-votre-d%C3%A9marche-Innovation",
-    "description": "",
+    "description": "Créer, développer et mettre en œuvre des idées novatrices, voilà l’enjeu d’une démarche d’innovation. Au-delà de la recherche, la valorisation de solutions améliorées repose sur un processus de direction et de soutien opérationnel indispensable pour passer de la découverte à une amélioration concrète. L’innovation doit faire l’objet d’une stratégie globale favorisant son développement grâce à des structures organisationnelles adéquates, une culture de l’innovation partagée, mais aussi une collab",
     "published": "2026-07-21T06:09:55+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "453aa84c83ca5947c8784478b8832b9fcb473f4f232dd47787f1e31dd18e56fd",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "3378053b1f0c599c04e598e9faac3ee7a70634670d3eefc9002e78a2a1c925d7": {
     "source": "ANAP - Actualités",
-    "title": "Pensees prospectives",
+    "title": "Pensées Prospectives #4 - Le diagnostic à la carte",
     "link": "https://www.anap.fr/s/article/pensees-prospectives",
-    "description": "",
+    "description": "\"Pensées prospectives\" explore une thématique prospective, issue de différentes disciplines, en lien avec les enjeux d’un ou plusieurs pôles de l’Anap. Aujourd'hui, la thématique s'intitule \"Le diagnostic à la carte\".",
     "published": "2026-07-21T06:09:16+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "3378053b1f0c599c04e598e9faac3ee7a70634670d3eefc9002e78a2a1c925d7",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "80a10d823dca58768d98953ce95abab3013761648067da84d99766f105ed4c66": {
     "source": "ANAP - Actualités",
-    "title": "Santexpo 2026 la performance commence avec vos idées",
+    "title": "Santexpo 2026 : la performance commence avec vos idées !",
     "link": "https://www.anap.fr/s/article/Santexpo-2026-la-performance-commence-avec-vos-id%C3%A9es",
-    "description": "",
+    "description": "Du 19 au 21 mai, l’Anap vous donne rendez-vous sur son stand L22 à Santexpo : découvrez nos ressources, échangez avec nos experts et prenez part à « Perf’en Santé », un espace de débats organisé en partenariat avec le Think Tank CRAPS pour décrypter et faire avancer la performance du système de santé.",
     "published": "2026-07-21T06:08:38+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "80a10d823dca58768d98953ce95abab3013761648067da84d99766f105ed4c66",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "bbe6a06769f5789e08680f3a5bd96f3ae85b64c4111307b24778448f955d237b": {
     "source": "ANAP - Actualités",
-    "title": "Webconference transformer blocages en solutions puissance innovation collaborative",
+    "title": "Webconférence – Transformer les blocages en solutions : la puissance de l'innovation collaborative",
     "link": "https://www.anap.fr/s/article/webconference-transformer-blocages-en-solutions-puissance-innovation-collaborative",
-    "description": "",
+    "description": "Coordination territoriale des urgences, gouvernance, attractivité ... Le 11 mars, découvrez comment l’innovation collaborative est une méthode gagnante pour lever des blocages dans les établissements et sur les territoires.",
     "published": "2026-07-21T06:08:07+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "bbe6a06769f5789e08680f3a5bd96f3ae85b64c4111307b24778448f955d237b",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "b47342080e5bc0224f334ffdc69b33f995f20207cf32b42e5ecb4197317097e7": {
     "source": "ANAP - Actualités",
-    "title": "Webconference intelligence collective management collaboratif ils s en servent lancez vous",
+    "title": "Webconférence Intelligence collective, management collaboratif : ils s’en servent, lancez-vous !",
     "link": "https://www.anap.fr/s/article/webconference-intelligence-collective-management-collaboratif-ils-s-en-servent-lancez-vous",
-    "description": "",
+    "description": "Le 21 juin 2022, nous avons donné la parole à ceux qui encouragent la créativité et l’engagement des équipes à travers de nouvelles dynamiques collaboratives et managériales. Retour sur des projets d’innovation collaborative en établissement.",
     "published": "2026-07-21T06:07:32+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "b47342080e5bc0224f334ffdc69b33f995f20207cf32b42e5ecb4197317097e7",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "7f7ef8ed98b456c1787fb9c252c21f08a80b7ff6b6e82d7408ddff574af7d5cd": {
     "source": "ANAP - Actualités",
-    "title": "Webconference et si vous deveniez un etablissement a impact",
+    "title": "Webconférence \"Et si vous deveniez un établissement à impact ?\"",
     "link": "https://www.anap.fr/s/article/webconference-et-si-vous-deveniez-un-etablissement-a-impact",
-    "description": "",
+    "description": "Vous êtes décideur en établissement de santé ou médico-social ? Faites de votre établissement un acteur à impact du développement territorial. Le 19 octobre 2023, experts de l’innovation sociale, établissements pionniers et entreprises de l’économie sociale et solidaire ont partagé leurs clés opérationnelles.",
     "published": "2026-07-21T06:07:01+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "7f7ef8ed98b456c1787fb9c252c21f08a80b7ff6b6e82d7408ddff574af7d5cd",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "d80aea2a7b138e69c242f1c282b7808d963f486aa643111c3de42516b308ed59": {
     "source": "ANAP - Actualités",
