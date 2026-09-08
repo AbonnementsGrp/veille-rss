@@ -80,10 +80,16 @@ class TestMain:
         assert "aucun domaine" in (tmp_path / "commentaire.md").read_text(encoding="utf-8")
 
     def test_enquete_sur_un_domaine_reel_sans_rien_ecrire(self, tmp_path, monkeypatch):
+        # Les domaines réels changent par formulaire : le test prend le premier
+        # domaine de la configuration courante qui a au moins une source.
+        from veille.config import display_name, load_config, theme_of
+        from veille.themes import current_themes
+        themes = current_themes()
+        site = next(s for s in load_config()["sites"] if theme_of(s) in themes)
         monkeypatch.chdir(tmp_path)
-        monkeypatch.setenv("ISSUE_BODY", CORPS)
+        monkeypatch.setenv("ISSUE_BODY", f"### Domaine à supprimer\n\n{theme_of(site).lower()}\n")
         assert issue_supprimer_domaine.main(["enquete"]) == 0
         assert (tmp_path / "verdict.txt").read_text(encoding="utf-8") == "ok"
         commentaire = (tmp_path / "commentaire.md").read_text(encoding="utf-8")
-        assert "**Domaine reconnu** : Tourisme" in commentaire
-        assert "ADN Tourisme" in commentaire
+        assert f"**Domaine reconnu** : {theme_of(site)}" in commentaire
+        assert display_name(site) in commentaire

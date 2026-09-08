@@ -1,6 +1,10 @@
 name: Générer et publier les flux RSS
 
 on:
+  # Lancement manuel depuis l'onglet Actions, et relance par les workflows
+  # d'issue une fois une demande appliquée : leurs commits sont faits avec le
+  # jeton automatique, et GitHub ne déclenche aucun workflow sur un tel push.
+  # Le filtre `paths` ci-dessous ne vaut donc que pour les pushs d'une personne.
   workflow_dispatch:
   schedule:
     - cron: "17 */3 * * *"

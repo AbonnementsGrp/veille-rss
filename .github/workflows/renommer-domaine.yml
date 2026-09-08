@@ -12,6 +12,7 @@ on:
 permissions:
   contents: write
   issues: write
+  actions: write   # relancer la génération une fois la demande appliquée
 
 concurrency:
   group: renommer-domaine-${{ github.event.issue.number }}

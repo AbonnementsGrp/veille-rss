@@ -238,9 +238,9 @@ récapitulatif en commentaire.
    refermer la liste. Sur téléphone, les étiquettes sont dans le menu « … » de
    l'issue.
 4. En une à deux minutes, l'automate applique la demande, ajoute un commentaire
-   de confirmation (« Domaine ajouté », « Source supprimée »…) et **ferme
-   l'issue**. Le tableau de bord suit à la génération suivante, au plus tard
-   trois heures après.
+   de confirmation (« Domaine ajouté », « Source supprimée »…), **ferme
+   l'issue** et relance la génération : le tableau de bord et les flux suivent
+   dans les minutes qui viennent.
 
 Pour **refuser** une demande, ne posez pas l'étiquette : fermez simplement
 l'issue (bouton *Close issue* sous les commentaires). Pour la corriger, modifiez

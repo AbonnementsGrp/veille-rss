@@ -211,9 +211,10 @@ champ, pas à son étiquette.
 **approuvé** si la source convient (page de l'issue, colonne de droite, rouage
 *Labels* ; il faut être collaborateur du dépôt — marche à suivre détaillée dans
 le [guide](GUIDE-UTILISATEUR.md#valider-une-demande-responsables)). Le workflow ajoute alors le bloc à
-`config/sites.yml`, committe, ferme l'issue, et la génération repart d'elle-même
-puisque tout push sur `config/` la déclenche. Un verdict « manuel » ou une
-adresse déjà suivie sont refusés même approuvés, et l'étiquette est retirée.
+`config/sites.yml`, committe, ferme l'issue et relance la génération — il doit
+le faire explicitement : un push fait par un workflow ne déclenche rien de
+lui-même (voir les points de vigilance). Un verdict « manuel » ou une adresse
+déjà suivie sont refusés même approuvés, et l'étiquette est retirée.
 
 Deux garde-fous. Seules les personnes ayant au moins le droit *triage* sur le
 dépôt peuvent poser une étiquette : un demandeur ne peut pas approuver sa propre
@@ -461,6 +462,19 @@ si une source le demande.
 - **Le navigateur sans tête ne sert qu'aux sources qui le demandent**
   (`render: true`) et n'est lancé qu'à leur première page. Le reste passe par la
   session HTTP : plus rapide, et sans dépendance à Chromium en local.
+- **Un push fait par un workflow ne déclenche aucun workflow.** GitHub ignore,
+  pour éviter les boucles, les événements produits avec le jeton automatique :
+  les commits des workflows d'issue (source ajoutée, domaine renommé…) ne
+  relancent pas la génération par le filtre `paths`, et ses propres commits
+  d'historique ne la relancent pas non plus. Les workflows d'issue appellent
+  donc explicitement `gh workflow run generate-rss.yml` après avoir poussé
+  (permission `actions: write`). Constaté le 8 septembre 2026 : un domaine
+  renommé par issue est resté invisible jusqu'au passage planifié suivant.
+- **Les workflows d'issue rejouent la demande plutôt que de rebaser un patch.**
+  Deux approbations à la même minute réécrivent les mêmes lignes ; l'action
+  commune `.github/actions/appliquer-demande` repart de l'état courant de `main`,
+  relance le script, pousse, et recommence si le dépôt a bougé. Elle commente
+  l'issue quoi qu'il arrive.
 
 ## Sources suivies
 

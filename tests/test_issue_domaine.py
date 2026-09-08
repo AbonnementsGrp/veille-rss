@@ -58,8 +58,12 @@ class TestMain:
         assert "vide" in (tmp_path / "commentaire.md").read_text(encoding="utf-8")
 
     def test_refuse_un_doublon_des_domaines_reels(self, tmp_path, monkeypatch):
+        # Les domaines réels changent par formulaire : le doublon est pris dans la
+        # configuration courante plutôt que figé dans le test.
+        from veille.themes import current_themes
+        existant = current_themes()[0]
         monkeypatch.chdir(tmp_path)
-        monkeypatch.setenv("ISSUE_BODY", "### Nom du domaine\n\nCulture\n")
+        monkeypatch.setenv("ISSUE_BODY", f"### Nom du domaine\n\n{existant}\n")
         assert issue_domaine.main(["enquete"]) == 1
         assert "existe déjà" in (tmp_path / "commentaire.md").read_text(encoding="utf-8")
 

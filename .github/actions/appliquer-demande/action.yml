@@ -90,6 +90,15 @@ runs:
 
         case "$etat" in
           ok)
+            # Un push fait avec le jeton du workflow ne déclenche aucun autre
+            # workflow (règle GitHub contre les boucles) : la génération est
+            # relancée explicitement, sinon le tableau de bord ne bougerait
+            # qu'au prochain passage planifié, jusqu'à trois heures plus tard.
+            if gh workflow run generate-rss.yml --ref main; then
+              printf '\n%s\n' "La génération a été relancée : le tableau de bord et les flux suivent dans les minutes qui viennent." >> commentaire.md
+            else
+              printf '\n%s\n' "La génération n'a pas pu être relancée automatiquement : elle passera au plus tard dans trois heures, ou lancez-la depuis l'onglet Actions (« Générer et publier les flux RSS » → Run workflow)." >> commentaire.md
+            fi
             gh issue comment "$NUMERO" --body-file commentaire.md
             gh issue close "$NUMERO" --reason completed
             ;;
