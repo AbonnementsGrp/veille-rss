@@ -1,8 +1,12 @@
 # Veille RSS
 
 Application de veille qui centralise des sources d'actualité, qu'elles disposent
-ou non d'un flux RSS. Elle produit un flux par source, un flux consolidé, et un
-tableau de bord d'état publiés sur GitHub Pages.
+ou non d'un flux RSS — y compris des sites rendus en JavaScript, lus par un
+navigateur sans tête. Elle produit un flux par source, un flux consolidé, et un
+tableau de bord d'état publiés sur GitHub Pages ; elle complète les résumés
+manquants sur la page des articles, conserve l'historique de chaque source, et
+signale celles qui se dégradent en silence. Les sources, les domaines et leurs
+libellés se gèrent par formulaires d'issue, sans outillage.
 
 - **Tableau de bord** : https://abonnementsgrp.github.io/veille-rss/
 - **Flux global** : https://abonnementsgrp.github.io/veille-rss/veille.xml
@@ -140,11 +144,16 @@ jour `data/history.json`, et affiche un bilan :
 INFO | CNSA - Actualités : 28 article(s) via flux officiel
 WARNING | C2L Solutions : …/feed/ ne sert pas un flux (contenu text/html). Repli sur la page d'actualités.
 INFO | C2L Solutions : 10 article(s) via repli : html_selectors
-INFO | Bilan : 11 source(s), 11 OK, 0 erreur(s), 287 article(s)
+WARNING | SNRC : à surveiller, rien de neuf depuis 203 jours (seuil : 60)
+INFO | ANAP - Actualités : 60 article(s) via plan de site
+INFO | Navigateur sans tête : 24 page(s) rendue(s)
+INFO | Bilan : 11 source(s), 11 OK, 0 erreur(s), 306 article(s)
 ```
 
 Ouvrez `public/index.html` dans un navigateur pour voir le résultat tel qu'il sera
-publié. Une source en erreur n'interrompt jamais les autres.
+publié. Une source en erreur n'interrompt jamais les autres. Une exécution qui
+enrichit des résumés ou des titres (25 pages au plus, budget partagé entre les
+sources) prend une à deux minutes de plus ; les suivantes n'y reviennent pas.
 
 Pour annuler une génération locale sans conséquence :
 
@@ -155,8 +164,11 @@ git restore data/history.json public/
 ### Les tests
 
 Ils n'accèdent pas au réseau : ils s'appuient sur les jeux de données de
-`tests/fixtures/`. La CI les exécute avant toute génération, afin qu'une
-régression ne soit jamais publiée.
+`tests/fixtures/`, et Playwright y est remplacé par des objets factices. Un seul
+test rend une vraie page dans Chromium, pour prouver que le shadow DOM est bien
+traversé ; il est ignoré sur un poste sans navigateur et joué en CI. La CI
+exécute la suite avant toute génération, afin qu'une régression ne soit jamais
+publiée.
 
 ## Purger l'historique d'une source
 
@@ -178,15 +190,18 @@ Trois voies, de la plus simple à la plus manuelle. Les deux premières reposent
 la même enquête automatique (`veille/onboarding.py`) : à partir de l'adresse
 d'une page d'actualités, elle cherche le flux, extrait les articles, propose un
 nom, et rend un verdict — prête, à vérifier, ou réglage manuel — avec ses
-réserves.
+réserves. Quand la page ne livre aucun article à la session HTTP, elle la rend
+dans le navigateur sans tête ; si des articles apparaissent alors, le bloc
+proposé porte `render: true` et le verdict est « à vérifier ».
 
 ### Par formulaire, sans outillage (recommandé pour les demandeurs)
 
 N'importe qui avec un compte GitHub ouvre le formulaire *Proposer une nouvelle
 source* (bouton sur le tableau de bord, ou onglet *Issues* → *New issue*). Le
-workflow [nouvelle-source.yml](.github/workflows/nouvelle-source.yml) enquête et
-publie le résultat en commentaire, avec l'aperçu des articles et le bloc de
-configuration qu'il écrirait. Il pose une étiquette selon le verdict :
+workflow [nouvelle-source.yml](.github/workflows/nouvelle-source.yml) enquête
+(navigateur sans tête compris, installé le temps de l'exécution) et publie le
+résultat en commentaire, avec l'aperçu des articles et le bloc de configuration
+qu'il écrirait. Il pose une étiquette selon le verdict :
 `enquete-ok`, `enquete-a-verifier`, `enquete-manuel` ou `enquete-erreur`. Les
 étiquettes, dont `approuvé`, sont créées par le workflow lui-même au premier
 passage : rien à préparer dans le dépôt. Le formulaire est reconnu à son premier
@@ -288,9 +303,10 @@ git push                        # la CI régénère et publie
 
 ### À la main, dans `config/sites.yml`
 
-Nécessaire quand l'enquête rend un verdict « manuel » : site en JavaScript,
-page sans structure lisible. Le minimum est un nom, une URL et un fichier de
-sortie :
+Nécessaire quand l'enquête rend un verdict « manuel » : page sans structure
+lisible, ou site en JavaScript dont même la page rendue ne montre pas de liste
+d'articles (l'ANAP, lue par son plan de site, est dans ce cas). Le minimum est un
+nom, une URL et un fichier de sortie :
 
 ```yaml
   - name: "Localtis - Publics fragiles"
@@ -336,8 +352,10 @@ Marche à suivre recommandée :
 Les réglages globaux sont dans la section `settings` du même fichier : nombre
 d'articles par flux, taille de l'historique, délai réseau, user-agent, liste des
 domaines reconnus (`themes` — son ordre est sans effet, l'affichage est
-alphabétique), et enrichissement des résumés manquants (`enrich_descriptions`,
-`max_enrichments_per_run`).
+alphabétique), enrichissement des résumés et titres manquants
+(`enrich_descriptions`, `max_enrichments_per_run` : budget de pages par
+exécution, partagé entre les sources dans l'ordre du tableau de bord), et
+surveillance (`stale_after_days` : jours de silence avant « à surveiller »).
 
 ## Architecture
 
@@ -413,6 +431,16 @@ si une source le demande.
   config/certs/x.pem`) et vérifier qu'il remonte bien à une racine connue
   (`openssl verify -CAfile "$(python -c 'import certifi;print(certifi.where())')"
   config/certs/x.pem`). Un certificat qui ne remonte à rien ne doit pas entrer.
+- **L'identité d'un article est fixée à sa création** (`Item.uid`, aussi guid
+  des flux publiés) : un titre corrigé ensuite — lu sur la page quand le plan de
+  site n'en donnait qu'une ébauche — ne crée ni une nouvelle fiche d'historique,
+  ni une nouveauté chez les lecteurs. L'historique note `title_enriched` pour
+  que l'ébauche, qui revient à chaque exécution, n'écrase pas le titre lu ; et
+  `description_checked` / `title_checked` pour ne visiter chaque page qu'une
+  fois par besoin.
+- **Le navigateur sans tête ne sert qu'aux sources qui le demandent**
+  (`render: true`) et n'est lancé qu'à leur première page. Le reste passe par la
+  session HTTP : plus rapide, et sans dépendance à Chromium en local.
 
 ## Sources suivies
 

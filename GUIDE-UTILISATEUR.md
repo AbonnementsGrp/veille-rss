@@ -159,8 +159,8 @@ aucune manipulation technique.
 | En tête du commentaire | Ce que cela veut dire |
 |---|---|
 | ✅ Source prête à être ajoutée | Un flux ou une liste d'articles propre a été trouvée. Il ne manque que la validation. |
-| ⚠️ Exploitable, à vérifier | Des articles ont été trouvés, mais avec des réserves — dates manquantes, méthode fragile, adresse déjà suivie. Lisez l'aperçu : s'il montre des liens de menu plutôt que des articles, proposez une autre page du site. |
-| ❌ Demande un réglage manuel | La page ne se laisse pas lire automatiquement (site en JavaScript, structure inhabituelle). Un responsable devra intervenir à la main, ou une autre page peut être tentée. |
+| ⚠️ Exploitable, à vérifier | Des articles ont été trouvés, mais avec des réserves — dates manquantes, méthode fragile, adresse déjà suivie, ou page en JavaScript qu'il a fallu ouvrir dans un navigateur pour voir les articles. Lisez l'aperçu : s'il montre des liens de menu plutôt que des articles, proposez une autre page du site. |
+| ❌ Demande un réglage manuel | La page ne se laisse pas lire automatiquement, même ouverte dans un navigateur (structure inhabituelle, liste d'articles absente). Un responsable devra intervenir à la main, ou une autre page peut être tentée. |
 
    Le commentaire montre les cinq premiers articles trouvés : c'est le meilleur
    moyen de juger si la source est la bonne.
