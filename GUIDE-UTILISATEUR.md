@@ -221,6 +221,36 @@ lisez ce récapitulatif avant de valider. Après validation, la source disparaî
 tableau de bord et de l'OPML à la génération suivante ; les lecteurs abonnés à
 son flux ne recevront plus rien.
 
+## Valider une demande (responsables)
+
+Toutes les demandes — source, domaine, renommage, suppression — s'appliquent de
+la même façon : un responsable pose l'étiquette **approuvé** sur l'issue. Rien
+ne se passe tant qu'elle n'est pas posée ; l'automate se contente d'écrire son
+récapitulatif en commentaire.
+
+1. Ouvrez l'issue (le mail de notification contient le lien, sinon onglet
+   *Issues* du dépôt https://github.com/AbonnementsGrp/veille-rss/issues).
+2. Lisez le dernier commentaire automatique : c'est exactement ce qui sera fait.
+3. Dans la colonne de droite, cliquez sur le rouage à côté de **Labels**, cochez
+   **approuvé** (tapez `appr` pour la trouver), puis cliquez n'importe où pour
+   refermer la liste. Sur téléphone, les étiquettes sont dans le menu « … » de
+   l'issue.
+4. En une à deux minutes, l'automate applique la demande, ajoute un commentaire
+   de confirmation (« Domaine ajouté », « Source supprimée »…) et **ferme
+   l'issue**. Le tableau de bord suit à la génération suivante, au plus tard
+   trois heures après.
+
+Pour **refuser** une demande, ne posez pas l'étiquette : fermez simplement
+l'issue (bouton *Close issue* sous les commentaires). Pour la corriger, modifiez
+le formulaire du premier message : la vérification est relancée. Si l'automate
+n'a pas pu appliquer une demande approuvée, il le dit en commentaire et retire
+lui-même l'étiquette.
+
+Il faut être **collaborateur du dépôt** pour poser une étiquette : si le rouage
+n'apparaît pas à côté de *Labels*, votre compte n'a pas ce droit. Le compte
+propriétaire du dépôt (AbonnementsGrp) l'a ; il peut donner ce droit à un autre
+compte dans *Settings* → *Collaborators* du dépôt (le rôle *Triage* suffit).
+
 ## Questions fréquentes
 
 **À quelle vitesse un nouvel article apparaît-il ?**

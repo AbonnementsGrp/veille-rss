@@ -208,7 +208,9 @@ passage : rien à préparer dans le dépôt. Le formulaire est reconnu à son pr
 champ, pas à son étiquette.
 
 **Rôle du responsable** : lire le commentaire, puis poser l'étiquette
-**approuvé** si la source convient. Le workflow ajoute alors le bloc à
+**approuvé** si la source convient (page de l'issue, colonne de droite, rouage
+*Labels* ; il faut être collaborateur du dépôt — marche à suivre détaillée dans
+le [guide](GUIDE-UTILISATEUR.md#valider-une-demande-responsables)). Le workflow ajoute alors le bloc à
 `config/sites.yml`, committe, ferme l'issue, et la génération repart d'elle-même
 puisque tout push sur `config/` la déclenche. Un verdict « manuel » ou une
 adresse déjà suivie sont refusés même approuvés, et l'étiquette est retirée.
