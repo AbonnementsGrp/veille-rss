@@ -312,3 +312,30 @@ class TestRecordInHistoryEtResumes:
         history[item.uid]["description"] = RESUME
         record_in_history([Item("S", "Un titre", "https://exemple.fr/a")], history)
         assert history[item.uid]["description"] == RESUME
+
+
+class TestFluxFiltreParCategorie:
+    """Un flux filtré peut ne rien avoir de neuf : ce n'est pas un échec."""
+
+    def _site(self, categories):
+        return {"name": "C2L", "url": "https://exemple.fr/category/actus/",
+                "official_feed": "https://exemple.fr/feed/?post_type=post", "feed_categories": categories}
+
+    def test_transmet_le_filtre_au_flux(self):
+        from tests.test_feeds import FLUX_CATEGORISE
+        session = StubSession(FLUX_CATEGORISE)
+        items, method = fetch_items(session, self._site(["La restauration collective"]), "https://exemple.fr/feed/?post_type=post", 10, 60)
+        assert method == "flux officiel"
+        assert [i.link for i in items] == ["https://exemple.fr/b", "https://exemple.fr/c"]
+
+    def test_un_filtre_sans_resultat_ne_declenche_pas_de_repli(self):
+        from tests.test_feeds import FLUX_CATEGORISE
+        session = StubSession(FLUX_CATEGORISE)
+        items, method = fetch_items(session, self._site(["Inexistante"]), "https://exemple.fr/feed/?post_type=post", 10, 60)
+        assert items == [] and method == "flux officiel"
+        assert session.urls == ["https://exemple.fr/feed/?post_type=post"], "la page ne doit pas être visitée"
+
+    def test_l_identite_transporte_le_filtre_vers_status_json(self):
+        from veille.pipeline import identity
+        assert identity(self._site(["La restauration collective"]))["feed_categories"] == ["La restauration collective"]
+        assert identity({"name": "S", "url": "https://s.fr/"})["feed_categories"] == []

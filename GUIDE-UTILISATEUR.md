@@ -71,7 +71,7 @@ passe au-dessus du tableau.
 | **Source** | Le nom court. Survolez-le pour voir le nom complet. |
 | **État** | `OK` si la source a répondu, `ERREUR` sinon. |
 | **Articles** | Nombre d'articles publiés dans le flux de cette source. |
-| **Flux** | L'adresse du flux RSS que le site publie lui-même, en clair, avec un bouton **Copier**. Un tiret signifie que le site n'en publie pas d'exploitable : la veille l'a lu sur sa page, utilisez alors la colonne Activité. |
+| **Flux** | L'adresse du flux RSS que le site publie lui-même, en clair, avec un bouton **Copier**. « pas de flux publié » signifie que le site n'en publie pas d'exploitable : la veille l'a lu sur sa page ou son plan de site, utilisez alors la colonne Activité. La mention « filtré : … » indique que la veille ne garde de ce flux qu'une catégorie ; un abonnement direct à l'adresse recevrait tout le site. |
 | **Activité** | Lien vers le flux RSS produit par la veille pour cette source : articles dédoublonnés, résumés complétés, historique conservé. |
 | **Méthode / détail** | Comment les articles ont été obtenus. En cas d'erreur, un résumé en quelques mots ; cliquez dessus pour lire le message technique complet. |
 

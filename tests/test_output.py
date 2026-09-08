@@ -372,12 +372,22 @@ class TestColonneActivite:
                 "source_feed": "https://www.c2lsolutions.fr/category/actus/feed/"}
         page = self._page(tmp_path, site)
         assert "c2lsolutions.fr/category/actus/feed/" not in page
-        assert '<td class="activite"><span title="Ce site ne publie pas de flux exploitable' in page
+        assert 'class="absent">pas de flux publié</span>' in page
 
-    def test_tiret_pour_une_source_lue_sur_sa_page(self, tmp_path):
+    def test_mention_lisible_pour_une_source_lue_sur_sa_page(self, tmp_path):
         site = {**source_status("SNRC", "SNRC", "Restauration", "snrc.xml"), "method": "html_selectors",
                 "source_feed": ""}
-        assert '<td class="activite"><span title=' in self._page(tmp_path, site)
+        page = self._page(tmp_path, site)
+        assert "pas de flux publié" in page
+        assert "colonne Activité" in page, "l'infobulle renvoie vers le flux de la veille"
+
+    def test_signale_un_flux_general_filtre_sur_une_categorie(self, tmp_path):
+        site = {**source_status("C2L", "C2L", "Restauration", "c2l.xml"),
+                "source_feed": "https://c2lsolutions.fr/feed/?post_type=post",
+                "feed_categories": ["La restauration collective"]}
+        page = self._page(tmp_path, site)
+        assert "https://c2lsolutions.fr/feed/?post_type=post</a>" in page
+        assert 'class="filtre"' in page and "filtré : La restauration collective" in page
 
     def test_les_intertitres_enjambent_toutes_les_colonnes(self, tmp_path):
         page = self._page(tmp_path, source_status("A", "A", "Culture", "a.xml"))

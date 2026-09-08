@@ -28,13 +28,14 @@ from veille.output import write_dashboard, write_feed, write_opml
 log = logging.getLogger(__name__)
 
 
-def identity(site: dict[str, Any]) -> dict[str, str]:
+def identity(site: dict[str, Any]) -> dict[str, Any]:
     """Champs d'identité d'une source, repris tels quels dans status.json."""
     return {
         "site": site["name"],
         "short_name": str(site.get("short_name") or site["name"]),
         "theme": theme_of(site),
         "url": site["url"],
+        "feed_categories": [str(c) for c in (site.get("feed_categories") or [])],
     }
 
 
@@ -63,19 +64,21 @@ def resolve_feed_url(session: Any, site: dict[str, Any], timeout: int) -> str:
     return discover_feed(session, site["url"], timeout) or ""
 
 
-def read_feed(session: Any, url: str, source: str, timeout: int, max_items: int) -> list[Item]:
+def read_feed(session: Any, url: str, source: str, timeout: int, max_items: int,
+              categories: list[str] | None = None) -> list[Item]:
     """Lit un flux à une URL donnée, en refusant ce qui n'en est pas un.
 
     Un `/feed/` WordPress désactivé renvoie la page HTML de la rubrique avec un
     code 200 : sans ce contrôle, l'erreur remontée parle de XML mal formé au
-    lieu de dire que l'URL ne sert pas un flux.
+    lieu de dire que l'URL ne sert pas un flux. `categories` restreint aux
+    articles étiquetés d'une des catégories données.
     """
     response = session.get(url, timeout=timeout, allow_redirects=True)
     response.raise_for_status()
     if not is_feed_content(response):
         type_recu = response.headers.get("content-type", "inconnu").split(";")[0]
         raise RuntimeError(f"{url} ne sert pas un flux (contenu {type_recu})")
-    return parse_feed_bytes(response.content, source, max_items)
+    return parse_feed_bytes(response.content, source, max_items, categories)
 
 
 def fetch_items(session: Any, site: dict[str, Any], feed_url: str, timeout: int, max_items: int) -> tuple[list[Item], str]:
@@ -96,9 +99,12 @@ def fetch_items(session: Any, site: dict[str, Any], feed_url: str, timeout: int,
 
     echec_flux = ""
     if feed_url:
+        categories = [str(c) for c in (site.get("feed_categories") or [])]
         try:
-            items = read_feed(session, feed_url, site["name"], timeout, max_items)
-            if items:
+            items = read_feed(session, feed_url, site["name"], timeout, max_items, categories)
+            # Un flux filtré par catégorie peut légitimement ne rien avoir de neuf :
+            # ce n'est pas un échec, l'historique de la source reste publié.
+            if items or categories:
                 return items, "flux officiel" if site.get("official_feed") else "flux détecté"
             echec_flux = "flux sans article exploitable"
         except Exception as exc:

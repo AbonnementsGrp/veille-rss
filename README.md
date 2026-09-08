@@ -282,6 +282,7 @@ sortie :
 | `theme` | Domaine de regroupement. À déclarer dans `settings.themes` pour qu'il soit proposé dans le formulaire ; sans domaine, la source va sous « Autres », en dernier. |
 | `url` | Page d'actualités, utilisée pour la découverte de flux et le scraping. |
 | `official_feed` | Flux RSS/Atom connu. À ne renseigner qu'après l'avoir testé. |
+| `feed_categories` | Ne garder du flux que les articles étiquetés d'une de ces catégories. Pour un site WordPress dont les flux de rubrique sont désactivés mais dont le flux général (`/feed/?post_type=post`) étiquette ses articles. |
 | `output` | Nom du fichier XML produit. Déduit du `name` si absent. |
 | `mode` | `page` interdit la découverte de flux : la page devient la seule source, utile quand le flux racine du site n'a rien à voir avec la rubrique suivie. `sitemap` lit le plan de site, seul recours pour un site rendu en JavaScript. |
 | `sitemap` | URL du plan de site à lire, obligatoire avec `mode: sitemap`. |

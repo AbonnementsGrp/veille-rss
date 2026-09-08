@@ -49,6 +49,8 @@ DASHBOARD_STYLE = (
     "button.copier{margin-left:6px;font-size:11px;padding:2px 8px;border:1px solid #cbd5e1;border-radius:6px;"
     "background:#fff;color:#334155;cursor:pointer;vertical-align:middle}"
     "button.copier:hover{background:#f1f5f9}"
+    "td.activite .absent{color:#6b7280;font-style:italic}"
+    "td.activite .filtre{display:block;color:#6b7280;font-size:11px;margin-top:2px}"
     "@media(max-width:900px){.layout{grid-template-columns:1fr}nav.domaines{position:static}"
     "nav.domaines ul{display:flex;flex-wrap:wrap;gap:6px 16px}}"
     ".cards{display:flex;gap:14px;flex-wrap:wrap;margin:20px 0}"
@@ -156,10 +158,19 @@ def native_feed_cell(site: dict[str, Any]) -> str:
     """
     url = native_feed_url(site)
     if not url:
-        return '<td class="activite"><span title="Ce site ne publie pas de flux exploitable : utiliser le flux de la veille, colonne Activité.">—</span></td>'
+        return ('<td class="activite"><span title="Ce site ne publie pas de flux exploitable : la veille lit '
+                'sa page ou son plan de site. Utiliser le flux de la veille, colonne Activité." class="absent">'
+                'pas de flux publié</span></td>')
     echappee = html.escape(url, quote=True)
+    categories = [str(c) for c in (site.get("feed_categories") or [])]
+    # Un flux général dont la veille ne garde qu'une rubrique : le dire, car qui
+    # s'abonne directement à cette adresse recevra tout le site.
+    filtre = (f' <span class="filtre" title="La veille ne garde de ce flux que la catégorie indiquée ; '
+              f'un abonnement direct reçoit tout le site.">filtré : {html.escape(", ".join(categories))}</span>'
+              if categories else "")
     return (f'<td class="activite"><a class="url" href="{echappee}">{echappee}</a>'
-            f' <button type="button" class="copier" data-url="{echappee}" title="Copier l\'adresse">Copier</button></td>')
+            f' <button type="button" class="copier" data-url="{echappee}" title="Copier l\'adresse">Copier</button>'
+            f'{filtre}</td>')
 
 
 # Résumés lisibles des erreurs les plus courantes, du plus spécifique au plus

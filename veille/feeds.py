@@ -2,11 +2,14 @@
 
 from __future__ import annotations
 
+from typing import Any, Iterable
+from urllib.parse import urljoin, urlparse
+
 import feedparser
 import requests
 from bs4 import BeautifulSoup
-from urllib.parse import urljoin, urlparse
 
+from veille.config import sort_key
 from veille.dates import normalize_date
 from veille.fetch import is_feed_content
 from veille.models import Item, dedupe
@@ -16,12 +19,35 @@ from veille.text import clean_summary, clean_text
 FEED_PATH_CANDIDATES = ("/feed/", "/rss.xml", "/feed.xml", "/atom.xml", "/index.xml")
 
 
-def parse_feed_bytes(content: bytes, source: str, max_items: int) -> list[Item]:
+def entry_categories(entry: Any) -> list[str]:
+    """Les catégories qu'un flux attache à un article (`<category>` en RSS, `<term>` en Atom)."""
+    return [str(t.get("term") or "") for t in (entry.get("tags") or []) if t.get("term")]
+
+
+def matches_categories(entry: Any, categories: Iterable[str]) -> bool:
+    """Dit si l'article porte au moins une des catégories voulues, sans égard à la casse ni aux accents."""
+    voulues = {sort_key(c) for c in categories}
+    return any(sort_key(c) in voulues for c in entry_categories(entry))
+
+
+def parse_feed_bytes(content: bytes, source: str, max_items: int,
+                     categories: Iterable[str] | None = None) -> list[Item]:
+    """Lit un flux et rend ses articles, éventuellement restreints à certaines catégories.
+
+    Le filtre sert aux sites WordPress dont les flux de rubrique sont désactivés
+    mais dont le flux général étiquette chaque article : on lit le flux général
+    et on ne garde que la rubrique suivie.
+    """
     parsed = feedparser.parse(content)
     if getattr(parsed, "bozo", False) and not parsed.entries:
         raise RuntimeError(f"Flux RSS invalide : {getattr(parsed, 'bozo_exception', 'erreur inconnue')}")
+    voulues = [c for c in (categories or []) if str(c).strip()]
     items: list[Item] = []
-    for entry in parsed.entries[:max_items]:
+    for entry in parsed.entries:
+        if len(items) >= max_items:
+            break
+        if voulues and not matches_categories(entry, voulues):
+            continue
         title = clean_text(entry.get("title"))
         link = str(entry.get("link") or "").strip()
         if not title or not link:

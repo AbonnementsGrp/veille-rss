@@ -143,3 +143,39 @@ class TestDedupeParTitre:
         garde = dedupe(items)
         assert len(garde) == 1
         assert "index" not in garde[0].link
+
+
+FLUX_CATEGORISE = b"""<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0"><channel><title>Blog</title><link>https://exemple.fr/</link><description>d</description>
+<item><title>Motifs d'exclusion d'un appel d'offres</title><link>https://exemple.fr/a</link>
+<pubDate>Mon, 10 Aug 2026 10:22:02 +0000</pubDate><category>La commande publique</category></item>
+<item><title>Plan de correction EGalim restauration collective</title><link>https://exemple.fr/b</link>
+<pubDate>Thu, 25 Jun 2026 08:00:00 +0000</pubDate><category>La commande publique</category>
+<category>La restauration collective</category></item>
+<item><title>CCTP restauration : fr\xc3\xa9quences de contr\xc3\xb4le</title><link>https://exemple.fr/c</link>
+<pubDate>Sun, 10 May 2026 08:00:00 +0000</pubDate><category>La restauration collective</category></item>
+</channel></rss>"""
+
+
+class TestFiltreParCategorie:
+    """Cas C2L : les flux de rubrique sont désactivés, le flux général étiquette ses articles."""
+
+    def test_ne_garde_que_les_articles_de_la_categorie(self):
+        items = parse_feed_bytes(FLUX_CATEGORISE, "C2L", 60, ["La restauration collective"])
+        assert [i.link for i in items] == ["https://exemple.fr/b", "https://exemple.fr/c"]
+
+    def test_ignore_casse_et_accents_de_la_categorie(self):
+        items = parse_feed_bytes(FLUX_CATEGORISE, "C2L", 60, ["la RESTAURATION collective"])
+        assert len(items) == 2
+
+    def test_sans_filtre_tout_passe(self):
+        assert len(parse_feed_bytes(FLUX_CATEGORISE, "C2L", 60)) == 3
+        assert len(parse_feed_bytes(FLUX_CATEGORISE, "C2L", 60, [])) == 3
+
+    def test_le_filtre_s_applique_avant_la_limite(self):
+        """Limiter à un article ne doit pas retenir le premier du flux s'il est hors catégorie."""
+        items = parse_feed_bytes(FLUX_CATEGORISE, "C2L", 1, ["La restauration collective"])
+        assert [i.link for i in items] == ["https://exemple.fr/b"]
+
+    def test_une_categorie_absente_ne_garde_rien(self):
+        assert parse_feed_bytes(FLUX_CATEGORISE, "C2L", 60, ["Inexistante"]) == []

@@ -87,17 +87,23 @@ sites:
     short_name: "C2L Solutions"
     theme: "Restauration"
     url: "https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/"
-    official_feed: "https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/feed/"
+    # Les flux de rubrique sont désactivés sur ce site (Yoast les redirige vers
+    # les pages). Seul le flux général du blog répond ; ses articles étant
+    # étiquetés de leur catégorie, la veille n'en garde que la rubrique suivie.
+    official_feed: "https://c2lsolutions.fr/feed/?post_type=post"
+    feed_categories: ["La restauration collective"]
     output: "c2l-restauration-collective.xml"
 
   - name: "SNRC"
     short_name: "SNRC"
     theme: "Restauration"
     url: "https://www.snrc.fr/le-snrc/actualites-snrc/"
+    # Les actualités sont un type de contenu à part : le flux racine du site ne
+    # contient que deux billets sans rapport, mais WordPress expose un flux
+    # dédié à ce type. Les sélecteurs restent en repli si ce flux venait à
+    # disparaître.
+    official_feed: "https://www.snrc.fr/feed/?post_type=actualites"
     output: "snrc.xml"
-    # Le flux racine du site ne contient que deux billets sans rapport, dont
-    # l'article de démonstration de WordPress : la page est la seule source.
-    mode: "page"
     selectors:
       item: [".list-default-art"]
       title: ["h2 a"]
