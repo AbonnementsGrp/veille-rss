@@ -1,75 +1,109 @@
 {
+  "204001e8c5a325dca25e0ce3b8bfdfdb855f93aebcc82feb55a83c8317c194ca": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "ARPEDA : face aux inquiétudes, l’UNSA Pro Assmat demande à la ministre le retrait ou la révision profonde du dispositif",
+    "link": "https://www.lesprosdelapetiteenfance.fr/arpeda-face-aux-inquietudes-lunsa-pro-assmat-demande-a-la-ministre-le-retrait-ou-la-revision-profonde-du-dispositif/",
+    "description": "Dans un courrier adressé à Stéphanie Rist, ministre des Familles, ce 8 septembre, l’UNSA Pro Assmat & AssFam demande de reconsidérer les dispositions relatives à ARPEDA (Accompagnement renforcé des parents...",
+    "published": "2026-09-08T10:41:34+00:00",
+    "first_seen": "2026-09-08T10:54:04.776123+00:00",
+    "uid": "204001e8c5a325dca25e0ce3b8bfdfdb855f93aebcc82feb55a83c8317c194ca",
+    "description_checked": true
+  },
   "13da771f423c60183e46b179e539ec52b0d767b64907498803da5844b198b81f": {
     "source": "ANAP - Actualités",
-    "title": "Referentiel national bloc operatoire eco responsable",
+    "title": "Premier référentiel national pour un bloc éco-responsable",
     "link": "https://www.anap.fr/s/article/referentiel-national-bloc-operatoire-eco-responsable",
-    "description": "",
+    "description": "Gaz anesthésiants, consommation énergétique, déchets médicaux… Les blocs opératoires représentent des espaces à fort impact environnemental. Pour accompagner les établissements de santé dans leur transition écologique, l'Anap et le Collectif EcoResponsabilité En Santé (CERES) ont développé le premier Référentiel national pour un bloc opératoire éco-responsable.",
     "published": "2026-09-07T16:14:19+00:00",
     "first_seen": "2026-09-08T10:30:05.382727+00:00",
-    "uid": "13da771f423c60183e46b179e539ec52b0d767b64907498803da5844b198b81f"
+    "uid": "13da771f423c60183e46b179e539ec52b0d767b64907498803da5844b198b81f",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "c7cc6cb077dd7a2ab774d54a8b09c382f8f2f923d5d04c9361d0d1923d3c0488": {
     "source": "ANAP - Actualités",
-    "title": "Webinaires RH Gestion du temps de travail",
+    "title": "Webinaire RH \"Gestion du temps de travail\"",
     "link": "https://www.anap.fr/s/article/webinaires-RH-Gestion-du-temps-de-travail",
-    "description": "",
+    "description": "Comment organiser la présence des équipes et sécuriser vos plannings ? Notre webinaire vous aide à prendre en main nos 2 outils complémentaires : maquette organisationnelle pour calculer l'effectif nécessaire à votre activité, et cycle de travail pour répartir vos effectifs.",
     "published": "2026-09-07T14:33:12+00:00",
     "first_seen": "2026-09-08T10:30:05.382727+00:00",
-    "uid": "c7cc6cb077dd7a2ab774d54a8b09c382f8f2f923d5d04c9361d0d1923d3c0488"
+    "uid": "c7cc6cb077dd7a2ab774d54a8b09c382f8f2f923d5d04c9361d0d1923d3c0488",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "3dd0eb62f66fc8876767160b92d21fa43f70df89d90d60210866c2715698f323": {
     "source": "ANAP - Actualités",
-    "title": "Reorienter depuis les urgences vers la bonne filiere de soin",
+    "title": "Réorienter depuis les urgences : vers la bonne filière de soin",
     "link": "https://www.anap.fr/s/article/Reorienter-depuis-les-urgences-vers-la-bonne-filiere-de-soin",
-    "description": "",
+    "description": "La réorientation depuis les urgences consiste à orienter un patient dont l’état ne relève pas de la médecine d’urgence vers le professionnel le plus adapté. Elle permet de préserver la capacité du service d’urgences à prendre en charge les patients dans les situations plus graves et/ou urgentes.",
     "published": "2026-09-07T07:47:10+00:00",
     "first_seen": "2026-09-08T10:30:05.382727+00:00",
-    "uid": "3dd0eb62f66fc8876767160b92d21fa43f70df89d90d60210866c2715698f323"
+    "uid": "3dd0eb62f66fc8876767160b92d21fa43f70df89d90d60210866c2715698f323",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "9e487995a3b4bcee22754ac5809bb54638c3b8223642f2a397da7ea9dca7c1da": {
     "source": "ANAP - Actualités",
-    "title": "Webconférence Admission J0 moins de nuitees plus de fluidite",
+    "title": "Webconférence – Admission J0 : moins de nuitées, plus de fluidité",
     "link": "https://www.anap.fr/s/article/Webconf%C3%A9rence-Admission-J0-moins-de-nuitees-plus-de-fluidite",
-    "description": "",
+    "description": "L’admission le jour même de l'intervention chirurgicale, ou admission J0, est bénéfique pour le patient, l’établissement et les professionnels. Elle peut être mise en place grâce à une organisation adaptée. Comment réussir sa mise en place ? Comment évaluer son potentiel ? Comment embarquer les équipes ?",
     "published": "2026-09-03T12:13:43+00:00",
     "first_seen": "2026-09-08T10:30:05.382727+00:00",
-    "uid": "9e487995a3b4bcee22754ac5809bb54638c3b8223642f2a397da7ea9dca7c1da"
+    "uid": "9e487995a3b4bcee22754ac5809bb54638c3b8223642f2a397da7ea9dca7c1da",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "eb5317d0d16ae114cb567c758de876bdcfaea676812c39059af23a2a03e7e5dc": {
     "source": "ANAP - Actualités",
-    "title": "Laboratoire d innovation un essentiel pour transformer nos etablissements",
+    "title": "Laboratoire d’innovation : Un cadre et une méthode pour la transformation de votre établissement",
     "link": "https://www.anap.fr/s/article/Laboratoire-d-innovation-un-essentiel-pour-transformer-nos-etablissements",
-    "description": "",
+    "description": "Le laboratoire d’innovation est un outil stratégique au service de la transformation des établissements de santé, à condition d’être clairement positionné et soutenu institutionnellement. Ce guide propose des repères opérationnels pour comprendre le rôle d’un lab d’innovation, définir sa raison d’être, organiser son portage politique, sa gouvernance et ses moyens, et faire des choix réalistes. Il s’adresse aux établissements souhaitant structurer une démarche d’innovation adaptée à leurs priorit",
     "published": "2026-09-01T13:29:03+00:00",
     "first_seen": "2026-09-08T10:30:05.382727+00:00",
-    "uid": "eb5317d0d16ae114cb567c758de876bdcfaea676812c39059af23a2a03e7e5dc"
+    "uid": "eb5317d0d16ae114cb567c758de876bdcfaea676812c39059af23a2a03e7e5dc",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "0e9af53db0a8e266f0e92c16546f7be55ed02ce91d48896b7dfdf285327ac223": {
     "source": "ANAP - Actualités",
-    "title": "Webinaire Développement durable et Certification HAS les outils de l Anap pour vous aider",
+    "title": "Webinaire : Développement durable et Certification HAS : les outils de l’Anap pour vous aider",
     "link": "https://www.anap.fr/s/article/Webinaire-D%C3%A9veloppement-durable-et-Certification-HAS-les-outils-de-l-Anap-pour-vous-aider",
-    "description": "",
+    "description": "Le manuel de certification HAS des établissements sanitaires intègre de nombreux critères et éléments liés au développement durable. Préparez-vous à ces critères grâce aux outils de l’Anap !",
     "published": "2026-09-01T12:04:34+00:00",
     "first_seen": "2026-09-08T10:30:05.382727+00:00",
-    "uid": "0e9af53db0a8e266f0e92c16546f7be55ed02ce91d48896b7dfdf285327ac223"
+    "uid": "0e9af53db0a8e266f0e92c16546f7be55ed02ce91d48896b7dfdf285327ac223",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "4635f81c4de9cb90d6b54a7d2833e731db05a2a5ee28bbe2bd34ccd32efd6c28": {
     "source": "ANAP - Actualités",
     "title": "Mon empreinte carbone",
     "link": "https://www.anap.fr/s/article/mon-empreinte-carbone",
-    "description": "",
+    "description": "Mon Empreinte Carbone est un outil de datavisualisation qui permet d'estimer les émissions de CO² du secteur public de la santé à trois échelles différentes : nationale, régionale, structure juridique (FINESS) des établissements sanitaires et médico-sociaux.",
     "published": "2026-09-01T08:21:04+00:00",
     "first_seen": "2026-09-08T10:30:05.382727+00:00",
-    "uid": "4635f81c4de9cb90d6b54a7d2833e731db05a2a5ee28bbe2bd34ccd32efd6c28"
+    "uid": "4635f81c4de9cb90d6b54a7d2833e731db05a2a5ee28bbe2bd34ccd32efd6c28",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "13c4949541e0ea4771e5d838c068488ae9e9920fd031c6dde6d247fbc54b48fc": {
     "source": "ANAP - Actualités",
-    "title": "Webinaire evaluez votre empreinte carbone avec l anap",
+    "title": "Webinaire \"Évaluez votre empreinte carbone avec l’Anap\"",
     "link": "https://www.anap.fr/s/article/webinaire-evaluez-votre-empreinte-carbone-avec-l-anap",
-    "description": "",
+    "description": "L’outil \"Mon Empreinte Carbone\" permet de visualiser, en deux clics, une estimation de vos émissions de CO2. Pour vous accompagner dans la prise en main opérationnelle de cet outil pour les établissements publics et en faire un levier de décarbonation opérationnelle, inscrivez-vous à notre série de webinaires.",
     "published": "2026-08-31T15:32:48+00:00",
     "first_seen": "2026-09-08T10:30:05.382727+00:00",
-    "uid": "13c4949541e0ea4771e5d838c068488ae9e9920fd031c6dde6d247fbc54b48fc"
+    "uid": "13c4949541e0ea4771e5d838c068488ae9e9920fd031c6dde6d247fbc54b48fc",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "433844efa299b4e9fcde5927434bb52515b1b471675310f71fe51c8142eef302": {
     "source": "SNRC",
@@ -814,153 +848,183 @@
   },
   "d2bbfdea71df81e23b957331862a5a924a693e4357463c704ec76b3d96fa2ae1": {
     "source": "ANAP - Actualités",
-    "title": "Journée nationale de la transformation du handicap",
+    "title": "Journée nationale de la transfo - Handicap : des intentions à l'action !",
     "link": "https://www.anap.fr/s/article/Journ%C3%A9e-nationale-de-la-transformation-du-handicap",
-    "description": "",
+    "description": "La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.",
     "published": "2026-08-21T15:54:46+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "d2bbfdea71df81e23b957331862a5a924a693e4357463c704ec76b3d96fa2ae1",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "908c16c5be426d9b20d0ae002a139d2ac41adcf2b25d206afe9d610eb0521b3f": {
     "source": "ANAP - Actualités",
-    "title": "Webinaire rdv transfo",
+    "title": "Webinaire - Les Rendez-Vous de la Transfo",
     "link": "https://www.anap.fr/s/article/webinaire-rdv-transfo",
-    "description": "",
+    "description": "Transformer l'offre médico-sociale, ça ne se fait pas seul. L'Anap lance « Les Rendez-Vous de la Transfo », une communauté de pratiques ouverte à tous les ESMS. L'objectif ? Faire vivre les outils de l'Anap, partager ce qui fonctionne sur le terrain et enrichir collectivement les outils.",
     "published": "2026-08-21T13:41:33+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "908c16c5be426d9b20d0ae002a139d2ac41adcf2b25d206afe9d610eb0521b3f",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "c7d2a58c41d711efc159ea28fbed0a940c13ae44c8aecd916c965754f76e4e58": {
     "source": "ANAP - Actualités",
-    "title": "Handicap offre services coordonnes transformation",
+    "title": "Handicap : l'Anap outille la transformation vers une offre de services coordonnés",
     "link": "https://www.anap.fr/s/article/handicap-offre-services-coordonnes-transformation",
-    "description": "",
+    "description": "En collaboration avec la Ministre déléguée chargée de l’Autonomie et des Personnes handicapées, le Secrétariat Général du Comité Interministériel du Handicap, la DGCS et la CNSA, l’Anap publie un guide et une boite à outils opérationnelle pour accompagner la transformation médico-sociale dans le champ du handicap.",
     "published": "2026-08-21T10:18:29+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "c7d2a58c41d711efc159ea28fbed0a940c13ae44c8aecd916c965754f76e4e58",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245": {
     "source": "ANAP - Actualités",
-    "title": "Les rendez vous juridiques de la transition ecologique",
+    "title": "Les Rendez-Vous juridiques de la Transition écologique",
     "link": "https://www.anap.fr/s/article/les-rendez-vous-juridiques-de-la-transition-ecologique",
-    "description": "",
+    "description": "Actualités règlementaires, bonnes pratiques, conseils d’experts : face aux enjeux de la transition écologique, l’Anap vous propose une série de webinaires dédiés.",
     "published": "2026-08-19T10:10:09+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "671d7f5a63909a335bc2ae3efc406e796707c71fdaba7339361bfc62ce509067": {
     "source": "ANAP - Actualités",
-    "title": "Cybersecurite en etablissement de sante plan attaque contre les attaques",
+    "title": "La cybersécurité en établissement de santé : plan d’attaque contre les attaques",
     "link": "https://www.anap.fr/s/article/cybersecurite-en-etablissement-de-sante-plan-attaque-contre-les-attaques",
-    "description": "",
+    "description": "Renforcez maintenant votre défense contre les cybermenaces ! Cette production, sous forme de fiches pratiques, fait le point sur la cybersécurité en établissement sanitaire et médico-social, et présente des mesures simples à mettre en place pour se protéger et limiter les risques.",
     "published": "2026-08-17T09:35:21+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "671d7f5a63909a335bc2ae3efc406e796707c71fdaba7339361bfc62ce509067",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "fef109f8db45e210fd0dbeac14dcd45e170095f783e3ca07014ced4764a2018f": {
     "source": "ANAP - Actualités",
-    "title": "Anatomocytopathologie pourquoi et comment numeriser l activite",
+    "title": "Anatomocytopathologie : pourquoi et comment numériser l'activité",
     "link": "https://www.anap.fr/s/article/anatomocytopathologie-pourquoi-et-comment-numeriser-l-activite",
-    "description": "",
+    "description": "Relevez le challenge de la numérisation de l'activité d'anatomocytopathologie (ACP) au sein de vos structures ! Cette publication vous donne les contours, les enjeux et les modalités de mise en pratique de la pathologie numérique.",
     "published": "2026-08-17T09:34:28+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "fef109f8db45e210fd0dbeac14dcd45e170095f783e3ca07014ced4764a2018f",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "0381aa4177b4e7c2b2284caa5cf71c7262742bcca9028c51e4902c6e3b081387": {
     "source": "ANAP - Actualités",
-    "title": "Webinaire immobilier travaux maitrise ouvrage",
+    "title": "Webinaire Immobilier - Réussir une opération de travaux de A à Z",
     "link": "https://www.anap.fr/s/article/webinaire-immobilier-travaux-maitrise-ouvrage",
-    "description": "",
+    "description": "Vous pilotez une opération de travaux ? Découvrez comment maîtriser votre projet de A à Z. Ce webinaire pratique vous donnera les clés pour respecter vos budgets, éviter les dérapages et porter efficacement votre projet.",
     "published": "2026-07-30T13:48:20+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "0381aa4177b4e7c2b2284caa5cf71c7262742bcca9028c51e4902c6e3b081387",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "d26e20e96584b6ce924785dc142c7fead9ca0757f93cc94d55112213b2ae87a2": {
     "source": "ANAP - Actualités",
-    "title": "Carte postale de demain saison 2 un podcast à glisser dans vos valises",
+    "title": "« Carte postale de demain » saison 2 : un podcast à glisser dans vos valises",
     "link": "https://www.anap.fr/s/article/Carte-postale-de-demain-saison-2-un-podcast-%C3%A0-glisser-dans-vos-valises",
-    "description": "",
+    "description": "La carte postale de demain fait son retour cet été : 4 nouveaux épisodes courts pour explorer les futurs possibles du système de santé, entre scénarios prospectifs, inspirations internationales et éclairages d’experts. Un podcast pour penser loin, même en vacances.",
     "published": "2026-07-30T11:20:48+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "d26e20e96584b6ce924785dc142c7fead9ca0757f93cc94d55112213b2ae87a2",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "3f4750019bd00b3b2608113030247bde5a29d52ce8b2ec7de35f8911fa93c18f": {
     "source": "ANAP - Actualités",
-    "title": "Septembre Bouge partagez les initiatives positives des référents APS en ESMS",
+    "title": "Septembre Bouge : partagez les initiatives positives des référents APS en ESMS",
     "link": "https://www.anap.fr/s/article/Septembre-Bouge-partagez-les-initiatives-positives-des-r%C3%A9f%C3%A9rents-APS-en-ESMS",
-    "description": "",
+    "description": "Selon l'Anses, 95 % des adultes en France sont exposés à un risque pour leur santé faute d'activité physique suffisante. Dans les établissements et services médico-sociaux, les référents Activité Physique et Sportive (APS), lorsqu'ils sont désignés, contribuent à développer de nombreuses initiatives pour favoriser le mouvement au quotidien. C'est pourquoi, à l'occasion du mois Septembre Bouge, l'Anap lance un nouvel appel à manifestation d'intérêt pour identifier et valoriser ces initiatives.",
     "published": "2026-07-30T11:20:15+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "3f4750019bd00b3b2608113030247bde5a29d52ce8b2ec7de35f8911fa93c18f",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "5481d8cd1eff52b868e558c9c76a2d3c4a4bfa4d52180e1a0f52f95aca2872ea": {
     "source": "ANAP - Actualités",
-    "title": "Webinaire rh evaluer les besoins en temps medical",
+    "title": "Webinaire RH \"Evaluer les besoins en temps médical\"",
     "link": "https://www.anap.fr/s/article/webinaire-rh-evaluer-les-besoins-en-temps-medical",
-    "description": "",
+    "description": "Evaluer le temps médical de vos effectifs est un casse-tête ? Optimisez le fonctionnement de votre service et fidélisez vos équipes grâce à notre webinaire \"Evaluer les besoins en temps médical\".",
     "published": "2026-07-30T09:49:00+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "5481d8cd1eff52b868e558c9c76a2d3c4a4bfa4d52180e1a0f52f95aca2872ea",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "237aac35d41a37a193420996a0553e910acf9f363345c608cf9dbee393655e89": {
     "source": "ANAP - Actualités",
-    "title": "Webinaire rh le teletravail pour les soignants c est possible",
+    "title": "Webinaire RH \"Le télétravail pour les soignants, c’est possible\"",
     "link": "https://www.anap.fr/s/article/webinaire-rh-le-teletravail-pour-les-soignants-c-est-possible",
-    "description": "",
+    "description": "Avec ce webinaire, faites le point sur la réalité du télétravail pour les soignants en établissement, et repartez avec une méthodologie concrète pour le mettre en place !",
     "published": "2026-07-30T09:44:58+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "237aac35d41a37a193420996a0553e910acf9f363345c608cf9dbee393655e89",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "ad06d4603ecf27a0aa913a36304f3b3f130a90fb01dcc05e03deac0167584da7": {
     "source": "ANAP - Actualités",
-    "title": "Webinaire immobilier reperes dimensionnels etablissements sanitaires",
+    "title": "Webinaire « Repères dimensionnels des établissements sanitaires »",
     "link": "https://www.anap.fr/s/article/webinaire-immobilier-reperes-dimensionnels-etablissements-sanitaires",
-    "description": "",
+    "description": "Imagerie, services techniques, consultations ou encore soins externes… Vous souhaitez dimensionner au plus juste votre projet immobilier ? Participez à notre webinaire et maîtrisez les 46 repères dimensionnels élaborés par l’Anap et le ministère de la Santé.",
     "published": "2026-07-30T08:27:41+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "ad06d4603ecf27a0aa913a36304f3b3f130a90fb01dcc05e03deac0167584da7",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "ba7f705485775bee4fd4da5e7059eb5c3f1618dc2e09970ae77f8c1c4785e13a": {
     "source": "ANAP - Actualités",
-    "title": "Webinaire activite et territoires d intervention",
+    "title": "Webinaire : Activité et territoires d'intervention HAD : maîtrisez les outils nationaux",
     "link": "https://www.anap.fr/s/article/webinaire-activite-et-territoires-d-intervention",
-    "description": "",
+    "description": "Analyse des données, compréhension des territoires et perspectives de développement : un webinaire pour mieux piloter l'activité de votre structure d'HAD.",
     "published": "2026-07-29T11:32:31+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "ba7f705485775bee4fd4da5e7059eb5c3f1618dc2e09970ae77f8c1c4785e13a",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "cbc33d1a125b97a9faac614d4e1b1641a7c8c773bbab1a18a1c0ff0e909389d1": {
     "source": "ANAP - Actualités",
-    "title": "Masterclass bfr ars accompagnement tresorerie etablissements",
+    "title": "Masterclass Besoin en Fonds de Roulement pour les ARS",
     "link": "https://www.anap.fr/s/article/masterclass-bfr-ars-accompagnement-tresorerie-etablissements",
-    "description": "",
+    "description": "Face aux tensions de trésorerie, l’optimisation du Besoin en Fonds de Roulement (BFR) est un levier essentiel de performance financière. Gestion des échéances, pilotage des stocks, définition et suivi d’indicateurs financiers... Découvrez les techniques qui permettent d'accompagner les établissements sanitaires pour sécuriser leur BFR.",
     "published": "2026-07-28T09:13:05+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "cbc33d1a125b97a9faac614d4e1b1641a7c8c773bbab1a18a1c0ff0e909389d1",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "a189edfcc41915dc05923b2210b2153c18300ccdac0eea80933913afd8512fb3": {
     "source": "ANAP - Actualités",
-    "title": "Appui terrain secretariats medicaux",
+    "title": "Appui terrain : renforcez la valeur ajoutée de vos secrétariats médicaux",
     "link": "https://www.anap.fr/s/article/appui-terrain-secretariats-medicaux",
-    "description": "",
+    "description": "Maillon clé du parcours patient, les fonctions des secrétariats médicaux en établissement de santé sont en pleine transformation ! Comment faire du numérique un levier pour mieux organiser les équipes et les circuits ? Participez à notre appui terrain et découvrez les clés pour structurer, piloter et optimiser votre secrétariat médical.",
     "published": "2026-07-24T13:49:48+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "a189edfcc41915dc05923b2210b2153c18300ccdac0eea80933913afd8512fb3",
-    "description_checked": true
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "8ed25860ebe53675ee5377b07e529a0f7b4683174baf893357e050ced26d0d24": {
     "source": "ANAP - Actualités",
@@ -1312,12 +1376,15 @@
   },
   "af08e4100c87766465a35cfa2f71a65118b4425cbb86717948e0cef135883967": {
     "source": "ANAP - Actualités",
-    "title": "Reperes dimensionnels dsi gouvernance systeme information dsi dsn",
+    "title": "Repères Dimensionnels DSI : un outil pour structurer efficacement votre DSI / DSN",
     "link": "https://www.anap.fr/s/article/reperes-dimensionnels-dsi-gouvernance-systeme-information-dsi-dsn",
-    "description": "",
+    "description": "Découvrez \"Repères Dimensionnels DSI\", un outil simple et opérationnel pour construire un système d'information dimensionné à votre regroupement d’établissements de santé et gagnez en efficacité !",
     "published": "2026-09-03T14:19:08+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "af08e4100c87766465a35cfa2f71a65118b4425cbb86717948e0cef135883967"
+    "uid": "af08e4100c87766465a35cfa2f71a65118b4425cbb86717948e0cef135883967",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
   },
   "569337ca45e52cdbc9019f566cf73d8c752ee41094397f47333f20158d41ca2c": {
     "source": "ANAP - Actualités",
