@@ -170,9 +170,9 @@ def source_row(site: dict[str, Any], public_dir: Path) -> str:
         f'<tr><td><span title="{complet}">{affiche}</span></td>'
         f"<td><span class='{css}'>{etat}</span></td>"
         f"<td>{site.get('items', 0)}</td>"
-        f"<td>{detail}</td>"
+        f"{native_feed_cell(site)}"
         f"<td>{lien_flux}</td>"
-        f"{native_feed_cell(site)}</tr>"
+        f"<td>{detail}</td></tr>"
     )
 
 
@@ -259,7 +259,7 @@ def write_dashboard(payload: dict[str, Any], title: str, public_dir: Path | None
 <div class="cards">{cards}</div>
 <p><a href="veille.xml"><strong>Flux global veille.xml</strong></a> · <a href="feeds.opml">Exporter tous les flux (OPML)</a> · <a href="status.json">État JSON</a> · <a href="{PROPOSE_SOURCE_URL}">Proposer une source</a> · <a href="{PROPOSE_THEME_URL}">Proposer un domaine</a></p>
 <div class="layout">{sommaire}<div class="contenu">
-<table><thead><tr><th>Source</th><th>État</th><th>Articles</th><th>Méthode / détail</th><th>Flux</th><th>Activité</th></tr></thead><tbody>{lignes}</tbody></table>
+<table><thead><tr><th>Source</th><th>État</th><th>Articles</th><th>Activité</th><th>Flux</th><th>Méthode / détail</th></tr></thead><tbody>{lignes}</tbody></table>
 </div></div>
 <script>
 // La page est statique : si la génération s'arrête, elle se fige avec sa date.
