@@ -72,7 +72,8 @@ passe au-dessus du tableau.
 | **État** | `OK` si la source a répondu, `ERREUR` sinon. |
 | **Articles** | Nombre d'articles publiés dans le flux de cette source. |
 | **Méthode / détail** | Comment les articles ont été obtenus, et le message d'erreur le cas échéant. |
-| **Flux** | Lien direct vers le flux RSS de la source. |
+| **Flux** | Lien vers le flux RSS produit par la veille pour cette source : articles dédoublonnés, résumés complétés, historique conservé. |
+| **Activité** | L'adresse du flux RSS que le site publie lui-même, en clair, avec un bouton **Copier**. Un tiret signifie que le site n'en publie pas d'exploitable : la veille l'a lu sur sa page, utilisez alors la colonne Flux. |
 
 Sous le titre, la date de dernière génération est suivie de son ancienneté
 (« il y a 2 heures »). **Au-delà de neuf heures, un bandeau orange s'affiche** :

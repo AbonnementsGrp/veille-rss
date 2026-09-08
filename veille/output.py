@@ -17,6 +17,8 @@ from veille.models import Item
 # Le planificateur GitHub décale les exécutions, parfois de plusieurs heures.
 # Trois créneaux manqués sortent nettement de cette dispersion.
 STALE_AFTER_HOURS = 9
+# Colonnes du tableau des sources : les intertitres de domaine les enjambent toutes.
+COLONNES = 6
 
 # Formulaire d'issue par lequel n'importe qui, sans outillage, propose une source.
 PROPOSE_SOURCE_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?template=nouvelle-source.yml"
@@ -34,6 +36,12 @@ DASHBOARD_STYLE = (
     "nav.domaines ul{list-style:none;margin:0;padding:0}nav.domaines li{padding:5px 0;line-height:1.35}"
     "nav.domaines .compte{color:#6b7280;font-size:12px}"
     "tr.theme{scroll-margin-top:12px}tr.theme:target th{background:#fde68a}"
+    # Colonne « Activité » : l'adresse en clair, coupée où il faut, et un bouton discret.
+    ".contenu{overflow-x:auto}td.activite{max-width:340px}"
+    "a.url{font-family:Consolas,Menlo,monospace;font-size:12px;word-break:break-all}"
+    "button.copier{margin-left:6px;font-size:11px;padding:2px 8px;border:1px solid #cbd5e1;border-radius:6px;"
+    "background:#fff;color:#334155;cursor:pointer;vertical-align:middle}"
+    "button.copier:hover{background:#f1f5f9}"
     "@media(max-width:900px){.layout{grid-template-columns:1fr}nav.domaines{position:static}"
     "nav.domaines ul{display:flex;flex-wrap:wrap;gap:6px 16px}}"
     ".cards{display:flex;gap:14px;flex-wrap:wrap;margin:20px 0}"
@@ -116,6 +124,34 @@ def write_opml(statuses: list[dict[str, Any]], base_url: str, public_dir: Path |
     (public_dir / "feeds.opml").write_text(content, encoding="utf-8")
 
 
+# Méthodes pour lesquelles l'adresse de flux enregistrée est réellement celle d'un
+# flux qui fonctionne. En repli, l'adresse configurée existe mais ne sert à rien.
+NATIVE_FEED_METHODS = frozenset({"flux officiel", "flux détecté"})
+
+
+def native_feed_url(site: dict[str, Any]) -> str:
+    """L'adresse du flux RSS propre au site source, ou "" s'il n'en a pas d'exploitable."""
+    if site.get("method") in NATIVE_FEED_METHODS:
+        return str(site.get("source_feed") or "")
+    return ""
+
+
+def native_feed_cell(site: dict[str, Any]) -> str:
+    """La cellule « Activité » : l'adresse du flux du site, en clair, avec un bouton pour la copier.
+
+    L'adresse est affichée telle quelle plutôt que derrière un libellé : c'est
+    elle que l'on veut copier dans un lecteur de flux, sans passer par un clic
+    droit. Les sources sans flux natif — lues sur leur page ou leur plan de site —
+    n'ont rien à montrer ici ; leur flux reste celui produit par la veille.
+    """
+    url = native_feed_url(site)
+    if not url:
+        return '<td class="activite"><span title="Ce site ne publie pas de flux exploitable : utiliser le flux de la veille, colonne Flux.">—</span></td>'
+    echappee = html.escape(url, quote=True)
+    return (f'<td class="activite"><a class="url" href="{echappee}">{echappee}</a>'
+            f' <button type="button" class="copier" data-url="{echappee}" title="Copier l\'adresse">Copier</button></td>')
+
+
 def source_row(site: dict[str, Any], public_dir: Path) -> str:
     """Rend la ligne du tableau de bord décrivant une source."""
     ok = site["status"] == "ok"
@@ -135,7 +171,8 @@ def source_row(site: dict[str, Any], public_dir: Path) -> str:
         f"<td><span class='{css}'>{etat}</span></td>"
         f"<td>{site.get('items', 0)}</td>"
         f"<td>{detail}</td>"
-        f"<td>{lien_flux}</td></tr>"
+        f"<td>{lien_flux}</td>"
+        f"{native_feed_cell(site)}</tr>"
     )
 
 
@@ -192,7 +229,7 @@ def dashboard_rows(sites: list[dict[str, Any]], public_dir: Path) -> str:
         if domaine and domaine != domaine_courant:
             domaine_courant = domaine
             lignes.append(f'<tr class="theme" id="{theme_anchor(domaine)}">'
-                          f'<th colspan="5">{html.escape(domaine)}</th></tr>')
+                          f'<th colspan="{COLONNES}">{html.escape(domaine)}</th></tr>')
         lignes.append(source_row(site, public_dir))
     return "".join(lignes)
 
@@ -222,7 +259,7 @@ def write_dashboard(payload: dict[str, Any], title: str, public_dir: Path | None
 <div class="cards">{cards}</div>
 <p><a href="veille.xml"><strong>Flux global veille.xml</strong></a> · <a href="feeds.opml">Exporter tous les flux (OPML)</a> · <a href="status.json">État JSON</a> · <a href="{PROPOSE_SOURCE_URL}">Proposer une source</a> · <a href="{PROPOSE_THEME_URL}">Proposer un domaine</a></p>
 <div class="layout">{sommaire}<div class="contenu">
-<table><thead><tr><th>Source</th><th>État</th><th>Articles</th><th>Méthode / détail</th><th>Flux</th></tr></thead><tbody>{lignes}</tbody></table>
+<table><thead><tr><th>Source</th><th>État</th><th>Articles</th><th>Méthode / détail</th><th>Flux</th><th>Activité</th></tr></thead><tbody>{lignes}</tbody></table>
 </div></div>
 <script>
 // La page est statique : si la génération s'arrête, elle se fige avec sa date.
@@ -247,6 +284,23 @@ def write_dashboard(payload: dict[str, Any], title: str, public_dir: Path | None
     alerte.hidden = false;
   }}
 }})();
+// Bouton « Copier » de la colonne Activité : l'adresse part dans le presse-papiers.
+// Si le navigateur refuse, une boîte de dialogue la présente déjà sélectionnée.
+document.addEventListener("click", function (evenement) {{
+  var bouton = evenement.target.closest("button.copier");
+  if (!bouton) return;
+  var adresse = bouton.getAttribute("data-url");
+  var confirmer = function () {{
+    bouton.textContent = "Copié";
+    setTimeout(function () {{ bouton.textContent = "Copier"; }}, 1500);
+  }};
+  var secours = function () {{ window.prompt("Copiez l'adresse :", adresse); }};
+  if (navigator.clipboard && navigator.clipboard.writeText) {{
+    navigator.clipboard.writeText(adresse).then(confirmer, secours);
+  }} else {{
+    secours();
+  }}
+}});
 </script>
 </body></html>'''
     (public_dir / "index.html").write_text(page, encoding="utf-8")

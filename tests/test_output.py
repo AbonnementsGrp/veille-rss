@@ -198,7 +198,7 @@ class TestGroupementParDomaine:
         creer_flux(tmp_path, TROIS_SOURCES)
         write_dashboard({**PAYLOAD, "sites": TROIS_SOURCES}, "T", public_dir=tmp_path)
         page = (tmp_path / "index.html").read_text(encoding="utf-8")
-        assert page.count('<th colspan="5">Santé, social &amp; séniors</th>') == 1
+        assert page.count('<th colspan="6">Santé, social &amp; séniors</th>') == 1
 
     def test_l_opml_cree_un_dossier_par_domaine(self, tmp_path):
         creer_flux(tmp_path, TROIS_SOURCES)
@@ -325,3 +325,53 @@ class TestSommaireDesDomaines:
         sans_domaine = dict(source_status("X", "X", "", "x.xml"))
         page = self._page(tmp_path, sources=[sans_domaine])
         assert 'nav class="domaines"' not in page
+
+
+class TestColonneActivite:
+    """L'adresse du flux propre au site, en clair, pour la copier d'un geste."""
+
+    LOCALTIS = "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml"
+
+    def _page(self, tmp_path, *sites):
+        creer_flux(tmp_path, sites)
+        write_dashboard({**PAYLOAD, "sites": list(sites)}, "T", public_dir=tmp_path)
+        return (tmp_path / "index.html").read_text(encoding="utf-8")
+
+    def test_la_colonne_existe(self, tmp_path):
+        page = self._page(tmp_path, source_status("A", "A", "Culture", "a.xml"))
+        assert "<th>Flux</th><th>Activité</th>" in page
+
+    def test_affiche_l_adresse_du_flux_natif_en_clair(self, tmp_path):
+        site = {**source_status("Localtis - Publics fragiles", "Localtis — Publics fragiles",
+                                "Santé, social & séniors", "lpf.xml"), "source_feed": self.LOCALTIS}
+        page = self._page(tmp_path, site)
+        assert f'<a class="url" href="{self.LOCALTIS}">{self.LOCALTIS}</a>' in page
+
+    def test_offre_un_bouton_copier_portant_l_adresse(self, tmp_path):
+        site = {**source_status("L", "L", "Culture", "l.xml"), "source_feed": self.LOCALTIS}
+        page = self._page(tmp_path, site)
+        assert f'<button type="button" class="copier" data-url="{self.LOCALTIS}"' in page
+        assert "navigator.clipboard" in page
+
+    def test_montre_aussi_un_flux_detecte(self, tmp_path):
+        site = {**source_status("P", "P", "Culture", "p.xml"), "method": "flux détecté",
+                "source_feed": "https://www.exemple.fr/actualites/feed/"}
+        assert "https://www.exemple.fr/actualites/feed/</a>" in self._page(tmp_path, site)
+
+    def test_ne_montre_pas_un_flux_configure_mais_inutilisable(self, tmp_path):
+        """Cas C2L : l'adresse configurée sert du HTML, la source vit par repli."""
+        site = {**source_status("C2L", "C2L", "Restauration", "c2l.xml"), "method": "repli : html_selectors",
+                "source_feed": "https://www.c2lsolutions.fr/category/actus/feed/"}
+        page = self._page(tmp_path, site)
+        assert "c2lsolutions.fr/category/actus/feed/" not in page
+        assert '<td class="activite"><span title="Ce site ne publie pas de flux exploitable' in page
+
+    def test_tiret_pour_une_source_lue_sur_sa_page(self, tmp_path):
+        site = {**source_status("SNRC", "SNRC", "Restauration", "snrc.xml"), "method": "html_selectors",
+                "source_feed": ""}
+        assert '<td class="activite"><span title=' in self._page(tmp_path, site)
+
+    def test_les_intertitres_enjambent_toutes_les_colonnes(self, tmp_path):
+        page = self._page(tmp_path, source_status("A", "A", "Culture", "a.xml"))
+        assert page.count("<th>") == 6, "six en-têtes de colonnes"
+        assert '<th colspan="6">Culture</th>' in page, "l'intertitre de domaine enjambe les six colonnes"
