@@ -19,10 +19,13 @@ concurrency:
   cancel-in-progress: true
 
 jobs:
+  # Le formulaire est reconnu à son premier champ, pas à son étiquette : GitHub
+  # n'applique pas une étiquette de modèle qui n'existe pas encore dans le
+  # dépôt. Le workflow crée donc lui-même ses étiquettes au premier passage.
   enquete:
     name: Enquêter sur la source proposée
     if: >
-      contains(github.event.issue.labels.*.name, 'nouvelle-source') &&
+      contains(github.event.issue.body, "### Adresse de la page d'actualités") &&
       (github.event.action != 'labeled' || github.event.label.name == 'nouvelle-source')
     runs-on: ubuntu-latest
     steps:
@@ -47,7 +50,8 @@ jobs:
           GH_TOKEN: ${{ github.token }}
           NUMERO: ${{ github.event.issue.number }}
         run: |
-          for etiquette in "enquete-ok:0E8A16:Prête à être ajoutée" \
+          for etiquette in "nouvelle-source:5319E7:Demande d'ajout d'une source" \
+                           "enquete-ok:0E8A16:Prête à être ajoutée" \
                            "enquete-a-verifier:FBCA04:À vérifier avant approbation" \
                            "enquete-manuel:B60205:Demande un réglage manuel" \
                            "enquete-erreur:B60205:Adresse inexploitable" \
@@ -59,14 +63,14 @@ jobs:
           gh issue comment "$NUMERO" --body-file commentaire.md
           gh issue edit "$NUMERO" \
             --remove-label enquete-ok,enquete-a-verifier,enquete-manuel,enquete-erreur \
-            --add-label "enquete-$verdict"
+            --add-label "nouvelle-source,enquete-$verdict"
 
   ajout:
     name: Ajouter la source approuvée
     if: >
       github.event.action == 'labeled' &&
       github.event.label.name == 'approuvé' &&
-      contains(github.event.issue.labels.*.name, 'nouvelle-source')
+      contains(github.event.issue.body, "### Adresse de la page d'actualités")
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4

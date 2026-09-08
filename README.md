@@ -160,7 +160,10 @@ source* (bouton sur le tableau de bord, ou onglet *Issues* → *New issue*). Le
 workflow [nouvelle-source.yml](.github/workflows/nouvelle-source.yml) enquête et
 publie le résultat en commentaire, avec l'aperçu des articles et le bloc de
 configuration qu'il écrirait. Il pose une étiquette selon le verdict :
-`enquete-ok`, `enquete-a-verifier`, `enquete-manuel` ou `enquete-erreur`.
+`enquete-ok`, `enquete-a-verifier`, `enquete-manuel` ou `enquete-erreur`. Les
+étiquettes, dont `approuvé`, sont créées par le workflow lui-même au premier
+passage : rien à préparer dans le dépôt. Le formulaire est reconnu à son premier
+champ, pas à son étiquette.
 
 **Rôle du responsable** : lire le commentaire, puis poser l'étiquette
 **approuvé** si la source convient. Le workflow ajoute alors le bloc à
