@@ -91,7 +91,8 @@ résultat.
 | `flux officiel`, `flux détecté` | Cas idéal : le site publie un flux, tout vient de lui. |
 | `repli : …` | Le flux annoncé par le site ne fonctionne pas ; les articles sont lus sur sa page d'actualités. Fiable, mais les résumés peuvent être plus courts. |
 | `html_selectors`, `json_ld+html`, `generic_links` | Le site n'a pas de flux exploitable : les articles sont extraits de la page. Un titre peut être tronqué, une date manquer. |
-| `plan de site` | Le site est entièrement en JavaScript : seules les adresses et les dates sont disponibles. Titres approximatifs, pas de résumé. C'est le cas de l'ANAP. |
+| `plan de site` | Le site est entièrement en JavaScript : les adresses et les dates viennent de son plan de site, puis un navigateur lit chaque page d'article pour en tirer le titre et le résumé. Les tout derniers articles peuvent garder quelques heures un titre approximatif, le temps de cette lecture. C'est le cas de l'ANAP. |
+| `navigateur : …` | La page du site n'affiche ses articles qu'une fois son code exécuté : un navigateur la rend avant l'extraction. Même fiabilité qu'une extraction de page, collecte un peu plus lente. |
 | `historique conservé` | La source est momentanément injoignable ; son dernier contenu connu reste publié. Rien ne disparaît, mais rien de neuf n'arrive. |
 | `échec` | La source est injoignable et rien n'était connu d'elle. |
 
@@ -220,15 +221,16 @@ publié plutôt que de disparaître. L'état signale qu'il n'y a rien de neuf, p
 que tout est perdu.
 
 **Certains articles n'ont pas de résumé.**
-C'est le cas des articles de l'ANAP : son site étant rendu en JavaScript, aucun
-résumé n'est accessible. Ailleurs, quand le flux d'un site n'en fournit pas, le
-résumé est lu sur la page de l'article — mais cela prend quelques cycles pour se
-compléter après l'ajout d'une source.
+Quand le flux d'un site n'en fournit pas, le résumé est lu sur la page de
+l'article — au rythme d'une vingtaine de pages par exécution, cela prend
+quelques cycles pour se compléter après l'ajout d'une source. Pour l'ANAP, dont
+le site est rendu en JavaScript, cette lecture passe par un navigateur : même
+principe, même délai.
 
-**Des titres ANAP sont bizarres (« Webinaire rdv transfo »).**
-Ils sont déduits de l'adresse de la page, faute d'autre information disponible.
-Quand l'adresse est explicite, le titre l'est aussi ; quand elle est laconique,
-le titre l'est également.
+**Un titre ANAP est bizarre (« Webinaire rdv transfo »).**
+Tant que la page d'un article n'a pas été lue, son titre est déduit de son
+adresse. Le vrai titre le remplace dès la lecture, en général dans les heures
+qui suivent la parution.
 
 **Le même article peut-il apparaître deux fois ?**
 Non, deux garde-fous l'évitent : les adresses sont normalisées (paramètres de

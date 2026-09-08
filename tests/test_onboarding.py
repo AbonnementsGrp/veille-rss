@@ -145,6 +145,60 @@ class TestInvestigate:
         assert p.output == "cnsa-2.xml"
 
 
+class NavigateurFactice:
+    """Tient lieu de BrowserSession : rend une page donnée, ou échoue."""
+
+    def __init__(self, page: str = "", panne: str = ""):
+        self.page = page
+        self.panne = panne
+        self.urls: list[str] = []
+
+    def get(self, url, timeout=None, allow_redirects=False):
+        self.urls.append(url)
+        if self.panne:
+            raise RuntimeError(self.panne)
+        return Reponse(self.page.encode("utf-8"), url, "text/html; charset=UTF-8")
+
+
+class TestInvestigateAvecNavigateur:
+    """Une page vide pour la session HTTP est rendue en JavaScript avant de conclure."""
+
+    COQUILLE = "<html><head><title>Site de l'Anap</title></head><body><div id='app'></div></body></html>"
+
+    def test_propose_le_rendu_quand_seul_le_navigateur_voit_des_articles(self, fixture_text):
+        navigateur = NavigateurFactice(fixture_text("page_selectors.html"))
+        p = investigate(SiteFactice(self.COQUILLE), "https://exemple.fr/s/actualites", theme="Culture",
+                        cfg=CFG, browser=navigateur)
+        assert p.render is True
+        assert p.method == "navigateur : html_selectors"
+        assert len(p.items) == 2
+        assert navigateur.urls == ["https://exemple.fr/s/actualites"]
+        assert p.verdict == VERDICT_A_VERIFIER, "un site rendu en JavaScript mérite un regard humain"
+        assert any("navigateur" in w for w in p.warnings)
+        assert p.to_site()["mode"] == "page"
+        assert p.to_site()["render"] is True
+
+    def test_le_navigateur_n_est_pas_sollicite_quand_la_page_suffit(self, fixture_text):
+        navigateur = NavigateurFactice("<html></html>")
+        p = investigate(SiteFactice(fixture_text("page_selectors.html")), "https://exemple.fr/actualites/",
+                        cfg=CFG, browser=navigateur)
+        assert p.render is False
+        assert navigateur.urls == []
+        assert "render" not in p.to_site()
+
+    def test_une_page_vide_meme_rendue_reste_manuelle(self):
+        p = investigate(SiteFactice(self.COQUILLE), "https://exemple.fr/vide/", cfg=CFG,
+                        browser=NavigateurFactice(self.COQUILLE))
+        assert p.verdict == VERDICT_MANUEL
+        assert p.render is False
+
+    def test_un_navigateur_en_panne_est_signale_sans_faire_echouer_l_enquete(self):
+        p = investigate(SiteFactice(self.COQUILLE), "https://exemple.fr/vide/", cfg=CFG,
+                        browser=NavigateurFactice(panne="navigateur indisponible : installer Playwright"))
+        assert p.verdict == VERDICT_MANUEL
+        assert any("rendu par navigateur impossible" in w for w in p.warnings)
+
+
 class TestRenderBlock:
     def test_ecrit_dans_le_style_du_fichier(self):
         bloc = render_block({"name": "Mon Organisme", "theme": "Culture", "url": "https://exemple.fr/"})
@@ -153,6 +207,11 @@ class TestRenderBlock:
     def test_le_bloc_est_du_yaml_valide(self):
         bloc = render_block({"name": 'Nom avec "guillemets"', "url": "https://exemple.fr/"})
         assert yaml.safe_load("sites:\n" + bloc)["sites"][0]["url"] == "https://exemple.fr/"
+
+    def test_un_booleen_s_ecrit_sans_guillemets(self):
+        bloc = render_block({"name": "Site JS", "url": "https://exemple.fr/", "mode": "page", "render": True})
+        assert bloc.endswith('    mode: "page"\n    render: true\n')
+        assert yaml.safe_load("sites:\n" + bloc)["sites"][0]["render"] is True
 
 
 class TestAppendSite:

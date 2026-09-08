@@ -17,7 +17,7 @@ from typing import Any
 
 from bs4 import BeautifulSoup
 
-from veille.text import clean_summary
+from veille.text import clean_summary, clean_text
 
 log = logging.getLogger(__name__)
 
@@ -27,6 +27,22 @@ META_SELECTORS = (
     'meta[name="description"]',
     'meta[name="twitter:description"]',
 )
+# Le titre ne vient que des métadonnées de partage, jamais de <title> : sur un
+# site rendu en JavaScript, <title> porte souvent le nom du site, pas celui de
+# l'article, alors que les métadonnées de partage ne sont posées que pour lui.
+TITLE_SELECTORS = (
+    'meta[property="og:title"]',
+    'meta[name="twitter:title"]',
+)
+MIN_TITLE_LENGTH = 8
+MAX_TITLE_LENGTH = 200
+# Un titre de partage au moins aussi long, sans ponctuation finale, a pu être
+# coupé par le site (Salesforce tronque og:title à soixante caractères).
+TRUNCATION_SUSPECT_LENGTH = 50
+TERMINAL_PUNCTUATION = ".!?»\")"
+# Éléments où chercher le titre entier d'une page : les titres, et tout ce que
+# le site nomme lui-même « title » ou « titre ».
+TITLE_ELEMENTS = "h1, h2, h3, [class*=title], [class*=titre]"
 # En deçà, le texte est un fragment de navigation, pas un résumé.
 MIN_SUMMARY_LENGTH = 60
 SUMMARY_LIMIT = 500
@@ -48,12 +64,54 @@ def looks_like_summary(texte: str) -> bool:
     return capitalises / len(mots) <= MAX_CAPITALIZED_RATIO
 
 
-def describe_article(session: Any, url: str, timeout: int) -> str:
-    """Rend un résumé lu sur la page de l'article, ou "" si rien d'exploitable."""
+def looks_like_title(texte: str) -> bool:
+    """Un titre d'article : assez long, et pas un sigle ou un cri en capitales."""
+    return len(texte) >= MIN_TITLE_LENGTH and any(c.islower() for c in texte)
+
+
+def looks_truncated(titre: str) -> bool:
+    return len(titre) >= TRUNCATION_SUSPECT_LENGTH and titre[-1] not in TERMINAL_PUNCTUATION
+
+
+def complete_title(soup: BeautifulSoup, titre: str) -> str:
+    """Rend le titre entier quand les métadonnées de partage l'ont coupé.
+
+    L'en-tête de l'article porte le titre complet : l'élément le plus court
+    dont le texte commence par le titre coupé et le prolonge est retenu. Le plus
+    court, pour ne pas prendre un bloc qui enchaîne titre et date.
+    """
+    amorce = titre.rstrip(" .…")
+    if not looks_truncated(titre) or len(amorce) < MIN_TITLE_LENGTH:
+        return titre
+    candidats = []
+    for element in soup.select(TITLE_ELEMENTS):
+        texte = clean_text(element.get_text(" ", strip=True))
+        if texte.startswith(amorce) and len(titre) < len(texte) <= MAX_TITLE_LENGTH:
+            candidats.append(texte)
+    return min(candidats, key=len) if candidats else titre
+
+
+def article_metadata(session: Any, url: str, timeout: int) -> tuple[str, str]:
+    """Rend (titre, résumé) lus sur la page de l'article ; l'un ou l'autre peut être vide."""
     response = session.get(url, timeout=timeout, allow_redirects=True)
     response.raise_for_status()
     soup = BeautifulSoup(response.text, "html.parser")
+    titre = ""
+    for selecteur in TITLE_SELECTORS:
+        noeud = soup.select_one(selecteur)
+        candidat = clean_text(str(noeud.get("content") or "")) if noeud else ""
+        if looks_like_title(candidat):
+            titre = complete_title(soup, candidat)
+            break
+    return titre, summary_from_page(soup)
 
+
+def describe_article(session: Any, url: str, timeout: int) -> str:
+    """Rend un résumé lu sur la page de l'article, ou "" si rien d'exploitable."""
+    return article_metadata(session, url, timeout)[1]
+
+
+def summary_from_page(soup: BeautifulSoup) -> str:
     for selecteur in META_SELECTORS:
         noeud = soup.select_one(selecteur)
         contenu = noeud.get("content") if noeud else ""

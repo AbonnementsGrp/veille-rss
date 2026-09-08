@@ -22,6 +22,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
+from veille.browser import BrowserSession  # noqa: E402
 from veille.config import load_config  # noqa: E402
 from veille.fetch import request_session  # noqa: E402
 from veille.onboarding import (  # noqa: E402
@@ -107,12 +108,15 @@ def main(argv: list[str]) -> int:
     cfg = load_config()
     settings = cfg.get("settings") or {}
     try:
-        p = investigate(
-            request_session(settings), url,
-            name=champs.get("nom", ""), short_name=champs.get("court", ""), theme=champs.get("domaine", ""),
-            timeout=int(settings.get("request_timeout", 30)),
-            max_items=int(settings.get("max_items_per_feed", 60)), cfg=cfg,
-        )
+        # Le navigateur n'est lancé que si la page ne livre rien à la session
+        # HTTP ; il permet de proposer `render: true` pour un site en JavaScript.
+        with BrowserSession(user_agent=str(settings.get("user_agent", ""))) as navigateur:
+            p = investigate(
+                request_session(settings), url,
+                name=champs.get("nom", ""), short_name=champs.get("court", ""), theme=champs.get("domaine", ""),
+                timeout=int(settings.get("request_timeout", 30)),
+                max_items=int(settings.get("max_items_per_feed", 60)), cfg=cfg, browser=navigateur,
+            )
     except Exception as exc:
         ecrire("commentaire.md", f"❌ Impossible d'enquêter sur `{url}` : {exc}\n\n"
                "Vérifiez l'adresse, puis modifiez l'issue pour relancer.\n")

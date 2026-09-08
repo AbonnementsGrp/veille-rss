@@ -73,10 +73,20 @@ def history_items_for_source(history: dict[str, dict[str, Any]], source: str, li
     """Rend les articles connus d'une source, du plus récent au plus ancien."""
     records = [r for r in history.values() if r.get("source") == source]
     records.sort(key=lambda r: parse_date_for_feed(r.get("published") or r.get("first_seen") or "") or EPOCH, reverse=True)
-    return [Item(
-        source=r.get("source", source), title=r.get("title", ""), link=r.get("link", ""),
-        description=r.get("description", ""), published=r.get("published", ""), first_seen=r.get("first_seen", "")
-    ) for r in records[:limit] if r.get("title") and r.get("link")]
+    items: list[Item] = []
+    for r in records[:limit]:
+        if not (r.get("title") and r.get("link")):
+            continue
+        item = Item(
+            source=r.get("source", source), title=r.get("title", ""), link=r.get("link", ""),
+            description=r.get("description", ""), published=r.get("published", ""), first_seen=r.get("first_seen", ""),
+        )
+        # L'identité enregistrée prime sur celle que le titre actuel donnerait :
+        # le titre a pu être corrigé depuis la première rencontre de l'article.
+        if r.get("uid"):
+            item.uid = str(r["uid"])
+        items.append(item)
+    return items
 
 
 def remove_source(history: dict[str, dict[str, Any]], source: str) -> int:

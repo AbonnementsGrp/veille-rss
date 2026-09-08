@@ -40,6 +40,18 @@ jobs:
       - name: Installer les dépendances
         run: pip install -r requirements-dev.txt
 
+      # Les sources `render: true` sont lues par un Chromium sans tête. Le
+      # navigateur est conservé en cache d'une exécution à l'autre ; seules ses
+      # bibliothèques système sont réinstallées à chaque fois.
+      - name: Mettre en cache le navigateur sans tête
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+
+      - name: Installer le navigateur sans tête
+        run: python -m playwright install --with-deps chromium
+
       # Les tests précèdent la génération : une régression sur les dates ou
       # l'extraction ne doit jamais être publiée.
       - name: Exécuter les tests

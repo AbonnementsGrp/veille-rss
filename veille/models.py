@@ -21,11 +21,23 @@ class Item:
         # Normalisé ici, donc pour toutes les sources : le lien porte l'identité
         # de l'article, il ne doit pas dépendre des paramètres de campagne.
         self.link = clean_link(self.link)
+        # L'identité est fixée à la création. Un titre corrigé plus tard — lu
+        # sur la page de l'article quand le plan de site n'en donnait qu'une
+        # ébauche — ne fait ni un nouvel article dans l'historique, ni un
+        # nouveau guid dans les flux publiés.
+        self._uid = self.compute_uid()
+
+    def compute_uid(self) -> str:
+        raw = f"{self.source}|{self.link.rstrip('/')}|{self.title}".encode("utf-8", errors="ignore")
+        return hashlib.sha256(raw).hexdigest()
 
     @property
     def uid(self) -> str:
-        raw = f"{self.source}|{self.link.rstrip('/')}|{self.title}".encode("utf-8", errors="ignore")
-        return hashlib.sha256(raw).hexdigest()
+        return self._uid
+
+    @uid.setter
+    def uid(self, value: str) -> None:
+        self._uid = value
 
 
 def dedupe(items: list[Item]) -> list[Item]:

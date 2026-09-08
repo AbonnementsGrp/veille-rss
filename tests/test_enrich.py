@@ -4,7 +4,7 @@ from __future__ import annotations
 
 import pytest
 
-from veille.enrich import describe_article, looks_like_summary
+from veille.enrich import article_metadata, describe_article, looks_like_summary, looks_like_title
 
 RESUME_REEL = ("Le Premier ministre a confié à l'Inspection générale des affaires sociales "
                "une mission sur le temps de travail des médecins.")
@@ -92,3 +92,69 @@ class TestDescribeArticle:
     def test_laisse_remonter_une_erreur_reseau(self):
         with pytest.raises(ConnectionError):
             describe_article(SessionEnPanne(), "https://exemple.fr/a", 10)
+
+
+TITRE = "Handicap : l'Anap outille la transformation vers une offre de services coordonnés"
+
+
+class TestArticleMetadata:
+    def test_rend_le_titre_de_partage_et_le_resume(self):
+        html = page("", f'<title>Site de l\'Anap</title><meta property="og:title" content="{TITRE}">'
+                        f'<meta property="og:description" content="{RESUME_REEL}">')
+        assert article_metadata(StubSession(html), "https://exemple.fr/a", 10) == (TITRE, RESUME_REEL)
+
+    def test_ne_prend_jamais_le_titre_de_la_balise_title(self):
+        """Sur un site en JavaScript, <title> porte le nom du site, pas celui de l'article."""
+        html = page("", f"<title>{TITRE}</title>")
+        assert article_metadata(StubSession(html), "https://exemple.fr/a", 10) == ("", "")
+
+    def test_se_replie_sur_le_titre_twitter(self):
+        html = page("", f'<meta name="twitter:title" content="{TITRE}">')
+        assert article_metadata(StubSession(html), "https://exemple.fr/a", 10)[0] == TITRE
+
+    @pytest.mark.parametrize("titre", ["ANAP", "Court", "TOUT EN CAPITALES"])
+    def test_ecarte_un_titre_douteux(self, titre):
+        html = page("", f'<meta property="og:title" content="{titre}">')
+        assert article_metadata(StubSession(html), "https://exemple.fr/a", 10)[0] == ""
+        assert not looks_like_title(titre)
+
+    def test_nettoie_le_titre(self):
+        html = page("", '<meta property="og:title" content="  Un   titre &amp; des espaces  ">')
+        assert article_metadata(StubSession(html), "https://exemple.fr/a", 10)[0] == "Un titre & des espaces"
+
+
+TRONQUE = "Handicap : l'Anap outille la transformation vers une offre d"
+ENTIER = "Handicap : l'Anap outille la transformation vers une offre de services coordonnés"
+
+
+class TestCompleteTitle:
+    """Salesforce coupe og:title à soixante caractères ; l'en-tête garde le titre entier."""
+
+    def _page(self, og: str, corps: str) -> str:
+        return page(corps, f'<meta property="og:title" content="{og}">')
+
+    def test_prolonge_un_titre_coupe_avec_l_en_tete_de_l_article(self):
+        corps = (f'<div class="anap-detail-header--top-title">{ENTIER}</div>'
+                 f'<div class="anap-detail-header">{ENTIER} 8 décembre 2025</div>')
+        assert article_metadata(StubSession(self._page(TRONQUE, corps)), "https://exemple.fr/a", 10)[0] == ENTIER
+
+    def test_accepte_aussi_un_titre_h1(self):
+        assert article_metadata(StubSession(self._page(TRONQUE, f"<h1>{ENTIER}</h1>")), "https://exemple.fr/a", 10)[0] == ENTIER
+
+    def test_garde_le_titre_coupe_si_rien_ne_le_prolonge(self):
+        corps = "<h1>Un autre titre sans rapport avec le premier</h1>"
+        assert article_metadata(StubSession(self._page(TRONQUE, corps)), "https://exemple.fr/a", 10)[0] == TRONQUE
+
+    def test_ne_touche_pas_a_un_titre_complet(self):
+        complet = "Réorienter depuis les urgences : vers la bonne filière de soin."
+        corps = f"<h1>{complet} Le sous-titre qui suit ne doit pas être ajouté</h1>"
+        assert article_metadata(StubSession(self._page(complet, corps)), "https://exemple.fr/a", 10)[0] == complet
+
+    def test_ne_touche_pas_a_un_titre_court(self):
+        court = "Webinaire RH « Gestion du temps »"
+        corps = f"<h1>{court} et de la présence des équipes</h1>"
+        assert article_metadata(StubSession(self._page(court, corps)), "https://exemple.fr/a", 10)[0] == court
+
+    def test_ignore_un_prolongement_demesure(self):
+        corps = f'<div class="title">{ENTIER} {"blabla " * 40}</div>'
+        assert article_metadata(StubSession(self._page(TRONQUE, corps)), "https://exemple.fr/a", 10)[0] == TRONQUE

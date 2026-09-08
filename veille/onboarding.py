@@ -55,6 +55,7 @@ class Proposal:
     items: list[Item]
     verdict: str
     warnings: list[str] = field(default_factory=list)
+    render: bool = False
 
     def to_site(self) -> dict[str, Any]:
         """Le bloc de configuration, tel qu'il figurerait dans sites.yml."""
@@ -67,6 +68,9 @@ class Proposal:
         if self.official_feed:
             site["official_feed"] = self.official_feed
         site["output"] = self.output
+        if self.render:
+            site["mode"] = "page"
+            site["render"] = True
         return site
 
 
@@ -100,9 +104,12 @@ def juger(items: list[Item], method: str) -> tuple[str, list[str]]:
     if dates / len(items) < MIN_DATED_RATIO:
         reserves.append(f"{len(items) - dates} article(s) sur {len(items)} sans date : "
                         "ils seront datés du jour de leur découverte")
-    if method == "generic_links":
+    if method.endswith("generic_links"):
         reserves.append("articles trouvés par notation des liens, la méthode la moins fiable : "
                         "vérifier qu'il ne s'agit pas de liens de navigation")
+    if method.startswith("navigateur"):
+        reserves.append("page rendue en JavaScript : les articles n'apparaissent qu'à travers le navigateur "
+                        "sans tête, la collecte sera plus lente ; vérifier les titres proposés")
     return (VERDICT_A_VERIFIER if reserves else VERDICT_OK), reserves
 
 
@@ -129,8 +136,13 @@ def unique_output(base: str, sites: list[dict[str, Any]]) -> str:
 
 def investigate(session: Any, url: str, *, name: str = "", short_name: str = "", theme: str = "",
                 timeout: int = 30, max_items: int = 60,
-                cfg: dict[str, Any] | None = None) -> Proposal:
-    """Enquête sur une URL et propose une configuration complète."""
+                cfg: dict[str, Any] | None = None, browser: Any = None) -> Proposal:
+    """Enquête sur une URL et propose une configuration complète.
+
+    `browser` est un navigateur sans tête facultatif : quand la page ne livre
+    aucun article à la session HTTP, l'enquête la rend en JavaScript et, si
+    des articles apparaissent alors, propose `render: true`.
+    """
     cfg = cfg or load_config()
     sites = cfg["sites"]
     themes = [str(t) for t in ((cfg.get("settings") or {}).get("themes") or [])]
@@ -152,6 +164,16 @@ def investigate(session: Any, url: str, *, name: str = "", short_name: str = "",
     else:
         items, method = scrape_page(session, {"name": name or nom_propose or url, "url": url}, timeout, max_items)
 
+    render = False
+    if not items and browser is not None:
+        try:
+            items, method = scrape_page(browser, {"name": name or nom_propose or url, "url": url}, timeout, max_items)
+        except Exception as exc:
+            warnings.append(f"rendu par navigateur impossible : {exc}")
+        if items:
+            render = True
+            method = f"navigateur : {method}"
+
     verdict, reserves = juger(items, method)
     warnings.extend(reserves)
     if deja and verdict == VERDICT_OK:
@@ -169,7 +191,7 @@ def investigate(session: Any, url: str, *, name: str = "", short_name: str = "",
         url=url, name=nom, short_name=court, theme=theme,
         output=unique_output(output_name_for({"name": nom}), sites),
         official_feed=feed, method=method, items=items[:PREVIEW_SIZE],
-        verdict=verdict, warnings=warnings,
+        verdict=verdict, warnings=warnings, render=render,
     )
 
 
@@ -178,7 +200,11 @@ def render_block(site: dict[str, Any]) -> str:
     lignes = []
     for n, (cle, valeur) in enumerate(site.items()):
         prefixe = "  - " if n == 0 else "    "
-        lignes.append(f'{prefixe}{cle}: "{str(valeur).replace(chr(34), chr(39))}"')
+        if isinstance(valeur, bool):
+            rendu = "true" if valeur else "false"
+        else:
+            rendu = f'"{str(valeur).replace(chr(34), chr(39))}"'
+        lignes.append(f"{prefixe}{cle}: {rendu}")
     return "\n".join(lignes) + "\n"
 
 

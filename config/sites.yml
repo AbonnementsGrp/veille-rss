@@ -115,6 +115,10 @@ sites:
     output: "anap.xml"
     # Site Salesforce rendu entièrement en JavaScript : ses pages ne livrent
     # aucun titre à un client HTTP. Le plan de site, que le robots.txt déclare
-    # lui-même, est la seule source exploitable.
+    # lui-même, donne les adresses et les dates ; le navigateur sans tête lit
+    # ensuite sur chaque page d'article son vrai titre et son résumé, une fois
+    # pour toutes. Les métadonnées de partage signalent que l'article est là.
     mode: "sitemap"
     sitemap: "https://www.anap.fr/s/sitemap-topicarticle-1.xml"
+    render: true
+    render_wait_for: 'meta[property="og:title"]'

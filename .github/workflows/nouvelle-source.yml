@@ -40,6 +40,17 @@ jobs:
 
       - run: pip install -r requirements.txt
 
+      # Une page qui ne livre rien à la session HTTP est rendue en JavaScript
+      # par un Chromium sans tête, pour proposer `render: true` le cas échéant.
+      - name: Mettre en cache le navigateur sans tête
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/ms-playwright
+          key: playwright-${{ runner.os }}-${{ hashFiles('requirements.txt') }}
+
+      - name: Installer le navigateur sans tête
+        run: python -m playwright install --with-deps chromium
+
       # Le corps de l'issue est écrit par le demandeur : il passe par une
       # variable d'environnement, jamais par une interpolation dans le shell.
       - name: Enquêter

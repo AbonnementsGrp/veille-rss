@@ -42,7 +42,8 @@ Les méthodes possibles, de la plus fiable à la plus fragile :
 | `json_ld+html` | Pas de flux : les articles ont été lus dans les données structurées de la page. |
 | `html_selectors` | Articles extraits via des sélecteurs CSS. |
 | `generic_links` | Les liens de la page ont été notés et filtrés. |
-| `plan de site` | Site rendu en JavaScript : URL et dates viennent de son sitemap.xml. |
+| `plan de site` | Site rendu en JavaScript : URL et dates viennent de son sitemap.xml ; titres et résumés sont ensuite lus page par page par le navigateur sans tête. |
+| `navigateur : …` | La page a été rendue par le navigateur sans tête avant l'extraction (`render: true`). |
 | `historique conservé` | La source est tombée ; son dernier contenu connu reste publié. |
 | `échec` | La source est tombée et aucun historique n'était disponible. |
 
@@ -62,7 +63,16 @@ annule, les tâches planifiées quand la file d'attente s'allonge.
 
 ## Exécuter en local
 
-Prérequis : Python 3.12 et un accès réseau sortant.
+Prérequis : Python 3.12 et un accès réseau sortant. Les sources rendues en
+JavaScript (`render: true`, comme l'ANAP) demandent en plus un Chromium sans
+tête, installé une fois pour toutes après les dépendances :
+
+```
+python -m playwright install chromium
+```
+
+Sans lui, tout le reste fonctionne ; ces sources seules passent en erreur, avec
+la marche à suivre dans le message.
 
 ### PowerShell (Windows)
 
@@ -284,8 +294,10 @@ sortie :
 | `official_feed` | Flux RSS/Atom connu. À ne renseigner qu'après l'avoir testé. |
 | `feed_categories` | Ne garder du flux que les articles étiquetés d'une de ces catégories. Pour un site WordPress dont les flux de rubrique sont désactivés mais dont le flux général (`/feed/?post_type=post`) étiquette ses articles. |
 | `output` | Nom du fichier XML produit. Déduit du `name` si absent. |
-| `mode` | `page` interdit la découverte de flux : la page devient la seule source, utile quand le flux racine du site n'a rien à voir avec la rubrique suivie. `sitemap` lit le plan de site, seul recours pour un site rendu en JavaScript. |
+| `mode` | `page` interdit la découverte de flux : la page devient la seule source, utile quand le flux racine du site n'a rien à voir avec la rubrique suivie. `sitemap` lit le plan de site, qui donne adresses et dates d'un site rendu en JavaScript. |
 | `sitemap` | URL du plan de site à lire, obligatoire avec `mode: sitemap`. |
+| `render` | `true` : les pages du site sont rendues par le navigateur sans tête (Chromium via Playwright) avant lecture. Avec `mode: page`, la page d'actualités elle-même ; avec `mode: sitemap`, les pages d'articles, pour en tirer titre et résumé. Le formulaire d'ajout le propose de lui-même quand seule la page rendue montre des articles. |
+| `render_wait_for` | Sélecteur CSS dont l'apparition signale que la page rendue est complète (`'meta[property="og:title"]'` pour l'ANAP). Sans lui, la veille attend le calme du réseau puis la stabilité du document. |
 | `selectors` | Sélecteurs CSS (`item`, `title`, `description`, `date`) pour les sites sans flux. |
 | `link_patterns` | Fragments d'URL caractéristiques des articles, pour orienter le dernier recours. |
 
@@ -322,6 +334,7 @@ veille-rss/
 │   ├── urls.py              normalisation des liens d'articles
 │   ├── dates.py             normalisation ISO 8601 UTC et tri
 │   ├── fetch.py             session HTTP, lot de certificats, détection d'un flux
+│   ├── browser.py           navigateur sans tête (Playwright) pour les sites en JavaScript
 │   ├── feeds.py             lecture RSS/Atom, découverte du flux d'un site
 │   ├── extract.py           extraction HTML : JSON-LD, sélecteurs, liens
 │   ├── sitemap.py           extraction depuis un plan de site
@@ -349,6 +362,12 @@ Le traitement d'une source suit toujours le même enchaînement : flux officiel
 configuré, sinon flux natif découvert, sinon extraction HTML ; puis
 normalisation (titre, URL, date, résumé), déduplication, fusion avec
 l'historique, écriture du flux individuel et intégration au flux global.
+
+Pour un site rendu en JavaScript, la page est d'abord rendue par un Chromium sans
+tête (`veille/browser.py`, Playwright) et l'extraction reçoit le document tel
+que l'utilisateur le voit, shadow DOM compris. La CI installe ce navigateur à
+chaque exécution (une trentaine de secondes, mis en cache) ; il n'est lancé que
+si une source le demande.
 
 ### Points de vigilance
 
@@ -399,10 +418,12 @@ l'historique, écriture du flux individuel et intégration au flux global.
 - **Localtis — Publics fragiles** — flux officiel :
   `https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml`
   — attention : rubrique dormante côté Localtis, aucun article publié depuis avril 2024
-- **ANAP** — https://www.anap.fr/s/actualites — `mode: sitemap`. Le site est
-  rendu en JavaScript : ses pages ne livrent aucun titre à un client HTTP. Les
-  titres sont donc déduits des URL du plan de site, d'où des libellés parfois
-  sans accents ni majuscules.
+- **ANAP** — https://www.anap.fr/s/actualites — `mode: sitemap` et
+  `render: true`. Le site est rendu en JavaScript : ses pages ne livrent aucun
+  titre à un client HTTP. Le plan de site donne les adresses et les dates ; le
+  navigateur sans tête lit ensuite chaque page d'article, une fois pour toutes,
+  pour en tirer le vrai titre et le résumé. En attendant cette lecture, le
+  titre est déduit de l'URL.
 
 ### Culture
 
@@ -423,13 +444,15 @@ l'historique, écriture du flux individuel et intégration au flux global.
 
 ## Points connus, sans action prévue
 
-- **Les titres ANAP dépendent du slug de l'URL.** Vérifié : une page d'article
-  ne contient que `<title>Site de l'Anap</title>`, aucune balise Open Graph, et
-  pas même le texte de l'article — tout est rendu en JavaScript. Le plan de site
-  reste la seule source, et le slug le seul titre disponible. Beaucoup sont
-  corrects (« Journée nationale de la transformation du handicap »), d'autres
-  sont laconiques (« Webinaire rdv transfo ») : ils le sont à la source.
-  Y remédier supposerait un navigateur sans tête à chaque exécution.
+- **Les titres ANAP naissent du slug de l'URL, puis sont corrigés.** Une page
+  d'article ne livre à un client HTTP que `<title>Site de l'Anap</title>` : tout
+  est rendu en JavaScript, dans le shadow DOM de composants Salesforce. Depuis
+  le 8 septembre 2026, le navigateur sans tête lit chaque page une fois (budget
+  partagé de 25 pages par exécution) et en tire le titre — complété depuis
+  l'en-tête de l'article, car le site coupe ses métadonnées de partage à
+  soixante caractères — et le résumé. Le titre corrigé ne change ni l'identité
+  de l'article ni son guid : un lecteur ne le revoit pas comme une nouveauté.
+  Les dates restent celles du plan de site.
 - **anap.fr sert une chaîne de certificats incomplète** depuis le 28 août 2026 :
   le site n'envoie que son propre certificat, sans l'intermédiaire « DigiCert
   Global G2 TLS RSA SHA256 2020 CA1 » qui le relie à une racine connue, d'où un

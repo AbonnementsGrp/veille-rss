@@ -14,9 +14,10 @@ from dataclasses import asdict
 from typing import Any
 from urllib.parse import urljoin
 
+from veille.browser import BrowserSession, needs_render
 from veille.config import BASE_URL, PUBLIC_DIR, STATUS_PATH, load_config, ordered_sites, theme_of
 from veille.dates import item_sort_key, utc_now
-from veille.enrich import describe_article
+from veille.enrich import article_metadata
 from veille.extract import scrape_page
 from veille.feeds import discover_feed, parse_feed_bytes
 from veille.fetch import is_feed_content, request_session
@@ -36,6 +37,7 @@ def identity(site: dict[str, Any]) -> dict[str, Any]:
         "theme": theme_of(site),
         "url": site["url"],
         "feed_categories": [str(c) for c in (site.get("feed_categories") or [])],
+        "render": needs_render(site),
     }
 
 
@@ -59,7 +61,7 @@ def resolve_feed_url(session: Any, site: dict[str, Any], timeout: int) -> str:
     """
     if site.get("official_feed"):
         return str(site["official_feed"])
-    if str(site.get("mode", "")).lower() in ("page", "sitemap"):
+    if str(site.get("mode", "")).lower() in ("page", "sitemap") or needs_render(site):
         return ""
     return discover_feed(session, site["url"], timeout) or ""
 
@@ -81,15 +83,18 @@ def read_feed(session: Any, url: str, source: str, timeout: int, max_items: int,
     return parse_feed_bytes(response.content, source, max_items, categories)
 
 
-def fetch_items(session: Any, site: dict[str, Any], feed_url: str, timeout: int, max_items: int) -> tuple[list[Item], str]:
+def fetch_items(session: Any, site: dict[str, Any], feed_url: str, timeout: int, max_items: int,
+                browser: BrowserSession | None = None) -> tuple[list[Item], str]:
     """Lit les articles d'une source et rend (articles, méthode employée).
 
     Un flux configuré qui s'avère inexploitable ne condamne pas la source : le
     traitement se replie sur l'extraction de la page d'actualités, qui reste
     thématiquement juste là où un flux découvert au hasard du site ne l'est pas.
 
-    `mode: sitemap` court-circuite tout cela : c'est le seul recours pour un
-    site dont les pages sont rendues en JavaScript.
+    `mode: sitemap` court-circuite tout cela : le plan de site donne adresses
+    et dates d'un site dont les pages sont rendues en JavaScript. `render: true`
+    fait lire la page d'actualités par le navigateur sans tête plutôt que par
+    la session HTTP ; l'extraction qui suit est la même.
     """
     if str(site.get("mode", "")).lower() == "sitemap":
         plan = site.get("sitemap") or ""
@@ -111,7 +116,14 @@ def fetch_items(session: Any, site: dict[str, Any], feed_url: str, timeout: int,
             echec_flux = str(exc)
         log.warning("%s : %s. Repli sur la page d'actualités.", site["name"], echec_flux)
 
-    items, method = scrape_page(session, site, timeout, max_items)
+    client: Any = session
+    if needs_render(site):
+        if browser is None:
+            raise RuntimeError("render: true demande un navigateur, aucun n'a été fourni")
+        client = browser.for_site(site)
+    items, method = scrape_page(client, site, timeout, max_items)
+    if needs_render(site):
+        method = f"navigateur : {method}"
     if not items:
         detail = f"{echec_flux} ; aucun article détecté sur la page" if echec_flux else "Aucun article détecté sur la page"
         raise RuntimeError(detail)
@@ -136,6 +148,11 @@ def record_in_history(items: list[Item], history: dict[str, dict[str, Any]]) -> 
             # fournit pas : il a pu être lu sur la page de l'article.
             if not fiche["description"] and connu.get("description"):
                 fiche["description"] = connu["description"]
+            # De même pour un titre lu sur la page : l'ébauche tirée du plan de
+            # site revient à chaque exécution, le vrai titre doit lui survivre.
+            if connu.get("title_enriched") and connu.get("title"):
+                fiche["title"] = connu["title"]
+                item.title = connu["title"]
             connu.update(fiche)
     return new_count
 
@@ -154,7 +171,7 @@ def reuse_known_descriptions(items: list[Item], history: dict[str, dict[str, Any
 
 
 def enrich_descriptions(session: Any, items: list[Item], history: dict[str, dict[str, Any]],
-                        budget: int, timeout: int) -> int:
+                        budget: int, timeout: int, titles: bool = False) -> int:
     """Complète les résumés encore manquants en lisant la page des articles.
 
     Rend le nombre de pages visitées. Chaque article n'est tenté qu'une fois :
@@ -162,28 +179,40 @@ def enrich_descriptions(session: Any, items: list[Item], history: dict[str, dict
     page qui n'a rien à offrir. Le budget étant global et consommé dans l'ordre
     des sources, les dernières sources sont servies aux exécutions suivantes.
 
-    Les sources en `mode: sitemap` sont exclues par l'appelant : leurs pages
-    sont rendues en JavaScript, elles ne livreraient aucun résumé.
+    Avec `titles`, le titre lu sur la page remplace celui de l'article : c'est
+    le cas des sources en `mode: sitemap`, dont les titres ne sont que des
+    ébauches tirées de l'adresse. `session` est alors le navigateur sans tête,
+    seul capable de lire une page rendue en JavaScript. Titre et résumé ont
+    chacun leur marque de tentative : une page visitée sans navigateur, à
+    l'époque où elle ne livrait rien, est revisitée pour son titre.
     """
     visitees = 0
     for item in items:
         if visitees >= budget:
             break
-        if item.description:
-            continue
         fiche = history.get(item.uid)
-        if fiche is None or fiche.get("description_checked"):
+        if fiche is None:
+            continue
+        resume_a_lire = not item.description and not fiche.get("description_checked")
+        titre_a_lire = titles and not fiche.get("title_enriched") and not fiche.get("title_checked")
+        if not (resume_a_lire or titre_a_lire):
             continue
         visitees += 1
         fiche["description_checked"] = True
+        if titles:
+            fiche["title_checked"] = True
         try:
-            resume = describe_article(session, item.link, timeout)
+            titre, resume = article_metadata(session, item.link, timeout)
         except Exception as exc:
-            log.debug("Résumé indisponible pour %s (%s)", item.link, exc)
+            log.debug("Page d'article inexploitable pour %s (%s)", item.link, exc)
             continue
-        if resume:
+        if resume and not item.description:
             item.description = resume
             fiche["description"] = resume
+        if titles and titre:
+            item.title = titre
+            fiche["title"] = titre
+            fiche["title_enriched"] = True
     return visitees
 
 
@@ -199,6 +228,9 @@ def run() -> int:
     PUBLIC_DIR.mkdir(parents=True, exist_ok=True)
     history = load_history()
     session = request_session(settings)
+    # Lancé à la première page qu'une source `render: true` lui demande ; les
+    # exécutions sans une telle source ne le paient pas.
+    browser = BrowserSession(user_agent=str(settings.get("user_agent", "VeilleRSS/1.0")))
     statuses: list[dict[str, Any]] = []
     all_items: list[Item] = []
     new_count = 0
@@ -209,14 +241,19 @@ def run() -> int:
         feed_url = ""
         try:
             feed_url = resolve_feed_url(session, site, timeout)
-            items, method = fetch_items(session, site, feed_url, timeout, max_items)
+            items, method = fetch_items(session, site, feed_url, timeout, max_items, browser)
             new_count += record_in_history(items, history)
             source_items = dedupe(items + history_items_for_source(history, source, max_items))[:max_items]
             # Sur le flux publié, et non sur les seuls articles du jour : les
             # articles venus de l'historique méritent aussi un résumé.
             reuse_known_descriptions(source_items, history)
-            if enrich_budget > 0 and str(site.get("mode", "")).lower() != "sitemap":
-                enrich_budget -= enrich_descriptions(session, source_items, history, enrich_budget, timeout)
+            # Une source en mode plan de site n'a de pages lisibles qu'à travers
+            # le navigateur ; sans lui, ses pages ne livreraient rien.
+            mode_sitemap = str(site.get("mode", "")).lower() == "sitemap"
+            if enrich_budget > 0 and (not mode_sitemap or needs_render(site)):
+                lecteur = browser.for_site(site) if needs_render(site) else session
+                enrich_budget -= enrich_descriptions(lecteur, source_items, history, enrich_budget, timeout,
+                                                     titles=mode_sitemap)
             write_feed(source_items, source, f"Actualités de {source}", PUBLIC_DIR / output_name, site["url"], urljoin(BASE_URL, output_name))
             all_items.extend(source_items)
             statuses.append({**identity(site), "status": "ok", "method": method,
@@ -232,6 +269,10 @@ def run() -> int:
                              "items": len(previous), "feed": output_name, "error": str(exc),
                              "source_feed": feed_url})
             log.error("%s : %s", source, exc)
+
+    browser.close()
+    if browser.pages_rendered:
+        log.info("Navigateur sans tête : %d page(s) rendue(s)", browser.pages_rendered)
 
     merged = dedupe(all_items)
     merged.sort(key=item_sort_key, reverse=True)

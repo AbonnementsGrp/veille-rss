@@ -339,3 +339,170 @@ class TestFluxFiltreParCategorie:
         from veille.pipeline import identity
         assert identity(self._site(["La restauration collective"]))["feed_categories"] == ["La restauration collective"]
         assert identity({"name": "S", "url": "https://s.fr/"})["feed_categories"] == []
+
+
+class NavigateurFactice:
+    """Tient lieu de BrowserSession : sert une page rendue, note adresses et sélecteurs."""
+
+    def __init__(self, html: str):
+        self.html = html
+        self.urls: list[str] = []
+        self.selecteurs: list[str] = []
+
+    def for_site(self, site):
+        self.selecteurs.append(str(site.get("render_wait_for") or ""))
+        return self
+
+    def get(self, url, timeout=None, allow_redirects=False):
+        self.urls.append(url)
+        return StubResponse(self.html.encode("utf-8"), url)
+
+
+class TestRenduNavigateur:
+    """`render: true` : la page est lue par le navigateur, l'extraction reste la même."""
+
+    def _site(self, **extra):
+        return {"name": "Site JS", "url": "https://exemple.fr/actualites/", "mode": "page", "render": True, **extra}
+
+    def test_la_page_est_lue_par_le_navigateur_et_la_methode_le_dit(self, fixture_text):
+        navigateur = NavigateurFactice(fixture_text("page_selectors.html"))
+        items, method = fetch_items(ExplodingSession(), self._site(render_wait_for="article"), "", 10, 60, navigateur)
+        assert method.startswith("navigateur : ")
+        assert items
+        assert navigateur.urls == ["https://exemple.fr/actualites/"]
+        assert navigateur.selecteurs == ["article"], "le sélecteur d'attente de la source est transmis"
+
+    def test_sans_navigateur_la_source_est_en_erreur_explicite(self):
+        with pytest.raises(RuntimeError, match="navigateur"):
+            fetch_items(StubSession(b"<html></html>"), self._site(), "", 10, 60)
+
+    def test_aucune_decouverte_de_flux_sur_un_site_rendu(self):
+        assert resolve_feed_url(ExplodingSession(), self._site(), 10) == ""
+
+    def test_en_mode_plan_de_site_le_plan_reste_lu_en_http(self, fixture_bytes):
+        session = StubSession(fixture_bytes("sitemap_news.xml"))
+        navigateur = NavigateurFactice("<html></html>")
+        site = {"name": "ANAP", "url": "https://exemple.fr/s/actualites", "mode": "sitemap",
+                "sitemap": "https://exemple.fr/s/sitemap-news-1.xml", "render": True}
+        items, method = fetch_items(session, site, "", 10, 60, navigateur)
+        assert method == "plan de site"
+        assert len(items) == 3
+        assert navigateur.urls == [], "le navigateur ne sert qu'aux pages d'articles"
+
+    def test_l_identite_signale_le_rendu(self):
+        from veille.pipeline import identity
+        assert identity(self._site())["render"] is True
+        assert identity({"name": "S", "url": "https://s.fr/"})["render"] is False
+
+
+TITRE_REEL = "Handicap : l'Anap outille la transformation vers une offre de services coordonnés"
+
+
+class SessionPageArticleTitree(SessionPageArticle):
+    """Page d'article dont les métadonnées de partage portent aussi le titre."""
+
+    def __init__(self, titre: str = TITRE_REEL):
+        super().__init__()
+        self.titre = titre
+
+    def get(self, url, timeout=None, allow_redirects=False):
+        self.urls.append(url)
+        return StubResponse(
+            f'<html><head><title>Site de l\'Anap</title><meta property="og:title" content="{self.titre}">'
+            f'<meta property="og:description" content="{RESUME}"></head><body></body></html>'.encode("utf-8"), url)
+
+
+class TestEnrichissementDesTitres:
+    """Les titres tirés d'un plan de site ne sont que des ébauches : la page fait foi."""
+
+    def _ebauche(self):
+        return Item("ANAP", "Handicap offre services coordonnes transformation",
+                    "https://exemple.fr/s/article/handicap-offre-services-coordonnes-transformation")
+
+    def test_le_titre_de_la_page_remplace_l_ebauche_sans_changer_l_identite(self):
+        from veille.pipeline import enrich_descriptions
+        item = self._ebauche()
+        identite = item.uid
+        history = {item.uid: {"uid": item.uid, "title": item.title}}
+        assert enrich_descriptions(SessionPageArticleTitree(), [item], history, 5, 10, titles=True) == 1
+        assert item.title == TITRE_REEL
+        assert item.description == RESUME
+        assert item.uid == identite
+        assert history[identite]["title"] == TITRE_REEL
+        assert history[identite]["title_enriched"] is True
+
+    def test_le_titre_corrige_survit_a_l_execution_suivante(self):
+        from veille.pipeline import enrich_descriptions
+        item = self._ebauche()
+        history: dict = {}
+        record_in_history([item], history)
+        enrich_descriptions(SessionPageArticleTitree(), [item], history, 5, 10, titles=True)
+
+        revenu = self._ebauche()  # le plan de site redonne l'ébauche à chaque exécution
+        assert record_in_history([revenu], history) == 0
+        assert revenu.title == TITRE_REEL
+        assert history[revenu.uid]["title"] == TITRE_REEL
+
+    def test_sans_titles_le_titre_d_origine_est_conserve(self):
+        from veille.pipeline import enrich_descriptions
+        item = Item("S", "Titre du flux", "https://exemple.fr/a")
+        history = {item.uid: {"uid": item.uid}}
+        enrich_descriptions(SessionPageArticleTitree(), [item], history, 5, 10)
+        assert item.title == "Titre du flux"
+        assert item.description == RESUME
+        assert "title_enriched" not in history[item.uid]
+
+    @pytest.mark.parametrize("titre", ["ANAP", "SIGLE EN CAPITALES", "Court"])
+    def test_un_titre_douteux_est_ignore(self, titre):
+        from veille.pipeline import enrich_descriptions
+        item = self._ebauche()
+        history = {item.uid: {"uid": item.uid}}
+        enrich_descriptions(SessionPageArticleTitree(titre), [item], history, 5, 10, titles=True)
+        assert item.title == "Handicap offre services coordonnes transformation"
+        assert item.description == RESUME, "le résumé, lui, est pris"
+
+    def test_un_article_deja_resume_mais_au_titre_ebauche_est_visite(self):
+        from veille.pipeline import enrich_descriptions
+        item = self._ebauche()
+        item.description = "Résumé déjà connu."
+        history = {item.uid: {"uid": item.uid, "description": item.description}}
+        session = SessionPageArticleTitree()
+        assert enrich_descriptions(session, [item], history, 5, 10, titles=True) == 1
+        assert item.title == TITRE_REEL
+        assert item.description == "Résumé déjà connu.", "un résumé connu n'est pas remplacé"
+
+    def test_une_page_visitee_sans_navigateur_est_revisitee_pour_son_titre(self):
+        """Avant le navigateur, les pages ANAP ont été visitées en vain : la marque ne doit pas bloquer le titre."""
+        from veille.pipeline import enrich_descriptions
+        item = self._ebauche()
+        history = {item.uid: {"uid": item.uid, "description_checked": True}}
+        session = SessionPageArticleTitree()
+        assert enrich_descriptions(session, [item], history, 5, 10, titles=True) == 1
+        assert item.title == TITRE_REEL
+        assert item.description == RESUME, "le résumé profite de la seconde visite"
+        assert history[item.uid]["title_checked"] is True
+
+    def test_un_titre_introuvable_n_est_cherche_qu_une_fois(self):
+        from veille.pipeline import enrich_descriptions
+        item = self._ebauche()
+        history = {item.uid: {"uid": item.uid}}
+        session = SessionPageArticle()  # page sans og:title
+        assert enrich_descriptions(session, [item], history, 5, 10, titles=True) == 1
+        assert item.title == "Handicap offre services coordonnes transformation"
+        assert enrich_descriptions(session, [item], history, 5, 10, titles=True) == 0
+        assert len(session.urls) == 1
+
+    def test_sans_titles_la_marque_du_titre_n_est_pas_posee(self):
+        from veille.pipeline import enrich_descriptions
+        item = Item("S", "Titre du flux", "https://exemple.fr/a")
+        history = {item.uid: {"uid": item.uid}}
+        enrich_descriptions(SessionPageArticleTitree(), [item], history, 5, 10)
+        assert "title_checked" not in history[item.uid]
+
+    def test_un_article_deja_resume_au_titre_sur_n_est_pas_visite(self):
+        from veille.pipeline import enrich_descriptions
+        item = Item("S", "Titre du flux", "https://exemple.fr/a", description="Résumé du flux")
+        history = {item.uid: {"uid": item.uid}}
+        session = SessionPageArticleTitree()
+        assert enrich_descriptions(session, [item], history, 5, 10) == 0
+        assert session.urls == []
