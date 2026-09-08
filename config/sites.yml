@@ -22,10 +22,10 @@ settings:
   # alphabétique, et « Autres » regroupe en dernier les sources sans domaine.
   themes:
     - "ANTIGUA"
+    - "Culture"
     - "Enfance & Éducation"
     - "Restauration"
     - "Santé, social & séniors"
-    - "SPECTRE_Culture"
     - "Tourisme"
 
 sites:
@@ -79,7 +79,7 @@ sites:
 
   - name: "Observatoire de la culture"
     short_name: "Observatoire de la culture"
-    theme: "SPECTRE_Culture"
+    theme: "Culture"
     url: "https://www.observatoire-culture.net/"
     output: "observatoire-culture.xml"
 

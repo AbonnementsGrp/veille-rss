@@ -26,10 +26,10 @@ body:
       description: Rubrique du tableau de bord dans laquelle classer la source.
       options:
         - "ANTIGUA"
+        - "Culture"
         - "Enfance & Éducation"
         - "Restauration"
         - "Santé, social & séniors"
-        - "SPECTRE_Culture"
         - "Tourisme"
     validations:
       required: true
