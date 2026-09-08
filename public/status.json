@@ -1,9 +1,9 @@
 {
-  "generated_at": "2026-09-08T09:57:05.251603+00:00",
+  "generated_at": "2026-09-08T10:30:11.209906+00:00",
   "sites_total": 11,
-  "sites_ok": 10,
-  "sites_error": 1,
-  "new_items": 6,
+  "sites_ok": 11,
+  "sites_error": 0,
+  "new_items": 8,
   "merged_items": 306,
   "sites": [
     {
@@ -86,11 +86,10 @@
       "theme": "Santé, social & séniors",
       "url": "https://www.anap.fr/s/actualites",
       "feed_categories": [],
-      "status": "error",
-      "method": "historique conservé",
+      "status": "ok",
+      "method": "plan de site",
       "items": 60,
       "feed": "anap.xml",
-      "error": "HTTPSConnectionPool(host='www.anap.fr', port=443): Max retries exceeded with url: /s/sitemap-topicarticle-1.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",
       "source_feed": ""
     },
     {

@@ -1,4 +1,76 @@
 {
+  "13da771f423c60183e46b179e539ec52b0d767b64907498803da5844b198b81f": {
+    "source": "ANAP - Actualités",
+    "title": "Referentiel national bloc operatoire eco responsable",
+    "link": "https://www.anap.fr/s/article/referentiel-national-bloc-operatoire-eco-responsable",
+    "description": "",
+    "published": "2026-09-07T16:14:19+00:00",
+    "first_seen": "2026-09-08T10:30:05.382727+00:00",
+    "uid": "13da771f423c60183e46b179e539ec52b0d767b64907498803da5844b198b81f"
+  },
+  "c7cc6cb077dd7a2ab774d54a8b09c382f8f2f923d5d04c9361d0d1923d3c0488": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaires RH Gestion du temps de travail",
+    "link": "https://www.anap.fr/s/article/webinaires-RH-Gestion-du-temps-de-travail",
+    "description": "",
+    "published": "2026-09-07T14:33:12+00:00",
+    "first_seen": "2026-09-08T10:30:05.382727+00:00",
+    "uid": "c7cc6cb077dd7a2ab774d54a8b09c382f8f2f923d5d04c9361d0d1923d3c0488"
+  },
+  "3dd0eb62f66fc8876767160b92d21fa43f70df89d90d60210866c2715698f323": {
+    "source": "ANAP - Actualités",
+    "title": "Reorienter depuis les urgences vers la bonne filiere de soin",
+    "link": "https://www.anap.fr/s/article/Reorienter-depuis-les-urgences-vers-la-bonne-filiere-de-soin",
+    "description": "",
+    "published": "2026-09-07T07:47:10+00:00",
+    "first_seen": "2026-09-08T10:30:05.382727+00:00",
+    "uid": "3dd0eb62f66fc8876767160b92d21fa43f70df89d90d60210866c2715698f323"
+  },
+  "9e487995a3b4bcee22754ac5809bb54638c3b8223642f2a397da7ea9dca7c1da": {
+    "source": "ANAP - Actualités",
+    "title": "Webconférence Admission J0 moins de nuitees plus de fluidite",
+    "link": "https://www.anap.fr/s/article/Webconf%C3%A9rence-Admission-J0-moins-de-nuitees-plus-de-fluidite",
+    "description": "",
+    "published": "2026-09-03T12:13:43+00:00",
+    "first_seen": "2026-09-08T10:30:05.382727+00:00",
+    "uid": "9e487995a3b4bcee22754ac5809bb54638c3b8223642f2a397da7ea9dca7c1da"
+  },
+  "eb5317d0d16ae114cb567c758de876bdcfaea676812c39059af23a2a03e7e5dc": {
+    "source": "ANAP - Actualités",
+    "title": "Laboratoire d innovation un essentiel pour transformer nos etablissements",
+    "link": "https://www.anap.fr/s/article/Laboratoire-d-innovation-un-essentiel-pour-transformer-nos-etablissements",
+    "description": "",
+    "published": "2026-09-01T13:29:03+00:00",
+    "first_seen": "2026-09-08T10:30:05.382727+00:00",
+    "uid": "eb5317d0d16ae114cb567c758de876bdcfaea676812c39059af23a2a03e7e5dc"
+  },
+  "0e9af53db0a8e266f0e92c16546f7be55ed02ce91d48896b7dfdf285327ac223": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire Développement durable et Certification HAS les outils de l Anap pour vous aider",
+    "link": "https://www.anap.fr/s/article/Webinaire-D%C3%A9veloppement-durable-et-Certification-HAS-les-outils-de-l-Anap-pour-vous-aider",
+    "description": "",
+    "published": "2026-09-01T12:04:34+00:00",
+    "first_seen": "2026-09-08T10:30:05.382727+00:00",
+    "uid": "0e9af53db0a8e266f0e92c16546f7be55ed02ce91d48896b7dfdf285327ac223"
+  },
+  "4635f81c4de9cb90d6b54a7d2833e731db05a2a5ee28bbe2bd34ccd32efd6c28": {
+    "source": "ANAP - Actualités",
+    "title": "Mon empreinte carbone",
+    "link": "https://www.anap.fr/s/article/mon-empreinte-carbone",
+    "description": "",
+    "published": "2026-09-01T08:21:04+00:00",
+    "first_seen": "2026-09-08T10:30:05.382727+00:00",
+    "uid": "4635f81c4de9cb90d6b54a7d2833e731db05a2a5ee28bbe2bd34ccd32efd6c28"
+  },
+  "13c4949541e0ea4771e5d838c068488ae9e9920fd031c6dde6d247fbc54b48fc": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire evaluez votre empreinte carbone avec l anap",
+    "link": "https://www.anap.fr/s/article/webinaire-evaluez-votre-empreinte-carbone-avec-l-anap",
+    "description": "",
+    "published": "2026-08-31T15:32:48+00:00",
+    "first_seen": "2026-09-08T10:30:05.382727+00:00",
+    "uid": "13c4949541e0ea4771e5d838c068488ae9e9920fd031c6dde6d247fbc54b48fc"
+  },
   "433844efa299b4e9fcde5927434bb52515b1b471675310f71fe51c8142eef302": {
     "source": "SNRC",
     "title": "Découvrez le dossier de presse du sondage exclusif IPSOS « Les Français et les entreprises de la restauration collective »",
@@ -1243,7 +1315,7 @@
     "title": "Reperes dimensionnels dsi gouvernance systeme information dsi dsn",
     "link": "https://www.anap.fr/s/article/reperes-dimensionnels-dsi-gouvernance-systeme-information-dsi-dsn",
     "description": "",
-    "published": "2026-07-21T05:56:08+00:00",
+    "published": "2026-09-03T14:19:08+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "af08e4100c87766465a35cfa2f71a65118b4425cbb86717948e0cef135883967"
   },
