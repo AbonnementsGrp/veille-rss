@@ -2,6 +2,7 @@
 
 from __future__ import annotations
 
+import re
 import xml.etree.ElementTree as ET
 from email.utils import parsedate_to_datetime
 
@@ -452,3 +453,69 @@ class TestLiensDeGestion:
         assert "template=supprimer-source.yml" in REMOVE_SOURCE_URL
         assert "template=renommer-domaine.yml" in RENAME_THEME_URL
         assert page.index(PROPOSE_SOURCE_URL) < page.index(REMOVE_SOURCE_URL) < page.index(PROPOSE_THEME_URL) < page.index(RENAME_THEME_URL)
+
+
+class TestSurveillance:
+    """Une source OK peut être « à surveiller » : ⚠ orange, détail en clair, compteur."""
+
+    AVERTISSEMENT = "rien de neuf depuis 203 jours (seuil : 60)"
+
+    def _sources(self):
+        return [
+            {**source_status("SNRC", "SNRC", "Restauration", "snrc.xml"), "warnings": [self.AVERTISSEMENT]},
+            {**source_status("C2L", "C2L", "Restauration", "c2l.xml"), "warnings": []},
+            {**source_status("ANAP", "ANAP", "Santé, social & séniors", "anap.xml", "error"),
+             "error": "boom", "warnings": ["sans objet pour une erreur"]},
+            source_status("CNSA", "CNSA", "Santé, social & séniors", "cnsa.xml"),
+        ]
+
+    def _page(self, tmp_path, sources=None):
+        sources = self._sources() if sources is None else sources
+        creer_flux(tmp_path, sources)
+        write_dashboard({**PAYLOAD, "sites_warning": 1, "sites": sources}, "T", public_dir=tmp_path)
+        return (tmp_path / "index.html").read_text(encoding="utf-8")
+
+    def _ligne(self, page, nom):
+        return re.search(rf'<tr><td><span title="{nom}">.*?</tr>', page, re.S).group(0)
+
+    def test_un_avertissement_marque_l_etat_sans_le_changer(self, tmp_path):
+        ligne = self._ligne(self._page(tmp_path), "SNRC")
+        assert ("<span class='ok'>OK</span> "
+                f'<span class="warn" title="À surveiller : {self.AVERTISSEMENT}">⚠</span>') in ligne
+        assert f'<span class="avert">⚠ {self.AVERTISSEMENT}</span>' in ligne
+
+    def test_une_source_sans_avertissement_reste_intacte(self, tmp_path):
+        assert "⚠" not in self._ligne(self._page(tmp_path), "C2L")
+
+    def test_une_source_en_erreur_n_affiche_pas_d_avertissement(self, tmp_path):
+        ligne = self._ligne(self._page(tmp_path), "ANAP")
+        assert "sans objet pour une erreur" not in ligne
+        assert ">ERREUR<" in ligne
+
+    def test_le_sommaire_signale_un_domaine_a_surveiller_l_erreur_primant(self, tmp_path):
+        page = self._page(tmp_path)
+        nav = re.findall(r'nav class="domaines".*?</nav>', page, re.S)[0]
+        entrees = re.findall(r"<li>.*?</li>", nav)
+        assert '<span class="warn" title="1 source(s) à surveiller">⚠</span>' in entrees[0]
+        assert '<span class="error" title="1 source(s) en erreur">⚠</span>' in entrees[1]
+        assert "à surveiller" not in entrees[1]
+
+    def test_le_compteur_a_surveiller_figure_parmi_les_cartes(self, tmp_path):
+        page = self._page(tmp_path)
+        assert "<strong>1</strong><br>à surveiller" in page
+        assert page.index("opérationnelles") < page.index("à surveiller") < page.index("en erreur")
+
+    def test_un_etat_json_sans_surveillance_reste_lisible(self, tmp_path):
+        """Les status.json antérieurs n'ont ni compteur ni avertissements."""
+        sources = [source_status("CNSA", "CNSA", "Santé, social & séniors", "cnsa.xml")]
+        creer_flux(tmp_path, sources)
+        write_dashboard({**PAYLOAD, "sites": sources}, "T", public_dir=tmp_path)
+        page = (tmp_path / "index.html").read_text(encoding="utf-8")
+        assert "<strong>0</strong><br>à surveiller" in page
+        assert "⚠" not in re.search(r"<tbody>.*</tbody>", page, re.S).group(0)
+
+    def test_les_avertissements_sont_echappes(self, tmp_path):
+        sources = [{**source_status("X", "X", "Culture", "x.xml"), "warnings": ['titre "douteux" <b>']}]
+        page = self._page(tmp_path, sources)
+        assert 'title="À surveiller : titre &quot;douteux&quot; &lt;b&gt;"' in page
+        assert '<span class="avert">⚠ titre &quot;douteux&quot; &lt;b&gt;</span>' in page

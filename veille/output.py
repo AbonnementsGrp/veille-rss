@@ -58,6 +58,10 @@ DASHBOARD_STYLE = (
     "table{border-collapse:collapse;width:100%}"
     "th,td{border-bottom:1px solid #ddd;text-align:left;padding:12px 8px;vertical-align:top}"
     "th{background:#f7f7f7}.ok{color:#087830;font-weight:bold}.error{color:#b42318;font-weight:bold}"
+    # « À surveiller » : la source répond, mais quelque chose cloche ; en orange,
+    # entre le vert du OK et le rouge de l'erreur.
+    ".warn{color:#b45309;font-weight:bold;cursor:help}"
+    "td.detail .avert{display:block;color:#b45309;font-size:12px;margin-top:4px}"
     "tr.theme th{background:#eef2f7;color:#334155;font-size:13px;letter-spacing:.04em;text-transform:uppercase;padding-top:18px}"
     "a{color:#075e9e}code{background:#f3f4f6;padding:2px 5px;border-radius:4px}"
     ".stale{background:#fef3c7;border:1px solid #f59e0b;color:#92400e;padding:12px 16px;border-radius:8px;margin:16px 0}"
@@ -215,11 +219,19 @@ def detail_cell(site: dict[str, Any]) -> str:
     methode = html.escape(site.get("method", ""))
     erreur = site.get("error", "")
     if not erreur:
-        return f'<td class="detail">{methode}</td>'
+        avertissements = "".join(f'<span class="avert">⚠ {html.escape(str(a))}</span>' for a in warnings_of(site))
+        return f'<td class="detail">{methode}{avertissements}</td>'
     resume = html.escape(summarize_error(erreur))
     visible = f"{methode} — {resume}" if methode else resume
     return (f'<td class="detail"><details><summary>{visible}</summary>'
             f'<div class="brut">{html.escape(erreur)}</div></details></td>')
+
+
+def warnings_of(site: dict[str, Any]) -> list[str]:
+    """Les avertissements de surveillance d'une source en état OK ; rien pour une erreur."""
+    if site.get("status") != "ok":
+        return []
+    return [str(a) for a in (site.get("warnings") or []) if str(a).strip()]
 
 
 def source_row(site: dict[str, Any], public_dir: Path) -> str:
@@ -227,6 +239,11 @@ def source_row(site: dict[str, Any], public_dir: Path) -> str:
     ok = site["status"] == "ok"
     etat = "OK" if ok else "ERREUR"
     css = "ok" if ok else "error"
+    avertissements = warnings_of(site)
+    surveiller = ""
+    if avertissements:
+        infobulle = html.escape("À surveiller : " + " ; ".join(avertissements), quote=True)
+        surveiller = f' <span class="warn" title="{infobulle}">⚠</span>'
     a_un_flux = bool(site.get("feed")) and (public_dir / site["feed"]).exists()
     lien_flux = f'<a href="{html.escape(site["feed"])}">Flux RSS</a>' if a_un_flux else "—"
     # Le nom court suffit à l'écran ; le nom complet reste lisible au survol.
@@ -234,7 +251,7 @@ def source_row(site: dict[str, Any], public_dir: Path) -> str:
     complet = html.escape(site["site"], quote=True)
     return (
         f'<tr><td><span title="{complet}">{affiche}</span></td>'
-        f"<td><span class='{css}'>{etat}</span></td>"
+        f"<td><span class='{css}'>{etat}</span>{surveiller}</td>"
         f"<td>{site.get('items', 0)}</td>"
         f"{native_feed_cell(site)}"
         f"<td>{lien_flux}</td>"
@@ -247,17 +264,17 @@ def theme_anchor(theme: str) -> str:
     return "domaine-" + (re.sub(r"[^a-z0-9]+", "-", sort_key(theme)).strip("-") or "sans-nom")
 
 
-def domain_summary(sites: list[dict[str, Any]]) -> list[tuple[str, int, int]]:
-    """Pour chaque domaine, dans l'ordre reçu : (nom, nombre de sources, nombre en erreur)."""
-    resume: list[tuple[str, int, int]] = []
+def domain_summary(sites: list[dict[str, Any]]) -> list[tuple[str, int, int, int]]:
+    """Pour chaque domaine, dans l'ordre reçu : (nom, sources, en erreur, à surveiller)."""
+    resume: list[tuple[str, int, int, int]] = []
     for site in sites:
         domaine = site.get("theme") or ""
         if not domaine:
             continue
         if not resume or resume[-1][0] != domaine:
-            resume.append((domaine, 0, 0))
-        nom, total, erreurs = resume[-1]
-        resume[-1] = (nom, total + 1, erreurs + (site.get("status") != "ok"))
+            resume.append((domaine, 0, 0, 0))
+        nom, total, erreurs, surveiller = resume[-1]
+        resume[-1] = (nom, total + 1, erreurs + (site.get("status") != "ok"), surveiller + bool(warnings_of(site)))
     return resume
 
 
@@ -272,8 +289,14 @@ def domain_nav(sites: list[dict[str, Any]]) -> str:
     if not resume:
         return ""
     entrees = []
-    for domaine, total, erreurs in resume:
-        alerte = (f' <span class="error" title="{erreurs} source(s) en erreur">⚠</span>' if erreurs else "")
+    for domaine, total, erreurs, surveiller in resume:
+        # L'erreur prime : un seul signe par domaine, du plus grave.
+        if erreurs:
+            alerte = f' <span class="error" title="{erreurs} source(s) en erreur">⚠</span>'
+        elif surveiller:
+            alerte = f' <span class="warn" title="{surveiller} source(s) à surveiller">⚠</span>'
+        else:
+            alerte = ""
         entrees.append(
             f'<li><a href="#{theme_anchor(domaine)}">{html.escape(domaine)}</a>'
             f' <span class="compte">{total}</span>{alerte}</li>'
@@ -307,10 +330,11 @@ def write_dashboard(payload: dict[str, Any], title: str, public_dir: Path | None
     sommaire = domain_nav(payload["sites"])
     generated = html.escape(payload["generated_at"])
     cards = "".join(
-        f'<div class="card"><strong>{payload[key]}</strong><br>{label}</div>'
+        f'<div class="card"><strong>{payload.get(key, 0)}</strong><br>{label}</div>'
         for key, label in (
             ("sites_total", "sources"),
             ("sites_ok", "opérationnelles"),
+            ("sites_warning", "à surveiller"),
             ("sites_error", "en erreur"),
             ("merged_items", "articles consolidés"),
             ("new_items", "nouveaux articles"),

@@ -11,6 +11,11 @@ settings:
   # page de l'article. Une page par article, jamais redemandée ensuite.
   enrich_descriptions: true
   max_enrichments_per_run: 25
+  # Surveillance : une source sans article neuf depuis plus de ce nombre de
+  # jours est signalée « à surveiller » au tableau de bord (⚠ à côté de OK).
+  # Une source à la cadence plus lente peut porter son propre seuil, avec la
+  # même clé dans son bloc.
+  stale_after_days: 60
   user_agent: "VeilleRSS/1.0 (+https://github.com/AbonnementsGrp/veille-rss)"
   # Domaines reconnus, proposés dans le formulaire d'ajout de source. L'ordre de
   # cette liste est sans effet : le tableau de bord classe les domaines par ordre

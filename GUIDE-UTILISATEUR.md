@@ -56,20 +56,21 @@ derniers états et donne accès à chaque flux.
 
 ## Lire le tableau de bord
 
-La page d'accueil affiche cinq compteurs, puis un tableau des sources groupées
+La page d'accueil affiche six compteurs, puis un tableau des sources groupées
 par domaine. Domaines et sources y sont classés par ordre alphabétique ; les
 sources sans domaine sont regroupées en dernier sous « Autres ».
 
 À gauche du tableau, un **sommaire des domaines** reste visible pendant le
 défilement : cliquez un domaine pour arriver directement sur sa rubrique, qui se
-surligne un instant. Chaque entrée indique le nombre de sources du domaine, et
-un ⚠ signale qu'au moins une est en erreur. Sur un écran étroit, ce sommaire
-passe au-dessus du tableau.
+surligne un instant. Chaque entrée indique le nombre de sources du domaine ; un
+⚠ rouge signale qu'au moins une source est en erreur, un ⚠ orange qu'une source
+est à surveiller (voir la colonne État). Sur un écran étroit, ce sommaire passe
+au-dessus du tableau.
 
 | Colonne | Ce qu'elle dit |
 |---|---|
 | **Source** | Le nom court. Survolez-le pour voir le nom complet. |
-| **État** | `OK` si la source a répondu, `ERREUR` sinon. |
+| **État** | `OK` si la source a répondu, `ERREUR` sinon. Un ⚠ orange à côté de `OK` signale une source **à surveiller** : elle répond, mais rien de neuf n'est paru depuis plus de deux mois, ou les articles extraits ont l'air douteux (titres de menu, dates absentes ou dans le futur). Survolez le ⚠ ; le détail est aussi écrit dans la dernière colonne. |
 | **Articles** | Nombre d'articles publiés dans le flux de cette source. |
 | **Flux** | L'adresse du flux RSS que le site publie lui-même, en clair, avec un bouton **Copier**. « pas de flux publié » signifie que le site n'en publie pas d'exploitable : la veille l'a lu sur sa page ou son plan de site, utilisez alors la colonne Activité. La mention « filtré : … » indique que la veille ne garde de ce flux qu'une catégorie ; un abonnement direct à l'adresse recevrait tout le site. |
 | **Activité** | Lien vers le flux RSS produit par la veille pour cette source : articles dédoublonnés, résumés complétés, historique conservé. |
@@ -219,6 +220,14 @@ d'ancienneté du tableau de bord.
 Oui. Quand une source devient injoignable, son dernier contenu connu reste
 publié plutôt que de disparaître. L'état signale qu'il n'y a rien de neuf, pas
 que tout est perdu.
+
+**Une source est `OK` mais porte un ⚠ orange.**
+Elle répond, mais la veille a remarqué quelque chose : rien de neuf depuis plus
+de deux mois, des titres qui ressemblent à des liens de menu, des articles sans
+date ou datés dans le futur. Le détail est écrit sous la méthode, dans la
+dernière colonne. Le plus souvent, le site a simplement cessé de publier — la
+rubrique « Publics fragiles » de Localtis est dans ce cas depuis 2024. Si la
+source vous paraît cassée, signalez-le (voir « Signaler un problème »).
 
 **Certains articles n'ont pas de résumé.**
 Quand le flux d'un site n'en fournit pas, le résumé est lu sur la page de

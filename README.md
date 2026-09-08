@@ -32,6 +32,22 @@ disponible en JSON dans
 [`status.json`](https://abonnementsgrp.github.io/veille-rss/status.json), pour
 une supervision automatisée.
 
+Une source qui répond peut se dégrader sans bruit : le site a cessé de publier,
+un sélecteur cassé ne ramène plus que le menu, les dates ont disparu. La veille
+le repère (`veille/quality.py`) et marque la source **à surveiller** : un ⚠
+orange à côté de `OK`, le détail en clair sous la méthode, un compteur dédié, et
+dans `status.json` la liste `warnings` de chaque source. Les contrôles :
+
+- rien de neuf depuis plus de `stale_after_days` jours (60 par défaut, réglable
+  dans `settings` et par source) ;
+- pour une extraction de page, au moins 30 % des titres frais qui ressemblent à
+  des liens de navigation (menu, pagination, rubrique, adresse de la page
+  suivie) ;
+- pour une extraction de page, aucun article daté ;
+- des articles datés dans le futur.
+
+Un avertissement ne change pas l'état : la source reste publiée.
+
 Les méthodes possibles, de la plus fiable à la plus fragile :
 
 | Méthode | Signification |
@@ -298,6 +314,7 @@ sortie :
 | `sitemap` | URL du plan de site à lire, obligatoire avec `mode: sitemap`. |
 | `render` | `true` : les pages du site sont rendues par le navigateur sans tête (Chromium via Playwright) avant lecture. Avec `mode: page`, la page d'actualités elle-même ; avec `mode: sitemap`, les pages d'articles, pour en tirer titre et résumé. Le formulaire d'ajout le propose de lui-même quand seule la page rendue montre des articles. |
 | `render_wait_for` | Sélecteur CSS dont l'apparition signale que la page rendue est complète (`'meta[property="og:title"]'` pour l'ANAP). Sans lui, la veille attend le calme du réseau puis la stabilité du document. |
+| `stale_after_days` | Nombre de jours sans nouvel article au-delà duquel la source est marquée à surveiller. Remplace, pour cette source, la valeur de `settings.stale_after_days` (60). Pour une publication trimestrielle, par exemple. |
 | `selectors` | Sélecteurs CSS (`item`, `title`, `description`, `date`) pour les sites sans flux. |
 | `link_patterns` | Fragments d'URL caractéristiques des articles, pour orienter le dernier recours. |
 
@@ -338,7 +355,8 @@ veille-rss/
 │   ├── feeds.py             lecture RSS/Atom, découverte du flux d'un site
 │   ├── extract.py           extraction HTML : JSON-LD, sélecteurs, liens
 │   ├── sitemap.py           extraction depuis un plan de site
-│   ├── enrich.py            résumé lu sur la page d'un article
+│   ├── enrich.py            titre et résumé lus sur la page d'un article
+│   ├── quality.py           surveillance : silence prolongé, titres de navigation, dates
 │   ├── onboarding.py        enquête sur une URL en vue d'en faire une source
 │   ├── themes.py            domaines : ajout, renommage, configuration et formulaire ensemble
 │   ├── sources.py           suppression d'une source : configuration, historique, flux
@@ -464,6 +482,8 @@ si une source le demande.
   l'ANAP aura corrigé sa configuration ; le laisser ne gêne pas.
 - **La rubrique Publics fragiles de Localtis est dormante** : aucun article
   publié depuis avril 2024. Le flux est valide, la source ne l'alimente plus.
+  Le tableau de bord la marque « à surveiller », comme toute source silencieuse
+  depuis plus de deux mois : c'est voulu, l'avertissement dit la vérité.
 
 ## Contraintes
 

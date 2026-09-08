@@ -23,6 +23,7 @@ from veille.feeds import discover_feed, parse_feed_bytes
 from veille.fetch import is_feed_content, request_session
 from veille.history import history_items_for_source, load_history, save_history
 from veille.models import Item, dedupe
+from veille.quality import quality_warnings
 from veille.sitemap import items_from_sitemap
 from veille.output import write_dashboard, write_feed, write_opml
 
@@ -256,9 +257,15 @@ def run() -> int:
                                                      titles=mode_sitemap)
             write_feed(source_items, source, f"Actualités de {source}", PUBLIC_DIR / output_name, site["url"], urljoin(BASE_URL, output_name))
             all_items.extend(source_items)
+            # Une source qui répond peut se dégrader sans bruit : plus rien de
+            # neuf, ou des titres qui ne sont plus que le menu du site.
+            avertissements = quality_warnings(items, source_items, site, settings, method, utc_now())
             statuses.append({**identity(site), "status": "ok", "method": method,
-                             "items": len(source_items), "feed": output_name, "source_feed": feed_url})
+                             "items": len(source_items), "feed": output_name, "source_feed": feed_url,
+                             "warnings": avertissements})
             log.info("%s : %d article(s) via %s", source, len(source_items), method)
+            for avertissement in avertissements:
+                log.warning("%s : à surveiller, %s", source, avertissement)
         except Exception as exc:
             previous = history_items_for_source(history, source, max_items) if keep_previous else []
             if previous:
@@ -267,7 +274,7 @@ def run() -> int:
             statuses.append({**identity(site), "status": "error",
                              "method": "historique conservé" if previous else "échec",
                              "items": len(previous), "feed": output_name, "error": str(exc),
-                             "source_feed": feed_url})
+                             "source_feed": feed_url, "warnings": []})
             log.error("%s : %s", source, exc)
 
     browser.close()
@@ -292,6 +299,7 @@ def run() -> int:
         "sites_total": len(sites),
         "sites_ok": sum(s["status"] == "ok" for s in statuses),
         "sites_error": sum(s["status"] == "error" for s in statuses),
+        "sites_warning": sum(1 for s in statuses if s["status"] == "ok" and s.get("warnings")),
         "new_items": new_count,
         "merged_items": len(merged),
         "sites": statuses,
