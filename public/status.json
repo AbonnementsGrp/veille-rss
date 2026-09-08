@@ -1,11 +1,22 @@
 {
-  "generated_at": "2026-09-07T19:11:06.611961+00:00",
+  "generated_at": "2026-09-08T08:36:25.482234+00:00",
   "sites_total": 11,
   "sites_ok": 10,
   "sites_error": 1,
   "new_items": 1,
-  "merged_items": 304,
+  "merged_items": 305,
   "sites": [
+    {
+      "site": "Observatoire de la culture",
+      "short_name": "Observatoire de la culture",
+      "theme": "Culture",
+      "url": "https://www.observatoire-culture.net/",
+      "status": "ok",
+      "method": "flux détecté",
+      "items": 13,
+      "feed": "observatoire-culture.xml",
+      "source_feed": "https://www.observatoire-culture.net/feed/"
+    },
     {
       "site": "Enfance & Jeunesse Infos - Veille juridique",
       "short_name": "Enfance & Jeunesse Infos",
@@ -13,20 +24,9 @@
       "url": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/",
       "status": "ok",
       "method": "flux officiel",
-      "items": 32,
+      "items": 33,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/"
-    },
-    {
-      "site": "Les Pros de la Petite Enfance",
-      "short_name": "Pros de la petite enfance",
-      "theme": "Enfance & Éducation",
-      "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
-      "status": "ok",
-      "method": "flux détecté",
-      "items": 50,
-      "feed": "pros-petite-enfance.xml",
-      "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/"
     },
     {
       "site": "Localtis - Jeunesse, éducation et formation",
@@ -40,71 +40,15 @@
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml"
     },
     {
-      "site": "CNSA - Actualités",
-      "short_name": "CNSA",
-      "theme": "Santé, social & séniors",
-      "url": "https://www.cnsa.fr/actualites",
-      "status": "ok",
-      "method": "flux officiel",
-      "items": 29,
-      "feed": "cnsa.xml",
-      "source_feed": "https://www.cnsa.fr/flux-rss.xml/article"
-    },
-    {
-      "site": "Localtis - Publics fragiles",
-      "short_name": "Localtis — Publics fragiles",
-      "theme": "Santé, social & séniors",
-      "url": "https://www.banquedesterritoires.fr/thematiques/publics-fragiles",
-      "status": "ok",
-      "method": "flux officiel",
-      "items": 20,
-      "feed": "localtis-publics-fragiles.xml",
-      "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml"
-    },
-    {
-      "site": "IGAS",
-      "short_name": "IGAS",
-      "theme": "Santé, social & séniors",
-      "url": "https://igas.gouv.fr/actualites",
-      "status": "ok",
-      "method": "flux officiel",
-      "items": 38,
-      "feed": "igas.xml",
-      "source_feed": "https://igas.gouv.fr/rss.xml"
-    },
-    {
-      "site": "ANAP - Actualités",
-      "short_name": "ANAP",
-      "theme": "Santé, social & séniors",
-      "url": "https://www.anap.fr/s/actualites",
-      "status": "error",
-      "method": "historique conservé",
-      "items": 60,
-      "feed": "anap.xml",
-      "error": "HTTPSConnectionPool(host='www.anap.fr', port=443): Max retries exceeded with url: /s/sitemap-topicarticle-1.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",
-      "source_feed": ""
-    },
-    {
-      "site": "Observatoire de la culture",
-      "short_name": "Observatoire de la culture",
-      "theme": "Culture",
-      "url": "https://www.observatoire-culture.net/",
+      "site": "Les Pros de la Petite Enfance",
+      "short_name": "Pros de la petite enfance",
+      "theme": "Enfance & Éducation",
+      "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
       "status": "ok",
       "method": "flux détecté",
-      "items": 13,
-      "feed": "observatoire-culture.xml",
-      "source_feed": "https://www.observatoire-culture.net/feed/"
-    },
-    {
-      "site": "ADN Tourisme",
-      "short_name": "ADN Tourisme",
-      "theme": "Tourisme",
-      "url": "https://www.adn-tourisme.fr/publications/actus/",
-      "status": "ok",
-      "method": "flux détecté",
-      "items": 10,
-      "feed": "adn-tourisme.xml",
-      "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/"
+      "items": 50,
+      "feed": "pros-petite-enfance.xml",
+      "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/"
     },
     {
       "site": "C2L Solutions - Restauration collective",
@@ -127,6 +71,62 @@
       "items": 10,
       "feed": "snrc.xml",
       "source_feed": ""
+    },
+    {
+      "site": "ANAP - Actualités",
+      "short_name": "ANAP",
+      "theme": "Santé, social & séniors",
+      "url": "https://www.anap.fr/s/actualites",
+      "status": "error",
+      "method": "historique conservé",
+      "items": 60,
+      "feed": "anap.xml",
+      "error": "HTTPSConnectionPool(host='www.anap.fr', port=443): Max retries exceeded with url: /s/sitemap-topicarticle-1.xml (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1010)')))",
+      "source_feed": ""
+    },
+    {
+      "site": "CNSA - Actualités",
+      "short_name": "CNSA",
+      "theme": "Santé, social & séniors",
+      "url": "https://www.cnsa.fr/actualites",
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 29,
+      "feed": "cnsa.xml",
+      "source_feed": "https://www.cnsa.fr/flux-rss.xml/article"
+    },
+    {
+      "site": "IGAS",
+      "short_name": "IGAS",
+      "theme": "Santé, social & séniors",
+      "url": "https://igas.gouv.fr/actualites",
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 38,
+      "feed": "igas.xml",
+      "source_feed": "https://igas.gouv.fr/rss.xml"
+    },
+    {
+      "site": "Localtis - Publics fragiles",
+      "short_name": "Localtis — Publics fragiles",
+      "theme": "Santé, social & séniors",
+      "url": "https://www.banquedesterritoires.fr/thematiques/publics-fragiles",
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 20,
+      "feed": "localtis-publics-fragiles.xml",
+      "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml"
+    },
+    {
+      "site": "ADN Tourisme",
+      "short_name": "ADN Tourisme",
+      "theme": "Tourisme",
+      "url": "https://www.adn-tourisme.fr/publications/actus/",
+      "status": "ok",
+      "method": "flux détecté",
+      "items": 10,
+      "feed": "adn-tourisme.xml",
+      "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/"
     }
   ]
 }
