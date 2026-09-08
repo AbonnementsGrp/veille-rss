@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-09-08T15:22:51.791570+00:00",
+  "generated_at": "2026-09-08T15:27:10.855511+00:00",
   "sites_total": 11,
   "sites_ok": 11,
   "sites_error": 0,
@@ -8,13 +8,27 @@
   "merged_items": 306,
   "themes": [
     "ANTIGUA",
+    "Culture",
     "Enfance & Éducation",
     "Restauration",
     "Santé, social & séniors",
-    "SPECTRE_Culture",
     "Tourisme"
   ],
   "sites": [
+    {
+      "site": "Observatoire de la culture",
+      "short_name": "Observatoire de la culture",
+      "theme": "Culture",
+      "url": "https://www.observatoire-culture.net/",
+      "feed_categories": [],
+      "render": false,
+      "status": "ok",
+      "method": "flux détecté",
+      "items": 13,
+      "feed": "observatoire-culture.xml",
+      "source_feed": "https://www.observatoire-culture.net/feed/",
+      "warnings": []
+    },
     {
       "site": "Enfance & Jeunesse Infos - Veille juridique",
       "short_name": "Enfance & Jeunesse Infos",
@@ -148,20 +162,6 @@
       "warnings": [
         "rien de neuf depuis 887 jours (seuil : 60)"
       ]
-    },
-    {
-      "site": "Observatoire de la culture",
-      "short_name": "Observatoire de la culture",
-      "theme": "SPECTRE_Culture",
-      "url": "https://www.observatoire-culture.net/",
-      "feed_categories": [],
-      "render": false,
-      "status": "ok",
-      "method": "flux détecté",
-      "items": 13,
-      "feed": "observatoire-culture.xml",
-      "source_feed": "https://www.observatoire-culture.net/feed/",
-      "warnings": []
     },
     {
       "site": "ADN Tourisme",

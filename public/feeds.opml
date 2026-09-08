@@ -2,6 +2,9 @@
 <opml version="2.0">
   <head><title>Veille RSS</title></head>
   <body>
+    <outline text="Culture" title="Culture">
+      <outline type="rss" text="Observatoire de la culture" title="Observatoire de la culture" xmlUrl="https://abonnementsgrp.github.io/veille-rss/observatoire-culture.xml" htmlUrl="https://www.observatoire-culture.net/"/>
+    </outline>
     <outline text="Enfance &amp; Éducation" title="Enfance &amp; Éducation">
       <outline type="rss" text="Enfance &amp; Jeunesse Infos" title="Enfance &amp; Jeunesse Infos" xmlUrl="https://abonnementsgrp.github.io/veille-rss/enfance-jeunesse-veille-juridique.xml" htmlUrl="https://www.enfancejeunesseinfos.fr/tag/veille-juridique/"/>
       <outline type="rss" text="Localtis — Jeunesse" title="Localtis — Jeunesse" xmlUrl="https://abonnementsgrp.github.io/veille-rss/localtis-jeunesse-education-formation.xml" htmlUrl="https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation"/>
@@ -16,9 +19,6 @@
       <outline type="rss" text="CNSA" title="CNSA" xmlUrl="https://abonnementsgrp.github.io/veille-rss/cnsa.xml" htmlUrl="https://www.cnsa.fr/actualites"/>
       <outline type="rss" text="IGAS" title="IGAS" xmlUrl="https://abonnementsgrp.github.io/veille-rss/igas.xml" htmlUrl="https://igas.gouv.fr/actualites"/>
       <outline type="rss" text="Localtis — Publics fragiles" title="Localtis — Publics fragiles" xmlUrl="https://abonnementsgrp.github.io/veille-rss/localtis-publics-fragiles.xml" htmlUrl="https://www.banquedesterritoires.fr/thematiques/publics-fragiles"/>
-    </outline>
-    <outline text="SPECTRE_Culture" title="SPECTRE_Culture">
-      <outline type="rss" text="Observatoire de la culture" title="Observatoire de la culture" xmlUrl="https://abonnementsgrp.github.io/veille-rss/observatoire-culture.xml" htmlUrl="https://www.observatoire-culture.net/"/>
     </outline>
     <outline text="Tourisme" title="Tourisme">
       <outline type="rss" text="ADN Tourisme" title="ADN Tourisme" xmlUrl="https://abonnementsgrp.github.io/veille-rss/adn-tourisme.xml" htmlUrl="https://www.adn-tourisme.fr/publications/actus/"/>
