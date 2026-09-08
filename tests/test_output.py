@@ -260,3 +260,10 @@ class TestBoutonProposerUneSource:
         page = (tmp_path / "index.html").read_text(encoding="utf-8")
         assert f'href="{PROPOSE_SOURCE_URL}">Proposer une source</a>' in page
         assert "template=nouvelle-source.yml" in PROPOSE_SOURCE_URL
+
+    def test_le_tableau_de_bord_mene_aussi_au_formulaire_de_domaine(self, tmp_path):
+        from veille.output import PROPOSE_THEME_URL
+        write_dashboard({**PAYLOAD, "sites": []}, "T", public_dir=tmp_path)
+        page = (tmp_path / "index.html").read_text(encoding="utf-8")
+        assert f'href="{PROPOSE_THEME_URL}">Proposer un domaine</a>' in page
+        assert "template=nouveau-domaine.yml" in PROPOSE_THEME_URL

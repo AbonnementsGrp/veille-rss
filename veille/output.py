@@ -19,6 +19,7 @@ STALE_AFTER_HOURS = 9
 
 # Formulaire d'issue par lequel n'importe qui, sans outillage, propose une source.
 PROPOSE_SOURCE_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?template=nouvelle-source.yml"
+PROPOSE_THEME_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?template=nouveau-domaine.yml"
 
 DASHBOARD_STYLE = (
     "body{font-family:Arial,sans-serif;max-width:1150px;margin:40px auto;padding:0 20px;color:#1f2937}"
@@ -165,7 +166,7 @@ def write_dashboard(payload: dict[str, Any], title: str, public_dir: Path | None
 </style></head><body><h1>{html.escape(title)}</h1><div class="meta">Dernière génération : <time id="generation" datetime="{generated}">{generated}</time><span id="fraicheur"></span></div>
 <div id="alerte" hidden class="stale"></div>
 <div class="cards">{cards}</div>
-<p><a href="veille.xml"><strong>Flux global veille.xml</strong></a> · <a href="feeds.opml">Exporter tous les flux (OPML)</a> · <a href="status.json">État JSON</a> · <a href="{PROPOSE_SOURCE_URL}">Proposer une source</a></p>
+<p><a href="veille.xml"><strong>Flux global veille.xml</strong></a> · <a href="feeds.opml">Exporter tous les flux (OPML)</a> · <a href="status.json">État JSON</a> · <a href="{PROPOSE_SOURCE_URL}">Proposer une source</a> · <a href="{PROPOSE_THEME_URL}">Proposer un domaine</a></p>
 <table><thead><tr><th>Source</th><th>État</th><th>Articles</th><th>Méthode / détail</th><th>Flux</th></tr></thead><tbody>{lignes}</tbody></table>
 <script>
 // La page est statique : si la génération s'arrête, elle se fige avec sa date.

@@ -157,7 +157,8 @@ commentaire s'ajoute sous le précédent.
 Les domaines sont les rubriques du tableau de bord : Enfance & Éducation, Santé,
 social & séniors, Culture, Tourisme, Restauration. Pour en créer un :
 
-1. Ouvrez le formulaire **Proposer un nouveau domaine** :
+1. Ouvrez le formulaire : bouton **Proposer un domaine** sur le tableau de bord,
+   ou directement
    https://github.com/AbonnementsGrp/veille-rss/issues/new?template=nouveau-domaine.yml
 2. Donnez son **nom**, court et lisible. Vous pouvez indiquer après quel domaine
    existant le placer ; à défaut il va en dernier.
