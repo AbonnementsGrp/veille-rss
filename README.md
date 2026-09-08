@@ -210,7 +210,10 @@ champ, pas à son étiquette.
 **Rôle du responsable** : lire le commentaire, puis poser l'étiquette
 **approuvé** si la source convient (page de l'issue, colonne de droite, rouage
 *Labels* ; il faut être collaborateur du dépôt — marche à suivre détaillée dans
-le [guide](GUIDE-UTILISATEUR.md#valider-une-demande-responsables)). Le workflow ajoute alors le bloc à
+le [guide](GUIDE-UTILISATEUR.md#valider-une-demande-responsables)). Le bouton
+**Demandes à valider** du tableau de bord ouvre la liste des issues ouvertes sans
+cette étiquette et en affiche le nombre, lu par le navigateur du lecteur sur
+l'API publique de GitHub. Le workflow ajoute alors le bloc à
 `config/sites.yml`, committe, ferme l'issue et relance la génération — il doit
 le faire explicitement : un push fait par un workflow ne déclenche rien de
 lui-même (voir les points de vigilance). Un verdict « manuel » ou une adresse

@@ -26,11 +26,24 @@ PROPOSE_THEME_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?tem
 RENAME_THEME_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?template=renommer-domaine.yml"
 REMOVE_SOURCE_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?template=supprimer-source.yml"
 REMOVE_THEME_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?template=supprimer-domaine.yml"
+# Les demandes déposées par formulaire qui attendent un responsable : issues
+# ouvertes sans l'étiquette « approuvé ». La page étant statique, leur nombre est
+# lu chez GitHub par le navigateur du lecteur (API publique, sans jeton).
+PENDING_ISSUES_URL = "https://github.com/AbonnementsGrp/veille-rss/issues?q=is%3Aissue+is%3Aopen+-label%3Aapprouv%C3%A9"
+PENDING_ISSUES_API = "https://api.github.com/repos/AbonnementsGrp/veille-rss/issues?state=open&per_page=100"
+APPROVED_LABEL = "approuvé"
 
 DASHBOARD_STYLE = (
     "html{scroll-behavior:smooth}"
     "body{font-family:Arial,sans-serif;max-width:1600px;margin:40px auto;padding:0 20px;color:#1f2937}"
     "h1{margin-bottom:6px}.meta{color:#6b7280;margin-bottom:24px}p.gestion{color:#6b7280}"
+    # Bouton « Demandes à valider » : le seul élément saillant de la ligne de
+    # gestion, parce qu'il appelle une action d'un responsable.
+    "a.bouton{display:inline-block;padding:6px 12px;border-radius:8px;background:#075e9e;color:#fff;"
+    "text-decoration:none;font-weight:bold}a.bouton:hover{background:#0b6fb8}"
+    ".badge{display:inline-block;min-width:18px;padding:1px 6px;margin-left:6px;border-radius:9px;"
+    "background:#fff;color:#075e9e;font-size:12px;text-align:center}"
+    "p.demandes .aide{margin-left:10px}"
     # Sommaire des domaines : colonne fixe à gauche sur grand écran, qui reste
     # visible pendant le défilement ; bandeau au-dessus du tableau sur écran étroit.
     ".layout{display:grid;grid-template-columns:230px minmax(0,1fr);gap:28px;align-items:start;margin-top:8px}"
@@ -362,6 +375,7 @@ def write_dashboard(payload: dict[str, Any], title: str, public_dir: Path | None
 <div class="cards">{cards}</div>
 <p><a href="veille.xml"><strong>Flux global veille.xml</strong></a> · <a href="feeds.opml">Exporter tous les flux (OPML)</a> · <a href="status.json">État JSON</a></p>
 <p class="gestion">Gérer la veille : <a href="{PROPOSE_SOURCE_URL}">Proposer une source</a> · <a href="{REMOVE_SOURCE_URL}">Supprimer une source</a> · <a href="{PROPOSE_THEME_URL}">Proposer un domaine</a> · <a href="{RENAME_THEME_URL}">Renommer un domaine</a> · <a href="{REMOVE_THEME_URL}">Supprimer un domaine</a></p>
+<p class="gestion demandes"><a class="bouton" href="{PENDING_ISSUES_URL}">Demandes à valider<span id="nb-demandes" class="badge" hidden></span></a><span class="aide">Les demandes déposées par formulaire attendent qu'un responsable pose l'étiquette « approuvé ».</span></p>
 <div class="layout">{sommaire}<div class="contenu">
 <table><thead><tr><th>Source</th><th>État</th><th>Articles</th><th>Flux</th><th>Activité</th><th>Méthode / détail</th></tr></thead><tbody>{lignes}</tbody></table>
 </div></div>
@@ -387,6 +401,22 @@ def write_dashboard(payload: dict[str, Any], title: str, public_dir: Path | None
     alerte.appendChild(lien);
     alerte.hidden = false;
   }}
+}})();
+// Nombre de demandes en attente : lu chez GitHub par le navigateur du lecteur,
+// la page étant statique. Sans réponse (hors ligne, quota), le bouton reste tel quel.
+(function () {{
+  var badge = document.getElementById("nb-demandes");
+  if (!badge || !window.fetch) return;
+  fetch("{PENDING_ISSUES_API}", {{headers: {{Accept: "application/vnd.github+json"}}}})
+    .then(function (reponse) {{ return reponse.ok ? reponse.json() : Promise.reject(); }})
+    .then(function (issues) {{
+      var attente = issues.filter(function (issue) {{
+        return !issue.pull_request && !issue.labels.some(function (l) {{ return l.name === "{APPROVED_LABEL}"; }});
+      }}).length;
+      badge.textContent = String(attente);
+      badge.hidden = false;
+    }})
+    .catch(function () {{}});
 }})();
 // Bouton « Copier » de la colonne Activité : l'adresse part dans le presse-papiers.
 // Si le navigateur refuse, une boîte de dialogue la présente déjà sélectionnée.

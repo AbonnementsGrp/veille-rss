@@ -230,8 +230,9 @@ la même façon : un responsable pose l'étiquette **approuvé** sur l'issue. Ri
 ne se passe tant qu'elle n'est pas posée ; l'automate se contente d'écrire son
 récapitulatif en commentaire.
 
-1. Ouvrez l'issue (le mail de notification contient le lien, sinon onglet
-   *Issues* du dépôt https://github.com/AbonnementsGrp/veille-rss/issues).
+1. Ouvrez l'issue : le bouton **Demandes à valider** du tableau de bord liste
+   toutes les demandes en attente et affiche leur nombre ; le mail de
+   notification contient aussi le lien direct.
 2. Lisez le dernier commentaire automatique : c'est exactement ce qui sera fait.
 3. Dans la colonne de droite, cliquez sur le rouage à côté de **Labels**, cochez
    **approuvé** (tapez `appr` pour la trouver), puis cliquez n'importe où pour

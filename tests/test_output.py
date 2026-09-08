@@ -497,6 +497,18 @@ class TestLiensDeGestion:
         assert (page.index(PROPOSE_SOURCE_URL) < page.index(REMOVE_SOURCE_URL) < page.index(PROPOSE_THEME_URL)
                 < page.index(RENAME_THEME_URL) < page.index(REMOVE_THEME_URL))
 
+    def test_un_bouton_mene_aux_demandes_en_attente(self, tmp_path):
+        from veille.output import PENDING_ISSUES_API, PENDING_ISSUES_URL, REMOVE_THEME_URL
+        write_dashboard({**PAYLOAD, "sites": []}, "T", public_dir=tmp_path)
+        page = (tmp_path / "index.html").read_text(encoding="utf-8")
+        assert f'<a class="bouton" href="{PENDING_ISSUES_URL}">Demandes à valider' in page
+        assert "is%3Aissue+is%3Aopen+-label%3Aapprouv%C3%A9" in PENDING_ISSUES_URL, "issues ouvertes sans « approuvé »"
+        assert page.index(REMOVE_THEME_URL) < page.index(PENDING_ISSUES_URL), "le bouton suit les liens de gestion"
+        assert '<span id="nb-demandes" class="badge" hidden></span>' in page, "le badge attend le nombre lu chez GitHub"
+        assert PENDING_ISSUES_API in page
+        assert 'l.name === "approuvé"' in page, "le décompte écarte les demandes déjà approuvées"
+        assert "pose l'étiquette « approuvé »" in page
+
 
 class TestSurveillance:
     """Une source OK peut être « à surveiller » : ⚠ orange, détail en clair, compteur."""
