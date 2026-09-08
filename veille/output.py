@@ -10,7 +10,7 @@ from urllib.parse import urljoin
 
 from feedgen.feed import FeedGenerator
 
-from veille.config import PUBLIC_DIR, sort_key
+from veille.config import AUTRES, PUBLIC_DIR, sort_key
 from veille.dates import item_sort_key, parse_date_for_feed, utc_now
 from veille.models import Item
 
@@ -38,6 +38,7 @@ DASHBOARD_STYLE = (
     "nav.domaines h2{margin:0 0 8px;font-size:13px;color:#6b7280;letter-spacing:.04em;text-transform:uppercase}"
     "nav.domaines ul{list-style:none;margin:0;padding:0}nav.domaines li{padding:5px 0;line-height:1.35}"
     "nav.domaines .compte{color:#6b7280;font-size:12px}"
+    "nav.domaines li.vide{color:#9ca3af}nav.domaines li.vide span[title]{cursor:help}"
     "tr.theme{scroll-margin-top:12px}tr.theme:target th{background:#fde68a}"
     # Colonne « Flux » : l'adresse tient sur une ligne, quoi qu'il arrive ; si
     # l'écran est trop étroit, c'est le tableau qui défile, pas l'adresse qui se plie.
@@ -279,18 +280,23 @@ def domain_summary(sites: list[dict[str, Any]]) -> list[tuple[str, int, int, int
     return resume
 
 
-def domain_nav(sites: list[dict[str, Any]]) -> str:
+def domain_nav(sites: list[dict[str, Any]], themes: list[str] | None = None) -> str:
     """La liste des domaines qui mène à chaque rubrique du tableau.
 
     Avec une dizaine de domaines, parcourir le tableau reste possible ; au-delà,
     il faut un sommaire. Chaque entrée donne le nombre de sources du domaine et
     signale s'il en compte une en erreur, pour voir d'un coup d'œil où regarder.
+    Un domaine reconnu mais encore sans source y figure aussi, à zéro et sans
+    lien : sinon, celui qui vient de le créer le cherche en vain.
     """
     resume = domain_summary(sites)
-    if not resume:
+    presents = {nom for nom, *_ in resume}
+    vides = [(t, 0, 0, 0) for t in (themes or []) if t not in presents]
+    lignes = sorted(resume + vides, key=lambda e: (e[0] == AUTRES, sort_key(e[0])))
+    if not lignes:
         return ""
     entrees = []
-    for domaine, total, erreurs, surveiller in resume:
+    for domaine, total, erreurs, surveiller in lignes:
         # L'erreur prime : un seul signe par domaine, du plus grave.
         if erreurs:
             alerte = f' <span class="error" title="{erreurs} source(s) en erreur">⚠</span>'
@@ -298,6 +304,12 @@ def domain_nav(sites: list[dict[str, Any]]) -> str:
             alerte = f' <span class="warn" title="{surveiller} source(s) à surveiller">⚠</span>'
         else:
             alerte = ""
+        if total == 0:
+            entrees.append(
+                f'<li class="vide"><span title="Aucune source pour l\'instant : proposez-en une">'
+                f'{html.escape(domaine)}</span> <span class="compte">0</span></li>'
+            )
+            continue
         entrees.append(
             f'<li><a href="#{theme_anchor(domaine)}">{html.escape(domaine)}</a>'
             f' <span class="compte">{total}</span>{alerte}</li>'
@@ -328,7 +340,7 @@ def write_dashboard(payload: dict[str, Any], title: str, public_dir: Path | None
     """Écrit le tableau de bord d'état des sources."""
     public_dir = public_dir or PUBLIC_DIR
     lignes = dashboard_rows(payload["sites"], public_dir)
-    sommaire = domain_nav(payload["sites"])
+    sommaire = domain_nav(payload["sites"], [str(t) for t in (payload.get("themes") or [])])
     generated = html.escape(payload["generated_at"])
     cards = "".join(
         f'<div class="card"><strong>{payload.get(key, 0)}</strong><br>{label}</div>'

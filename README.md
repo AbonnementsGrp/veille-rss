@@ -250,8 +250,9 @@ python scripts/ajouter_theme.py "Logement & Habitat" --ecrire
 git add config/sites.yml .github/ISSUE_TEMPLATE/nouvelle-source.yml
 ```
 
-Un domaine sans source n'apparaît pas sur le tableau de bord ; il apparaît dès
-qu'une source lui est rattachée.
+Un domaine sans source n'a pas de rubrique dans le tableau de bord, mais figure
+dans le sommaire des domaines, en gris et à zéro, pour que son auteur le
+retrouve ; sa rubrique apparaît dès qu'une source lui est rattachée.
 
 ### Renommer un domaine
 

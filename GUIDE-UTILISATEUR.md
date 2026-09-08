@@ -64,7 +64,9 @@ sources sans domaine sont regroupées en dernier sous « Autres ».
 défilement : cliquez un domaine pour arriver directement sur sa rubrique, qui se
 surligne un instant. Chaque entrée indique le nombre de sources du domaine ; un
 ⚠ rouge signale qu'au moins une source est en erreur, un ⚠ orange qu'une source
-est à surveiller (voir la colonne État). Sur un écran étroit, ce sommaire passe
+est à surveiller (voir la colonne État). Un domaine qui vient d'être créé et n'a
+encore aucune source y figure en gris, à zéro, sans rubrique dans le tableau :
+il n'en aura une qu'à sa première source. Sur un écran étroit, ce sommaire passe
 au-dessus du tableau.
 
 | Colonne | Ce qu'elle dit |

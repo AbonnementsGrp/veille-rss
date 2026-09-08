@@ -15,7 +15,7 @@ from typing import Any
 from urllib.parse import urljoin
 
 from veille.browser import BrowserSession, needs_render
-from veille.config import BASE_URL, PUBLIC_DIR, STATUS_PATH, load_config, ordered_sites, theme_of
+from veille.config import BASE_URL, PUBLIC_DIR, STATUS_PATH, load_config, ordered_sites, sort_key, theme_of
 from veille.dates import item_sort_key, utc_now
 from veille.enrich import article_metadata
 from veille.extract import scrape_page
@@ -302,6 +302,9 @@ def run() -> int:
         "sites_warning": sum(1 for s in statuses if s["status"] == "ok" and s.get("warnings")),
         "new_items": new_count,
         "merged_items": len(merged),
+        # Les domaines reconnus, sources ou pas : le sommaire du tableau de bord
+        # montre aussi ceux qui attendent encore leur première source.
+        "themes": sorted((str(t) for t in (settings.get("themes") or [])), key=sort_key),
         "sites": statuses,
     }
     STATUS_PATH.write_text(json.dumps(payload, ensure_ascii=False, indent=2), encoding="utf-8")

@@ -77,39 +77,15 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Supprimer
-        id: application
-        env:
-          ISSUE_BODY: ${{ github.event.issue.body }}
-        run: |
-          if python scripts/issue_supprimer_domaine.py appliquer; then
-            echo "reussi=true" >> "$GITHUB_OUTPUT"
-          else
-            echo "reussi=false" >> "$GITHUB_OUTPUT"
-          fi
-
-      - name: Committer
-        if: steps.application.outputs.reussi == 'true'
-        env:
-          NUMERO: ${{ github.event.issue.number }}
-          TITRE: ${{ github.event.issue.title }}
-        run: |
-          git config user.name "github-actions[bot]"
-          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add config/sites.yml .github/ISSUE_TEMPLATE/nouvelle-source.yml
-          git commit -m "Supprimer un domaine sur demande par issue (#$NUMERO)" -m "$TITRE"
-          git pull --rebase
-          git push
-
-      - name: Rendre compte dans l'issue
-        env:
-          GH_TOKEN: ${{ github.token }}
-          NUMERO: ${{ github.event.issue.number }}
-          REUSSI: ${{ steps.application.outputs.reussi }}
-        run: |
-          gh issue comment "$NUMERO" --body-file commentaire.md
-          if [ "$REUSSI" = "true" ]; then
-            gh issue close "$NUMERO" --reason completed
-          else
-            gh issue edit "$NUMERO" --remove-label "approuvé"
-          fi
+      # Rejoue la demande sur l'état le plus récent de main jusqu'à ce que le
+      # push passe, et rend compte dans l'issue quoi qu'il arrive.
+      - name: Supprimer, enregistrer, rendre compte
+        uses: ./.github/actions/appliquer-demande
+        with:
+          script: scripts/issue_supprimer_domaine.py
+          fichiers: config/sites.yml .github/ISSUE_TEMPLATE/nouvelle-source.yml
+          message: Supprimer un domaine sur demande par issue
+          numero: ${{ github.event.issue.number }}
+          titre: ${{ github.event.issue.title }}
+          corps: ${{ github.event.issue.body }}
+          token: ${{ github.token }}

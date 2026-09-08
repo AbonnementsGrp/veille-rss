@@ -1,0 +1,112 @@
+name: Appliquer une demande approuvée
+description: >
+  Rejoue le script d'application d'une demande (source ou domaine) sur l'état
+  le plus récent de main jusqu'à ce que le push passe, puis rend compte dans
+  l'issue quoi qu'il arrive : commentaire, fermeture ou retrait de l'étiquette.
+
+# Pourquoi rejouer plutôt que rebaser : deux demandes approuvées à la même
+# minute réécrivent les mêmes lignes (la liste des domaines, la fin du fichier
+# des sources), et la génération planifiée committe l'historique toutes les
+# trois heures. Un `git pull --rebase` d'un patch déjà commis se heurte alors à
+# un conflit et la demande reste en l'air, sans un mot dans l'issue — c'est ce
+# qui est arrivé au renommage de « Culture » le 8 septembre 2026. Repartir de
+# l'état courant et relancer le script, qui sait ce qu'il doit obtenir, ne
+# connaît pas de conflit.
+
+inputs:
+  script:
+    description: Script d'application, appelé avec l'argument « appliquer » (ou « ajouter »).
+    required: true
+  argument:
+    description: Argument passé au script.
+    required: false
+    default: appliquer
+  fichiers:
+    description: Chemins à enregistrer, séparés par des espaces.
+    required: true
+  message:
+    description: Début du message de commit ; le numéro de l'issue est ajouté.
+    required: true
+  numero:
+    description: Numéro de l'issue.
+    required: true
+  titre:
+    description: Titre de l'issue, repris dans le message de commit.
+    required: false
+    default: ""
+  corps:
+    description: Corps de l'issue, transmis au script par la variable ISSUE_BODY.
+    required: false
+    default: ""
+  token:
+    description: Jeton GitHub pour commenter et étiqueter l'issue.
+    required: true
+
+runs:
+  using: composite
+  steps:
+    - name: Appliquer, enregistrer, rendre compte
+      shell: bash
+      # Tout passe par des variables d'environnement : le titre et le corps de
+      # l'issue sont écrits par le demandeur et ne doivent jamais être
+      # interpolés dans le script.
+      env:
+        SCRIPT: ${{ inputs.script }}
+        ARGUMENT: ${{ inputs.argument }}
+        FICHIERS: ${{ inputs.fichiers }}
+        MESSAGE: ${{ inputs.message }}
+        NUMERO: ${{ inputs.numero }}
+        TITRE: ${{ inputs.titre }}
+        ISSUE_BODY: ${{ inputs.corps }}
+        GH_TOKEN: ${{ inputs.token }}
+      run: |
+        set +e
+        git config user.name "github-actions[bot]"
+        git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+
+        etat="absent"
+        for essai in 1 2 3 4 5; do
+          git fetch --quiet origin main
+          git reset --quiet --hard origin/main
+          if ! python "$SCRIPT" "$ARGUMENT"; then
+            etat="refus"
+            break
+          fi
+          # shellcheck disable=SC2086 : les chemins sont volontairement séparés par des espaces.
+          git add -A -- $FICHIERS
+          if git diff --cached --quiet; then
+            etat="ok"   # déjà dans l'état demandé : rien à enregistrer
+            break
+          fi
+          git commit --quiet -m "$MESSAGE (#$NUMERO)" -m "$TITRE"
+          if git push --quiet origin HEAD:main; then
+            etat="ok"
+            break
+          fi
+          etat="conflit"
+          echo "Push refusé (tentative $essai) : le dépôt a changé, la demande est rejouée."
+          sleep $((essai * 5))
+        done
+
+        case "$etat" in
+          ok)
+            gh issue comment "$NUMERO" --body-file commentaire.md
+            gh issue close "$NUMERO" --reason completed
+            ;;
+          refus)
+            # Le script a écrit lui-même la raison du refus dans commentaire.md.
+            gh issue comment "$NUMERO" --body-file commentaire.md
+            gh issue edit "$NUMERO" --remove-label "approuvé"
+            ;;
+          conflit)
+            printf '%s\n' "❌ La modification n'a pas pu être enregistrée : le dépôt a changé pendant l'opération, cinq fois de suite. Retirez puis reposez l'étiquette **approuvé** pour réessayer." > commentaire.md
+            gh issue comment "$NUMERO" --body-file commentaire.md
+            gh issue edit "$NUMERO" --remove-label "approuvé"
+            ;;
+          *)
+            printf '%s\n' "❌ L'application a échoué avant de produire un compte rendu (voir le journal de l'exécution GitHub Actions). Retirez puis reposez l'étiquette **approuvé** pour réessayer." > commentaire.md
+            gh issue comment "$NUMERO" --body-file commentaire.md
+            gh issue edit "$NUMERO" --remove-label "approuvé"
+            ;;
+        esac
+        [ "$etat" = "ok" ]

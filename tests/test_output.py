@@ -327,6 +327,44 @@ class TestSommaireDesDomaines:
         page = self._page(tmp_path, sources=[sans_domaine])
         assert 'nav class="domaines"' not in page
 
+    def _page_avec_themes(self, tmp_path, themes, sources=None):
+        sources = self.SOURCES if sources is None else sources
+        creer_flux(tmp_path, sources)
+        write_dashboard({**PAYLOAD, "themes": themes, "sites": sources}, "T", public_dir=tmp_path)
+        return (tmp_path / "index.html").read_text(encoding="utf-8")
+
+    def test_un_domaine_reconnu_sans_source_figure_a_zero_sans_lien(self, tmp_path):
+        """Celui qui vient de créer un domaine doit le retrouver, même vide."""
+        page = self._page_avec_themes(tmp_path, ["ANTIGUA", "Culture", "Enfance & Éducation", "Santé, social & séniors"])
+        nav = re.findall(r'nav class="domaines".*?</nav>', page, re.S)[0]
+        entrees = re.findall(r"<li.*?</li>", nav)
+        assert entrees[0].startswith('<li class="vide">')
+        assert "ANTIGUA</span> <span class=\"compte\">0</span>" in entrees[0]
+        assert "href" not in entrees[0], "pas de rubrique à atteindre dans le tableau"
+        assert "Aucune source pour l'instant" in entrees[0]
+        assert "ANTIGUA" not in re.search(r"<tbody>.*</tbody>", page, re.S).group(0)
+
+    def test_les_domaines_vides_s_intercalent_par_ordre_alphabetique(self, tmp_path):
+        page = self._page_avec_themes(tmp_path, ["Culture", "Enfance & Éducation", "Logement", "Santé, social & séniors"])
+        nav = re.findall(r'nav class="domaines".*?</nav>', page, re.S)[0]
+        noms = re.findall(r"<li[^>]*>(?:<a[^>]*>|<span[^>]*>)([^<]+)<", nav)
+        assert noms == ["Culture", "Enfance &amp; Éducation", "Logement", "Santé, social &amp; séniors"]
+
+    def test_un_domaine_deja_present_n_est_pas_double(self, tmp_path):
+        page = self._page_avec_themes(tmp_path, ["Culture"])
+        nav = re.findall(r'nav class="domaines".*?</nav>', page, re.S)[0]
+        assert nav.count("Culture") == 1
+        assert 'class="vide"' not in nav
+
+    def test_un_etat_json_sans_liste_de_domaines_reste_lisible(self, tmp_path):
+        page = self._page(tmp_path)
+        assert 'class="vide"' not in page
+
+    def test_des_domaines_vides_suffisent_a_faire_un_sommaire(self, tmp_path):
+        page = self._page_avec_themes(tmp_path, ["ANTIGUA"], sources=[])
+        assert 'nav class="domaines"' in page
+        assert '<li class="vide">' in page
+
 
 class TestColonneActivite:
     """L'adresse du flux propre au site, en clair, pour la copier d'un geste."""
