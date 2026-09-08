@@ -3,13 +3,14 @@
 from __future__ import annotations
 
 import html
+import re
 from pathlib import Path
 from typing import Any
 from urllib.parse import urljoin
 
 from feedgen.feed import FeedGenerator
 
-from veille.config import PUBLIC_DIR
+from veille.config import PUBLIC_DIR, sort_key
 from veille.dates import item_sort_key, parse_date_for_feed, utc_now
 from veille.models import Item
 
@@ -22,8 +23,19 @@ PROPOSE_SOURCE_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?te
 PROPOSE_THEME_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?template=nouveau-domaine.yml"
 
 DASHBOARD_STYLE = (
-    "body{font-family:Arial,sans-serif;max-width:1150px;margin:40px auto;padding:0 20px;color:#1f2937}"
+    "html{scroll-behavior:smooth}"
+    "body{font-family:Arial,sans-serif;max-width:1320px;margin:40px auto;padding:0 20px;color:#1f2937}"
     "h1{margin-bottom:6px}.meta{color:#6b7280;margin-bottom:24px}"
+    # Sommaire des domaines : colonne fixe à gauche sur grand écran, qui reste
+    # visible pendant le défilement ; bandeau au-dessus du tableau sur écran étroit.
+    ".layout{display:grid;grid-template-columns:230px minmax(0,1fr);gap:28px;align-items:start;margin-top:8px}"
+    "nav.domaines{position:sticky;top:16px;border:1px solid #ddd;border-radius:10px;padding:12px 14px;background:#fafafa}"
+    "nav.domaines h2{margin:0 0 8px;font-size:13px;color:#6b7280;letter-spacing:.04em;text-transform:uppercase}"
+    "nav.domaines ul{list-style:none;margin:0;padding:0}nav.domaines li{padding:5px 0;line-height:1.35}"
+    "nav.domaines .compte{color:#6b7280;font-size:12px}"
+    "tr.theme{scroll-margin-top:12px}tr.theme:target th{background:#fde68a}"
+    "@media(max-width:900px){.layout{grid-template-columns:1fr}nav.domaines{position:static}"
+    "nav.domaines ul{display:flex;flex-wrap:wrap;gap:6px 16px}}"
     ".cards{display:flex;gap:14px;flex-wrap:wrap;margin:20px 0}"
     ".card{border:1px solid #ddd;border-radius:10px;padding:14px 18px;min-width:150px}"
     "table{border-collapse:collapse;width:100%}"
@@ -127,11 +139,51 @@ def source_row(site: dict[str, Any], public_dir: Path) -> str:
     )
 
 
+def theme_anchor(theme: str) -> str:
+    """Identifiant d'ancre d'un domaine : « Santé, social & séniors » → domaine-sante-social-seniors."""
+    return "domaine-" + (re.sub(r"[^a-z0-9]+", "-", sort_key(theme)).strip("-") or "sans-nom")
+
+
+def domain_summary(sites: list[dict[str, Any]]) -> list[tuple[str, int, int]]:
+    """Pour chaque domaine, dans l'ordre reçu : (nom, nombre de sources, nombre en erreur)."""
+    resume: list[tuple[str, int, int]] = []
+    for site in sites:
+        domaine = site.get("theme") or ""
+        if not domaine:
+            continue
+        if not resume or resume[-1][0] != domaine:
+            resume.append((domaine, 0, 0))
+        nom, total, erreurs = resume[-1]
+        resume[-1] = (nom, total + 1, erreurs + (site.get("status") != "ok"))
+    return resume
+
+
+def domain_nav(sites: list[dict[str, Any]]) -> str:
+    """La liste des domaines qui mène à chaque rubrique du tableau.
+
+    Avec une dizaine de domaines, parcourir le tableau reste possible ; au-delà,
+    il faut un sommaire. Chaque entrée donne le nombre de sources du domaine et
+    signale s'il en compte une en erreur, pour voir d'un coup d'œil où regarder.
+    """
+    resume = domain_summary(sites)
+    if not resume:
+        return ""
+    entrees = []
+    for domaine, total, erreurs in resume:
+        alerte = (f' <span class="error" title="{erreurs} source(s) en erreur">⚠</span>' if erreurs else "")
+        entrees.append(
+            f'<li><a href="#{theme_anchor(domaine)}">{html.escape(domaine)}</a>'
+            f' <span class="compte">{total}</span>{alerte}</li>'
+        )
+    return f'<nav class="domaines" aria-label="Domaines"><h2>Domaines</h2><ul>{"".join(entrees)}</ul></nav>'
+
+
 def dashboard_rows(sites: list[dict[str, Any]], public_dir: Path) -> str:
     """Assemble les lignes, séparées par un intertitre à chaque changement de domaine.
 
     L'ordre reçu est celui du traitement, déjà trié par domaine : le tableau de
-    bord suit la configuration plutôt que d'imposer un classement à part.
+    bord suit la configuration plutôt que d'imposer un classement à part. Chaque
+    intertitre porte une ancre, cible du sommaire des domaines.
     """
     lignes = []
     domaine_courant = None
@@ -139,7 +191,8 @@ def dashboard_rows(sites: list[dict[str, Any]], public_dir: Path) -> str:
         domaine = site.get("theme") or ""
         if domaine and domaine != domaine_courant:
             domaine_courant = domaine
-            lignes.append(f'<tr class="theme"><th colspan="5">{html.escape(domaine)}</th></tr>')
+            lignes.append(f'<tr class="theme" id="{theme_anchor(domaine)}">'
+                          f'<th colspan="5">{html.escape(domaine)}</th></tr>')
         lignes.append(source_row(site, public_dir))
     return "".join(lignes)
 
@@ -148,6 +201,7 @@ def write_dashboard(payload: dict[str, Any], title: str, public_dir: Path | None
     """Écrit le tableau de bord d'état des sources."""
     public_dir = public_dir or PUBLIC_DIR
     lignes = dashboard_rows(payload["sites"], public_dir)
+    sommaire = domain_nav(payload["sites"])
     generated = html.escape(payload["generated_at"])
     cards = "".join(
         f'<div class="card"><strong>{payload[key]}</strong><br>{label}</div>'
@@ -167,7 +221,9 @@ def write_dashboard(payload: dict[str, Any], title: str, public_dir: Path | None
 <div id="alerte" hidden class="stale"></div>
 <div class="cards">{cards}</div>
 <p><a href="veille.xml"><strong>Flux global veille.xml</strong></a> · <a href="feeds.opml">Exporter tous les flux (OPML)</a> · <a href="status.json">État JSON</a> · <a href="{PROPOSE_SOURCE_URL}">Proposer une source</a> · <a href="{PROPOSE_THEME_URL}">Proposer un domaine</a></p>
+<div class="layout">{sommaire}<div class="contenu">
 <table><thead><tr><th>Source</th><th>État</th><th>Articles</th><th>Méthode / détail</th><th>Flux</th></tr></thead><tbody>{lignes}</tbody></table>
+</div></div>
 <script>
 // La page est statique : si la génération s'arrête, elle se fige avec sa date.
 // Seul le navigateur du lecteur peut donc constater que la veille ne tourne plus.

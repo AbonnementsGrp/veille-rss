@@ -184,7 +184,7 @@ class TestGroupementParDomaine:
         creer_flux(tmp_path, TROIS_SOURCES)
         write_dashboard({**PAYLOAD, "sites": TROIS_SOURCES}, "T", public_dir=tmp_path)
         page = (tmp_path / "index.html").read_text(encoding="utf-8")
-        assert page.count('<tr class="theme">') == 2
+        assert page.count('<tr class="theme" id="domaine-') == 2
         assert "Enfance &amp; Éducation" in page and "Santé, social &amp; séniors" in page
 
     def test_le_nom_court_est_affiche_le_nom_complet_au_survol(self, tmp_path):
@@ -267,3 +267,61 @@ class TestBoutonProposerUneSource:
         page = (tmp_path / "index.html").read_text(encoding="utf-8")
         assert f'href="{PROPOSE_THEME_URL}">Proposer un domaine</a>' in page
         assert "template=nouveau-domaine.yml" in PROPOSE_THEME_URL
+
+
+class TestSommaireDesDomaines:
+    """Une colonne listant les domaines, chaque entrée menant à sa rubrique."""
+
+    SOURCES = [
+        source_status("Observatoire", "Observatoire", "Culture", "obs.xml"),
+        source_status("EJI", "Enfance & Jeunesse Infos", "Enfance & Éducation", "eji.xml"),
+        source_status("Pros", "Pros de la petite enfance", "Enfance & Éducation", "pros.xml"),
+        source_status("ANAP", "ANAP", "Santé, social & séniors", "anap.xml", "error"),
+        source_status("CNSA", "CNSA", "Santé, social & séniors", "cnsa.xml"),
+    ]
+
+    def _page(self, tmp_path, sources=None):
+        sources = self.SOURCES if sources is None else sources
+        creer_flux(tmp_path, sources)
+        write_dashboard({**PAYLOAD, "sites": sources}, "T", public_dir=tmp_path)
+        return (tmp_path / "index.html").read_text(encoding="utf-8")
+
+    def test_l_ancre_est_lisible_et_sans_accent(self):
+        from veille.output import theme_anchor
+        assert theme_anchor("Santé, social & séniors") == "domaine-sante-social-seniors"
+        assert theme_anchor("Enfance & Éducation") == "domaine-enfance-education"
+
+    def test_chaque_domaine_a_son_entree_et_sa_cible(self, tmp_path):
+        import re
+        page = self._page(tmp_path)
+        liens = re.findall(r'nav class="domaines".*?</nav>', page, re.S)[0]
+        cibles = re.findall(r'href="#([^"]+)"', liens)
+        assert cibles == ["domaine-culture", "domaine-enfance-education", "domaine-sante-social-seniors"]
+        for cible in cibles:
+            assert f'<tr class="theme" id="{cible}">' in page
+
+    def test_compte_les_sources_par_domaine(self, tmp_path):
+        page = self._page(tmp_path)
+        assert 'Enfance &amp; Éducation</a> <span class="compte">2</span>' in page
+        assert 'Culture</a> <span class="compte">1</span>' in page
+
+    def test_signale_un_domaine_avec_une_source_en_erreur(self, tmp_path):
+        import re
+        page = self._page(tmp_path)
+        nav = re.findall(r'nav class="domaines".*?</nav>', page, re.S)[0]
+        entrees = re.findall(r"<li>.*?</li>", nav)
+        assert "⚠" in entrees[2] and "1 source(s) en erreur" in entrees[2]
+        assert "⚠" not in entrees[0]
+
+    def test_le_sommaire_precede_le_tableau(self, tmp_path):
+        page = self._page(tmp_path)
+        assert page.index('nav class="domaines"') < page.index("<table>")
+
+    def test_pas_de_sommaire_sans_source(self, tmp_path):
+        page = self._page(tmp_path, sources=[])
+        assert 'nav class="domaines"' not in page
+
+    def test_les_sources_sans_domaine_ne_creent_pas_d_entree(self, tmp_path):
+        sans_domaine = dict(source_status("X", "X", "", "x.xml"))
+        page = self._page(tmp_path, sources=[sans_domaine])
+        assert 'nav class="domaines"' not in page

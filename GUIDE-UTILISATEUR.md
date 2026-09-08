@@ -60,6 +60,12 @@ La page d'accueil affiche cinq compteurs, puis un tableau des sources groupées
 par domaine. Domaines et sources y sont classés par ordre alphabétique ; les
 sources sans domaine sont regroupées en dernier sous « Autres ».
 
+À gauche du tableau, un **sommaire des domaines** reste visible pendant le
+défilement : cliquez un domaine pour arriver directement sur sa rubrique, qui se
+surligne un instant. Chaque entrée indique le nombre de sources du domaine, et
+un ⚠ signale qu'au moins une est en erreur. Sur un écran étroit, ce sommaire
+passe au-dessus du tableau.
+
 | Colonne | Ce qu'elle dit |
 |---|---|
 | **Source** | Le nom court. Survolez-le pour voir le nom complet. |
