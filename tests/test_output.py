@@ -383,3 +383,50 @@ class TestColonneActivite:
         page = self._page(tmp_path, source_status("A", "A", "Culture", "a.xml"))
         assert page.count("<th>") == 6, "six en-têtes de colonnes"
         assert '<th colspan="6">Culture</th>' in page, "l'intertitre de domaine enjambe les six colonnes"
+
+
+class TestColonneDetailCompacte:
+    """La méthode et un résumé lisible ; le message brut repliable derrière."""
+
+    ANAP = ("HTTPSConnectionPool(host='www.anap.fr', port=443): Max retries exceeded with url: "
+            "/s/sitemap-topicarticle-1.xml (Caused by SSLError(SSLCertVerificationError(1, "
+            "'[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer "
+            "certificate (_ssl.c:1010)')))")
+
+    def test_resume_les_erreurs_courantes(self):
+        from veille.output import summarize_error
+        assert summarize_error(self.ANAP) == "certificat TLS du site incomplet"
+        assert summarize_error("https://x/feed/ ne sert pas un flux (contenu text/html)") == (
+            "le flux annoncé renvoie une page, pas un flux")
+        assert summarize_error("Aucun article détecté sur la page") == "aucun article détecté"
+        assert summarize_error("404 Client Error: Not Found for url: https://x") == "page introuvable (404)"
+        assert summarize_error("HTTPSConnectionPool: Read timed out. (read timeout=30)") == "délai de réponse dépassé"
+
+    def test_tronque_un_message_inconnu(self):
+        from veille.output import summarize_error
+        court = summarize_error("x" * 200)
+        assert len(court) <= 70 and court.endswith("…")
+        assert summarize_error("petit souci") == "petit souci"
+
+    def test_une_source_ok_montre_seulement_la_methode(self, tmp_path):
+        creer_flux(tmp_path, [source_status("A", "A", "Culture", "a.xml")])
+        write_dashboard({**PAYLOAD, "sites": [source_status("A", "A", "Culture", "a.xml")]}, "T", public_dir=tmp_path)
+        page = (tmp_path / "index.html").read_text(encoding="utf-8")
+        assert '<td class="detail">flux officiel</td>' in page
+        assert "<details>" not in page
+
+    def test_une_erreur_est_resumee_et_repliable(self, tmp_path):
+        site = {**source_status("ANAP", "ANAP", "Santé, social & séniors", "anap.xml", "error"),
+                "method": "historique conservé", "error": self.ANAP}
+        creer_flux(tmp_path, [site])
+        write_dashboard({**PAYLOAD, "sites": [site]}, "T", public_dir=tmp_path)
+        page = (tmp_path / "index.html").read_text(encoding="utf-8")
+        assert "<summary>historique conservé — certificat TLS du site incomplet</summary>" in page
+        assert "CERTIFICATE_VERIFY_FAILED" in page, "le message brut reste consultable"
+        assert page.index("<summary>") < page.index("CERTIFICATE_VERIFY_FAILED")
+
+    def test_l_adresse_du_flux_ne_se_coupe_plus(self, tmp_path):
+        write_dashboard({**PAYLOAD, "sites": []}, "T", public_dir=tmp_path)
+        page = (tmp_path / "index.html").read_text(encoding="utf-8")
+        assert "td.activite{white-space:nowrap}" in page
+        assert "word-break:break-all}" not in page.split("td.detail .brut")[0].split("a.url")[1]

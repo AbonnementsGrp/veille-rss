@@ -26,7 +26,7 @@ PROPOSE_THEME_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?tem
 
 DASHBOARD_STYLE = (
     "html{scroll-behavior:smooth}"
-    "body{font-family:Arial,sans-serif;max-width:1320px;margin:40px auto;padding:0 20px;color:#1f2937}"
+    "body{font-family:Arial,sans-serif;max-width:1600px;margin:40px auto;padding:0 20px;color:#1f2937}"
     "h1{margin-bottom:6px}.meta{color:#6b7280;margin-bottom:24px}"
     # Sommaire des domaines : colonne fixe à gauche sur grand écran, qui reste
     # visible pendant le défilement ; bandeau au-dessus du tableau sur écran étroit.
@@ -36,9 +36,14 @@ DASHBOARD_STYLE = (
     "nav.domaines ul{list-style:none;margin:0;padding:0}nav.domaines li{padding:5px 0;line-height:1.35}"
     "nav.domaines .compte{color:#6b7280;font-size:12px}"
     "tr.theme{scroll-margin-top:12px}tr.theme:target th{background:#fde68a}"
-    # Colonne « Activité » : l'adresse en clair, coupée où il faut, et un bouton discret.
-    ".contenu{overflow-x:auto}td.activite{max-width:340px}"
-    "a.url{font-family:Consolas,Menlo,monospace;font-size:12px;word-break:break-all}"
+    # Colonne « Flux » : l'adresse tient sur une ligne, quoi qu'il arrive ; si
+    # l'écran est trop étroit, c'est le tableau qui défile, pas l'adresse qui se plie.
+    ".contenu{overflow-x:auto}td.activite{white-space:nowrap}"
+    "a.url{font-family:Consolas,Menlo,monospace;font-size:12px}"
+    # Colonne « Méthode / détail » : compacte ; le message brut se déplie d'un clic.
+    "td.detail{max-width:230px}td.detail summary{cursor:pointer;color:#b42318}"
+    "td.detail .brut{margin-top:6px;font-family:Consolas,Menlo,monospace;font-size:11px;color:#6b7280;"
+    "white-space:pre-wrap;word-break:break-all}"
     "button.copier{margin-left:6px;font-size:11px;padding:2px 8px;border:1px solid #cbd5e1;border-radius:6px;"
     "background:#fff;color:#334155;cursor:pointer;vertical-align:middle}"
     "button.copier:hover{background:#f1f5f9}"
@@ -155,6 +160,55 @@ def native_feed_cell(site: dict[str, Any]) -> str:
             f' <button type="button" class="copier" data-url="{echappee}" title="Copier l\'adresse">Copier</button></td>')
 
 
+# Résumés lisibles des erreurs les plus courantes, du plus spécifique au plus
+# général : le premier motif reconnu l'emporte. Le message brut reste consultable.
+ERROR_SUMMARIES: tuple[tuple[tuple[str, ...], str], ...] = (
+    (("certificate_verify_failed", "sslerror", "ssl:"), "certificat TLS du site incomplet"),
+    (("ne sert pas un flux",), "le flux annoncé renvoie une page, pas un flux"),
+    (("flux rss invalide", "not well-formed"), "flux illisible"),
+    (("aucun article",), "aucun article détecté"),
+    (("404",), "page introuvable (404)"),
+    (("403",), "accès refusé (403)"),
+    (("500", "502", "503", "504"), "erreur du serveur distant"),
+    (("timed out", "timeout"), "délai de réponse dépassé"),
+    (("nameresolution", "getaddrinfo", "name or service not known"), "site injoignable (nom inconnu)"),
+    (("connection refused", "max retries exceeded", "connectionerror"), "connexion impossible"),
+)
+ERROR_EXCERPT = 70
+
+
+def summarize_error(message: str) -> str:
+    """Résume un message d'erreur technique en quelques mots compréhensibles.
+
+    Les messages bruts sont écrits pour des développeurs et tiennent parfois sur
+    trois lignes ; la colonne du tableau doit rester lisible d'un coup d'œil.
+    Un message inconnu est simplement tronqué.
+    """
+    bas = message.lower()
+    for motifs, resume in ERROR_SUMMARIES:
+        if any(m in bas for m in motifs):
+            return resume
+    message = " ".join(message.split())
+    return message if len(message) <= ERROR_EXCERPT else message[:ERROR_EXCERPT - 1].rstrip() + "…"
+
+
+def detail_cell(site: dict[str, Any]) -> str:
+    """La cellule « Méthode / détail » : la méthode, et pour une erreur son résumé.
+
+    Le message complet est replié derrière le résumé — un clic l'ouvre — pour que
+    la colonne garde une largeur raisonnable quelle que soit la verbosité de
+    l'erreur.
+    """
+    methode = html.escape(site.get("method", ""))
+    erreur = site.get("error", "")
+    if not erreur:
+        return f'<td class="detail">{methode}</td>'
+    resume = html.escape(summarize_error(erreur))
+    visible = f"{methode} — {resume}" if methode else resume
+    return (f'<td class="detail"><details><summary>{visible}</summary>'
+            f'<div class="brut">{html.escape(erreur)}</div></details></td>')
+
+
 def source_row(site: dict[str, Any], public_dir: Path) -> str:
     """Rend la ligne du tableau de bord décrivant une source."""
     ok = site["status"] == "ok"
@@ -162,10 +216,6 @@ def source_row(site: dict[str, Any], public_dir: Path) -> str:
     css = "ok" if ok else "error"
     a_un_flux = bool(site.get("feed")) and (public_dir / site["feed"]).exists()
     lien_flux = f'<a href="{html.escape(site["feed"])}">Flux RSS</a>' if a_un_flux else "—"
-    detail = html.escape(site.get("method", ""))
-    erreur = html.escape(site.get("error", ""))
-    if erreur:
-        detail = f"{detail} — {erreur}" if detail else erreur
     # Le nom court suffit à l'écran ; le nom complet reste lisible au survol.
     affiche = html.escape(site.get("short_name") or site["site"])
     complet = html.escape(site["site"], quote=True)
@@ -175,7 +225,7 @@ def source_row(site: dict[str, Any], public_dir: Path) -> str:
         f"<td>{site.get('items', 0)}</td>"
         f"{native_feed_cell(site)}"
         f"<td>{lien_flux}</td>"
-        f"<td>{detail}</td></tr>"
+        f"{detail_cell(site)}</tr>"
     )
 
 
