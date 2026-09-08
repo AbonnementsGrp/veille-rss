@@ -25,6 +25,7 @@ PROPOSE_SOURCE_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?te
 PROPOSE_THEME_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?template=nouveau-domaine.yml"
 RENAME_THEME_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?template=renommer-domaine.yml"
 REMOVE_SOURCE_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?template=supprimer-source.yml"
+REMOVE_THEME_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?template=supprimer-domaine.yml"
 
 DASHBOARD_STYLE = (
     "html{scroll-behavior:smooth}"
@@ -348,7 +349,7 @@ def write_dashboard(payload: dict[str, Any], title: str, public_dir: Path | None
 <div id="alerte" hidden class="stale"></div>
 <div class="cards">{cards}</div>
 <p><a href="veille.xml"><strong>Flux global veille.xml</strong></a> · <a href="feeds.opml">Exporter tous les flux (OPML)</a> · <a href="status.json">État JSON</a></p>
-<p class="gestion">Gérer la veille : <a href="{PROPOSE_SOURCE_URL}">Proposer une source</a> · <a href="{REMOVE_SOURCE_URL}">Supprimer une source</a> · <a href="{PROPOSE_THEME_URL}">Proposer un domaine</a> · <a href="{RENAME_THEME_URL}">Renommer un domaine</a></p>
+<p class="gestion">Gérer la veille : <a href="{PROPOSE_SOURCE_URL}">Proposer une source</a> · <a href="{REMOVE_SOURCE_URL}">Supprimer une source</a> · <a href="{PROPOSE_THEME_URL}">Proposer un domaine</a> · <a href="{RENAME_THEME_URL}">Renommer un domaine</a> · <a href="{REMOVE_THEME_URL}">Supprimer un domaine</a></p>
 <div class="layout">{sommaire}<div class="contenu">
 <table><thead><tr><th>Source</th><th>État</th><th>Articles</th><th>Flux</th><th>Activité</th><th>Méthode / détail</th></tr></thead><tbody>{lignes}</tbody></table>
 </div></div>

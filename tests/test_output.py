@@ -444,15 +444,20 @@ class TestColonneDetailCompacte:
 
 
 class TestLiensDeGestion:
-    def test_les_quatre_formulaires_sont_accessibles(self, tmp_path):
-        from veille.output import PROPOSE_SOURCE_URL, PROPOSE_THEME_URL, REMOVE_SOURCE_URL, RENAME_THEME_URL
+    def test_les_cinq_formulaires_sont_accessibles(self, tmp_path):
+        from veille.output import (
+            PROPOSE_SOURCE_URL, PROPOSE_THEME_URL, REMOVE_SOURCE_URL, REMOVE_THEME_URL, RENAME_THEME_URL,
+        )
         write_dashboard({**PAYLOAD, "sites": []}, "T", public_dir=tmp_path)
         page = (tmp_path / "index.html").read_text(encoding="utf-8")
         assert f'href="{REMOVE_SOURCE_URL}">Supprimer une source</a>' in page
         assert f'href="{RENAME_THEME_URL}">Renommer un domaine</a>' in page
+        assert f'href="{REMOVE_THEME_URL}">Supprimer un domaine</a>' in page
         assert "template=supprimer-source.yml" in REMOVE_SOURCE_URL
         assert "template=renommer-domaine.yml" in RENAME_THEME_URL
-        assert page.index(PROPOSE_SOURCE_URL) < page.index(REMOVE_SOURCE_URL) < page.index(PROPOSE_THEME_URL) < page.index(RENAME_THEME_URL)
+        assert "template=supprimer-domaine.yml" in REMOVE_THEME_URL
+        assert (page.index(PROPOSE_SOURCE_URL) < page.index(REMOVE_SOURCE_URL) < page.index(PROPOSE_THEME_URL)
+                < page.index(RENAME_THEME_URL) < page.index(REMOVE_THEME_URL))
 
 
 class TestSurveillance:

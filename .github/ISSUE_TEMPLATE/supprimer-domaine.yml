@@ -1,0 +1,34 @@
+name: Supprimer un domaine
+description: Retirer une rubrique du tableau de bord. Ses sources sont conservées. La suppression est validée par un responsable.
+title: "[Domaine] Supprimer "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Le domaine disparaît de la liste des rubriques et du formulaire de
+        proposition de source. **Ses sources ne sont pas supprimées** : elles
+        sont rattachées au domaine que vous indiquez ou, à défaut, regroupées
+        sous « Autres ». Un commentaire automatique récapitule tout cela avant
+        validation.
+
+  - type: input
+    id: domaine
+    attributes:
+      label: Domaine à supprimer
+      description: Tel qu'il s'affiche sur le tableau de bord. La casse et les accents n'ont pas d'importance.
+      placeholder: Tourisme
+    validations:
+      required: true
+
+  - type: input
+    id: cible
+    attributes:
+      label: Rattacher ses sources à
+      description: Facultatif. Un autre domaine existant, qui accueillera les sources du domaine supprimé. Vide, elles passent sous « Autres ».
+      placeholder: Culture
+
+  - type: textarea
+    id: pourquoi
+    attributes:
+      label: Pourquoi le supprimer ?
+      description: Facultatif, mais utile au responsable qui valide.

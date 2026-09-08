@@ -198,6 +198,18 @@ sources concernées et la liste qui en résulte. Après validation par un respon
 le nouveau nom est en place partout : tableau de bord, dossiers de l'OPML, liste
 proposée à l'ajout d'une source.
 
+## Supprimer un domaine
+
+Ouvrez le formulaire **Supprimer un domaine** (lien sur le tableau de bord, ou
+https://github.com/AbonnementsGrp/veille-rss/issues/new?template=supprimer-domaine.yml)
+et donnez le nom du domaine tel qu'il s'affiche. **Ses sources ne sont pas
+supprimées** : indiquez le domaine qui doit les accueillir, ou laissez le champ
+vide pour qu'elles passent sous « Autres ». Le commentaire automatique montre le
+domaine reconnu, les sources concernées et leur destination. Après validation
+par un responsable, la rubrique disparaît du tableau de bord, des dossiers de
+l'OPML et de la liste proposée à l'ajout d'une source. Le dernier domaine ne
+peut pas être supprimé.
+
 ## Supprimer une source
 
 Ouvrez le formulaire **Supprimer une source** (lien sur le tableau de bord, ou

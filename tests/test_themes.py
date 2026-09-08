@@ -14,10 +14,13 @@ from veille.themes import (
     list_items,
     plan_rename,
     plan_theme,
+    plan_theme_removal,
+    remove_theme,
     rename_theme,
     replace_list_items,
     resolve_theme,
     sorted_themes,
+    untag_sources,
 )
 
 THEMES = ["Culture", "Enfance & Éducation", "Santé, social & séniors"]
@@ -239,6 +242,124 @@ class TestRenameTheme:
         with pytest.raises(ValueError, match="diffère"):
             rename_theme(plan_rename("Culture", "Arts", themes=THEMES), config, formulaire)
         assert "Arts" not in config.read_text(encoding="utf-8")
+
+
+SITES = [
+    {"name": "A", "theme": "Culture", "url": "https://a.fr/"},
+    {"name": "B", "short_name": "Bé", "theme": "Culture", "url": "https://b.fr/"},
+    {"name": "C", "theme": "Santé, social & séniors", "url": "https://c.fr/"},
+]
+
+
+class TestPlanThemeRemoval:
+    def test_reconnait_le_domaine_et_liste_ses_sources_par_nom_affiche(self):
+        plan = plan_theme_removal("culture", themes=THEMES, sites=SITES)
+        assert plan.name == "Culture"
+        assert plan.target == ""
+        assert plan.result == ["Enfance & Éducation", "Santé, social & séniors"]
+        assert plan.sources == ["A", "Bé"]
+
+    def test_un_domaine_sans_source_se_supprime_sans_rien_deplacer(self):
+        plan = plan_theme_removal("Enfance & Éducation", themes=THEMES, sites=SITES)
+        assert plan.sources == []
+
+    def test_rattache_les_sources_a_une_cible_reconnue_sans_egard_aux_accents(self):
+        plan = plan_theme_removal("Culture", "sante, social & seniors", themes=THEMES, sites=SITES)
+        assert plan.target == "Santé, social & séniors"
+
+    def test_autres_pour_cible_signifie_sans_domaine(self):
+        assert plan_theme_removal("Culture", "Autres", themes=THEMES, sites=SITES).target == ""
+
+    def test_refuse_un_domaine_inconnu(self):
+        with pytest.raises(ValueError, match="aucun domaine"):
+            plan_theme_removal("Sport", themes=THEMES, sites=SITES)
+
+    def test_refuse_une_cible_inconnue_ou_egale_au_domaine_supprime(self):
+        with pytest.raises(ValueError, match="aucun domaine"):
+            plan_theme_removal("Culture", "Sport", themes=THEMES, sites=SITES)
+        with pytest.raises(ValueError, match="domaine supprimé"):
+            plan_theme_removal("Culture", "culture", themes=THEMES, sites=SITES)
+
+    def test_refuse_de_supprimer_le_dernier_domaine(self):
+        with pytest.raises(ValueError, match="dernier domaine"):
+            plan_theme_removal("Culture", themes=["Culture"], sites=[])
+
+
+class TestUntagSources:
+    def test_retire_la_ligne_theme_des_seules_sources_concernees(self):
+        texte, n = untag_sources(CONFIG_AVEC_SOURCES, "Culture")
+        assert n == 1
+        assert 'theme: "Culture"' not in texte
+        assert 'theme: "Santé, social & séniors"' in texte
+        assert "themes:" in texte, "la liste des domaines n'est pas une source"
+        assert yaml.safe_load(texte)["sites"][1] == {"name": "B", "url": "https://b.fr/"}
+
+    def test_garde_le_style_de_fin_de_ligne(self):
+        texte, n = untag_sources(CONFIG_AVEC_SOURCES.replace("\n", "\r\n"), "Culture")
+        assert n == 1
+        assert "\r\n" in texte
+        assert "\n" not in texte.replace("\r\n", "")
+
+
+class TestRemoveTheme:
+    def _fichiers(self, tmp_path):
+        config = tmp_path / "sites.yml"
+        formulaire = tmp_path / "nouvelle-source.yml"
+        config.write_text(CONFIG_AVEC_SOURCES, encoding="utf-8")
+        formulaire.write_text(FORM, encoding="utf-8")
+        return config, formulaire
+
+    def _sites(self, config):
+        return yaml.safe_load(config.read_text(encoding="utf-8"))["sites"]
+
+    def test_sans_cible_les_sources_passent_sous_autres(self, tmp_path):
+        config, formulaire = self._fichiers(tmp_path)
+        plan = plan_theme_removal("Culture", themes=THEMES, sites=self._sites(config))
+        assert remove_theme(plan, config, formulaire) == 1
+        cfg = yaml.safe_load(config.read_text(encoding="utf-8"))
+        assert cfg["settings"]["themes"] == ["Enfance & Éducation", "Santé, social & séniors"]
+        assert [s.get("theme") for s in cfg["sites"]] == [None, None, "Santé, social & séniors"]
+        assert form_themes(formulaire) == cfg["settings"]["themes"]
+        assert "# Domaines reconnus." in config.read_text(encoding="utf-8")
+
+    def test_avec_cible_les_sources_sont_rattachees(self, tmp_path):
+        config, formulaire = self._fichiers(tmp_path)
+        plan = plan_theme_removal("Culture", "Enfance & Éducation", themes=THEMES, sites=self._sites(config))
+        assert remove_theme(plan, config, formulaire) == 1
+        cfg = yaml.safe_load(config.read_text(encoding="utf-8"))
+        assert [s.get("theme") for s in cfg["sites"]] == [None, "Enfance & Éducation", "Santé, social & séniors"]
+        assert "Culture" not in form_themes(formulaire)
+
+    def test_aucune_source_n_est_supprimee(self, tmp_path):
+        config, formulaire = self._fichiers(tmp_path)
+        avant = [s["name"] for s in self._sites(config)]
+        remove_theme(plan_theme_removal("Culture", themes=THEMES, sites=self._sites(config)), config, formulaire)
+        assert [s["name"] for s in self._sites(config)] == avant
+
+    def test_respecte_les_fins_de_ligne_du_fichier(self, tmp_path):
+        config, formulaire = self._fichiers(tmp_path)
+        config.write_bytes(config.read_text(encoding="utf-8").replace("\n", "\r\n").encode("utf-8"))
+        remove_theme(plan_theme_removal("Culture", themes=THEMES, sites=self._sites(config)), config, formulaire)
+        brut = config.read_bytes()
+        assert b"\r\n" in brut
+        assert b"\n" not in brut.replace(b"\r\n", b"")
+
+    def test_refuse_si_le_formulaire_a_derive_et_n_ecrit_rien(self, tmp_path):
+        config, formulaire = self._fichiers(tmp_path)
+        formulaire.write_text(FORM.replace('        - "Culture"\n', ""), encoding="utf-8")
+        with pytest.raises(ValueError, match="diffère"):
+            remove_theme(plan_theme_removal("Culture", themes=THEMES, sites=self._sites(config)), config, formulaire)
+        assert 'theme: "Culture"' in config.read_text(encoding="utf-8")
+
+    def test_refuse_si_le_plan_ne_correspond_plus_aux_sources(self, tmp_path):
+        """Le plan annonçait une source ; le fichier en a deux : rien n'est écrit."""
+        config, formulaire = self._fichiers(tmp_path)
+        plan = plan_theme_removal("Culture", themes=THEMES, sites=[{"name": "B", "theme": "Culture", "url": "https://b.fr/"}])
+        config.write_text(CONFIG_AVEC_SOURCES.replace('  - name: "A"\n', '  - name: "A"\n    theme: "Culture"\n'),
+                          encoding="utf-8")
+        with pytest.raises(ValueError, match="ne correspond pas"):
+            remove_theme(plan, config, formulaire)
+        assert 'theme: "Culture"' in config.read_text(encoding="utf-8")
 
 
 class TestResolveTheme:

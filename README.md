@@ -265,6 +265,23 @@ python scripts/renommer_theme.py "Culture" "Arts & Culture"            # aperçu
 python scripts/renommer_theme.py "Culture" "Arts & Culture" --ecrire
 ```
 
+### Supprimer un domaine
+
+Le domaine disparaît de la liste des domaines et de la liste déroulante du
+formulaire de source ; **ses sources ne sont pas supprimées**. Elles sont
+rattachées au domaine donné pour cible ou, sans cible, perdent leur clé `theme`
+et passent sous « Autres ». Le dernier domaine ne peut pas être supprimé : le
+formulaire de source exige une liste non vide. Par formulaire, *Supprimer un
+domaine*, traité par
+[supprimer-domaine.yml](.github/workflows/supprimer-domaine.yml), avec un
+récapitulatif des sources déplacées avant approbation ; en ligne de commande :
+
+```powershell
+python scripts/supprimer_theme.py "Tourisme"                          # aperçu
+python scripts/supprimer_theme.py "Tourisme" --vers "Culture" --ecrire
+git add config/sites.yml .github/ISSUE_TEMPLATE/nouvelle-source.yml
+```
+
 ### Supprimer une source
 
 Une source vit à trois endroits : son bloc dans `config/sites.yml`, ses articles
@@ -384,8 +401,8 @@ veille-rss/
 │   └── pipeline.py          orchestration d'une exécution
 ├── tests/                   suite pytest + fixtures hors réseau
 ├── scripts/                 ajouter_source.py, supprimer_source.py, ajouter_theme.py,
-│                            renommer_theme.py, purger_source.py, issue_*.py
-├── .github/ISSUE_TEMPLATE/  formulaires : source (ajout, suppression), domaine (ajout, renommage)
+│                            renommer_theme.py, supprimer_theme.py, purger_source.py, issue_*.py
+├── .github/ISSUE_TEMPLATE/  formulaires : source (ajout, suppression), domaine (ajout, renommage, suppression)
 ├── GUIDE-UTILISATEUR.md     documentation à destination des lecteurs
 ├── config/sites.yml         définition des sources
 ├── config/certs/            certificats intermédiaires que des sites oublient d'envoyer

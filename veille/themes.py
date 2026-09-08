@@ -3,9 +3,11 @@
 Les domaines vivent à deux endroits : `settings.themes` dans config/sites.yml,
 qui dit quels domaines sont reconnus, et la liste déroulante du formulaire
 d'issue « Proposer une nouvelle source ». Les deux doivent rester alignés. Ce
-module est le seul à les modifier, et il les modifie ensemble. Renommer un
-domaine touche un troisième endroit : la clé `theme` de chaque source qui s'y
-rattache.
+module est le seul à les modifier, et il les modifie ensemble. Renommer ou
+supprimer un domaine touche un troisième endroit : la clé `theme` de chaque
+source qui s'y rattache — renommée, rattachée à un autre domaine, ou retirée
+(la source passe alors sous « Autres »). Supprimer un domaine ne supprime
+jamais une source ni un article.
 
 L'ordre d'affichage n'est plus une décision : il est alphabétique, partout. Les
 listes sont donc réécrites triées à chaque modification.
@@ -24,7 +26,7 @@ from pathlib import Path
 
 import yaml
 
-from veille.config import CONFIG_PATH, ROOT, sort_key
+from veille.config import CONFIG_PATH, ROOT, display_name, load_config, sort_key, theme_of
 
 FORM_PATH = ROOT / ".github" / "ISSUE_TEMPLATE" / "nouvelle-source.yml"
 MAX_LENGTH = 40
@@ -64,6 +66,22 @@ class RenamePlan:
     @property
     def position(self) -> int:
         return self.result.index(self.new) + 1
+
+
+@dataclass
+class ThemeRemovalPlan:
+    """Un domaine disparaît : le nom reconnu, la liste restante, le sort de ses sources.
+
+    `target` est le domaine qui accueille les sources rattachées ; vide, elles
+    perdent leur domaine et passent sous « Autres ». `sources` liste leurs noms
+    affichés, pour que l'approbateur voie ce qu'il déplace.
+    """
+
+    name: str
+    target: str
+    before: list[str]
+    result: list[str]
+    sources: list[str] = field(default_factory=list)
 
 
 def newline_of(text: str) -> str:
@@ -157,6 +175,31 @@ def plan_rename(old: str, new: str, themes: list[str] | None = None) -> RenamePl
     return RenamePlan(old=ancien, new=nouveau, before=themes, result=sorted_themes(restants + [nouveau]))
 
 
+def plan_theme_removal(name: str, target: str = "", themes: list[str] | None = None,
+                       sites: list[dict] | None = None) -> ThemeRemovalPlan:
+    """Valide une suppression : le domaine doit exister et ne pas être le dernier.
+
+    Ses sources sont rattachées à `target`, un autre domaine reconnu, ou — sans
+    cible, ou avec « Autres » pour cible — laissées sans domaine.
+    """
+    themes = list(themes if themes is not None else current_themes())
+    sites = list(sites if sites is not None else (load_config().get("sites") or []))
+    domaine = resolve_theme(name, themes)
+    restants = sorted_themes([t for t in themes if t != domaine])
+    if not restants:
+        raise ValueError(f"impossible de supprimer « {domaine} », dernier domaine : le formulaire "
+                         "de proposition de source en exige au moins un")
+    cible = " ".join((target or "").split())
+    if cible and cible.casefold() not in RESERVED:
+        cible = resolve_theme(cible, themes)
+        if cible == domaine:
+            raise ValueError(f"les sources ne peuvent pas être rattachées à « {domaine} », le domaine supprimé")
+    else:
+        cible = ""
+    concernees = [display_name(s) for s in sites if theme_of(s) == domaine]
+    return ThemeRemovalPlan(name=domaine, target=cible, before=themes, result=restants, sources=concernees)
+
+
 def unquote(valeur: str) -> str:
     """Retire les guillemets qui entourent une valeur YAML écrite en ligne."""
     valeur = valeur.strip()
@@ -221,6 +264,23 @@ def retag_sources(text: str, old: str, new: str) -> tuple[str, int]:
             lignes[i] = f'{correspondance.group(1)}"{new.replace(chr(34), chr(39))}"'
             compte += 1
     return nl.join(lignes), compte
+
+
+def untag_sources(text: str, old: str) -> tuple[str, int]:
+    """Retire la ligne `theme: "old"` de chaque source ; rend le texte et le nombre.
+
+    Les sources concernées passent sous « Autres » ; rien d'autre ne bouge.
+    """
+    nl = newline_of(text)
+    gardees: list[str] = []
+    compte = 0
+    for ligne in text.split(nl):
+        correspondance = SOURCE_THEME_LINE.match(ligne)
+        if correspondance and unquote(correspondance.group(2)) == old:
+            compte += 1
+            continue
+        gardees.append(ligne)
+    return nl.join(gardees), compte
 
 
 def check_form_alignment(form_path: Path, before: list[str]) -> None:
@@ -290,8 +350,40 @@ def rename_theme(plan: RenamePlan, config_path: Path | None = None, form_path: P
     return retaguees
 
 
+def remove_theme(plan: ThemeRemovalPlan, config_path: Path | None = None, form_path: Path | None = None) -> int:
+    """Supprime un domaine : liste, formulaire, et rattachement de ses sources.
+
+    Rend le nombre de sources déplacées (vers la cible, ou sous « Autres »).
+    Rien n'est écrit si l'une des relectures ne confirme pas le résultat.
+    """
+    config_path = Path(config_path or CONFIG_PATH)
+    form_path = Path(form_path or FORM_PATH)
+    check_form_alignment(form_path, plan.before)
+
+    config_text = read_text_exact(config_path)
+    nouveau_config, nouveau_form = rewrite_lists(config_text, read_text_exact(form_path), plan.result)
+    if plan.target:
+        nouveau_config, deplacees = retag_sources(nouveau_config, plan.name, plan.target)
+    else:
+        nouveau_config, deplacees = untag_sources(nouveau_config, plan.name)
+
+    relu_config, relu_form = reread_lists(nouveau_config, nouveau_form)
+    sites = yaml.safe_load(nouveau_config).get("sites") or []
+    if relu_config != plan.result or relu_form != plan.result:
+        raise ValueError("après réécriture, les fichiers ne relisent pas la liste attendue")
+    if any(s.get("theme") == plan.name for s in sites):
+        raise ValueError("une source porte encore le domaine supprimé après réécriture")
+    if deplacees != len(plan.sources):
+        raise ValueError("le nombre de sources déplacées ne correspond pas à celui annoncé")
+
+    write_text_exact(config_path, nouveau_config)
+    write_text_exact(form_path, nouveau_form)
+    return deplacees
+
+
 __all__ = [
-    "FORM_PATH", "RenamePlan", "ThemePlan", "add_theme", "current_themes", "form_themes",
-    "list_items", "newline_of", "plan_rename", "plan_theme", "read_text_exact", "rename_theme",
-    "replace_list_items", "resolve_theme", "retag_sources", "sorted_themes", "write_text_exact",
+    "FORM_PATH", "RenamePlan", "ThemePlan", "ThemeRemovalPlan", "add_theme", "current_themes",
+    "form_themes", "list_items", "newline_of", "plan_rename", "plan_theme", "plan_theme_removal",
+    "read_text_exact", "remove_theme", "rename_theme", "replace_list_items", "resolve_theme",
+    "retag_sources", "sorted_themes", "untag_sources", "write_text_exact",
 ]
