@@ -158,8 +158,8 @@ def investigate(session: Any, url: str, *, name: str = "", short_name: str = "",
         # Un doublon n'est pas une erreur technique, mais l'approbateur doit s'arrêter dessus.
         verdict = VERDICT_A_VERIFIER
     if theme and themes and theme not in themes:
-        warnings.append(f"le domaine « {theme} » n'est pas dans la liste settings.themes : "
-                        "la source apparaîtra sous « Autres »")
+        warnings.append(f"le domaine « {theme} » n'existe pas encore : la source apparaîtra sous "
+                        "« Autres ». Pour le créer, utiliser le formulaire « Proposer un nouveau domaine »")
 
     nom = (name or nom_propose or url).strip()
     court = (short_name or nom).strip()

@@ -130,7 +130,9 @@ aucune manipulation technique.
    https://github.com/AbonnementsGrp/veille-rss/issues/new?template=nouvelle-source.yml
 2. Indiquez l'**adresse de la page d'actualités** du site — la page qui liste les
    articles, pas la page d'accueil — et choisissez le **domaine**. Le nom est
-   facultatif : il est proposé d'après le site si vous le laissez vide.
+   facultatif : il est proposé d'après le site si vous le laissez vide. Si aucun
+   domaine de la liste ne convient, proposez d'abord le domaine (voir plus bas),
+   puis la source.
 3. Envoyez. Dans les minutes qui suivent, un commentaire automatique apparaît
    sous votre demande avec le résultat de l'enquête :
 
@@ -146,8 +148,24 @@ aucune manipulation technique.
    ajoutée automatiquement, votre demande est fermée, et elle apparaît sur le
    tableau de bord à la génération suivante.
 
-Pour corriger le nom ou le domaine après coup, modifiez simplement votre demande :
-l'enquête est relancée et un nouveau commentaire remplace le précédent.
+Pour corriger le nom ou le domaine après coup, modifiez simplement votre demande
+(bouton *Edit* sur le premier message) : l'enquête est relancée et un nouveau
+commentaire s'ajoute sous le précédent.
+
+## Proposer un domaine
+
+Les domaines sont les rubriques du tableau de bord : Enfance & Éducation, Santé,
+social & séniors, Culture, Tourisme, Restauration. Pour en créer un :
+
+1. Ouvrez le formulaire **Proposer un nouveau domaine** :
+   https://github.com/AbonnementsGrp/veille-rss/issues/new?template=nouveau-domaine.yml
+2. Donnez son **nom**, court et lisible. Vous pouvez indiquer après quel domaine
+   existant le placer ; à défaut il va en dernier.
+3. Un commentaire automatique montre l'ordre des domaines qui en résulterait, ou
+   explique le refus (nom déjà pris, trop long, domaine de référence inconnu).
+4. Un responsable pose l'étiquette **approuvé** : le domaine est créé et apparaît
+   aussitôt dans la liste proposée au moment d'ajouter une source. Il ne
+   s'affiche sur le tableau de bord qu'une fois qu'une source lui est rattachée.
 
 ## Questions fréquentes
 

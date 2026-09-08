@@ -1,10 +1,10 @@
-name: Nouvelle source proposée par issue
+name: Nouveau domaine proposé par issue
 
-# Une personne sans outillage propose une source par le formulaire d'issue.
-# Ce workflow enquête sur l'adresse donnée et publie le résultat en commentaire ;
-# quand un responsable pose l'étiquette « approuvé », il ajoute la source à la
-# configuration et la veille repart d'elle-même (le push sur config/ déclenche
-# la génération).
+# Même mécanique que pour une source : le formulaire est reconnu à son premier
+# champ, une vérification publie un commentaire, et l'étiquette « approuvé »
+# posée par un responsable déclenche l'écriture. Le domaine est écrit aux deux
+# endroits où la liste vit : settings.themes et la liste déroulante du
+# formulaire de proposition de source.
 
 on:
   issues:
@@ -15,20 +15,15 @@ permissions:
   issues: write
 
 concurrency:
-  group: nouvelle-source-${{ github.event.issue.number }}
+  group: nouveau-domaine-${{ github.event.issue.number }}
   cancel-in-progress: true
 
 jobs:
-  # Le formulaire est reconnu à son premier champ, pas à son étiquette : GitHub
-  # n'applique pas une étiquette de modèle qui n'existe pas encore dans le
-  # dépôt. Le workflow crée donc lui-même ses étiquettes au premier passage.
-  enquete:
-    name: Enquêter sur la source proposée
-    # Les chaînes d'une expression GitHub vont entre guillemets simples ; le
-    # marqueur est choisi sans apostrophe pour ne pas avoir à l'échapper.
+  verification:
+    name: Vérifier le domaine proposé
     if: >
-      contains(github.event.issue.body, '### Adresse de la page') &&
-      (github.event.action != 'labeled' || github.event.label.name == 'nouvelle-source')
+      contains(github.event.issue.body, '### Nom du domaine') &&
+      (github.event.action != 'labeled' || github.event.label.name == 'nouveau-domaine')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -40,39 +35,35 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      # Le corps de l'issue est écrit par le demandeur : il passe par une
-      # variable d'environnement, jamais par une interpolation dans le shell.
-      - name: Enquêter
+      - name: Vérifier
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
-        run: python scripts/issue_source.py enquete || true
+        run: python scripts/issue_domaine.py enquete || true
 
       - name: Publier le résultat en commentaire
         env:
           GH_TOKEN: ${{ github.token }}
           NUMERO: ${{ github.event.issue.number }}
         run: |
-          for etiquette in "nouvelle-source:5319E7:Demande d'ajout d'une source" \
+          for etiquette in "nouveau-domaine:5319E7:Demande d'ajout d'un domaine" \
                            "enquete-ok:0E8A16:Prête à être ajoutée" \
-                           "enquete-a-verifier:FBCA04:À vérifier avant approbation" \
-                           "enquete-manuel:B60205:Demande un réglage manuel" \
-                           "enquete-erreur:B60205:Adresse inexploitable" \
+                           "enquete-erreur:B60205:Demande inexploitable" \
                            "approuvé:1D76DB:Ajout validé par un responsable"; do
             IFS=: read -r nom couleur description <<< "$etiquette"
             gh label create "$nom" --color "$couleur" --description "$description" --force
           done
-          verdict=$(tr '_' '-' < verdict.txt)
+          verdict=$(cat verdict.txt)
           gh issue comment "$NUMERO" --body-file commentaire.md
           gh issue edit "$NUMERO" \
-            --remove-label enquete-ok,enquete-a-verifier,enquete-manuel,enquete-erreur \
-            --add-label "nouvelle-source,enquete-$verdict"
+            --remove-label enquete-ok,enquete-erreur \
+            --add-label "nouveau-domaine,enquete-$verdict"
 
   ajout:
-    name: Ajouter la source approuvée
+    name: Créer le domaine approuvé
     if: >
       github.event.action == 'labeled' &&
       github.event.label.name == 'approuvé' &&
-      contains(github.event.issue.body, '### Adresse de la page')
+      contains(github.event.issue.body, '### Nom du domaine')
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v4
@@ -86,18 +77,18 @@ jobs:
 
       - run: pip install -r requirements.txt
 
-      - name: Ajouter à la configuration
+      - name: Écrire le domaine
         id: ajout
         env:
           ISSUE_BODY: ${{ github.event.issue.body }}
         run: |
-          if python scripts/issue_source.py ajouter; then
+          if python scripts/issue_domaine.py ajouter; then
             echo "reussi=true" >> "$GITHUB_OUTPUT"
           else
             echo "reussi=false" >> "$GITHUB_OUTPUT"
           fi
 
-      - name: Committer la configuration
+      - name: Committer
         if: steps.ajout.outputs.reussi == 'true'
         env:
           NUMERO: ${{ github.event.issue.number }}
@@ -105,8 +96,8 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
-          git add config/sites.yml
-          git commit -m "Ajouter une source proposée par issue (#$NUMERO)" -m "$TITRE"
+          git add config/sites.yml .github/ISSUE_TEMPLATE/nouvelle-source.yml
+          git commit -m "Ajouter un domaine proposé par issue (#$NUMERO)" -m "$TITRE"
           git pull --rebase
           git push
 

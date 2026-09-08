@@ -1,0 +1,33 @@
+name: Proposer un nouveau domaine
+description: Ajouter une rubrique au tableau de bord, pour y classer des sources. Aucune connaissance technique requise.
+title: "[Domaine] "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Un domaine est une rubrique du tableau de bord : *Enfance & Éducation*,
+        *Culture*, *Restauration*… Une fois créé, il apparaît dans la liste des
+        domaines proposés au moment d'ajouter une source. Un responsable valide la
+        création ; le domaine est alors ajouté automatiquement.
+
+  - type: input
+    id: nom
+    attributes:
+      label: Nom du domaine
+      description: Court et lisible, tel qu'il s'affichera en titre de rubrique.
+      placeholder: Logement & Habitat
+    validations:
+      required: true
+
+  - type: input
+    id: apres
+    attributes:
+      label: Placer après quel domaine ?
+      description: Facultatif. Le nom exact d'un domaine existant ; à défaut, le nouveau domaine se place en dernier.
+      placeholder: Culture
+
+  - type: textarea
+    id: pourquoi
+    attributes:
+      label: Pourquoi ce domaine ?
+      description: Facultatif. Quelles sources comptez-vous y ranger ?

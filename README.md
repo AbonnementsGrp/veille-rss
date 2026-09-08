@@ -176,9 +176,36 @@ dépôt peuvent poser une étiquette : un demandeur ne peut pas approuver sa pro
 demande. Et le corps de l'issue, écrit par le demandeur, ne transite jamais par
 un shell : il passe par une variable d'environnement lue par Python.
 
-La liste des domaines du formulaire est recopiée dans
-[.github/ISSUE_TEMPLATE/nouvelle-source.yml](.github/ISSUE_TEMPLATE/nouvelle-source.yml) :
-la tenir alignée avec `settings.themes` si l'une ou l'autre change.
+**Relancer une enquête** : modifier l'issue (titre ou corps) suffit, l'événement
+*edited* déclenche le workflow. C'est aussi le moyen de traiter une issue ouverte
+avant que le workflow n'existe.
+
+Une subtilité qui a coûté une première exécution : dans une expression `if:`,
+les chaînes vont entre **guillemets simples**. Avec des doubles, GitHub refuse
+tout le fichier sans message, le workflow apparaît sous son chemin au lieu de
+son nom dans la liste des workflows, et rien ne se déclenche. Les marqueurs de
+reconnaissance des formulaires sont choisis sans apostrophe pour cette raison.
+
+### Ajouter un domaine
+
+Les domaines vivent à deux endroits : `settings.themes` dans `config/sites.yml`,
+qui fixe l'ordre d'affichage, et la liste déroulante du formulaire de source.
+`veille/themes.py` est le seul à les modifier, et les modifie ensemble ; un test
+vérifie qu'ils restent identiques.
+
+Par formulaire : *Proposer un nouveau domaine*, traité par
+[nouveau-domaine.yml](.github/workflows/nouveau-domaine.yml) sur le même schéma
+que les sources — vérification en commentaire, étiquette **approuvé**, écriture
+et commit automatiques. En ligne de commande :
+
+```powershell
+python scripts/ajouter_theme.py "Logement & Habitat" --apres "Culture"          # aperçu
+python scripts/ajouter_theme.py "Logement & Habitat" --apres "Culture" --ecrire
+git add config/sites.yml .github/ISSUE_TEMPLATE/nouvelle-source.yml
+```
+
+Un domaine sans source n'apparaît pas sur le tableau de bord ; il apparaît dès
+qu'une source lui est rattachée.
 
 ### En ligne de commande
 
@@ -266,11 +293,14 @@ veille-rss/
 │   ├── sitemap.py           extraction depuis un plan de site
 │   ├── enrich.py            résumé lu sur la page d'un article
 │   ├── onboarding.py        enquête sur une URL en vue d'en faire une source
+│   ├── themes.py            domaines : configuration et formulaire, ensemble
 │   ├── history.py           historique des articles vus
 │   ├── output.py            écriture des flux, de l'OPML, du tableau de bord
 │   └── pipeline.py          orchestration d'une exécution
 ├── tests/                   suite pytest + fixtures hors réseau
-├── scripts/                 ajouter_source.py, purger_source.py, issue_source.py
+├── scripts/                 ajouter_source.py, ajouter_theme.py, purger_source.py,
+│                            issue_source.py, issue_domaine.py
+├── .github/ISSUE_TEMPLATE/  formulaires : nouvelle source, nouveau domaine
 ├── GUIDE-UTILISATEUR.md     documentation à destination des lecteurs
 ├── config/sites.yml         définition des sources
 ├── data/history.json        historique (committé, sert de mémoire entre les runs)
