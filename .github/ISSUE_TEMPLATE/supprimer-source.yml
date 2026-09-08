@@ -1,0 +1,26 @@
+name: Supprimer une source
+description: Retirer un site de la veille. La suppression est validée par un responsable.
+title: "[Source] Supprimer "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        La source disparaît du tableau de bord et de l'OPML ; son flux publié et
+        son historique sont effacés. **L'opération est irréversible** — un
+        commentaire automatique récapitule ce qui sera retiré avant toute
+        validation.
+
+  - type: input
+    id: source
+    attributes:
+      label: Source à supprimer
+      description: Son nom tel qu'il s'affiche sur le tableau de bord. La casse et les accents n'ont pas d'importance.
+      placeholder: IGAS
+    validations:
+      required: true
+
+  - type: textarea
+    id: pourquoi
+    attributes:
+      label: Pourquoi la supprimer ?
+      description: Facultatif, mais utile au responsable qui valide.

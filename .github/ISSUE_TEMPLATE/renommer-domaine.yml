@@ -1,0 +1,34 @@
+name: Renommer un domaine
+description: Changer l'intitulé d'une rubrique du tableau de bord. Aucune connaissance technique requise.
+title: "[Domaine] Renommer "
+body:
+  - type: markdown
+    attributes:
+      value: |
+        Le nouveau nom remplace l'ancien partout : rubrique du tableau de bord,
+        dossier de l'OPML, liste des domaines proposés à l'ajout d'une source, et
+        rattachement des sources concernées. Un responsable valide le changement.
+
+  - type: input
+    id: ancien
+    attributes:
+      label: Domaine actuel
+      description: Tel qu'il s'affiche sur le tableau de bord. La casse et les accents n'ont pas d'importance.
+      placeholder: Santé, social & séniors
+    validations:
+      required: true
+
+  - type: input
+    id: nouveau
+    attributes:
+      label: Nouveau nom
+      description: Court et lisible, tel qu'il s'affichera en titre de rubrique.
+      placeholder: Santé & Solidarités
+    validations:
+      required: true
+
+  - type: textarea
+    id: pourquoi
+    attributes:
+      label: Pourquoi ce changement ?
+      description: Facultatif.

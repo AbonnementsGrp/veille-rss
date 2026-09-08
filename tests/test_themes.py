@@ -12,8 +12,11 @@ from veille.themes import (
     current_themes,
     form_themes,
     list_items,
+    plan_rename,
     plan_theme,
+    rename_theme,
     replace_list_items,
+    resolve_theme,
     sorted_themes,
 )
 
@@ -156,3 +159,95 @@ class TestCoherenceDuDepot:
     def test_les_domaines_sont_ranges_par_ordre_alphabetique(self):
         assert current_themes() == sorted_themes(current_themes())
         assert sorted(current_themes(), key=sort_key) == current_themes()
+
+
+class TestPlanRename:
+    def test_reconnait_l_ancien_nom_sans_egard_aux_accents(self):
+        plan = plan_rename("sante, social & seniors", "Santé & Social", themes=THEMES)
+        assert plan.old == "Santé, social & séniors"
+        assert plan.result == ["Culture", "Enfance & Éducation", "Santé & Social"]
+
+    def test_reclasse_le_nouveau_nom_alphabetiquement(self):
+        plan = plan_rename("Culture", "Zone culturelle", themes=THEMES)
+        assert plan.result[-1] == "Zone culturelle" and plan.position == 3
+
+    def test_autorise_un_simple_changement_de_casse_ou_d_accent(self):
+        plan = plan_rename("Culture", "CULTURE", themes=THEMES)
+        assert plan.new == "CULTURE" and "Culture" not in plan.result
+
+    def test_refuse_un_domaine_inconnu(self):
+        with pytest.raises(ValueError, match="aucun domaine « Sport »"):
+            plan_rename("Sport", "Sports", themes=THEMES)
+
+    def test_refuse_un_nouveau_nom_deja_pris(self):
+        with pytest.raises(ValueError, match="existe déjà"):
+            plan_rename("Culture", "Enfance & Éducation", themes=THEMES)
+
+    def test_refuse_un_nom_identique(self):
+        with pytest.raises(ValueError, match="déjà le nom"):
+            plan_rename("Culture", "Culture", themes=THEMES)
+
+    def test_refuse_un_nom_invalide(self):
+        with pytest.raises(ValueError, match="réservé"):
+            plan_rename("Culture", "Autres", themes=THEMES)
+
+
+CONFIG_AVEC_SOURCES = CONFIG + '''  - name: "B"
+    theme: "Culture"
+    url: "https://b.fr/"
+  - name: "C"
+    theme: "Santé, social & séniors"
+    url: "https://c.fr/"
+'''
+
+
+class TestRenameTheme:
+    def _fichiers(self, tmp_path):
+        config = tmp_path / "sites.yml"
+        formulaire = tmp_path / "nouvelle-source.yml"
+        config.write_text(CONFIG_AVEC_SOURCES.replace('  - name: "A"\n    url: "https://a.fr/"\n',
+                                                     '  - name: "A"\n    theme: "Culture"\n    url: "https://a.fr/"\n'),
+                          encoding="utf-8")
+        formulaire.write_text(FORM, encoding="utf-8")
+        return config, formulaire
+
+    def test_renomme_la_liste_les_sources_et_le_formulaire(self, tmp_path):
+        config, formulaire = self._fichiers(tmp_path)
+        n = rename_theme(plan_rename("Culture", "Arts & Culture", themes=THEMES), config, formulaire)
+        assert n == 2
+        cfg = yaml.safe_load(config.read_text(encoding="utf-8"))
+        assert cfg["settings"]["themes"] == ["Arts & Culture", "Enfance & Éducation", "Santé, social & séniors"]
+        assert [s.get("theme") for s in cfg["sites"]] == ["Arts & Culture", "Arts & Culture", "Santé, social & séniors"]
+        assert form_themes(formulaire) == cfg["settings"]["themes"]
+
+    def test_preserve_les_commentaires(self, tmp_path):
+        config, formulaire = self._fichiers(tmp_path)
+        rename_theme(plan_rename("Culture", "Arts", themes=THEMES), config, formulaire)
+        assert "# Domaines reconnus." in config.read_text(encoding="utf-8")
+
+    def test_respecte_les_fins_de_ligne_du_fichier(self, tmp_path):
+        config, formulaire = self._fichiers(tmp_path)
+        config.write_bytes(config.read_text(encoding="utf-8").replace("\n", "\r\n").encode("utf-8"))
+        rename_theme(plan_rename("Culture", "Arts", themes=THEMES), config, formulaire)
+        brut = config.read_bytes()
+        assert b"\r\n" in brut
+        assert b"\n" not in brut.replace(b"\r\n", b""), "aucune fin de ligne Unix ne doit s'être glissée"
+
+    def test_refuse_si_le_formulaire_a_derive(self, tmp_path):
+        config, formulaire = self._fichiers(tmp_path)
+        formulaire.write_text(FORM.replace('        - "Culture"\n', ""), encoding="utf-8")
+        with pytest.raises(ValueError, match="diffère"):
+            rename_theme(plan_rename("Culture", "Arts", themes=THEMES), config, formulaire)
+        assert "Arts" not in config.read_text(encoding="utf-8")
+
+
+class TestResolveTheme:
+    def test_prefere_l_ecriture_exacte(self):
+        assert resolve_theme("Culture", THEMES) == "Culture"
+
+    def test_tolere_casse_et_accents(self):
+        assert resolve_theme("ENFANCE & EDUCATION", THEMES) == "Enfance & Éducation"
+
+    def test_refuse_l_inconnu(self):
+        with pytest.raises(ValueError, match="domaines existants"):
+            resolve_theme("Sport", THEMES)

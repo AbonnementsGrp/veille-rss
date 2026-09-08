@@ -23,11 +23,13 @@ COLONNES = 6
 # Formulaire d'issue par lequel n'importe qui, sans outillage, propose une source.
 PROPOSE_SOURCE_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?template=nouvelle-source.yml"
 PROPOSE_THEME_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?template=nouveau-domaine.yml"
+RENAME_THEME_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?template=renommer-domaine.yml"
+REMOVE_SOURCE_URL = "https://github.com/AbonnementsGrp/veille-rss/issues/new?template=supprimer-source.yml"
 
 DASHBOARD_STYLE = (
     "html{scroll-behavior:smooth}"
     "body{font-family:Arial,sans-serif;max-width:1600px;margin:40px auto;padding:0 20px;color:#1f2937}"
-    "h1{margin-bottom:6px}.meta{color:#6b7280;margin-bottom:24px}"
+    "h1{margin-bottom:6px}.meta{color:#6b7280;margin-bottom:24px}p.gestion{color:#6b7280}"
     # Sommaire des domaines : colonne fixe à gauche sur grand écran, qui reste
     # visible pendant le défilement ; bandeau au-dessus du tableau sur écran étroit.
     ".layout{display:grid;grid-template-columns:230px minmax(0,1fr);gap:28px;align-items:start;margin-top:8px}"
@@ -310,7 +312,8 @@ def write_dashboard(payload: dict[str, Any], title: str, public_dir: Path | None
 </style></head><body><h1>{html.escape(title)}</h1><div class="meta">Dernière génération : <time id="generation" datetime="{generated}">{generated}</time><span id="fraicheur"></span></div>
 <div id="alerte" hidden class="stale"></div>
 <div class="cards">{cards}</div>
-<p><a href="veille.xml"><strong>Flux global veille.xml</strong></a> · <a href="feeds.opml">Exporter tous les flux (OPML)</a> · <a href="status.json">État JSON</a> · <a href="{PROPOSE_SOURCE_URL}">Proposer une source</a> · <a href="{PROPOSE_THEME_URL}">Proposer un domaine</a></p>
+<p><a href="veille.xml"><strong>Flux global veille.xml</strong></a> · <a href="feeds.opml">Exporter tous les flux (OPML)</a> · <a href="status.json">État JSON</a></p>
+<p class="gestion">Gérer la veille : <a href="{PROPOSE_SOURCE_URL}">Proposer une source</a> · <a href="{REMOVE_SOURCE_URL}">Supprimer une source</a> · <a href="{PROPOSE_THEME_URL}">Proposer un domaine</a> · <a href="{RENAME_THEME_URL}">Renommer un domaine</a></p>
 <div class="layout">{sommaire}<div class="contenu">
 <table><thead><tr><th>Source</th><th>État</th><th>Articles</th><th>Flux</th><th>Activité</th><th>Méthode / détail</th></tr></thead><tbody>{lignes}</tbody></table>
 </div></div>

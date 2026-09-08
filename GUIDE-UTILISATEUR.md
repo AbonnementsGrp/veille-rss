@@ -186,6 +186,27 @@ social & séniors, Culture, Tourisme, Restauration. Pour en créer un :
    aussitôt dans la liste proposée au moment d'ajouter une source. Il ne
    s'affiche sur le tableau de bord qu'une fois qu'une source lui est rattachée.
 
+## Renommer un domaine
+
+Ouvrez le formulaire **Renommer un domaine** (lien sur le tableau de bord, ou
+https://github.com/AbonnementsGrp/veille-rss/issues/new?template=renommer-domaine.yml),
+indiquez le domaine actuel — tel qu'il s'affiche, casse et accents sans importance —
+et le nouveau nom. Le commentaire automatique montre le domaine reconnu, les
+sources concernées et la liste qui en résulte. Après validation par un responsable,
+le nouveau nom est en place partout : tableau de bord, dossiers de l'OPML, liste
+proposée à l'ajout d'une source.
+
+## Supprimer une source
+
+Ouvrez le formulaire **Supprimer une source** (lien sur le tableau de bord, ou
+https://github.com/AbonnementsGrp/veille-rss/issues/new?template=supprimer-source.yml)
+et donnez le nom de la source tel qu'il s'affiche. Le commentaire automatique
+récapitule ce qui sera retiré : la source reconnue, son domaine, son flux publié
+et le nombre d'articles de son historique. **La suppression est irréversible** :
+lisez ce récapitulatif avant de valider. Après validation, la source disparaît du
+tableau de bord et de l'OPML à la génération suivante ; les lecteurs abonnés à
+son flux ne recevront plus rien.
+
 ## Questions fréquentes
 
 **À quelle vitesse un nouvel article apparaît-il ?**

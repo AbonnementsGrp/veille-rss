@@ -1,0 +1,114 @@
+name: Domaine renommé par issue
+
+# Même mécanique que l'ajout : le formulaire est reconnu à son premier champ, la
+# vérification publie un commentaire, l'étiquette « approuvé » déclenche
+# l'écriture. Le renommage touche la liste des domaines, les sources qui s'y
+# rattachent et la liste déroulante du formulaire de source.
+
+on:
+  issues:
+    types: [opened, edited, labeled]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: renommer-domaine-${{ github.event.issue.number }}
+  cancel-in-progress: true
+
+jobs:
+  verification:
+    name: Vérifier le renommage proposé
+    if: >
+      contains(github.event.issue.body, '### Domaine actuel') &&
+      (github.event.action != 'labeled' || github.event.label.name == 'renommer-domaine')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Vérifier
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: python scripts/issue_renommer_domaine.py enquete || true
+
+      - name: Publier le résultat en commentaire
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMERO: ${{ github.event.issue.number }}
+        run: |
+          for etiquette in "renommer-domaine:5319E7:Demande de renommage d'un domaine" \
+                           "enquete-ok:0E8A16:Prête à être appliquée" \
+                           "enquete-erreur:B60205:Demande inexploitable" \
+                           "approuvé:1D76DB:Validé par un responsable"; do
+            IFS=: read -r nom couleur description <<< "$etiquette"
+            gh label create "$nom" --color "$couleur" --description "$description" --force
+          done
+          verdict=$(cat verdict.txt)
+          gh issue comment "$NUMERO" --body-file commentaire.md
+          gh issue edit "$NUMERO" \
+            --remove-label enquete-ok,enquete-erreur \
+            --add-label "renommer-domaine,enquete-$verdict"
+
+  application:
+    name: Renommer le domaine approuvé
+    if: >
+      github.event.action == 'labeled' &&
+      github.event.label.name == 'approuvé' &&
+      contains(github.event.issue.body, '### Domaine actuel')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Renommer
+        id: application
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          if python scripts/issue_renommer_domaine.py appliquer; then
+            echo "reussi=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "reussi=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Committer
+        if: steps.application.outputs.reussi == 'true'
+        env:
+          NUMERO: ${{ github.event.issue.number }}
+          TITRE: ${{ github.event.issue.title }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add config/sites.yml .github/ISSUE_TEMPLATE/nouvelle-source.yml
+          git commit -m "Renommer un domaine sur demande par issue (#$NUMERO)" -m "$TITRE"
+          git pull --rebase
+          git push
+
+      - name: Rendre compte dans l'issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMERO: ${{ github.event.issue.number }}
+          REUSSI: ${{ steps.application.outputs.reussi }}
+        run: |
+          gh issue comment "$NUMERO" --body-file commentaire.md
+          if [ "$REUSSI" = "true" ]; then
+            gh issue close "$NUMERO" --reason completed
+          else
+            gh issue edit "$NUMERO" --remove-label "approuvé"
+          fi

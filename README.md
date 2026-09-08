@@ -210,6 +210,36 @@ git add config/sites.yml .github/ISSUE_TEMPLATE/nouvelle-source.yml
 Un domaine sans source n'apparaît pas sur le tableau de bord ; il apparaît dès
 qu'une source lui est rattachée.
 
+### Renommer un domaine
+
+Le nouveau nom remplace l'ancien aux trois endroits où il figure : la liste des
+domaines, la clé `theme` des sources concernées, la liste déroulante du
+formulaire de source. L'ancien nom est reconnu sans égard à la casse ni aux
+accents. Par formulaire, *Renommer un domaine*, traité par
+[renommer-domaine.yml](.github/workflows/renommer-domaine.yml) ; en ligne de
+commande :
+
+```powershell
+python scripts/renommer_theme.py "Culture" "Arts & Culture"            # aperçu
+python scripts/renommer_theme.py "Culture" "Arts & Culture" --ecrire
+```
+
+### Supprimer une source
+
+Une source vit à trois endroits : son bloc dans `config/sites.yml`, ses articles
+dans `data/history.json`, son flux dans `public/`. La suppression retire les
+trois — sinon le flux resterait en ligne, figé. La source est reconnue par son
+nom complet ou son nom court. Par formulaire, *Supprimer une source*, traité par
+[supprimer-source.yml](.github/workflows/supprimer-source.yml), avec un
+récapitulatif à lire avant d'approuver puisque l'opération est irréversible ; en
+ligne de commande :
+
+```powershell
+python scripts/supprimer_source.py "IGAS"            # aperçu de ce qui serait retiré
+python scripts/supprimer_source.py "IGAS" --ecrire
+git add -A config/sites.yml data/history.json public/
+```
+
 ### En ligne de commande
 
 ```powershell
@@ -296,14 +326,16 @@ veille-rss/
 │   ├── sitemap.py           extraction depuis un plan de site
 │   ├── enrich.py            résumé lu sur la page d'un article
 │   ├── onboarding.py        enquête sur une URL en vue d'en faire une source
-│   ├── themes.py            domaines : configuration et formulaire, ensemble
+│   ├── themes.py            domaines : ajout, renommage, configuration et formulaire ensemble
+│   ├── sources.py           suppression d'une source : configuration, historique, flux
+│   ├── issues.py            lecture commune des formulaires d'issue
 │   ├── history.py           historique des articles vus
 │   ├── output.py            écriture des flux, de l'OPML, du tableau de bord
 │   └── pipeline.py          orchestration d'une exécution
 ├── tests/                   suite pytest + fixtures hors réseau
-├── scripts/                 ajouter_source.py, ajouter_theme.py, purger_source.py,
-│                            issue_source.py, issue_domaine.py
-├── .github/ISSUE_TEMPLATE/  formulaires : nouvelle source, nouveau domaine
+├── scripts/                 ajouter_source.py, supprimer_source.py, ajouter_theme.py,
+│                            renommer_theme.py, purger_source.py, issue_*.py
+├── .github/ISSUE_TEMPLATE/  formulaires : source (ajout, suppression), domaine (ajout, renommage)
 ├── GUIDE-UTILISATEUR.md     documentation à destination des lecteurs
 ├── config/sites.yml         définition des sources
 ├── data/history.json        historique (committé, sert de mémoire entre les runs)

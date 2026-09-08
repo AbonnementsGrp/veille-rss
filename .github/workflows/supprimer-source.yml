@@ -1,0 +1,113 @@
+name: Source supprimée par issue
+
+# Suppression d'une source : configuration, historique et flux publié. Le
+# commentaire de vérification récapitule ce qui sera retiré ; seule l'étiquette
+# « approuvé », posée par un responsable, déclenche l'opération, irréversible.
+
+on:
+  issues:
+    types: [opened, edited, labeled]
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: supprimer-source-${{ github.event.issue.number }}
+  cancel-in-progress: true
+
+jobs:
+  verification:
+    name: Vérifier la source à supprimer
+    if: >
+      contains(github.event.issue.body, '### Source à supprimer') &&
+      (github.event.action != 'labeled' || github.event.label.name == 'supprimer-source')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Vérifier
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: python scripts/issue_supprimer_source.py enquete || true
+
+      - name: Publier le résultat en commentaire
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMERO: ${{ github.event.issue.number }}
+        run: |
+          for etiquette in "supprimer-source:B60205:Demande de suppression d'une source" \
+                           "enquete-ok:0E8A16:Prête à être appliquée" \
+                           "enquete-erreur:B60205:Demande inexploitable" \
+                           "approuvé:1D76DB:Validé par un responsable"; do
+            IFS=: read -r nom couleur description <<< "$etiquette"
+            gh label create "$nom" --color "$couleur" --description "$description" --force
+          done
+          verdict=$(cat verdict.txt)
+          gh issue comment "$NUMERO" --body-file commentaire.md
+          gh issue edit "$NUMERO" \
+            --remove-label enquete-ok,enquete-erreur \
+            --add-label "supprimer-source,enquete-$verdict"
+
+  application:
+    name: Supprimer la source approuvée
+    if: >
+      github.event.action == 'labeled' &&
+      github.event.label.name == 'approuvé' &&
+      contains(github.event.issue.body, '### Source à supprimer')
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          ref: main
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - name: Supprimer
+        id: application
+        env:
+          ISSUE_BODY: ${{ github.event.issue.body }}
+        run: |
+          if python scripts/issue_supprimer_source.py appliquer; then
+            echo "reussi=true" >> "$GITHUB_OUTPUT"
+          else
+            echo "reussi=false" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Committer
+        if: steps.application.outputs.reussi == 'true'
+        env:
+          NUMERO: ${{ github.event.issue.number }}
+          TITRE: ${{ github.event.issue.title }}
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add -A config/sites.yml data/history.json public/
+          git commit -m "Supprimer une source sur demande par issue (#$NUMERO)" -m "$TITRE"
+          git pull --rebase
+          git push
+
+      - name: Rendre compte dans l'issue
+        env:
+          GH_TOKEN: ${{ github.token }}
+          NUMERO: ${{ github.event.issue.number }}
+          REUSSI: ${{ steps.application.outputs.reussi }}
+        run: |
+          gh issue comment "$NUMERO" --body-file commentaire.md
+          if [ "$REUSSI" = "true" ]; then
+            gh issue close "$NUMERO" --reason completed
+          else
+            gh issue edit "$NUMERO" --remove-label "approuvé"
+          fi
