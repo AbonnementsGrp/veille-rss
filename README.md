@@ -321,7 +321,7 @@ veille-rss/
 │   ├── text.py              nettoyage des textes et des résumés
 │   ├── urls.py              normalisation des liens d'articles
 │   ├── dates.py             normalisation ISO 8601 UTC et tri
-│   ├── fetch.py             session HTTP, détection d'un contenu de flux
+│   ├── fetch.py             session HTTP, lot de certificats, détection d'un flux
 │   ├── feeds.py             lecture RSS/Atom, découverte du flux d'un site
 │   ├── extract.py           extraction HTML : JSON-LD, sélecteurs, liens
 │   ├── sitemap.py           extraction depuis un plan de site
@@ -339,6 +339,7 @@ veille-rss/
 ├── .github/ISSUE_TEMPLATE/  formulaires : source (ajout, suppression), domaine (ajout, renommage)
 ├── GUIDE-UTILISATEUR.md     documentation à destination des lecteurs
 ├── config/sites.yml         définition des sources
+├── config/certs/            certificats intermédiaires que des sites oublient d'envoyer
 ├── data/history.json        historique (committé, sert de mémoire entre les runs)
 ├── public/                  sorties publiées par GitHub Pages
 └── .github/workflows/       génération planifiée toutes les 3 h
@@ -365,6 +366,16 @@ l'historique, écriture du flux individuel et intégration au flux global.
 - **Les liens sont débarrassés de leurs paramètres de suivi** (`utm_*`, `pk_*`,
   `fbclid`…) dès la création de l'article : c'est le lien qui porte son identité,
   deux rubriques d'un même site ne doivent pas produire deux fois l'article.
+- **Un site à la chaîne de certificats incomplète se corrige dans `config/certs/`,
+  jamais en désactivant la vérification.** La session HTTP vérifie les sites avec
+  le lot de certifi complété des fichiers PEM de ce dossier (et du lot que
+  `REQUESTS_CA_BUNDLE` ou `CURL_CA_BUNDLE` désignerait sur le poste). Pour
+  ajouter un intermédiaire : lire son adresse dans le certificat du site
+  (`openssl x509 -in feuille.pem -noout -ext authorityInfoAccess`), le
+  télécharger, le convertir en PEM (`openssl x509 -inform DER -in x.crt -out
+  config/certs/x.pem`) et vérifier qu'il remonte bien à une racine connue
+  (`openssl verify -CAfile "$(python -c 'import certifi;print(certifi.where())')"
+  config/certs/x.pem`). Un certificat qui ne remonte à rien ne doit pas entrer.
 
 ## Sources suivies
 
@@ -419,13 +430,15 @@ l'historique, écriture du flux individuel et intégration au flux global.
   corrects (« Journée nationale de la transformation du handicap »), d'autres
   sont laconiques (« Webinaire rdv transfo ») : ils le sont à la source.
   Y remédier supposerait un navigateur sans tête à chaque exécution.
-- **anap.fr sert une chaîne de certificats incomplète** depuis le 28 août 2026,
-  d'où un `CERTIFICATE_VERIFY_FAILED`. Le défaut est côté site : il touche aussi
-  bien la CI que les postes de travail, alors que la même URL répondait
-  normalement le 27. La source bascule sur son historique et reste publiée, avec
-  son erreur visible au tableau de bord. Y remédier de notre côté supposerait de
-  fournir nous-mêmes le certificat intermédiaire manquant ; à faire seulement si
-  l'ANAP tarde à corriger.
+- **anap.fr sert une chaîne de certificats incomplète** depuis le 28 août 2026 :
+  le site n'envoie que son propre certificat, sans l'intermédiaire « DigiCert
+  Global G2 TLS RSA SHA256 2020 CA1 » qui le relie à une racine connue, d'où un
+  `CERTIFICATE_VERIFY_FAILED`. Le défaut est côté site. Depuis le 8 septembre
+  2026 la veille fournit elle-même cet intermédiaire
+  (`config/certs/digicert-global-g2-tls-rsa-sha256-2020-ca1.pem`, valable
+  jusqu'en mars 2031, téléchargé à l'adresse que le certificat du site indique
+  lui-même) et la collecte a repris. Le fichier pourra être supprimé quand
+  l'ANAP aura corrigé sa configuration ; le laisser ne gêne pas.
 - **La rubrique Publics fragiles de Localtis est dormante** : aucun article
   publié depuis avril 2024. Le flux est valide, la source ne l'alimente plus.
 
