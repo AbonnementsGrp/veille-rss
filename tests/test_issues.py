@@ -27,8 +27,16 @@ class TestParseForm:
 class TestSorties:
     def test_ecrit_le_commentaire_et_le_verdict(self, tmp_path):
         write_outputs("bonjour\n", "ok", tmp_path)
-        assert (tmp_path / "commentaire.md").read_text(encoding="utf-8") == "bonjour\n"
+        assert (tmp_path / "commentaire.md").read_text(encoding="utf-8") == (
+            "bonjour\n\n---\n[← Retour au tableau de bord de la veille](https://abonnementsgrp.github.io/veille-rss/)\n")
         assert (tmp_path / "verdict.txt").read_text(encoding="utf-8") == "ok"
+
+    def test_le_lien_de_retour_n_est_pas_double(self, tmp_path):
+        from veille.issues import PIED_DE_PAGE, avec_pied_de_page
+        une_fois = avec_pied_de_page("bonjour\n")
+        assert avec_pied_de_page(une_fois) == une_fois
+        assert une_fois.count("Retour au tableau de bord") == 1
+        assert PIED_DE_PAGE.startswith("\n---\n")
 
     def test_un_refus_explique_et_rend_un_echec(self, tmp_path):
         assert refus("le nom est vide", tmp_path) == 1

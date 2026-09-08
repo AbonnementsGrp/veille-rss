@@ -1,0 +1,12 @@
+# Écran « New issue » : les formulaires ci-contre, plus deux liens de sortie.
+# GitHub ne permet pas d'ajouter un bouton à sa page des issues ; c'est ici,
+# dans les formulaires et dans les commentaires automatiques que la veille
+# rappelle le chemin du tableau de bord.
+blank_issues_enabled: true
+contact_links:
+  - name: Tableau de bord de la veille
+    url: https://abonnementsgrp.github.io/veille-rss/
+    about: Revenir au tableau de bord — état des sources, flux, demandes à valider.
+  - name: Guide d'utilisation
+    url: https://github.com/AbonnementsGrp/veille-rss/blob/main/GUIDE-UTILISATEUR.md
+    about: S'abonner, lire le tableau de bord, proposer ou valider une demande.

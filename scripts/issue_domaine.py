@@ -22,6 +22,7 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
+from veille.issues import avec_pied_de_page  # noqa: E402
 from veille.themes import ThemePlan, add_theme, plan_theme  # noqa: E402
 
 # Libellés du formulaire .github/ISSUE_TEMPLATE/nouveau-domaine.yml → clé.
@@ -63,6 +64,8 @@ def commentaire(plan: ThemePlan, ajoute: bool = False) -> str:
 
 
 def ecrire(nom: str, contenu: str) -> None:
+    if nom == "commentaire.md":
+        contenu = avec_pied_de_page(contenu)
     Path(nom).write_text(contenu, encoding="utf-8")
 
 

@@ -109,11 +109,13 @@ runs:
             ;;
           conflit)
             printf '%s\n' "❌ La modification n'a pas pu être enregistrée : le dépôt a changé pendant l'opération, cinq fois de suite. Retirez puis reposez l'étiquette **approuvé** pour réessayer." > commentaire.md
+            printf '\n---\n%s\n' "[← Retour au tableau de bord de la veille](https://abonnementsgrp.github.io/veille-rss/)" >> commentaire.md
             gh issue comment "$NUMERO" --body-file commentaire.md
             gh issue edit "$NUMERO" --remove-label "approuvé"
             ;;
           *)
             printf '%s\n' "❌ L'application a échoué avant de produire un compte rendu (voir le journal de l'exécution GitHub Actions). Retirez puis reposez l'étiquette **approuvé** pour réessayer." > commentaire.md
+            printf '\n---\n%s\n' "[← Retour au tableau de bord de la veille](https://abonnementsgrp.github.io/veille-rss/)" >> commentaire.md
             gh issue comment "$NUMERO" --body-file commentaire.md
             gh issue edit "$NUMERO" --remove-label "approuvé"
             ;;

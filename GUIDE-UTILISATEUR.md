@@ -249,6 +249,11 @@ le formulaire du premier message : la vérification est relancée. Si l'automate
 n'a pas pu appliquer une demande approuvée, il le dit en commentaire et retire
 lui-même l'étiquette.
 
+Pour revenir au tableau de bord depuis GitHub : chaque commentaire automatique
+se termine par un lien **← Retour au tableau de bord**, chaque formulaire en
+porte un, et l'écran *New issue* propose « Tableau de bord de la veille » parmi
+ses choix. GitHub ne permet pas d'ajouter de bouton à sa propre liste des issues.
+
 Il faut être **collaborateur du dépôt** pour poser une étiquette : si le rouage
 n'apparaît pas à côté de *Labels*, votre compte n'a pas ce droit. Le compte
 propriétaire du dépôt (AbonnementsGrp) l'a ; il peut donner ce droit à un autre

@@ -16,6 +16,18 @@ VIDE = "_No response_"
 APPROBATION = ("Pour appliquer, un responsable pose l'étiquette **approuvé** sur cette issue. "
                "Pour corriger, modifiez le formulaire ci-dessus : la vérification sera relancée.")
 
+# GitHub n'offre aucun bouton de retour depuis ses pages d'issues : chaque
+# commentaire automatique se termine par le chemin du tableau de bord.
+DASHBOARD_URL = "https://abonnementsgrp.github.io/veille-rss/"
+PIED_DE_PAGE = f"\n---\n[← Retour au tableau de bord de la veille]({DASHBOARD_URL})\n"
+
+
+def avec_pied_de_page(commentaire: str) -> str:
+    """Le commentaire suivi du lien de retour, sans le doubler."""
+    if PIED_DE_PAGE.strip() in commentaire:
+        return commentaire
+    return commentaire.rstrip("\n") + "\n" + PIED_DE_PAGE
+
 
 def parse_form(body: str, champs: dict[str, str]) -> dict[str, str]:
     """Lit les champs d'un formulaire : `champs` associe chaque libellé à une clé."""
@@ -34,7 +46,7 @@ def parse_form(body: str, champs: dict[str, str]) -> dict[str, str]:
 def write_outputs(commentaire: str, verdict: str, dossier: Path | None = None) -> None:
     """Dépose commentaire.md et verdict.txt, que le workflow relit ensuite."""
     dossier = dossier or Path.cwd()
-    (dossier / "commentaire.md").write_text(commentaire, encoding="utf-8")
+    (dossier / "commentaire.md").write_text(avec_pied_de_page(commentaire), encoding="utf-8")
     (dossier / "verdict.txt").write_text(verdict, encoding="utf-8")
 
 

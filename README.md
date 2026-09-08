@@ -409,7 +409,9 @@ veille-rss/
 ├── tests/                   suite pytest + fixtures hors réseau
 ├── scripts/                 ajouter_source.py, supprimer_source.py, ajouter_theme.py,
 │                            renommer_theme.py, supprimer_theme.py, purger_source.py, issue_*.py
-├── .github/ISSUE_TEMPLATE/  formulaires : source (ajout, suppression), domaine (ajout, renommage, suppression)
+├── .github/ISSUE_TEMPLATE/  formulaires : source (ajout, suppression), domaine (ajout, renommage, suppression) ;
+│                            config.yml : liens « Tableau de bord » et « Guide » sur l'écran New issue
+├── .github/actions/         appliquer-demande : rejoue une demande approuvée, pousse, rend compte
 ├── GUIDE-UTILISATEUR.md     documentation à destination des lecteurs
 ├── config/sites.yml         définition des sources
 ├── config/certs/            certificats intermédiaires que des sites oublient d'envoyer

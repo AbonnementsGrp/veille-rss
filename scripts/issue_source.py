@@ -25,6 +25,7 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 from veille.browser import BrowserSession  # noqa: E402
 from veille.config import load_config  # noqa: E402
 from veille.fetch import request_session  # noqa: E402
+from veille.issues import avec_pied_de_page  # noqa: E402
 from veille.onboarding import (  # noqa: E402
     VERDICT_MANUEL,
     VERDICT_OK,
@@ -92,6 +93,8 @@ def commentaire(p: Proposal, ajoutee: bool = False) -> str:
 
 
 def ecrire(nom: str, contenu: str) -> None:
+    if nom == "commentaire.md":
+        contenu = avec_pied_de_page(contenu)
     Path(nom).write_text(contenu, encoding="utf-8")
 
 
