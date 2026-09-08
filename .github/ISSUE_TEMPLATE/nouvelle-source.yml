@@ -25,6 +25,7 @@ body:
       label: Domaine
       description: Rubrique du tableau de bord dans laquelle classer la source.
       options:
+        - "ANTIGUA"
         - "Culture"
         - "Enfance & Éducation"
         - "Restauration"

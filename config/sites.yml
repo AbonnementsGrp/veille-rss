@@ -21,6 +21,7 @@ settings:
   # cette liste est sans effet : le tableau de bord classe les domaines par ordre
   # alphabétique, et « Autres » regroupe en dernier les sources sans domaine.
   themes:
+    - "ANTIGUA"
     - "Culture"
     - "Enfance & Éducation"
     - "Restauration"
