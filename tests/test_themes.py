@@ -251,3 +251,16 @@ class TestResolveTheme:
     def test_refuse_l_inconnu(self):
         with pytest.raises(ValueError, match="domaines existants"):
             resolve_theme("Sport", THEMES)
+
+
+class TestFinsDeLigneSurDisque:
+    """Un fichier Unix reste Unix, quelle que soit la plateforme qui l'écrit."""
+
+    def test_un_fichier_lf_reste_lf_apres_ajout(self, tmp_path):
+        config = tmp_path / "sites.yml"
+        formulaire = tmp_path / "nouvelle-source.yml"
+        config.write_bytes(CONFIG.encode("utf-8"))
+        formulaire.write_bytes(FORM.encode("utf-8"))
+        add_theme(plan_theme("Logement", themes=THEMES), config, formulaire)
+        assert b"\r" not in config.read_bytes()
+        assert b"\r" not in formulaire.read_bytes()

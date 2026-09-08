@@ -71,6 +71,23 @@ def newline_of(text: str) -> str:
     return "\r\n" if "\r\n" in text else "\n"
 
 
+def read_text_exact(path: Path) -> str:
+    """Lit un fichier texte sans traduire ses fins de ligne.
+
+    `Path.read_text` convertit `\\r\\n` en `\\n` à la lecture : le style du
+    fichier serait perdu avant même d'être détecté, et sous Linux réécrit en
+    `\\n` — ce que la CI a révélé alors que Windows le masquait.
+    """
+    with Path(path).open("r", encoding="utf-8", newline="") as flux:
+        return flux.read()
+
+
+def write_text_exact(path: Path, text: str) -> None:
+    """Écrit un fichier texte tel quel, fins de ligne comprises."""
+    with Path(path).open("w", encoding="utf-8", newline="") as flux:
+        flux.write(text)
+
+
 def sorted_themes(themes: list[str]) -> list[str]:
     return sorted(themes, key=sort_key)
 
@@ -236,13 +253,13 @@ def add_theme(plan: ThemePlan, config_path: Path | None = None, form_path: Path 
     check_form_alignment(form_path, plan.before)
 
     nouveau_config, nouveau_form = rewrite_lists(
-        config_path.read_text(encoding="utf-8"), form_path.read_text(encoding="utf-8"), plan.result)
+        read_text_exact(config_path), read_text_exact(form_path), plan.result)
     relu_config, relu_form = reread_lists(nouveau_config, nouveau_form)
     if relu_config != plan.result or relu_form != plan.result:
         raise ValueError("après réécriture, les fichiers ne relisent pas la liste attendue")
 
-    config_path.write_text(nouveau_config, encoding="utf-8")
-    form_path.write_text(nouveau_form, encoding="utf-8")
+    write_text_exact(config_path, nouveau_config)
+    write_text_exact(form_path, nouveau_form)
 
 
 def rename_theme(plan: RenamePlan, config_path: Path | None = None, form_path: Path | None = None) -> int:
@@ -255,8 +272,8 @@ def rename_theme(plan: RenamePlan, config_path: Path | None = None, form_path: P
     form_path = Path(form_path or FORM_PATH)
     check_form_alignment(form_path, plan.before)
 
-    config_text = config_path.read_text(encoding="utf-8")
-    nouveau_config, nouveau_form = rewrite_lists(config_text, form_path.read_text(encoding="utf-8"), plan.result)
+    config_text = read_text_exact(config_path)
+    nouveau_config, nouveau_form = rewrite_lists(config_text, read_text_exact(form_path), plan.result)
     nouveau_config, retaguees = retag_sources(nouveau_config, plan.old, plan.new)
 
     relu_config, relu_form = reread_lists(nouveau_config, nouveau_form)
@@ -268,13 +285,13 @@ def rename_theme(plan: RenamePlan, config_path: Path | None = None, form_path: P
     if sum(1 for s in sites if s.get("theme") == plan.new) != retaguees:
         raise ValueError("le nombre de sources rattachées au nouveau nom ne correspond pas")
 
-    config_path.write_text(nouveau_config, encoding="utf-8")
-    form_path.write_text(nouveau_form, encoding="utf-8")
+    write_text_exact(config_path, nouveau_config)
+    write_text_exact(form_path, nouveau_form)
     return retaguees
 
 
 __all__ = [
     "FORM_PATH", "RenamePlan", "ThemePlan", "add_theme", "current_themes", "form_themes",
-    "list_items", "newline_of", "plan_rename", "plan_theme", "rename_theme", "replace_list_items",
-    "resolve_theme", "retag_sources", "sorted_themes",
+    "list_items", "newline_of", "plan_rename", "plan_theme", "read_text_exact", "rename_theme",
+    "replace_list_items", "resolve_theme", "retag_sources", "sorted_themes", "write_text_exact",
 ]

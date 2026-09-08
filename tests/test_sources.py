@@ -138,3 +138,31 @@ class TestApplyRemoval:
         cfg = yaml.safe_load(config.read_text(encoding="utf-8"))
         apply_removal(plan_removal("IGAS", cfg, {}, public), config, history, public)
         assert "IGAS" not in config.read_text(encoding="utf-8")
+
+
+class TestFinsDeLigneSurDisque:
+    """Le fichier est relu et réécrit sans traduction : son style de fin de ligne survit."""
+
+    def test_un_fichier_crlf_reste_crlf_apres_suppression(self, tmp_path):
+        config = tmp_path / "sites.yml"
+        config.write_bytes(CONFIG.replace("\n", "\r\n").encode("utf-8"))
+        history = tmp_path / "history.json"
+        history.write_text("{}", encoding="utf-8")
+        public = tmp_path / "public"
+        public.mkdir()
+        cfg = yaml.safe_load(config.read_text(encoding="utf-8"))
+        apply_removal(plan_removal("IGAS", cfg, {}, public), config, history, public)
+        brut = config.read_bytes()
+        assert b"\r\n" in brut
+        assert b"\n" not in brut.replace(b"\r\n", b"")
+
+    def test_un_fichier_lf_reste_lf_apres_suppression(self, tmp_path):
+        config = tmp_path / "sites.yml"
+        config.write_bytes(CONFIG.encode("utf-8"))
+        history = tmp_path / "history.json"
+        history.write_text("{}", encoding="utf-8")
+        public = tmp_path / "public"
+        public.mkdir()
+        cfg = yaml.safe_load(config.read_text(encoding="utf-8"))
+        apply_removal(plan_removal("IGAS", cfg, {}, public), config, history, public)
+        assert b"\r" not in config.read_bytes(), "aucun retour chariot ne doit apparaître sur un fichier Unix"

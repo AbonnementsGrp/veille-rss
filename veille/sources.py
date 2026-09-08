@@ -22,7 +22,7 @@ import yaml
 from veille.config import CONFIG_PATH, HISTORY_PATH, PUBLIC_DIR, display_name, load_config, sort_key
 from veille.history import load_history, remove_source, save_history
 from veille.pipeline import output_name_for
-from veille.themes import newline_of, unquote
+from veille.themes import newline_of, read_text_exact, unquote, write_text_exact
 
 BLOCK_START = re.compile(r"^(\s*)-\s+name:\s*(.*)$")
 
@@ -111,7 +111,7 @@ def apply_removal(plan: RemovalPlan, config_path: Path | None = None, history_pa
     history_path = Path(history_path or HISTORY_PATH)
     public_dir = Path(public_dir or PUBLIC_DIR)
 
-    texte = config_path.read_text(encoding="utf-8")
+    texte = read_text_exact(config_path)
     avant = yaml.safe_load(texte).get("sites") or []
     nouveau = remove_source_block(texte, plan.name)
     apres = yaml.safe_load(nouveau).get("sites") or []
@@ -120,7 +120,7 @@ def apply_removal(plan: RemovalPlan, config_path: Path | None = None, history_pa
     if [s["name"] for s in apres] != [s["name"] for s in avant if s["name"] != plan.name]:
         raise ValueError("le retrait a déplacé une autre source : abandon")
 
-    config_path.write_text(nouveau, encoding="utf-8")
+    write_text_exact(config_path, nouveau)
     history = load_history(history_path)
     remove_source(history, plan.name)
     save_history(history, history_limit, history_path)
