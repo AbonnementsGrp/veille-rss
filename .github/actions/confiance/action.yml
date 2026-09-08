@@ -1,0 +1,41 @@
+name: Décider d'une application immédiate
+description: >
+  Une demande jugée prête par l'enquête et déposée par une personne ayant les
+  droits d'écriture sur le dépôt s'applique sans attendre d'approbation. Les
+  autres — compte extérieur, verdict « à vérifier » ou « manuel » — passent
+  par l'étiquette « approuvé ».
+
+# Le dépôt est public : n'importe quel compte GitHub peut remplir les
+# formulaires. GitHub qualifie l'auteur de chaque issue (author_association) ;
+# seuls le propriétaire, les membres et les collaborateurs — ceux qui ont déjà
+# les droits d'écriture — sont tenus pour personnes de confiance.
+
+inputs:
+  association:
+    description: Valeur de github.event.issue.author_association.
+    required: true
+
+outputs:
+  auto:
+    description: Vaut true si la demande doit s'appliquer sans approbation, false sinon.
+    value: ${{ steps.decision.outputs.auto }}
+
+runs:
+  using: composite
+  steps:
+    - id: decision
+      shell: bash
+      env:
+        ASSOCIATION: ${{ inputs.association }}
+      run: |
+        verdict=$(cat verdict.txt 2>/dev/null || echo absent)
+        case "$ASSOCIATION" in
+          OWNER|MEMBER|COLLABORATOR) confiance=true ;;
+          *) confiance=false ;;
+        esac
+        auto=false
+        if [ "$verdict" = "ok" ] && [ "$confiance" = "true" ]; then
+          auto=true
+        fi
+        echo "auto=$auto" >> "$GITHUB_OUTPUT"
+        echo "Auteur : $ASSOCIATION (confiance : $confiance) ; verdict : $verdict ; application immédiate : $auto"

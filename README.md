@@ -207,13 +207,19 @@ qu'il écrirait. Il pose une étiquette selon le verdict :
 passage : rien à préparer dans le dépôt. Le formulaire est reconnu à son premier
 champ, pas à son étiquette.
 
-**Rôle du responsable** : lire le commentaire, puis poser l'étiquette
-**approuvé** si la source convient (page de l'issue, colonne de droite, rouage
-*Labels* ; il faut être collaborateur du dépôt — marche à suivre détaillée dans
-le [guide](GUIDE-UTILISATEUR.md#valider-une-demande-responsables)). Le bouton
-**Demandes à valider** du tableau de bord ouvre la liste des issues ouvertes sans
-cette étiquette et en affiche le nombre, lu par le navigateur du lecteur sur
-l'API publique de GitHub. Le workflow ajoute alors le bloc à
+**Qui approuve.** Une demande déposée par une personne ayant les droits
+d'écriture sur le dépôt (propriétaire ou collaborateur, d'après
+`author_association` dans l'événement GitHub) et jugée « prête » par l'enquête
+s'applique aussitôt, sans étiquette : le workflow enchaîne sur l'application dans
+la même exécution (action `.github/actions/confiance`). Toute autre demande —
+compte extérieur, ou verdict « à vérifier » ou « manuel » — attend qu'un
+responsable pose l'étiquette **approuvé** (page de l'issue, colonne de droite,
+rouage *Labels* ; il faut être collaborateur du dépôt — marche à suivre détaillée
+dans le [guide](GUIDE-UTILISATEUR.md#valider-une-demande-responsables)). Le
+bouton **Demandes à valider** du tableau de bord ouvre la liste des issues
+ouvertes sans cette étiquette et en affiche le nombre, lu par le navigateur du
+lecteur sur l'API publique de GitHub. Le dépôt étant public, c'est cette règle
+qui empêche un compte quelconque de modifier la veille. Le workflow ajoute alors le bloc à
 `config/sites.yml`, committe, ferme l'issue et relance la génération — il doit
 le faire explicitement : un push fait par un workflow ne déclenche rien de
 lui-même (voir les points de vigilance). Un verdict « manuel » ou une adresse
@@ -480,6 +486,11 @@ si une source le demande.
   commune `.github/actions/appliquer-demande` repart de l'état courant de `main`,
   relance le script, pousse, et recommence si le dépôt a bougé. Elle commente
   l'issue quoi qu'il arrive.
+- **La confiance se lit dans `author_association`, jamais dans le corps de
+  l'issue.** OWNER, MEMBER et COLLABORATOR ont les droits d'écriture ; tout le
+  reste (CONTRIBUTOR, NONE…) est un compte extérieur et attend l'étiquette. Les
+  workflows d'issue ne s'exécutent plus sur une issue fermée : modifier une
+  demande déjà appliquée ne la rejoue pas.
 
 ## Sources suivies
 

@@ -160,15 +160,17 @@ aucune manipulation technique.
 
 | En tête du commentaire | Ce que cela veut dire |
 |---|---|
-| ✅ Source prête à être ajoutée | Un flux ou une liste d'articles propre a été trouvée. Il ne manque que la validation. |
+| ✅ Source prête à être ajoutée | Un flux ou une liste d'articles propre a été trouvée. Si vous avez les droits d'écriture sur le dépôt, la source est ajoutée aussitôt ; sinon il ne manque que la validation d'un responsable. |
 | ⚠️ Exploitable, à vérifier | Des articles ont été trouvés, mais avec des réserves — dates manquantes, méthode fragile, adresse déjà suivie, ou page en JavaScript qu'il a fallu ouvrir dans un navigateur pour voir les articles. Lisez l'aperçu : s'il montre des liens de menu plutôt que des articles, proposez une autre page du site. |
 | ❌ Demande un réglage manuel | La page ne se laisse pas lire automatiquement, même ouverte dans un navigateur (structure inhabituelle, liste d'articles absente). Un responsable devra intervenir à la main, ou une autre page peut être tentée. |
 
    Le commentaire montre les cinq premiers articles trouvés : c'est le meilleur
    moyen de juger si la source est la bonne.
-4. Un responsable valide en posant l'étiquette **approuvé**. La source est alors
-   ajoutée automatiquement, votre demande est fermée, et elle apparaît sur le
-   tableau de bord à la génération suivante.
+4. Si vous avez les droits d'écriture sur le dépôt et que le verdict est « prête »,
+   la source est ajoutée aussitôt, sans rien faire de plus. Sinon, un responsable
+   valide en posant l'étiquette **approuvé**. Dans les deux cas, votre demande
+   est fermée et la source apparaît sur le tableau de bord dans les minutes qui
+   suivent.
 
 Pour corriger le nom ou le domaine après coup, modifiez simplement votre demande
 (bouton *Edit* sur le premier message) : l'enquête est relancée et un nouveau
@@ -186,9 +188,10 @@ social & séniors, Culture, Tourisme, Restauration. Pour en créer un :
    les domaines existants.
 3. Un commentaire automatique montre la liste des domaines qui en résulterait, ou
    explique le refus (nom déjà pris, trop long).
-4. Un responsable pose l'étiquette **approuvé** : le domaine est créé et apparaît
-   aussitôt dans la liste proposée au moment d'ajouter une source. Il ne
-   s'affiche sur le tableau de bord qu'une fois qu'une source lui est rattachée.
+4. Le domaine est créé aussitôt si vous avez les droits d'écriture sur le dépôt ;
+   sinon, un responsable pose l'étiquette **approuvé**. Il apparaît alors dans la
+   liste proposée au moment d'ajouter une source, et dans le sommaire du tableau
+   de bord, en gris et à zéro tant qu'aucune source ne lui est rattachée.
 
 ## Renommer un domaine
 
@@ -196,7 +199,8 @@ Ouvrez le formulaire **Renommer un domaine** (lien sur le tableau de bord, ou
 https://github.com/AbonnementsGrp/veille-rss/issues/new?template=renommer-domaine.yml),
 indiquez le domaine actuel — tel qu'il s'affiche, casse et accents sans importance —
 et le nouveau nom. Le commentaire automatique montre le domaine reconnu, les
-sources concernées et la liste qui en résulte. Après validation par un responsable,
+sources concernées et la liste qui en résulte. Après validation par un responsable
+— ou aussitôt, si vous avez les droits d'écriture sur le dépôt —,
 le nouveau nom est en place partout : tableau de bord, dossiers de l'OPML, liste
 proposée à l'ajout d'une source.
 
@@ -208,7 +212,8 @@ et donnez le nom du domaine tel qu'il s'affiche. **Ses sources ne sont pas
 supprimées** : indiquez le domaine qui doit les accueillir, ou laissez le champ
 vide pour qu'elles passent sous « Autres ». Le commentaire automatique montre le
 domaine reconnu, les sources concernées et leur destination. Après validation
-par un responsable, la rubrique disparaît du tableau de bord, des dossiers de
+par un responsable — ou aussitôt, si vous avez les droits d'écriture sur le
+dépôt —, la rubrique disparaît du tableau de bord, des dossiers de
 l'OPML et de la liste proposée à l'ajout d'une source. Le dernier domaine ne
 peut pas être supprimé.
 
@@ -219,16 +224,24 @@ https://github.com/AbonnementsGrp/veille-rss/issues/new?template=supprimer-sourc
 et donnez le nom de la source tel qu'il s'affiche. Le commentaire automatique
 récapitule ce qui sera retiré : la source reconnue, son domaine, son flux publié
 et le nombre d'articles de son historique. **La suppression est irréversible** :
-lisez ce récapitulatif avant de valider. Après validation, la source disparaît du
+lisez ce récapitulatif avant de valider — et relisez votre demande avant de
+l'envoyer si vous avez les droits d'écriture sur le dépôt, car elle s'applique
+alors aussitôt. Après validation, la source disparaît du
 tableau de bord et de l'OPML à la génération suivante ; les lecteurs abonnés à
 son flux ne recevront plus rien.
 
 ## Valider une demande (responsables)
 
-Toutes les demandes — source, domaine, renommage, suppression — s'appliquent de
-la même façon : un responsable pose l'étiquette **approuvé** sur l'issue. Rien
-ne se passe tant qu'elle n'est pas posée ; l'automate se contente d'écrire son
-récapitulatif en commentaire.
+Une demande déposée par une personne ayant les **droits d'écriture sur le
+dépôt** (propriétaire ou collaborateur) et jugée « prête » par l'enquête
+s'applique aussitôt : le commentaire automatique le dit, et l'issue est fermée
+dans la minute. Toutes les autres — compte sans droits d'écriture, ou verdict
+« à vérifier » ou « réglage manuel » — attendent qu'un responsable pose
+l'étiquette **approuvé** sur l'issue. Rien ne se passe tant qu'elle n'est pas
+posée ; l'automate se contente d'écrire son récapitulatif en commentaire. Le
+dépôt étant public, c'est cette règle qui protège la veille : n'importe quel
+compte GitHub peut remplir un formulaire, seuls les collaborateurs sont crus
+sur parole.
 
 1. Ouvrez l'issue : le bouton **Demandes à valider** du tableau de bord liste
    toutes les demandes en attente et affiche leur nombre ; le mail de
@@ -307,8 +320,9 @@ au fur et à mesure.
 
 **Puis-je demander l'ajout d'une source ?**
 Oui, par le formulaire décrit plus haut : une adresse et un domaine suffisent, et
-le résultat de l'enquête vous est montré avant toute validation. Il n'est pas
-nécessaire que le site dispose d'un flux RSS.
+le résultat de l'enquête vous est montré en commentaire — avant validation par un
+responsable, ou en même temps que l'ajout si vous avez les droits d'écriture sur
+le dépôt. Il n'est pas nécessaire que le site dispose d'un flux RSS.
 
 **Un flux ne se met plus à jour dans mon lecteur.**
 Comparez d'abord avec le tableau de bord. Si la page est à jour et votre lecteur

@@ -23,6 +23,7 @@ jobs:
   verification:
     name: Vérifier la suppression proposée
     if: >
+      github.event.issue.state == 'open' &&
       contains(github.event.issue.body, '### Domaine à supprimer') &&
       (github.event.action != 'labeled' || github.event.label.name == 'supprimer-domaine')
     runs-on: ubuntu-latest
@@ -41,10 +42,20 @@ jobs:
           ISSUE_BODY: ${{ github.event.issue.body }}
         run: python scripts/issue_supprimer_domaine.py enquete || true
 
-      - name: Publier le résultat en commentaire
+      # Une personne ayant les droits d'écriture n'attend pas d'approbation : sa
+      # demande jugée prête s'applique aussitôt. Les autres, et les verdicts
+      # « à vérifier », passent par l'étiquette.
+      - name: Décider d'une application immédiate
+        id: decision
+        uses: ./.github/actions/confiance
+        with:
+          association: ${{ github.event.issue.author_association }}
+
+      - name: Étiqueter, et publier le résultat s'il attend une approbation
         env:
           GH_TOKEN: ${{ github.token }}
           NUMERO: ${{ github.event.issue.number }}
+          AUTO: ${{ steps.decision.outputs.auto }}
         run: |
           for etiquette in "supprimer-domaine:5319E7:Demande de suppression d'un domaine" \
                            "enquete-ok:0E8A16:Prête à être appliquée" \
@@ -54,14 +65,30 @@ jobs:
             gh label create "$nom" --color "$couleur" --description "$description" --force
           done
           verdict=$(cat verdict.txt)
-          gh issue comment "$NUMERO" --body-file commentaire.md
           gh issue edit "$NUMERO" \
             --remove-label enquete-ok,enquete-erreur \
             --add-label "supprimer-domaine,enquete-$verdict"
+          if [ "$AUTO" != "true" ]; then
+            gh issue comment "$NUMERO" --body-file commentaire.md
+          fi
+
+      - name: Appliquer sans attendre
+        if: steps.decision.outputs.auto == 'true'
+        uses: ./.github/actions/appliquer-demande
+        with:
+          script: scripts/issue_supprimer_domaine.py
+          fichiers: config/sites.yml .github/ISSUE_TEMPLATE/nouvelle-source.yml
+          message: Supprimer un domaine sur demande par issue
+          numero: ${{ github.event.issue.number }}
+          titre: ${{ github.event.issue.title }}
+          corps: ${{ github.event.issue.body }}
+          token: ${{ github.token }}
+          auto: "true"
 
   application:
     name: Supprimer le domaine approuvé
     if: >
+      github.event.issue.state == 'open' &&
       github.event.action == 'labeled' &&
       github.event.label.name == 'approuvé' &&
       contains(github.event.issue.body, '### Domaine à supprimer')

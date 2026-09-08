@@ -41,6 +41,12 @@ inputs:
   token:
     description: Jeton GitHub pour commenter et étiqueter l'issue.
     required: true
+  auto:
+    description: >
+      "true" quand la demande s'applique sans approbation (personne ayant les
+      droits d'écriture) : le compte rendu le dit.
+    required: false
+    default: "false"
 
 runs:
   using: composite
@@ -59,6 +65,7 @@ runs:
         TITRE: ${{ inputs.titre }}
         ISSUE_BODY: ${{ inputs.corps }}
         GH_TOKEN: ${{ inputs.token }}
+        AUTO: ${{ inputs.auto }}
       run: |
         set +e
         git config user.name "github-actions[bot]"
@@ -98,6 +105,10 @@ runs:
               printf '\n%s\n' "La génération a été relancée : le tableau de bord et les flux suivent dans les minutes qui viennent." >> commentaire.md
             else
               printf '\n%s\n' "La génération n'a pas pu être relancée automatiquement : elle passera au plus tard dans trois heures, ou lancez-la depuis l'onglet Actions (« Générer et publier les flux RSS » → Run workflow)." >> commentaire.md
+            fi
+            if [ "$AUTO" = "true" ]; then
+              { printf '%s\n\n' "ℹ️ Demande déposée par une personne ayant les droits d'écriture sur le dépôt : appliquée sans attendre d'approbation."; cat commentaire.md; } > commentaire.auto.md
+              mv commentaire.auto.md commentaire.md
             fi
             gh issue comment "$NUMERO" --body-file commentaire.md
             gh issue close "$NUMERO" --reason completed
