@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T04:46:02.349825+00:00",
+  "generated_at": "2026-09-09T11:26:21.255776+00:00",
   "sites_total": 11,
   "sites_ok": 11,
   "sites_error": 0,
-  "sites_warning": 3,
-  "new_items": 4,
-  "merged_items": 306,
+  "sites_warning": 2,
+  "new_items": 5,
+  "merged_items": 310,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -82,12 +82,10 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 10,
+      "items": 11,
       "feed": "c2l-restauration-collective.xml",
       "source_feed": "https://c2lsolutions.fr/feed/?post_type=post",
-      "warnings": [
-        "rien de neuf depuis 75 jours (seuil : 60)"
-      ]
+      "warnings": []
     },
     {
       "site": "SNRC",
@@ -102,7 +100,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 203 jours (seuil : 60)"
+        "rien de neuf depuis 204 jours (seuil : 60)"
       ]
     },
     {
@@ -142,7 +140,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 38,
+      "items": 40,
       "feed": "igas.xml",
       "source_feed": "https://igas.gouv.fr/rss.xml",
       "warnings": []
@@ -160,7 +158,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 887 jours (seuil : 60)"
+        "rien de neuf depuis 888 jours (seuil : 60)"
       ]
     },
     {
@@ -172,7 +170,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 10,
+      "items": 11,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []
