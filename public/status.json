@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T11:26:21.255776+00:00",
+  "generated_at": "2026-09-09T16:40:56.299048+00:00",
   "sites_total": 11,
   "sites_ok": 11,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 5,
-  "merged_items": 310,
+  "new_items": 3,
+  "merged_items": 311,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -126,7 +126,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 29,
+      "items": 30,
       "feed": "cnsa.xml",
       "source_feed": "https://www.cnsa.fr/flux-rss.xml/article",
       "warnings": []
