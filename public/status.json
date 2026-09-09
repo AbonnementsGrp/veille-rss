@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-09T16:40:56.299048+00:00",
+  "generated_at": "2026-09-09T20:58:02.914846+00:00",
   "sites_total": 11,
   "sites_ok": 11,
   "sites_error": 0,
   "sites_warning": 2,
   "new_items": 3,
-  "merged_items": 311,
+  "merged_items": 314,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -52,7 +52,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 32,
+      "items": 35,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
