@@ -1,4 +1,52 @@
 {
+  "40ef6d86effb247af8b2c3a54fb9e3933916c928ef159d5906bcabb383fd34dc": {
+    "source": "ANAP - Actualités",
+    "title": "Votre Cockpit Data Bloc",
+    "link": "https://www.anap.fr/s/article/votre-cockpit-data-blocs",
+    "description": "Dédiés aux différents volets de la performance, pour accompagner la transformation des établissements sanitaires et médico-sociales.",
+    "published": "2026-09-11T15:53:48+00:00",
+    "first_seen": "2026-09-12T04:38:02.636367+00:00",
+    "uid": "40ef6d86effb247af8b2c3a54fb9e3933916c928ef159d5906bcabb383fd34dc",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "6bbc35e98e44053b9c2d7f97fb1911e363830326af97119618c40566d348e6ab": {
+    "source": "ANAP - Actualités",
+    "title": "Sur les traces du Développement Durable » : support d’animation d’ateliers",
+    "link": "https://www.anap.fr/s/article/sur-les-traces-du-developpement-durable-support-d-animation-d-ateliers",
+    "description": "Dédiés aux différents volets de la performance, pour accompagner la transformation des établissements sanitaires et médico-sociales.",
+    "published": "2026-09-11T14:08:04+00:00",
+    "first_seen": "2026-09-12T04:38:02.636367+00:00",
+    "uid": "6bbc35e98e44053b9c2d7f97fb1911e363830326af97119618c40566d348e6ab",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "487aeef44b254063af1295db07d9c0f18cac6235ad8725f8a2c9693e836a61c8": {
+    "source": "ANAP - Actualités",
+    "title": "Animaux en Ehpad : deux fiches pratiques pour accompagner les établissements",
+    "link": "https://www.anap.fr/s/article/animaux-en-ehpad",
+    "description": "Depuis la promulgation de la loi « Bien vieillir » le 8 avril 2024, l'accueil des animaux de compagnie en établissement d'hébergement pour personnes âgées dépendantes (Ehpad) est désormais garanti sous certaines conditions.",
+    "published": "2026-09-11T09:08:01+00:00",
+    "first_seen": "2026-09-12T04:38:02.636367+00:00",
+    "uid": "487aeef44b254063af1295db07d9c0f18cac6235ad8725f8a2c9693e836a61c8",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "d901569c9be82585d843d7a071eeca4deaab6348ae3a05fefc3eb19e0fba5bab": {
+    "source": "ANAP - Actualités",
+    "title": "Améliorer le fonctionnement des Plateformes de Coordination et d'Orientation (PCO)",
+    "link": "https://www.anap.fr/s/article/ameliorer-le-fonctionnement-des-plateformes-de-coordination-et-d-orientation-pco",
+    "description": "Mandatée par la DITND, l'Anap a conduit une évaluation nationale du fonctionnement des PCO. Elle en publie les résultats et met à disposition une boîte à outils concrète pour aider les plateformes à harmoniser leurs pratiques et améliorer l'accompagnement des enfants présentant des troubles du neurodéveloppement.",
+    "published": "2026-09-11T07:45:03+00:00",
+    "first_seen": "2026-09-12T04:38:02.636367+00:00",
+    "uid": "d901569c9be82585d843d7a071eeca4deaab6348ae3a05fefc3eb19e0fba5bab",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "a50c06c73b79ca215cca0f9aff7a5194197faed3b137b98eb55a491260eef679": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Les bébés exposés indirectement aux écrans près de 5 heures par jour",

@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 09 Sep 2026 16:07:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 11 Sep 2026 15:53:48 +0000</lastBuildDate>
+    <item>
+      <title>Votre Cockpit Data Bloc</title>
+      <link>https://www.anap.fr/s/article/votre-cockpit-data-blocs</link>
+      <description>Dédiés aux différents volets de la performance, pour accompagner la transformation des établissements sanitaires et médico-sociales.</description>
+      <guid isPermaLink="false">40ef6d86effb247af8b2c3a54fb9e3933916c928ef159d5906bcabb383fd34dc</guid>
+      <pubDate>Fri, 11 Sep 2026 15:53:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sur les traces du Développement Durable » : support d’animation d’ateliers</title>
+      <link>https://www.anap.fr/s/article/sur-les-traces-du-developpement-durable-support-d-animation-d-ateliers</link>
+      <description>Dédiés aux différents volets de la performance, pour accompagner la transformation des établissements sanitaires et médico-sociales.</description>
+      <guid isPermaLink="false">6bbc35e98e44053b9c2d7f97fb1911e363830326af97119618c40566d348e6ab</guid>
+      <pubDate>Fri, 11 Sep 2026 14:08:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Animaux en Ehpad : deux fiches pratiques pour accompagner les établissements</title>
+      <link>https://www.anap.fr/s/article/animaux-en-ehpad</link>
+      <description>Depuis la promulgation de la loi « Bien vieillir » le 8 avril 2024, l'accueil des animaux de compagnie en établissement d'hébergement pour personnes âgées dépendantes (Ehpad) est désormais garanti sous certaines conditions.</description>
+      <guid isPermaLink="false">487aeef44b254063af1295db07d9c0f18cac6235ad8725f8a2c9693e836a61c8</guid>
+      <pubDate>Fri, 11 Sep 2026 09:08:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Améliorer le fonctionnement des Plateformes de Coordination et d'Orientation (PCO)</title>
+      <link>https://www.anap.fr/s/article/ameliorer-le-fonctionnement-des-plateformes-de-coordination-et-d-orientation-pco</link>
+      <description>Mandatée par la DITND, l'Anap a conduit une évaluation nationale du fonctionnement des PCO. Elle en publie les résultats et met à disposition une boîte à outils concrète pour aider les plateformes à harmoniser leurs pratiques et améliorer l'accompagnement des enfants présentant des troubles du neurodéveloppement.</description>
+      <guid isPermaLink="false">d901569c9be82585d843d7a071eeca4deaab6348ae3a05fefc3eb19e0fba5bab</guid>
+      <pubDate>Fri, 11 Sep 2026 07:45:03 +0000</pubDate>
+    </item>
     <item>
       <title>Septembre Bouge : partagez les initiatives positives des référents APS en ESMS</title>
       <link>https://www.anap.fr/s/article/septembre-bouge-partagez-les-initiatives-positives-des-referents-aps-en-esms</link>
@@ -400,34 +428,6 @@
       <description>Coopérer... être créatif... casser les silos… Que peut-on en attendre de l’innovation collaborative ? Quel est son coût et qui mobilise-t-elle dans une structure ? Comment mettre en œuvre cette dynamique ? Retour sur la webconférence "Innovation collaborative : comment ça marche ?"diffusée le 30 mars 2021.</description>
       <guid isPermaLink="false">d80aea2a7b138e69c242f1c282b7808d963f486aa643111c3de42516b308ed59</guid>
       <pubDate>Tue, 21 Jul 2026 06:06:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>Univanap 2022 : les nouveaux chemins de la performance</title>
-      <link>https://www.anap.fr/s/article/univanap-2022-les-nouveaux-chemins-de-la-performance</link>
-      <description>Le 30 juin 2022, l’Anap a réuni 500 professionnels et décideurs de la santé pour explorer les nouveaux chemins de la performance ! Revivez les temps forts de cette journée : 50 retours d’expériences terrain innovantes et des interventions inspiran</description>
-      <guid isPermaLink="false">f11918628fc868f5ddbbcefc9c75678a39fd40ccaf144dd43dfbf91005981891</guid>
-      <pubDate>Tue, 21 Jul 2026 06:05:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>L'innovation collaborative : oubliez-les post its, appréciez le résultat !</title>
-      <link>https://www.anap.fr/s/article/innovation-collaborative-webconference-guide-retours-appui-terrain</link>
-      <description>Comment transformer une situation de blocage en dynamique collective ? L'Anap a expérimenté l'innovation collaborative sur le terrain, des urgences des Pyrénées-Orientales aux projets de transition écologique. Découvrez un guide reprenant les principaux enseignements de ses appuis terrain associés à des retours d’expériences concrets ainsi qu'une webconférence pour donner la parole aux acteurs.</description>
-      <guid isPermaLink="false">f8d138a2c152ac8f9ccfdc7d6b7e3aded0edaf773f8e287cd6421261f88b5e1e</guid>
-      <pubDate>Tue, 21 Jul 2026 06:04:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>« Carte postale de demain » : un podcast à glisser dans vos valises</title>
-      <link>https://www.anap.fr/s/article/futur-sante-podcast-carte-postale</link>
-      <description>Cet été, l’Anap vous propose de recevoir une Carte postale de demain : un podcast de 5 épisodes courts pour explorer les futurs possibles du système de santé, entre scénarios de rupture, inspirations internationales et éclairages d’experts. Un podcast pour penser loin, même en vacances.</description>
-      <guid isPermaLink="false">0913345ab6df7ce69d363dc6aeb51a52378ecdad9714656971c199c50552c558</guid>
-      <pubDate>Tue, 21 Jul 2026 06:03:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Outil de visualisation de données pour les hôpitaux de proximité</title>
-      <link>https://www.anap.fr/s/article/outil-visualisation-donnees-hopitaux-proximite</link>
-      <description>Cet outil de datavisualisation vous aidera à piloter et déployer des projets territoriaux. Il permet notamment de visualiser l’activité (médecine, SMR, urgence), les flux et caractéristiques des patients sur le territoire, l’organisation de la ville, des urgences, les indicateurs géopopulationnels.</description>
-      <guid isPermaLink="false">7d2bd283761d83a93200088e09a3e9f3f1ccf853b27212d56c37d07c79b31adf</guid>
-      <pubDate>Tue, 21 Jul 2026 06:01:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
