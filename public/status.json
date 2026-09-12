@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-12T10:51:00.143994+00:00",
+  "generated_at": "2026-09-12T15:33:55.248803+00:00",
   "sites_total": 11,
-  "sites_ok": 10,
-  "sites_error": 1,
-  "sites_warning": 2,
-  "new_items": 0,
-  "merged_items": 319,
+  "sites_ok": 9,
+  "sites_error": 2,
+  "sites_warning": 1,
+  "new_items": 1,
+  "merged_items": 320,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -22,12 +22,11 @@
       "url": "https://www.observatoire-culture.net/",
       "feed_categories": [],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
-      "items": 24,
+      "status": "ok",
+      "method": "flux détecté",
+      "items": 14,
       "feed": "observatoire-culture.xml",
-      "error": "HTTPSConnectionPool(host='www.observatoire-culture.net', port=443): Max retries exceeded with url: / (Caused by NewConnectionError(\"HTTPSConnection(host='www.observatoire-culture.net', port=443): Failed to establish a new connection: [Errno 101] Network is unreachable\"))",
-      "source_feed": "",
+      "source_feed": "https://www.observatoire-culture.net/feed/",
       "warnings": []
     },
     {
@@ -39,7 +38,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 34,
+      "items": 35,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
@@ -51,10 +50,11 @@
       "url": "https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation",
       "feed_categories": [],
       "render": false,
-      "status": "ok",
-      "method": "flux officiel",
+      "status": "error",
+      "method": "historique conservé",
       "items": 37,
       "feed": "localtis-jeunesse-education-formation.xml",
+      "error": "403 Client Error: Forbidden for url: https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
     },
@@ -153,14 +153,13 @@
       "url": "https://www.banquedesterritoires.fr/thematiques/publics-fragiles",
       "feed_categories": [],
       "render": false,
-      "status": "ok",
-      "method": "flux officiel",
+      "status": "error",
+      "method": "historique conservé",
       "items": 20,
       "feed": "localtis-publics-fragiles.xml",
+      "error": "403 Client Error: Forbidden for url: https://www.banquedesterritoires.fr/thematiques/publics-fragiles",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
-      "warnings": [
-        "rien de neuf depuis 891 jours (seuil : 60)"
-      ]
+      "warnings": []
     },
     {
       "site": "ADN Tourisme",
