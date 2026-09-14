@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-14T12:51:45.846080+00:00",
+  "generated_at": "2026-09-14T19:51:53.450629+00:00",
   "sites_total": 11,
   "sites_ok": 11,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 3,
-  "merged_items": 323,
+  "new_items": 4,
+  "merged_items": 326,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -52,7 +52,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 37,
+      "items": 39,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
@@ -170,7 +170,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 11,
+      "items": 12,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []
