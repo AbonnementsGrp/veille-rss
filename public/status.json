@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-12T15:33:55.248803+00:00",
+  "generated_at": "2026-09-14T12:51:45.846080+00:00",
   "sites_total": 11,
-  "sites_ok": 9,
-  "sites_error": 2,
-  "sites_warning": 1,
-  "new_items": 1,
-  "merged_items": 320,
+  "sites_ok": 11,
+  "sites_error": 0,
+  "sites_warning": 2,
+  "new_items": 3,
+  "merged_items": 323,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -38,7 +38,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 35,
+      "items": 37,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
@@ -50,11 +50,10 @@
       "url": "https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation",
       "feed_categories": [],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
+      "status": "ok",
+      "method": "flux officiel",
       "items": 37,
       "feed": "localtis-jeunesse-education-formation.xml",
-      "error": "403 Client Error: Forbidden for url: https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
     },
@@ -67,7 +66,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 52,
+      "items": 53,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -101,7 +100,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 207 jours (seuil : 60)"
+        "rien de neuf depuis 209 jours (seuil : 60)"
       ]
     },
     {
@@ -153,13 +152,14 @@
       "url": "https://www.banquedesterritoires.fr/thematiques/publics-fragiles",
       "feed_categories": [],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
+      "status": "ok",
+      "method": "flux officiel",
       "items": 20,
       "feed": "localtis-publics-fragiles.xml",
-      "error": "403 Client Error: Forbidden for url: https://www.banquedesterritoires.fr/thematiques/publics-fragiles",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
-      "warnings": []
+      "warnings": [
+        "rien de neuf depuis 893 jours (seuil : 60)"
+      ]
     },
     {
       "site": "ADN Tourisme",
