@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-15T04:57:39.350775+00:00",
-  "sites_total": 11,
-  "sites_ok": 11,
+  "generated_at": "2026-09-15T09:50:38.669726+00:00",
+  "sites_total": 12,
+  "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 0,
-  "merged_items": 326,
+  "new_items": 51,
+  "merged_items": 377,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -15,6 +15,20 @@
     "Tourisme"
   ],
   "sites": [
+    {
+      "site": "Outre-Mer 360°",
+      "short_name": "Outre-Mer 360°",
+      "theme": "ANTIGUA",
+      "url": "https://www.outremers360.com/",
+      "feed_categories": [],
+      "render": false,
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 50,
+      "feed": "outre-mer-360.xml",
+      "source_feed": "https://api.outremers360.com/rss/fil-info.xml",
+      "warnings": []
+    },
     {
       "site": "Observatoire de la culture",
       "short_name": "Observatoire de la culture",
@@ -100,7 +114,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 209 jours (seuil : 60)"
+        "rien de neuf depuis 210 jours (seuil : 60)"
       ]
     },
     {
@@ -170,7 +184,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 12,
+      "items": 13,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []

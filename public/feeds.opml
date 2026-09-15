@@ -2,6 +2,9 @@
 <opml version="2.0">
   <head><title>Veille RSS</title></head>
   <body>
+    <outline text="ANTIGUA" title="ANTIGUA">
+      <outline type="rss" text="Outre-Mer 360°" title="Outre-Mer 360°" xmlUrl="https://abonnementsgrp.github.io/veille-rss/outre-mer-360.xml" htmlUrl="https://www.outremers360.com/"/>
+    </outline>
     <outline text="Culture" title="Culture">
       <outline type="rss" text="Observatoire de la culture" title="Observatoire de la culture" xmlUrl="https://abonnementsgrp.github.io/veille-rss/observatoire-culture.xml" htmlUrl="https://www.observatoire-culture.net/"/>
     </outline>
