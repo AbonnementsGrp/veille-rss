@@ -8,13 +8,20 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 11 Sep 2026 15:53:48 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 14 Sep 2026 15:22:33 +0000</lastBuildDate>
+    <item>
+      <title>Webinaire Urgences : mieux orienter, s’appuyer sur le territoire</title>
+      <link>https://www.anap.fr/s/article/webinaire-urgences-mieux-orienter-s-appuyer-sur-le-territoire</link>
+      <description>À l’occasion de la publication de son guide, l’Anap propose une série de webinaires consacrés à la réorientation depuis les services d’urgences. Ces rendez-vous ont pour objectif d’accompagner la mise en place d’une dynamique territoriale, afin d’améliorer l’orientation des patients et la coordination entre les différents acteurs.</description>
+      <guid isPermaLink="false">8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c</guid>
+      <pubDate>Mon, 14 Sep 2026 15:22:33 +0000</pubDate>
+    </item>
     <item>
       <title>Votre Cockpit Data Bloc</title>
       <link>https://www.anap.fr/s/article/votre-cockpit-data-blocs</link>
       <description>Dédiés aux différents volets de la performance, pour accompagner la transformation des établissements sanitaires et médico-sociales.</description>
       <guid isPermaLink="false">40ef6d86effb247af8b2c3a54fb9e3933916c928ef159d5906bcabb383fd34dc</guid>
-      <pubDate>Fri, 11 Sep 2026 15:53:48 +0000</pubDate>
+      <pubDate>Mon, 14 Sep 2026 08:25:03 +0000</pubDate>
     </item>
     <item>
       <title>Sur les traces du Développement Durable » : support d’animation d’ateliers</title>
@@ -71,13 +78,6 @@
       <description>La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.</description>
       <guid isPermaLink="false">f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5</guid>
       <pubDate>Wed, 09 Sep 2026 15:37:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webinaire Urgences : mieux orienter, s’appuyer sur le territoire</title>
-      <link>https://www.anap.fr/s/article/webinaire-urgences-mieux-orienter-s-appuyer-sur-le-territoire</link>
-      <description>À l’occasion de la publication de son guide, l’Anap propose une série de webinaires consacrés à la réorientation depuis les services d’urgences. Ces rendez-vous ont pour objectif d’accompagner la mise en place d’une dynamique territoriale, afin d’améliorer l’orientation des patients et la coordination entre les différents acteurs.</description>
-      <guid isPermaLink="false">8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c</guid>
-      <pubDate>Wed, 09 Sep 2026 13:33:32 +0000</pubDate>
     </item>
     <item>
       <title>Augmentez votre taux de chirurgie ambulatoire en optimisant vos ressources</title>
