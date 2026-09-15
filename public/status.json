@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-15T11:46:36.363556+00:00",
+  "generated_at": "2026-09-15T17:01:46.804150+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 3,
-  "merged_items": 380,
+  "new_items": 4,
+  "merged_items": 384,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -24,7 +24,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 52,
+      "items": 56,
       "feed": "outre-mer-360.xml",
       "source_feed": "https://api.outremers360.com/rss/fil-info.xml",
       "warnings": []
