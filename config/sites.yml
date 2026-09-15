@@ -128,3 +128,9 @@ sites:
     sitemap: "https://www.anap.fr/s/sitemap-topicarticle-1.xml"
     render: true
     render_wait_for: 'meta[property="og:title"]'
+
+  - name: "Outre-Mer 360°"
+    theme: "ANTIGUA"
+    url: "https://www.outremers360.com/"
+    official_feed: "https://api.outremers360.com/rss/fil-info.xml"
+    output: "outre-mer-360.xml"
