@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-16T11:38:49.844736+00:00",
+  "generated_at": "2026-09-16T16:59:51.706935+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 12,
-  "merged_items": 391,
+  "new_items": 4,
+  "merged_items": 392,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -184,7 +184,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 13,
+      "items": 14,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []
