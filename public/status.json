@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-16T04:52:15.967288+00:00",
+  "generated_at": "2026-09-16T11:38:49.844736+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 2,
-  "merged_items": 386,
+  "new_items": 12,
+  "merged_items": 391,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -24,7 +24,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 56,
+      "items": 60,
       "feed": "outre-mer-360.xml",
       "source_feed": "https://api.outremers360.com/rss/fil-info.xml",
       "warnings": []
@@ -80,7 +80,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 54,
+      "items": 55,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -114,7 +114,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 210 jours (seuil : 60)"
+        "rien de neuf depuis 211 jours (seuil : 60)"
       ]
     },
     {
@@ -172,7 +172,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 894 jours (seuil : 60)"
+        "rien de neuf depuis 895 jours (seuil : 60)"
       ]
     },
     {
