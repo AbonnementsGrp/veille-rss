@@ -1,4 +1,96 @@
 {
+  "31ba685936d31a64f35e5446283ee398000198869a10cdc973ccdbe6473cfd6d": {
+    "source": "IGAS",
+    "title": "L’accès aux droits sociaux : la fin du guichet ?",
+    "link": "https://igas.gouv.fr/lacces-aux-droits-sociaux-la-fin-du-guichet-0",
+    "description": "Alors que les difficultés d’une partie de la population face à la dématérialisation des démarches administratives sont mises en lumière, l’IGAS publie un rapport consacré aux accueils sociaux et à leur rôle dans l’accès aux droits sociaux.",
+    "published": "2026-09-17T07:59:52+00:00",
+    "first_seen": "2026-09-17T11:44:58.266575+00:00",
+    "uid": "31ba685936d31a64f35e5446283ee398000198869a10cdc973ccdbe6473cfd6d",
+    "description_checked": true
+  },
+  "f58a95a447f41a82dff09e0bb1c48aa41799642c7aab45292f9ce85ef7b5c2ef": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "Motricité des tout-petits : le matériel de jeu finalement pas si important",
+    "link": "https://www.lesprosdelapetiteenfance.fr/motricite-des-tout-petits-le-materiel-de-jeu-finalement-pas-si-important/",
+    "description": "Faut-il multiplier les jeux et le matériel pour favoriser la motricité des tout-petits ? Une étude belge, publiée ce mois-ci dans Infant Behavior and Development et menée auprès de 136 enfants âgés de 18 à 33 mois, montre que le lien entre l’environnement matériel à la maison et leurs compétences motrices est loin d’être aussi simple.",
+    "published": "2026-09-17T10:46:11+00:00",
+    "first_seen": "2026-09-17T11:44:53.312026+00:00",
+    "uid": "f58a95a447f41a82dff09e0bb1c48aa41799642c7aab45292f9ce85ef7b5c2ef",
+    "description_checked": true
+  },
+  "5f2f79bfdbc4fd9d9bea1ea19fc8a97b49cfdc961691eb79ed9da17cb9ded474": {
+    "source": "Outre-Mer 360°",
+    "title": "Guyane : L’AFD et la CCOG renforcent leur partenariat autour du Port de l’Ouest guyanais",
+    "link": "https://outremers360.com/bassin-atlantique-appli/guyane-lafd-et-la-ccog-renforcent-leur-partenariat-autour-du-port-de-louest-guyanais",
+    "description": "L’Agence française de développement (AFD) et la Communauté de communes de l’Ouest guyanais (CCOG) ont signé, mercredi 16 septembre 2026 à Saint-Laurent-du-Maroni, de nouvelles dispositions conventionnelles de financement concernant le Port de l’Ouest. L’accord doit...",
+    "published": "2026-09-17T10:46:38+00:00",
+    "first_seen": "2026-09-17T11:44:45.812438+00:00",
+    "uid": "5f2f79bfdbc4fd9d9bea1ea19fc8a97b49cfdc961691eb79ed9da17cb9ded474"
+  },
+  "ba9224ef333e28bbd89a9467be3d68754740375926668cf7c7bc46fb6461a367": {
+    "source": "Outre-Mer 360°",
+    "title": "IFTM Top Résa 2026: partenariats, nouvelles liaisons, projets hôteliers ... ce qu'il faut retenir pour les Outre-Mer",
+    "link": "https://outremers360.com/bassin-atlantique-appli/iftm-top-resa-2026-partenariats-nouvelles-liaisons-projets-hoteliers-ce-quil-faut-retenir-pour-les-outre-mer",
+    "description": "Du 15 au 17 septembre, les professionnels du tourisme se sont retrouvés à Paris, Porte de Versailles, pour l’édition 2026 de l’IFTM Top Resa. Un rendez-vous incontournable du secteur auquel les destinations ultramarines ont une nouvelle fois répondu présentes. De La...",
+    "published": "2026-09-17T10:38:07+00:00",
+    "first_seen": "2026-09-17T11:44:45.812438+00:00",
+    "uid": "ba9224ef333e28bbd89a9467be3d68754740375926668cf7c7bc46fb6461a367"
+  },
+  "c21c8d6748aa3139c30860c90f2b28ddf0c9b82af31c05df6ab7f35040594478": {
+    "source": "Outre-Mer 360°",
+    "title": "Câbles Google en Polynésie : Après Honomoana, Halaihai arrive à Tahiti",
+    "link": "https://outremers360.com/bassin-pacifique-appli/cables-google-en-polynesie-apres-honomoana-halaihai-arrive-a-tahiti",
+    "description": "Après Honomoana dans le district de Papenoo, un deuxième câble sous-marin porté par Google a atterri à Tahiti. Installé ce mercredi à Faratea, sur la presqu’île de Tahiti, Halaihai doit relier la Polynésie française à Guam et renforcer la résilience des connexions...",
+    "published": "2026-09-17T09:34:21+00:00",
+    "first_seen": "2026-09-17T11:44:45.812438+00:00",
+    "uid": "c21c8d6748aa3139c30860c90f2b28ddf0c9b82af31c05df6ab7f35040594478"
+  },
+  "4df2dd89d5e3ce20f54ca6d3cdf0b679b0bb8361314b3e3d275878be87413b7d": {
+    "source": "Outre-Mer 360°",
+    "title": "Plan Zéro drogue à La Réunion : « C'est possible si tout le monde participe», insiste Laurent Chavanne, directeur territorial de la police nationale",
+    "link": "https://outremers360.com/bassin-indien-appli/plan-zero-drogue-a-la-reunion-cest-possible-si-tout-le-monde-participe-insiste-laurent-chavanne-directeur-territorial-de-la-police-nationale",
+    "description": "Ce 16 septembre, 32 acteurs de la société réunionnaise ont signé à la préfecture une charte dans le cadre du projet « Zéro drogue ». Santé, éducation, collectivités et forces de sécurité s’unissent pour renforcer la lutte contre le trafic et la consommation de...",
+    "published": "2026-09-17T08:04:15+00:00",
+    "first_seen": "2026-09-17T11:44:45.812438+00:00",
+    "uid": "4df2dd89d5e3ce20f54ca6d3cdf0b679b0bb8361314b3e3d275878be87413b7d"
+  },
+  "b2c9fa67279e805be80c52009b5722b9089357bcda3bdb501f05dfc89ddfd0b7": {
+    "source": "Outre-Mer 360°",
+    "title": "Martinique : Orange déploie un nouvel outil à Grand’Rivière pour réduire la fracture numérique",
+    "link": "https://outremers360.com/bassin-atlantique-appli/martinique-orange-deploie-un-nouvel-outil-a-grandriviere-pour-reduire-la-fracture-numerique",
+    "description": "Depuis des années, la commune du Nord fait face à des difficultés d’accès au réseau, régulièrement coupé à cause des intempéries. Cap Nord et Orange ont donc signé aujourd’hui (16 septembre) une convention pour installer une “safety case” à Grand’Rivière :...",
+    "published": "2026-09-17T07:48:00+00:00",
+    "first_seen": "2026-09-17T11:44:45.812438+00:00",
+    "uid": "b2c9fa67279e805be80c52009b5722b9089357bcda3bdb501f05dfc89ddfd0b7"
+  },
+  "a014e860d968d0bc3ea83ed567457150aaf2a1607503ffa0f05ae0a3ee1ebb72": {
+    "source": "Outre-Mer 360°",
+    "title": "A Mayotte, la plus ancienne mosquée de France raconte l'histoire de l'île",
+    "link": "https://outremers360.com/bassin-indien-appli/a-mayotte-la-plus-ancienne-mosquee-de-france-raconte-lhistoire-de-lile",
+    "description": "A Tsingoni, sur la côte ouest de Mayotte, les fouilles archéologiques de la plus ancienne mosquée de France racontent l'histoire du peuplement de l'île, son développement jusqu'au sultanat et les multiples facettes de son islam.A Mayotte, 101e département français, la...",
+    "published": "2026-09-17T07:18:50+00:00",
+    "first_seen": "2026-09-17T11:44:45.812438+00:00",
+    "uid": "a014e860d968d0bc3ea83ed567457150aaf2a1607503ffa0f05ae0a3ee1ebb72"
+  },
+  "0c66ad0a9253d849d6880aca4f25a765dba991d03aae874b8b25a5d789b8502e": {
+    "source": "Outre-Mer 360°",
+    "title": "Nickel calédonien : L’État accorde un nouveau prêt à Prony Resources face à la hausse du prix du soufre",
+    "link": "https://outremers360.com/bassin-pacifique-appli/nickel-caledonien-letat-accorde-un-nouveau-pret-a-prony-resources-face-a-la-hausse-du-prix-du-soufre",
+    "description": "L’État a annoncé, ce mercredi, un soutien financier supplémentaire à Prony Resources sans en préciser le montant. Le prêt doit notamment permettre à l’usine du Sud de la Nouvelle-Calédonie de continuer à acheter du soufre, dont le prix s’est envolé. Une...",
+    "published": "2026-09-17T07:05:47+00:00",
+    "first_seen": "2026-09-17T11:44:45.812438+00:00",
+    "uid": "0c66ad0a9253d849d6880aca4f25a765dba991d03aae874b8b25a5d789b8502e"
+  },
+  "495fd9e28864ae6fd5d2ba68a133cb2f0809c8146192880640871d6996b1357c": {
+    "source": "Outre-Mer 360°",
+    "title": "Formation, innovation, conseil : Kevin Jean-Baptiste, nouveau président des Entrepreneurs de la Martinique, veut apporter des solutions concrètes aux entrepreneurs martiniquais",
+    "link": "https://outremers360.com/bassin-atlantique-appli/formation-innovation-conseil-kevin-jean-baptiste-nouveau-president-des-entrepreneurs-de-la-martinique-veut-apporter-des-solutions-concretes-aux-entrepreneurs-martiniquais",
+    "description": "Élu à la présidence des Entrepreneurs de la Martinique, nouveau nom de la CPME Martinique, Kevin Jean-Baptiste veut renforcer l’accompagnement des chefs d’entreprise dans un contexte économique particulièrement tendu. Entrepreneur à la tête d’Alwego Martinique et...",
+    "published": "2026-09-17T06:47:57+00:00",
+    "first_seen": "2026-09-17T11:44:45.812438+00:00",
+    "uid": "495fd9e28864ae6fd5d2ba68a133cb2f0809c8146192880640871d6996b1357c"
+  },
   "56d37c7fd5e37f8dec2d632139496646956b6d8cf30e61d3e9ff4b54281ed8f0": {
     "source": "ADN Tourisme",
     "title": "Les Entreprises du Voyage et ADN Tourisme se rapprochent pour mieux valoriser et commercialiser la France",
@@ -1482,7 +1574,7 @@
     "title": "Addictions : améliorer les parcours de prise en charge",
     "link": "https://igas.gouv.fr/addictions-ameliorer-les-parcours-de-prise-en-charge",
     "description": "Pour la première fois depuis la réforme de 2007-2008, l’Inspection générale des affaires sociales dresse un état des lieux du dispositif français de prise en charge des addictions. Toutes addictions et tous publics confondus, avec une attention particulière portée aux jeunes, aux femmes et aux publics en situation de précarité, la mission fait le constat d’un système aux fondamentaux solides mais sous forte tension, malgré l’engagement des professionnels. Elle formule des recommandations pour en",
-    "published": "2026-09-02T05:22:13+00:00",
+    "published": "2026-09-02T07:49:32+00:00",
     "first_seen": "2026-09-02T16:36:06.017619+00:00",
     "uid": "1aa411bfb57ec12249c240a03607609742ed49de2e7e3cde3f22e91e1766ca99",
     "description_checked": true

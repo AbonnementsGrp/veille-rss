@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-17T04:56:10.805121+00:00",
+  "generated_at": "2026-09-17T11:45:02.194327+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 0,
-  "merged_items": 392,
+  "new_items": 10,
+  "merged_items": 393,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -114,7 +114,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 211 jours (seuil : 60)"
+        "rien de neuf depuis 212 jours (seuil : 60)"
       ]
     },
     {
@@ -154,7 +154,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 40,
+      "items": 41,
       "feed": "igas.xml",
       "source_feed": "https://igas.gouv.fr/rss.xml",
       "warnings": []
@@ -172,7 +172,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 895 jours (seuil : 60)"
+        "rien de neuf depuis 896 jours (seuil : 60)"
       ]
     },
     {
