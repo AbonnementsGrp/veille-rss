@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-17T11:45:02.194327+00:00",
+  "generated_at": "2026-09-17T17:01:38.863333+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 10,
-  "merged_items": 393,
+  "new_items": 3,
+  "merged_items": 394,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -38,7 +38,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 14,
+      "items": 15,
       "feed": "observatoire-culture.xml",
       "source_feed": "https://www.observatoire-culture.net/feed/",
       "warnings": []
