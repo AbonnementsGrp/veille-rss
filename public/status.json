@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-18T04:46:36.917528+00:00",
+  "generated_at": "2026-09-18T11:18:23.845707+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 1,
-  "merged_items": 399,
+  "new_items": 13,
+  "merged_items": 401,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -114,7 +114,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 212 jours (seuil : 60)"
+        "rien de neuf depuis 213 jours (seuil : 60)"
       ]
     },
     {
@@ -172,7 +172,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 896 jours (seuil : 60)"
+        "rien de neuf depuis 897 jours (seuil : 60)"
       ]
     },
     {
@@ -184,7 +184,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 14,
+      "items": 16,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []

@@ -1,4 +1,125 @@
 {
+  "581802e9cb8c1c9f9b254761c7a0a11a9ee11c8a4c572bc4ee5054b6f1f192fa": {
+    "source": "ADN Tourisme",
+    "title": "Présidentielle 2027 : le monde du tourisme donne rendez-vous aux candidats le 1er décembre 2026 à Paris",
+    "link": "https://www.adn-tourisme.fr/presidentielle-2027-grand-oral-tourisme/",
+    "description": "Trois mois après avoir annoncé leur volonté commune de placer le tourisme au cœur du débat présidentiel , ADN Tourisme, l’Association Nationale des Élus des Territoires Touristiques (ANETT), la Confédération des Acteurs du Tourisme (CAT) et INNTO France – instituts nationaux de tourisme franchissent une nouvelle étape et dévoilent les contours du rendez-vous qu’elles préparent pour la campagne présidentielle de 2027.",
+    "published": "2026-09-18T09:34:55+00:00",
+    "first_seen": "2026-09-18T11:18:22.068046+00:00",
+    "uid": "581802e9cb8c1c9f9b254761c7a0a11a9ee11c8a4c572bc4ee5054b6f1f192fa",
+    "description_checked": true
+  },
+  "28609ca0a73637e2311a0078a041be63127b81d70e9f6557e778761aa23b80b8": {
+    "source": "ADN Tourisme",
+    "title": "Édition 2026 du Challenge des territoires insoupçonnés : découvrez les lauréats !",
+    "link": "https://www.adn-tourisme.fr/edition-2026-du-challenge-des-territoires-insoupconnes/",
+    "description": "La remise des prix a été faite à l’occasion du Salon IFTM-Top Resa.",
+    "published": "2026-09-16T09:51:11+00:00",
+    "first_seen": "2026-09-18T11:18:22.068046+00:00",
+    "uid": "28609ca0a73637e2311a0078a041be63127b81d70e9f6557e778761aa23b80b8",
+    "description_checked": true
+  },
+  "792cca99d2fa05e5a1a5437ced2edf920a67bdbdcf8f23a09a71b31a2ff4a9f5": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "Petite enfance : des interactions de qualité favorisent le développement du langage",
+    "link": "https://www.lesprosdelapetiteenfance.fr/petite-enfance-des-interactions-de-qualite-favorisent-le-developpement-du-langage/",
+    "description": "Pour favoriser le langage d’un tout-petit, la quantité de mots entendus compte mais la qualité des échanges avec l’adulte aussi. La manière de répondre à ses initiatives, de prolonger l’échange et de lui laisser le temps de réagir joue un rôle également.",
+    "published": "2026-09-18T10:06:35+00:00",
+    "first_seen": "2026-09-18T11:18:12.113147+00:00",
+    "uid": "792cca99d2fa05e5a1a5437ced2edf920a67bdbdcf8f23a09a71b31a2ff4a9f5",
+    "description_checked": true
+  },
+  "c94dfeaaef0b27251e28fd0dfbced0878bb5c3ab86cedf29cc746d173d029ca9": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "« Des salaires à notre juste valeur » : le SNPPE appelle les professionnels de la petite enfance à la grève le 8 octobre",
+    "link": "https://www.lesprosdelapetiteenfance.fr/des-salaires-a-notre-juste-valeur-le-snppe-appelle-les-professionnels-de-la-petite-enfance-a-la-greve-le-8-octobre/",
+    "description": "Le Syndicat national des professionnels de la petite enfance (SNPPE) appelle à rejoindre la mobilisation nationale lancée par le collectif Pas de bébés à la consigne. « Le 8 octobre, toutes et tous en grève pour la petite enfance ! », martele le syndicat.",
+    "published": "2026-09-18T08:18:05+00:00",
+    "first_seen": "2026-09-18T11:18:12.113147+00:00",
+    "uid": "c94dfeaaef0b27251e28fd0dfbced0878bb5c3ab86cedf29cc746d173d029ca9",
+    "description_checked": true
+  },
+  "c8182fee5b186e02b2e56d0d495771366e1a10e45120ea33a42d036ea485dad7": {
+    "source": "Outre-Mer 360°",
+    "title": "Les collectivités ultramarines invitées à témoigner sur leurs usages de l’intelligence artificielle dans une étude de l’ACCD’OM et Bitwip Conseil",
+    "link": "https://outremers360.com/bassin-atlantique-appli/les-collectivites-ultramarines-invitees-a-temoigner-sur-leurs-usages-de-lintelligence-artificielle-dans-une-etude-de-laccdom-et-bitwip-conseil",
+    "description": "L’ACCD’OM et Bitwip Conseil lancent une étude consacrée à l’utilisation de l’intelligence artificielle dans les collectivités d’Outre-mer. Les réponses au questionnaire en ligne sont attendues jusqu’au vendredi 2 octobre 2026. Les résultats doivent alimenter un...",
+    "published": "2026-09-18T10:44:16+00:00",
+    "first_seen": "2026-09-18T11:18:03.436169+00:00",
+    "uid": "c8182fee5b186e02b2e56d0d495771366e1a10e45120ea33a42d036ea485dad7"
+  },
+  "54ae8dfdd2e3b583e253f07f8a24a13771608fc71f8263512378f654909b465b": {
+    "source": "Outre-Mer 360°",
+    "title": "À La Réunion, la Maison Isautier inaugure Bérive, une nouvelle distillerie du Sud de La Réunion",
+    "link": "https://outremers360.com/bassin-indien-appli/a-la-reunion-la-maison-isautier-inaugure-berive-une-nouvelle-distillerie-du-sud-de-la-reunion",
+    "description": "Après sept années de travaux et de recherche, la Maison Isautier a inauguré sa nouvelle distillerie agricole à Bérive, sur les hauteurs de Saint-Pierre et du Tampon. Le site doit permettre au groupe réunionnais de produire des rhums à partir de cannes cultivées sur place...",
+    "published": "2026-09-18T09:34:25+00:00",
+    "first_seen": "2026-09-18T11:18:03.436169+00:00",
+    "uid": "54ae8dfdd2e3b583e253f07f8a24a13771608fc71f8263512378f654909b465b"
+  },
+  "bee45b6faf1877fe8c3def8da534f758620339fa93364165073d9cd3032248c3": {
+    "source": "Outre-Mer 360°",
+    "title": "Légion d’honneur : Emmanuel Macron remet l’insigne de Commandeur à Marie-José Perec, « femme déterminée » et « un des grands visages de l’athlétisme français »",
+    "link": "https://outremers360.com/bassin-atlantique-appli/legion-dhonneur-emmanuel-macron-remet-linsigne-de-commandeur-a-marie-jose-perec-femme-determinee-et-un-des-grands-visages-de-lathletisme-francais",
+    "description": "Le chef de l’État a remis, jeudi soir à l’Élysée, l’insigne de Commandeur de la Légion d’honneur à l’athlète guadeloupéenne. De son enfance en Guadeloupe à l’allumage de la vasque olympique de Paris 2024, Emmanuel Macron a salué cette « femme...",
+    "published": "2026-09-18T09:19:24+00:00",
+    "first_seen": "2026-09-18T11:18:03.436169+00:00",
+    "uid": "bee45b6faf1877fe8c3def8da534f758620339fa93364165073d9cd3032248c3"
+  },
+  "b379c5b826a0e228f50eab961231203e8e973ede9da941f3e81fd4135de40e52": {
+    "source": "Outre-Mer 360°",
+    "title": "En association avec Orange, la SARA déploie SafetyCase, une solution de communication pour garantir la continuité de ses activités en Martinique, Guadeloupe et Guyane",
+    "link": "https://outremers360.com/bassin-atlantique-appli/en-association-avec-orange-la-sara-deploie-safetycase-une-solution-de-communication-pour-garantir-la-continuite-de-ses-activites-en-martinique-guadeloupe-et-guyane",
+    "description": "La Société Anonyme de la Raffinerie des Antilles (SARA) annonce l’acquisition auprès d’Orange de la SafetyCase, une solution de communication d’urgence autonome par satellite. Le dispositif doit permettre à l’entreprise de maintenir des communications en cas de...",
+    "published": "2026-09-18T09:12:59+00:00",
+    "first_seen": "2026-09-18T11:18:03.436169+00:00",
+    "uid": "b379c5b826a0e228f50eab961231203e8e973ede9da941f3e81fd4135de40e52"
+  },
+  "feb7a49c64e7da7ad5e20711be39bb12d6b5b42f33d17e1c917fdfc0ee97b1e1": {
+    "source": "Outre-Mer 360°",
+    "title": "Nickel calédonien : Emmanuel Tjibaou dénonce «un deux poids, deux mesures» dans l’aide de l’État apporté aux usines",
+    "link": "https://outremers360.com/bassin-pacifique-appli/nickel-caledonien-emmanuel-tjibaou-denonce-un-deux-poids-deux-mesures-dans-laide-de-letat-apporte-aux-usines",
+    "description": "Dans un communiqué daté du 17 septembre, Emmanuel Tjibaou questionne l’attitude de l’État concernant son soutien aux usines métallurgiques, avec un appui financier accordé à la SLN et PRNC, mais pas à KNS, y voyant une entorse au principe de rééquilibrage. Une...",
+    "published": "2026-09-18T09:04:10+00:00",
+    "first_seen": "2026-09-18T11:18:03.436169+00:00",
+    "uid": "feb7a49c64e7da7ad5e20711be39bb12d6b5b42f33d17e1c917fdfc0ee97b1e1"
+  },
+  "ca7ebe3caadb1d55a8f8d2f391a76f0bc5f144f6bc822d287a59632f96e3446e": {
+    "source": "Outre-Mer 360°",
+    "title": "Le SMA et la Caisse Nationale d’Assurance Maladie signent une convention en faveur de l'accompagnement santé des jeunes volontaires",
+    "link": "https://outremers360.com/bassin-atlantique-appli/le-sma-et-la-caisse-nationale-dassurance-maladie-signent-une-convention-en-faveur-de-laccompagnement-sante-des-jeunes-volontaires",
+    "description": "Le 15 septembre, l’Assurance Maladie et le Service militaire adapté (SMA) ont signé une convention-cadre nationale destinée à renforcer l’accompagnement santé des jeunes volontaires ultramarins. Cette convention a été signée par le général de brigade Frédéric Bos,...",
+    "published": "2026-09-18T08:38:22+00:00",
+    "first_seen": "2026-09-18T11:18:03.436169+00:00",
+    "uid": "ca7ebe3caadb1d55a8f8d2f391a76f0bc5f144f6bc822d287a59632f96e3446e"
+  },
+  "0028b89f736efb589175e65a79de47ab87617c44b8f378bf5d70ce78461ba6e7": {
+    "source": "Outre-Mer 360°",
+    "title": "Formation, gouvernance, innovation : la Réunionnaise Katherine Chatel, co-fondatrice d’Odyssée Réunion, fait bouger les lignes du tourisme",
+    "link": "https://outremers360.com/bassin-indien-appli/formation-gouvernance-innovation-la-reunionnaise-katherine-chatel-co-fondatrice-dodyssee-reunion-fait-bouger-les-lignes-du-tourisme",
+    "description": "Alors que s’est tenu du 14 au 17 septembre, Porte de Versailles à Paris, le salon IFTM Top Resa, grand rendez-vous des professionnels du tourisme, Katherine Chatel était une nouvelle fois au rendez-vous. Co-fondatrice d’Odyssée Réunion, vice-présidente du MEDEF Réunion...",
+    "published": "2026-09-18T08:13:38+00:00",
+    "first_seen": "2026-09-18T11:18:03.436169+00:00",
+    "uid": "0028b89f736efb589175e65a79de47ab87617c44b8f378bf5d70ce78461ba6e7"
+  },
+  "a42957cec91dd9020f56fa23cf2f9463a3dd425ee23f66fc10182ab30be7f855": {
+    "source": "Outre-Mer 360°",
+    "title": "« Souveraineté », « nouvelle trajectoire », « présence géostratégique » : Saint-Pierre-et-Miquelon au cœur des relations franco-canadiennes",
+    "link": "https://outremers360.com/bassin-atlantique-appli/souverainete-nouvelle-trajectoire-presence-geostrategique-saint-pierre-et-miquelon-au-coeur-des-relations-franco-canadiennes",
+    "description": "Emmanuel Macron se rend de samedi à lundi à Saint-Pierre-et-Miquelon, où il va afficher, au côté du Premier ministre Mark Carney, l'unité du Canada, de la France et des Européens et la « souveraineté des nations » face aux coups de boutoir de Donald Trump.Il...",
+    "published": "2026-09-18T07:35:05+00:00",
+    "first_seen": "2026-09-18T11:18:03.436169+00:00",
+    "uid": "a42957cec91dd9020f56fa23cf2f9463a3dd425ee23f66fc10182ab30be7f855"
+  },
+  "51076b6979570d38b4c9b22bc3ab951aa701a0b751a773b44d1d4b8a0ed8e2ed": {
+    "source": "Outre-Mer 360°",
+    "title": "Wallis-et-Futuna : léger repli de l’activité économique au deuxième trimestre 2026 (IEOM)",
+    "link": "https://outremers360.com/bassin-pacifique-appli/wallis-et-futuna-leger-repli-de-lactivite-economique-au-deuxieme-trimestre-2026-ieom",
+    "description": "L’Institut d’émission d’Outre-mer (IEOM, banque centrale des collectivités françaises du Pacifique ayant pour monnaie le franc Pacifique) vient de publier sa note de conjoncture économique du deuxième trimestre 2026 pour Wallis-et-Futuna. Le territoire connaît une...",
+    "published": "2026-09-18T07:09:26+00:00",
+    "first_seen": "2026-09-18T11:18:03.436169+00:00",
+    "uid": "51076b6979570d38b4c9b22bc3ab951aa701a0b751a773b44d1d4b8a0ed8e2ed"
+  },
   "08af0149152195dfa89c672119438e9d2951a46eeda9635a1129fc9b84388c7d": {
     "source": "Enfance & Jeunesse Infos - Veille juridique",
     "title": "Violences sexuelles : vers un parcours de soins remboursé à 100 % pour les victimes ?",
