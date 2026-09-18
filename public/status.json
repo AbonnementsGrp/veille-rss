@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-17T21:24:39.382337+00:00",
+  "generated_at": "2026-09-18T04:46:36.917528+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 6,
-  "merged_items": 398,
+  "new_items": 1,
+  "merged_items": 399,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -52,7 +52,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 37,
+      "items": 38,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
