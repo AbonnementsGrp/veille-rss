@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-18T20:56:24.786544+00:00",
+  "generated_at": "2026-09-19T11:02:29.417755+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 3,
-  "merged_items": 404,
+  "new_items": 10,
+  "merged_items": 407,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -96,7 +96,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 11,
+      "items": 14,
       "feed": "c2l-restauration-collective.xml",
       "source_feed": "https://c2lsolutions.fr/feed/?post_type=post",
       "warnings": []
@@ -114,7 +114,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 213 jours (seuil : 60)"
+        "rien de neuf depuis 214 jours (seuil : 60)"
       ]
     },
     {
@@ -172,7 +172,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 897 jours (seuil : 60)"
+        "rien de neuf depuis 898 jours (seuil : 60)"
       ]
     },
     {
