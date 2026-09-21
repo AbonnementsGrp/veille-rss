@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-20T23:16:16.120420+00:00",
+  "generated_at": "2026-09-21T12:52:08.817568+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 1,
-  "merged_items": 408,
+  "new_items": 9,
+  "merged_items": 409,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -80,7 +80,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 55,
+      "items": 56,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -114,7 +114,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 215 jours (seuil : 60)"
+        "rien de neuf depuis 216 jours (seuil : 60)"
       ]
     },
     {
@@ -172,7 +172,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 899 jours (seuil : 60)"
+        "rien de neuf depuis 900 jours (seuil : 60)"
       ]
     },
     {

@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 21 Sep 2026 00:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 09:58:10 +0000</lastBuildDate>
+    <item>
+      <title>Réforme du CMG : 55 % des familles seraient gagnantes, selon les résultats de la CNAF</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/reforme-du-cmg-55-des-familles-seraient-gagnantes-selon-les-resultats-de-la-cnaf/</link>
+      <description>Les premiers résultats de l’enquête menée par la Cnaf sur la réforme du CMG ont été dévoilés ce 21 septembre, à l’occasion de la Rentrée de la petite enfance</description>
+      <guid isPermaLink="false">68c4545b4bb92626ea5132897dc498cf7b6baf842e6ce9c2dc2bf33fa2d07eb0</guid>
+      <pubDate>Mon, 21 Sep 2026 09:58:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Stéphanie Rist annonce un plan d’urgence de 90 millions pour la petite enfance</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/stephanie-rist-annonce-un-plan-durgence-de-soutien-a-la-petite-enfance/</link>
+      <description>Revalorisation de la PSU, hausse du bonus territoire, soutien aux assistantes maternelles, et adaptation des crèches aux fortes chaleurs : Stéphanie Rist a annoncé plusieurs mesures lors de la Rentrée de la petite enfance ce 21 septembre.</description>
+      <guid isPermaLink="false">685bad48023114489058c03b17ca1244a6e54c17df5363de9355bb43019197cf</guid>
+      <pubDate>Mon, 21 Sep 2026 07:15:39 +0000</pubDate>
+    </item>
     <item>
       <title>21 septembre 2026 : La Rentrée de la Petite Enfance</title>
       <link>https://www.lesprosdelapetiteenfance.fr/article/21-septembre-2026-la-rentree-de-la-petite-enfance-2026/</link>
@@ -386,13 +400,6 @@
       <description>Aprés la découverte d'une MAM agréée pour 4 enfants et en "accueillant" 17, chacun s'interroge encore : comment cela a pu être possible aussi longtemps sans que le pot aux roses ne soit découvert. Les administrations concernées ) PMU, CAF et Pajemploi - restent pour l'heure muettes. On attend leurs explications.</description>
       <guid isPermaLink="false">907db0dcff3274c2679f692070e333ad351aac4c750a65930242f81eb0fc8ea3</guid>
       <pubDate>Thu, 23 Jul 2026 16:04:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Yerres : une MAM dans l’illégalité accueillait 17 enfants !</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/yerres-une-mam-dans-lillegalite-accueillait-17-enfants/</link>
-      <description>Deux assistantes maternelles – dont l'une n'ayant plus d'agrément - accueillaient 17 enfants dans leur MAM ! Le pot aux roses a été découvert le 16 juillet lors d'un contrôle PMI. Les assistantes maternelles avaient caché 12 enfants au garage !</description>
-      <guid isPermaLink="false">5a42a4fb391e226ce9049b5bd2f891e40176b98b7c6b29826324ecd37e6552bc</guid>
-      <pubDate>Wed, 22 Jul 2026 15:51:28 +0000</pubDate>
     </item>
   </channel>
 </rss>
