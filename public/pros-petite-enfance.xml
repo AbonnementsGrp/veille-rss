@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 21 Sep 2026 09:58:10 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 14:45:06 +0000</lastBuildDate>
+    <item>
+      <title>Le référentiel de connaissances et de savoir-faire en petite enfance est publié</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/le-referentiel-de-connaissances-et-de-savoir-faire-en-petite-enfance-est-publie/</link>
+      <description>Le document d’une quarantaine de pages est disponible depuis ce 21 septembre sur le site du ministère des solidarités. Il s’adresse à l’ensemble des professionnels de l’accueil du jeune enfant...</description>
+      <guid isPermaLink="false">56854a10388d833a4ce38f94f7cf85374f1033402216e8134a6d409001de7b7f</guid>
+      <pubDate>Mon, 21 Sep 2026 14:45:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Modes d’accueil et canicule : la CNAF annonce une enveloppe de 200 millions d’euros mobilisables pour moderniser les structures</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/mode-daccueil-et-canicule-la-cnaf-annonce-une-enveloppe-200-millions-deuros-mobilisables-pour-moderniser-les-structures-daccueil/</link>
+      <description>Après un été marqué par des vagues de chaleur répétées, le Gouvernement veut accélérer l’adaptation des lieux d’accueil du jeune enfant. La CNAF appelle les gestionnaires à engager sans attendre...</description>
+      <guid isPermaLink="false">eaded09dcc56298ed0e8015efb59ba27e060083188798d04d5ab48f22142982e</guid>
+      <pubDate>Mon, 21 Sep 2026 13:00:40 +0000</pubDate>
+    </item>
     <item>
       <title>Réforme du CMG : 55 % des familles seraient gagnantes, selon les résultats de la CNAF</title>
       <link>https://www.lesprosdelapetiteenfance.fr/reforme-du-cmg-55-des-familles-seraient-gagnantes-selon-les-resultats-de-la-cnaf/</link>
@@ -386,20 +400,6 @@
       <description>A Yerres, lors d’un contrôle de la PMI, on a découvert que la MAM l’Atelier des Petits, accueillait en toute illégalité 17 enfants dont 12 avaient été cachés au garage...</description>
       <guid isPermaLink="false">8136ae030c13da2fdfdd767200deee904e0c2293533cb462592028624541809a</guid>
       <pubDate>Fri, 24 Jul 2026 10:52:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>Décret pouponnières : l’État répartit près de 35 millions d’euros entre les départements</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/decret-pouponnieres-letat-repartit-pres-de-35-millions-deuros-entre-les-departements/</link>
-      <description>Annoncée lors de la réforme des pouponnières en septembre 2025, la participation financière de l’État se concrétise.</description>
-      <guid isPermaLink="false">865604cf2c7a8b60cc9dcebf4b707483e9cdeb9e0c86865b885cb8d9aa9a834a</guid>
-      <pubDate>Fri, 24 Jul 2026 08:42:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Garde d’enfants sauvage à Yerres : en attente des explications de la PMI, de la CNAF et de Pajemploi</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/garde-denfants-sauvage-a-yerres-pmi-pajemploi-et-cnaf-doivent-sexpliquer/</link>
-      <description>Aprés la découverte d'une MAM agréée pour 4 enfants et en "accueillant" 17, chacun s'interroge encore : comment cela a pu être possible aussi longtemps sans que le pot aux roses ne soit découvert. Les administrations concernées ) PMU, CAF et Pajemploi - restent pour l'heure muettes. On attend leurs explications.</description>
-      <guid isPermaLink="false">907db0dcff3274c2679f692070e333ad351aac4c750a65930242f81eb0fc8ea3</guid>
-      <pubDate>Thu, 23 Jul 2026 16:04:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
