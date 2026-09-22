@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 22 Sep 2026 10:45:34 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 13:06:51 +0000</lastBuildDate>
+    <item>
+      <title>Sylviane Giampino annonce qu’elle va quitter le HCFEA</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/sylviane-giampino-annonce-quelle-va-quitter-le-hcfea/</link>
+      <description>La psychologue et psychanalyste Sylviane Giampino a annoncé qu’elle se retirait du HCFEA. Une décision , prise après 10 années à la tête du Conseil de l’enfance et de l’adolescence, qu’elle a tenu à expliquer lors de la Rentrée de la petite enfance.</description>
+      <guid isPermaLink="false">37211d5af2362a4f582e58a0c60857f938f0921a98184fbbf4f0e4fff7c2e4a7</guid>
+      <pubDate>Tue, 22 Sep 2026 13:06:51 +0000</pubDate>
+    </item>
     <item>
       <title>Vaccination des jeunes enfants : la France parmi les meilleurs élèves d’Europe</title>
       <link>https://www.lesprosdelapetiteenfance.fr/vaccination-des-jeunes-enfants-la-france-parmi-les-meilleurs-eleves-deurope/</link>
@@ -386,13 +393,6 @@
       <description>Évacuations, fumées, températures extrêmes : les catastrophes climatiques se multiplient, et peuvent rendre l’accueil des jeunes enfants impossible ou dangereux. Mais les conséquences sur la rémunération des assistantes maternelles restent difficiles à appréhender. On fait le point.</description>
       <guid isPermaLink="false">79c7b51cf9a7168bc05df45a836389ee0be5b40e4b0a9a5ac746d36f722ba1fb</guid>
       <pubDate>Tue, 28 Jul 2026 11:58:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAM de Yerres : des parents mécontents d’être pointés du doigt</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/mam-de-yerres-des-parents-mecontents-detre-pointes-du-doigt/</link>
-      <description>Dans l'affaire de la MAM de Yerres qui accueillait en toute illégalité 17 enfants, le point de vue d'une maman qui supporte mal que des commentaires mettent les parents en cause.</description>
-      <guid isPermaLink="false">b823eb479a0ecebbc667ea54c2bdeaeaeb2e65a60348e5061d6b79a0df26e428</guid>
-      <pubDate>Mon, 27 Jul 2026 16:49:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

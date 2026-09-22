@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-22T11:42:52.863378+00:00",
+  "generated_at": "2026-09-22T16:59:42.350985+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 9,
-  "merged_items": 409,
+  "new_items": 5,
+  "merged_items": 413,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -52,7 +52,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 39,
+      "items": 41,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
@@ -66,7 +66,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 48,
+      "items": 50,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
