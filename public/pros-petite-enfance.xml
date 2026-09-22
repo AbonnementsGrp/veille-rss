@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 21 Sep 2026 14:45:06 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 22 Sep 2026 10:45:34 +0000</lastBuildDate>
+    <item>
+      <title>Vaccination des jeunes enfants : la France parmi les meilleurs élèves d’Europe</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/vaccination-des-jeunes-enfants-la-france-parmi-les-meilleurs-eleves-deurope/</link>
+      <description>Alors que la couverture vaccinale des enfants montre des signes de recul dans de nombreux pays européens, la France conserve une situation plutôt favorable.</description>
+      <guid isPermaLink="false">f65e31abd428b1cf30b85c366b58c1361e0449463115922a522d85ae71dcac8e</guid>
+      <pubDate>Tue, 22 Sep 2026 10:45:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>ARPEDA : « S’il y a de nouvelles missions pour les RPE, il faut aussi la formation et les compétences correspondantes », affirme Constance Bensussan</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/arpeda-sil-y-a-de-nouvelles-competences-pour-les-rpe-il-faut-aussi-la-formation-en-face-affirme-constance-bensussan/</link>
+      <description>Lors de la Rentrée de la petite enfance, Constance Bensussan, directrice générale de la CNAF, s’est exprimée sur ARPEDA, l’expérimentation d’intermédiation administrative menée par des Relais petite enfance (RPE) depuis septembre dans sept territoires.</description>
+      <guid isPermaLink="false">3e119a0448b5702a171d9bd47fc5df6536e6dc76e7d6493f18da160e1014face</guid>
+      <pubDate>Tue, 22 Sep 2026 09:54:03 +0000</pubDate>
+    </item>
     <item>
       <title>Le référentiel de connaissances et de savoir-faire en petite enfance est publié</title>
       <link>https://www.lesprosdelapetiteenfance.fr/le-referentiel-de-connaissances-et-de-savoir-faire-en-petite-enfance-est-publie/</link>
@@ -24,10 +38,10 @@
       <pubDate>Mon, 21 Sep 2026 13:00:40 +0000</pubDate>
     </item>
     <item>
-      <title>Réforme du CMG : 55 % des familles seraient gagnantes, selon les résultats de la CNAF</title>
+      <title>Réforme du CMG : 55 % des familles seraient gagnantes, selon les résultats de l’enquête CNAF</title>
       <link>https://www.lesprosdelapetiteenfance.fr/reforme-du-cmg-55-des-familles-seraient-gagnantes-selon-les-resultats-de-la-cnaf/</link>
       <description>Les premiers résultats de l’enquête menée par la Cnaf sur la réforme du CMG ont été dévoilés ce 21 septembre, à l’occasion de la Rentrée de la petite enfance</description>
-      <guid isPermaLink="false">68c4545b4bb92626ea5132897dc498cf7b6baf842e6ce9c2dc2bf33fa2d07eb0</guid>
+      <guid isPermaLink="false">6b7399dd0bfa77278e070623a4d1bd366d5ac74eaa051858a997301f8eeffae7</guid>
       <pubDate>Mon, 21 Sep 2026 09:58:10 +0000</pubDate>
     </item>
     <item>
@@ -379,27 +393,6 @@
       <description>Dans l'affaire de la MAM de Yerres qui accueillait en toute illégalité 17 enfants, le point de vue d'une maman qui supporte mal que des commentaires mettent les parents en cause.</description>
       <guid isPermaLink="false">b823eb479a0ecebbc667ea54c2bdeaeaeb2e65a60348e5061d6b79a0df26e428</guid>
       <pubDate>Mon, 27 Jul 2026 16:49:14 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incendies en Gironde : crèches, assistantes maternelles… comment les professionnels de la petite enfance s’organisent</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/incendies-en-gironde-creches-assistantes-maternelles-comment-les-professionnels-de-la-petite-enfance-sorganisent/</link>
-      <description>Les incendies qui touchent la Gironde depuis plusieurs jours bouleversent le quotidien des habitants… et celui des professionnels de la petite enfance.</description>
-      <guid isPermaLink="false">b0fd0d3b57741904b4f103ebd9838b70910b1754819f68d0298e62c23703725a</guid>
-      <pubDate>Mon, 27 Jul 2026 13:38:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>VAE du titre IEPE : les cinq premières candidates ont passé leur examen</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/vae-du-titre-iepe-les-cinq-premieres-candidates-ont-passe-leur-examen/</link>
-      <description>Les 21 et 22 juillet 2026, était organisée la première session d’examen du titre professionnel d’Intervenant éducatif petite enfance (IEPE) par la voie de la VAE. Cinq candidates ont ainsi achevé leur parcours par une session d’examen de quatre heures.</description>
-      <guid isPermaLink="false">b75dfa519a94d0ba180402d044b0d4f90426ae0aa6e201a3d87f26e8441f29e0</guid>
-      <pubDate>Fri, 24 Jul 2026 10:53:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAM de Yerres : la première mise au point de la CNAF</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/mam-de-yerres-la-premiere-mise-au-point-de-la-cnaf/</link>
-      <description>A Yerres, lors d’un contrôle de la PMI, on a découvert que la MAM l’Atelier des Petits, accueillait en toute illégalité 17 enfants dont 12 avaient été cachés au garage...</description>
-      <guid isPermaLink="false">8136ae030c13da2fdfdd767200deee904e0c2293533cb462592028624541809a</guid>
-      <pubDate>Fri, 24 Jul 2026 10:52:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
