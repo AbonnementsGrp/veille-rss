@@ -1,4 +1,28 @@
 {
+  "6122c7befdb787331085daddce36ffc3c4414f63750a668ab0d967a83905c5e8": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire RH : « Bâtir une politique d’attractivité et de fidélisation efficace »",
+    "link": "https://www.anap.fr/s/article/webinaire-rh-batir-politique-attractivite-fidelisation-efficace",
+    "description": "60min pour construire une politique RH solide et attractive ! Comment attirer de nouvelles candidatures, diminuer le turn-over de votre établissement, fidéliser vos équipes ? Ce webinaire vous donne les clés pour bâtir une politique d’attractivité et de fidélisation durable.",
+    "published": "2026-09-21T16:21:10+00:00",
+    "first_seen": "2026-09-22T05:00:01.246979+00:00",
+    "uid": "6122c7befdb787331085daddce36ffc3c4414f63750a668ab0d967a83905c5e8",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "ad774e00f540c187b421b2ba818a2134d271ecc9ab540261cb31502aff9da6b7": {
+    "source": "ANAP - Actualités",
+    "title": "Appui terrain : Développer l’hospitalisation de jour en SMR",
+    "link": "https://www.anap.fr/s/article/appui-terrain-hospitalisation-jour-smr-reforme",
+    "description": "Obligatoire dans le cadre de la réforme, l’Anap vous accompagne pour développer une offre d’hospitalisation partielle en SMR. L’Anap vous propose un appui terrain pour structurer votre projet, intégrer les normes et obligations légales liées à la réforme.",
+    "published": "2026-09-21T07:54:01+00:00",
+    "first_seen": "2026-09-22T05:00:01.246979+00:00",
+    "uid": "ad774e00f540c187b421b2ba818a2134d271ecc9ab540261cb31502aff9da6b7",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "56854a10388d833a4ce38f94f7cf85374f1033402216e8134a6d409001de7b7f": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Le référentiel de connaissances et de savoir-faire en petite enfance est publié",
@@ -865,7 +889,7 @@
     "title": "Webinaire Alimentation Durable : comment répondre aux nouvelles exigences réglementaires ?",
     "link": "https://www.anap.fr/s/article/webinaire-alimentation-durable-en-route-vers-les-objectifs-egalim",
     "description": "Ce webinaire vous aide à décrypter les obligations réglementaires et à mobiliser les bons leviers pour faire de l’alimentation durable un moteur de transformation dans votre établissement.",
-    "published": "2026-09-15T14:59:17+00:00",
+    "published": "2026-09-21T08:46:45+00:00",
     "first_seen": "2026-09-16T04:51:59.977635+00:00",
     "uid": "c65ec12287df661d25bfd8fe3c498584c74ec3d6017faf744dd4a5b747dfff53",
     "description_checked": true,
@@ -2896,7 +2920,7 @@
     "title": "Performance sans frontière : les voyages d’études de l’Anap",
     "link": "https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes",
     "description": "Espagne, Hollande, Belgique, Allemagne… Embarquez pour des séjours immersifs au sein des établissements européens les plus performants ! Échangez, inspirez-vous des systèmes de soins étrangers, découvrez les solutions de demain, explorez les enjeux de la performance sous un nouvel angle.",
-    "published": "2026-07-22T09:34:01+00:00",
+    "published": "2026-09-21T13:36:14+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446",
     "description_checked": true,

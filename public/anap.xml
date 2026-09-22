@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 16 Sep 2026 07:50:32 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 21 Sep 2026 16:21:10 +0000</lastBuildDate>
+    <item>
+      <title>Webinaire RH : « Bâtir une politique d’attractivité et de fidélisation efficace »</title>
+      <link>https://www.anap.fr/s/article/webinaire-rh-batir-politique-attractivite-fidelisation-efficace</link>
+      <description>60min pour construire une politique RH solide et attractive ! Comment attirer de nouvelles candidatures, diminuer le turn-over de votre établissement, fidéliser vos équipes ? Ce webinaire vous donne les clés pour bâtir une politique d’attractivité et de fidélisation durable.</description>
+      <guid isPermaLink="false">6122c7befdb787331085daddce36ffc3c4414f63750a668ab0d967a83905c5e8</guid>
+      <pubDate>Mon, 21 Sep 2026 16:21:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Performance sans frontière : les voyages d’études de l’Anap</title>
+      <link>https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes</link>
+      <description>Espagne, Hollande, Belgique, Allemagne… Embarquez pour des séjours immersifs au sein des établissements européens les plus performants ! Échangez, inspirez-vous des systèmes de soins étrangers, découvrez les solutions de demain, explorez les enjeux de la performance sous un nouvel angle.</description>
+      <guid isPermaLink="false">43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446</guid>
+      <pubDate>Mon, 21 Sep 2026 13:36:14 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire Alimentation Durable : comment répondre aux nouvelles exigences réglementaires ?</title>
+      <link>https://www.anap.fr/s/article/webinaire-alimentation-durable-en-route-vers-les-objectifs-egalim</link>
+      <description>Ce webinaire vous aide à décrypter les obligations réglementaires et à mobiliser les bons leviers pour faire de l’alimentation durable un moteur de transformation dans votre établissement.</description>
+      <guid isPermaLink="false">c65ec12287df661d25bfd8fe3c498584c74ec3d6017faf744dd4a5b747dfff53</guid>
+      <pubDate>Mon, 21 Sep 2026 08:46:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appui terrain : Développer l’hospitalisation de jour en SMR</title>
+      <link>https://www.anap.fr/s/article/appui-terrain-hospitalisation-jour-smr-reforme</link>
+      <description>Obligatoire dans le cadre de la réforme, l’Anap vous accompagne pour développer une offre d’hospitalisation partielle en SMR. L’Anap vous propose un appui terrain pour structurer votre projet, intégrer les normes et obligations légales liées à la réforme.</description>
+      <guid isPermaLink="false">ad774e00f540c187b421b2ba818a2134d271ecc9ab540261cb31502aff9da6b7</guid>
+      <pubDate>Mon, 21 Sep 2026 07:54:01 +0000</pubDate>
+    </item>
     <item>
       <title>Votre Cockpit Data Bloc</title>
       <link>https://www.anap.fr/s/article/votre-cockpit-data-blocs</link>
@@ -29,13 +57,6 @@
       <description>Évaluez vos pratiques en développement durable, identifiez vos priorités et structurez votre démarche grâce à l’outil Score.DD. Un autodiagnostic qui mesure vos avancées, votre conformité réglementaire et aide à planifier des actions concrètes en faveur d’une transformation durable.</description>
       <guid isPermaLink="false">f1253a28cdecbfc883515555b4a0fd1d79089d84ecbe2d180aeee60dfefa603c</guid>
       <pubDate>Tue, 15 Sep 2026 15:37:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webinaire Alimentation Durable : comment répondre aux nouvelles exigences réglementaires ?</title>
-      <link>https://www.anap.fr/s/article/webinaire-alimentation-durable-en-route-vers-les-objectifs-egalim</link>
-      <description>Ce webinaire vous aide à décrypter les obligations réglementaires et à mobiliser les bons leviers pour faire de l’alimentation durable un moteur de transformation dans votre établissement.</description>
-      <guid isPermaLink="false">c65ec12287df661d25bfd8fe3c498584c74ec3d6017faf744dd4a5b747dfff53</guid>
-      <pubDate>Tue, 15 Sep 2026 14:59:17 +0000</pubDate>
     </item>
     <item>
       <title>Webinaire Urgences : mieux orienter, s’appuyer sur le territoire</title>
@@ -297,13 +318,6 @@
       <pubDate>Wed, 22 Jul 2026 13:00:35 +0000</pubDate>
     </item>
     <item>
-      <title>Performance sans frontière : les voyages d’études de l’Anap</title>
-      <link>https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes</link>
-      <description>Espagne, Hollande, Belgique, Allemagne… Embarquez pour des séjours immersifs au sein des établissements européens les plus performants ! Échangez, inspirez-vous des systèmes de soins étrangers, découvrez les solutions de demain, explorez les enjeux de la performance sous un nouvel angle.</description>
-      <guid isPermaLink="false">43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446</guid>
-      <pubDate>Wed, 22 Jul 2026 09:34:01 +0000</pubDate>
-    </item>
-    <item>
       <title>Télémédecine : retour d'expérience sur la permanence des soins en imagerie</title>
       <link>https://www.anap.fr/s/article/numerique-publication-1580</link>
       <description>La radiologie est une discipline qui, ne nécessitant pas la présence du patient pour la réalisation de l'acte d'interprétation, se prête bien à la télémédecine. Cette publication capitalise sur l'expérience des trois projets pilotes du plan national de télémédecine.</description>
@@ -414,20 +428,6 @@
       <description>Du 19 au 21 mai, l’Anap vous donne rendez-vous sur son stand L22 à Santexpo : découvrez nos ressources, échangez avec nos experts et prenez part à « Perf’en Santé », un espace de débats organisé en partenariat avec le Think Tank CRAPS pour décrypter et faire avancer la performance du système de santé.</description>
       <guid isPermaLink="false">80a10d823dca58768d98953ce95abab3013761648067da84d99766f105ed4c66</guid>
       <pubDate>Tue, 21 Jul 2026 06:08:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webconférence – Transformer les blocages en solutions : la puissance de l'innovation collaborative</title>
-      <link>https://www.anap.fr/s/article/webconference-transformer-blocages-en-solutions-puissance-innovation-collaborative</link>
-      <description>Coordination territoriale des urgences, gouvernance, attractivité ... Le 11 mars, découvrez comment l’innovation collaborative est une méthode gagnante pour lever des blocages dans les établissements et sur les territoires.</description>
-      <guid isPermaLink="false">bbe6a06769f5789e08680f3a5bd96f3ae85b64c4111307b24778448f955d237b</guid>
-      <pubDate>Tue, 21 Jul 2026 06:08:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webconférence Intelligence collective, management collaboratif : ils s’en servent, lancez-vous !</title>
-      <link>https://www.anap.fr/s/article/webconference-intelligence-collective-management-collaboratif-ils-s-en-servent-lancez-vous</link>
-      <description>Le 21 juin 2022, nous avons donné la parole à ceux qui encouragent la créativité et l’engagement des équipes à travers de nouvelles dynamiques collaboratives et managériales. Retour sur des projets d’innovation collaborative en établissement.</description>
-      <guid isPermaLink="false">b47342080e5bc0224f334ffdc69b33f995f20207cf32b42e5ecb4197317097e7</guid>
-      <pubDate>Tue, 21 Jul 2026 06:07:32 +0000</pubDate>
     </item>
   </channel>
 </rss>
