@@ -1,4 +1,40 @@
 {
+  "37df2e923174e010a7e47b88f9c269573fe1010ab88d2b475ee5623d8b8a8863": {
+    "source": "ANAP - Actualités",
+    "title": "Faciliter l'accès au logement des professionnels des établissements sanitaires et médico-sociaux",
+    "link": "https://www.anap.fr/s/article/faciliter-l-acces-au-logement-des-professionnels-des-etablissements-sanitaires-et-medico-sociaux",
+    "description": "Face aux difficultés de recrutement et de fidélisation dans les zones tendues, le logement s'impose comme un levier RH incontournable. Ce guide pratique donne aux directions d'établissements sanitaires et médico-sociaux des outils concrets pour structurer une politique logement adaptée à leurs moyens et à leur territoire.",
+    "published": "2026-09-22T12:21:23+00:00",
+    "first_seen": "2026-09-23T04:47:54.623442+00:00",
+    "uid": "37df2e923174e010a7e47b88f9c269573fe1010ab88d2b475ee5623d8b8a8863",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "60d3e366b0bdff4c43a903a97f0009da9742b4e6ff68728fce93c1ff9927ca99": {
+    "source": "ANAP - Actualités",
+    "title": "Réforme des SAD : tous les outils Anap",
+    "link": "https://www.anap.fr/s/article/reforme-services-autonomie-a-domicile",
+    "description": "L'Anap met à disposition des gestionnaires de services à domicile des outils d’accompagnement à la mise en œuvre de la réforme des SAD.",
+    "published": "2026-09-22T08:32:06+00:00",
+    "first_seen": "2026-09-23T04:47:54.623442+00:00",
+    "uid": "60d3e366b0bdff4c43a903a97f0009da9742b4e6ff68728fce93c1ff9927ca99",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "f5fb504421c5e2cf3dc1e7ec66c7a72bce0e64a55c0066e89e16f8f34bdbfdce": {
+    "source": "ANAP - Actualités",
+    "title": "Réforme des SAD : le GCSMS",
+    "link": "https://www.anap.fr/s/article/reforme-sad-gcsms",
+    "description": "La réforme des SAD implique pour les gestionnaires de services à domicile d’opérer des rapprochements pour proposer une réponse coordonnée entre l’aide et le soin. Pour connaître l'essentiel sur le GCSMS et les enjeux incontournables dans le cadre d'une opération de rapprochement, téléchargez nos fiches pratiques.",
+    "published": "2026-09-22T08:31:08+00:00",
+    "first_seen": "2026-09-23T04:47:54.623442+00:00",
+    "uid": "f5fb504421c5e2cf3dc1e7ec66c7a72bce0e64a55c0066e89e16f8f34bdbfdce",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "37211d5af2362a4f582e58a0c60857f938f0921a98184fbbf4f0e4fff7c2e4a7": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Sylviane Giampino annonce qu’elle va quitter le HCFEA",
