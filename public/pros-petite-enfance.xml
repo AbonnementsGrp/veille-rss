@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 23 Sep 2026 08:53:05 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 12:55:44 +0000</lastBuildDate>
+    <item>
+      <title>Protection de l’enfance : le comité stratégique fait le point sur les dernières avancées de la refondation</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/protection-de-lenfance-le-comite-strategique-fait-le-point-sur-les-dernieres-avancees-de-la-refondation/</link>
+      <description>Il s'était réuni pour la première fois en février, avec un objectif clair : « ne pas produire un diagnostic de plus, mais agir et transformer concrètement le système de protection de l’enfance ».</description>
+      <guid isPermaLink="false">78576a71d442b49cceb23429897940e97c23bf68e0dd7221999e1e274ea4fa44</guid>
+      <pubDate>Wed, 23 Sep 2026 12:55:44 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accueil du jeune enfant : que comporte exactement le plan d’urgence de 90 millions d’euros ?</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/accueil-du-jeune-enfant-que-comporte-exactement-le-plan-durgence-de-90-millions-deuros/</link>
+      <description>Le détail du plan d'urgence 90 millions d'euros : PSU, prime d'installation pour les assistantes maternelles à domicile et en MAM, et bonus territoires ... Toutes les revalorisations décryptées pour 2026 et 2027.</description>
+      <guid isPermaLink="false">049a794cea5798b7e23e603572f5823df2bfdc5f74c06ca8caef8ca36b095dbd</guid>
+      <pubDate>Wed, 23 Sep 2026 12:47:07 +0000</pubDate>
+    </item>
     <item>
       <title>Mort inattendue du nourrisson : les particules fines pourraient aussi jouer un rôle</title>
       <link>https://www.lesprosdelapetiteenfance.fr/mort-inattendue-du-nourrisson-les-particules-fines-pourraient-aussi-jouer-un-role/</link>
@@ -379,20 +393,6 @@
       <description>Suite à l'accueil en toytale illégalité de 17 enfants dans une MAM de Yerres, La PMI de la commune explique avoir parfaitement respecté la réglementation en vigueur dont elle pointe les lacunes.</description>
       <guid isPermaLink="false">1726795d1a12d2ebf7e074d87dada555d9396d63627c05aea999012d5adfcb82</guid>
       <pubDate>Wed, 29 Jul 2026 08:26:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>People&amp;baby : le SNPPE réclame une mission IGAS-IGF et son retrait de la gestion des crèches</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/peoplebaby-apres-de-nouveaux-incidents-le-snppe-demande-au-premier-ministre-une-mission-igas-igf-sur-le-groupe-et-son-retrait-progressif-de-la-gestion-des-creches/</link>
-      <description>Dans un communiqué indigné publié ce jour, après de nouveaux incidents graves dans deux crèches People&amp;baby, le SNPPE réclame une action politique forte. Le syndicat a saisi le Premier ministre...</description>
-      <guid isPermaLink="false">1a72392d95cfbce8608fa8da4f3db2a604b8b8f93995366d7d93399e3656abf1</guid>
-      <pubDate>Tue, 28 Jul 2026 14:41:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aides à la qualification des professionnels : la FFEC demande leur extension aux microcrèches PAJE</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/aides-a-la-qualification-des-professionnels-la-ffec-demande-leur-extension-aux-microcreches-paje/</link>
-      <description>La FFEC demande l'extension des aides à la qualification desprofessionnels de la petite enfance de catégorie 1 aux microcrèches PAJE</description>
-      <guid isPermaLink="false">1be116dfa928f4af3504e53ba0843e01e466e8aa47fffec9afbe797f142dac8c</guid>
-      <pubDate>Tue, 28 Jul 2026 12:23:16 +0000</pubDate>
     </item>
   </channel>
 </rss>

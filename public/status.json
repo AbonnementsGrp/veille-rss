@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-23T11:40:34.616939+00:00",
+  "generated_at": "2026-09-23T17:03:31.826417+00:00",
   "sites_total": 12,
-  "sites_ok": 11,
-  "sites_error": 1,
+  "sites_ok": 12,
+  "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 11,
-  "merged_items": 413,
+  "new_items": 5,
+  "merged_items": 414,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -36,12 +36,11 @@
       "url": "https://www.observatoire-culture.net/",
       "feed_categories": [],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
-      "items": 25,
+      "status": "ok",
+      "method": "flux détecté",
+      "items": 15,
       "feed": "observatoire-culture.xml",
-      "error": "500 Server Error: Internal Server Error for url: https://www.observatoire-culture.net/",
-      "source_feed": "",
+      "source_feed": "https://www.observatoire-culture.net/feed/",
       "warnings": []
     },
     {
@@ -185,7 +184,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 16,
+      "items": 17,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []
