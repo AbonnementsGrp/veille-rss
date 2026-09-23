@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 22 Sep 2026 13:06:51 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 08:53:05 +0000</lastBuildDate>
+    <item>
+      <title>Mort inattendue du nourrisson : les particules fines pourraient aussi jouer un rôle</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/mort-inattendue-du-nourrisson-les-particules-fines-pourraient-aussi-jouer-un-role/</link>
+      <description>Une étude française émet l'hypothèse qu'il puisse y avoir des liens entre la Mort inattendue du nourrisson et la pollution atmosphérique.</description>
+      <guid isPermaLink="false">97276aab2440eb305d04bf02a6a7b943664ffa4b89fef0c5b1eeebdca7e1e821</guid>
+      <pubDate>Wed, 23 Sep 2026 08:53:05 +0000</pubDate>
+    </item>
     <item>
       <title>Sylviane Giampino annonce qu’elle va quitter le HCFEA</title>
       <link>https://www.lesprosdelapetiteenfance.fr/sylviane-giampino-annonce-quelle-va-quitter-le-hcfea/</link>
@@ -386,13 +393,6 @@
       <description>La FFEC demande l'extension des aides à la qualification desprofessionnels de la petite enfance de catégorie 1 aux microcrèches PAJE</description>
       <guid isPermaLink="false">1be116dfa928f4af3504e53ba0843e01e466e8aa47fffec9afbe797f142dac8c</guid>
       <pubDate>Tue, 28 Jul 2026 12:23:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Incendies, canicule : qui paie lorsque les assistantes maternelles ne peuvent plus accueillir les enfants ?</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/incendies-canicule-qui-paie-lorsque-les-assistantes-maternelles-ne-peuvent-plus-accueillir-les-enfants/</link>
-      <description>Évacuations, fumées, températures extrêmes : les catastrophes climatiques se multiplient, et peuvent rendre l’accueil des jeunes enfants impossible ou dangereux. Mais les conséquences sur la rémunération des assistantes maternelles restent difficiles à appréhender. On fait le point.</description>
-      <guid isPermaLink="false">79c7b51cf9a7168bc05df45a836389ee0be5b40e4b0a9a5ac746d36f722ba1fb</guid>
-      <pubDate>Tue, 28 Jul 2026 11:58:24 +0000</pubDate>
     </item>
   </channel>
 </rss>
