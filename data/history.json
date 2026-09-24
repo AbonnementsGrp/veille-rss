@@ -1,4 +1,51 @@
 {
+  "7d097db507c41192223bc070353d03cc6ca2f5eae783b581d44356236ff3abb1": {
+    "source": "IGAS",
+    "title": "Assurance maladie obligatoire et complémentaires santé : un éclairage chiffré sur les scénarios d'évolution du financement des soins",
+    "link": "https://igas.gouv.fr/assurance-maladie-obligatoire-et-complementaires-sante-un-eclairage-chiffre-sur-les-scenarios-devolution-du-financement-des-soins",
+    "description": "L'IGAS et l'IGF publient une étude de chiffrage destinée à éclairer les débats sur l'avenir de l'articulation entre assurance maladie obligatoire et complémentaires santé.",
+    "published": "2026-09-24T13:04:20+00:00",
+    "first_seen": "2026-09-24T17:13:51.158880+00:00",
+    "uid": "7d097db507c41192223bc070353d03cc6ca2f5eae783b581d44356236ff3abb1",
+    "description_checked": true
+  },
+  "14c010266e8acdb38cd9784633ae5a5f24fadf277e18d792741a9646ecd883d6": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "La Fepem réclame un « Grenelle de l’attractivité » et l’accès des particuliers employeurs à l’attestation d’honorabilité",
+    "link": "https://www.lesprosdelapetiteenfance.fr/petite-enfance-la-fepem-reclame-un-grenelle-de-lattractivite-et-lacces-des-particuliers-employeurs-a-lattestation-dhonorabilite/",
+    "description": "À l’approche de 2027, la Fédération des particuliers employeurs de France (Fepem) dévoile ses propositions pour faire du « droit de vivre chez soi une priorité du prochain quinquennat ».",
+    "published": "2026-09-24T14:59:39+00:00",
+    "first_seen": "2026-09-24T17:13:43.438744+00:00",
+    "uid": "14c010266e8acdb38cd9784633ae5a5f24fadf277e18d792741a9646ecd883d6",
+    "description_checked": true
+  },
+  "4c62578902356bc3e619a3ff723e69516c0e4c44d6bc779bc5fcda5d7abc4296": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Numérique pour l'éducation : le ministère détaille le cadre de référence",
+    "link": "https://www.banquedesterritoires.fr/numerique-pour-leducation-le-ministere-detaille-le-cadre-de-reference",
+    "description": "Un arrêté du ministère de l'Éducation nationale décline le cadre de référence du numérique pour l'éducation. Il passe en revue les questions de sécurité, d'interopérabilité des systèmes et de numérique responsable. Autant de sujets qui concernent au premier chef les collectivités.",
+    "published": "2026-09-24T10:20:32+00:00",
+    "first_seen": "2026-09-24T17:13:40.005038+00:00",
+    "uid": "4c62578902356bc3e619a3ff723e69516c0e4c44d6bc779bc5fcda5d7abc4296"
+  },
+  "150b97bbfea43ece3154affb36508593912d485a9c2529fc968b23fc202a8f33": {
+    "source": "Outre-Mer 360°",
+    "title": "Sécheresse en Nouvelle-Calédonie : 110 millions de francs et un nouveau plan de soutien aux exploitants",
+    "link": "https://outremers360.com/bassin-pacifique-appli/secheresse-en-nouvelle-caledonie-110-millions-de-francs-et-un-nouveau-plan-de-soutien-aux-exploitants",
+    "description": "Alors que la saison sèche s’installe en Nouvelle-Calédonie et devrait se renforcer dans les semaines à venir sous l’effet El Niño, l’Agence rurale a modifié les modalités de l’accompagnement qu’elle propose aux exploitants agricoles, afin de mieux les aider à se...",
+    "published": "2026-09-24T12:17:59+00:00",
+    "first_seen": "2026-09-24T17:13:33.336609+00:00",
+    "uid": "150b97bbfea43ece3154affb36508593912d485a9c2529fc968b23fc202a8f33"
+  },
+  "a57a752d64f4b818fb336af17bcdb4edf7e7cd4f99841c2c2e8a6bda736ef134": {
+    "source": "Outre-Mer 360°",
+    "title": "Tourisme : La Nouvelle-Calédonie et la Polynésie française parmi les 50 meilleurs lieux où voyager en 2027",
+    "link": "https://outremers360.com/bassin-pacifique-appli/tourisme-la-nouvelle-caledonie-et-la-polynesie-francaise-parmi-les-50-meilleurs-lieux-ou-voyager-en-2027",
+    "description": "L’éditeur de guides de voyage Lonely Planet a classé la Nouvelle-Calédonie et la Polynésie française dans son classement des meilleurs lieux où voyager en 2027 (50 Best Places to Go in 2027). Après La Réunion en 2026, au tour des deux collectivités du Pacifique de...",
+    "published": "2026-09-24T12:07:57+00:00",
+    "first_seen": "2026-09-24T17:13:33.336609+00:00",
+    "uid": "a57a752d64f4b818fb336af17bcdb4edf7e7cd4f99841c2c2e8a6bda736ef134"
+  },
   "61b89736b148a77eb53f262a1822709b24bfb1064745e7a38c8a2cef234d92bb": {
     "source": "Les Pros de la Petite Enfance",
     "title": "ARPEDA : le SPAMAF pose six conditions avant toute généralisation du dispositif",

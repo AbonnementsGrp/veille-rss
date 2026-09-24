@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 24 Sep 2026 09:34:27 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 14:59:39 +0000</lastBuildDate>
+    <item>
+      <title>La Fepem réclame un « Grenelle de l’attractivité » et l’accès des particuliers employeurs à l’attestation d’honorabilité</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/petite-enfance-la-fepem-reclame-un-grenelle-de-lattractivite-et-lacces-des-particuliers-employeurs-a-lattestation-dhonorabilite/</link>
+      <description>À l’approche de 2027, la Fédération des particuliers employeurs de France (Fepem) dévoile ses propositions pour faire du « droit de vivre chez soi une priorité du prochain quinquennat ».</description>
+      <guid isPermaLink="false">14c010266e8acdb38cd9784633ae5a5f24fadf277e18d792741a9646ecd883d6</guid>
+      <pubDate>Thu, 24 Sep 2026 14:59:39 +0000</pubDate>
+    </item>
     <item>
       <title>ARPEDA : le SPAMAF pose six conditions avant toute généralisation du dispositif</title>
       <link>https://www.lesprosdelapetiteenfance.fr/arpeda-le-spamaf-pose-six-conditions-avant-toute-generalisation-du-dispositif/</link>
@@ -386,13 +393,6 @@
       <description>Après une premier édition en 2025, le Prix du livre pour les bébés, qui récompense un album paru dans l’année écoulée parmi la production de littérature jeunesse destinée aux moins...</description>
       <guid isPermaLink="false">f8dd063058bf0e05ba20dcd52d4a8a6404a4bc9867e30697b0ea5028a2a267c8</guid>
       <pubDate>Mon, 03 Aug 2026 09:20:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fumées d’incendie : quels effets sur la santé respiratoire des jeunes enfants ?</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/fumees-dincendie-quels-effets-sur-la-sante-respiratoire-des-jeunes-enfants/</link>
-      <description>Dans ce qu’il est convenu désormais d’appeler l’affaire de la MAM de Yerres - l’accueil de 17 enfants par deux assistantes maternelles dont une sans agrément à l’Atelier des petits - on a peu entendu les associations ou syndicats représentant les assistantes maternelles. Une sorte de silence gêné.</description>
-      <guid isPermaLink="false">55edc016091319caa25057d2d6d7ef801fbe1c7351dc8969d68a68a4ba28d2cf</guid>
-      <pubDate>Thu, 30 Jul 2026 11:30:23 +0000</pubDate>
     </item>
   </channel>
 </rss>
