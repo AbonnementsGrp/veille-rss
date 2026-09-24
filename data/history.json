@@ -1,4 +1,16 @@
 {
+  "aea94c0a15d800f38c1ad9028078b7131e273418057888901fd722fbc1b8a27e": {
+    "source": "ANAP - Actualités",
+    "title": "Masterclass IA : Révélez le potentiel de l’IA pour votre établissement",
+    "link": "https://www.anap.fr/s/article/masterclass-ia-etablissements-sanitaires-medico-sociaux",
+    "description": "Simplifier les plannings, fluidifier les parcours, soulager les fonctions supports : l'Intelligence Artificielle transforme le quotidien des établissements de santé. Et pour vous ? Cette masterclass vous guide pour comprendre l'IA, identifier les usages pertinents pour votre établissement, s'inspirer de bonnes pratiques et déployer.",
+    "published": "2026-09-23T11:56:34+00:00",
+    "first_seen": "2026-09-24T04:54:45.466040+00:00",
+    "uid": "aea94c0a15d800f38c1ad9028078b7131e273418057888901fd722fbc1b8a27e",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "4db426125595a048023f72e594fb3030ec981c78f659887feb40a7e3059263f9": {
     "source": "Localtis - Jeunesse, éducation et formation",
     "title": "Refondation de la protection de l'enfance : le comité scientifique identifie \"six grands champs de vulnérabilité\" et une trentaine de mesures prioritaires",

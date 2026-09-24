@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 22 Sep 2026 12:21:23 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 23 Sep 2026 11:56:34 +0000</lastBuildDate>
+    <item>
+      <title>Masterclass IA : Révélez le potentiel de l’IA pour votre établissement</title>
+      <link>https://www.anap.fr/s/article/masterclass-ia-etablissements-sanitaires-medico-sociaux</link>
+      <description>Simplifier les plannings, fluidifier les parcours, soulager les fonctions supports : l'Intelligence Artificielle transforme le quotidien des établissements de santé. Et pour vous ? Cette masterclass vous guide pour comprendre l'IA, identifier les usages pertinents pour votre établissement, s'inspirer de bonnes pratiques et déployer.</description>
+      <guid isPermaLink="false">aea94c0a15d800f38c1ad9028078b7131e273418057888901fd722fbc1b8a27e</guid>
+      <pubDate>Wed, 23 Sep 2026 11:56:34 +0000</pubDate>
+    </item>
     <item>
       <title>Faciliter l'accès au logement des professionnels des établissements sanitaires et médico-sociaux</title>
       <link>https://www.anap.fr/s/article/faciliter-l-acces-au-logement-des-professionnels-des-etablissements-sanitaires-et-medico-sociaux</link>
@@ -421,13 +428,6 @@
       <description>Cette publication tire les premiers enseignements de la mise en œuvre des trois expérimentations nationales EDS, IPEP et PEPS, un an après leur lancement, et propose une synthèse des points clés de leur démarrage.</description>
       <guid isPermaLink="false">dd7e05b3360fee05cce68354a5db228a02a19e2b50935eda582662dc1e1c8d02</guid>
       <pubDate>Tue, 21 Jul 2026 06:11:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pensées Prospectives #5 - Informatique quantique et santé</title>
-      <link>https://www.anap.fr/s/article/pensees-prospectives-5</link>
-      <description>"Pensées prospectives" explore une thématique prospective, issue de différentes disciplines, en lien avec les enjeux d’un ou plusieurs pôles de l’Anap. Avec cet article, explorez l'informatique quantique et la santé.</description>
-      <guid isPermaLink="false">53c8b21ae6c2cb8862683124acda47a99dad0571014cdac79a84d00f9b124eb8</guid>
-      <pubDate>Tue, 21 Jul 2026 06:10:33 +0000</pubDate>
     </item>
   </channel>
 </rss>
