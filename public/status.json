@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-24T04:55:00.106453+00:00",
+  "generated_at": "2026-09-24T11:49:19.144757+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 1,
-  "merged_items": 416,
+  "new_items": 9,
+  "merged_items": 417,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -38,7 +38,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 15,
+      "items": 16,
       "feed": "observatoire-culture.xml",
       "source_feed": "https://www.observatoire-culture.net/feed/",
       "warnings": []
@@ -114,7 +114,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 218 jours (seuil : 60)"
+        "rien de neuf depuis 219 jours (seuil : 60)"
       ]
     },
     {
@@ -172,7 +172,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 902 jours (seuil : 60)"
+        "rien de neuf depuis 903 jours (seuil : 60)"
       ]
     },
     {

@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 23 Sep 2026 12:55:44 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 09:34:27 +0000</lastBuildDate>
+    <item>
+      <title>ARPEDA : le SPAMAF pose six conditions avant toute généralisation du dispositif</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/arpeda-le-spamaf-pose-six-conditions-avant-toute-generalisation-du-dispositif/</link>
+      <description>Alors que l’expérimentation ARPEDA vient de débuter dans sept territoires pilotes, le SPAMAF demande qu’aucune généralisation du dispositif ne soit envisagée sans garanties supplémentaires pour les assistantes maternelles.</description>
+      <guid isPermaLink="false">61b89736b148a77eb53f262a1822709b24bfb1064745e7a38c8a2cef234d92bb</guid>
+      <pubDate>Thu, 24 Sep 2026 09:34:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Petite enfance : le plan d’urgence prévoit 3 millions d’euros pour l’accueil individuel</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/petite-enfance-le-plan-durgence-prevoit-3-millions-deuros-pour-laccueil-individuel/</link>
+      <description>Le plan d’urgence de 90 millions pour la petite enfance annoncé par la ministre Stéphanie Rist comporte aussi plusieurs mesures en faveur de l’accueil individuel. On fait le point sur ces mesures qui doivent encore être approuvées par le conseil d’administration de la CNAF.</description>
+      <guid isPermaLink="false">3cfbece5f0939b16cb6bb9f5550665a157d9ae2892ee0a451e77b6210c1395e4</guid>
+      <pubDate>Thu, 24 Sep 2026 08:32:08 +0000</pubDate>
+    </item>
     <item>
       <title>Protection de l’enfance : le comité stratégique fait le point sur les dernières avancées de la refondation</title>
       <link>https://www.lesprosdelapetiteenfance.fr/protection-de-lenfance-le-comite-strategique-fait-le-point-sur-les-dernieres-avancees-de-la-refondation/</link>
@@ -379,20 +393,6 @@
       <description>Dans ce qu’il est convenu désormais d’appeler l’affaire de la MAM de Yerres - l’accueil de 17 enfants par deux assistantes maternelles dont une sans agrément à l’Atelier des petits - on a peu entendu les associations ou syndicats représentant les assistantes maternelles. Une sorte de silence gêné.</description>
       <guid isPermaLink="false">55edc016091319caa25057d2d6d7ef801fbe1c7351dc8969d68a68a4ba28d2cf</guid>
       <pubDate>Thu, 30 Jul 2026 11:30:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAM de Yerres : l’Ufnafaam réagit</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/mam-de-yerres-lufnafaam-reagit/</link>
-      <description>L' Ufnafaam réagit à l'affaire de la MAM de Yerres qui accueillait jusqu'à 17 enfants en toute illégalité. Elle condamne fermement les assistantes maternelles en cause, mais appelle à un meilleur accompagnement plutôt à des contrôles renforcés.</description>
-      <guid isPermaLink="false">9d873f66c42576901994519981dab6eff222947d6952cad1d83646315a7f6bb7</guid>
-      <pubDate>Thu, 30 Jul 2026 10:20:26 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAM de Yerres : les explications de la PMI</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/mam-de-yerres-les-explications-de-la-pmi/</link>
-      <description>Suite à l'accueil en toytale illégalité de 17 enfants dans une MAM de Yerres, La PMI de la commune explique avoir parfaitement respecté la réglementation en vigueur dont elle pointe les lacunes.</description>
-      <guid isPermaLink="false">1726795d1a12d2ebf7e074d87dada555d9396d63627c05aea999012d5adfcb82</guid>
-      <pubDate>Wed, 29 Jul 2026 08:26:38 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,4 +1,87 @@
 {
+  "61b89736b148a77eb53f262a1822709b24bfb1064745e7a38c8a2cef234d92bb": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "ARPEDA : le SPAMAF pose six conditions avant toute généralisation du dispositif",
+    "link": "https://www.lesprosdelapetiteenfance.fr/arpeda-le-spamaf-pose-six-conditions-avant-toute-generalisation-du-dispositif/",
+    "description": "Alors que l’expérimentation ARPEDA vient de débuter dans sept territoires pilotes, le SPAMAF demande qu’aucune généralisation du dispositif ne soit envisagée sans garanties supplémentaires pour les assistantes maternelles.",
+    "published": "2026-09-24T09:34:27+00:00",
+    "first_seen": "2026-09-24T11:49:09.025630+00:00",
+    "uid": "61b89736b148a77eb53f262a1822709b24bfb1064745e7a38c8a2cef234d92bb",
+    "description_checked": true
+  },
+  "3cfbece5f0939b16cb6bb9f5550665a157d9ae2892ee0a451e77b6210c1395e4": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "Petite enfance : le plan d’urgence prévoit 3 millions d’euros pour l’accueil individuel",
+    "link": "https://www.lesprosdelapetiteenfance.fr/petite-enfance-le-plan-durgence-prevoit-3-millions-deuros-pour-laccueil-individuel/",
+    "description": "Le plan d’urgence de 90 millions pour la petite enfance annoncé par la ministre Stéphanie Rist comporte aussi plusieurs mesures en faveur de l’accueil individuel. On fait le point sur ces mesures qui doivent encore être approuvées par le conseil d’administration de la CNAF.",
+    "published": "2026-09-24T08:32:08+00:00",
+    "first_seen": "2026-09-24T11:49:09.025630+00:00",
+    "uid": "3cfbece5f0939b16cb6bb9f5550665a157d9ae2892ee0a451e77b6210c1395e4",
+    "description_checked": true
+  },
+  "ffe5c026e4c25912c282289a8b010c1cecfe0fa9c97fd167ca9c8bd056d444a0": {
+    "source": "Observatoire de la culture",
+    "title": "Refonder un projet de scène conventionnée avec les droits culturels",
+    "link": "https://www.observatoire-culture.net/refonder-projet-scene-conventionnee-droits-culturels/",
+    "description": "Thomas Desmaison dirige, depuis 2020, le Théâtre du Cloître à Bellac (87), labellisé « Scène conventionnée d’intérêt national ». Il y mène, avec son équipe, un projet fondé sur les droits culturels afin qu’advienne une « relation de qualité » entre des personnes et des ressources culturelles. Une approche qui n’est pas sans bousculer des modèles de fonctionnement où la diffusion et la figure centrale du programmateur restent prédominantes.",
+    "published": "2026-09-24T08:39:01+00:00",
+    "first_seen": "2026-09-24T11:49:04.944365+00:00",
+    "uid": "ffe5c026e4c25912c282289a8b010c1cecfe0fa9c97fd167ca9c8bd056d444a0"
+  },
+  "7cb7c71aa9164edd5874e0d777b6a0d031951bf4f1178bfd43091ccd269a3bc2": {
+    "source": "Outre-Mer 360°",
+    "title": "Aérien : Légère hausse du trafic des passagers à l’aéroport de La Réunion de janvier à août",
+    "link": "https://outremers360.com/bassin-indien-appli/aerien-legere-hausse-du-trafic-des-passagers-a-laeroport-de-la-reunion-de-janvier-a-aout",
+    "description": "Entre janvier et août 2026, l’Aéroport La Réunion Roland Garros a accueilli plus de 1,82 million de passagers, hors transit, soit une progression de 1% par rapport à la même période, en 2025. Sur cette même période, le fret à l’export bondit de...",
+    "published": "2026-09-24T11:46:03+00:00",
+    "first_seen": "2026-09-24T11:49:00.004888+00:00",
+    "uid": "7cb7c71aa9164edd5874e0d777b6a0d031951bf4f1178bfd43091ccd269a3bc2"
+  },
+  "164bf5c55bd7729e94216e42ba98e6d19f5053bf0ffea3167dbdea73ba9b2c9b": {
+    "source": "Outre-Mer 360°",
+    "title": "Congrès HLM à Bordeaux : Emmanuel Séraphin défend une adaptation du logement pensée à partir des réalités ultramarines",
+    "link": "https://outremers360.com/bassin-indien-appli/congres-hlm-a-bordeaux-emmanuel-seraphin-defend-une-adaptation-du-logement-pensee-a-partir-des-realites-ultramarines",
+    "description": "À l’occasion du Congrès HLM à Bordeaux, Emmanuel Séraphin, Maire de Saint-Paul et Président du Territoire de l’Ouest, a participé à une table ronde consacrée à l’adaptation du logement au changement climatique. Aux côtés de Claire Goudineau, Directrice...",
+    "published": "2026-09-24T10:50:23+00:00",
+    "first_seen": "2026-09-24T11:49:00.004888+00:00",
+    "uid": "164bf5c55bd7729e94216e42ba98e6d19f5053bf0ffea3167dbdea73ba9b2c9b"
+  },
+  "c22109ac6519726969f17bc004037f30956bff6865cb42425e09cc8914ace260": {
+    "source": "Outre-Mer 360°",
+    "title": "Présidentielle 2027 : Pour la primaire socialiste, Olivier Faure revendique plus de 500 soutiens d’élus, dont 24 en Outre-mer",
+    "link": "https://outremers360.com/bassin-atlantique-appli/presidentielle-2027-pour-la-primaire-socialiste-olivier-faure-revendique-plus-de-500-soutiens-delus-dont-24-en-outre-mer",
+    "description": "Le premier secrétaire général du Parti socialiste et député de Seine-et-Marne revendique plus de 500 soutiens de parlementaires nationaux et européens, conseillers régionaux et départementaux, et maires, à quelques semaines de la primaire socialiste. Parmi ces...",
+    "published": "2026-09-24T10:18:53+00:00",
+    "first_seen": "2026-09-24T11:49:00.004888+00:00",
+    "uid": "c22109ac6519726969f17bc004037f30956bff6865cb42425e09cc8914ace260"
+  },
+  "105990ec82998f4a707d33bb560b914fd84270fa509acf5bfd2259b7bd513bda": {
+    "source": "Outre-Mer 360°",
+    "title": "L'AFD accompagne le projet inclusif Café 21 porté par l'APAJH Guyane",
+    "link": "https://outremers360.com/bassin-atlantique-appli/lafd-accompagne-le-projet-inclusif-cafe-21-porte-par-lapajh-guyane",
+    "description": "À Rémire-Montjoly, le Café 21 accueille des personnes en situation de handicap ou éloignées de l’emploi dans un cadre professionnel réel. Porté par l’Association pour Adultes et Jeunes Handicapés de Guyane (APAJH) et soutenu par l’Agence française de...",
+    "published": "2026-09-24T08:32:43+00:00",
+    "first_seen": "2026-09-24T11:49:00.004888+00:00",
+    "uid": "105990ec82998f4a707d33bb560b914fd84270fa509acf5bfd2259b7bd513bda"
+  },
+  "87fe3b26490a0823594f0f01418fd4f200841ea8867b271a41c3dfb3c19fc5fd": {
+    "source": "Outre-Mer 360°",
+    "title": "Guadeloupe : La brigade nautique de Gourbeyre de nouveau opérationnelle",
+    "link": "https://outremers360.com/bassin-atlantique-appli/guadeloupe-la-brigade-nautique-de-gourbeyre-de-nouveau-operationnelle",
+    "description": "La préfecture de Guadeloupe a annoncé ce mercredi 23 septembre la remise en service de la brigade nautique de Gourbeyre. Composée de huit militaires, elle doit renforcer la surveillance du littoral, lutter contre les activités illicites en mer et intervenir plus rapidement...",
+    "published": "2026-09-24T08:27:05+00:00",
+    "first_seen": "2026-09-24T11:49:00.004888+00:00",
+    "uid": "87fe3b26490a0823594f0f01418fd4f200841ea8867b271a41c3dfb3c19fc5fd"
+  },
+  "06aece66ed2cd7a456cc63f800926f9a10d4d5d787500020f8b2fcdc72bad5bc": {
+    "source": "Outre-Mer 360°",
+    "title": "Grand entretien. Alexis Chaussalet, maire du Tampon à La Réunion : « Le plus important, c’est d’être sur le terrain auprès des administrés »",
+    "link": "https://outremers360.com/bassin-indien-appli/grand-entretien-alexis-chaussalet-maire-du-tampon-a-la-reunion",
+    "description": "Il y a un peu plus d’un an, le 21 septembre 2025, Alexis Chaussalet lançait sa campagne pour les municipales dans la commune du Tampon, sur l’île de La Réunion, avec la volonté « d'être sur le terrain, à la rencontre des gens et ne jamais s'en...",
+    "published": "2026-09-24T07:10:04+00:00",
+    "first_seen": "2026-09-24T11:49:00.004888+00:00",
+    "uid": "06aece66ed2cd7a456cc63f800926f9a10d4d5d787500020f8b2fcdc72bad5bc"
+  },
   "aea94c0a15d800f38c1ad9028078b7131e273418057888901fd722fbc1b8a27e": {
     "source": "ANAP - Actualités",
     "title": "Masterclass IA : Révélez le potentiel de l’IA pour votre établissement",
