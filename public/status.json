@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-25T11:54:15.814220+00:00",
+  "generated_at": "2026-09-25T17:14:48.566572+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 14,
-  "merged_items": 420,
+  "new_items": 3,
+  "merged_items": 421,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -80,7 +80,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 55,
+      "items": 56,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
