@@ -8,7 +8,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 23 Sep 2026 11:56:34 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 24 Sep 2026 14:11:39 +0000</lastBuildDate>
+    <item>
+      <title>Webinaire "Sécurisez le coût de vos projets immobiliers : 90min pour maîtriser les outils de l’Anap"</title>
+      <link>https://www.anap.fr/s/article/webinaire-securisez-cout-projets-immobiliers-90mn-pour-maitriser-outils-anap</link>
+      <description>2 outils au programme : OSCIMES®, pour comparer et estimer vos coûts prévisionnels, et un simulateur financier pour structurer et sécuriser vos projets d’investissement.</description>
+      <guid isPermaLink="false">d7dc9426f46cd191dfc412a4cb888afa09127e956b6a599f303ae9d079dbe3ae</guid>
+      <pubDate>Thu, 24 Sep 2026 14:11:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire - La Data au Bloc opératoire : des données aux indicateurs de performance</title>
+      <link>https://www.anap.fr/s/article/la-data-au-bloc-operatoire-des-donnees-aux-indicateurs-de-performance</link>
+      <description>Taux d’occupation, taux de débordement, démarrages tardifs… Vous souhaitez piloter de façon automatisée la performance de votre bloc opératoire ? L’Anap vous invite lors d’un webinaire inédit à découvrir sa nouvelle application « DATA » dédiée au bloc opératoire.</description>
+      <guid isPermaLink="false">b8d14f5b9bb70e1badc7dabb0bfab92f289329e7118d4bab8a89850498e88cd4</guid>
+      <pubDate>Thu, 24 Sep 2026 13:42:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webconférence – Admission J0 : moins de nuitées, plus de fluidité</title>
+      <link>https://www.anap.fr/s/article/Webconf%C3%A9rence-Admission-J0-moins-de-nuitees-plus-de-fluidite</link>
+      <description>L’admission le jour même de l'intervention chirurgicale, ou admission J0, est bénéfique pour le patient, l’établissement et les professionnels. Elle peut être mise en place grâce à une organisation adaptée. Comment réussir sa mise en place ? Comment évaluer son potentiel ? Comment embarquer les équipes ?</description>
+      <guid isPermaLink="false">9e487995a3b4bcee22754ac5809bb54638c3b8223642f2a397da7ea9dca7c1da</guid>
+      <pubDate>Thu, 24 Sep 2026 13:42:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
+      <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
+      <description>La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.</description>
+      <guid isPermaLink="false">f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5</guid>
+      <pubDate>Thu, 24 Sep 2026 08:50:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Septembre Bouge : partagez les initiatives positives des référents APS en ESMS</title>
+      <link>https://www.anap.fr/s/article/septembre-bouge-partagez-les-initiatives-positives-des-referents-aps-en-esms</link>
+      <description>Selon l'Anses, 95 % des adultes en France sont exposés à un risque pour leur santé faute d'activité physique suffisante. Dans les établissements et services médico-sociaux, les référents Activité Physique et Sportive (APS), lorsqu'ils sont désignés, contribuent à développer de nombreuses initiatives pour favoriser le mouvement au quotidien. C'est pourquoi, à l'occasion du mois Septembre Bouge, l'Anap lance un nouvel appel à manifestation d'intérêt pour identifier et valoriser ces initiatives.</description>
+      <guid isPermaLink="false">5de7c378fee20243a408e1276c9ae64f5f3c8cc701f2c15e543dbfa32063381a</guid>
+      <pubDate>Thu, 24 Sep 2026 08:48:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Soins éco‑responsables : une mobilisation massive et de nouvelles ressources</title>
+      <link>https://www.anap.fr/s/article/soins-eco-responsables-une-mobilisation-massive-et-de-nouvelles-ressources</link>
+      <description>Les soins éco-responsables sont le premier levier de décarbonation du secteur de la santé : pour accélérer cette transition, l'Anap publie de nouvelles ressources et a organisé un évènement dédié.</description>
+      <guid isPermaLink="false">d5b3600304871c8a6ce12b3cbda667097aa3595adf3230bd5bf3e9d4b37b7af5</guid>
+      <pubDate>Thu, 24 Sep 2026 08:11:05 +0000</pubDate>
+    </item>
     <item>
       <title>Masterclass IA : Révélez le potentiel de l’IA pour votre établissement</title>
       <link>https://www.anap.fr/s/article/masterclass-ia-etablissements-sanitaires-medico-sociaux</link>
@@ -115,13 +157,6 @@
       <pubDate>Fri, 11 Sep 2026 07:45:03 +0000</pubDate>
     </item>
     <item>
-      <title>Septembre Bouge : partagez les initiatives positives des référents APS en ESMS</title>
-      <link>https://www.anap.fr/s/article/septembre-bouge-partagez-les-initiatives-positives-des-referents-aps-en-esms</link>
-      <description>Selon l'Anses, 95 % des adultes en France sont exposés à un risque pour leur santé faute d'activité physique suffisante. Dans les établissements et services médico-sociaux, les référents Activité Physique et Sportive (APS), lorsqu'ils sont désignés, contribuent à développer de nombreuses initiatives pour favoriser le mouvement au quotidien. C'est pourquoi, à l'occasion du mois Septembre Bouge, l'Anap lance un nouvel appel à manifestation d'intérêt pour identifier et valoriser ces initiatives.</description>
-      <guid isPermaLink="false">5de7c378fee20243a408e1276c9ae64f5f3c8cc701f2c15e543dbfa32063381a</guid>
-      <pubDate>Wed, 09 Sep 2026 16:07:24 +0000</pubDate>
-    </item>
-    <item>
       <title>Canicule : les réflexes à adopter</title>
       <link>https://www.anap.fr/s/article/canicule-les-reflexes-a-adopter</link>
       <description>La canicule s'abat de nouveau sur la France : quels réflexes adopter au sein de vos établissements sanitaires et médico-sociaux ? L’Anap récapitule des mesures concrètes pour protéger les personnes prises en charge, vos équipes et votre établissement à court et long termes.</description>
@@ -141,13 +176,6 @@
       <description>L'objectif de l'autodiagnostic est de permettre aux professionnels des services d'urgences de : Réaliser un diagnostic qualitatif de l'organisation et du fonctionnement de leur service d'urgences.</description>
       <guid isPermaLink="false">3d951826e9810858fae8ca9582960e644c4ec250d2e86aa30966fb6aa837835b</guid>
       <pubDate>Wed, 09 Sep 2026 15:48:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
-      <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
-      <description>La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.</description>
-      <guid isPermaLink="false">f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5</guid>
-      <pubDate>Wed, 09 Sep 2026 15:37:15 +0000</pubDate>
     </item>
     <item>
       <title>Augmentez votre taux de chirurgie ambulatoire en optimisant vos ressources</title>
@@ -176,13 +204,6 @@
       <description>La carte postale de demain fait son retour cet été : 4 nouveaux épisodes courts pour explorer les futurs possibles du système de santé, entre scénarios prospectifs, inspirations internationales et éclairages d’experts. Un podcast pour penser loin, même en vacances.</description>
       <guid isPermaLink="false">58ce0820307dde6f78186c3abbac9bc7bbb7accf5feb0e4ac687c546b96069b0</guid>
       <pubDate>Tue, 08 Sep 2026 15:44:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Soins éco‑responsables : une mobilisation massive et de nouvelles ressources</title>
-      <link>https://www.anap.fr/s/article/soins-eco-responsables-une-mobilisation-massive-et-de-nouvelles-ressources</link>
-      <description>Les soins éco-responsables sont le premier levier de décarbonation du secteur de la santé : pour accélérer cette transition, l'Anap publie de nouvelles ressources et a organisé un évènement dédié.</description>
-      <guid isPermaLink="false">d5b3600304871c8a6ce12b3cbda667097aa3595adf3230bd5bf3e9d4b37b7af5</guid>
-      <pubDate>Tue, 08 Sep 2026 15:43:39 +0000</pubDate>
     </item>
     <item>
       <title>Recettes hospitalières : modernisation des moyens de paiement</title>
@@ -225,13 +246,6 @@
       <description>Découvrez "Repères Dimensionnels DSI", un outil simple et opérationnel pour construire un système d'information dimensionné à votre regroupement d’établissements de santé et gagnez en efficacité !</description>
       <guid isPermaLink="false">af08e4100c87766465a35cfa2f71a65118b4425cbb86717948e0cef135883967</guid>
       <pubDate>Thu, 03 Sep 2026 14:19:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webconférence – Admission J0 : moins de nuitées, plus de fluidité</title>
-      <link>https://www.anap.fr/s/article/Webconf%C3%A9rence-Admission-J0-moins-de-nuitees-plus-de-fluidite</link>
-      <description>L’admission le jour même de l'intervention chirurgicale, ou admission J0, est bénéfique pour le patient, l’établissement et les professionnels. Elle peut être mise en place grâce à une organisation adaptée. Comment réussir sa mise en place ? Comment évaluer son potentiel ? Comment embarquer les équipes ?</description>
-      <guid isPermaLink="false">9e487995a3b4bcee22754ac5809bb54638c3b8223642f2a397da7ea9dca7c1da</guid>
-      <pubDate>Thu, 03 Sep 2026 12:13:43 +0000</pubDate>
     </item>
     <item>
       <title>Laboratoire d’innovation : Un cadre et une méthode pour la transformation de votre établissement</title>
@@ -414,20 +428,6 @@
       <description>Vous souhaitez faire de votre établissement un acteur du développement social local ? Réalisé en collaboration avec l’association FP21, ce guide vous donne des outils pratiques, des conseils et des exemples inspirants pour concrétiser vos projets d’innovation sociale.</description>
       <guid isPermaLink="false">c6f0f3ebce0a8f51b71715c2ee86057b991c6dc641343415a281beae81624071</guid>
       <pubDate>Tue, 21 Jul 2026 06:12:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Boîte à outils Innovation collaborative</title>
-      <link>https://www.anap.fr/s/article/boite-a-outil-innovation-collaborative</link>
-      <description>La boîte à outils "innovation collaborative" propose des outils pratiques pour mobiliser les démarches de design et d'innovation au service de vos projets. Conçue pour être utilisée tout au long d’une démarche collaborative, vous y trouverez une méthodologie, des conseils et des canevas prêts à l’emploi.</description>
-      <guid isPermaLink="false">77dda2d59e428d7cbb11c11b60fe43e5642d35c84f9a4ce490421528b5f10fed</guid>
-      <pubDate>Tue, 21 Jul 2026 06:11:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Article 51 EDS, IPEP et PEPS : premiers mois de mise en oeuvre des 3 expérimentations</title>
-      <link>https://www.anap.fr/s/article/parcours-publication-2765</link>
-      <description>Cette publication tire les premiers enseignements de la mise en œuvre des trois expérimentations nationales EDS, IPEP et PEPS, un an après leur lancement, et propose une synthèse des points clés de leur démarrage.</description>
-      <guid isPermaLink="false">dd7e05b3360fee05cce68354a5db228a02a19e2b50935eda582662dc1e1c8d02</guid>
-      <pubDate>Tue, 21 Jul 2026 06:11:01 +0000</pubDate>
     </item>
   </channel>
 </rss>
