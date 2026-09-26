@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sat, 26 Sep 2026 11:16:54 +0000</lastBuildDate>
+    <lastBuildDate>Sat, 26 Sep 2026 11:34:59 +0000</lastBuildDate>
+    <item>
+      <title>Haïti, pays invité d’honneur de la 10ème édition du Salon de la Gastronomie de l’Outre-mer et des cuisines du monde</title>
+      <link>https://outremers360.com/bassin-atlantique-appli/haiti-pays-invite-dhonneur-de-la-10eme-edition-du-salon-de-la-gastronomie-de-loutre-mer-et-des-cuisines-du-monde</link>
+      <description>Porté par une nouvelle gouvernance, le Salon de la Gastronomie de l’Outre-mer et des cuisines du monde, s’apprête à célébrer son dixième anniversaire en grandes pompes les 2, 3 et 4 octobre 2026 au Pavillon Gravelle, à Paris, avec comme invité d’honneur Haïti. Une...</description>
+      <guid isPermaLink="false">acd9bfea1ff18a4e7d8d86680251ab2b302d17c289dea7f2906d7ff5642b3dbe</guid>
+      <pubDate>Sat, 26 Sep 2026 11:34:59 +0000</pubDate>
+    </item>
     <item>
       <title>Aérien : Il y a 40 ans, Air France opérait en propre son premier vol entre Paris et Tahiti</title>
       <link>https://outremers360.com/bassin-pacifique-appli/aerien-il-y-a-40-ans-air-france-operait-en-propre-son-premier-vol-entre-paris-et-tahiti</link>
@@ -421,13 +428,6 @@
       <description>Le champion de MMA d'origine guadeloupéenne Ciryl Gane est le premier Français champion d'UFC poids lourd. Sacré samedi 19 septembre, son adversaire Tom Aspinall a du renoncer au titre, à la suite de blessures à l'œil causées par leur affrontement en octobre 2025....</description>
       <guid isPermaLink="false">3ea24a28b0994a8091bf43e057fbc8ec4c2e3e2419dc5d697baa0106593b798d</guid>
       <pubDate>Mon, 21 Sep 2026 08:41:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>À Mayotte, une charbonnière illégale détruite à Bandraboua</title>
-      <link>https://outremers360.com/bassin-indien-appli/a-mayotte-une-charbonniere-illegale-detruite-a-bandraboua</link>
-      <description>Une opération menée le 14 septembre 2026 à Bandraboua a conduit à la destruction d’une charbonnière illégale et à la saisie de plus de 7,5 m³ de charbon de bois. Depuis le début de l’année, cinq installations de ce type ont été détruites à Mayotte. La...</description>
-      <guid isPermaLink="false">f7a3c5b0fe12359fea861bb96a07ea105285e8922b0fe067fc4c4f740e16f242</guid>
-      <pubDate>Mon, 21 Sep 2026 08:11:52 +0000</pubDate>
     </item>
   </channel>
 </rss>
