@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 24 Sep 2026 14:11:39 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 25 Sep 2026 15:18:51 +0000</lastBuildDate>
+    <item>
+      <title>Masterclass Besoin en Fonds de Roulement pour les établissements sanitaires</title>
+      <link>https://www.anap.fr/s/article/masterclass-bfr-etablissements-sanitaires-optimiser-tresorerie</link>
+      <description>Face aux tensions de trésorerie, l’optimisation du Besoin en Fonds de Roulement (BFR) est un levier essentiel de performance financière. Gestion des échéances, pilotage des stocks, définition et suivi d’indicateurs financiers... Découvrez les techniques qui permettent de sécuriser le BFR.</description>
+      <guid isPermaLink="false">db9f7e17a9a770c41b55b1d738eee69fda8614a9817ab4090495fdc234997da1</guid>
+      <pubDate>Fri, 25 Sep 2026 15:18:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Masterclass Soins Critiques : transformez vos unités</title>
+      <link>https://www.anap.fr/s/article/masterclass-soins-critiques-transformez-vos-unites</link>
+      <description>Vous devez mettre en conformité vos unités de soins critiques avec la réforme des autorisations ? Cette masterclass vous permet de maîtriser les nouveaux décrets, d'organiser vos équipes médicales et paramédicales et d'adapter votre offre de soins critiques aux exigences réglementaires.</description>
+      <guid isPermaLink="false">6f5d29940362a18384380eb41f147eafbd57f2782f617a184747c1ad9ab51807</guid>
+      <pubDate>Fri, 25 Sep 2026 12:20:11 +0000</pubDate>
+    </item>
     <item>
       <title>Webinaire "Sécurisez le coût de vos projets immobiliers : 90min pour maîtriser les outils de l’Anap"</title>
       <link>https://www.anap.fr/s/article/webinaire-securisez-cout-projets-immobiliers-90mn-pour-maitriser-outils-anap</link>
@@ -353,13 +367,6 @@
       <pubDate>Thu, 23 Jul 2026 09:11:04 +0000</pubDate>
     </item>
     <item>
-      <title>Masterclass Besoin en Fonds de Roulement pour les établissements sanitaires</title>
-      <link>https://www.anap.fr/s/article/masterclass-bfr-etablissements-sanitaires-optimiser-tresorerie</link>
-      <description>Face aux tensions de trésorerie, l’optimisation du Besoin en Fonds de Roulement (BFR) est un levier essentiel de performance financière. Gestion des échéances, pilotage des stocks, définition et suivi d’indicateurs financiers... Découvrez les techniques qui permettent de sécuriser le BFR.</description>
-      <guid isPermaLink="false">db9f7e17a9a770c41b55b1d738eee69fda8614a9817ab4090495fdc234997da1</guid>
-      <pubDate>Wed, 22 Jul 2026 13:00:35 +0000</pubDate>
-    </item>
-    <item>
       <title>Télémédecine : retour d'expérience sur la permanence des soins en imagerie</title>
       <link>https://www.anap.fr/s/article/numerique-publication-1580</link>
       <description>La radiologie est une discipline qui, ne nécessitant pas la présence du patient pour la réalisation de l'acte d'interprétation, se prête bien à la télémédecine. Cette publication capitalise sur l'expérience des trois projets pilotes du plan national de télémédecine.</description>
@@ -421,13 +428,6 @@
       <description>Coordination territoriale des urgences, attractivité et fidélisation des professionnels, gouvernance de la transition écologique… Sur le terrain, l’Anap constate que l’innovation collaborative est déterminante pour débloquer les situations complexes, restaurer la coopération et remobiliser les équipes. Découvrez le nouveau guide dédié à l’innovation collaborative, accompagné de six retours d’expériences éprouvés.</description>
       <guid isPermaLink="false">d82f188670ce9276f5da644c46e4c03c98ea17e902c78c9965296405fe77c978</guid>
       <pubDate>Tue, 21 Jul 2026 06:12:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Devenir un établissement à impact : approche et cas concrets</title>
-      <link>https://www.anap.fr/s/article/devenir-un-etablissement-a-impact</link>
-      <description>Vous souhaitez faire de votre établissement un acteur du développement social local ? Réalisé en collaboration avec l’association FP21, ce guide vous donne des outils pratiques, des conseils et des exemples inspirants pour concrétiser vos projets d’innovation sociale.</description>
-      <guid isPermaLink="false">c6f0f3ebce0a8f51b71715c2ee86057b991c6dc641343415a281beae81624071</guid>
-      <pubDate>Tue, 21 Jul 2026 06:12:06 +0000</pubDate>
     </item>
   </channel>
 </rss>

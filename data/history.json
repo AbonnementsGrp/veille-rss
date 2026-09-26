@@ -1,4 +1,16 @@
 {
+  "6f5d29940362a18384380eb41f147eafbd57f2782f617a184747c1ad9ab51807": {
+    "source": "ANAP - Actualités",
+    "title": "Masterclass Soins Critiques : transformez vos unités",
+    "link": "https://www.anap.fr/s/article/masterclass-soins-critiques-transformez-vos-unites",
+    "description": "Vous devez mettre en conformité vos unités de soins critiques avec la réforme des autorisations ? Cette masterclass vous permet de maîtriser les nouveaux décrets, d'organiser vos équipes médicales et paramédicales et d'adapter votre offre de soins critiques aux exigences réglementaires.",
+    "published": "2026-09-25T12:20:11+00:00",
+    "first_seen": "2026-09-26T05:01:07.802464+00:00",
+    "uid": "6f5d29940362a18384380eb41f147eafbd57f2782f617a184747c1ad9ab51807",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "b63fc481dd3c867dabeb5a4242663f45ab200f538e96f4438df8848ffdff2879": {
     "source": "Localtis - Jeunesse, éducation et formation",
     "title": "Rentrée universitaire 2026 : au-delà du repas à 1 euro, du logement… Philippe Baptiste ouvre le débat sur l'avenir de l'université",
@@ -3599,7 +3611,7 @@
     "title": "Masterclass Besoin en Fonds de Roulement pour les établissements sanitaires",
     "link": "https://www.anap.fr/s/article/masterclass-bfr-etablissements-sanitaires-optimiser-tresorerie",
     "description": "Face aux tensions de trésorerie, l’optimisation du Besoin en Fonds de Roulement (BFR) est un levier essentiel de performance financière. Gestion des échéances, pilotage des stocks, définition et suivi d’indicateurs financiers... Découvrez les techniques qui permettent de sécuriser le BFR.",
-    "published": "2026-07-22T13:00:35+00:00",
+    "published": "2026-09-25T15:18:51+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "db9f7e17a9a770c41b55b1d738eee69fda8614a9817ab4090495fdc234997da1",
     "description_checked": true,
