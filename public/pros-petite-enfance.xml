@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 27 Sep 2026 08:25:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 08:29:42 +0000</lastBuildDate>
+    <item>
+      <title>Bronchiolite : la saison a démarré</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/bronchiolite-la-saison-a-demarre/</link>
+      <description>Les passages aux urgences pour bronchiolite augmentent chez les nourrissons de moins d’un an, a signalé cette semaine le réseau Oscour. Leur niveau reste toutefois légèrement inférieur à celui observé...</description>
+      <guid isPermaLink="false">1dcf9723ee9b5b2c141ac676b03bc1125951ea96265abccccac0e4e5d2e2481a</guid>
+      <pubDate>Mon, 28 Sep 2026 08:29:42 +0000</pubDate>
+    </item>
     <item>
       <title>Sommeil des tout-petits : se coucher tôt fait-il grandir ?</title>
       <link>https://www.lesprosdelapetiteenfance.fr/sommeil-des-tout-petits-se-coucher-tot-fait-il-grandir/</link>
@@ -393,13 +400,6 @@
       <description>Une revue systématique publiée en juillet 2026 s’est penchée sur les méthodes utilisées dans les structures d’accueil pour favoriser le sommeil des jeunes enfants. Sur plus de 3 500 publications...</description>
       <guid isPermaLink="false">8f6b1986bb0de74800114a123b8710f75544008e6120aeb83c2ce26a88766d5b</guid>
       <pubDate>Wed, 05 Aug 2026 07:54:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Santé mentale des enfants : l’imprévisibilité du quotidien, un signal à ne pas négliger</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/sante-mentale-des-enfants-limprevisibilite-du-quotidien-un-signal-a-ne-pas-negliger/</link>
-      <description>Une étude menée auprès de près de 30 000 enfants et adolescents montre que l’imprévisibilité du quotidien est associée à un risque accru de troubles de santé mentale.</description>
-      <guid isPermaLink="false">72e9fd2bfa7ea3bfb73536212696f1f0ba58fca762b5887134b7f3843b52c1f5</guid>
-      <pubDate>Tue, 04 Aug 2026 10:47:51 +0000</pubDate>
     </item>
   </channel>
 </rss>

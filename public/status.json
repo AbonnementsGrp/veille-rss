@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-09-27T21:23:18.376905+00:00",
+  "generated_at": "2026-09-28T13:59:23.763821+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 2,
+  "new_items": 11,
   "merged_items": 422,
   "themes": [
     "ANTIGUA",
@@ -114,7 +114,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 222 jours (seuil : 60)"
+        "rien de neuf depuis 223 jours (seuil : 60)"
       ]
     },
     {
@@ -172,7 +172,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 906 jours (seuil : 60)"
+        "rien de neuf depuis 907 jours (seuil : 60)"
       ]
     },
     {
