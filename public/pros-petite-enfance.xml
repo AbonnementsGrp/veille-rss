@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 29 Sep 2026 08:36:05 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 29 Sep 2026 10:48:58 +0000</lastBuildDate>
+    <item>
+      <title>Girafes Awards 2026 : remise des 25 trophées le 12 octobre</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/girafes-awards-2026-remise-des-25-trophees-le-12-octobre/</link>
+      <description>Plus de 170 projets ont été soumis au jury des Girafes Awards cette année. Le 12 octobre, les lauréats de cette 13e édition, consacrée au thème « Des équilibres », seront récompensés.</description>
+      <guid isPermaLink="false">65a0ea6fd1324db92ab6f61ca54e32b13843958efd4acffa210fc94fdc2ac8d8</guid>
+      <pubDate>Tue, 29 Sep 2026 10:48:58 +0000</pubDate>
+    </item>
+    <item>
+      <title>Repas des tout-petits : des nutriments mais aussi des contaminants</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/repas-des-tout-petits-des-nutriments-mais-aussi-des-contaminants/</link>
+      <description>Si l’alimentation apporte les nutriments indispensables à la croissance et au développement de l’enfant, elle peut aussi être une source d’exposition à certains contaminants. Présents dans les sols, l’eau ou...</description>
+      <guid isPermaLink="false">abc8f8eae5bebdc1eb10435254a447f84f3beea9b4e294a01b8c868973c7a31a</guid>
+      <pubDate>Tue, 29 Sep 2026 10:16:57 +0000</pubDate>
+    </item>
     <item>
       <title>Enquête Filoué 2024 : ce que révèlent les dernières données de la CNAF sur les modes d’accueil</title>
       <link>https://www.lesprosdelapetiteenfance.fr/enquete-filoue-2024-ce-que-revelent-les-dernieres-donnees-de-la-cnaf-sur-les-modes-daccueil/</link>
@@ -386,20 +400,6 @@
       <description>Six établissements du réseau de crèches privées Callihop ont été fermés en urgence dans le Nord-Isère à la fin du mois de juillet 2026.</description>
       <guid isPermaLink="false">418bf9bc8c3070ca215e76ea74c39e52b03196a979ff548905fe7fae720d9881</guid>
       <pubDate>Fri, 07 Aug 2026 09:15:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Entre 6 mois et 3 ans, les tout-petits explorent déjà comme des scientifiques</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/entre-6-mois-et-3-ans-les-tout-petits-explorent-deja-comme-des-scientifiques/</link>
-      <description>Une étude réalisée en crèche décortique les phases du comportement exploratoire des jeunes enfants entre six mois et trois ans</description>
-      <guid isPermaLink="false">c494c68219fef402aae56e52dfbaab4315e863c1c915c62885530b9f63807d4a</guid>
-      <pubDate>Fri, 07 Aug 2026 08:24:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Le tempérament des enfants a aussi une composante génétique</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/le-temperament-des-enfants-a-aussi-une-composante-genetique/</link>
-      <description>Une vaste étude internationale publiée dans Nature Human Behaviour montre que certaines différences de tempérament observées chez les enfants au cours de leurs trois premières années de vie sont en partie associées à des variations génétiques.</description>
-      <guid isPermaLink="false">335770f434f55f0f0aa9fd6d063b41ce7a0491f6e937954d3ab140ca28c7c68a</guid>
-      <pubDate>Thu, 06 Aug 2026 07:59:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
