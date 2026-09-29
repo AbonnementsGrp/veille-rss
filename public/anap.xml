@@ -8,7 +8,84 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 25 Sep 2026 15:18:51 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 28 Sep 2026 14:08:45 +0000</lastBuildDate>
+    <item>
+      <title>Votre Cockpit Data Bloc</title>
+      <link>https://www.anap.fr/s/article/votre-cockpit-data-blocs</link>
+      <description>Dédiés aux différents volets de la performance, pour accompagner la transformation des établissements sanitaires et médico-sociales.</description>
+      <guid isPermaLink="false">40ef6d86effb247af8b2c3a54fb9e3933916c928ef159d5906bcabb383fd34dc</guid>
+      <pubDate>Mon, 28 Sep 2026 14:08:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>EHPAD autosuffisant en énergie : guide et simulateur</title>
+      <link>https://www.anap.fr/s/article/ehpad-autosuffisant-en-energie-guide-et-simulateur</link>
+      <description>Face au réchauffement climatique, les EHPAD sont de plus en plus vulnérables. L’Anap propose un guide qui modélise un EHPAD capable de produire, stocker et piloter son énergie de façon autonome. Un simulateur est disponible pour évaluer les scénarios de rénovation, estimer les investissements et coûts associés.</description>
+      <guid isPermaLink="false">9977f3dcd2572e4b514d17b0b659a99e88c400dee4d2d4874e87ddcd720299d2</guid>
+      <pubDate>Mon, 28 Sep 2026 14:07:20 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mon Simulateur Ambulatoire</title>
+      <link>https://www.anap.fr/s/article/mon-simulateur-ambulatoire</link>
+      <description>Découvrez notre outil en ligne pour simuler une journée type en ambulatoire, visualiser les flux patients, tester différents scénarios et ajuster le dimensionnement en ressources. Une aide rapide pour optimiser l’organisation et améliorer la fluidité du parcours.</description>
+      <guid isPermaLink="false">5ab28ead887b45392b20189d61659c9a74484a82f1e90d0bc14e5a0496f8ad83</guid>
+      <pubDate>Mon, 28 Sep 2026 14:05:48 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transformation de l’offre médico-sociale : vers une offre de services coordonnés</title>
+      <link>https://www.anap.fr/s/article/transformer-offre-services-coordonnes-guide-pratique-boite-outils</link>
+      <description>Découvrez les outils et repères méthodologiques pour accompagner les acteurs du secteur médico-social dans leur démarche de transformation vers une offre de services coordonnés.</description>
+      <guid isPermaLink="false">8a01ba08aab131b97fc17dad2df397a5eecc493e6b258326f888b84f65b6954e</guid>
+      <pubDate>Mon, 28 Sep 2026 14:05:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Score.DD.Réglementation : évaluez votre conformité en développement durable</title>
+      <link>https://www.anap.fr/s/article/score-dd-reglementation-conformite-developpement-durable</link>
+      <description>Vous souhaitez évaluer vos connaissances sur la réglementation environnementale ? Score.DD.Réglementation est un outil d'autodiagnostic qui vous permet de mesurer rapidement votre niveau de conformité.</description>
+      <guid isPermaLink="false">b0e418ce44bdd21d00c8a96bbc389ac2f0ff1a4f41c26bc1acd362068a6fcd2f</guid>
+      <pubDate>Mon, 28 Sep 2026 14:01:31 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sur les traces du Développement Durable » : support d’animation d’ateliers</title>
+      <link>https://www.anap.fr/s/article/sur-les-traces-du-developpement-durable-support-d-animation-d-ateliers</link>
+      <description>Dédiés aux différents volets de la performance, pour accompagner la transformation des établissements sanitaires et médico-sociales.</description>
+      <guid isPermaLink="false">6bbc35e98e44053b9c2d7f97fb1911e363830326af97119618c40566d348e6ab</guid>
+      <pubDate>Mon, 28 Sep 2026 13:58:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>HAD de Réadaptation : deux équipes, un seul objectif</title>
+      <link>https://www.anap.fr/s/article/had-de-readaptation-deux-equipes-un-seul-objectif</link>
+      <description>L'Anap vous propose une lecture simplifiée de l’HAD Réadaptation permettant aux équipes de se lancer dans le projet.</description>
+      <guid isPermaLink="false">2886310c1c7b1bb9e6de293fda815fde19ce72bfb8b6a35fdcbd28785e3484d6</guid>
+      <pubDate>Mon, 28 Sep 2026 13:55:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le premier référentiel national pour une imagerie et une radiologie éco-responsables</title>
+      <link>https://www.anap.fr/s/article/r%C3%A9f%C3%A9rentiel-national-imagerie-radiologie-%C3%A9co-responsables</link>
+      <description>L'imagerie médicale représente un gisement d'actions concrètes pour réduire l'empreinte environnementale des établissements de santé. Ce référentiel national, fruit d'une collaboration entre l'Anap, la SFR et le CERES, vous donne les clés pour passer à l'action de manière éco-responsable.</description>
+      <guid isPermaLink="false">767d56ab80512542c07ac3d0808a8f484a2778b291e42a4caf365a052a75b3cc</guid>
+      <pubDate>Mon, 28 Sep 2026 13:52:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Réformer l'offre de soins : ce que l'Europe nous dit</title>
+      <link>https://www.anap.fr/s/article/reformer-l-offre-de-soins-ce-que-l-europe-nous-dit</link>
+      <description>Au cours des vingt dernières années, de nombreux pays européens ont engagé des réformes d’ampleur de leur système de santé. L’Anap a étudié les réformes menées dans 6 pays européens pour en comprendre les tenants et aboutissants</description>
+      <guid isPermaLink="false">4a41941a2245b158758c575dff8ed523f0e6933fd33f04fb37ce6ecf0a06a4eb</guid>
+      <pubDate>Mon, 28 Sep 2026 13:51:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recruter, fidéliser : tout se joue dès le berceau</title>
+      <link>https://www.anap.fr/s/article/guide-petite-enfance</link>
+      <description>Ce guide pratique est à destination des directions et équipes RH pour développer une politique d’accueil du jeune enfant. Il permet lever les freins à l’emploi et renforcer l’attractivité, la fidélisation et la qualité de vie au travail, grâce à des méthodes et retours d’expérience.</description>
+      <guid isPermaLink="false">19636bc2b3a01701c3eb1c8268053a274f1a1e36ab08ef4aafde4e76a54f600c</guid>
+      <pubDate>Mon, 28 Sep 2026 13:49:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les étapes clés pour une démarche d'éco-conception des soins réussie</title>
+      <link>https://www.anap.fr/s/article/les-etapes-cles-pour-une-demarche-d-eco-conception-des-soins-reussie</link>
+      <description>Conçue avec le CHU de Bordeaux et le Collectif pour l'écoresponsabilité en santé (CERES), cette checklist visuelle offre pour la première fois aux équipes soignantes et aux directions un cadre méthodologique clair et opérationnel pour déployer une démarche d'écoconception des soins.</description>
+      <guid isPermaLink="false">a1d2bb2acd7be6a1d2fe1114009353c870c350de98b296e17c9129fe4351be45</guid>
+      <pubDate>Mon, 28 Sep 2026 13:48:37 +0000</pubDate>
+    </item>
     <item>
       <title>Masterclass Besoin en Fonds de Roulement pour les établissements sanitaires</title>
       <link>https://www.anap.fr/s/article/masterclass-bfr-etablissements-sanitaires-optimiser-tresorerie</link>
@@ -122,13 +199,6 @@
       <pubDate>Mon, 21 Sep 2026 07:54:01 +0000</pubDate>
     </item>
     <item>
-      <title>Votre Cockpit Data Bloc</title>
-      <link>https://www.anap.fr/s/article/votre-cockpit-data-blocs</link>
-      <description>Dédiés aux différents volets de la performance, pour accompagner la transformation des établissements sanitaires et médico-sociales.</description>
-      <guid isPermaLink="false">40ef6d86effb247af8b2c3a54fb9e3933916c928ef159d5906bcabb383fd34dc</guid>
-      <pubDate>Wed, 16 Sep 2026 07:50:32 +0000</pubDate>
-    </item>
-    <item>
       <title>Webinaire Score.DD : maîtrisez l’outil de pilotage de votre transition écologique</title>
       <link>https://www.anap.fr/s/article/score-dd-webinaire-evaluer-transition-ecologique</link>
       <description>Score.DD, plus qu'un simple autodiagnostic : un levier stratégique pour accélérer votre transition écologique ! Évaluez vos pratiques, structurez votre démarche et pilotez vos actions RSE en toute simplicité. Découvrez et maîtrisez toutes ses fonctionnalités lors de notre webinaire dédié.</description>
@@ -148,13 +218,6 @@
       <description>À l’occasion de la publication de son guide, l’Anap propose une série de webinaires consacrés à la réorientation depuis les services d’urgences. Ces rendez-vous ont pour objectif d’accompagner la mise en place d’une dynamique territoriale, afin d’améliorer l’orientation des patients et la coordination entre les différents acteurs.</description>
       <guid isPermaLink="false">8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c</guid>
       <pubDate>Tue, 15 Sep 2026 07:50:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sur les traces du Développement Durable » : support d’animation d’ateliers</title>
-      <link>https://www.anap.fr/s/article/sur-les-traces-du-developpement-durable-support-d-animation-d-ateliers</link>
-      <description>Dédiés aux différents volets de la performance, pour accompagner la transformation des établissements sanitaires et médico-sociales.</description>
-      <guid isPermaLink="false">6bbc35e98e44053b9c2d7f97fb1911e363830326af97119618c40566d348e6ab</guid>
-      <pubDate>Fri, 11 Sep 2026 14:08:04 +0000</pubDate>
     </item>
     <item>
       <title>Animaux en Ehpad : deux fiches pratiques pour accompagner les établissements</title>
@@ -197,13 +260,6 @@
       <description>Réalisez-vous tous les actes pouvant être pris en charge dans un parcours de chirurgie ambulatoire ? Participer à cet appui, c’est bénéficier de 5 mois d’accompagnement privilégié pour optimiser vos parcours ambulatoires, lever vos freins organisationnels et offrir de nouvelles possibilités de prise en charge.</description>
       <guid isPermaLink="false">32ed5a9fe4adf9538b711798b7cfe2a91b556a3ceeaaf9428e5ba452c2295752</guid>
       <pubDate>Wed, 09 Sep 2026 09:30:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Score.DD.Réglementation : évaluez votre conformité en développement durable</title>
-      <link>https://www.anap.fr/s/article/score-dd-reglementation-conformite-developpement-durable</link>
-      <description>Vous souhaitez évaluer vos connaissances sur la réglementation environnementale ? Score.DD.Réglementation est un outil d'autodiagnostic qui vous permet de mesurer rapidement votre niveau de conformité.</description>
-      <guid isPermaLink="false">b0e418ce44bdd21d00c8a96bbc389ac2f0ff1a4f41c26bc1acd362068a6fcd2f</guid>
-      <pubDate>Wed, 09 Sep 2026 09:26:44 +0000</pubDate>
     </item>
     <item>
       <title>Webinaire : Développement durable et Certification HAS : les outils de l’Anap pour vous aider</title>
@@ -372,62 +428,6 @@
       <description>La radiologie est une discipline qui, ne nécessitant pas la présence du patient pour la réalisation de l'acte d'interprétation, se prête bien à la télémédecine. Cette publication capitalise sur l'expérience des trois projets pilotes du plan national de télémédecine.</description>
       <guid isPermaLink="false">fe0016a515ac7d228e22b0cdff7e031334fb22d4717587e4a919ea72ec5a4322</guid>
       <pubDate>Tue, 21 Jul 2026 07:01:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Télémédecine : analyse de 25 projets</title>
-      <link>https://www.anap.fr/s/article/numerique-publication-1711</link>
-      <description>Destiné aux porteurs de projet télémédecine et aux ARS, ce document a pour ambition de les aider à consolider des organisations de télémédecine existantes ou à mettre en place de nouveaux projets, au travers du retour d'expérience et de la capitalisation réalisés à partir de 25 projets matures.</description>
-      <guid isPermaLink="false">3bdc5d960b1a9c893f96f17ac7adec1aa579033d25236ac35194b196d548d621</guid>
-      <pubDate>Tue, 21 Jul 2026 06:17:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Télémédecine : retour d'expérience sur la prise en charge des personnes détenues</title>
-      <link>https://www.anap.fr/s/article/numerique-publication-1709</link>
-      <description>Pour répondre aux besoins de prise en charge des personnes détenues, certaines unités sanitaires se sont équipées en vue d'une activité de télé-expertise ou de téléconsultation en lien avec un établissement de rattachement ou des services experts référents d'autres établissements de santé. Capitalisant sur l'expéri...</description>
-      <guid isPermaLink="false">84257007f5c7c7dfbc6675180aa2de4f22833b4e59fd1e7cca1f7e81283e2ff0</guid>
-      <pubDate>Tue, 21 Jul 2026 06:16:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Télémédecine : prise en charge de l'AVC au niveau régional</title>
-      <link>https://www.anap.fr/s/article/numerique-publication-1702</link>
-      <description>S'appuyant sur des retours d'expérience de régions pilotes, l'Anap propose une démarche pour aider les régions à définir leur propre organisation au regard de modèles types et d'un macro-processus socle. Un ensemble de fiches pratiques est proposé pour accompagner la mise en œuvre sur différents thèmes.</description>
-      <guid isPermaLink="false">55d061f9951d91849432f3beb9198b43e2d9ed7a9d4a21ff0ce8210f4a8a2b1b</guid>
-      <pubDate>Tue, 21 Jul 2026 06:16:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Télémédecine : présentation de 25 projets</title>
-      <link>https://www.anap.fr/s/article/numerique-publication-1716</link>
-      <description>Destiné aux porteurs de projet télémédecine et aux Agences régionales de santé, ce document a pour ambition de les aider à consolider des organisations de télémédecine existantes ou à mettre en place de nouveaux projets, au travers du retour d'expérience et de la capitalisation réalisés à partir de 25 projets mature...</description>
-      <guid isPermaLink="false">9188a55931f0ced618c18ff38be3e613a6f83145a8112eb83702d49b8df11c89</guid>
-      <pubDate>Tue, 21 Jul 2026 06:15:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Télémédecine : construire un projet</title>
-      <link>https://www.anap.fr/s/article/numerique-publication-1700</link>
-      <description>A travers cette publication, l'Anap a cherché à définir une démarche centrée sur la définition d'un projet médical et un processus de prise en charge qui soient adaptés à toutes les situations afin de répondre aux besoins des porteurs de projets de télémédecine, quelle que soit la pathologie ou la population dont i...</description>
-      <guid isPermaLink="false">c06727d19676fc0f381f5121a9d26c4ae79c1e8859d7ef4d6151dc9bc8822410</guid>
-      <pubDate>Tue, 21 Jul 2026 06:15:01 +0000</pubDate>
-    </item>
-    <item>
-      <title>TéléETP : éducation thérapeutique du patient à distance</title>
-      <link>https://www.anap.fr/s/article/education-therapeutique-du-patient-a-distance</link>
-      <description>Comment mieux inscrire l'ETP dans les parcours grâce aux nouvelles modalités d'échanges avec les patients ? Planification, suivi régulier, réactivité… Cette publication fait le point sur l'éducation thérapeutique à distance (télé-ETP).</description>
-      <guid isPermaLink="false">9afcd7a22a1f3012ba33b4e588fd5764aa3062cc60554af466a01c2542d15c49</guid>
-      <pubDate>Tue, 21 Jul 2026 06:14:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Appui terrain "Innovation et management collaboratifs": engagez vos équipes, accélérez vos projets !</title>
-      <link>https://www.anap.fr/s/article/appui-terrain-innovation-management-collaboratifs</link>
-      <description>Vous souhaitez renforcer l’attractivité de votre structure et l’engagement de vos équipes ? Vous êtes prêt à impulser de nouvelles dynamiques collaboratives ? L’Anap vous accompagne à travers un appui terrain consacré à l’innovation et au management collaboratifs.</description>
-      <guid isPermaLink="false">4894be7e86e210d7c569d7d8b61f5fb4fb465ff7043f5fc9917597ab55e72b55</guid>
-      <pubDate>Tue, 21 Jul 2026 06:13:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Innovation collaborative : oubliez les post-its, appréciez le résultat !</title>
-      <link>https://www.anap.fr/s/article/guide-innovation-collaborative</link>
-      <description>Coordination territoriale des urgences, attractivité et fidélisation des professionnels, gouvernance de la transition écologique… Sur le terrain, l’Anap constate que l’innovation collaborative est déterminante pour débloquer les situations complexes, restaurer la coopération et remobiliser les équipes. Découvrez le nouveau guide dédié à l’innovation collaborative, accompagné de six retours d’expériences éprouvés.</description>
-      <guid isPermaLink="false">d82f188670ce9276f5da644c46e4c03c98ea17e902c78c9965296405fe77c978</guid>
-      <pubDate>Tue, 21 Jul 2026 06:12:35 +0000</pubDate>
     </item>
   </channel>
 </rss>
