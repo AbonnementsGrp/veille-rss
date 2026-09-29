@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-09-29T01:02:52.743898+00:00",
+  "generated_at": "2026-09-29T09:53:54.674813+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 8,
-  "merged_items": 423,
+  "new_items": 21,
+  "merged_items": 428,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -37,10 +37,10 @@
       "feed_categories": [],
       "render": false,
       "status": "ok",
-      "method": "flux détecté",
-      "items": 16,
+      "method": "generic_links",
+      "items": 20,
       "feed": "observatoire-culture.xml",
-      "source_feed": "https://www.observatoire-culture.net/feed/",
+      "source_feed": "",
       "warnings": []
     },
     {
@@ -114,7 +114,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 223 jours (seuil : 60)"
+        "rien de neuf depuis 224 jours (seuil : 60)"
       ]
     },
     {
@@ -154,7 +154,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 43,
+      "items": 44,
       "feed": "igas.xml",
       "source_feed": "https://igas.gouv.fr/rss.xml",
       "warnings": []
