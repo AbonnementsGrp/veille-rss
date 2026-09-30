@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 29 Sep 2026 10:48:58 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 12:17:40 +0000</lastBuildDate>
+    <item>
+      <title>Petite enfance : pour persévérer, mieux vaut essayer autrement</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/petite-enfance-pour-perseverer-mieux-vaut-essayer-autrement/</link>
+      <description>Une boîte qui refuse de s’ouvrir, un jouet impossible à attraper… C'est la situation dans laquelle des chercheurs ont placé de jeunes enfants. Généralement, face à une difficulté, le tout-petit essaie, recommence puis finit parfois par abandonner en pleurs.</description>
+      <guid isPermaLink="false">cbe8671eff6b450c89e1eb7a594735377f2b196b89c494b8c04f482c313aa1b8</guid>
+      <pubDate>Wed, 30 Sep 2026 12:17:40 +0000</pubDate>
+    </item>
     <item>
       <title>Girafes Awards 2026 : remise des 25 trophées le 12 octobre</title>
       <link>https://www.lesprosdelapetiteenfance.fr/girafes-awards-2026-remise-des-25-trophees-le-12-octobre/</link>
@@ -393,13 +400,6 @@
       <description>Une étude américaine montre l'impact du turn-over dans les crèches sur les acquisitions et compétences des tout-petits</description>
       <guid isPermaLink="false">46b1623c048a4387bf7a97bcca7a2a964e7eb1c6e120e0bdc15276628f1dae42</guid>
       <pubDate>Mon, 10 Aug 2026 07:49:51 +0000</pubDate>
-    </item>
-    <item>
-      <title>Six micro-crèches Callihop fermées en urgence en Isère : ce que l’on sait sur l’affaire</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/six-micro-creches-callihop-fermees-en-urgence-en-isere-chronologie-et-dernieres-informations-sur-laffaire/</link>
-      <description>Six établissements du réseau de crèches privées Callihop ont été fermés en urgence dans le Nord-Isère à la fin du mois de juillet 2026.</description>
-      <guid isPermaLink="false">418bf9bc8c3070ca215e76ea74c39e52b03196a979ff548905fe7fae720d9881</guid>
-      <pubDate>Fri, 07 Aug 2026 09:15:47 +0000</pubDate>
     </item>
   </channel>
 </rss>
