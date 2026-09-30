@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 30 Sep 2026 12:17:40 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 30 Sep 2026 14:35:12 +0000</lastBuildDate>
+    <item>
+      <title>Salaires des éducateurs de jeunes enfants : 700 euros d’écart entre le public et le privé</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/salaires-des-educatrices-de-jeunes-enfants-700-euros-decart-entre-le-public-et-le-prive-hors-associatif/</link>
+      <description>En 2024, le salaire moyen des éducatrices de jeunes enfants atteint 2 270 euros nets par mois en équivalent temps plein, selon les données de la Drees</description>
+      <guid isPermaLink="false">e3dc07d018d5a41b9f14901d71662d81f937c42628779e9cc3fb167e0aabf05b</guid>
+      <pubDate>Wed, 30 Sep 2026 14:35:12 +0000</pubDate>
+    </item>
     <item>
       <title>Petite enfance : pour persévérer, mieux vaut essayer autrement</title>
       <link>https://www.lesprosdelapetiteenfance.fr/petite-enfance-pour-perseverer-mieux-vaut-essayer-autrement/</link>
@@ -393,13 +400,6 @@
       <description>Les premiers signes d’un trouble du spectre de l’autisme (TSA) peuvent apparaître dès les premiers mois de vie alors que le diagnostic et l’accompagnement interviennent souvent plus tard. Une revue...</description>
       <guid isPermaLink="false">406b4b6cc37fd26106108b90e7fd42e53a8d6a9ed75d7a6dedc28ebf0b367c5d</guid>
       <pubDate>Tue, 11 Aug 2026 08:16:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crèches : quand les professionnels changent, quel impact pour les tout-petits ?</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/creches-quand-les-professionnels-changent-quel-impact-pour-les-tout-petits/</link>
-      <description>Une étude américaine montre l'impact du turn-over dans les crèches sur les acquisitions et compétences des tout-petits</description>
-      <guid isPermaLink="false">46b1623c048a4387bf7a97bcca7a2a964e7eb1c6e120e0bdc15276628f1dae42</guid>
-      <pubDate>Mon, 10 Aug 2026 07:49:51 +0000</pubDate>
     </item>
   </channel>
 </rss>
