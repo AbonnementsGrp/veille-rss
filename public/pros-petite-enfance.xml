@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 01 Oct 2026 08:55:32 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 16:19:23 +0000</lastBuildDate>
+    <item>
+      <title>Budget 2027 : ce qui se profile pour la petite enfance</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/budget-2027-ce-qui-se-profile-pour-la-petite-enfance/</link>
+      <description>Les textes du PLF et du PLFSS qui seront soumis au Parlement viennent d’être diffusés. Dans un contexte économique incertain, ce budget n’épargne pas les familles ni la petite enfance....</description>
+      <guid isPermaLink="false">6f8d3f4e6d4e8fab49c7b6a03ae479ac059d464b7b32098b257631c63cab74a3</guid>
+      <pubDate>Thu, 01 Oct 2026 16:19:23 +0000</pubDate>
+    </item>
     <item>
       <title>Baisse de la natalité : les propositions de L’Unicef et VersLeHaut pour réinvestir dans l’école et la petite enfance</title>
       <link>https://www.lesprosdelapetiteenfance.fr/baisse-de-la-natalite-les-propositions-de-lunicef-et-verslehaut-pour-reinvestir-dans-lecole-et-la-petite-enfance/</link>
@@ -393,13 +400,6 @@
       <description>Et si les vagues de chaleur laissaient une empreinte sur le cerveau des tout-petits ? C’est la question posée par une étude française portant sur près de 9 000 enfants...</description>
       <guid isPermaLink="false">5f9ea7c36c0fce8e8c82285f7d7eeaa599fe81cab208e7cda74205d24bd1271c</guid>
       <pubDate>Sat, 15 Aug 2026 17:25:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Caries et gingivites chez les tout-petits : la prévention précoce compte plus qu’on ne le pense</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/caries-et-gingivites-chez-les-tout-petits-la-prevention-precoce-compte-plus-quon-ne-le-pense/</link>
-      <description>Caries et gingivites dans l’enfance : petit souci dentaire ou véritable signal à prendre au sérieux ? Une vaste étude danoise récente apporte un nouvel éclairage. Publiée dans l’International Journal...</description>
-      <guid isPermaLink="false">768989206b96f145da42ac4c418210aa5c7f9bc4c10e06e62502c6785d611cbb</guid>
-      <pubDate>Thu, 13 Aug 2026 07:24:31 +0000</pubDate>
     </item>
   </channel>
 </rss>
