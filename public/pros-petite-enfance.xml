@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 30 Sep 2026 14:35:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 08:55:32 +0000</lastBuildDate>
+    <item>
+      <title>Baisse de la natalité : les propositions de L’Unicef et VersLeHaut pour réinvestir dans l’école et la petite enfance</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/baisse-de-la-natalite-les-propositions-de-lunicef-et-verslehaut-pour-reinvestir-dans-lecole-et-la-petite-enfance/</link>
+      <description>Alors que le projet de loi de finances pour 2027 doit être présenté aujourd’hui Conseil des Ministres puis au Parlement, l’Unicef France et le think tank VersLeHaut adressent un message fort aux pouvoirs publics et aux candidats à l’élection présidentielle. Ils publient un rapport assorti de propositions afin que les politiques éducatives tirent parti de la chute démographique de notre pays pour réinvestir dans le système éducatif.</description>
+      <guid isPermaLink="false">d00766be691859a22ada8a01f43e006cdf139823985caacb3cba1aea53c63c95</guid>
+      <pubDate>Thu, 01 Oct 2026 08:55:32 +0000</pubDate>
+    </item>
     <item>
       <title>Salaires des éducateurs de jeunes enfants : 700 euros d’écart entre le public et le privé</title>
       <link>https://www.lesprosdelapetiteenfance.fr/salaires-des-educatrices-de-jeunes-enfants-700-euros-decart-entre-le-public-et-le-prive-hors-associatif/</link>
@@ -393,13 +400,6 @@
       <description>Caries et gingivites dans l’enfance : petit souci dentaire ou véritable signal à prendre au sérieux ? Une vaste étude danoise récente apporte un nouvel éclairage. Publiée dans l’International Journal...</description>
       <guid isPermaLink="false">768989206b96f145da42ac4c418210aa5c7f9bc4c10e06e62502c6785d611cbb</guid>
       <pubDate>Thu, 13 Aug 2026 07:24:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autisme : et si l’on pouvait agir avant même le diagnostic ?</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/autisme-et-si-lon-pouvait-agir-avant-meme-le-diagnostic/</link>
-      <description>Les premiers signes d’un trouble du spectre de l’autisme (TSA) peuvent apparaître dès les premiers mois de vie alors que le diagnostic et l’accompagnement interviennent souvent plus tard. Une revue...</description>
-      <guid isPermaLink="false">406b4b6cc37fd26106108b90e7fd42e53a8d6a9ed75d7a6dedc28ebf0b367c5d</guid>
-      <pubDate>Tue, 11 Aug 2026 08:16:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
