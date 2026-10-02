@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T17:54:00.763222+00:00",
+  "generated_at": "2026-10-02T22:16:40.146572+00:00",
   "sites_total": 17,
   "sites_ok": 17,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 3,
-  "merged_items": 634,
+  "new_items": 2,
+  "merged_items": 633,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -95,7 +95,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 10,
+      "items": 12,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
@@ -123,7 +123,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 38,
+      "items": 35,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
