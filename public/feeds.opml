@@ -3,6 +3,7 @@
   <head><title>Veille RSS</title></head>
   <body>
     <outline text="ANTIGUA" title="ANTIGUA">
+      <outline type="rss" text="ADEME_Urbanisme, territoires et sols" title="ADEME_Urbanisme, territoires et sols" xmlUrl="https://abonnementsgrp.github.io/veille-rss/ademe-urbanisme-territoires-et-sols.xml" htmlUrl="https://librairie.ademe.fr/3509-urbanisme-territoires-et-sols"/>
       <outline type="rss" text="Outre-Mer 360°" title="Outre-Mer 360°" xmlUrl="https://abonnementsgrp.github.io/veille-rss/outre-mer-360.xml" htmlUrl="https://www.outremers360.com/"/>
     </outline>
     <outline text="Club RCB" title="Club RCB">

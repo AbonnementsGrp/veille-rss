@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T13:08:31.999660+00:00",
-  "sites_total": 15,
-  "sites_ok": 15,
+  "generated_at": "2026-10-02T13:12:16.261697+00:00",
+  "sites_total": 16,
+  "sites_ok": 16,
   "sites_error": 0,
   "sites_warning": 2,
   "new_items": 60,
-  "merged_items": 588,
+  "merged_items": 631,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -16,6 +16,20 @@
     "Tourisme"
   ],
   "sites": [
+    {
+      "site": "ADEME_Urbanisme, territoires et sols",
+      "short_name": "ADEME_Urbanisme, territoires et sols",
+      "theme": "ANTIGUA",
+      "url": "https://librairie.ademe.fr/3509-urbanisme-territoires-et-sols",
+      "feed_categories": [],
+      "render": false,
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 60,
+      "feed": "ademe-urbanisme-territoires-et-sols.xml",
+      "source_feed": "https://librairie.ademe.fr/rss/3509-thematique-urbanisme-territoires-et-sols.xml",
+      "warnings": []
+    },
     {
       "site": "Outre-Mer 360°",
       "short_name": "Outre-Mer 360°",
