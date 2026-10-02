@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 02 Oct 2026 11:47:36 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 02 Oct 2026 12:08:18 +0000</lastBuildDate>
+    <item>
+      <title>L'Éducation nationale préservée par le projet de loi de finances pour 2027</title>
+      <link>https://www.banquedesterritoires.fr/leducation-nationale-preservee-par-le-projet-de-loi-de-finances-pour-2027</link>
+      <description>Le budget du ministère de l'Éducation nationale inscrit dans le projet de loi de finances pour 2027 présente une légère hausse par rapport à 2026, une quasi-exception dans un climat de forte austérité budgétaire. La baisse du nombre d'élèves par classe et la hausse du nombre d'accompagnants d'élèves en situation de handicap figurent parmi les objectifs du texte.</description>
+      <guid isPermaLink="false">9a144893b59eba947eae0a76631593af1dcc91e4d7caf72c8f062682de4e8d00</guid>
+      <pubDate>Fri, 02 Oct 2026 12:08:18 +0000</pubDate>
+    </item>
     <item>
       <title>Choose Outre-Mer: Pierre Lacombe et Alain Valéro de Celestory et Oidaneos sur le plateau d'Outremers360</title>
       <link>https://outremers360.com/bassin-atlantique-appli/pierre-lacombe-et-alain-valero-de-celestory-et-oidaneos-sur-le-plateau-doutremers360</link>
@@ -239,6 +246,20 @@
       <description>La Polynésie française découvre son champion du surf dans les années 2000. La vingtaine à peine, Michel Bourez fait forte impression à Hossegor, en éliminant les pontes de l’époque -Andy Irons et Kelly Slater notamment- lors de la Quiksilver Pro France, en septembre...</description>
       <guid isPermaLink="false">fecfc8f7577f2be35854b96e696a161cc2488584034956c85e4e350c0f39f1a0</guid>
       <pubDate>Fri, 02 Oct 2026 05:22:59 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un budget vert pour ma collectivité ?</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9647-un-budget-vert-pour-ma-collectivite-.html</link>
+      <description>Ce petit guide pratique est à destination d'agents et d'élus qui envisageraient de déployer une démarche pérenne de budgétisation verte au sein de leur collectivité territoriale. Il est issue d'un retour d’expérience de 7 collectivités d’Occitanie qui ont bénéficiées entre 2024 et 2026 d'un dispositif d'accompagnement proposé par l'ADEME et réalisé par OuiAct et FCL Gérer la Cité. Il indique : Les étapes clés du projet, pour intégrer durablement les enjeux environnementaux dans les budgets locaux ; Les méthodologies robustes mobilisables (inspirées de l’I4CE et déployées par l'Etat) pour évaluer et classer les dépenses ; Les modes de gouvernance adaptés pour faire du Budget Vert un outil transversal et incarné au service de la collectivité ; Les outillages et les ressources nécessaires, allocation du temps au projet, compétences à mobiliser ; Les modes d'exploitation des résultats pour faire du budget vert un véritable outil de décision et de pilotage pour les futurs budgets ; Des témoignages et recommandations pour pérenniser la démarche dans le cadre des cycles budgétaires (CFU, BP, PPI).</description>
+      <guid isPermaLink="false">c03a4902c2b24f7b24d1ce28652c28edcf2d161c568b2cba81fc4fab0d998c6f</guid>
+      <pubDate>Thu, 01 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide pour la réalisation d'une étude d'orientation d'usages pour la reconversion des friches</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9646-guide-pour-la-realisation-d-une-etude-d-orientation-d-usages-pour-la-reconversion-des-friches.html</link>
+      <description>Le présent cahier des charges a vocation à accompagner les collectivités et autres porteurs de projets pour évaluer le potentiel de reconversion de friches industrielles. En effet, à la suite des actions d’inventaire ou de recensement des friches sur leurs territoires, les collectivités expriment le besoin, en cohérence avec leur politique d’aménagement de gestion de leur territoire, d’anticiper ou d’esquisser les usages futurs de ces espaces en friches, objet de la reconversion. Ces friches représentent des potentiels et des contraintes pouvant s’avérer difficiles à identifier et à qualifier dans des contextes complexes. La qualification de ces potentiels et des contraintes peut être évaluée par le biais de critères déterminants pour préfigurer les changements d’usage possibles de ces espaces. Cette évaluation, objet du présent cahier des charges, vient aider les acteurs de l’aménagement à orienter les usages. Elle se réalise sur la base d’une bonne connaissance de ces terrains et de leurs contextes, d’une caractérisation de ces anciens sites industriels parfois pollués. Ainsi, ce cahier des charges a vocation à accompagner les collectivités pour caractériser les friches sur la base d’un un pré-diagnostic multithématique d’un ou plusieurs sites afin de déterminer le potentiel de mutabilité et l’aptitude au renouvellement urbain ou d’identifier les possibilités de réaménagement et préparer les décisions de reconversion. Le pré-diagnostic est une phase d'étude très en amont qui se situe avant le diagnostic, qui est également une phase d'études préliminaires. Le pré-diagnostic est utile pour établir une image rapide de la situation technique.</description>
+      <guid isPermaLink="false">83b816b77b3161220ac9bf922a7bb8444fcc54e9674de79299b43930c3b805ce</guid>
+      <pubDate>Thu, 01 Oct 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
       <title>L’UDE-MEDEF Guadeloupe et l'académie de Guadeloupe renforcent les liens entre l’École et l’Entreprise</title>
@@ -2264,17 +2285,17 @@
       <pubDate>Wed, 26 Aug 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Etude faisabilité pour l'utilisation de scanners enterrés pour suivi biodiversité des sols après phytoremédiation</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9526-etude-faisabilite-pour-l-utilisation-de-scanners-enterres-pour-suivi-biodiversite-des-sols-apres-phytoremediation.html</link>
-      <description>Dans le contexte des sites et sols pollués (SSP), l'évaluation des trajectoires de restauration repose encore largement sur des indicateurs physico-chimiques, qui ne permettent pas toujours d'apprécier la récupération du fonctionnement biologique des sols. L'intégration d'indicateurs biologiques robustes constitue ainsi un enjeu majeur pour l'évaluation écologique des sols restaurés. Le projet CASCA a pour objectif de développer une méthode automatisée et non invasive de suivi de l'activité biologique des sols fondée sur l'imagerie optique in situ couplée à des approches d'intelligence artificielle. Le dispositif repose sur l'utilisation de scanners optiques enterrés permettant l'acquisition répétée d'images haute résolution directement dans la matrice du sol. Les images sont ensuite traitées par un pipeline automatisé combinant détection des changements entre images successives, extraction d'imagettes candidates et classification supervisée par apprentissage profond afin d'identifier les organismes présents. Les développements méthodologiques se sont appuyés sur une base de données de plus de cent mille imagettes annotées couvrant plusieurs dizaines de classes d'invertébrés du sol. Cette approche permet de transformer des images brutes acquises à haute fréquence temporelle en occurrences biologiques exploitables pour l'analyse écologique. Elle ouvre ainsi la possibilité de documenter de manière continue les dynamiques d'activité des communautés édaphiques, leurs variations saisonnières et leur réponse aux conditions environnementales locales. L'application du dispositif sur le site de Saint-Laurent-le-Minier ayant fait l'objet d'une réhabilitation écologique en 2019 constitue un premier cas d'étude permettant d'explorer plusieurs dimensions de la trajectoire de restaur</description>
-      <guid isPermaLink="false">eb338943cbdedd4be63ed5f7337dd8f33280696b1593af8707957e83e15cb5e7</guid>
-      <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Guide pour la constitution d'une base de données pour inventaires des sites potentiellement pollués (IHU)</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9525-guide-pour-la-constitution-d-une-base-de-donnees-pour-inventaires-des-sites-potentiellement-pollues-ihu.html</link>
       <description>Le renouvellement urbain et la reconstruction de la ville sur la ville sont des enjeux majeurs de l’urbanisme pour l’ensemble des acteurs de l’aménagement du territoire et en particulier les collectivités territoriales depuis déjà plusieurs années. Ils s’inscrivent désormais pleinement dans la démarche ZAN (Zéro Artificialisation Nette), mise en place en 2021 par la Loi Climat et Résilience, qui fixe comme objectif d’atteindre, en 2050, l’absence de toute artificialisation nette des sols. Ces enjeux nécessitent la prise en compte des éventuels risques environnementaux et sanitaires liés à l’historique et au contexte environnemental de ces zones urbaines. La démarche d’Inventaire Historique Urbain (IHU) a pour vocation de permettre aux collectivités locales de développer leur connaissance des friches et des sites potentiellement pollués de leur territoire, d’anticiper les enjeux associés dans le cadre de leurs futurs projets d’aménagement, et, potentiellement, d’apporter aux porteurs de projet un premier niveau d’information relatif au risque de présence de pollution sur un site. L’ADEME accompagne les collectivités locales dans ces démarches par un dispositif d’Aides à la Décision, se traduisant d’une part par des aides financières, et d’autre part par la mise à disposition d’outils et de méthodes pour améliorer les pratiques. Dans ce cadre, l’ADEME met à disposition des collectivités, depuis 2021, un cahier des charges type pour l’élaboration d’un IHU. Dans cette continuité, elle a souhaité pouvoir proposer aux collectivités des outils complémentaires pour l’élaboration d’un IHU. Une base de données type et un modèle de saisie de données QGIS ont ainsi été créés. La création de ces outils s’est appuyée sur l’interview de collectivités ou d’agences d’urbanisme en vue de</description>
       <guid isPermaLink="false">182e1c3b19b223455dd3027cdacab4896cd7e5953ce8069177e407a76f55d396</guid>
+      <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Etude faisabilité pour l'utilisation de scanners enterrés pour suivi biodiversité des sols après phytoremédiation</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9526-etude-faisabilite-pour-l-utilisation-de-scanners-enterres-pour-suivi-biodiversite-des-sols-apres-phytoremediation.html</link>
+      <description>Dans le contexte des sites et sols pollués (SSP), l'évaluation des trajectoires de restauration repose encore largement sur des indicateurs physico-chimiques, qui ne permettent pas toujours d'apprécier la récupération du fonctionnement biologique des sols. L'intégration d'indicateurs biologiques robustes constitue ainsi un enjeu majeur pour l'évaluation écologique des sols restaurés. Le projet CASCA a pour objectif de développer une méthode automatisée et non invasive de suivi de l'activité biologique des sols fondée sur l'imagerie optique in situ couplée à des approches d'intelligence artificielle. Le dispositif repose sur l'utilisation de scanners optiques enterrés permettant l'acquisition répétée d'images haute résolution directement dans la matrice du sol. Les images sont ensuite traitées par un pipeline automatisé combinant détection des changements entre images successives, extraction d'imagettes candidates et classification supervisée par apprentissage profond afin d'identifier les organismes présents. Les développements méthodologiques se sont appuyés sur une base de données de plus de cent mille imagettes annotées couvrant plusieurs dizaines de classes d'invertébrés du sol. Cette approche permet de transformer des images brutes acquises à haute fréquence temporelle en occurrences biologiques exploitables pour l'analyse écologique. Elle ouvre ainsi la possibilité de documenter de manière continue les dynamiques d'activité des communautés édaphiques, leurs variations saisonnières et leur réponse aux conditions environnementales locales. L'application du dispositif sur le site de Saint-Laurent-le-Minier ayant fait l'objet d'une réhabilitation écologique en 2019 constitue un premier cas d'étude permettant d'explorer plusieurs dimensions de la trajectoire de restaur</description>
+      <guid isPermaLink="false">eb338943cbdedd4be63ed5f7337dd8f33280696b1593af8707957e83e15cb5e7</guid>
       <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3237,17 +3258,10 @@
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Faire tilt : infographie</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9444-faire-tilt-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est une plateforme numérique qui permet de se former en ligne pour progresser en matière de postures et techniques d'animations.</description>
-      <guid isPermaLink="false">413862b5a8258605533a1cafd958bee0965ae3d47fa0b6b7b1ca2eaa4f1c5f51</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La rue commune : infographie</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9438-la-rue-commune-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est une méthodologie présentée dans un guide qui met l’accent sur la rue en tant que premier bien commun urbain, et sa transformation pour amorcer la transition écologique et sociale des villes. La méthodologie permet de réaliser un diagnostic de la rue pour la faire évoluer vers l’organisation et la mise en oeuvre d’une rue commune selon 5 principes : le lien social ; la priorité au piéton pour favoriser la santé et le bien-être ; la biodiversité ; le rafraîchissement urbain ; et la valorisation des eaux pluviales. Le diagnostic de la rue intègre des analyses incluant l’insertion de la rue dans son contexte local (mobilités, climat, continuités écologiques), ainsi qu’un diagnostic matériel (sols, façades, toitures) et immatériel (usages). Le guide propose les critères pour qu’une rue soit éligible à cette transformation (constituer un axe secondaire, présence des transports en commun, possibilité de décision d’engagement de la collectivité) et présente 4 études de cas permettant d’illustrer une diversité de situations de projet, dans une perspective de mise en oeuvre.</description>
-      <guid isPermaLink="false">987584263cd3f5c5e8ac8136080a28bd9983c5d03ed0ab7f1171a57eb5008698</guid>
+      <title>Diagnostic Mobilité : infographie</title>
+      <link>https://librairie.ademe.fr/mobilite-et-transports/9441-diagnostic-mobilite-infographie.html</link>
+      <description>Ce commun lauréat à l'appel à communs est une application web qui permet de sélectionner un territoire et d’obtenir des données variées pour comprendre : • L’organisation géographique du territoire et le profil de la population : identifier les besoins spécifiques à la population et localiser les lieux qui génèrent des déplacements • L’offre de transport à disposition : mettre en regard les solutions actuelles de mobilité avec les besoins du territoire • Les pratiques de déplacement : quantifier les modes, les motifs, les flux afin d’identifier un potentiel de report modal Par son accès libre à tout public, l’outil constitue ainsi un support de travail commun pour les acteurs qui oeuvrent pour une mobilité durable des territoires : collectivités, bureaux d’études, opérateurs de solutions de mobilité, associations et initiatives citoyennes. Il permet alors de : • Présenter rapidement et sensibiliser • Identifier des actions pertinentes • Alimenter le diagnostic d’un plan de mobilité</description>
+      <guid isPermaLink="false">857dbe8b6792f4560744d727b1c8074aec00bc12880e34b5b4818c9c23c07712</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3258,10 +3272,10 @@
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Diagnostic Mobilité : infographie</title>
-      <link>https://librairie.ademe.fr/mobilite-et-transports/9441-diagnostic-mobilite-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est une application web qui permet de sélectionner un territoire et d’obtenir des données variées pour comprendre : • L’organisation géographique du territoire et le profil de la population : identifier les besoins spécifiques à la population et localiser les lieux qui génèrent des déplacements • L’offre de transport à disposition : mettre en regard les solutions actuelles de mobilité avec les besoins du territoire • Les pratiques de déplacement : quantifier les modes, les motifs, les flux afin d’identifier un potentiel de report modal Par son accès libre à tout public, l’outil constitue ainsi un support de travail commun pour les acteurs qui oeuvrent pour une mobilité durable des territoires : collectivités, bureaux d’études, opérateurs de solutions de mobilité, associations et initiatives citoyennes. Il permet alors de : • Présenter rapidement et sensibiliser • Identifier des actions pertinentes • Alimenter le diagnostic d’un plan de mobilité</description>
-      <guid isPermaLink="false">857dbe8b6792f4560744d727b1c8074aec00bc12880e34b5b4818c9c23c07712</guid>
+      <title>La rue commune : infographie</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9438-la-rue-commune-infographie.html</link>
+      <description>Ce commun lauréat à l'appel à communs est une méthodologie présentée dans un guide qui met l’accent sur la rue en tant que premier bien commun urbain, et sa transformation pour amorcer la transition écologique et sociale des villes. La méthodologie permet de réaliser un diagnostic de la rue pour la faire évoluer vers l’organisation et la mise en oeuvre d’une rue commune selon 5 principes : le lien social ; la priorité au piéton pour favoriser la santé et le bien-être ; la biodiversité ; le rafraîchissement urbain ; et la valorisation des eaux pluviales. Le diagnostic de la rue intègre des analyses incluant l’insertion de la rue dans son contexte local (mobilités, climat, continuités écologiques), ainsi qu’un diagnostic matériel (sols, façades, toitures) et immatériel (usages). Le guide propose les critères pour qu’une rue soit éligible à cette transformation (constituer un axe secondaire, présence des transports en commun, possibilité de décision d’engagement de la collectivité) et présente 4 études de cas permettant d’illustrer une diversité de situations de projet, dans une perspective de mise en oeuvre.</description>
+      <guid isPermaLink="false">987584263cd3f5c5e8ac8136080a28bd9983c5d03ed0ab7f1171a57eb5008698</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3300,32 +3314,11 @@
       <pubDate>Wed, 17 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Du repérage aux soins : le nouveau parcours coordonné des enfants en situation de handicap</title>
-      <link>https://www.enfancejeunesseinfos.fr/du-reperage-aux-soins-le-nouveau-parcours-coordonne-des-enfants-en-situation-de-handicap/</link>
-      <description>Destiné aux enfants et aux jeunes présentant ou susceptibles de présenter un handicap, le nouveau service de repérage précoce entre dans sa phase opérationnelle. Une instruction interministérielle en précise l'organisation, le financement et les modalités de déploiement dans les territoires.</description>
-      <guid isPermaLink="false">08d27388b0e50c45d097aaf64581f118342143328d721af985d8e3589b418e44</guid>
-      <pubDate>Tue, 16 Jun 2026 05:12:09 +0000</pubDate>
-    </item>
-    <item>
       <title>Méthodologie d'évaluation environnementale basée sur l'Analyse du Cycle de Vie (ACV) pour un service numérique</title>
       <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9418-methodologie-d-evaluation-environnementale-basee-sur-l-analyse-du-cycle-de-vie-acv-pour-un-service-numerique.html</link>
       <description>Ce référentiel méthodologique pour l’évaluation environnemental fournit la méthode à respecter pour réaliser l’analyse du cycle de vie d’un service numérique.</description>
       <guid isPermaLink="false">98894ff6dbe41589984f33243958ce60d18c8899cf4165c980919379e0bd00e4</guid>
       <pubDate>Mon, 15 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>« Manque de mobilisation », « posture de défiance » : ces motifs ne peuvent pas justifier une fin de contrat jeune majeur</title>
-      <link>https://www.enfancejeunesseinfos.fr/manque-de-mobilisation-posture-de-defiance-ces-motifs-ne-peuvent-pas-justifier-une-fin-de-contrat-jeune-majeur/</link>
-      <description>Le tribunal administratif de Nantes a enjoint un département de reprendre sans délai la prise en charge d'un jeune majeur de 20 ans dont il avait rompu le contrat jeune majeur en invoquant son attitude et son manque supposé d'implication dans certaines démarches.</description>
-      <guid isPermaLink="false">dc4ffde34b78c0f6de93478de0be57d692c3a5caa08be708e454ac35218190c1</guid>
-      <pubDate>Mon, 15 Jun 2026 06:43:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MNA : le Conseil d'État impose la prise en charge malgré un jugement de majorité</title>
-      <link>https://www.enfancejeunesseinfos.fr/mna-le-conseil-detat-impose-la-prise-en-charge-malgre-un-jugement-de-majorite/</link>
-      <description>Entre un jugement de majorité et une décision d'appel, la protection d'un mineur non accompagné (MNA) ne s'interrompt pas automatiquement. Le Conseil d'État confirme qu'un département doit maintenir l'hébergement lorsqu'un doute sérieux subsiste sur l'âge du jeune.</description>
-      <guid isPermaLink="false">56bd34c0115277e88591b78d3df18b05a33288392874a691402d188280102c44</guid>
-      <pubDate>Mon, 15 Jun 2026 06:40:00 +0000</pubDate>
     </item>
     <item>
       <title>Évaluation du modèle économique de la Caisse des Français de l’étranger</title>
@@ -3433,13 +3426,6 @@
       <pubDate>Wed, 10 Jun 2026 14:00:47 +0000</pubDate>
     </item>
     <item>
-      <title>Délégation d’autorité parentale : l’ASE face à l’obligation d’informer le mineur</title>
-      <link>https://www.enfancejeunesseinfos.fr/delegation-dautorite-parentale-lase-face-a-lobligation-dinformer-le-mineur/</link>
-      <description>Qui doit informer un enfant de son droit à être entendu lorsque l’exercice de l’autorité parentale a été entièrement délégué au département ? La Cour de cassation précise les obligations du service gardien et le contrôle exercé par les juges.</description>
-      <guid isPermaLink="false">9c1915f3a3c9ac965b50ba5b699cccf728ff0acfdb7486e0360ab5631e75c62b</guid>
-      <pubDate>Mon, 08 Jun 2026 06:50:14 +0000</pubDate>
-    </item>
-    <item>
       <title>Trois nouveaux stagiaires ont rejoint l’Igas en avril dernier</title>
       <link>https://igas.gouv.fr/trois-nouveaux-stagiaires-ont-rejoint-ligas-en-avril-dernier</link>
       <description>Ils viennent se former, découvrir la diversité de nos missions et renforcer nos équipes.</description>
@@ -3473,13 +3459,6 @@
       <description>Germanophone, titulaire d’une double licence droit-économie, diplômée de Sciences Po Paris et de l’Institut national des études territoriales, Cloé Chapelet rejoint en 2017 le département de la Nièvre en tant que directrice de l’autonomie, où elle est nommée, en 2020, adjointe à la direction générale des solidarités, de la culture et des sports.</description>
       <guid isPermaLink="false">e95e968a555ae81bfc20ec4161175f6c5d77cdb64eeee144fe91bc9db3246402</guid>
       <pubDate>Wed, 03 Jun 2026 10:47:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Campagne budgétaire 2026 des établissements de santé : les priorités pour les enfants et les jeunes</title>
-      <link>https://www.enfancejeunesseinfos.fr/campagne-budgetaire-2026-des-etablissements-de-sante-les-priorites-pour-les-enfants-et-les-jeunes/</link>
-      <description>Près de 34 milliards d'euros sont délégués aux établissements de santé dans la première circulaire budgétaire 2026. Pédopsychiatrie, autisme, TDAH, enfants témoins de féminicides ou mineurs de retour de zones de conflit figurent parmi les priorités financées par le gouvernement.</description>
-      <guid isPermaLink="false">310c54df5a50b18b8f76c82013e83555d2528bd579e3d3e73dfdce3abcc9a6f1</guid>
-      <pubDate>Wed, 03 Jun 2026 07:15:36 +0000</pubDate>
     </item>
     <item>
       <title>Évolution des parcours des cadres affectés sur des emplois de direction de l’administration territoriale de l’État en DDI et SGCD</title>
@@ -3888,17 +3867,17 @@
       <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Choix alimentaires - Ce que disent les Français</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9306-choix-alimentaires-ce-que-disent-les-francais.html</link>
-      <description>Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet alimentation.</description>
-      <guid isPermaLink="false">c4a65873916c290eb266fb3ede841a801c34ad0e90fb74621f4993821b578c66</guid>
-      <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Un logement plus sobre ? Ce que disent les Français</title>
       <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9305-un-logement-plus-sobre-ce-que-disent-les-francais.html</link>
       <description>Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet logement: superficie, pratiques de chauffage et de la climatisation.</description>
       <guid isPermaLink="false">2eadc6c888be366274d7b642224287242512af7c99d7725d1032bdbbb69e84f1</guid>
+      <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Choix alimentaires - Ce que disent les Français</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9306-choix-alimentaires-ce-que-disent-les-francais.html</link>
+      <description>Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet alimentation.</description>
+      <guid isPermaLink="false">c4a65873916c290eb266fb3ede841a801c34ad0e90fb74621f4993821b578c66</guid>
       <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -4242,13 +4221,6 @@
       <link>https://librairie.ademe.fr/industrie-et-production-durable/8916-sofid-alegina-rehabilitation-d-une-friche-industrielle-et-investissements-productifs-pour-le-recyclage-de-coquilles-d-huitres.html</link>
       <description>Le projet en co-portage de SOFID et ALEGINA porte sur la réhabilitation d'une ancienne friche industrielle par SOFID, sur laquelle ALEGINA fabriquera des matériaux et produits innovants à base d'huîtres (produits céramiques, pavés drainants et substrats pour toitures végétalisées).</description>
       <guid isPermaLink="false">3e09757b54d6e1059f87455d82e5476e29acd242fa7ed76878721082ba039820</guid>
-      <pubDate>Mon, 22 Dec 2025 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>BRETAGNE LIN - Modèle innovant de bioéconomie durable pour la création d'une filière d'excellence de lin textile en Bretagne</title>
-      <link>https://librairie.ademe.fr/industrie-et-production-durable/8941-bretagne-lin-modele-innovant-de-bioeconomie-durable-pour-la-creation-d-une-filiere-d-excellence-de-lin-textile-en-bretagne.html</link>
-      <description>BRETAGNE LIN vise à développer une filière linicole durable et locale en Bretagne, en favorisant les circuits courts et la valorisation du lin textile. Le projet s'appuie sur la réhabilitation d'une friche industrielle.</description>
-      <guid isPermaLink="false">3ad31c3bae27634f38ef5f3354336d35b1721f6c1bd7ef76269b2499935159a2</guid>
       <pubDate>Mon, 22 Dec 2025 23:00:00 +0000</pubDate>
     </item>
     <item>

@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 29 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 01 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Un budget vert pour ma collectivité ?</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9647-un-budget-vert-pour-ma-collectivite-.html</link>
+      <description>Ce petit guide pratique est à destination d'agents et d'élus qui envisageraient de déployer une démarche pérenne de budgétisation verte au sein de leur collectivité territoriale. Il est issue d'un retour d’expérience de 7 collectivités d’Occitanie qui ont bénéficiées entre 2024 et 2026 d'un dispositif d'accompagnement proposé par l'ADEME et réalisé par OuiAct et FCL Gérer la Cité. Il indique : Les étapes clés du projet, pour intégrer durablement les enjeux environnementaux dans les budgets locaux ; Les méthodologies robustes mobilisables (inspirées de l’I4CE et déployées par l'Etat) pour évaluer et classer les dépenses ; Les modes de gouvernance adaptés pour faire du Budget Vert un outil transversal et incarné au service de la collectivité ; Les outillages et les ressources nécessaires, allocation du temps au projet, compétences à mobiliser ; Les modes d'exploitation des résultats pour faire du budget vert un véritable outil de décision et de pilotage pour les futurs budgets ; Des témoignages et recommandations pour pérenniser la démarche dans le cadre des cycles budgétaires (CFU, BP, PPI).</description>
+      <guid isPermaLink="false">c03a4902c2b24f7b24d1ce28652c28edcf2d161c568b2cba81fc4fab0d998c6f</guid>
+      <pubDate>Thu, 01 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Enquête de perception des Français sur les sites et sols pollués</title>
       <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9631-enquete-de-perception-des-francais-sur-les-sites-et-sols-pollues.html</link>
@@ -420,13 +427,6 @@
       <link>https://librairie.ademe.fr/mobilite-et-transports/9440-coloc-auto-infographie.html</link>
       <description>Ce commun lauréat à l'appel à communs est une application de gestion de l’auto-partage entre voisin·e·s, de la documentation pour faciliter l’animation et l’organisation de collectifs d’auto-partage et un produit d’assurance adapté à la pratique de l’auto-partage proposé par la MACIF. La solution s’adresse particulièrement aux territoires ruraux. Une attention est portée à ce que la solution n’exclue pas des personnes non équipées de téléphones intelligents en permettant la connexion pour autrui. En 2025, le projet est en phase de test auprès de plusieurs collectifs citoyens et alimente en parallèle une étude sur l’impact de la pratique de l’auto-partage entre particuliers.</description>
       <guid isPermaLink="false">45037249b1eac83a47d336979ae80cdbcb0af144faa8b059f81b66c8232fcc88</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Faire tilt : infographie</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9444-faire-tilt-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est une plateforme numérique qui permet de se former en ligne pour progresser en matière de postures et techniques d'animations.</description>
-      <guid isPermaLink="false">413862b5a8258605533a1cafd958bee0965ae3d47fa0b6b7b1ca2eaa4f1c5f51</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>

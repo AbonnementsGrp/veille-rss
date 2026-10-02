@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T13:18:03.661798+00:00",
+  "generated_at": "2026-10-02T17:54:00.763222+00:00",
   "sites_total": 17,
   "sites_ok": 17,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 10,
-  "merged_items": 638,
+  "new_items": 3,
+  "merged_items": 634,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -123,7 +123,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 43,
+      "items": 38,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
@@ -137,7 +137,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 59,
+      "items": 60,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
