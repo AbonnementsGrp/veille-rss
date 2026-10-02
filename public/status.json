@@ -1,13 +1,14 @@
 {
-  "generated_at": "2026-10-02T09:49:19.580745+00:00",
+  "generated_at": "2026-10-02T12:51:31.945803+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 16,
+  "new_items": 20,
   "merged_items": 434,
   "themes": [
     "ANTIGUA",
+    "Club RCB",
     "Culture",
     "Enfance & Éducation",
     "Restauration",
@@ -172,7 +173,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 910 jours (seuil : 60)"
+        "rien de neuf depuis 911 jours (seuil : 60)"
       ]
     },
     {
