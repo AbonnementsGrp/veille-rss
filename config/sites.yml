@@ -135,3 +135,9 @@ sites:
     url: "https://www.outremers360.com/"
     official_feed: "https://api.outremers360.com/rss/fil-info.xml"
     output: "outre-mer-360.xml"
+
+  - name: "ADEME_Energie"
+    theme: "Club RCB"
+    url: "https://librairie.ademe.fr/3149-energies"
+    official_feed: "https://librairie.ademe.fr/rss/3149-thematique-energies.xml"
+    output: "ademe-energie.xml"
