@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T12:55:35.263762+00:00",
-  "sites_total": 13,
-  "sites_ok": 13,
+  "generated_at": "2026-10-02T13:05:30.776264+00:00",
+  "sites_total": 14,
+  "sites_ok": 14,
   "sites_error": 0,
   "sites_warning": 2,
   "new_items": 60,
-  "merged_items": 494,
+  "merged_items": 544,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -28,6 +28,20 @@
       "items": 59,
       "feed": "outre-mer-360.xml",
       "source_feed": "https://api.outremers360.com/rss/fil-info.xml",
+      "warnings": []
+    },
+    {
+      "site": "ADEME_Changement climatique",
+      "short_name": "ADEME_Changement climatique",
+      "theme": "Club RCB",
+      "url": "https://librairie.ademe.fr/3147-changement-climatique",
+      "feed_categories": [],
+      "render": false,
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 60,
+      "feed": "ademe-changement-climatique.xml",
+      "source_feed": "https://librairie.ademe.fr/rss/3147-thematique-changement-climatique.xml",
       "warnings": []
     },
     {
