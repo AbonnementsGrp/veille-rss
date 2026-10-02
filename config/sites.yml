@@ -22,6 +22,7 @@ settings:
   # alphabétique, et « Autres » regroupe en dernier les sources sans domaine.
   themes:
     - "ANTIGUA"
+    - "Club RCB"
     - "Culture"
     - "Enfance & Éducation"
     - "Restauration"

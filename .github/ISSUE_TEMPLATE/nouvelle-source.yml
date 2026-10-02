@@ -28,6 +28,7 @@ body:
       description: Rubrique du tableau de bord dans laquelle classer la source.
       options:
         - "ANTIGUA"
+        - "Club RCB"
         - "Culture"
         - "Enfance & Éducation"
         - "Restauration"
