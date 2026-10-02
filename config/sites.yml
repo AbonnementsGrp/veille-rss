@@ -159,3 +159,9 @@ sites:
     url: "https://librairie.ademe.fr/3509-urbanisme-territoires-et-sols"
     official_feed: "https://librairie.ademe.fr/rss/3509-thematique-urbanisme-territoires-et-sols.xml"
     output: "ademe-urbanisme-territoires-et-sols.xml"
+
+  - name: "Office français de la biodiversité"
+    theme: "Club RCB"
+    url: "https://ofb.gouv.fr/actualites"
+    official_feed: "https://ofb.gouv.fr/rss.xml"
+    output: "office-fran-ais-de-la-biodiversit.xml"
