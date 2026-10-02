@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T00:49:04.372363+00:00",
+  "generated_at": "2026-10-02T09:49:19.580745+00:00",
   "sites_total": 12,
   "sites_ok": 12,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 0,
-  "merged_items": 432,
+  "new_items": 16,
+  "merged_items": 434,
   "themes": [
     "ANTIGUA",
     "Culture",
@@ -52,7 +52,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 41,
+      "items": 43,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
@@ -114,7 +114,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 226 jours (seuil : 60)"
+        "rien de neuf depuis 227 jours (seuil : 60)"
       ]
     },
     {
