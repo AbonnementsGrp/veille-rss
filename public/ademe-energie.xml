@@ -1,0 +1,433 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0">
+  <channel>
+    <title>ADEME_Energie</title>
+    <link>https://abonnementsgrp.github.io/veille-rss/ademe-energie.xml</link>
+    <description>Actualités de ADEME_Energie</description>
+    <atom:link href="https://abonnementsgrp.github.io/veille-rss/ademe-energie.xml" rel="self"/>
+    <docs>http://www.rssboard.org/rss-specification</docs>
+    <generator>python-feedgen</generator>
+    <language>fr</language>
+    <lastBuildDate>Tue, 29 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <item>
+      <title>ADEME Magazine n°182 octobre 2026</title>
+      <link>https://librairie.ademe.fr/energies/9616-ademe-magazine-n182-octobre-2026.html</link>
+      <description>Pétrole, gaz, charbon : notre dépendance aux énergies fossiles est à la fois un enjeu climatique, économique et industriel. Utilisés comme sources d’énergie ou comme matières premières, ils contribuent fortement aux émissions de gaz à effet de serre et nous exposent aux fluctuations des prix et des approvisionnements. Réduire cette dépendance, c’est donc aussi renforcer notre résilience et la maîtrise de nos ressources. Pour y parvenir, plusieurs leviers peuvent être mobilisés : développer les énergies renouvelables, électrifier les transports, les bâtiments et l’industrie, améliorer l’efficacité énergétique et faire évoluer nos modes de production et de consommation. Déjà à l’œuvre dans les territoires et les entreprises, ces transformations sont au cœur de ce numéro, qui explore les conditions nécessaires pour accélérer et montre comment la transition énergétique peut aussi contribuer à renforcer la compétitivité et la souveraineté de notre économie. À découvrir dans le magazine : Dans la Creuse, la chaleur change de source Géothermie, chaudière à bois, récupération de chaleur : en milieu rural, des solutions locales permettent de remplacer les énergies fossiles. Ce reportage montre comment collectivités, entreprises et l’ADEME conjuguent leurs expertises pour faire émerger ces projets sur le terrain. Un territoire zéro fossile, ça ressemble à quoi ? La France s’est fixé un calendrier pour sortir progressivement du charbon, du pétrole et du gaz. Cette infographie présente les principaux leviers pour y parvenir : énergies renouvelables, mobilités décarbonées, bâtiments plus sobres, agriculture et industrie en transformation. La sortie des fossiles, une opportunité pour tous Partout en France, des solutions se développent pour réduire l’usage des fossiles. Trois initiat</description>
+      <guid isPermaLink="false">ea99d79447ffbd957314f6c208f4209f36233b51d6750c9ecc25f6fe24935a2d</guid>
+      <pubDate>Tue, 29 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Branchements électriques des consommateurs</title>
+      <link>https://librairie.ademe.fr/energies/9622-branchements-electriques-des-consommateurs.html</link>
+      <description>Le dimensionnement du réseau consiste à ajuster les capacités du réseau aux besoins des utilisateurs, consommateurs et/ou producteurs selon des critères socio-économiques. Ces choix sont ensuite déclinés sous forme de règles de dimensionnement permettant de définir les caractéristiques techniques des différents éléments constituant le réseau. Dans un contexte de pénétration du PV diffus en autoconsommation et de déploiement des flexibilités et des nouveaux usages électriques, l’ADEME a mené une étude visant à évaluer les impacts techniques et économiques de l’évolution des flux et son effet sur la pointe de consommation d'un résidentiel individuel ou collectif, dimensionnante pour la partie du réseau dite de « branchement ».</description>
+      <guid isPermaLink="false">fcdd83b84cf6ed234a3fd77fa1d32cbffe9cc7865ef137b4e8ec3de8058a6722</guid>
+      <pubDate>Mon, 28 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'eau, ressource pour la filière hydrogène : état des lieux des enjeux</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9618-l-eau-ressource-pour-la-filiere-hydrogene-etat-des-lieux-des-enjeux.html</link>
+      <description>Cet état des lieux analyse l'importance stratégique de la ressource en eau comme composante essentielle de la production d'hydrogène. Il apporte des éléments sur : les besoins en eau des technologies existantes en distinguant les prélèvements bruts de la consommation nette (rejets déduits) ; les principaux postes de consommations et les leviers pour les limiter ; les éléments à prendre en compte pour évaluer la criticité de la ressource en eau à l’échelle du projet ou de territoires.</description>
+      <guid isPermaLink="false">022b03eb85d02fcdcc10d06c36ce2bacaf7b910d100db7c318feab51c5101c2d</guid>
+      <pubDate>Thu, 24 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Présentation des offres ADEME aux entreprises en Centre-Val de Loire</title>
+      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9609-presentation-des-offres-ademe-aux-entreprises-en-centre-val-de-loire.html</link>
+      <description>Présentation des différentes offres ADEME à destination des entreprises</description>
+      <guid isPermaLink="false">b01861549f29235d3bffde63532406cc51a91a1feea26d1f51a00eeae5947b0b</guid>
+      <pubDate>Mon, 21 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Présentation des offres ADEME à destination des collectivités en Centre-Val de Loire</title>
+      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9610-presentation-des-offres-ademe-a-destination-des-collectivites-en-centre-val-de-loire.html</link>
+      <description>Présentation des offres ADEME dédiées aux collectivités</description>
+      <guid isPermaLink="false">53d5d69c25c1cab22712639a71b4641029f2320b74c244fd75983985a1a16124</guid>
+      <pubDate>Mon, 21 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Eolien terrestre et Cigogne noire</title>
+      <link>https://librairie.ademe.fr/energies/9606-eolien-terrestre-et-cigogne-noire.html</link>
+      <description>Cette synthèse bibliographique a été réalisée en appui aux réflexions du groupe de travail national (GT) « Cigogne noire ( Ciconia nigra (L.)) et éolien terrestre » mis en place fin 2025 par les Ministères chargés de la biodiversité, de la prévention des risques et de l’énergie. Elle dresse un état des lieux de la connaissance issue de la littérature scientifique à date et de retours d'expériences sur : la biologie, l'écologie et l'état de conservation en Europe de l'espèce ; ses interactions potentielles avec l'éolien terrestre et impacts pouvant en résulter ; et les pistes de solutions pour y remédier.</description>
+      <guid isPermaLink="false">0870b94047bf5fd0eb1d6571ab78109f666c3e213c45eb3d123da802d664b51b</guid>
+      <pubDate>Sun, 20 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Traçabilités de l'électricité et du gaz</title>
+      <link>https://librairie.ademe.fr/energies/9607-tracabilites-de-l-electricite-et-du-gaz.html</link>
+      <description>Une “garantie d’origine” (GO) est un certificat de traçabilité de l’électricité ou du gaz pouvant être émis par le producteur, pour une unité d’énergie (MWh), par exemple renouvelable. Une fois émise, cette GO peut être achetée par un consommateur d’électricité ou de gaz cherchant à flécher cette production vers ses propres consommations d’électricité ou de gaz, dans le but de s’en attribuer certaines caractéristiques – par exemple, le caractère « renouvelable » de l’énergie produite : la GO est alors dite “annulée”. Les garanties d’origine peuvent être achetées seules, ou être associées à un achat d’énergie dans le cadre de Power Purchase Agreement (PPA) ou Biomethane Purchase Agreement (BPA). Les caractéristiques de ces mécanismes de traçabilité sont ainsi décisives pour apprécier la pertinence de l’utilisation de certificats pour l’attribution fléchée d’émissions de gaz à effet de serre. La traçabilité des énergies de réseaux s’est progressivement mise en place à partir de 2001 dans l’Union Européenne (électricité puis gaz) via les GO, avec un objectif double : Permettre l’attribution des bénéfices environnementaux de productions renouvelables peu carbonées à certains consommateurs ayant acquis ces garanties d’origine ; Susciter des investissements dans de nouvelles installations de production renouvelable. Ce dispositif de marché, qui a pour but de donner la possibilité aux acteurs européens de revendiquer une consommation d’électricité renouvelable via l’achat de certificats, peut-il être utilisé lorsque l’on réalise une analyse de cycle de vie ou un bilan d’émissions de gaz à effet de serre, pour évaluer l’impact environnemental d’un produit, d’un service, d’un projet ou d’une organisation ? Actuellement, les positions des référentiels d’évaluation environnemental</description>
+      <guid isPermaLink="false">68976ebda25370494343018d37276eab43db5db31950ede30cd215d94ade6df3</guid>
+      <pubDate>Sun, 20 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Journées Françaises de l'Evaluation 2025 : "Evaluation et Transition(s)"</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9500-journees-francaises-de-l-evaluation-2025-evaluation-et-transitions.html</link>
+      <description>Organisées tous les deux ans par la Société Française de l’Évaluation (SFE), les Journées Françaises de l’Évaluation réunissent près de 400 participants issus des collectivités, de la recherche, des institutions publiques et du monde de l’évaluation. Cet événement national vise à renforcer la place de l’évaluation dans la décision publique, à valoriser son utilité et à favoriser le partage de pratiques entre acteurs. À travers des conférences, des échanges scientifiques, des témoignages, des visites de terrain et des interventions de personnalités reconnues, les JFE permettent d’explorer les grands enjeux contemporains des politiques publiques, notamment ceux liés aux transitions. Elles contribuent également à lever les freins au développement de l’évaluation, à mieux outiller les collectivités et à rapprocher les acteurs territoriaux et nationaux de la recherche. Les interventions font enfin l’objet d’une valorisation scientifique à travers la publication d’actes, afin de prolonger les réflexions et de laisser un héritage durable.</description>
+      <guid isPermaLink="false">8179bdef6ee044765f60310de6fcbb6436f08bde57e55080ed6715f255cadecc</guid>
+      <pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crèche - Halte-garderie à Marvejols (48). Chaufferie géothermique sur sondes</title>
+      <link>https://librairie.ademe.fr/energies/9578-creche-halte-garderie-a-marvejols-48-chaufferie-geothermique-sur-sondes.html</link>
+      <description>Construite en 2015, la crèche–halte-garderie de Marvejols accueille jusqu’à 55 enfants de 0 à 4 ans. Afin de remplacer une installation aérothermique devenue peu fiable, la Communauté de Communes du Gévaudan a réalisé une étude de faisabilité comparant plusieurs solutions de chauffage. À l’issue de cette analyse, une installation géothermique sur sondes verticales a été retenue. Quatre forages de 140 m et une pompe à chaleur de 40 kW assurent désormais le chauffage du bâtiment, tandis que le géocooling permet son rafraîchissement en été, garantissant un confort thermique optimal toute l’année. Cette fiche présente le projet, les principales données techniques et un témoignage de la collectivité.</description>
+      <guid isPermaLink="false">0b9ac8f0abbc497bc0398387ea87fcb54e2e84fc383e41838711c3d0395b386e</guid>
+      <pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Baromètre - les Français et les énergies – vague 12</title>
+      <link>https://librairie.ademe.fr/energies/9576-barometre-les-francais-et-les-energies-vague-12.html</link>
+      <description>L’écart de perception entre la filière solaire photovoltaïque et la filière nucléaire se résorbe en partie. Les Français affirment en majorité leur volonté que le nucléaire et les filières renouvelables coexistent dans le mix électrique. Les Français sont de moins en moins convaincus que la sobriété constitue la réponse au réchauffement climatique ou même la garantie de la souveraineté énergétique de la France. A la place, de plus en plus de Français plaident pour le développement de technologiques qui apporteront des solutions à ces enjeux. Malgré un large soutien au développement local des énergies renouvelables et une volonté d'investissement citoyen, l'engagement réel reste faible. Le manque d'information sur les projets disponibles est un frein majeur à la participation. L’acceptabilité des projets ENR dans les territoires de résidence diminue, et même fortement pour certaines filières.</description>
+      <guid isPermaLink="false">241f712ee468a3243ea3a784113e64268fb9e5dce3b83af26ef16b56f1e64e88</guid>
+      <pubDate>Wed, 09 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluation environnementale d'options de valorisation du CO2 de méthanisation</title>
+      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9561-evaluation-environnementale-d-options-de-valorisation-du-co2-de-methanisation.html</link>
+      <description>Cette étude s’appuie sur l’Analyse de Cycle de Vie (ACV) pour évaluer la pertinence environnementale d’associer à des installations de méthanisation des procédés de capture et de valorisation du CO₂. Dans un contexte où la pratique émerge et certains acteurs commencent à structurer la filière, les impacts environnementaux (charges, bénéfices) associés à différentes options de valorisation de CO₂ de méthanisation sont quantifiés et comparés à des processus conventionnels. Trois types de filières sont évalués : utilisation brute (ex : gazéification de boisson, serres agricoles), transformation (ex : méthanation, production de méthanol) et séquestration (carbonatation des déchets béton, séquestration géologique). Les filières d’utilisation brute présentent des bénéfices climatiques faibles à modérés, avec peu de transferts d’impacts, et sont particulièrement pertinentes dans le cadre d’une valorisation locale limitant le transport du CO₂.Les filières de transformation et de séquestration offrent les meilleurs potentiels climatiques, mais peuvent générer des transferts d’impacts significatifs. Leurs performances dépendent fortement des choix technologiques, de la maturité des procédés, de la logistique, de la consommation d’énergie et des produits substitués, ce qui justifie une évaluation au cas par cas.</description>
+      <guid isPermaLink="false">cac9c19073cc294ce3fc6ea26ae294db60f87d261bd67ffbd9ae923b937fafbd</guid>
+      <pubDate>Thu, 03 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CAP sur la géothermie en Bourgogne-Franche-Comté !</title>
+      <link>https://librairie.ademe.fr/energies/9558-cap-sur-la-geothermie-en-bourgogne-franche-comte-.html</link>
+      <description>Ce nouveau numéro de POL’EN met en lumière le potentiel de la géothermie en Bourgogne-Franche-Comté comme levier majeur de la transition énergétique. Energie renouvelable, faiblement émettrice de gaz à effet de serre, la géothermie constitue une solution performante pour produire chauffage, eau chaude et rafraîchissement. Ce numéro présente le potentiel régional, le cadre réglementaire, les dispositifs d’accompagnement et les aides financières mobilisables. Il souligne également la volonté des acteurs publics et professionnels de structurer la filière afin d’accélérer le développement de cette énergie et contribuer à la décarbonation de la production de chaleur sur le territoire. La dynamique en faveur de la géothermie est lancée en Bourgogne-Franche-Comté ! Au sommaire : Edito Violaine DĖMARET, Préfète de la Région Bourgogne-Franche-Comté Jérôme DURAIN, Président de la Région Bourgogne-Franche-Comté La géothermie, une énergie renouvelable venue de la Terre Les facteurs de réussite Les points de vigilance Le potentiel géothermique de notre région Interview : Chloé MORALES, Géologue - BRGM Bourgogne-Franche-Comté Géothermie de surface &amp; réglementation Natacha WNUK, Chargée de mission mine, après-mine et géothermie - DREAL BFC L'accompagnement des projets : le réseau des animateurs énergies renouvelables Interview : Eve-Anne RASTEL, Animatrice énergies renouvelables au Département de Saône-et-Loire Monter mon projet : les 6 étapes clés Les responsabilités des maîtres d'ouvrages Les professionnels de la géothermie Le réseau Géoartisan Franck SMEKTALA, Directeur INGEN Géosciences - Représentant AFPG BFC Les aides financières Laura ROUVELIN, Ingénieure Chaleur renouvelable, référente géothermie - ADEME BFC Vos interlocuteurs, Sites internet, Publications</description>
+      <guid isPermaLink="false">490ec5788c49146cde175f6a19f128aca54f078595189a88c077d388706f6aff</guid>
+      <pubDate>Wed, 02 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bilan thématique Technologies Avancées pour les Systèmes Energétiques (TASE) - Appels à projets “DEMO TASE” et “PME TASE”</title>
+      <link>https://librairie.ademe.fr/energies/9515-bilan-thematique-technologies-avancees-pour-les-systemes-energetiques-tase-appels-a-projets-demo-tase-et-pme-tase-9791029727412.html</link>
+      <description>Ce document présente le Bilan thématique des Appels à projets "DEMO TASE" (Développement de briques technologiques et démonstrateurs pour les systèmes énergétiques) et "PME TASE" (Développement de briques technologiques par des PME pour les systèmes énergétiques) du plan d'investissement France 2030. 73 projets ont été déposés depuis 2022 sur l’appel à projets DEMO TASE. 46 projets ont été retenus pour financement (dont 5 projets abandonnés). Les projets retenus pour financement regroupent 93 bénéficiaires directement aidés à hauteur de 193 M€ pour un budget total des projets de 381 M€, pour une durée moyenne des projets de 43 mois. 58 projets ont été déposés depuis 2022 sur l’appel à projet PME TASE. 18 projets ont été retenus pour financement (dont 2 projets abandonnés). Les projets retenus pour financement regroupent 18 bénéficiaires directement aidés à hauteur de 5,16 M€ pour un budget total des projets de 13,92 M€, pour une durée moyenne des projets de 31 mois. Les appels à projets visent à soutenir l’innovation en développant des briques technologiques et en réalisant des démonstrateurs proches du déploiement industriel sur trois secteurs démontrant un fort potentiel de transformation de notre économie et de notre société et une capacité à devenir des relais robustes de croissance économique : L’éolien flottant qui est un marché émergent prometteur, pour lequel la France possède un savoir-faire technologique fort et un potentiel de développement significatif ; Le photovoltaïque (PV) dont les prévisions de croissance sont très ambitieuses pour la prochaine décennie ; Les réseaux énergétiques, qui vont connaître des transformations importantes et pour lesquels la France possède un savoir-faire technologique reconnu mondialement. Les pompes à chaleur (PAC), qui jouen</description>
+      <guid isPermaLink="false">7980b2dae861134a2c8c5846ee4fe5b4234d8293831afebd2fb245937dcbd532</guid>
+      <pubDate>Thu, 20 Aug 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Résidence pour séniors à Rignac (12). Production de chaleur et de froid</title>
+      <link>https://librairie.ademe.fr/energies/9493-residence-pour-seniors-a-rignac-12-production-de-chaleur-et-de-froid.html</link>
+      <description>Construite à l’initiative de la commune de Rignac (12), la résidence seniors comprend 18 logements de type T2 et T3. Répartie sur trois niveaux, elle développe une surface de 1 600 m² à chauffer et à rafraîchir . La volonté du Maître d’Ouvrage était de travailler sur le confort d’été. C’est une des raisons du choix de la géothermie. Cette solution présente un taux de couverture des besoins en chauffage estimé à 99 % et de 100 % en rafraîchissement . La diffusion de la chaleur est assurée par des radiateurs et des planchers chauffants/rafraîchissants . Cette fiche présente l’opération, les données clés du projet et ses caractéristiques techniques.</description>
+      <guid isPermaLink="false">e1774352ba9595d54775d80396833f5da1f0c81274ff55563e7ef264693dffeb</guid>
+      <pubDate>Sun, 09 Aug 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bâtiment d'accueil et de restauration. Camping Les sous-bois du lac à Chastanier (48)</title>
+      <link>https://librairie.ademe.fr/energies/9513-batiment-d-accueil-et-de-restauration-camping-les-sous-bois-du-lac-a-chastanier-48.html</link>
+      <description>Le camping Les Sous-Bois du Lac, basé à Chastanier en Lozère (48), dispose d’un bâtiment d’accueil et de restauration de 320 m². Engagé dans une démarche écologique globale, le camping a naturellement entrepris de remplacer le chauffage au fioul du bâtiment d’accueil. L’installation d’un système de géothermie permet désormais de décarboner le chauffage de ce bâtiment et de s’affranchir des énergies fossiles, tout en maîtrisant durablement les dépenses énergétiques. Une étude de faisabilité a été réalisée en octobre 2023, elle a permis de dimensionner l’installation, d’estimer l’investissement et les économies d’exploitation attendues. Trois forages de 140 m de profondeur ont été réalisés et une pompe à chaleur eau glycolée de 17.5 kW a été installée, couplée à un ballon tampon de 300 litres. Cette fiche présente le projet, apporte les principales données techniques ainsi que le témoignage de la gérante du camping.</description>
+      <guid isPermaLink="false">d5b9a3613454a5a367348d7dc1a9a003502b7b0960a9292cf90e77afe43b3f91</guid>
+      <pubDate>Sun, 09 Aug 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Défis et perspectives du CCUS : présentation de l'avis ADEME</title>
+      <link>https://librairie.ademe.fr/industrie-et-production-durable/9502-defis-et-perspectives-du-ccus-presentation-de-l-avis-ademe.html</link>
+      <description>L’ADEME publie un nouvel avis d’expert analysant le contexte et les évolutions récentes du positionnement du captage et stockage du carbone (CCS) et de l’utilisation du CO₂ (CCU) dans les politiques publiques européennes et nationales. Ce document actualise l’étude de 2020 sur le potentiel de ces technologies pour décarboner l’industrie, et l’enrichit d’une analyse sur leur rôle dans la décarbonation des secteurs utilisateurs de produits issus de CO₂ capté (mobilité lourde : aérien, maritime). Le support du webinaire de présentation a pour objectif de présenter les principaux enseignements de cet avis.</description>
+      <guid isPermaLink="false">a67ba3ea98fca5fc02e095b7870b48946eb521432e951472c26318df9b40a758</guid>
+      <pubDate>Wed, 29 Jul 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>PROCÉDURE DE MISE EN CONCURRENCE AVEC DIALOGUE CONCURRENTIEL - SOUTIEN A LA PRODUCTION D'HYDROGÈNE RENOUVELABLE OU BAS-CARBONE</title>
+      <link>https://librairie.ademe.fr/energies/9499-procedure-de-mise-en-concurrence-avec-dialogue-concurrentiel-soutien-a-la-production-d-hydrogene-renouvelable-ou-bas-carbone.html</link>
+      <description>L’ADEME, en appui à la DGEC, réalise l’analyse des offres reçues à la première période du dispositif de soutien à la production d’hydrogène renouvelable ou bas carbone par électrolyse de l’eau. Le présent rapport détaille l’analyse des offres reçues, et la proposition de sélection des trois meilleures offres.</description>
+      <guid isPermaLink="false">d15ff9aa289d541982805239fc106afb68b2e008f7ae238e34e22a0703f38d45</guid>
+      <pubDate>Sun, 26 Jul 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Demain mon territoire</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9105-demain-mon-territoire-9791029725425.html</link>
+      <description>L’urgence environnementale figure parmi les principales sources de préoccupation des Français. À leur échelle, tous œuvrent à faire mieux en matière de protection de l’environnement et préservation des ressources et de la biodiversité. Mais on le sait, sans action volontariste au plus près des territoires, le défi est plus compliqué à relever. Avec ce recueil « Demain mon territoire », l’ADEME et l’OFB souhaitent partager des clés pour que les élus puissent intégrer cette dimension environnementale lors des nouveaux mandats et proposer des actions concrètes pour leur territoire. Chacune des 23 fiches de ce recueil valorise des solutions mises en place dans des communes et intercommunalités de différentes tailles où elles ont donné des résultats. Elles montrent qu’il est possible d’envisager une ville plus sobre en carbone, avec des gains en matière de lien social, de qualité de vie et de dynamisme économique. Ce pari d’un avenir meilleur, nous pouvons tous le tenir. Plus encore, avec vous.</description>
+      <guid isPermaLink="false">d86f2d8b151893fb4df313a688d16b4a499520363600ab3a33776f4a1b8580df</guid>
+      <pubDate>Wed, 15 Jul 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Financement des installations de méthanisation : diagnostic, analyse des dispositifs et recommandation d'actions</title>
+      <link>https://librairie.ademe.fr/energies/9487-financement-des-installations-de-methanisation-diagnostic-analyse-des-dispositifs-et-recommandation-d-actions.html</link>
+      <description>La filière biométhane constitue un levier stratégique pour la transition des territoires et de l'agriculture française, en contribuant simultanément à la décarbonation, à la souveraineté énergétique, à la valorisation des coproduits et déchets organiques. Elle contribue également au développement économique des territoires. Malgré ces atouts, son changement d’échelle reste freiné par des difficultés structurelles d’accès au financement. Comparée aux autres énergies renouvelables, la méthanisation est perçue par les financeurs comme plus complexe et plus risquée, en raison de coûts d’investissement élevés, d’une phase de développement longue et jugée risquée, de modèles économiques très dépendants de dispositifs de soutien encore insuffisamment lisibles, et d’une technicité exigeante en phase d’exploitation. Ces facteurs se traduisent par une mobilisation limitée des investisseurs privés ainsi que des exigences bancaires strictes et renforcées notamment en matière de fonds propres. L’étude réalisée met en évidence un certain nombre de freins financiers, économiques, réglementaires, techniques et territoriaux. Elle souligne également l’enjeu majeur que représente la conversion des installations de cogénération vers l’injection. Pour répondre à ces constats, huit recommandations structurantes sont proposées. Elles visent à renforcer la visibilité pluriannuelle des dispositifs, diversifier les sources de financement, améliorer la rentabilité et la performance des installations, sécuriser les cadres contractuels, développer la gouvernance collective, renforcer l’ancrage territorial des projets, réussir les conversions de cogénération et simplifier les procédures administratives. Les objectifs sont de réduire durablement le risque perçu par les financeurs, sécuriser l’investi</description>
+      <guid isPermaLink="false">93b05dd9ea87c2416668fdbb321b8faa5b78ab54469b8b0d57ffc3e331569b66</guid>
+      <pubDate>Thu, 09 Jul 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Installations de méthanisation : facteurs d'émission des fuites biogaz</title>
+      <link>https://librairie.ademe.fr/energies/9489-installations-de-methanisation-facteurs-d-emission-des-fuites-biogaz.html</link>
+      <description>Le projet de recherche FELeaks fait suite au projet de recherche TrackyLeaks qui a permis le développement d’une méthode d’estimation des flux de méthane appliqués aux émissions fugitives des sites de méthanisation et à son application sur un site. Dans le cadre du projet FELeaks, la méthode d’estimation des flux a été améliorée, notamment sa rapidité, sa robustesse mais aussi sur sa polyvalence. Suite à la définition d’une typologie des installations françaises, une campagne de mesures a été organisée sur 15 sites représentatifs. Les facteurs d’émissions mesurés sont généralement faibles (moins de 0,5% pour une large majorité des sites) mais quelques rejets ponctuels plus importants ont pu être observés. Ainsi, la surveillance d’une unité de méthanisation apparaît primordiale dans la limitation des émissions fugitives. Pour accompagner la filière et aider les exploitants et les constructeurs, un guide conseils a été développé.</description>
+      <guid isPermaLink="false">c528fbc29b7e48ad9305c57f5c58e818a4bb266c4093c2f45ad353ffd706e956</guid>
+      <pubDate>Thu, 09 Jul 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Evaluation France 2030 - Innovations technologiques clés pour la décarbonation du secteur de l'énergie</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9483-evaluation-france-2030-innovations-technologiques-cles-pour-la-decarbonation-du-secteur-de-l-energie.html</link>
+      <description>En 2021, le gouvernement français lançait le plan d’investissement France 2030, une initiative dotée de 54 milliards d’euros visant à soutenir les technologies innovantes pour renforcer la compétitivité industrielle et technologique du pays, tout en accélérant la transition écologique. Ces investissements visent à répondre aux grands défis de la France – souveraineté, relance industrielle et décarbonation - à travers le développement de technologies innovantes dans des secteurs clés comme l’énergie, la santé, les transports, le spatial et l’agriculture entre autres secteurs. France 2030 consacre un volet important à la décarbonation avec l’objectif d’y flécher 50 % de ses crédits, afin de répondre aux besoins massifs d’investissements nécessaires pour décarboner l’économie française. Ce plan constitue un des leviers stratégiques pour aligner la France avec ses objectifs climatiques nationaux (SNBC 3) et européens (Fit for 55). France 2030 applique également le principe du DNSH (Do No Significant Harm) selon lequel aucune dépense ne doit avoir d’impact négatif significatif sur l’environnement. Plus généralement, France 2030 s’inscrit dans un contexte européen marqué par une attention accrue à la compétitivité des entreprises européennes, dans la lignée des recommandations du rapport Draghi et de la boussole de compétitivité de la Commission européenne. Dans ce cadre, le Comité de surveillance des investissements d’avenir, le Secrétariat général pour l’investissement (SGPI) et l’ADEME ont mandaté le consortium Deloitte Finance et GAC Group pour réaliser une évaluation in itinere du soutien apporté par France 2030 à la production d’énergie décarbonée. Plus précisément, France 2030 étant principalement une politique de soutien à l’off re, il s’agit ici d’évaluer le soutien</description>
+      <guid isPermaLink="false">37e5c7661d49fef03f0cbf70e974253f7ae5cb7c6e0db46a12e308d75c4a4898</guid>
+      <pubDate>Wed, 08 Jul 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ombrières de la Glèbe à La Rouquette (Aveyron)</title>
+      <link>https://librairie.ademe.fr/energies/9404-ombrieres-de-la-glebe-a-la-rouquette-aveyron.html</link>
+      <description>À La Rouquette (Aveyron), les Ombrières de la Glèbe constituent l’une des plus grandes opérations d’autoconsommation collective (ACC) en France. Le projet est né en 2019 d’une dynamique citoyenne portée par la coopérative EnerCOA, soutenue par les collectivités locales et regroupant aujourd’hui plus de 550 habitants. En 2023, Ouest Aveyron Communauté lance un appel à projets pour équiper un parking de la zone d’activités de La Glèbe. EnerCOA, avec ses partenaires, est retenue et développe une centrale photovoltaïque de 2,3 MWc couvrant 16 000 m² de parkings. La gestion est assurée via une gouvernance partagée réunissant acteurs publics, citoyens et partenaires techniques. Le projet fonctionne en autoconsommation collective : l’électricité produite est consommée localement par des entreprises situées dans un rayon de 10 km, principalement sur la zone d’emploi de Villefranche-de-Rouergue. Près de 98 % de la production est utilisée localement, le surplus étant vendu à Enercoop. Ce modèle garantit une énergie renouvelable, locale et directement au service du territoire. Cette fiche présente le projet et son évolution, son montage juridique, les principaux chiffres associés et les retombées sur le territoire.</description>
+      <guid isPermaLink="false">7d03c4e931750f2db985c78c2a5f3b605dd4ccd2c5fc18ea7606cf0b61d91197</guid>
+      <pubDate>Mon, 06 Jul 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Calvisson (Gard) : Autoconsommation photovoltaïque collective</title>
+      <link>https://librairie.ademe.fr/energies/9403-calvisson-gard-autoconsommation-photovoltaique-collective.html</link>
+      <description>Dès 2020, des habitants de Calvisson dans le Gard, soutenus par la Région Occitanie et appuyés par la coopérative d'énergie citoyenne ACTTE, partagent la volonté de favoriser l'énergie solaire locale et citoyenne. Réunis en association, ces habitants rencontrent leur municipalité pour présenter leur projet d’installation solaire photovoltaïque. La commune décide de soutenir la démarche en mettant à disposition les toitures de ses bâtiments publics en échange d'une redevance annuelle. Cette fiche présente le projet et son évolution, son montage juridique, les principaux chiffres associés et les retombées sur le territoire.</description>
+      <guid isPermaLink="false">a92d03e10ca0dd1434e19d5c2a5353c0b4e253378f05794868b043ab8d468f0a</guid>
+      <pubDate>Wed, 01 Jul 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recommandations pour la réalisation d'un bilan des émissions de gaz à effet de serre d'une entreprise artisanale du bâtiment</title>
+      <link>https://librairie.ademe.fr/batiment/9364-recommandations-pour-la-realisation-d-un-bilan-des-emissions-de-gaz-a-effet-de-serre-d-une-entreprise-artisanale-du-batiment-9791029727153.html</link>
+      <description>En 2023, le secteur du bâtiment est responsable de 15 % des émissions territoriales annuelles de CO2e. Si les grandes entreprises se sont déjà engagées sur la voie de la décarbonation, c’est moins le cas des TPE et PME artisanales du bâtiment qui constituent pourtant le plus grand nombre d’entreprises. Aussi, pour que les émissions du secteur diminuent durablement, il est essentiel que ces entreprises artisanales du bâtiment s’engagent dans une stratégie de décarbonation. Réalisé par la CAPEB, l’ADEME et WeCount à partir de l’accompagnement de 11 entreprises artisanales du bâtiment dans la réalisation de leur bilan GES et la construction de leur stratégie climat, ce guide a pour objectif d’aider les acteurs du secteur dans la réalisation de leur bilan d’émissions de gaz à effet de serre et la mise en œuvre de leur transition bas-carbone. Il propose pour cela des méthodes de calcul en fonction de la disponibilité des informations et du niveau de maturité des entreprises, et des illustrations d’initiatives de réduction spécifiques pour chaque poste clé. Afin d’être le plus complet possible, ce document présente les enjeux du secteur, une méthodologie adaptée au bilan d’émissions de GES pour les entreprises artisanales du bâtiment, des leviers d’action prioritaires pour réduire leurs émissions, ainsi que des bonnes pratiques de communication afin de valoriser leur démarche bas-carbone.</description>
+      <guid isPermaLink="false">01e2f0d025dcf6fda4ab8f23b68ea4b71675cfdb6b917fedb08da9c392bfadd7</guid>
+      <pubDate>Tue, 30 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Décarboner votre entreprise artisanale du bâtiment : quelles sont les bonnes pratiques ?</title>
+      <link>https://librairie.ademe.fr/batiment/9391-decarboner-votre-entreprise-artisanale-du-batiment-quelles-sont-les-bonnes-pratiques--9791029727078.html</link>
+      <description>Les gaz à effet de serre (GES) sont la principale cause du dérèglement climatique. Le secteur du bâtiment est le deuxième secteur le plus émetteur de GES en France. Si les grandes entreprises ont déjà engagé des actions de décarbonation, c’est moins le cas des entreprises artisanales du bâtiment qui représentent pourtant un très grand nombre d’entreprises en volume. Réalisé par la CAPEB, l’ADEME et WeCount à partir de l’accompagnement de 11 entreprises artisanales du bâtiment dans la réalisation de leur bilan d’émissions de gaz à effet de serre et la construction de leur stratégie climat, ce guide regroupe les bonnes pratiques relevées sur les actions de décarbonation. Elaboré à destination des artisans souhaitant s’engager dans une démarche de décarbonation, ce livret recense les enjeux liés au carbone pour les entreprises artisanales du bâtiment, les leviers d’actions génériques valables pour tous corps de métier, ainsi que 9 fiches d’actions détaillées pour différentes typologies d’artisans : métallier, menuisier, charpentier, plâtrier-plaquiste, peintre, électricien, chapiste, maçon et installateur de systèmes de sûreté.</description>
+      <guid isPermaLink="false">5da925507323966c5fe5435372e2cdedbbb771bdf4802710c5f526f89e0212ae</guid>
+      <pubDate>Tue, 30 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ex-Factory Protocol and Certification for Detection-Shutdown On Demand Systems (SDOD)</title>
+      <link>https://librairie.ademe.fr/energies/9463-ex-factory-protocol-and-certification-for-detection-shutdown-on-demand-systems-sdod.html</link>
+      <description>This study is part of the “SDA+ program” launched in early 2025 by ADEME (French Environment and Energy Management Agency) and OFB (French Office for Biodiversity) in order to prepare an operational process for characterizing the performance of SDOD (Shut Down on Demand Devices) when they leave the factory and once they are installed in wind farms, in order to provide reliable, consistent data for comparison and to assist wind farm operators in their choice of these systems. The program consists of the following tasks: Working with professionals to develop a voluntary assessment and certification process for the performance of factory-fresh SDOD systems, regardless of the environmental context of the final installation. Prefigure an experiment of this evaluation and certification process on several test sites. Compare the best possible methods for assessing the performance of SDOD once installed in wind farms, then agree with stakeholders on a standardized protocol for conducting a national campaign to evaluate their performance with a view to building an initial national abacus. This report supports mission 1: it proposes a process for certifying the performance of Shutdown Down On Demand systems (SDOD) at the factory. Performance is defined as the combined detection/classification probability that the system will detect a target bird species or class before a certain distance. The process includes: Defining the objectives of the evaluation Test conditions The operating protocol for evaluating one or more SDOD systems in the field The method for storing and processing data A specific protocol for analysing false positives The procedures for implementing certification</description>
+      <guid isPermaLink="false">c9a6bc089837efed9afae4138dfc4762049707714aa5c332f1214017f87032b6</guid>
+      <pubDate>Mon, 29 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protocole d'évaluation sur site éolien terrestre des systèmes de détection arrêt (SDA)</title>
+      <link>https://librairie.ademe.fr/energies/9464-protocole-d-evaluation-sur-site-eolien-terrestre-des-systemes-de-detection-arret-sda.html</link>
+      <description>Ce rapport s’inscrit dans le cadre du projet SDA+ initié début 2025 par l’ADEME (Agence de l'Environnement et de la Maîtrise de l'Energie) et l’OFB (Office Français de la Biodiversité) dans le cadre de l’Observatoire des Énergies Renouvelables et de la Biodiversité. SDA+ vise à établir un processus opérationnel pour caractériser la performance des SDA (Système Détection-Arrêt) en sortie d’usine et une fois installés sur les parcs éoliens, afin de permettre aux industriels d’apporter des éléments d’évaluation comparables et homogènes, et afin d’assister les opérateurs éoliens dans leurs choix de ces systèmes. Le programme est composé des missions suivantes : Co-construction avec les professionnels d’un processus d’évaluation et de certification volontaire de la performance des SDA « sortie d’usine », indépendamment du contexte environnemental de l’installation finale (mission 1) ; Préfiguration d’une expérimentation de ce processus d’évaluation et de certification sur plusieurs sites test ; Comparaison des meilleures modalités possibles d’évaluation de la performance des SDA une fois installés dans les parcs éoliens et accord des parties prenantes autour d’une proposition d’un protocole standardisé (mission 2). Le présent rapport supporte la mission 2 : il propose un processus d’évaluation de la performance globale des Systèmes Détection-Arrêt (SDA) sur les sites éoliens en exploitation. La performance globale d’un SDA sur site correspond au croisement du caractère fonctionnel du SDA, de la probabilité de détection/classification du SDA, de la proportion des cibles détectées/classifiées par le SDA dont un ordre d’arrêt a été déclenché « avant » le franchissement par l’oiseau de la distance à risque, et de la transmission correcte des éventuels ordres d’arrêts au SCADA. L</description>
+      <guid isPermaLink="false">d400570054dbdf51134da637ce22a716a20242960c6ae51f9f27e83a4a1733a3</guid>
+      <pubDate>Mon, 29 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les Systèmes de Détection-Arrêt (SDA) en France</title>
+      <link>https://librairie.ademe.fr/energies/9465-les-systemes-de-detection-arret-sda-en-france.html</link>
+      <description>Ce rapport dresse un bilan du marché des Systèmes Détection Arrêt (SDA) en France à travers quatre recherches complémentaires : Une enquête auprès des fournisseurs sur les différents modèles de Systèmes Détection Arrêt (SDA) disponibles sur le marché français et leurs caractéristiques ; Un état de l’art de l’installation des SDA en France avec 186 parcs équipés (pour 1053 éoliennes) ; Un état de l’art en matière d’évaluation de performance ; Une bibliographie générale sur les SDA et des compléments spécifiques à chaque système.</description>
+      <guid isPermaLink="false">9eda74844e8c8e72120716b61df7033c26a63e09b28395ec36cfcef40194f5c0</guid>
+      <pubDate>Mon, 29 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyse de cycle de vie de cas d'usages du stockage d'électricité - Véhicule électrique et réserve primaire</title>
+      <link>https://librairie.ademe.fr/energies/9455-analyse-de-cycle-de-vie-de-cas-d-usages-du-stockage-d-electricite-vehicule-electrique-et-reserve-primaire.html</link>
+      <description>L’objectif de ce cas d’étude est d’évaluer les impacts environnementaux du raccordement d’une infrastructure de recharge de véhicule électrique avec stockage en basse tension ou sans stockage en haute tension. L’infrastructure de recharge est dimensionnée pour un emplacement en zone périurbaine. La modélisation électrique des deux systèmes montre un besoin en énergie supérieur pour le système avec stockage du fait des pertes de la batterie et de celle du réseau, plus importante en basse tension. Lors de l’évaluation des impacts environnementaux, l’augmentation de l’énergie consommée et l’ajout d’une batterie dans le système basse tension avec batterie ont pour conséquence une augmentation de tous les impacts environnementaux faisant de ce système, le plus impactant sur l’environnement.</description>
+      <guid isPermaLink="false">4d8b9fb0bf304423182fbf952b7e106235e949185228beaf93e7c2f710f36fa5</guid>
+      <pubDate>Wed, 24 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cahier des charges Assistance à la maîtrise d'ouvrage pour la mise en place d'une installation solaire thermique</title>
+      <link>https://librairie.ademe.fr/energies/9450-cahier-des-charges-assistance-a-la-maitrise-d-ouvrage-pour-la-mise-en-place-d-une-installation-solaire-thermique.html</link>
+      <description>Le présent cahier des charges concerne l' assistance à la maîtrise d’ouvrage pour la mise en place d’une installation solaire thermique</description>
+      <guid isPermaLink="false">d5a57cf0026d2eeb1912b12d87048484c8877ceca391d3e7021af9620b8ab409</guid>
+      <pubDate>Mon, 22 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bilan mi‑2026 du programme France 2030 – ADEME</title>
+      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9430-bilan-mi-2026-du-programme-france-2030-ademe-9791029727214.html</link>
+      <description>Le présent bilan s’inscrit dans une démarche d’état des lieux à mi - parcours du programme France 2030 pour les AAP op é r és par l ’ ADEME, permettant d ’ appr é cier les premiers r é sultats et dynamiques engag é es. À ce titre, il couvre un périmètre large incluant l’ensemble des dispositifs déployés, qu’ils soient clos, en cours ou encore en instruction, afin de refléter de manière exhaustive l’avancement du programme. Le bilan porte sur les 10 stratégies thématiques opérées par l’ADEME (ville et bâtiment, mobilités, industrie, hydrogène, numérique, bois ‑ for ê t, syst è mes é nerg é tiques, recyclage, eau, produits biosourc é s et carburants durables), traduisant une approche transversale et syst é mique de la transition é cologique. Sur chacune des stratégies un détail est fait suivant ce déroulé : Introduction Objectif de la stratégie – des AAP Chiffres clés – couverture géographique des projets financés Enseignements Zoom sur 2-3 projets pépites À mi - 2026, 4,78 Md € ont é t é engag é s pour accompagner 1 497 projets laur é ats et plus de 1650 entreprises, repr é sentant un budget total de projets de 18,20 Md € , ce qui traduit une mise en œ uvre op é rationnelle à grande é chelle. Les dispositifs interviennent sur l’ensemble du continuum d’innovation, de la R&amp;D à l’industrialisation et au déploiement, avec un objectif de mise sur le marché de solutions bas carbone. La typologie des bénéficiaires démontre que les aides sont accessibles à toutes les tailles d’entreprises et couvre l’ensemble du territoire. Ces aides sont majoritairement octroyées à la décarbonation de l’industrie et aux systèmes énergétiques.</description>
+      <guid isPermaLink="false">9fc80637715e4e542c6b972926da38b989f4b0390f4438fae46d1f4f4e8c44da</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comment choisir un chauffage au bois ?</title>
+      <link>https://librairie.ademe.fr/batiment/8794-comment-choisir-un-chauffage-au-bois--9791029725098.html</link>
+      <description>Aujourd'hui, 7,5 millions de foyers français se chauffent au bois, ce qui fait du bois-énergie la première énergie renouvelable consommée en France. En effet, en plus de fonctionner avec un combustible économique et accessible localement, les appareils sont de plus en plus performants et la gamme des équipements couvre tous les besoins : chauffage d'appoint, chauffage central, fourniture d'eau chaude sanitaire… Ce guide vous présente les différents équipements, les solutions appropriées à votre situation et les aides disponibles pour mener à bien votre projet. Les personnes malvoyantes ou non voyantes peuvent consulter ce guide pratique sur le site de HandiCaPZéro . En appelant au n°0800 39 39 51 (service et appel gratuits), il est également possible de commander des versions adaptées en braille, en caractères agrandis et sur CD audio.</description>
+      <guid isPermaLink="false">4fab1c57a0c52dde41b8fbfbb4704ea235abf4039bb1b8642fdc15a59d659ba3</guid>
+      <pubDate>Thu, 11 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Tout comprendre : l'électricité photovoltaïque</title>
+      <link>https://librairie.ademe.fr/energies/9414-tout-comprendre-l-electricite-photovoltaique-9791029726941.html</link>
+      <description>Pour limiter le réchauffement de la planète, nous devons limiter le plus possible l'utilisation des énergies fossiles, développer les énergies renouvelables, gagner en efficacité dans tous les domaines et adopter des comportements plus sobres en énergie. À ce jour, le mix énergétique de la France compte moins de 20 % d'énergies renouvelables. Nous sommes encore très dépendants des énergies fossiles. Il est urgent d'accélérer le développement de toutes les filières électriques d'énergies renouvelables qui participent à la diversification du mix et à la sécurité d'approvisionnement. La capacité d'adaptation du photovoltaïque est un atout précieux. Sur les toitures, en ombrières de parking, en centrales au sol, au-dessus de surfaces agricoles, les panneaux photovoltaïques peuvent être installés dans de nombreux endroits, partout en France. Pourtant, cette énergie est à ce jour sous-exploitée. Fonctionnement, déploiement, capacités de développement : ce guide vous explique tout sur cette énergie d'avenir. SOMMAIRE : Le photovoltaïque, comment ça marche ? Quelle est sa place dans le mix énergétique ? Quels sont ses atouts pour l'environnement ? Quel impact sur la biodiversité ? Les systèmes photovoltaïques se recyclent-ils bien ? Où installer les panneaux photovoltaïques ? Qu'est-ce que l’agrivoltaïsme ? Comment gérer une production variable ? Le photovoltaïque est-il compétitif ? Comment investir dans le photovoltaïque ? Les personnes malvoyantes ou non voyantes peuvent consulter ce guide pratique sur le site de HandiCaPZéro . En appelant au n° 0800.39.39.51 (service et appel gratuits), il est également possible de commander des versions adaptées en braille, en caractères agrandis et sur CD audio.</description>
+      <guid isPermaLink="false">35209f0b31dc5c570cd3cb63248821de76cb94564fb7dafbc92fb95cec63b07c</guid>
+      <pubDate>Thu, 11 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Décryptage 17 PACA : solaire thermique, comment réhabiliter vos installations existantes ?</title>
+      <link>https://librairie.ademe.fr/energies/9408-decryptage-17-paca-solaire-thermique-comment-rehabiliter-vos-installations-existantes-.html</link>
+      <description>Le format – Les Décryptages de l'ADEME en Provence-Alpes-Côte d'Azur sont des webinaires d'une heure et s'adressent aux acteurs et aux actrices de la région. Objectif de ce Décryptage – Vous êtes une collectivité, un gestionnaire de bâtiment, un bailleur, un industriel ou un acteur du tertiaire et vous exploitez une installation solaire thermique ? L’ADEME, aux côtés de SOCOL-Solaire Collectif (une initiative d'Enerplan) vous invite à un webinaire d’une heure pour vous aider à reprendre le contrôle de vos installations solaires thermiques et à faire la lumière sur les aides et outils mobilisables.</description>
+      <guid isPermaLink="false">57ac02143fb03d43150ef5d00c6c8da20d59e220f67f91abb54afa0674fd390e</guid>
+      <pubDate>Wed, 10 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Synthèse multimédia du colloque TEES 2023</title>
+      <link>https://librairie.ademe.fr/recherche-et-innovation/9410-synthese-multimedia-du-colloque-tees-2023-9791029726378.html</link>
+      <description>Les transitions écologiques, économiques et sociales transforment profondément les territoires, les modes de vie et les politiques publiques. Pour mieux comprendre ces dynamiques, l’ADEME a réuni chercheurs en sciences humaines et sociales, collectivités, acteurs socio-économiques et professionnels lors du colloque TEES 2023. Au travers de sessions thématiques et d’ateliers, cet événement a exploré les nouvelles approches de la valeur, les enjeux d’échelle des transitions, l’évolution des modèles économiques, les coopérations logistiques, la reterritorialisation de l’alimentation, le rôle des innovations sociales ou encore les transformations du travail. Les projets présentés - menés dans des territoires variés, apportent des éclairages concrets sur les pratiques locales, les freins rencontrés, les leviers d’action et les effets des transitions sur l’organisation des acteurs. Cette synthèse rassemble les principaux enseignements du colloque : apports scientifiques, retours d’expérience, analyses croisées et perspectives de recherche. Elle contribue à renforcer la compréhension collective des transitions et fournit des repères utiles pour orienter l’action publique et accompagner les acteurs dans la transformation de leurs territoires.</description>
+      <guid isPermaLink="false">1fed7031b8fb22a8154175816ebea80ad620988e3391a5ba9fd2110c9e53d325</guid>
+      <pubDate>Wed, 10 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Grande centrale solaire thermique de la ville de Narbonne (11)</title>
+      <link>https://librairie.ademe.fr/energies/9395-grande-centrale-solaire-thermique-de-la-ville-de-narbonne-11.html</link>
+      <description>La ville de Narbonne a engagé dès 2018 une réflexion sur l’évolution de son réseau de chaleur, long de 3 km et construit dans les années 1970. Celui-ci était alimenté depuis 2008 par une chaufferie biomasse de 2,5 MW, complétée et secourue par une chaufferie gaz de 6,4 MW. Dans ce contexte, la collectivité a souhaité augmenter la part d’énergies renouvelables du réseau, alors d’environ 60 %. Compte tenu des spécificités géographiques du territoire, les réflexions se sont orientées vers la mise en place d’une installation solaire thermique directement raccordée au réseau de chaleur. En accord avec la Ville de Narbonne et la Société narbonnaise de chauffage (SNDC), délégataire du réseau de chaleur de la ville, Newheat (énergéticien) a élaboré une proposition technique et financière permettant de porter à 76 % la part d’énergies renouvelables sur le réseau en ajoutant 17 % de solaire thermique. Cette fiche présente l'opération, les données techniques et économiques, les résultats actualisés en 2026 et les conditions de reproductibilité d'une telle opération.</description>
+      <guid isPermaLink="false">03062be2686326ea35536648aa4c174e73dbd9d0c1ba357c5d5a0d1e928ace6b</guid>
+      <pubDate>Thu, 04 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chiffres clés du photovoltaïque en Nouvelle-Aquitaine en 2024</title>
+      <link>https://librairie.ademe.fr/energies/9330-chiffres-cles-du-photovoltaique-en-nouvelle-aquitaine-en-2024.html</link>
+      <description>La Nouvelle-Aquitaine est la première région française en termes de production photovoltaïque. Sur les données de 2024, un état des lieux plus complet a été réalisé. Il tient notamment compte de la taille des installations et des objectifs du Schéma Régional d'Aménagement, de Développement Durable et d'Égalité des Territoires (SRADDET). Dans le cadre de ces travaux, l’analyse se concentre sur les sites “majeurs” (dont la puissance installée est supérieure à 1 MWc). Si la production totale est connue, les petites installations sont plus difficiles à cartographier.</description>
+      <guid isPermaLink="false">696a04aa315ba476e85eb14ff221ac5bcc3700ae00d4644999f9e0882df24e9a</guid>
+      <pubDate>Tue, 19 May 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>OPERAT : Bilan des déclarations 2024-2025 et enseignements sur la performance énergétique du parc tertiaire</title>
+      <link>https://librairie.ademe.fr/energies/9350-operat-bilan-des-declarations-2024-2025-et-enseignements-sur-la-performance-energetique-du-parc-tertiaire.html</link>
+      <description>Ce document présente les enseignements des déclarations faites sur OPERAT jusque fin 2025. OPERAT est la plateforme qui recueille les déclarations de consommation d’énergie des acteurs du secteur tertiaire assujettis au Dispositif Eco Energie Tertiaire. Dans ce document, vous retrouverez notamment des chiffres clés sur l'utilisation de la plateforme, sur les consommations et les objectifs affectés aux assujettis par catégorie d'activités, des analyses sur l'évolution des consommations déclarées selon les années ou encore des éléments sur les actions mises en oeuvre pour améliorer les déclarations. 3 enseignements ressortent de cette analyse : L’appropriation croissante du dispositif par les assujettis via des déclarations de plus en plus nombreuses L’atteinte des objectifs 2030 pour près de la moitié des Entités Fonctionnelles Assujetties (EFA) La réduction progressive des consommations d’énergie</description>
+      <guid isPermaLink="false">d1e6dcb9fe171ba13ae7f9fc6e2face64a9cc279138e0f714b6195b3bed77f69</guid>
+      <pubDate>Mon, 18 May 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Energies Renouvelables : comprendre et agir</title>
+      <link>https://librairie.ademe.fr/energies/9353-energies-renouvelables-comprendre-et-agir.html</link>
+      <description>Infographie sur les énergies renouvelables qui répond aux 3 questions suivantes : Que constate t-on ? Pourquoi agir ? Comment agir ?</description>
+      <guid isPermaLink="false">7896735e25ec55c993d433c4132bbc364276df6dc99ce71b87e2b0aad084e951</guid>
+      <pubDate>Mon, 18 May 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Performance des systèmes de refroidissement des centres de données et récupération de chaleur fatale</title>
+      <link>https://librairie.ademe.fr/batiment/9343-performance-des-systemes-de-refroidissement-des-centres-de-donnees-et-recuperation-de-chaleur-fatale.html</link>
+      <description>Le webinaire « Performance des systèmes de refroidissement des centres de données et valorisation de la chaleur fatale », organisé par l’ ADEME et France Datacenter , a présenté les résultats d’une étude comparative des technologies de refroidissement et leur performance en termes de chaleur fatale valorisable. Ces travaux montrent que cette chaleur, disponible toute l’année, peut contribuer à différents usages dans les territoires, notamment pour des réseaux de chaleur, des procédés industriels ou des applications agricoles.</description>
+      <guid isPermaLink="false">744db039bc523679e91a056671e51c183b86fcd3106dbd3c7d74a95d91afd599</guid>
+      <pubDate>Wed, 06 May 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Rapport d'activité 2025 - Représentation territoriale de l'ADEME en Polynésie française</title>
+      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9347-rapport-d-activite-2025-representation-territoriale-de-l-ademe-en-polynesie-francaise.html</link>
+      <description>Cette synthèse présente les évènements phares et le bilan des actions réalisées par la Représentation de l'ADEME en Polynésie française en 2025.</description>
+      <guid isPermaLink="false">a50925bcc4a163ed5a49c88192df0b38771a8fc1cc542e3d199195046c8fd9cd</guid>
+      <pubDate>Wed, 06 May 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Chiffres clés du parc d'unités de méthanisation en France 2021-2025</title>
+      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9332-chiffres-cles-du-parc-d-unites-de-methanisation-en-france-2021-2025.html</link>
+      <description>En 2021, Observ’ER a accompagné l’ADEME dans son action de mise à jour de l’outil SINOE® su les données relatives aux sites de méthanisation en France. Les chiffres de ce document sont issus de l’analyse de la base de données SINOE®. La base a été mise à jour par Observ’ER à partir de données fournies par les Directions Régionales de l’ADEME et de recherches complémentaires. Cette synthèse présente l’état des sites de méthanisation en France au 1er janvier 2021.</description>
+      <guid isPermaLink="false">cc7f97b1a4f3c5867c056bc335a15bc20a79b381e92555719037a5550cdb72e0</guid>
+      <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyse des mesures ERC proposées dans les études d'impact des projets photovoltaïques</title>
+      <link>https://librairie.ademe.fr/energies/9334-analyse-des-mesures-erc-proposees-dans-les-etudes-d-impact-des-projets-photovoltaiques.html</link>
+      <description>Cette étude, réalisée par l'unité PatriNat (OFB, MNHN, CNRS, IRD) dans le cadre de l'Observatoire des énergies renouvelables et de la biodiversité, présente une analyse approfondie des mesures d'Évitement, de Réduction et de Compensation (ERC) mises en œuvre dans les projets photovoltaïques en France. La méthodologie se base sur l'examen de 100 études d'impact sélectionnées parmi 537 dossiers disponibles, avec un échantillonnage sur la période 2016-2025 et proportionnel par région pour garantir une représentativité nationale. Les données ont été structurées dans une base Excel comportant trois volets complémentaires : les caractéristiques administratives et techniques des projets, l'inventaire détaillé des habitats naturels concernés, et le répertoire des mesures ERC prescrites. Une typologie spécifique des mesures a été élaborée par PatriNat, adaptée de la classification du CEREMA, pour faciliter l'analyse comparative. Cette ressource constitue un outil précieux pour les porteurs de projets, les bureaux d'études et les services instructeurs, offrant un panorama des pratiques actuelles en matière de préservation de la biodiversité dans le déploiement des infrastructures photovoltaïques. Les résultats de cette analyse contribuent directement à l'état des lieux des connaissances scientifiques de l'Observatoire, co-piloté par l'OFB et l'ADEME.</description>
+      <guid isPermaLink="false">39ddf85c8800b46b3235b6e6b176b85727053f02721665dedd7076a68df6b363</guid>
+      <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Méthanisation et émissions de gaz à effet de serre : bilans DIGES pour 100 unités de méthanisation</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9336-methanisation-et-emissions-de-gaz-a-effet-de-serre-bilans-diges-pour-100-unites-de-methanisation.html</link>
+      <description>L’ADEME a publié en 2024 le calculateur DIGES 3, destiné aux acteurs de la filière méthanisation, afin de les aider à mieux appréhender l’impact environnemental des unités de méthanisation françaises en projet ou en fonctionnement. Cette étude a réalisé son déploiement sur 100 unités en exploitation. Le panel représente la diversité des installations de la filière de méthanisation française. L’impact de la filière méthanisation sur l’indicateur réchauffement climatique est globalement très favorable en injection et favorable en cogénération, pour un PRG du méthane à 100 ans. Ce bilan environnemental peut encore s’améliorer en incitant les exploitants d’unité à optimiser leurs pratiques d’exploitation. Ce travail a permis également d’éprouver la méthodologie DIGES 3, et de cibler des axes d’amélioration complémentaires, qui aboutiront à une nouvelle version de cet outil. Il a permis également de produire deux fiches "références", pour que les porteurs de projets qui réaliseront de futurs bilans puissent se situer par rapport à la moyenne nationale de leur typologie (méthanisation territoriale ou agricole en co-génération ou en injection) et puissent cibler des axes d’amélioration de leurs pratiques.</description>
+      <guid isPermaLink="false">360442e47ef2593d4ed1022e54b4b85ec9d2412a1b2beae3c47884b82b32a59a</guid>
+      <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Étude sur la gestion des compétences en lien avec l'efficacité énergétique</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9337-etude-sur-la-gestion-des-competences-en-lien-avec-l-efficacite-energetique.html</link>
+      <description>La directive relative à l’efficacité énergétique révisée, entrée en vigueur le 10 octobre 2023, a fixé de nouveaux objectifs européens pour 2030 : la consommation d’énergie primaire et finale de l’Union européenne ne devra pas dépasser respectivement 992,5 Mtep et 763 Mtep. Pour la France, cela correspond à une réduction de l’ordre de 29 % de la consommation d’énergie finale par rapport à 2012. En particulier, la directive prévoit, dans son article 28-6, que les États membres évaluent régulièrement les systèmes de qualification, d’agrément et de certification des professionnels concernés, ainsi que l’écart entre le nombre de professionnels disponibles et les besoins estimés. Ce rapport en trois parties présente des orientations méthodologiques, une sélection de connaissances directement utiles pour l’art 28-6, ainsi que des recommandations pour mieux garantir le niveau de compétence nécessaires tout en veillant au principe de non-discrimination.</description>
+      <guid isPermaLink="false">05b2a16db233e2a1f16f91bbfa28a0e30670b9d7182805b89d16932ac547a307</guid>
+      <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CETHI POUR LE COLLECTIF - Développement de chauffe-eau thermodynamiques (CETHI) bas carbone pour le collectif</title>
+      <link>https://librairie.ademe.fr/energies/9323-cethi-pour-le-collectif-developpement-de-chauffe-eau-thermodynamiques-cethi-bas-carbone-pour-le-collectif.html</link>
+      <description>Le projet de ATLANTIC INDUSTRIE vise à développer une nouvelle génération de Chauffe-Eau Thermodynamiques (CETHI) utilisant du propane comme fluide réfrigérant pour réduire leur empreinte environnementale.</description>
+      <guid isPermaLink="false">11e59be84678ffb7ae9f6047173480281b3cf81890b4b18bd22fdfaff20d7f54</guid>
+      <pubDate>Mon, 27 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SMARTFLUID - Pompe à chaleur ultra-performante et intelligente</title>
+      <link>https://librairie.ademe.fr/energies/9325-smartfluid-pompe-a-chaleur-ultra-performante-et-intelligente.html</link>
+      <description>Afin d’améliorer les performances de la PAC, sa consommation d’énergie, son empreinte carbone et d’assurer le confort thermique, le projet vise à développer un nouveau modèle de PAC avec un nouveau fluide frigorigène et une nouvelle régulation intelligente embarquée.</description>
+      <guid isPermaLink="false">02df3874ea50cd0d249bad8739906e162f09ffb438fcb53f415a97401dfc0017</guid>
+      <pubDate>Mon, 27 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RESONANCE - Le Stirling acoustique pour décarboner la production de chaleur et de froid</title>
+      <link>https://librairie.ademe.fr/energies/9326-resonance-le-stirling-acoustique-pour-decarboner-la-production-de-chaleur-et-de-froid.html</link>
+      <description>EQUIUM développe ainsi une nouvelle génération de pompes à chaleur, 100% française, grâce à une technologique unique brevetée, qui utilise l’effet thermique de l’acoustique pour produire de la chaleur ou du froid. Cela permet aux pompes à chaleur de ne plus utiliser de fluide frigorigène et d’être aussi silencieuse, et simple d’installation, de maintenance, et robuste qu’un radiateur électrique.</description>
+      <guid isPermaLink="false">a4fc6381ad4d96132daeffd78c0c4e4e13408433a03e167bc65d6ddac4181049</guid>
+      <pubDate>Mon, 27 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SOFLOCEAN - Démonstrateur de technologie de solaire flottant en mer</title>
+      <link>https://librairie.ademe.fr/energies/9327-soflocean-demonstrateur-de-technologie-de-solaire-flottant-en-mer.html</link>
+      <description>AREMA-Energies a développé une technologie innovante d'énergie solaire flottante en mer. Pour concrétiser son potentiel, des prototypes initiaux sont essentiels. C'est dans ce contexte que le projet SOFLOCEAN-FRANCE, abréviation de "Solaire Flottant sur l'Océan en France", a été conçu pour évaluer la viabilité de l'énergie solaire flottante en mer, mise au point par Arema Energies.</description>
+      <guid isPermaLink="false">b1fdf623db9080baccd95aaa97e5c24c488a32c48076d078d708ebee1d957f7e</guid>
+      <pubDate>Mon, 27 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TIMSEF - DTAm outil de monitoring indirect d'une ferme d'éoliennes</title>
+      <link>https://librairie.ademe.fr/energies/9328-timsef-dtam-outil-de-monitoring-indirect-d-une-ferme-d-eoliennes.html</link>
+      <description>L'objectif du projet est de mettre en place un outil DTAm, il représente une technologie de monitoring par jumeaux numérique pour la surveillance des unités flottantes d’une ferme d’éoliennes.</description>
+      <guid isPermaLink="false">ecf73f5d06bf7d701004df479b8d41bfc5b4dec41b6037b9d830b609b1c1cee1</guid>
+      <pubDate>Mon, 27 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Elus pour Agir, Avec le bon réseau, c'est plus facile d'agir en Ile-de-France</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9309-elus-pour-agir-avec-le-bon-reseau-c-est-plus-facile-d-agir-en-ile-de-france.html</link>
+      <description>Lancé en 2023, le réseau Elus pour Agir crée un lieu de rencontre des élus locaux sur les sujets de la transition écologique. Grâce à une programmation événementielle mensuelle et une articulation avec d'autres réseaux d'élus, les élus ont pu : Mieux comprendre les enjeux écologiques et énergétique ; Trouver des réponses de terrain adaptées à leurs besoin ; Rencontrer, échanger et s'inspirer auprès d'autres élus engagés.</description>
+      <guid isPermaLink="false">4d166eda42897cfb092b4e1c4c793f7e4e7c3ae797309f7c4317918cd9fb3b24</guid>
+      <pubDate>Wed, 22 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Enquête annuelle 2025 du réseau Les Générateurs</title>
+      <link>https://librairie.ademe.fr/energies/9310-enquete-annuelle-2025-du-reseau-les-generateurs.html</link>
+      <description>Lancé début 2022, Les Générateurs est un réseau de conseillers co-financé par l'ADEME et des Régions. Présents en France métropolitaine et dans les outre-mer, les Générateurs ont vocation à apporter un conseil de premier niveau neutre et objectif aux collectivités pour les sensibiliser aux énergies renouvelables éolien et photovoltaïque. L'enquête annuelle 2025 présente les actions d'accompagnement et de sensibilisation réalisées par les conseillers partout en France, sous des angles à la fois qualitatif et quantitatif.</description>
+      <guid isPermaLink="false">387c13505eb8dc0850499e3c6bf04ea19d21e235eb6b2429d08bfa49996f5411</guid>
+      <pubDate>Wed, 22 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Protocole et certification en sortie d'usine pour les systèmes de détection arrêt (SDA)</title>
+      <link>https://librairie.ademe.fr/energies/9304-protocole-et-certification-en-sortie-d-usine-pour-les-systemes-de-detection-arret-sda.html</link>
+      <description>Ce rapport s’inscrit dans le cadre du projet SDA+ initié début 2025 par l’ADEME (Agence de la transition écologique) et l’OFB (Office Français de la Biodiversité) dans le cadre de l’Observatoire des Énergies Renouvelables et de la Biodiversité. SDA+ vise à établir un processus opérationnel pour caractériser la performance des SDA (Système Détection-Arrêt) en sortie d’usine et une fois installés sur les parcs éoliens, afin de permettre aux industriels d’apporter des éléments d’évaluation comparables et homogènes, et afin d’assister les opérateurs éoliens dans leurs choix de ces systèmes. Le programme est composé des missions suivantes : Co-construction avec les professionnels d’un processus d’évaluation et de certification volontaire de la performance des SDA « sortie d’usine », indépendamment du contexte environnemental de l’installation finale (mission 1) ; Préfiguration d’une expérimentation de ce processus d’évaluation et de certification sur plusieurs sites test ; Comparaison des meilleures modalités possibles d’évaluation de la performance des SDA une fois installés dans les parcs éoliens et accord des parties prenantes autour d’une proposition d’un protocole standardisé. Le présent rapport supporte la mission 1 : il propose un processus de certification de la performance des Systèmes Détection-Arrêt (SDA) en sortie d’usine. La performance d’un SDA est définie comme la probabilité combinée que le système détecte un individu d’une espèce ou d’une classe d’oiseau cible avant une certaine distance. Ce processus inclut : La définition des objectifs de l’évaluation ; Les conditions des tests permettant l ’évaluation d’un SDA en sortie d’usine ; Le protocole opératoire permettant l’évaluation d’un ou plusieurs SDA sur le terrain ; Le mode de bancarisation et de traitemen</description>
+      <guid isPermaLink="false">d402e95765782392843baa79786803eff0af300cf65cd9bef91229087238d554</guid>
+      <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Élus pour agir - 2026</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9293-elus-pour-agir-2026.html</link>
+      <description>Sous l’égide des ministères chargés de la Transition écologique et de l’Énergie, l’ADEME anime un réseau unique d’élus qui agissent en faveur de la transition écologique dans chaque commune, chaque intercommunalité de France et à l’échelle de chaque région. Rejoignez-nous pour mieux décrypter la transition écologique, mieux connaître les acteurs et les outils et accéder aux meilleurs experts.</description>
+      <guid isPermaLink="false">9193c7ab5aac09de2a616f8d3c72d0d2aba13d4724b24f8766c656737bafd5b8</guid>
+      <pubDate>Tue, 14 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Géothermie de surface : une énergie performante et durable pour les entreprises</title>
+      <link>https://librairie.ademe.fr/energies/9294-geothermie-de-surface-une-energie-performante-et-durable-pour-les-entreprises-9782715927865.html</link>
+      <description>Dans la collection "5 bonnes raisons de choisir la géothermie de surface", l’ADEME, le BRGM et leurs partenaires (l’AFPG, Association française des professionnels de la géothermie, le SER, Syndicat des énergies renouvelables, la CPME, Confédération des PME et l’EPE, Entreprises pour l’Environnement) proposent la brochure "Géothermie de surface : une énergie performante et durable pour les entreprises". L’augmentation des prix de l’énergie et la prise de conscience d’un besoin d’indépendance énergétique accru changent aujourd’hui la donne. La transition énergétique ne constitue pas seulement une nécessité écologique, elle est également un impératif économique et stratégique. Les entreprises, quelle que soit leur taille ou secteur d’activité, sont au cœur de ces réalités qui les impactent et sur lesquelles elles disposent également de leviers. La géothermie, énergie performante, durable, locale, disponible 24h/24, quelles que soient les conditions météorologiques, sur presque tout le territoire, peut répondre à ces enjeux. Ainsi choisir la géothermie pour une entreprise, c’est : 1. Maîtriser sa facture énergétique 2. Améliorer son bilan carbone 3. Faire du chaud et du froid avec un même équipement 4. Choisir une énergie qui s’intègre harmonieusement 5. S'offrir la possibilité d'une installation nouvelle génération Cette brochure a donc pour objectif de partager les expériences des acteurs de ce secteur et d'en inspirer d’autres.</description>
+      <guid isPermaLink="false">b23bca5888d9dc5c26e0fb9c449a8e1fe8d09a2ade75b203f0c09b7eeb46abbf</guid>
+      <pubDate>Tue, 14 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Démarches paysagères et transition des filières forêt, bois et bocage – revue de littérature et analyse de retours d'expériences</title>
+      <link>https://librairie.ademe.fr/energies/9288-demarches-paysageres-et-transition-des-filieres-foret-bois-et-bocage-revue-de-litterature-et-analyse-de-retours-d-experiences.html</link>
+      <description>L’étude vise à comprendre comment les démarches paysagères peuvent accompagner la transition des forêts, des bocages et de la filière bois, dans un contexte de crises écologiques, de tensions d’usage et d’attentes sociétales croissantes. Elle cherche à évaluer leur plus-value opérationnelle, leur rôle de médiation et leur capacité à structurer une dynamique territoriale. L’analyse s’appuie sur une revue de littérature préalable et l’analyse comparative de 9 retours d’expérience (REX) ayant fait l’objet d’une monographie et couvrant un ensemble diversifié de territoires (Bruche, Morvan, Chartreuse, Mézenc, Sainte Baume, Bocage boulonnais, Landes, Marais Poitevin, démarches mises en œuvre par l’Office National des Forêts). Il en ressort que les démarches paysagères interviennent principalement en situation de crise, de mutation ou de controverses (ex : controverses sur les modalités de coupes, déprise agricole, crise sanitaire, incendies). Elles permettent d’améliorer l’acceptabilité des pratiques forestières et de gestion du bocage, d’ouvrir un espace de médiation entre acteurs, et de produire une lecture transversale et spatialisée des territoires en dépassant les approches sectorielles et en croisant les aspects sociaux et écologiques. Elles contribuent également à établir des constats partagés et à construire un langage commun entre les parties prenantes. Ces démarches favorisent par ailleurs la diversification des pratiques sylvicoles et soutiennent une reterritorialisation des usages du bois via des projets connexes (chaufferies, filières de bois d’œuvre locales, actions pédagogiques). Toutefois, elles interviennent peu sur l’aval économique de la filière (transformation, marchés). Les retours d’expérience montrent que les démarches paysagères peuvent constituent un</description>
+      <guid isPermaLink="false">75b46287b50c13d6e8c87b0d0305b559aed9586d0fb88909a05be61af37bc9f0</guid>
+      <pubDate>Sun, 12 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Plateforme de stockage de plaquettes bois énergie. Plateforme de Saramon (32)</title>
+      <link>https://librairie.ademe.fr/energies/9286-plateforme-de-stockage-de-plaquettes-bois-energie-plateforme-de-saramon-32.html</link>
+      <description>Le Département du Gers a mis en place en 2019 une plateforme de stockage de plaquettes bois énergie sur la commune de Saramon. Cette unité permet d’une part, le stockage et le séchage de plaquettes bois à destination des chaufferies bois des collèges, et d’autre part, de produire de l’électricité à partir de panneaux solaires photovoltaïques positionnés sur la toiture de la plateforme. Cette fiche détaille les caractéristiques techniques et financières de l’installation et apporte le témoignage de la collectivité.</description>
+      <guid isPermaLink="false">3a40f5a6b40a969b42641452e7b0206e05dcc222654a1e4a0b067f52f764761a</guid>
+      <pubDate>Wed, 08 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observatoire des batteries stationnaires</title>
+      <link>https://librairie.ademe.fr/energies/9279-observatoire-des-batteries-stationnaires.html</link>
+      <description>L’observatoire des batteries stationnaires a consisté à récolter des informations sur les caractéristiques des stockages existants et futurs en France hexagonale et à analyser les données de leur fonctionnement sur l’année 2024. La filière des batteries stationnaires est relativement nouvelle sur le territoire mais se développe très rapidement, en lien avec les besoins du système électrique. Dans ce contexte, la DGEC, la CRE, les gestionnaires de réseaux (RTE et Enedis), l’ATEE et l’ADEME se sont associés pour conduire une collecte de données auprès du parc existant et en projet, dans le but d’avoir une meilleure connaissance opérationnelle de cette filière émergente mais dont la croissance est rapide. Cette restitution publique est l’occasion de présenter une partie agrégée de l’observatoire, sous forme de huit indicateurs détaillant le parc de batteries lithium-ion stationnaires raccordées en moyenne et haute tension. Le jeu d’acteur 2025 des développeurs batterie est également mis en lumière. L’édition 2025 de l’observatoire est la première occurrence et a vocation à être réitérée pour suivre le développement de la filière par le biais d’indicateurs spécifiques.</description>
+      <guid isPermaLink="false">8ad1a63311d06271ff150343123eef79236de7cb2456766911308da37422f143</guid>
+      <pubDate>Thu, 02 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Etat des lieux de la filière de petite méthanisation agricole autonome en effluents d'élevage</title>
+      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9195-etat-des-lieux-de-la-filiere-de-petite-methanisation-agricole-autonome-en-effluents-d-elevage.html</link>
+      <description>29 unités de petite méthanisation ont été enquêtées. Une petite unité de méthanisation a été définie comme une unité en cogénération d’une puissance installée inférieure à 100 kWé, ou en valorisation de chaleur seule. Toutes les unités enquêtées ont au moins 85 % d’effluents d’élevage dans leur ration d’approvisionnement, et ont été mises en service entre 2012 et 2023. Les enquêtes ont eu lieu au cours de l’année 2025. Parmi les unités enquêtées, 12 sont en chaudière et 17 en cogénération. L’échantillon est principalement représenté par deux fournisseurs de solution : Nenufar pour les couvertures récupératrices de biogaz (11 unités) et Biolectric pour des systèmes en cogénération (13 unités), dont une partie des unités ont été construites en partenariat avec Agripower. Les couvertures de fosse à lisier sont en digestion anaérobie psychrophile, alors que les autres unités sont en mésophile.</description>
+      <guid isPermaLink="false">4c07c795f2383e9ff281094a5152fb2a4bc9764c8590c3e40c3d1b010babcfc3</guid>
+      <pubDate>Tue, 24 Mar 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>MEGASETE - Développement ferme solaire offshore 1MW innovante en Méditerranée</title>
+      <link>https://librairie.ademe.fr/energies/9182-megasete-developpement-ferme-solaire-offshore-1mw-innovante-en-mediterranee.html</link>
+      <description>Méga Sète ambitionne de créer la première ferme solaire offshore de 1MW en France, atteignant un degré de maturité pré-commercial.</description>
+      <guid isPermaLink="false">a45ab0813b5a8cde9f5cfb67e0be8d435c80a4ea6b9f8f712d9008f21dc7fb9f</guid>
+      <pubDate>Mon, 23 Mar 2026 23:00:00 +0000</pubDate>
+    </item>
+  </channel>
+</rss>
