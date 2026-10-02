@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T13:14:40.891918+00:00",
-  "sites_total": 15,
-  "sites_ok": 15,
+  "generated_at": "2026-10-02T13:16:14.640311+00:00",
+  "sites_total": 16,
+  "sites_ok": 16,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 11,
-  "merged_items": 585,
+  "new_items": 60,
+  "merged_items": 628,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -70,6 +70,20 @@
       "items": 60,
       "feed": "ademe-soci-t-et-politiques-publiques.xml",
       "source_feed": "https://librairie.ademe.fr/rss/3544-thematique-societe-et-politiques-publiques.xml",
+      "warnings": []
+    },
+    {
+      "site": "ADEME_Urbanisme, territoires et sols",
+      "short_name": "ADEME_Urbanisme, territoires et sols",
+      "theme": "Club RCB",
+      "url": "https://librairie.ademe.fr/3509-urbanisme-territoires-et-sols",
+      "feed_categories": [],
+      "render": false,
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 60,
+      "feed": "ademe-urbanisme-territoires-et-sols.xml",
+      "source_feed": "https://librairie.ademe.fr/rss/3509-thematique-urbanisme-territoires-et-sols.xml",
       "warnings": []
     },
     {
