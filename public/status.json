@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T13:05:30.776264+00:00",
-  "sites_total": 14,
-  "sites_ok": 14,
+  "generated_at": "2026-10-02T13:08:31.999660+00:00",
+  "sites_total": 15,
+  "sites_ok": 15,
   "sites_error": 0,
   "sites_warning": 2,
   "new_items": 60,
-  "merged_items": 544,
+  "merged_items": 588,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -56,6 +56,20 @@
       "items": 60,
       "feed": "ademe-energie.xml",
       "source_feed": "https://librairie.ademe.fr/rss/3149-thematique-energies.xml",
+      "warnings": []
+    },
+    {
+      "site": "ADEME_Société et politiques publiques",
+      "short_name": "ADEME_Société et politiques publiques",
+      "theme": "Club RCB",
+      "url": "https://librairie.ademe.fr/3544-societe-et-politiques-publiques",
+      "feed_categories": [],
+      "render": false,
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 60,
+      "feed": "ademe-soci-t-et-politiques-publiques.xml",
+      "source_feed": "https://librairie.ademe.fr/rss/3544-thematique-societe-et-politiques-publiques.xml",
       "warnings": []
     },
     {

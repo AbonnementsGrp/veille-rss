@@ -8,6 +8,7 @@
     <outline text="Club RCB" title="Club RCB">
       <outline type="rss" text="ADEME_Changement climatique" title="ADEME_Changement climatique" xmlUrl="https://abonnementsgrp.github.io/veille-rss/ademe-changement-climatique.xml" htmlUrl="https://librairie.ademe.fr/3147-changement-climatique"/>
       <outline type="rss" text="ADEME_Energie" title="ADEME_Energie" xmlUrl="https://abonnementsgrp.github.io/veille-rss/ademe-energie.xml" htmlUrl="https://librairie.ademe.fr/3149-energies"/>
+      <outline type="rss" text="ADEME_Société et politiques publiques" title="ADEME_Société et politiques publiques" xmlUrl="https://abonnementsgrp.github.io/veille-rss/ademe-soci-t-et-politiques-publiques.xml" htmlUrl="https://librairie.ademe.fr/3544-societe-et-politiques-publiques"/>
     </outline>
     <outline text="Culture" title="Culture">
       <outline type="rss" text="Observatoire de la culture" title="Observatoire de la culture" xmlUrl="https://abonnementsgrp.github.io/veille-rss/observatoire-culture.xml" htmlUrl="https://www.observatoire-culture.net/"/>
