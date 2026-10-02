@@ -153,3 +153,9 @@ sites:
     url: "https://librairie.ademe.fr/3544-societe-et-politiques-publiques"
     official_feed: "https://librairie.ademe.fr/rss/3544-thematique-societe-et-politiques-publiques.xml"
     output: "ademe-soci-t-et-politiques-publiques.xml"
+
+  - name: "ADEME_Urbanisme, territoires et sols"
+    theme: "ANTIGUA"
+    url: "https://librairie.ademe.fr/3509-urbanisme-territoires-et-sols"
+    official_feed: "https://librairie.ademe.fr/rss/3509-thematique-urbanisme-territoires-et-sols.xml"
+    output: "ademe-urbanisme-territoires-et-sols.xml"
