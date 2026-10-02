@@ -141,3 +141,9 @@ sites:
     url: "https://librairie.ademe.fr/3149-energies"
     official_feed: "https://librairie.ademe.fr/rss/3149-thematique-energies.xml"
     output: "ademe-energie.xml"
+
+  - name: "ADEME_Changement climatique"
+    theme: "Club RCB"
+    url: "https://librairie.ademe.fr/3147-changement-climatique"
+    official_feed: "https://librairie.ademe.fr/rss/3147-thematique-changement-climatique.xml"
+    output: "ademe-changement-climatique.xml"
