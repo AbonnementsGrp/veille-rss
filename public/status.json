@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T13:16:14.640311+00:00",
-  "sites_total": 16,
-  "sites_ok": 16,
+  "generated_at": "2026-10-02T13:18:03.661798+00:00",
+  "sites_total": 17,
+  "sites_ok": 17,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 60,
-  "merged_items": 628,
+  "new_items": 10,
+  "merged_items": 638,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -84,6 +84,20 @@
       "items": 60,
       "feed": "ademe-urbanisme-territoires-et-sols.xml",
       "source_feed": "https://librairie.ademe.fr/rss/3509-thematique-urbanisme-territoires-et-sols.xml",
+      "warnings": []
+    },
+    {
+      "site": "Office français de la biodiversité",
+      "short_name": "Office français de la biodiversité",
+      "theme": "Club RCB",
+      "url": "https://ofb.gouv.fr/actualites",
+      "feed_categories": [],
+      "render": false,
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 10,
+      "feed": "office-fran-ais-de-la-biodiversit.xml",
+      "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
     },
     {
