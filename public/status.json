@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-02T22:16:40.146572+00:00",
+  "generated_at": "2026-10-03T05:21:38.031013+00:00",
   "sites_total": 17,
   "sites_ok": 17,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 2,
-  "merged_items": 633,
+  "new_items": 0,
+  "merged_items": 631,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -123,7 +123,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 35,
+      "items": 33,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
