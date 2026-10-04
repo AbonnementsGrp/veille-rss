@@ -1,4 +1,13 @@
 {
+  "4e801f0ec4daa84959870e023bd041540e3d8d1f64bb2803a238624cfb6f146e": {
+    "source": "Outre-Mer 360°",
+    "title": "Mobilisation des lycéens en Martinique : des établissements de Fort-de-France et de Trinité passent en distanciel ce lundi",
+    "link": "https://outremers360.com/bassin-atlantique-appli/mobilisation-des-lyceens-en-martinique-des-etablissements-de-fort-de-france-et-de-trinite-passent-en-distanciel-ce-lundi",
+    "description": "Après les tensions survenues en marge des revendications des lycéens, plusieurs établissements activent leur plan de continuité pédagogique de niveau 2, à Fort-de-France et à Trinité principalement. Détails avec notre partenaire RCI Martinique.Après les tensions et,...",
+    "published": "2026-10-04T15:22:19+00:00",
+    "first_seen": "2026-10-04T18:39:13.734753+00:00",
+    "uid": "4e801f0ec4daa84959870e023bd041540e3d8d1f64bb2803a238624cfb6f146e"
+  },
   "7e7097667e8f65b8f145779d0929190dbec5cde236852cdf662468468941c348": {
     "source": "Outre-Mer 360°",
     "title": "Histoires et cultures d’Océanie. Iles Marquises, 1842 : pourquoi la France a-t-elle voulu les conquérir ? Par Alexandre Juster",
@@ -9456,16 +9465,6 @@
     "published": "2026-07-20T10:35:13+00:00",
     "first_seen": "2026-07-20T15:05:24.979474+00:00",
     "uid": "9d870b693ee09fa1915549a87fc145408aad52824c5f0094a47ad1fda208f972",
-    "description_checked": true
-  },
-  "4d5bebbf97482066d02f487866e8eb483e1220eb1851f02621e2d1d670fb6417": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Accidents de la vie courante : un enfant sur sept pris en charge à l’hôpital entre 1 et 2 ans",
-    "link": "https://www.lesprosdelapetiteenfance.fr/accidents-de-la-vie-courante-un-enfant-sur-sept-pris-en-charge-a-lhopital-entre-1-et-2-ans/",
-    "description": "Le Bulletin épidémiologique hebdomadaire a publié une étude sur les accidents de la vie courante (AcVC) menée auprès de plus de 12 000 enfants de la cohorte Elfe. Elle montre...",
-    "published": "2026-07-17T14:27:21+00:00",
-    "first_seen": "2026-07-20T15:05:24.979474+00:00",
-    "uid": "4d5bebbf97482066d02f487866e8eb483e1220eb1851f02621e2d1d670fb6417",
     "description_checked": true
   }
 }
