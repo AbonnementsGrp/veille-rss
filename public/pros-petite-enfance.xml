@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 02 Oct 2026 09:04:11 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 14:38:13 +0000</lastBuildDate>
+    <item>
+      <title>Budget 2027 : derrière l’effet d’annonce, la FFEC pointe un manque de moyens</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/budget-2027-derriere-leffet-dannonce-la-ffec-pointe-un-manque-de-moyens/</link>
+      <description>La FFEC a fait l’analyse des projets de loi de finances (PLF) et du financement de la sécurité sociale (PLFSS) pour 2027, déposés à l’Assemblée nationale la semaine dernière. Dans...</description>
+      <guid isPermaLink="false">63012ef9ea69d537ea5869526c72d192ca32d17b0f4a0ffcbacd83aa41d3819a</guid>
+      <pubDate>Mon, 05 Oct 2026 14:38:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crèches associatives : l’ACEPP dénonce une mise en concurrence qui menace leur modèle</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/creches-associatives-lacepp-denonce-une-mise-en-concurrence-qui-menace-leur-modele/</link>
+      <description>Dans un communiqué du 2 octobre, l’ACEPP alerte sur une rentrée difficile pour les crèches associatives. Financements insuffisants, inquiétudes sur la qualification des équipes et remise en cause des subventions par certaines collectivités : le réseau appelle les élus à préserver le modèle associatif.</description>
+      <guid isPermaLink="false">abf0154c24091b97bd9ae6c0797f1e766e568cc1b2b591ed5a2d8d3b1ec3e6ba</guid>
+      <pubDate>Mon, 05 Oct 2026 09:21:12 +0000</pubDate>
+    </item>
     <item>
       <title>ARPEDA : les partenaires sociaux annoncent une mission spécifique pour faire évoluer le dispositif</title>
       <link>https://www.lesprosdelapetiteenfance.fr/arpeda-les-partenaires-sociaux-annoncent-une-mission-pour-faire-evoluer-le-dispositif/</link>
@@ -386,20 +400,6 @@
       <description>La présence d’enfants d’âges différents dans un même groupe est fréquente en crèche. Mais cette organisation influence-t-elle réellement la manière dont les enfants participent aux activités et interagissent avec les...</description>
       <guid isPermaLink="false">cc806d5bdcb7c354016f044ab28edb12a03e85f088617320edeaca9a5ca091b4</guid>
       <pubDate>Thu, 20 Aug 2026 07:44:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Faut-il multiplier les jouets pour stimuler le développement du bébé ?</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/faut-il-multiplier-les-jouets-pour-stimuler-le-developpement-du-bebe/</link>
-      <description>Une étude récente menée auprès de 63 enfants âgés de 11 à 30 mois s'est intéressée au lien entre la richesse de leur environnement de jeu et leurs compétences de jeu et de communication. Les résultats suggèrent qu'un environnement proposant une plus grande diversité de jouets est associé à de meilleures compétences. Mais avoir davantage de jouets ne suffit pas : ce n'est pas la quantité qui compte et les jouets, à eux seuls, ne semblent pas faire la différence</description>
-      <guid isPermaLink="false">c0a6c7cbce90ced54e659a2cf5b09f72c91ca031346be58291bed2910c2be0b7</guid>
-      <pubDate>Tue, 18 Aug 2026 09:59:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accueil du jeune enfant : augmenter les heures de crèche n’est pas forcément bénéfique</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/accueil-du-jeune-enfant-augmenter-les-heures-de-creche-nest-pas-forcement-benefique/</link>
-      <description>Pour le développement de l'enfant, la durée de la fréquentation de la crèche importe moins que la qualité des interactions que l'enfant y trouve.</description>
-      <guid isPermaLink="false">86282cb4a4b19a335ad9c5b234ecedbd7dfc3f4ae03d81ed0390fd3677534104</guid>
-      <pubDate>Mon, 17 Aug 2026 13:16:23 +0000</pubDate>
     </item>
   </channel>
 </rss>

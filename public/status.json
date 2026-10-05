@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-04T18:39:38.657625+00:00",
+  "generated_at": "2026-10-05T14:44:25.561560+00:00",
   "sites_total": 17,
   "sites_ok": 17,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 1,
-  "merged_items": 626,
+  "new_items": 15,
+  "merged_items": 627,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -185,7 +185,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 229 jours (seuil : 60)"
+        "rien de neuf depuis 230 jours (seuil : 60)"
       ]
     },
     {
@@ -243,7 +243,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 913 jours (seuil : 60)"
+        "rien de neuf depuis 914 jours (seuil : 60)"
       ]
     },
     {
@@ -255,7 +255,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 17,
+      "items": 18,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []
