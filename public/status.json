@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-05T14:44:25.561560+00:00",
+  "generated_at": "2026-10-05T22:02:41.908313+00:00",
   "sites_total": 17,
   "sites_ok": 17,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 15,
-  "merged_items": 627,
+  "new_items": 8,
+  "merged_items": 624,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -95,7 +95,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 12,
+      "items": 15,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
@@ -109,7 +109,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 21,
+      "items": 15,
       "feed": "observatoire-culture.xml",
       "source_feed": "https://www.observatoire-culture.net/feed/",
       "warnings": []
