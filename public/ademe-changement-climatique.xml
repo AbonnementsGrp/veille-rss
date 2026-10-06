@@ -52,17 +52,17 @@
       <pubDate>Mon, 21 Sep 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Journées Françaises de l'Evaluation 2025 : "Evaluation et Transition(s)"</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9500-journees-francaises-de-l-evaluation-2025-evaluation-et-transitions.html</link>
-      <description>Organisées tous les deux ans par la Société Française de l’Évaluation (SFE), les Journées Françaises de l’Évaluation réunissent près de 400 participants issus des collectivités, de la recherche, des institutions publiques et du monde de l’évaluation. Cet événement national vise à renforcer la place de l’évaluation dans la décision publique, à valoriser son utilité et à favoriser le partage de pratiques entre acteurs. À travers des conférences, des échanges scientifiques, des témoignages, des visites de terrain et des interventions de personnalités reconnues, les JFE permettent d’explorer les grands enjeux contemporains des politiques publiques, notamment ceux liés aux transitions. Elles contribuent également à lever les freins au développement de l’évaluation, à mieux outiller les collectivités et à rapprocher les acteurs territoriaux et nationaux de la recherche. Les interventions font enfin l’objet d’une valorisation scientifique à travers la publication d’actes, afin de prolonger les réflexions et de laisser un héritage durable.</description>
-      <guid isPermaLink="false">12647f8015c8abff73dd5c84ea6c436507972f0ab3a318f411f10c0a2779d06e</guid>
-      <pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Les agriculteurs et le changement climatique</title>
       <link>https://librairie.ademe.fr/changement-climatique/9070-les-agriculteurs-et-le-changement-climatique.html</link>
       <description>Depuis 2000, l’ADEME conduit une enquête administrée chaque année auprès d'échantillons représentatifs de la population française permettant de dresser un tableau des représentations sociales du changement climatique et de leurs évolutions. L'enquête est également réalisée auprès d’un sur-échantillon cible. Cette année il a porté sur les agriculteurs qui avaient été interrogés en 2017. Les résultats montrent que les attitudes des agriculteurs interrogés dans cette enquête sont assez similaires à celles de la population générale. L’environnement apparait toutefois comme leur priorité numéro un par rapport à d’autres enjeux pour la France (alors qu’il s’agit de la 5ème préoccupation pour les Français). Ils sont par ailleurs plus nombreux à déjà subir les conséquences du changement climatique, en nette augmentation depuis 2017. Les conséquences du changement climatique affectent fortement leur activité et les contraint à de nouvelles stratégies d’adaptation. Ils affirment davantage que le public leur capacité de s’adapter à ses conséquences, bien que cet optimisme recule.</description>
       <guid isPermaLink="false">212f2203923d93d378dcb68e182b6a9c3119f370628bdaf4541ab65767659e32</guid>
+      <pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Journées Françaises de l'Evaluation 2025 : "Evaluation et Transition(s)"</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9500-journees-francaises-de-l-evaluation-2025-evaluation-et-transitions.html</link>
+      <description>Organisées tous les deux ans par la Société Française de l’Évaluation (SFE), les Journées Françaises de l’Évaluation réunissent près de 400 participants issus des collectivités, de la recherche, des institutions publiques et du monde de l’évaluation. Cet événement national vise à renforcer la place de l’évaluation dans la décision publique, à valoriser son utilité et à favoriser le partage de pratiques entre acteurs. À travers des conférences, des échanges scientifiques, des témoignages, des visites de terrain et des interventions de personnalités reconnues, les JFE permettent d’explorer les grands enjeux contemporains des politiques publiques, notamment ceux liés aux transitions. Elles contribuent également à lever les freins au développement de l’évaluation, à mieux outiller les collectivités et à rapprocher les acteurs territoriaux et nationaux de la recherche. Les interventions font enfin l’objet d’une valorisation scientifique à travers la publication d’actes, afin de prolonger les réflexions et de laisser un héritage durable.</description>
+      <guid isPermaLink="false">12647f8015c8abff73dd5c84ea6c436507972f0ab3a318f411f10c0a2779d06e</guid>
       <pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -157,13 +157,6 @@
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La Forge d'Adaptations : infographie</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9429-la-forge-d-adaptations-infographie.html</link>
-      <description>Du sud au nord, produire et documenter des prototypes de solutions face aux effets du changement climatique. Les nombreux fablabs à travers le monde, en tant que lieux de conception et de fabrication, développent des prototypes pour répondre aux défis locaux soulevés par le changement climatique. Ces prototypes sont souvent méconnus des populations, car ils ne sont pas documentés d’une façon permettant un transfert aisé des connaissances.</description>
-      <guid isPermaLink="false">33014a19e19d95857277ad9a761eefbc30780c5af371d7369fb6a47bc91a4d23</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Référentiel par catégorie de produit (RCP) des applicatifs numériques</title>
       <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9434-referentiel-par-categorie-de-produit-rcp-des-applicatifs-numeriques.html</link>
       <description>Ce référentiel méthodologique pour l’évaluation environnemental fournit la méthode à respecter pour réaliser l’analyse du cycle de vie d’un applicatif numérique.</description>
@@ -175,6 +168,13 @@
       <link>https://librairie.ademe.fr/changement-climatique/9431-terristory-infographie.html</link>
       <description>Aider le pilotage de la transition écologique des territoires via une plateforme partenariale. Remédier à la dispersion des données du territoire et des outils de pilotage nécessaires aux collectivités pour organiser leur transition écologique</description>
       <guid isPermaLink="false">2b4daf2d8e6fbe6e1909db7481e524f3230fc5de1fe3584dab966dc432b6f554</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Forge d'Adaptations : infographie</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9429-la-forge-d-adaptations-infographie.html</link>
+      <description>Du sud au nord, produire et documenter des prototypes de solutions face aux effets du changement climatique. Les nombreux fablabs à travers le monde, en tant que lieux de conception et de fabrication, développent des prototypes pour répondre aux défis locaux soulevés par le changement climatique. Ces prototypes sont souvent méconnus des populations, car ils ne sont pas documentés d’une façon permettant un transfert aisé des connaissances.</description>
+      <guid isPermaLink="false">33014a19e19d95857277ad9a761eefbc30780c5af371d7369fb6a47bc91a4d23</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -199,6 +199,20 @@
       <pubDate>Wed, 10 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Référentiel de compétences : Transition Écologique et Énergétique pour les métiers de la commande publique et achat</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9376-referentiel-de-competences-transition-ecologique-et-energetique-pour-les-metiers-de-la-commande-publique-et-achat.html</link>
+      <description>Ce document présente le référentiel de compétences en Transition Écologique et Énergétique (TEE) dédié aux métiers de la commande publique et achat. La démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le référentiel de compétences sert d'outil d'évaluation et de base pour structurer des parcours de formation adaptés, en comparant les pratiques actuelles aux exigences imposées par le changement climatiques. Il cartographie les besoins de montée en compétences à travers cinq grands axes : la sensibilisation/posture, l'acquisition de connaissances techniques, le développement de compétences transversales, l'expérimentation, la valorisation/transmission. Pour chaque compétence, un niveau attendu (allant de 1 "Notions" à 3 "Avancé") est précisément défini pour les profils clés du secteur, ici l'acheteur public, l'instructeur gestionnaire des marchés publics et le prescripteur . Ce guide constitue ainsi un cadre normalisé pour accompagner le changement et transformer les pratiques métiers face aux défis écologiques.</description>
+      <guid isPermaLink="false">efbdcb21e3409505bd7edfa313e5c8a19ca631b6b5bf3ee9811d9042d7881a21</guid>
+      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Projet EcoBioMAx - Eco-extraction de biomasse maximisée par couplage bi-vis/micro-ondes</title>
+      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9248-projet-ecobiomax-eco-extraction-de-biomasse-maximisee-par-couplage-bi-vis-micro-ondes.html</link>
+      <description>L’objectif du projet est de développer une filière chimie biosourcée pour offrir des alternatives aux usages traditionnels du châtaignier, dont la qualité n'est plus suffisante. Grâce à sa richesse en ellagitannins, le bois peut être valorisé dans des secteurs tels que le biocontrôle, la cosmétique et l’agroalimentaire. Le projet ÉcoBioMax étudie la combinaison de l’extraction par micro-ondes et de l’extrusion bi-vis pour maximiser les rendements et tendre vers le zéro déchet.</description>
+      <guid isPermaLink="false">318b8965a713a3077164472ef2b199ededb4412924aeaa7d11fdf04e73d23d2c</guid>
+      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>GRAINE 2019 - TreCEffiQuaS</title>
       <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9239-graine-2019-treceffiquas.html</link>
       <description>Le projet TreCEffiQuaS s’appuyant sur des recherches menées sur le chêne français démontre qu’une immense majorité du bois dit de qualité secondaire peut effectivement être transformée en matériau bois beaucoup plus performant. Grâce à de nouvelles méthodes de classement à l’aide de scanners industriels plus efficaces que les méthodes visuelles et à des outils d’optimisation innovants, les chercheurs de l’ENSAM de Cluny ouvrent la voie à une application du bois de chêne en matériaux de construction de façon plus durable et plus efficace de nos ressources forestières.</description>
@@ -210,13 +224,6 @@
       <link>https://librairie.ademe.fr/changement-climatique/9373-referentiel-de-competences-transition-ecologique-et-energetique-pour-les-metiers-des-espaces-verts.html</link>
       <description>Ce document présente le référentiel de compétences en Transition Écologique et Énergétique (TEE) dédié aux métiers des espaces verts. La démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le référentiel de compétences sert d'outil d'évaluation et de base pour structurer des parcours de formation adaptés, en comparant les pratiques actuelles aux exigences imposées par le changement climatiques. Il cartographie les besoins de montée en compétences à travers cinq grands axes : la sensibilisation/posture, l'acquisition de connaissances techniques, le développement de compétences transversales, l'expérimentation, la valorisation/transmission. Pour chaque compétence, un niveau attendu (allant de 1 "Notions" à 3 "Avancé") est précisément défini pour les profils clés du secteur, ici le chargé de travaux espaces verts, le jardinier et l'agent d'entretien. Ce guide constitue ainsi un cadre normalisé pour accompagner le changement et transformer les pratiques métiers face aux défis écologiques.</description>
       <guid isPermaLink="false">05648cc1942bf46e9341210f7f365b833c9066d2a32f077f6a00c636d762dd0e</guid>
-      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Référentiel de compétences : Transition Écologique et Énergétique pour les métiers de la commande publique et achat</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9376-referentiel-de-competences-transition-ecologique-et-energetique-pour-les-metiers-de-la-commande-publique-et-achat.html</link>
-      <description>Ce document présente le référentiel de compétences en Transition Écologique et Énergétique (TEE) dédié aux métiers de la commande publique et achat. La démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le référentiel de compétences sert d'outil d'évaluation et de base pour structurer des parcours de formation adaptés, en comparant les pratiques actuelles aux exigences imposées par le changement climatiques. Il cartographie les besoins de montée en compétences à travers cinq grands axes : la sensibilisation/posture, l'acquisition de connaissances techniques, le développement de compétences transversales, l'expérimentation, la valorisation/transmission. Pour chaque compétence, un niveau attendu (allant de 1 "Notions" à 3 "Avancé") est précisément défini pour les profils clés du secteur, ici l'acheteur public, l'instructeur gestionnaire des marchés publics et le prescripteur . Ce guide constitue ainsi un cadre normalisé pour accompagner le changement et transformer les pratiques métiers face aux défis écologiques.</description>
-      <guid isPermaLink="false">efbdcb21e3409505bd7edfa313e5c8a19ca631b6b5bf3ee9811d9042d7881a21</guid>
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -266,13 +273,6 @@
       <link>https://librairie.ademe.fr/changement-climatique/9383-carte-metiers-des-espaces-verts-missions-et-evolutions-2025-2050.html</link>
       <description>Ce document présente la carte métier prospective dédiée à l'évolution du rôle de jardinier / chargé de travaux espaces verts &amp; naturels entre 2025 et 2050 . Issu de la démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, ce projet vise à anticiper les mutations des pratiques professionnelles face aux défis écologiques . Le document cartographie les missions actuelles, les enjeux majeurs et les impacts environnementaux du métier , avant de projeter sa transformation à l'horizon 2050 selon deux trajectoires de l'ADEME : le scénario 2 "Coopérations Territoriales" d'une part, et le scénario 3 "Technologies vertes" d'autre part. Il détaille les compétences clés futures (savoirs, savoir-faire, savoir-être) indispensables pour accompagner cette transition et présente le parcours de formation associé. Ce guide constitue ainsi un outil d'orientation stratégique pour préparer dès aujourd'hui les agents aux pratiques de demain .</description>
       <guid isPermaLink="false">467abef816e66f78910077d58e8f87ae51b00c342d3c03bdbd1aaeb8f8ef2f9f</guid>
-      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Projet EcoBioMAx - Eco-extraction de biomasse maximisée par couplage bi-vis/micro-ondes</title>
-      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9248-projet-ecobiomax-eco-extraction-de-biomasse-maximisee-par-couplage-bi-vis-micro-ondes.html</link>
-      <description>L’objectif du projet est de développer une filière chimie biosourcée pour offrir des alternatives aux usages traditionnels du châtaignier, dont la qualité n'est plus suffisante. Grâce à sa richesse en ellagitannins, le bois peut être valorisé dans des secteurs tels que le biocontrôle, la cosmétique et l’agroalimentaire. Le projet ÉcoBioMax étudie la combinaison de l’extraction par micro-ondes et de l’extrusion bi-vis pour maximiser les rendements et tendre vers le zéro déchet.</description>
-      <guid isPermaLink="false">318b8965a713a3077164472ef2b199ededb4412924aeaa7d11fdf04e73d23d2c</guid>
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -402,10 +402,10 @@
       <pubDate>Sun, 22 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Q-ADAPT : Quantification des besoins pour accélérer l'adaptation au changement climatique des territoires</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9141-q-adapt-quantification-des-besoins-pour-accelerer-l-adaptation-au-changement-climatique-des-territoires.html</link>
-      <description>Lauréat de l’Appel à Projets de Recherche PACT2e de l’ADEME, le projet Q-ADAPT consiste en un travail de consolidation des éléments de coûts disponibles et d’estimation des éléments manquants sur la base des connaissances et expériences pertinentes. Il poursuivait un objectif double : Donner une vue d’ensemble des besoins à l’échelle nationale sous la forme d’un tout premier « observatoire de tous les coûts de l’adaptation » sur lequel s’appuyer pour objectiver les besoins de financement et expliciter les grands débats sous-jacents ; Rendre disponibles des briques désagrégées de coûts que les différents concepteurs de démarches d’adaptation pourraient utiliser pour chiffrer leurs trajectoires et appuyer leur prise de décision.</description>
-      <guid isPermaLink="false">eb0d3dc0dc2866449a3a9cb2644b07fe0cb0e35614ae4876345113d8cefb1ae2</guid>
+      <title>FRESHWAY : Analyse et modélisation des trajectoires d'adaptation au changement climatique - Cas du rafraichissement urbain</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9140-freshway-analyse-et-modelisation-des-trajectoires-d-adaptation-au-changement-climatique-cas-du-rafraichissement-urbain.html</link>
+      <description>Lauréat de l’Appel à Projets de Recherche PACT2e de l’ADEME, le projet FRESHWAY s’intéresse aux trajectoires d’adaptation des territoires urbains aux vagues de chaleur. L’étude détaillée des trajectoires d’adaptation de quatre collectivités - Castelnau-le-Lez, Pontault-Combault, Sarcelles, Montreuil – a permis de faire ressortir quatre dimensions structurantes et plusieurs recommandations clés.</description>
+      <guid isPermaLink="false">40e64819e819b0809b8fb55129880dd0709eebfdcaa9d06dce9ee10fa6aa2dff</guid>
       <pubDate>Wed, 18 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
@@ -416,17 +416,17 @@
       <pubDate>Wed, 18 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>FRESHWAY : Analyse et modélisation des trajectoires d'adaptation au changement climatique - Cas du rafraichissement urbain</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9140-freshway-analyse-et-modelisation-des-trajectoires-d-adaptation-au-changement-climatique-cas-du-rafraichissement-urbain.html</link>
-      <description>Lauréat de l’Appel à Projets de Recherche PACT2e de l’ADEME, le projet FRESHWAY s’intéresse aux trajectoires d’adaptation des territoires urbains aux vagues de chaleur. L’étude détaillée des trajectoires d’adaptation de quatre collectivités - Castelnau-le-Lez, Pontault-Combault, Sarcelles, Montreuil – a permis de faire ressortir quatre dimensions structurantes et plusieurs recommandations clés.</description>
-      <guid isPermaLink="false">40e64819e819b0809b8fb55129880dd0709eebfdcaa9d06dce9ee10fa6aa2dff</guid>
-      <pubDate>Wed, 18 Mar 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>CASSANDRE : CaniculeS, SANté et Densité de REseaux météorologiques sur le territoire grenoblois</title>
       <link>https://librairie.ademe.fr/changement-climatique/9139-cassandre-canicules-sante-et-densite-de-reseaux-meteorologiques-sur-le-territoire-grenoblois.html</link>
       <description>Lauréat de l’Appel à Projets de Recherche PACT2e de l’ADEME, le projet CASSANDRE visait à caractériser les extrêmes de chaleur (îlot de chaleur urbain, vagues de chaleur, canicules) aux échelles spatio-temporelles fines, et leurs impacts sanitaires associés, en particulier sur les populations vulnérables et/ou sensibles, à l’échelle du territoire grenoblois. Il a permis d’ identifier clairement des phénomènes d’ICU dans les villes de Grenoble et d’Echirolles, et notamment dans les centres-villes où le bâti est très dense. En parallèle, plusieurs cartes de vulnérabilité ont été réalisées, prenant notamment en compte des critères d’âge, de revenu et d’isolement. L’analyse croisée des îlots de chaleur urbaine et des indicateurs de vulnérabilité socio-sanitaire n’a pas démontré de corrélation directe : les quartiers favorisés du centre-ville de Grenoble correspondent aux îlots de chaleur les plus intenses, tandis que les quartiers défavorisés, bien que plus vulnérables à la chaleur sur le plan sanitaire, y sont moins exposés du fait de leur moindre densité bâtie.</description>
       <guid isPermaLink="false">571a48f376a4a359aad30af53229972a80037e305ea7e086864320b5280fdc6d</guid>
+      <pubDate>Wed, 18 Mar 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Q-ADAPT : Quantification des besoins pour accélérer l'adaptation au changement climatique des territoires</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9141-q-adapt-quantification-des-besoins-pour-accelerer-l-adaptation-au-changement-climatique-des-territoires.html</link>
+      <description>Lauréat de l’Appel à Projets de Recherche PACT2e de l’ADEME, le projet Q-ADAPT consiste en un travail de consolidation des éléments de coûts disponibles et d’estimation des éléments manquants sur la base des connaissances et expériences pertinentes. Il poursuivait un objectif double : Donner une vue d’ensemble des besoins à l’échelle nationale sous la forme d’un tout premier « observatoire de tous les coûts de l’adaptation » sur lequel s’appuyer pour objectiver les besoins de financement et expliciter les grands débats sous-jacents ; Rendre disponibles des briques désagrégées de coûts que les différents concepteurs de démarches d’adaptation pourraient utiliser pour chiffrer leurs trajectoires et appuyer leur prise de décision.</description>
+      <guid isPermaLink="false">eb0d3dc0dc2866449a3a9cb2644b07fe0cb0e35614ae4876345113d8cefb1ae2</guid>
       <pubDate>Wed, 18 Mar 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>

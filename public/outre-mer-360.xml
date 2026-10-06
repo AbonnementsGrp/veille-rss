@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 06 Oct 2026 15:34:57 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 15:55:24 +0000</lastBuildDate>
+    <item>
+      <title>Des Antilles à La Réunion, les lycéens également mobilisés pour de meilleures conditions de scolarité</title>
+      <link>https://outremers360.com/bassin-atlantique-appli/des-antilles-a-la-reunion-les-lyceens-egalement-mobilises-pour-de-meilleures-conditions-de-scolarite</link>
+      <description>Lycées perturbés, heurts et des dizaines d'interpellations: des Antilles à La Réunion, les jeunes se mobilisent dans plusieurs territoires ultramarins, avec des revendications différentes.Sur l'île de La Réunion, dans l'océan Indien, les jeunes exigent «plus de profs»,...</description>
+      <guid isPermaLink="false">b9bdfc92eca03b1405f5987729ad5a95f60430a0af85e5340328461c818b1e17</guid>
+      <pubDate>Tue, 06 Oct 2026 15:55:24 +0000</pubDate>
+    </item>
     <item>
       <title>La sénatrice de la Guadeloupe Solanges Nadille désignée vice-présidente du Sénat</title>
       <link>https://outremers360.com/bassin-atlantique-appli/la-senatrice-de-la-guadeloupe-solanges-nadille-designee-vice-presidente-du-senat</link>
@@ -421,13 +428,6 @@
       <description>Interview de Laetitia Niaudeau, directrice générale adjointe de l'Apec (Association pour l'emploi des cadres) à l'occasion de la première édition de Choose Outre-mer.Laetitia Niaudeau, directrice générale adjointe de l'Apec (Association pour l'emploi des cadres) a répondu...</description>
       <guid isPermaLink="false">b3d348e0c8ff3d8aca454b6c0cda29c711f1c9c1133fe2ade544691cb6f01d44</guid>
       <pubDate>Fri, 02 Oct 2026 08:56:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Aérien : Madagascar Airlines fait son retour à La Réunion et relancera la liaison vers Sainte-Marie en décembre</title>
-      <link>https://outremers360.com/bassin-indien-appli/aerien-madagascar-airlines-fait-son-retour-a-la-reunion-et-relancera-la-liaison-vers-sainte-marie-en-decembre</link>
-      <description>La compagnie nationale malgache Madagascar Airlines fait son retour à l’aéroport La Réunion Roland Garros. Un ATR 72 doit atterrir ce samedi 3 octobre 2026, avant la reprise commerciale, le 16 décembre prochain, de la liaison La Réunion – Île Sainte-Marie –...</description>
-      <guid isPermaLink="false">9253bb744ef3fe3fed69c64738d91e8329f7b414687698347f93c2b466918a7e</guid>
-      <pubDate>Fri, 02 Oct 2026 08:03:09 +0000</pubDate>
     </item>
   </channel>
 </rss>
