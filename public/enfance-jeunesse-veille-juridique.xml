@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 01 Oct 2026 06:38:23 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:42:00 +0000</lastBuildDate>
+    <item>
+      <title>Mineur accusé d'assassinat : la Cour de cassation annule la prolongation de sa détention, faute de loi</title>
+      <link>https://www.enfancejeunesseinfos.fr/mineur-accuse-dassassinat-la-cour-de-cassation-annule-la-prolongation-de-sa-detention-faute-de-loi/</link>
+      <description>Dans un arrêt du 30 septembre 2026, la Cour de cassation juge illégale la prolongation de la détention d’un mineur accusé d’assassinat, ordonnée le jour de l’abrogation du texte qui l’autorisait. Elle ordonne sa remise en liberté sous contrôle judiciaire.</description>
+      <guid isPermaLink="false">cb90e1e07643e4b072371bfe944583d5d6b2b3fea27936c84144a8e7d52d256f</guid>
+      <pubDate>Mon, 05 Oct 2026 13:42:00 +0000</pubDate>
+    </item>
     <item>
       <title>Santé mentale : le pilotage national confié à une délégation interministérielle</title>
       <link>https://www.enfancejeunesseinfos.fr/sante-mentale-le-pilotage-national-confie-a-une-delegation-interministerielle/</link>
@@ -190,13 +197,6 @@
       <description>À 18 ans, les anciens mineurs non accompagnés (MNA) confiés à l’ASE ne bénéficient d’aucun droit automatique au séjour. Deux jugements montrent comment le juge apprécie leur formation, leur insertion professionnelle et leurs attaches familiales face à un refus préfectoral.</description>
       <guid isPermaLink="false">1f1e5b7a4b48979e2e40fb7600110bbf186a5290586953cae69c9d8c203aa479</guid>
       <pubDate>Mon, 27 Jul 2026 09:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ségur numérique : 8,26 millions d'euros pour équiper les structures de l'enfance handicapée et protégée</title>
-      <link>https://www.enfancejeunesseinfos.fr/segur-numerique-8-26-millions-deuros-pour-equiper-les-structures-de-lenfance-handicapee-et-protegee/</link>
-      <description>Plus de 3 150 établissements accueillant des enfants handicapés ou protégés sont restés hors de la vague 1 du Ségur numérique. Une instruction du 21 juillet 2026 leur consacre 8,261 millions d'euros pour s'équiper d'un dossier usager informatisé, sous conditions assouplies.</description>
-      <guid isPermaLink="false">b6951b049c2eb259294eba13a6f4c5e8b696e5a619f54e46dcdab10d2b5b7d76</guid>
-      <pubDate>Thu, 23 Jul 2026 15:58:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

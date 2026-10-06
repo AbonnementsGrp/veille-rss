@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 05 Oct 2026 14:38:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 12:42:43 +0000</lastBuildDate>
+    <item>
+      <title>Alerte budgétaire : le syndicat des particuliers employeurs met en garde contre une baisse des aides</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/emploi-a-domicile-le-syndicat-des-particuliers-employeurs-met-en-garde-contre-une-baisse-des-aides/</link>
+      <description>Moins d’heures de travail, un recours accru à l’emploi non déclaré, voire l’arrêt de certains contrats : le Syndicat des particuliers employeurs (S.P.E) alerte sur l'impact d’une réduction potentielle des aides à l’emploi à domicile alors que se prépare l’examen du budget 2027.</description>
+      <guid isPermaLink="false">b1d983c6a0e4abf2528280b372dd43078be86629a103f6e7e3f47e4710e01bbe</guid>
+      <pubDate>Tue, 06 Oct 2026 12:42:43 +0000</pubDate>
+    </item>
     <item>
       <title>Budget 2027 : derrière l’effet d’annonce, la FFEC pointe un manque de moyens</title>
       <link>https://www.lesprosdelapetiteenfance.fr/budget-2027-derriere-leffet-dannonce-la-ffec-pointe-un-manque-de-moyens/</link>
@@ -393,13 +400,6 @@
       <description>Une étude récente menée auprès de 306 enfants montre une association entre une forte exposition aux écrans à l’âge de 2 ans et un vocabulaire plus faible à 4 ans. Ni la présence d'un parent ni le choix d’un programme éducatif n'ont modifié ce lien.</description>
       <guid isPermaLink="false">ae99c0a2f92aff626b5f645ea0166c32885b7b7a54c898ebe67c0db720c6a467</guid>
       <pubDate>Mon, 24 Aug 2026 10:17:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Crèche : et si l’âge des autres enfants importait moins qu’on ne le pense ?</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/creche-et-si-lage-des-autres-enfants-importait-moins-quon-ne-le-pense/</link>
-      <description>La présence d’enfants d’âges différents dans un même groupe est fréquente en crèche. Mais cette organisation influence-t-elle réellement la manière dont les enfants participent aux activités et interagissent avec les...</description>
-      <guid isPermaLink="false">cc806d5bdcb7c354016f044ab28edb12a03e85f088617320edeaca9a5ca091b4</guid>
-      <pubDate>Thu, 20 Aug 2026 07:44:27 +0000</pubDate>
     </item>
   </channel>
 </rss>
