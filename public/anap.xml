@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 02 Oct 2026 13:43:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 05 Oct 2026 13:26:32 +0000</lastBuildDate>
+    <item>
+      <title>Ehpad vert : autonomie énergétique, adaptation climatique, performance économique</title>
+      <link>https://www.anap.fr/s/article/ehpad-vert-autonomie-energetique-adaptation-climatique-performance-economique</link>
+      <description>L’Anap conçoit le première modèle d’Ehpad autonome en énergie et un simulateur pour s’adapter aux canicules.</description>
+      <guid isPermaLink="false">cee6ca8707f2cbc8456448e7c6f1768cd699e048520dfe40001c580d8a28efd5</guid>
+      <pubDate>Mon, 05 Oct 2026 13:26:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire : Les Rendez-Vous des PCO</title>
+      <link>https://www.anap.fr/s/article/webinaire-les-rendez-vous-des-pco</link>
+      <description>A la demande de la DITND, l'Anap a formulé des recommandations et construit une boîte à outils concrète pour renforcer l’organisation des plateformes de coordination et d'orientation (PCO). Participez à notre webinaire pour découvrir ces outils et les prendre en main.</description>
+      <guid isPermaLink="false">2a861a0a3fe5e4dd14017ba0790ed16655f274d0f9efb4470c873b886feaa24a</guid>
+      <pubDate>Mon, 05 Oct 2026 07:38:31 +0000</pubDate>
+    </item>
     <item>
       <title>Webconférence – Admission J0 : moins de nuitées, plus de fluidité</title>
       <link>https://www.anap.fr/s/article/Webconf%C3%A9rence-Admission-J0-moins-de-nuitees-plus-de-fluidite</link>
@@ -414,20 +428,6 @@
       <description>Découvrez "Repères Dimensionnels DSI", un outil simple et opérationnel pour construire un système d'information dimensionné à votre regroupement d’établissements de santé et gagnez en efficacité !</description>
       <guid isPermaLink="false">af08e4100c87766465a35cfa2f71a65118b4425cbb86717948e0cef135883967</guid>
       <pubDate>Thu, 03 Sep 2026 14:19:08 +0000</pubDate>
-    </item>
-    <item>
-      <title>Laboratoire d’innovation : Un cadre et une méthode pour la transformation de votre établissement</title>
-      <link>https://www.anap.fr/s/article/Laboratoire-d-innovation-un-essentiel-pour-transformer-nos-etablissements</link>
-      <description>Le laboratoire d’innovation est un outil stratégique au service de la transformation des établissements de santé, à condition d’être clairement positionné et soutenu institutionnellement. Ce guide propose des repères opérationnels pour comprendre le rôle d’un lab d’innovation, définir sa raison d’être, organiser son portage politique, sa gouvernance et ses moyens, et faire des choix réalistes. Il s’adresse aux établissements souhaitant structurer une démarche d’innovation adaptée à leurs priorit</description>
-      <guid isPermaLink="false">eb5317d0d16ae114cb567c758de876bdcfaea676812c39059af23a2a03e7e5dc</guid>
-      <pubDate>Tue, 01 Sep 2026 13:29:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Mon empreinte carbone</title>
-      <link>https://www.anap.fr/s/article/mon-empreinte-carbone</link>
-      <description>Mon Empreinte Carbone est un outil de datavisualisation qui permet d'estimer les émissions de CO² du secteur public de la santé à trois échelles différentes : nationale, régionale, structure juridique (FINESS) des établissements sanitaires et médico-sociaux.</description>
-      <guid isPermaLink="false">4635f81c4de9cb90d6b54a7d2833e731db05a2a5ee28bbe2bd34ccd32efd6c28</guid>
-      <pubDate>Tue, 01 Sep 2026 08:21:04 +0000</pubDate>
     </item>
   </channel>
 </rss>
