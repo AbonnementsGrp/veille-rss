@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-07T06:05:57.745473+00:00",
+  "generated_at": "2026-10-07T13:29:49.986641+00:00",
   "sites_total": 17,
-  "sites_ok": 17,
-  "sites_error": 0,
+  "sites_ok": 16,
+  "sites_error": 1,
   "sites_warning": 2,
-  "new_items": 54,
-  "merged_items": 620,
+  "new_items": 20,
+  "merged_items": 609,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -93,10 +93,11 @@
       "url": "https://ofb.gouv.fr/actualites",
       "feed_categories": [],
       "render": false,
-      "status": "ok",
-      "method": "flux officiel",
+      "status": "error",
+      "method": "historique conservé",
       "items": 16,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
+      "error": "503 Server Error: Service Unavailable for url: https://ofb.gouv.fr/actualites",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
     },
@@ -123,7 +124,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 21,
+      "items": 16,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
@@ -151,7 +152,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 56,
+      "items": 55,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -185,7 +186,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 231 jours (seuil : 60)"
+        "rien de neuf depuis 232 jours (seuil : 60)"
       ]
     },
     {
@@ -211,7 +212,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 28,
+      "items": 22,
       "feed": "cnsa.xml",
       "source_feed": "https://www.cnsa.fr/flux-rss.xml/article",
       "warnings": []
@@ -225,7 +226,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 44,
+      "items": 45,
       "feed": "igas.xml",
       "source_feed": "https://igas.gouv.fr/rss.xml",
       "warnings": []
@@ -243,7 +244,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 915 jours (seuil : 60)"
+        "rien de neuf depuis 916 jours (seuil : 60)"
       ]
     },
     {
@@ -255,7 +256,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 18,
+      "items": 19,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []

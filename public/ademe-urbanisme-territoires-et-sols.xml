@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 01 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Etude des enjeux énergétiques des entrepôts</title>
+      <link>https://librairie.ademe.fr/mobilite-et-transports/9657-etude-des-enjeux-energetiques-des-entrepots.html</link>
+      <description>Les entrepôts logistiques de plus de 1 000 m² représentent un parc immobilier de 93,4 millions de m² en France, caractérisé par d’importantes surfaces de toitures et de parkings déjà artificialisés. L’étude met en évidence leur potentiel significatif de production d’énergies renouvelables, notamment photovoltaïque et géothermique. À l’horizon 2028, le productible photovoltaïque est estimé entre 6,4 et 8,1 TWh, ouvrant des perspectives d’autoconsommation, de couplage bâtiment-véhicule et d’intégration dans les stratégies énergétiques territoriales.</description>
+      <guid isPermaLink="false">7980aa4ffefa229566b814c61f6fe6f23f69ecdde1c66aec67cd9bce2d9e936b</guid>
+      <pubDate>Tue, 06 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Guide pour la réalisation d'une étude d'orientation d'usages pour la reconversion des friches</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9646-guide-pour-la-realisation-d-une-etude-d-orientation-d-usages-pour-la-reconversion-des-friches.html</link>
@@ -129,10 +136,10 @@
       <pubDate>Wed, 24 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Diagnostic Mobilité : infographie</title>
-      <link>https://librairie.ademe.fr/mobilite-et-transports/9441-diagnostic-mobilite-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est une application web qui permet de sélectionner un territoire et d’obtenir des données variées pour comprendre : • L’organisation géographique du territoire et le profil de la population : identifier les besoins spécifiques à la population et localiser les lieux qui génèrent des déplacements • L’offre de transport à disposition : mettre en regard les solutions actuelles de mobilité avec les besoins du territoire • Les pratiques de déplacement : quantifier les modes, les motifs, les flux afin d’identifier un potentiel de report modal Par son accès libre à tout public, l’outil constitue ainsi un support de travail commun pour les acteurs qui oeuvrent pour une mobilité durable des territoires : collectivités, bureaux d’études, opérateurs de solutions de mobilité, associations et initiatives citoyennes. Il permet alors de : • Présenter rapidement et sensibiliser • Identifier des actions pertinentes • Alimenter le diagnostic d’un plan de mobilité</description>
-      <guid isPermaLink="false">857dbe8b6792f4560744d727b1c8074aec00bc12880e34b5b4818c9c23c07712</guid>
+      <title>Cartographie participative des refuges climatiques : infographie</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9442-cartographie-participative-des-refuges-climatiques-infographie.html</link>
+      <description>Ce commun lauréat à l'appel à communs est une cartographie numérique participative, pour que les collectivités et les citoyens puissent identifier, qualifier et rendre visibles les espaces refuges climatiques en ville.</description>
+      <guid isPermaLink="false">a892fcb2a9f033af4bfd90603acd3cde3146cccec47dea0984ad80763a1f0e1d</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -157,17 +164,17 @@
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Diagnostic Mobilité : infographie</title>
+      <link>https://librairie.ademe.fr/mobilite-et-transports/9441-diagnostic-mobilite-infographie.html</link>
+      <description>Ce commun lauréat à l'appel à communs est une application web qui permet de sélectionner un territoire et d’obtenir des données variées pour comprendre : • L’organisation géographique du territoire et le profil de la population : identifier les besoins spécifiques à la population et localiser les lieux qui génèrent des déplacements • L’offre de transport à disposition : mettre en regard les solutions actuelles de mobilité avec les besoins du territoire • Les pratiques de déplacement : quantifier les modes, les motifs, les flux afin d’identifier un potentiel de report modal Par son accès libre à tout public, l’outil constitue ainsi un support de travail commun pour les acteurs qui oeuvrent pour une mobilité durable des territoires : collectivités, bureaux d’études, opérateurs de solutions de mobilité, associations et initiatives citoyennes. Il permet alors de : • Présenter rapidement et sensibiliser • Identifier des actions pertinentes • Alimenter le diagnostic d’un plan de mobilité</description>
+      <guid isPermaLink="false">857dbe8b6792f4560744d727b1c8074aec00bc12880e34b5b4818c9c23c07712</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>La rue commune : infographie</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9438-la-rue-commune-infographie.html</link>
       <description>Ce commun lauréat à l'appel à communs est une méthodologie présentée dans un guide qui met l’accent sur la rue en tant que premier bien commun urbain, et sa transformation pour amorcer la transition écologique et sociale des villes. La méthodologie permet de réaliser un diagnostic de la rue pour la faire évoluer vers l’organisation et la mise en oeuvre d’une rue commune selon 5 principes : le lien social ; la priorité au piéton pour favoriser la santé et le bien-être ; la biodiversité ; le rafraîchissement urbain ; et la valorisation des eaux pluviales. Le diagnostic de la rue intègre des analyses incluant l’insertion de la rue dans son contexte local (mobilités, climat, continuités écologiques), ainsi qu’un diagnostic matériel (sols, façades, toitures) et immatériel (usages). Le guide propose les critères pour qu’une rue soit éligible à cette transformation (constituer un axe secondaire, présence des transports en commun, possibilité de décision d’engagement de la collectivité) et présente 4 études de cas permettant d’illustrer une diversité de situations de projet, dans une perspective de mise en oeuvre.</description>
       <guid isPermaLink="false">987584263cd3f5c5e8ac8136080a28bd9983c5d03ed0ab7f1171a57eb5008698</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cartographie participative des refuges climatiques : infographie</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9442-cartographie-participative-des-refuges-climatiques-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est une cartographie numérique participative, pour que les collectivités et les citoyens puissent identifier, qualifier et rendre visibles les espaces refuges climatiques en ville.</description>
-      <guid isPermaLink="false">a892fcb2a9f033af4bfd90603acd3cde3146cccec47dea0984ad80763a1f0e1d</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -199,17 +206,17 @@
       <pubDate>Wed, 17 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Synthèse multimédia du colloque TEES 2023</title>
-      <link>https://librairie.ademe.fr/recherche-et-innovation/9410-synthese-multimedia-du-colloque-tees-2023-9791029726378.html</link>
-      <description>Les transitions écologiques, économiques et sociales transforment profondément les territoires, les modes de vie et les politiques publiques. Pour mieux comprendre ces dynamiques, l’ADEME a réuni chercheurs en sciences humaines et sociales, collectivités, acteurs socio-économiques et professionnels lors du colloque TEES 2023. Au travers de sessions thématiques et d’ateliers, cet événement a exploré les nouvelles approches de la valeur, les enjeux d’échelle des transitions, l’évolution des modèles économiques, les coopérations logistiques, la reterritorialisation de l’alimentation, le rôle des innovations sociales ou encore les transformations du travail. Les projets présentés - menés dans des territoires variés, apportent des éclairages concrets sur les pratiques locales, les freins rencontrés, les leviers d’action et les effets des transitions sur l’organisation des acteurs. Cette synthèse rassemble les principaux enseignements du colloque : apports scientifiques, retours d’expérience, analyses croisées et perspectives de recherche. Elle contribue à renforcer la compréhension collective des transitions et fournit des repères utiles pour orienter l’action publique et accompagner les acteurs dans la transformation de leurs territoires.</description>
-      <guid isPermaLink="false">6d59fe4ea0ce97f049c798fcaa8f57b3a880574e050f3b526d61bf1bedd0adf5</guid>
-      <pubDate>Wed, 10 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Producing housing differently: the economic models</title>
       <link>https://librairie.ademe.fr/batiment/9411-producing-housing-differently-the-economic-models.html</link>
       <description>How can we define sufficiency in the context of urban planning, construction and real estate? What obstacles do these more sufficient approaches face? How do successful real estate and land sufficiency initiatives manage to overcome these obstacles? This report analyses the economic models of 17 real estate and land sufficiency initiatives. The study also highlights the conditions for replicating these initiatives: training of ‘Swiss Army knife’ project managers, standardisation of bespoke solutions to limit additional costs, and the key role of local authorities, which need to be made more aware of these new economic models. It is also necessary to find ways in which these new methods of housing creation can contribute to the financing of public facilities. Finally, changes in the methods of public financing for real estate (aligning policies to support the production of new housing with those concerning new housing, financing based on a type of project rather than a type of structure, etc.) are also recommended.</description>
       <guid isPermaLink="false">7cd5cd11857a8c1c2c479fce3dd143aae5f157a2b9c245f9580272f54f32c314</guid>
+      <pubDate>Wed, 10 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Synthèse multimédia du colloque TEES 2023</title>
+      <link>https://librairie.ademe.fr/recherche-et-innovation/9410-synthese-multimedia-du-colloque-tees-2023-9791029726378.html</link>
+      <description>Les transitions écologiques, économiques et sociales transforment profondément les territoires, les modes de vie et les politiques publiques. Pour mieux comprendre ces dynamiques, l’ADEME a réuni chercheurs en sciences humaines et sociales, collectivités, acteurs socio-économiques et professionnels lors du colloque TEES 2023. Au travers de sessions thématiques et d’ateliers, cet événement a exploré les nouvelles approches de la valeur, les enjeux d’échelle des transitions, l’évolution des modèles économiques, les coopérations logistiques, la reterritorialisation de l’alimentation, le rôle des innovations sociales ou encore les transformations du travail. Les projets présentés - menés dans des territoires variés, apportent des éclairages concrets sur les pratiques locales, les freins rencontrés, les leviers d’action et les effets des transitions sur l’organisation des acteurs. Cette synthèse rassemble les principaux enseignements du colloque : apports scientifiques, retours d’expérience, analyses croisées et perspectives de recherche. Elle contribue à renforcer la compréhension collective des transitions et fournit des repères utiles pour orienter l’action publique et accompagner les acteurs dans la transformation de leurs territoires.</description>
+      <guid isPermaLink="false">6d59fe4ea0ce97f049c798fcaa8f57b3a880574e050f3b526d61bf1bedd0adf5</guid>
       <pubDate>Wed, 10 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -255,17 +262,17 @@
       <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Un logement plus sobre ? Ce que disent les Français</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9305-un-logement-plus-sobre-ce-que-disent-les-francais.html</link>
-      <description>Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet logement: superficie, pratiques de chauffage et de la climatisation.</description>
-      <guid isPermaLink="false">2eadc6c888be366274d7b642224287242512af7c99d7725d1032bdbbb69e84f1</guid>
-      <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Choix alimentaires - Ce que disent les Français</title>
       <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9306-choix-alimentaires-ce-que-disent-les-francais.html</link>
       <description>Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet alimentation.</description>
       <guid isPermaLink="false">c4a65873916c290eb266fb3ede841a801c34ad0e90fb74621f4993821b578c66</guid>
+      <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un logement plus sobre ? Ce que disent les Français</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9305-un-logement-plus-sobre-ce-que-disent-les-francais.html</link>
+      <description>Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet logement: superficie, pratiques de chauffage et de la climatisation.</description>
+      <guid isPermaLink="false">2eadc6c888be366274d7b642224287242512af7c99d7725d1032bdbbb69e84f1</guid>
       <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -420,13 +427,6 @@
       <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/8942-brasserie-regionale-de-l-ouest-amelioration-de-la-performance-energetique-revalorisation-matiere-et-consigne.html</link>
       <description>Le Brasserie Régionale de l'Ouest, entreprise familiale spécialisée dans la production de bières, initie un projet de développement sur une friche industrielle. Elle réhabilite un site abandonné et met en place un des plus vastes programmes de réemploi des bouteilles en verre en France.</description>
       <guid isPermaLink="false">c6528cf44e2f15454c4a4a77c55851846a0f6d92a202284eb7566923ff2df9af</guid>
-      <pubDate>Mon, 22 Dec 2025 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SOFID ALEGINA - Réhabilitation d'une friche industrielle et investissements productifs pour le recyclage de coquilles d'huîtres</title>
-      <link>https://librairie.ademe.fr/industrie-et-production-durable/8916-sofid-alegina-rehabilitation-d-une-friche-industrielle-et-investissements-productifs-pour-le-recyclage-de-coquilles-d-huitres.html</link>
-      <description>Le projet en co-portage de SOFID et ALEGINA porte sur la réhabilitation d'une ancienne friche industrielle par SOFID, sur laquelle ALEGINA fabriquera des matériaux et produits innovants à base d'huîtres (produits céramiques, pavés drainants et substrats pour toitures végétalisées).</description>
-      <guid isPermaLink="false">3e09757b54d6e1059f87455d82e5476e29acd242fa7ed76878721082ba039820</guid>
       <pubDate>Mon, 22 Dec 2025 23:00:00 +0000</pubDate>
     </item>
   </channel>

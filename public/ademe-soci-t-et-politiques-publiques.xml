@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 01 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Etude des enjeux énergétiques des entrepôts</title>
+      <link>https://librairie.ademe.fr/mobilite-et-transports/9657-etude-des-enjeux-energetiques-des-entrepots.html</link>
+      <description>Les entrepôts logistiques de plus de 1 000 m² représentent un parc immobilier de 93,4 millions de m² en France, caractérisé par d’importantes surfaces de toitures et de parkings déjà artificialisés. L’étude met en évidence leur potentiel significatif de production d’énergies renouvelables, notamment photovoltaïque et géothermique. À l’horizon 2028, le productible photovoltaïque est estimé entre 6,4 et 8,1 TWh, ouvrant des perspectives d’autoconsommation, de couplage bâtiment-véhicule et d’intégration dans les stratégies énergétiques territoriales.</description>
+      <guid isPermaLink="false">d173ba4ac1022533515402f4a18936a0fd5303385d7f8f1530d89c902411557c</guid>
+      <pubDate>Tue, 06 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Un budget vert pour ma collectivité ?</title>
       <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9647-un-budget-vert-pour-ma-collectivite-.html</link>
@@ -420,13 +427,6 @@
       <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9435-feuille-de-route-2026-de-l-observatoire-national-du-reemploi-et-de-la-reutilisation.html</link>
       <description>L'ADEME présente à travers ce document, la feuille de route 2026 de l'Observatoire national du réemploi-réutilisation des produits et emballages soumis au principe de responsabilité élargie du producteur (REP). Pour ces filières REP, des objectifs de réemploi et de réutilisation sont fixés dans les cahiers des charges d'agrément des éco-organismes et systèmes individuels. Cet Observatoire est prévu par la Loi Anti-gaspillage pour une économie circulaire et la Loi Climat et résilience.</description>
       <guid isPermaLink="false">1a7b81d3cd0026a87d963b2d64f22626a183257313f0edd231eda7889a74f0cd</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Coloc'auto : infographie</title>
-      <link>https://librairie.ademe.fr/mobilite-et-transports/9440-coloc-auto-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est une application de gestion de l’auto-partage entre voisin·e·s, de la documentation pour faciliter l’animation et l’organisation de collectifs d’auto-partage et un produit d’assurance adapté à la pratique de l’auto-partage proposé par la MACIF. La solution s’adresse particulièrement aux territoires ruraux. Une attention est portée à ce que la solution n’exclue pas des personnes non équipées de téléphones intelligents en permettant la connexion pour autrui. En 2025, le projet est en phase de test auprès de plusieurs collectifs citoyens et alimente en parallèle une étude sur l’impact de la pratique de l’auto-partage entre particuliers.</description>
-      <guid isPermaLink="false">45037249b1eac83a47d336979ae80cdbcb0af144faa8b059f81b66c8232fcc88</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>

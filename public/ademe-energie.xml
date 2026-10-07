@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 29 Sep 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 06 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Chaufferie géothermique sur sondes. Ecole Marcel Pagnol. Commune de Pamiers (09)</title>
+      <link>https://librairie.ademe.fr/energies/9658-chaufferie-geothermique-sur-sondes-ecole-marcel-pagnol-commune-de-pamiers-09.html</link>
+      <description>Situé sur un îlot entouré par des canaux de l’Ariège, le projet « île aux enfants », porté par la commune de Pamiers, a transformé une ancienne friche commerciale en un jardin d’enfant et une école maternelle de 1 737 m2 . Le projet associe nature et urbanité, avec une attention portée à la performance énergétique et au choix de matériaux à impact réduit. Le bois et les isolants en fibres naturelles ont ainsi été privilégiés. Pour assurer le confort en été comme en hiver, un système géothermique a également été installé. Un champ de forages verticaux permet d’échanger de la chaleur avec le sous-sol afin de chauffer ou de refroidir le bâtiment. Ce système permet ainsi de réduire fortement la consommation électrique. Cette fiche présente le projet, ses caractéristiques techniques, des données de consommation et le témoignage de la directrice du programme ANRU de la collectivité.</description>
+      <guid isPermaLink="false">f4cdbd456da1e93f7a02aa796cf9ccc75a65db541b55c70165effd163fbb7184</guid>
+      <pubDate>Tue, 06 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>ADEME Magazine n°182 octobre 2026</title>
       <link>https://librairie.ademe.fr/energies/9616-ademe-magazine-n182-octobre-2026.html</link>
@@ -421,13 +428,6 @@
       <description>29 unités de petite méthanisation ont été enquêtées. Une petite unité de méthanisation a été définie comme une unité en cogénération d’une puissance installée inférieure à 100 kWé, ou en valorisation de chaleur seule. Toutes les unités enquêtées ont au moins 85 % d’effluents d’élevage dans leur ration d’approvisionnement, et ont été mises en service entre 2012 et 2023. Les enquêtes ont eu lieu au cours de l’année 2025. Parmi les unités enquêtées, 12 sont en chaudière et 17 en cogénération. L’échantillon est principalement représenté par deux fournisseurs de solution : Nenufar pour les couvertures récupératrices de biogaz (11 unités) et Biolectric pour des systèmes en cogénération (13 unités), dont une partie des unités ont été construites en partenariat avec Agripower. Les couvertures de fosse à lisier sont en digestion anaérobie psychrophile, alors que les autres unités sont en mésophile.</description>
       <guid isPermaLink="false">4c07c795f2383e9ff281094a5152fb2a4bc9764c8590c3e40c3d1b010babcfc3</guid>
       <pubDate>Tue, 24 Mar 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MEGASETE - Développement ferme solaire offshore 1MW innovante en Méditerranée</title>
-      <link>https://librairie.ademe.fr/energies/9182-megasete-developpement-ferme-solaire-offshore-1mw-innovante-en-mediterranee.html</link>
-      <description>Méga Sète ambitionne de créer la première ferme solaire offshore de 1MW en France, atteignant un degré de maturité pré-commercial.</description>
-      <guid isPermaLink="false">a45ab0813b5a8cde9f5cfb67e0be8d435c80a4ea6b9f8f712d9008f21dc7fb9f</guid>
-      <pubDate>Mon, 23 Mar 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
