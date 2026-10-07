@@ -1,4 +1,565 @@
 {
+  "65d10ccb24ddbb7b8d046488c4b59d16ecf59930e40da1fbc2a9f4bb90c59f15": {
+    "source": "CNSA - Actualités",
+    "title": "Habitat inclusif : l’appel à manifestation d’intérêt 2026 est lancé !",
+    "link": "https://www.cnsa.fr/actualites/habitat-inclusif-lappel-manifestation-dinteret-2026-est-lance",
+    "description": "Les habitats inclusifs se développent fortement depuis 2020, sous l’impulsion des conseils départementaux et de partenaires diversifiés, et grâce au soutien technique et financier de la CNSA via l’aide à la vie partagée (AVP). En 2026, la CNSA lance un nouvel appel à manifestation d’intérêt (AMI) pour consolider l’offre d’habitat inclusif, partout en France, à destination des personnes âgées et des personnes en situation de handicap.",
+    "published": "2026-07-30T13:08:48+00:00",
+    "first_seen": "2026-10-07T06:05:52.975858+00:00",
+    "uid": "65d10ccb24ddbb7b8d046488c4b59d16ecf59930e40da1fbc2a9f4bb90c59f15"
+  },
+  "7617c760e49e3c9d1477731e2f6eda32a6fc9ae3b34da7b796cd1907bc69f536": {
+    "source": "ANAP - Actualités",
+    "title": "Des « salles hybrides » aux secteurs interventionnels avec guidage par imagerie - Opportunité et faisabilité",
+    "link": "https://www.anap.fr/s/article/bloc-operatoire-publication-2676",
+    "description": "Ce guide d'aide à la décision propose un éclairage sur la définition des salles dites « hybrides ». Il expose les points déterminants à anticiper avant de s'engager dans la réalisation d'un secteur interventionnel avec guidage par imagerie. Il propose une démarche permettant d'élaborer une stratégie de pratique inte...",
+    "published": "2026-10-06T08:08:27+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "7617c760e49e3c9d1477731e2f6eda32a6fc9ae3b34da7b796cd1907bc69f536",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "3619e94c07a531033b489d82774608eda5abfbbd174733f71227b7d0b5c76784": {
+    "source": "ANAP - Actualités",
+    "title": "Managers : évaluez vos pratiques pour les améliorer",
+    "link": "https://www.anap.fr/s/article/ressourceshumaines-publication-2860",
+    "description": "Evaluez en 15 minutes votre pratique managériale et identifiez vos axes de progrès. Cet autodiagnostic en ligne, structuré en 9 chapitres, vous permettra de faire le point et vous donne des clés et conseils pour aller plus loin, conforter vos pratiques, les faire évoluer.",
+    "published": "2026-10-06T08:07:58+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "3619e94c07a531033b489d82774608eda5abfbbd174733f71227b7d0b5c76784",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "5060cf5adee9fd551a0ff228a8bc66ac2c1d3f4b26e8b8b111f27e5e5ae59e87": {
+    "source": "ANAP - Actualités",
+    "title": "Évaluer ses compétences SI : autodiagnostic pour le RSI",
+    "link": "https://www.anap.fr/s/article/numerique-publication-2841",
+    "description": "Responsable ou directeur du système d'information exerçant dans le secteur médico-social, cet outil d'autodiagnostic vous permet d'évaluer votre besoin en formation.",
+    "published": "2026-10-06T08:07:34+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "5060cf5adee9fd551a0ff228a8bc66ac2c1d3f4b26e8b8b111f27e5e5ae59e87",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "c204f318ed6764c5f18bcb3e267907932d08f10999c811b8b83c4f11d8505400": {
+    "source": "ANAP - Actualités",
+    "title": "Diagnostiquer sa conformité avec le RGPD",
+    "link": "https://www.anap.fr/s/article/numerique-publication-2728",
+    "description": "Cet autodiagnostic permet à un responsable de traitement d'évaluer l'avancement de la mise en conformité de sa structure avec les exigences du RGPD.",
+    "published": "2026-10-06T08:07:08+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "c204f318ed6764c5f18bcb3e267907932d08f10999c811b8b83c4f11d8505400",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "2fb44cc5e5786da9189b8807a4a7a0fff0688ff4eb6376ca7584855b8aa8ed3e": {
+    "source": "ANAP - Actualités",
+    "title": "Autodiagnostic des secrétariats médicaux",
+    "link": "https://www.anap.fr/s/article/consultation-secretariat-publication-2113",
+    "description": "Cet autodiagnostic permet de réaliser un diagnostic qualitatif de votre organisation et du fonctionnement de votre secrétariat. Vous pourrez identifier vos points forts et vos axes d'amélioration, vous situer par rapport aux bonnes pratiques organisationnelles et passer à l'action.",
+    "published": "2026-10-06T08:06:44+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "2fb44cc5e5786da9189b8807a4a7a0fff0688ff4eb6376ca7584855b8aa8ed3e",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "68af75f8f01d6042a2d8ea8b4d4836b3b2387d999e293adea34b8a98d3dbdcc5": {
+    "source": "ANAP - Actualités",
+    "title": "Autodiagnostic des parcours en psychiatrie et en santé mentale",
+    "link": "https://www.anap.fr/s/article/cooperation-publication-1758",
+    "description": "L'outil d'Autodiagnostic des parcours en psychiatrie et en santé mentale est un outil de dialogue interne et externe qui permet de vérifier le niveau d'acceptation et d'engagement à s'inscrire comme intervenant actif dans le parcours de vie des personnes vivant avec des troubles psychiques chroniques.",
+    "published": "2026-10-06T08:06:17+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "68af75f8f01d6042a2d8ea8b4d4836b3b2387d999e293adea34b8a98d3dbdcc5",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "f356529e9b4de52dd921a095159ec6042216c897f009a5dd9f46efd05f3411b3": {
+    "source": "ANAP - Actualités",
+    "title": "Autodiagnostic d'aide à la décision pour s'engager dans la réalisation d'un secteur interventionnel avec guidage par imagerie",
+    "link": "https://www.anap.fr/s/article/bloc-operatoire-publication-2821",
+    "description": "L'Anap propose un autodiagnostic permettant d'évaluer la maturité des établissements sur 5 axes de questionnement avant de s'engager dans la réalisation d'un secteur interventionnel avec guidage par imagerie.",
+    "published": "2026-10-06T08:05:52+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "f356529e9b4de52dd921a095159ec6042216c897f009a5dd9f46efd05f3411b3",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "7622693ac9455094e188851280754463b40f67e10f5b72b72e7169f9f8c703db": {
+    "source": "ANAP - Actualités",
+    "title": "Imagerie : autodiagnostic",
+    "link": "https://www.anap.fr/s/article/imagerie-publication-1543",
+    "description": "L'autodiagnostic permet aux professionnels des services d'imagerie médicale de réaliser un diagnostic qualitatif de l'organisation et du fonctionnement de leur service d'imagerie médicale.",
+    "published": "2026-10-06T08:05:26+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "7622693ac9455094e188851280754463b40f67e10f5b72b72e7169f9f8c703db",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "9557b5a4c56040e6b4e5b3b48c847938cd47a9a97d4427555a9bbfdaf887cbcb": {
+    "source": "ANAP - Actualités",
+    "title": "Autodiagnostic des consultations externes",
+    "link": "https://www.anap.fr/s/article/consultation-secretariat-publication-2070",
+    "description": "Cet autodiagnostic permet de réaliser un diagnostic qualitatif de votre organisation et du fonctionnement de votre service. Vous pourrez identifier vos points forts et vos axes d'amélioration, vous situer par rapport aux bonnes pratiques organisationnelles et passer à l'action.",
+    "published": "2026-10-06T08:04:34+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "9557b5a4c56040e6b4e5b3b48c847938cd47a9a97d4427555a9bbfdaf887cbcb",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "709d9b4a11bda850eecefa5d33a2797a7bf37d2de3f26e2e61f87d9c4ae4692d": {
+    "source": "ANAP - Actualités",
+    "title": "Diagnostiquer sa démarche de dialogue de gestion",
+    "link": "https://www.anap.fr/s/article/pilotage-publication-2724",
+    "description": "Cet autodiagnostic permet d'évaluer la maturité d'un établissement de santé dans sa démarche de dialogue de gestion.",
+    "published": "2026-10-06T08:04:09+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "709d9b4a11bda850eecefa5d33a2797a7bf37d2de3f26e2e61f87d9c4ae4692d",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "111557c9a30e5c7a95bd332a218b8a42f06bb92c6098cc74d477d49a1b2ef0a4": {
+    "source": "ANAP - Actualités",
+    "title": "Autodiagnostic Gouvernance des dispositifs d'appui à la coordination",
+    "link": "https://www.anap.fr/s/article/pilotage-publication-2752",
+    "description": "Cet autodiagnostic permet aux dispositifs d'appui à la coordination (DAC) d'objectiver l'efficacité de l'organisation de leur gouvernance, leur fonctionnement et leur capacité à inscrire cette gouvernance dans une logique de coordination du parcours de santé complexe.",
+    "published": "2026-10-06T08:03:45+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "111557c9a30e5c7a95bd332a218b8a42f06bb92c6098cc74d477d49a1b2ef0a4",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "429d5f0cc585cdb0d6f66d41b908d1b624ee02e84d4cf82677e2bfb9bdf89819": {
+    "source": "ANAP - Actualités",
+    "title": "Définir le niveau de gestion SI d'un organisme gestionnaire médico-social",
+    "link": "https://www.anap.fr/s/article/numerique-publication-2836",
+    "description": "Responsable ou directeur du système d'information exerçant dans le secteur médico-social, cet autodiagnostic vous permet d'évaluer le niveau gestion SI de votre OG : management, adéquation fonctionnelle et de l'infrastructure, qualité de service, sécurité, éthique, performance.",
+    "published": "2026-10-06T08:03:21+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "429d5f0cc585cdb0d6f66d41b908d1b624ee02e84d4cf82677e2bfb9bdf89819",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "8949f27c1657b0fecbe5e79f562ae9412db7c7d31696a8b6b3c8c569246fac10": {
+    "source": "ANAP - Actualités",
+    "title": "Bibliothèque des cycles de travail",
+    "link": "https://www.anap.fr/s/article/Biblioth%C3%A8que-des-cycles-de-travail",
+    "description": "Cette bibliothèque numérique propose 100 modèles de cycles de travail \"prêts à l’emploi\" ou s’approchant des besoins des utilisateurs. Ce dispositif de partage, au service de la simplification des organisations, vous permettra de faciliter la gestion du temps de travail.",
+    "published": "2026-10-06T08:02:49+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "8949f27c1657b0fecbe5e79f562ae9412db7c7d31696a8b6b3c8c569246fac10",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "9b78846019b980451496479fb5e86a853fac07fd145589c9435937b0cd07df40": {
+    "source": "ANAP - Actualités",
+    "title": "MELOG-Stérilisation : outil d'aide à la décision pour les projets de coopération entre établissements sur la fonction stérilisation",
+    "link": "https://www.anap.fr/s/article/pharma-bio-ste-publication-2506",
+    "description": "MELOG est un outil logiciel d'aide à l'exploration de solutions organisationnelles différentes de la fonction stérilisation, plus particulièrement dans le contexte de projets de coopération",
+    "published": "2026-10-06T08:02:21+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "9b78846019b980451496479fb5e86a853fac07fd145589c9435937b0cd07df40",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "46268cdae343acabf627d9f2506e2df07242a188a23074a8f33f2fadb73d4c80": {
+    "source": "ANAP - Actualités",
+    "title": "Renforcer le GCSMS pour accélérer l'évolution de l'offre d'EHPAD publique",
+    "link": "https://www.anap.fr/s/article/renforcer-GCSMS-pour-accelerer-l-evolution-de-l-offre-EHPAD-publique",
+    "description": "L’Anap formule des propositions afin d’accélérer les coopérations dans le secteur médico-social public (offre pour personnes âgées).",
+    "published": "2026-10-06T08:01:47+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "46268cdae343acabf627d9f2506e2df07242a188a23074a8f33f2fadb73d4c80",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "c5c3dec57940b8752b575ec0f6194f0c5bffcc41edb81a894b99440e870544ce": {
+    "source": "ANAP - Actualités",
+    "title": "Autodiagnostic Attractivité et fidélisation",
+    "link": "https://www.anap.fr/s/article/autodiag-attractivite-et-fidelisation",
+    "description": "Cet autodiagnostic en ligne permet de cartographier la situation d'un établissement (besoins RH, concurrence, climat social ..) et d’identifier les attentes des professionnels. Vous y trouverez également des pistes d’actions pour élaborer votre marque employeur, attirer et fidéliser les talents.",
+    "published": "2026-10-06T08:01:15+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "c5c3dec57940b8752b575ec0f6194f0c5bffcc41edb81a894b99440e870544ce",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "29c0685b8302c22d915160c000cd8c83e5fa1f79bce2edf59db79a3afd32f9b3": {
+    "source": "ANAP - Actualités",
+    "title": "Autodiagnostic Projet immobilier Ehpad",
+    "link": "https://www.anap.fr/s/article/autodiagnostic-projet-immobilier-ehpad",
+    "description": "Cet autodiagnostic en ligne permet de qualifier les points clés d’un projet immobilier d’Ehpad tout au long de sa conceptualisation. Vous pourrez évaluer son positionnement territorial, analyser le caractère innovant du projet (dimensions immobilière et environnementale) et sa soutenabilité financière.",
+    "published": "2026-10-06T08:00:49+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "29c0685b8302c22d915160c000cd8c83e5fa1f79bce2edf59db79a3afd32f9b3",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "2fd5d2061d4bc7fa23451848637b6310ca30d5cdf5ade49fdf6b4ece562ad057": {
+    "source": "ANAP - Actualités",
+    "title": "Autodiagnostic Gestion de projet",
+    "link": "https://www.anap.fr/s/article/autodiagnostic-gestion-de-projet",
+    "description": "Cadrage, planification, conception, mise en œuvre et clôture : cet autodiagnostic en ligne permet d'évaluer vos connaissances de la gestion de projet. Vous aurez ensuite accès à une méthodologie et à des outils opérationnels clés en main pour mener à bien votre projet.",
+    "published": "2026-10-06T08:00:18+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "2fd5d2061d4bc7fa23451848637b6310ca30d5cdf5ade49fdf6b4ece562ad057",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "ef758807277f4869610ca2710316450478d8a1b242f8e76af4faa8145e4eef77": {
+    "source": "ANAP - Actualités",
+    "title": "La réforme de la tarification des soins infirmiers à domicile",
+    "link": "https://www.anap.fr/s/article/reforme-tarification-soins-infirmiers-a-domicile",
+    "description": "Depuis mai 2023, les SSIAD et SPASAD sont soumis à une nouvelle tarification pour leurs activités de soins. La DGCS et l’Anap proposent une synthèse flash pour saisir en quelques minutes les points clés de cette réforme : mécanismes tarifaires, calendrier de mise en œuvre, impacts sur le financement des services.",
+    "published": "2026-10-06T07:59:52+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "ef758807277f4869610ca2710316450478d8a1b242f8e76af4faa8145e4eef77",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "640d662b4eef658e74829ecc38ba57c9445c577388fa1613fa7b74b5a183694d": {
+    "source": "ANAP - Actualités",
+    "title": "Autodiagnostic Maturité de la fonction logistique",
+    "link": "https://www.anap.fr/s/article/autodiagnostic-maturite-fonction-logistique",
+    "description": "Cet autodiagnostic en ligne permet d'évaluer la maturité de votre fonction logistique (stratégie et positionnement, gestion des stocks et des magasins, approvisionnements, ressources humaines, matériel et infrastructure, outils et pilotage), pour vous engager, ensuite, dans une démarche d’optimisation.",
+    "published": "2026-10-06T07:59:22+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "640d662b4eef658e74829ecc38ba57c9445c577388fa1613fa7b74b5a183694d",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "f0652e57e8fe56c8b577290e7e74fe36e811727dbc7d1aa66bde3952b6c81f30": {
+    "source": "ANAP - Actualités",
+    "title": "Imagerie : simulateur économique",
+    "link": "https://www.anap.fr/s/article/imagerie-simulateur-%C3%A9conomique",
+    "description": "Cet outil de simulation économique permet de calculer le retour sur investissement de votre plateau d'imagerie. Il s'adapte à plusieurs situations : création d'un plateau d'imagerie, acquisition d'un appareil supplémentaire dans un plateau préexistant.",
+    "published": "2026-10-06T07:58:56+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "f0652e57e8fe56c8b577290e7e74fe36e811727dbc7d1aa66bde3952b6c81f30",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "5aab493e375a2f6b1b3ee0c255e00bb648577ef219ac1a8be3d9bd299a767a75": {
+    "source": "ANAP - Actualités",
+    "title": "Autodiagnostics Psychiatrie et santé mentale : hôpital de jour",
+    "link": "https://www.anap.fr/s/article/autodiagnostic-psychiatrie-sante-mentale-hopital-de-jour",
+    "description": "5 autodiagnostics pour réaliser un état des lieux, identifier les points forts et axes d'amélioration de l'organisation d'un HDJ, selon les publics accueillis, de la psychiatrie périnatale à celle de la personne âgée. Avec, en plus, un outil de synthèse pour une vision consolidée de plusieurs HDJ.",
+    "published": "2026-10-06T07:58:23+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "5aab493e375a2f6b1b3ee0c255e00bb648577ef219ac1a8be3d9bd299a767a75",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "613ff0a290d5857ea02416bb246ad85b33f84ffefcf2c04971a6a957ea88707b": {
+    "source": "ANAP - Actualités",
+    "title": "Autodiagnostic Psychiatrie et santé mentale : séjours longs",
+    "link": "https://www.anap.fr/s/article/autodiagnostic-psychiatrie-sante-mentale-sejours-longs",
+    "description": "Cet outil a été conçu pour réaliser un état des lieux des séjours de plus de 90 jours en continu sur un an, et pour mesurer le niveau d’organisation de votre structure. Vous pourrez, à partir de la situation des personnes hospitalisées, leur proposer des solutions de sortie adaptées à leurs besoins.",
+    "published": "2026-10-06T07:57:59+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "613ff0a290d5857ea02416bb246ad85b33f84ffefcf2c04971a6a957ea88707b",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "854d98e1a9e13d7239ce760dc180c9d732e932d2cf61fe7003800ba81eb08591": {
+    "source": "ANAP - Actualités",
+    "title": "Autodiagnostics Psychiatrie et santé mentale : CMP",
+    "link": "https://www.anap.fr/s/article/autodiagnostic-psychiatrie-sante-mentale-cmp",
+    "description": "2 autodiagnostics pour réaliser un premier état des lieux, identifier les points forts et axes d'amélioration de l'organisation d'un CMP, selon les publics accueillis : psychiatrie de l'enfant et de l'adolescent, et psychiatrie de l'adulte. Avec, en plus, un outil de synthèse pour une vision consolidée de plusieurs CMP.",
+    "published": "2026-10-06T07:57:28+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "854d98e1a9e13d7239ce760dc180c9d732e932d2cf61fe7003800ba81eb08591",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "e41265ef78d3cb3567f54d5866b0bad356ab6bf0d3068478f70babc8bd773934": {
+    "source": "ANAP - Actualités",
+    "title": "Autodiagnostic Système d’information RH",
+    "link": "https://www.anap.fr/s/article/ressourceshumaines-publication-2534",
+    "description": "Evaluez la maturité de votre système d'information de gestion des ressources humaines. Recrutement, gestion du personnel, paie, formation... Avec cet outil en ligne, analysez le SIRH de votre établissement, ou de votre groupement jusqu’à 10 structures, et identifiez vos axes de progrès.",
+    "published": "2026-10-06T07:56:55+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "e41265ef78d3cb3567f54d5866b0bad356ab6bf0d3068478f70babc8bd773934",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "ecf2759a19b06cebce530801095cc13f0e58f01592348e2ce16cfe53b31abd5f": {
+    "source": "ANAP - Actualités",
+    "title": "De la fiche metier a la fiche de poste",
+    "link": "https://www.anap.fr/s/article/de-la-fiche-metier-a-la-fiche-de-poste",
+    "description": "",
+    "published": "2026-10-06T07:55:32+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "ecf2759a19b06cebce530801095cc13f0e58f01592348e2ce16cfe53b31abd5f"
+  },
+  "9fc6d2662172be316d80c5c4f50933130d79c52e57973920e1def3d593472217": {
+    "source": "ANAP - Actualités",
+    "title": "Evaluation des ptsm une boite a outils pour faire le bilan",
+    "link": "https://www.anap.fr/s/article/evaluation-des-ptsm-une-boite-a-outils-pour-faire-le-bilan",
+    "description": "",
+    "published": "2026-10-06T07:54:59+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "9fc6d2662172be316d80c5c4f50933130d79c52e57973920e1def3d593472217"
+  },
+  "efc6282cdbd001340138818869f89695f5226e07bad532ae6feea7eb8032e6e8": {
+    "source": "ANAP - Actualités",
+    "title": "Organisation fonctionnement chirurgie ambulatoire autodiagnostic qualitatif",
+    "link": "https://www.anap.fr/s/article/organisation-fonctionnement-chirurgie-ambulatoire-autodiagnostic-qualitatif",
+    "description": "",
+    "published": "2026-10-06T07:54:31+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "efc6282cdbd001340138818869f89695f5226e07bad532ae6feea7eb8032e6e8"
+  },
+  "4b72fa21adaff0fc1e4d662d96b930a41a777061ebe03ae683d16cb5106feafb": {
+    "source": "ANAP - Actualités",
+    "title": "Bloc operatoire publication 1395",
+    "link": "https://www.anap.fr/s/article/bloc-operatoire-publication-1395",
+    "description": "",
+    "published": "2026-10-06T07:54:06+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "4b72fa21adaff0fc1e4d662d96b930a41a777061ebe03ae683d16cb5106feafb"
+  },
+  "ee322799fc29837367ff96506cbca02080095533afe320d4933ed80324e989c5": {
+    "source": "ANAP - Actualités",
+    "title": "Bloc operatoire publication 1379",
+    "link": "https://www.anap.fr/s/article/bloc-operatoire-publication-1379",
+    "description": "",
+    "published": "2026-10-06T07:53:34+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "ee322799fc29837367ff96506cbca02080095533afe320d4933ed80324e989c5"
+  },
+  "7c77875f431eaab0e15ae7478e119143143ae953fa35035fc0685f075a30ce2f": {
+    "source": "ANAP - Actualités",
+    "title": "Panorama metiers emergence international",
+    "link": "https://www.anap.fr/s/article/panorama-metiers-emergence-international",
+    "description": "",
+    "published": "2026-10-06T07:53:08+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "7c77875f431eaab0e15ae7478e119143143ae953fa35035fc0685f075a30ce2f"
+  },
+  "f6fff346b6c8494a106edadb55f9144b184c762d8a478690c253be043ee35e06": {
+    "source": "ANAP - Actualités",
+    "title": "Fiche transmission bloc operatoire soins",
+    "link": "https://www.anap.fr/s/article/fiche-transmission-bloc-operatoire-soins",
+    "description": "",
+    "published": "2026-10-06T07:52:43+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "f6fff346b6c8494a106edadb55f9144b184c762d8a478690c253be043ee35e06"
+  },
+  "576a460ad629f85ba3b3bd19c9c83f790123e086f4e33bfebde8e7e63d735c9e": {
+    "source": "ANAP - Actualités",
+    "title": "Cadre juridique fiche mobilite durable",
+    "link": "https://www.anap.fr/s/article/cadre-juridique-fiche-mobilite-durable",
+    "description": "",
+    "published": "2026-10-06T07:52:16+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "576a460ad629f85ba3b3bd19c9c83f790123e086f4e33bfebde8e7e63d735c9e"
+  },
+  "bb0c056486b1af57a31f23babb0f043c32da7b4c71b0a529869fa2e3c27902b6": {
+    "source": "ANAP - Actualités",
+    "title": "Mon empreinte carbone récompensé par la Victoire des Acteurs Publics 2025",
+    "link": "https://www.anap.fr/s/article/Mon-empreinte-carbone-r%C3%A9compens%C3%A9-par-la-Victoire-des-Acteurs-Publics-2025",
+    "description": "",
+    "published": "2026-10-06T07:51:40+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "bb0c056486b1af57a31f23babb0f043c32da7b4c71b0a529869fa2e3c27902b6"
+  },
+  "db20883d94eb54724fe864875480c163b933a673d220c3f5f0aec835afb5d7b8": {
+    "source": "ANAP - Actualités",
+    "title": "Outil projection uca chirurgie ambulatoire",
+    "link": "https://www.anap.fr/s/article/outil-projection-uca-chirurgie-ambulatoire",
+    "description": "",
+    "published": "2026-10-06T07:51:11+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "db20883d94eb54724fe864875480c163b933a673d220c3f5f0aec835afb5d7b8"
+  },
+  "63f4d3fd0fc95faa8ad52b2e52bfb682738b65991e70d74415fb54dad5000d7e": {
+    "source": "ANAP - Actualités",
+    "title": "Outil taux rotation activite",
+    "link": "https://www.anap.fr/s/article/outil-taux-rotation-activite",
+    "description": "",
+    "published": "2026-10-06T07:50:46+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "63f4d3fd0fc95faa8ad52b2e52bfb682738b65991e70d74415fb54dad5000d7e"
+  },
+  "91e8954cc239305cea24396cdddb832324d9c752a243629c5f65e880d04a99ea": {
+    "source": "ANAP - Actualités",
+    "title": "Outil planification ibode",
+    "link": "https://www.anap.fr/s/article/outil-planification-ibode",
+    "description": "",
+    "published": "2026-10-06T07:50:22+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "91e8954cc239305cea24396cdddb832324d9c752a243629c5f65e880d04a99ea"
+  },
+  "e0f7ac46016b2c29a0da62b682cabba886f9d8c9578c6e945b84470fb9733dbf": {
+    "source": "ANAP - Actualités",
+    "title": "Cooperation publication 1904",
+    "link": "https://www.anap.fr/s/article/cooperation-publication-1904",
+    "description": "",
+    "published": "2026-10-06T07:49:53+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "e0f7ac46016b2c29a0da62b682cabba886f9d8c9578c6e945b84470fb9733dbf"
+  },
+  "6ee14cb1850848649e9efe7bba424276446db24302aa53862f922924c04ed9d6": {
+    "source": "ANAP - Actualités",
+    "title": "Pharma bio ste publication 2330",
+    "link": "https://www.anap.fr/s/article/pharma-bio-ste-publication-2330",
+    "description": "",
+    "published": "2026-10-06T07:49:28+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "6ee14cb1850848649e9efe7bba424276446db24302aa53862f922924c04ed9d6"
+  },
+  "bd3f34ccffa833b8fc4ac9ad7c3cd48e141ec8577ade2d81b3e76afd5550efaf": {
+    "source": "ANAP - Actualités",
+    "title": "Pharma bio ste publication 2866",
+    "link": "https://www.anap.fr/s/article/pharma-bio-ste-publication-2866",
+    "description": "",
+    "published": "2026-10-06T07:49:00+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "bd3f34ccffa833b8fc4ac9ad7c3cd48e141ec8577ade2d81b3e76afd5550efaf"
+  },
+  "40b07bb1d386a75e3f3b7aa212620330219364ceee2b455e9741380ea7100ff4": {
+    "source": "ANAP - Actualités",
+    "title": "Evaluer les actions de pharmacie clinique",
+    "link": "https://www.anap.fr/s/article/evaluer-les-actions-de-pharmacie-clinique",
+    "description": "",
+    "published": "2026-10-06T07:48:35+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "40b07bb1d386a75e3f3b7aa212620330219364ceee2b455e9741380ea7100ff4"
+  },
+  "670df1fccf41c42915403b3d011a4b988bb537690b65efc81dec9351640dc263": {
+    "source": "ANAP - Actualités",
+    "title": "Autodiagnostic automatisation pda",
+    "link": "https://www.anap.fr/s/article/autodiagnostic-automatisation-pda",
+    "description": "",
+    "published": "2026-10-06T07:48:07+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "670df1fccf41c42915403b3d011a4b988bb537690b65efc81dec9351640dc263"
+  },
+  "3c592066e1c0614b38fe37936b3e72d998346d9a09de4e35079ea05677847dd0": {
+    "source": "ANAP - Actualités",
+    "title": "Systemes aide a la decision pharmaceutique glossaire des termes",
+    "link": "https://www.anap.fr/s/article/systemes-aide-a-la-decision-pharmaceutique-glossaire-des-termes",
+    "description": "",
+    "published": "2026-10-06T07:47:38+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "3c592066e1c0614b38fe37936b3e72d998346d9a09de4e35079ea05677847dd0"
+  },
+  "029572367de0f6f461cf9d5ada243ff8fb6f6c0abef880dbabfce54ad9f7896d": {
+    "source": "ANAP - Actualités",
+    "title": "Pharma bio ste publication 2321",
+    "link": "https://www.anap.fr/s/article/pharma-bio-ste-publication-2321",
+    "description": "",
+    "published": "2026-10-06T07:47:11+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "029572367de0f6f461cf9d5ada243ff8fb6f6c0abef880dbabfce54ad9f7896d"
+  },
+  "5ddd81cbb27c80c39a3d8caffdc33c3d495ffd72ed098296407f504e0dac4a0a": {
+    "source": "ANAP - Actualités",
+    "title": "Pharma bio ste publication 2867",
+    "link": "https://www.anap.fr/s/article/pharma-bio-ste-publication-2867",
+    "description": "",
+    "published": "2026-10-06T07:46:44+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "5ddd81cbb27c80c39a3d8caffdc33c3d495ffd72ed098296407f504e0dac4a0a"
+  },
+  "aa5d0af8e2deeec98565537b0677c377d5044f05774de06cb43a972edcafe2f1": {
+    "source": "ANAP - Actualités",
+    "title": "Pharma bio ste publication 2862",
+    "link": "https://www.anap.fr/s/article/pharma-bio-ste-publication-2862",
+    "description": "",
+    "published": "2026-10-06T07:46:16+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "aa5d0af8e2deeec98565537b0677c377d5044f05774de06cb43a972edcafe2f1"
+  },
+  "37a16272971534d3a13fd42d66774fc3ddcf1c3eaacdbc89d748969ff3959f20": {
+    "source": "ANAP - Actualités",
+    "title": "Pharma bio ste publication 2798",
+    "link": "https://www.anap.fr/s/article/pharma-bio-ste-publication-2798",
+    "description": "",
+    "published": "2026-10-06T07:45:48+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "37a16272971534d3a13fd42d66774fc3ddcf1c3eaacdbc89d748969ff3959f20"
+  },
+  "240aa6ce0769aa8332f072185d115ff041f004e69c33bdf1e82bacb924e0d079": {
+    "source": "ANAP - Actualités",
+    "title": "Evaluer le circuit des medicaments de therapie Innovante mti",
+    "link": "https://www.anap.fr/s/article/evaluer-le-circuit-des-medicaments-de-therapie-Innovante-mti",
+    "description": "",
+    "published": "2026-10-06T07:45:21+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "240aa6ce0769aa8332f072185d115ff041f004e69c33bdf1e82bacb924e0d079"
+  },
+  "36e9fa704d530f5a9276f821a1eb09ec3ade58c1ec5137e962afc915f8c6b1af": {
+    "source": "ANAP - Actualités",
+    "title": "Ia pharma algorithme securisation medicaments",
+    "link": "https://www.anap.fr/s/article/ia-pharma-algorithme-securisation-medicaments",
+    "description": "",
+    "published": "2026-10-06T07:44:53+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "36e9fa704d530f5a9276f821a1eb09ec3ade58c1ec5137e962afc915f8c6b1af"
+  },
+  "41610ac75d57a5bcd52fcd04de4450fb9165623213528b163ff78a4758d50afc": {
+    "source": "ANAP - Actualités",
+    "title": "Cadre juridique fiche gestion eau",
+    "link": "https://www.anap.fr/s/article/cadre-juridique-fiche-gestion-eau",
+    "description": "",
+    "published": "2026-10-06T07:42:03+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "41610ac75d57a5bcd52fcd04de4450fb9165623213528b163ff78a4758d50afc"
+  },
+  "a72a8aaed2cceea4579053abb1fecc1678ee4b427baa1a30fc9de27bf768a367": {
+    "source": "ANAP - Actualités",
+    "title": "Cadre juridique fiche restauration durable",
+    "link": "https://www.anap.fr/s/article/cadre-juridique-fiche-restauration-durable",
+    "description": "",
+    "published": "2026-10-06T07:41:35+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "a72a8aaed2cceea4579053abb1fecc1678ee4b427baa1a30fc9de27bf768a367"
+  },
+  "ee9750e64133dbcf9ccd81c38007d1de0b11e432995e6bd4e2205a1d251e45b1": {
+    "source": "ANAP - Actualités",
+    "title": "Cadre juridique fiche reduction consommation energie",
+    "link": "https://www.anap.fr/s/article/cadre-juridique-fiche-reduction-consommation-energie",
+    "description": "",
+    "published": "2026-10-06T07:40:57+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "ee9750e64133dbcf9ccd81c38007d1de0b11e432995e6bd4e2205a1d251e45b1"
+  },
+  "f05e2fc80ac3b9a490519c4c9acc5df6a4008644a1ed5c0d5153b961f9465b4c": {
+    "source": "ANAP - Actualités",
+    "title": "Cadre juridique gestion dechets fiche",
+    "link": "https://www.anap.fr/s/article/cadre-juridique-gestion-dechets-fiche",
+    "description": "",
+    "published": "2026-10-06T07:38:53+00:00",
+    "first_seen": "2026-10-07T06:03:54.084743+00:00",
+    "uid": "f05e2fc80ac3b9a490519c4c9acc5df6a4008644a1ed5c0d5153b961f9465b4c"
+  },
   "71d27aa8a03e7bc6d90e1c8a80cc2f43fc3effe8147c9f7441173e1a9f1956bc": {
     "source": "CNSA - Actualités",
     "title": "En 2026, la CNSA poursuit et actualise son soutien aux projets immobiliers qui transforment l’offre médico-sociale",
@@ -7849,7 +8410,7 @@
     "title": "Performance sans frontière : les voyages d’études de l’Anap",
     "link": "https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes",
     "description": "Espagne, Hollande, Belgique, Allemagne… Embarquez pour des séjours immersifs au sein des établissements européens les plus performants ! Échangez, inspirez-vous des systèmes de soins étrangers, découvrez les solutions de demain, explorez les enjeux de la performance sous un nouvel angle.",
-    "published": "2026-09-30T15:04:12+00:00",
+    "published": "2026-10-06T07:37:59+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446",
     "description_checked": true,
@@ -8954,510 +9515,5 @@
     "published": "2026-07-07T06:22:41+00:00",
     "first_seen": "2026-08-27T15:05:44.857106+00:00",
     "uid": "5117146c961fb6733f54863ebbb76c21a2d6a5f63495c091fd691497e23d7061"
-  },
-  "1dc8a6c420a646104a67b6638ffd64c0fd40ed97a5726ce21f7c4daa55ef671f": {
-    "source": "Localtis - Jeunesse, éducation et formation",
-    "title": "Une circulaire invite les lycées à se préparer à l'interdiction du téléphone portable",
-    "link": "https://www.banquedesterritoires.fr/une-circulaire-invite-les-lycees-se-preparer-linterdiction-du-telephone-portable",
-    "description": "Alors qu'une proposition de loi visant à interdire les téléphones portables au lycée a été adoptée en première lecture à l'Assemblée nationale et au Sénat, et attend sa deuxième lecture, une circulaire publiée au Bulletin officiel de l'Éducation nationale du 2 juillet propose d'en anticiper…",
-    "published": "2026-07-03T12:20:16+00:00",
-    "first_seen": "2026-08-27T15:05:44.857106+00:00",
-    "uid": "1dc8a6c420a646104a67b6638ffd64c0fd40ed97a5726ce21f7c4daa55ef671f"
-  },
-  "a22a9507587958809f8a8fef9a0a1bf11c473d12d9d80b10059ae5e7ab575ab0": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Alerte sur 150 produits pour bébés vendus en ligne jugés dangereux",
-    "link": "https://www.lesprosdelapetiteenfance.fr/une-association-de-consommateurs-britannique-alerte-150-articles-pour-bebes-vendus-sur-les-plateformes-en-ligne-presentent-un-danger-potentiel/",
-    "description": "Une enquête de Which?, la plus grande organisation de consommateurs indépendante du Royaume-Uni, a identifié des produits pour bébés vendus sur Amazon, AliExpress, eBay, Etsy, TikTok Shop ou Wish potentiellement dangereux. Voici leurs retours.",
-    "published": "2026-08-27T14:07:03+00:00",
-    "first_seen": "2026-08-27T14:14:11.675536+00:00",
-    "uid": "a22a9507587958809f8a8fef9a0a1bf11c473d12d9d80b10059ae5e7ab575ab0",
-    "description_checked": true
-  },
-  "9ce7c42e75dafd156b7c37e9336f2630955ea1940795a59b3cb8725df77a8290": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Une association de consommateurs britannique alerte : 150 articles pour bébés vendus sur les plateformes en ligne présentent un danger potentiel",
-    "link": "https://www.lesprosdelapetiteenfance.fr/une-association-de-consommateurs-britannique-alerte-150-articles-pour-bebes-vendus-sur-les-plateformes-en-ligne-presentent-un-danger-potentiel/",
-    "description": "",
-    "published": "2026-08-27T14:07:03+00:00",
-    "first_seen": "2026-08-27T14:08:29.631890+00:00",
-    "uid": "9ce7c42e75dafd156b7c37e9336f2630955ea1940795a59b3cb8725df77a8290"
-  },
-  "f28007e8b4b82f1986c45ab7355211bc534cd1578c53d6d07419a3ca474bc95e": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Baromètre Yoopies 2026 : le coût de la garde augmente, le recours aux assistantes maternelles recule",
-    "link": "https://www.lesprosdelapetiteenfance.fr/barometre-yoopies-2026-le-cout-de-la-garde-augmente-le-recours-aux-assistantes-maternelles-recule/",
-    "description": "La plateforme Yoopies dévoile ce jour les résultats de son baromètre annuel du coût de la garde d’enfant à domicile et des tarifs des assistantes maternelles en 2026. Cette nouvelle édition montre une augmentation des tarifs plus rapide que l’inflation, des écarts importants entre les départements, et un recul net du recours à une assistante maternelle.",
-    "published": "2026-08-27T10:19:08+00:00",
-    "first_seen": "2026-08-27T14:06:26.535622+00:00",
-    "uid": "f28007e8b4b82f1986c45ab7355211bc534cd1578c53d6d07419a3ca474bc95e",
-    "description_checked": true
-  },
-  "accd8e0deab0160a8f298d72591073a4230ab5860b988db5ef3874b89991254e": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "Téléphone grave danger : le ministre de la Justice maintient la remise obligatoire par un magistrat",
-    "link": "https://www.enfancejeunesseinfos.fr/telephone-grave-danger-le-ministre-de-la-justice-maintient-la-remise-obligatoire-par-un-magistrat/",
-    "description": "Plus de 1 500 téléphones grave danger restent sans bénéficiaire. Pour mieux protéger les victimes, la justice impose leur remise par un magistrat du parquet. Une règle qui suscite des réserves dans certaines juridictions.",
-    "published": "2026-08-27T07:25:07+00:00",
-    "first_seen": "2026-08-27T14:06:25.410336+00:00",
-    "uid": "accd8e0deab0160a8f298d72591073a4230ab5860b988db5ef3874b89991254e"
-  },
-  "574be62c253a8f6bdcfc451b59134a91784aa0508f924fe8e8a74b0c3cf504e7": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "Enfant handicapé privé de prise en charge : l’État condamné pour carence fautive",
-    "link": "https://www.enfancejeunesseinfos.fr/enfant-handicape-prive-de-prise-en-charge-letat-condamne-pour-carence-fautive/",
-    "description": "Pendant plus de cinq ans, une enfant autiste est restée sans place dans le Sessad vers lequel elle avait été orientée. La cour administrative d’appel de Paris a reconnu une carence fautive de l’État et indemnisé l’enfant et ses parents.",
-    "published": "2026-08-27T05:54:56+00:00",
-    "first_seen": "2026-08-27T14:06:25.410336+00:00",
-    "uid": "574be62c253a8f6bdcfc451b59134a91784aa0508f924fe8e8a74b0c3cf504e7"
-  },
-  "0c9ebccd80d5b5dc5bcbde6ba07b2c1a8cbdb4ee0e2f52337ba3b679fe7cddcd": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "Violences sexuelles sur les enfants : tous les personnels de l’Éducation nationale formés à la prévention et au repérage d’ici 2029",
-    "link": "https://www.enfancejeunesseinfos.fr/violences-sexuelles-sur-les-enfants-tous-les-personnels-de-leducation-nationale-formes-a-la-prevention-et-au-reperage-dici-2029/",
-    "description": "Repérer les violences sexuelles sur les enfants, recueillir leur parole et savoir quand transmettre une information préoccupante ou saisir l’autorité judiciaire : une formation obligatoire de trois heures sera progressivement dispensée à tous les personnels de l’Éducation nationale d’ici fin 2029.",
-    "published": "2026-08-27T04:38:00+00:00",
-    "first_seen": "2026-08-27T14:06:25.410336+00:00",
-    "uid": "0c9ebccd80d5b5dc5bcbde6ba07b2c1a8cbdb4ee0e2f52337ba3b679fe7cddcd"
-  },
-  "0f36b517f46c342fda766107aeb7e42119e4e3558f855e22643296710471fcd6": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Bruit routier : une étude de l’Inserm montre un impact durable sur l’équilibre émotionnel des enfants",
-    "link": "https://www.lesprosdelapetiteenfance.fr/bruit-routier-une-etude-de-linserm-montre-un-impact-durable-sur-lequilibre-emotionnel-des-enfants/",
-    "description": "L'Inserm vient de diffuser un communiqué évoquant une nouvelle étude menée avec Sorbonne Université et publiée dans The Lancet Public Health. Elle établit une association entre différentes sources d’exposition au bruit résidentiel (trafic routier, aérien et ferroviaire) dans les premières années de vie et des troubles émotionnels et comportementaux à l’âge de 10 ans.",
-    "published": "2026-08-25T14:06:34+00:00",
-    "first_seen": "2026-08-25T15:56:55.753921+00:00",
-    "uid": "0f36b517f46c342fda766107aeb7e42119e4e3558f855e22643296710471fcd6",
-    "description_checked": true
-  },
-  "32dd1b2b98acb9d8551776d355d3b8cd13d40285d393a8eb63c177ba9aca0d1c": {
-    "source": "CNSA - Actualités",
-    "title": "Offre médico-sociale : la CNSA soutient 5 nouveaux projets innovants en 2026",
-    "link": "https://www.cnsa.fr/actualites/offre-medico-sociale-la-cnsa-soutient-5-nouveaux-projets-innovants-en-2026",
-    "description": "Cette année 2026, 152 projets ont été soumis dans le cadre de l’appel à projets annuel « Expérimenter pour accompagner l’évolution de l’offre médico-sociale ». À l’issue de la sélection par le comité des subventions de la CNSA, 5 projets ont été retenus, pour un montant total de soutien de plus d'un million d'euros.",
-    "published": "2026-08-25T08:02:53+00:00",
-    "first_seen": "2026-08-25T15:56:52.599964+00:00",
-    "uid": "32dd1b2b98acb9d8551776d355d3b8cd13d40285d393a8eb63c177ba9aca0d1c"
-  },
-  "ae99c0a2f92aff626b5f645ea0166c32885b7b7a54c898ebe67c0db720c6a467": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Étude : trop d’écrans à 2 ans, moins de vocabulaire à 4 ans ?",
-    "link": "https://www.lesprosdelapetiteenfance.fr/etude-plus-decrans-a-2-ans-moins-de-vocabulaire-a-4-ans/",
-    "description": "Une étude récente menée auprès de 306 enfants montre une association entre une forte exposition aux écrans à l’âge de 2 ans et un vocabulaire plus faible à 4 ans. Ni la présence d'un parent ni le choix d’un programme éducatif n'ont modifié ce lien.",
-    "published": "2026-08-24T10:17:04+00:00",
-    "first_seen": "2026-08-24T13:13:58.327046+00:00",
-    "uid": "ae99c0a2f92aff626b5f645ea0166c32885b7b7a54c898ebe67c0db720c6a467",
-    "description_checked": true
-  },
-  "db51af271e0e493fd55a6927d3682ca19ed1ab4a64305e1e9af627d86609d717": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "Détention des mineurs : la loi du 23 juillet 2026 referme la brèche",
-    "link": "https://www.enfancejeunesseinfos.fr/detention-des-mineurs-la-loi-du-23-juillet-2026-referme-la-breche/",
-    "description": "Pendant plus de trois semaines en juillet, des mineurs renvoyés devant la cour d’assises ont pu être remis en liberté faute de texte permettant de prolonger leur détention. La loi du 23 juillet rétablit un cadre et renforce les garanties avant le procès.",
-    "published": "2026-08-24T09:03:34+00:00",
-    "first_seen": "2026-08-24T10:04:52.441901+00:00",
-    "uid": "db51af271e0e493fd55a6927d3682ca19ed1ab4a64305e1e9af627d86609d717"
-  },
-  "cc806d5bdcb7c354016f044ab28edb12a03e85f088617320edeaca9a5ca091b4": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Crèche : et si l’âge des autres enfants importait moins qu’on ne le pense ?",
-    "link": "https://www.lesprosdelapetiteenfance.fr/creche-et-si-lage-des-autres-enfants-importait-moins-quon-ne-le-pense/",
-    "description": "La présence d’enfants d’âges différents dans un même groupe est fréquente en crèche. Mais cette organisation influence-t-elle réellement la manière dont les enfants participent aux activités et interagissent avec les...",
-    "published": "2026-08-20T07:44:27+00:00",
-    "first_seen": "2026-08-20T09:50:59.832648+00:00",
-    "uid": "cc806d5bdcb7c354016f044ab28edb12a03e85f088617320edeaca9a5ca091b4",
-    "description_checked": true
-  },
-  "c0a6c7cbce90ced54e659a2cf5b09f72c91ca031346be58291bed2910c2be0b7": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Faut-il multiplier les jouets pour stimuler le développement du bébé ?",
-    "link": "https://www.lesprosdelapetiteenfance.fr/faut-il-multiplier-les-jouets-pour-stimuler-le-developpement-du-bebe/",
-    "description": "Une étude récente menée auprès de 63 enfants âgés de 11 à 30 mois s'est intéressée au lien entre la richesse de leur environnement de jeu et leurs compétences de jeu et de communication. Les résultats suggèrent qu'un environnement proposant une plus grande diversité de jouets est associé à de meilleures compétences. Mais avoir davantage de jouets ne suffit pas : ce n'est pas la quantité qui compte et les jouets, à eux seuls, ne semblent pas faire la différence",
-    "published": "2026-08-18T09:59:23+00:00",
-    "first_seen": "2026-08-18T13:09:08.624592+00:00",
-    "uid": "c0a6c7cbce90ced54e659a2cf5b09f72c91ca031346be58291bed2910c2be0b7",
-    "description_checked": true
-  },
-  "86282cb4a4b19a335ad9c5b234ecedbd7dfc3f4ae03d81ed0390fd3677534104": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Accueil du jeune enfant : augmenter les heures de crèche n’est pas forcément bénéfique",
-    "link": "https://www.lesprosdelapetiteenfance.fr/accueil-du-jeune-enfant-augmenter-les-heures-de-creche-nest-pas-forcement-benefique/",
-    "description": "Pour le développement de l'enfant, la durée de la fréquentation de la crèche importe moins que la qualité des interactions que l'enfant y trouve.",
-    "published": "2026-08-17T13:16:23+00:00",
-    "first_seen": "2026-08-17T15:43:01.227264+00:00",
-    "uid": "86282cb4a4b19a335ad9c5b234ecedbd7dfc3f4ae03d81ed0390fd3677534104",
-    "description_checked": true
-  },
-  "42ab173b7576b3d1f350262a5ed232f3ced26a030fb120de1456c9959bd51f6d": {
-    "source": "CNSA - Actualités",
-    "title": "Sonia Pires est nommée directrice de l’accès aux droits et aux parcours de la CNSA",
-    "link": "https://www.cnsa.fr/actualites/sonia-pires-est-nommee-directrice-de-lacces-aux-droits-et-aux-parcours-de-la-cnsa",
-    "description": "Depuis le 6 août 2026, Sonia Pires est nommée directrice de l’accès aux droits et aux parcours de la CNSA.",
-    "published": "2026-08-17T08:10:02+00:00",
-    "first_seen": "2026-08-17T09:58:08.389254+00:00",
-    "uid": "42ab173b7576b3d1f350262a5ed232f3ced26a030fb120de1456c9959bd51f6d"
-  },
-  "5f9ea7c36c0fce8e8c82285f7d7eeaa599fe81cab208e7cda74205d24bd1271c": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Canicule : la chaleur affecte-t-elle le développement cognitif des jeunes enfants ?",
-    "link": "https://www.lesprosdelapetiteenfance.fr/canicule-la-chaleur-affecte-t-elle-le-developpement-cognitif-des-jeunes-enfants/",
-    "description": "Et si les vagues de chaleur laissaient une empreinte sur le cerveau des tout-petits ? C’est la question posée par une étude française portant sur près de 9 000 enfants...",
-    "published": "2026-08-15T17:25:35+00:00",
-    "first_seen": "2026-08-15T18:48:03.017670+00:00",
-    "uid": "5f9ea7c36c0fce8e8c82285f7d7eeaa599fe81cab208e7cda74205d24bd1271c",
-    "description_checked": true
-  },
-  "768989206b96f145da42ac4c418210aa5c7f9bc4c10e06e62502c6785d611cbb": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Caries et gingivites chez les tout-petits : la prévention précoce compte plus qu’on ne le pense",
-    "link": "https://www.lesprosdelapetiteenfance.fr/caries-et-gingivites-chez-les-tout-petits-la-prevention-precoce-compte-plus-quon-ne-le-pense/",
-    "description": "Caries et gingivites dans l’enfance : petit souci dentaire ou véritable signal à prendre au sérieux ? Une vaste étude danoise récente apporte un nouvel éclairage. Publiée dans l’International Journal...",
-    "published": "2026-08-13T07:24:31+00:00",
-    "first_seen": "2026-08-13T10:28:46.792731+00:00",
-    "uid": "768989206b96f145da42ac4c418210aa5c7f9bc4c10e06e62502c6785d611cbb",
-    "description_checked": true
-  },
-  "ed00e079873134518d228d21232c05b04b99f5efa33b7540c1fc5ea7bd11cb18": {
-    "source": "CNSA - Actualités",
-    "title": "8 facteurs de réussite d’un programme de lutte contre l’isolement et la solitude des plus de 60 ans",
-    "link": "https://www.cnsa.fr/actualites/8-facteurs-de-reussite-dun-programme-de-lutte-contre-lisolement-et-la-solitude-des-plus",
-    "description": "Dans le prolongement de ses précédentes publications, le Centre de ressources et de preuves (CRP) sur la prévention de la perte d'autonomie de la CNSA publie une synthèse de bonnes pratiques dédiée à la lutte contre l'isolement social et à la solitude, avec l'appui de l'Union des gérontopôles de France.",
-    "published": "2026-07-08T07:00:00+00:00",
-    "first_seen": "2026-08-12T16:10:10.970726+00:00",
-    "uid": "ed00e079873134518d228d21232c05b04b99f5efa33b7540c1fc5ea7bd11cb18"
-  },
-  "cbb2fb97a7373a792c33e2c06d18c01167e152ba19573e605b658ad97aa7aee6": {
-    "source": "CNSA - Actualités",
-    "title": "5 conseils pour renforcer la santé auditive et visuelle des personnes de plus de 60 ans",
-    "link": "https://www.cnsa.fr/actualites/5-conseils-pour-renforcer-la-sante-auditive-et-visuelle-des-personnes-de-plus-de-60-ans",
-    "description": "Dans le prolongement de ses précédentes publications, le Centre de ressources et de preuves (CRP) sur la prévention de la perte d'autonomie de la CNSA publie une synthèse de bonnes pratiques dédiée à la santé auditive et visuelle, avec l'appui de l'Union des gérontopôles de France.",
-    "published": "2026-04-14T15:26:25+00:00",
-    "first_seen": "2026-08-12T16:10:10.970726+00:00",
-    "uid": "cbb2fb97a7373a792c33e2c06d18c01167e152ba19573e605b658ad97aa7aee6"
-  },
-  "a9e2c7a0f5036b197d936a975e75ebf9893053d74acc799019d75d103b977d48": {
-    "source": "CNSA - Actualités",
-    "title": "Décès de M. Dominique Libault",
-    "link": "https://www.cnsa.fr/actualites/deces-de-m-dominique-libault",
-    "description": "C’est avec émotion que les équipes de la CNSA ont appris le décès de Dominique Libault, survenu samedi 8 août. Il incarnait la Sécurité sociale à laquelle il avait voué toute sa carrière. Il en portait les valeurs de rigueur, de solidarité et de service public.",
-    "published": "2026-08-11T10:15:36+00:00",
-    "first_seen": "2026-08-11T13:43:50.011162+00:00",
-    "uid": "a9e2c7a0f5036b197d936a975e75ebf9893053d74acc799019d75d103b977d48"
-  },
-  "406b4b6cc37fd26106108b90e7fd42e53a8d6a9ed75d7a6dedc28ebf0b367c5d": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Autisme : et si l’on pouvait agir avant même le diagnostic ?",
-    "link": "https://www.lesprosdelapetiteenfance.fr/autisme-et-si-lon-pouvait-agir-avant-meme-le-diagnostic/",
-    "description": "Les premiers signes d’un trouble du spectre de l’autisme (TSA) peuvent apparaître dès les premiers mois de vie alors que le diagnostic et l’accompagnement interviennent souvent plus tard. Une revue...",
-    "published": "2026-08-11T08:16:48+00:00",
-    "first_seen": "2026-08-11T10:11:52.397379+00:00",
-    "uid": "406b4b6cc37fd26106108b90e7fd42e53a8d6a9ed75d7a6dedc28ebf0b367c5d",
-    "description_checked": true
-  },
-  "46b1623c048a4387bf7a97bcca7a2a964e7eb1c6e120e0bdc15276628f1dae42": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Crèches : quand les professionnels changent, quel impact pour les tout-petits ?",
-    "link": "https://www.lesprosdelapetiteenfance.fr/creches-quand-les-professionnels-changent-quel-impact-pour-les-tout-petits/",
-    "description": "Une étude américaine montre l'impact du turn-over dans les crèches sur les acquisitions et compétences des tout-petits",
-    "published": "2026-08-10T07:49:51+00:00",
-    "first_seen": "2026-08-10T08:05:16.021247+00:00",
-    "uid": "46b1623c048a4387bf7a97bcca7a2a964e7eb1c6e120e0bdc15276628f1dae42",
-    "description_checked": true
-  },
-  "418bf9bc8c3070ca215e76ea74c39e52b03196a979ff548905fe7fae720d9881": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Six micro-crèches Callihop fermées en urgence en Isère : ce que l’on sait sur l’affaire",
-    "link": "https://www.lesprosdelapetiteenfance.fr/six-micro-creches-callihop-fermees-en-urgence-en-isere-chronologie-et-dernieres-informations-sur-laffaire/",
-    "description": "Six établissements du réseau de crèches privées Callihop ont été fermés en urgence dans le Nord-Isère à la fin du mois de juillet 2026.",
-    "published": "2026-08-07T09:15:47+00:00",
-    "first_seen": "2026-08-07T10:11:50.601408+00:00",
-    "uid": "418bf9bc8c3070ca215e76ea74c39e52b03196a979ff548905fe7fae720d9881",
-    "description_checked": true
-  },
-  "c494c68219fef402aae56e52dfbaab4315e863c1c915c62885530b9f63807d4a": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Entre 6 mois et 3 ans, les tout-petits explorent déjà comme des scientifiques",
-    "link": "https://www.lesprosdelapetiteenfance.fr/entre-6-mois-et-3-ans-les-tout-petits-explorent-deja-comme-des-scientifiques/",
-    "description": "Une étude réalisée en crèche décortique les phases du comportement exploratoire des jeunes enfants entre six mois et trois ans",
-    "published": "2026-08-07T08:24:27+00:00",
-    "first_seen": "2026-08-07T10:11:50.601408+00:00",
-    "uid": "c494c68219fef402aae56e52dfbaab4315e863c1c915c62885530b9f63807d4a",
-    "description_checked": true
-  },
-  "966e0ce3836d5293f20d036f9c3f62242c109330d53c50b8e565cfaf59871de3": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "Couvre-feux pour mineurs : la justice retoque quatre communes de la Loire",
-    "link": "https://www.enfancejeunesseinfos.fr/couvre-feux-pour-mineurs-la-justice-retoque-quatre-communes-de-la-loire/",
-    "description": "À peine votés, déjà suspendus. Les couvre-feux pour mineurs de moins de 16 ans instaurés en juillet à Saint-Chamond, Villars, La Talaudière et Saint-Priest-en-Jarez viennent d'être retoqués par le tribunal administratif de Lyon, qui y voit un « doute sérieux » sur leur légalité.",
-    "published": "2026-08-07T09:23:51+00:00",
-    "first_seen": "2026-08-07T10:11:48.748871+00:00",
-    "uid": "966e0ce3836d5293f20d036f9c3f62242c109330d53c50b8e565cfaf59871de3"
-  },
-  "7a4e2e8cf9e4cdbdd0fb02c69b8d32169125e40f139e3d357437b83e597e4b61": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "Crèches : un décret revoit les règles d'encadrement et simplifie les autorisations",
-    "link": "https://www.enfancejeunesseinfos.fr/eaje-un-decret-revoit-les-regles-dencadrement-et-simplifie-les-autorisations/",
-    "description": "Un décret du 1er août 2026 modifie les règles de composition du personnel des établissements d'accueil du jeune enfant (EAJE) ainsi que plusieurs procédures d'autorisation.",
-    "published": "2026-08-07T05:56:00+00:00",
-    "first_seen": "2026-08-07T10:11:48.748871+00:00",
-    "uid": "7a4e2e8cf9e4cdbdd0fb02c69b8d32169125e40f139e3d357437b83e597e4b61"
-  },
-  "335770f434f55f0f0aa9fd6d063b41ce7a0491f6e937954d3ab140ca28c7c68a": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Le tempérament des enfants a aussi une composante génétique",
-    "link": "https://www.lesprosdelapetiteenfance.fr/le-temperament-des-enfants-a-aussi-une-composante-genetique/",
-    "description": "Une vaste étude internationale publiée dans Nature Human Behaviour montre que certaines différences de tempérament observées chez les enfants au cours de leurs trois premières années de vie sont en partie associées à des variations génétiques.",
-    "published": "2026-08-06T07:59:00+00:00",
-    "first_seen": "2026-08-06T09:07:07.081401+00:00",
-    "uid": "335770f434f55f0f0aa9fd6d063b41ce7a0491f6e937954d3ab140ca28c7c68a",
-    "description_checked": true
-  },
-  "29d7615341aea7c17d7d28e118b140e5143a127e74aee7afeb2fa96562c02af2": {
-    "source": "CNSA - Actualités",
-    "title": "Habitat inclusif : l’appel à manifestation d’intérêt 2026 est lancé !",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/habitat-inclusif-lappel-manifestation-dinteret-2026-est-lance",
-    "description": "Les habitats inclusifs se développent fortement depuis 2020, sous l’impulsion des conseils départementaux et de partenaires diversifiés, et grâce au soutien technique et financier de la CNSA via l’aide à la vie partagée (AVP). En 2026, la CNSA lance un nouvel appel à manifestation d’intérêt (AMI) pour consolider l’offre d’habitat inclusif, partout en France, à destination des personnes âgées et des personnes en situation de handicap.",
-    "published": "2026-07-30T13:08:48+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "29d7615341aea7c17d7d28e118b140e5143a127e74aee7afeb2fa96562c02af2"
-  },
-  "59cdf66046ea95ab08f74c7225aaa6fe9d070f0ad5d7069c6779f8b82d5527e3": {
-    "source": "CNSA - Actualités",
-    "title": "Déploiement et usages du DUI : 8 millions d’euros pour les ESSMS du handicap enfant et de la protection de l’enfance",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/deploiement-et-usages-du-dui-8-millions-deuros-pour-les-essms-du-handicap-enfant-et-de",
-    "description": "Dans le cadre du programme ESMS Numérique, la CNSA mobilise en 2026 une enveloppe de plus de 8 millions d’euros, issue des crédits non consommés lors des campagnes précédentes. Cet appui vise à soutenir prioritairement l’équipement et les usages du dossier de l’usager informatisé (DUI) dans les établissements et services sociaux et médico-sociaux (ESSMS) accompagnant des enfants en situation de handicap, ainsi que dans les établissements et services du champ de la protection de l’enfance.",
-    "published": "2026-07-27T13:47:27+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "59cdf66046ea95ab08f74c7225aaa6fe9d070f0ad5d7069c6779f8b82d5527e3"
-  },
-  "96bbbf5aa88ef41d8b4608da33e25a1b425c8732ae3f0527d81584bd0071c73b": {
-    "source": "CNSA - Actualités",
-    "title": "En 2026, la CNSA poursuit et actualise son soutien aux projets immobiliers qui transforment l’offre médico-sociale",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/en-2026-la-cnsa-poursuit-et-actualise-son-soutien-aux-projets-immobiliers-qui",
-    "description": "Qu’il s’agisse d’EHPAD, d’habitats intermédiaires ou de solutions d’habitats plus inclusifs pour les personnes handicapées, les financements visent à encourager des projets matures, territorialisés et porteurs d’un impact concret sur l’accompagnement. Ils doivent aussi permettre d’améliorer les conditions d’exercice des professionnels et de réduire les risques d’accidents du travail.",
-    "published": "2026-07-14T08:00:00+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "96bbbf5aa88ef41d8b4608da33e25a1b425c8732ae3f0527d81584bd0071c73b"
-  },
-  "4436368d2ce2a2af302fac423863e90f1eded8bc9dafeda675541eaab082f115": {
-    "source": "CNSA - Actualités",
-    "title": "Le Conseil de la CNSA appelle le Gouvernement à préparer le choc démographique",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/le-conseil-de-la-cnsa-appelle-le-gouvernement-preparer-le-choc-demographique",
-    "description": "À l'approche des arbitrages du Projet de loi de financement de la sécurité sociale (PLFSS) pour 2027, les membres du Conseil de la CNSA appellent le Gouvernement à conforter durablement les moyens de la branche Autonomie. Dans un courrier adressé au Premier ministre, son président, Paul Christophe, défend une politique d'investissement social à la hauteur du vieillissement de la population, des besoins des personnes âgées et des personnes en situation de handicap, et des enjeux d'équité entre les territoires.",
-    "published": "2026-07-09T10:23:10+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "4436368d2ce2a2af302fac423863e90f1eded8bc9dafeda675541eaab082f115"
-  },
-  "8e6f91e3f1de95ed0b8ffab84117d8b264cb65b65a6eb0738b6ca5afa2e61d3f": {
-    "source": "CNSA - Actualités",
-    "title": "Transformation de l’offre handicap : le fonds d’appui accélère le passage à une offre de services coordonnés",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/transformation-de-loffre-handicap-le-fonds-dappui-accelere-le-passage-une-offre-de",
-    "description": "Prévu par la Conférence nationale du handicap de 2023, le fonds d’appui à la transformation de l’offre pour les personnes en situation de handicap poursuit son déploiement en 2026. Pensé comme un levier d’ingénierie, et d’investissement immobilier, il accompagne dans les territoires le passage d’une logique de places à une logique de services coordonnés, plus souple, plus lisible et davantage centrée sur les besoins et les choix de vie des personnes.",
-    "published": "2026-07-07T08:39:04+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "8e6f91e3f1de95ed0b8ffab84117d8b264cb65b65a6eb0738b6ca5afa2e61d3f"
-  },
-  "8ada123fe91d33e479df7fbdf53e1651a58a9875c92ec2fd0a55c33d3cda7f5d": {
-    "source": "CNSA - Actualités",
-    "title": "Canicule : la CNSA s’associe à la plateforme JeVeuxAider.gouv.fr pour mobiliser des bénévoles",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/canicule-la-cnsa-sassocie-la-plateforme-jeveuxaidergouvfr-pour-mobiliser-des-benevoles",
-    "description": "En étroite collaboration avec JeVeuxAider.gouv.fr, la CNSA invite les acteurs de ses réseaux à publier leurs missions de bénévolat afin de renforcer l'accompagnement des personnes âgées et des personnes en situation de handicap, particulièrement vulnérables durant les fortes chaleurs.",
-    "published": "2026-07-03T06:42:52+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "8ada123fe91d33e479df7fbdf53e1651a58a9875c92ec2fd0a55c33d3cda7f5d"
-  },
-  "b93c153eef7558c8190f2b210b7a7f9be7252b4d7ef15521e812d57b365e862e": {
-    "source": "CNSA - Actualités",
-    "title": "2025, une année de consolidation de la branche Autonomie",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/2025-une-annee-de-consolidation-de-la-branche-autonomie",
-    "description": "En 2025, la branche Autonomie a franchi une étape décisive dans sa structuration et son ancrage territorial. Face à une population vieillissante, à la hausse continue des demandes adressées aux maisons départementales des personnes handicapées (MDPH) et aux attentes des aidants, l’accès effectif aux droits reste une priorité.",
-    "published": "2026-06-30T08:42:44+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "b93c153eef7558c8190f2b210b7a7f9be7252b4d7ef15521e812d57b365e862e"
-  },
-  "30c510349c0a7d0baa38e9ca920fc2ecb6374523beeb69a126ef2bee4143015e": {
-    "source": "CNSA - Actualités",
-    "title": "La CNSA signe deux conventions pour soutenir la formation des professionnels de l’autonomie",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/la-cnsa-signe-deux-conventions-pour-soutenir-la-formation-des-professionnels-de",
-    "description": "La formation des professionnels du secteur de l’autonomie se voit renforcée par deux nouvelles conventions, l’une avec OPCO Santé, l’autre avec Uniformation. Elles visent à soutenir le développement des compétences des professionnels exerçant dans les établissements et services accompagnant les personnes âgées dépendantes et les personnes en situation de handicap.",
-    "published": "2026-06-11T13:37:08+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "30c510349c0a7d0baa38e9ca920fc2ecb6374523beeb69a126ef2bee4143015e"
-  },
-  "262fd27cb26a105bcd9abc3f6cfd9a8b1d969c98cd03d041c8cb9e7a98f64b0a": {
-    "source": "CNSA - Actualités",
-    "title": "Autisme : La CNSA mobilisée aux côtés de la DITND pour améliorer l’accompagnement des adultes autistes en situation très complexe",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/autisme-la-cnsa-mobilisee-aux-cotes-de-la-ditnd-pour-ameliorer-laccompagnement-des",
-    "description": "En 2024, la CNSA a lancé une étude évaluative des premières unités résidentielles pour adultes autistes en situation très complexe (URTSA) afin de soutenir le déploiement de cette offre spécifique et d’éclairer les travaux de révision de son cahier des charges, conduits par la Délégation interministérielle à la stratégie pour les troubles du neurodéveloppement (DITND).",
-    "published": "2026-06-11T10:24:38+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "262fd27cb26a105bcd9abc3f6cfd9a8b1d969c98cd03d041c8cb9e7a98f64b0a"
-  },
-  "0a95220a0f864863a4f7ed63910d46454d427a15309c48da1b972ccea85d911e": {
-    "source": "CNSA - Actualités",
-    "title": "Publication de l’étude sur la préfiguration des pôles d’appui à la scolarité",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/publication-de-letude-sur-la-prefiguration-des-poles-dappui-la-scolarite",
-    "description": "La CNSA publie l’étude consacrée à l’analyse des pratiques professionnelles mises en œuvre dans les 4 départements engagés dans la phase de préfiguration des pôles d’appui à la scolarité (PAS) : Aisne, Côte-d’Or, Eure-et-Loir et Var.",
-    "published": "2026-06-10T14:00:47+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "0a95220a0f864863a4f7ed63910d46454d427a15309c48da1b972ccea85d911e"
-  },
-  "95ba9a686f3f39ef4fc916f1de5e798f8f4ee1b42b8c1e249005969f5a24c30d": {
-    "source": "CNSA - Actualités",
-    "title": "En 2024, les CMPP ont accompagné plus de 141 000 enfants et adolescents",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/en-2024-les-cmpp-ont-accompagne-plus-de-141-000-enfants-et-adolescents",
-    "description": "Le n° 28 des Repères statistiques présente un bilan de l’activité des 482 centres médico-psychopédagogiques (CMPP) recensés en France en 2024. Si le nombre d’enfants et d’adolescents accompagnés diminue de 2 % par rapport à 2023, dans la continuité du recul progressif observé depuis 2017, cette baisse ne traduit toutefois pas une réduction de l’activité des CMPP.",
-    "published": "2026-06-02T12:51:03+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "95ba9a686f3f39ef4fc916f1de5e798f8f4ee1b42b8c1e249005969f5a24c30d"
-  },
-  "f2d38e0a65768fdcdc8b6794503bf855e30f909e03ab1f68fbd0130ecda4350d": {
-    "source": "CNSA - Actualités",
-    "title": "Comptes 2025 : la Cour des comptes certifie la branche Autonomie",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/comptes-2025-la-cour-des-comptes-certifie-la-branche-autonomie",
-    "description": "Réuni le 19 mai, le Conseil de la CNSA a examiné le rapport de certification des comptes 2025 présenté par la Cour des comptes, en présence de ses membres. Les comptes ont ensuite été présentés puis approuvés. La Cour les a certifiés, à l’instar de ceux des branches du régime général de la Sécurité sociale et du Conseil de la protection sociale des travailleurs indépendants. Elle a salué les progrès accomplis par la CNSA dans la sécurisation de ses procédures comptables et financiers. Créée en 2020, la branche Autonomie confirme ainsi la fiabilité croissante de sa gestion.",
-    "published": "2026-05-19T09:56:12+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "f2d38e0a65768fdcdc8b6794503bf855e30f909e03ab1f68fbd0130ecda4350d"
-  },
-  "313553bdefaebc4aaadbd8de6f1abb1b3e02023fc6e1df0edb754eee5596344c": {
-    "source": "CNSA - Actualités",
-    "title": "La CNSA à SantExpo : trois conférences emblématiques à ne pas manquer",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/la-cnsa-santexpo-trois-conferences-emblematiques-ne-pas-manquer",
-    "description": "La Caisse nationale de solidarité pour l’autonomie sera présente au salon SantExpo, organisé du 19 au 21 mai 2026 à Paris Expo Porte de Versailles. À cette occasion, la CNSA participera à trois conférences : les apports du service public de l’autonomie (SPDA) pour faciliter les sorties d’hospitalisation, les enjeux de la donnée avec Data Autonomie, et la réforme tarifaire SERAFIN PH.",
-    "published": "2026-05-18T08:51:22+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "313553bdefaebc4aaadbd8de6f1abb1b3e02023fc6e1df0edb754eee5596344c"
-  },
-  "7b2271657eb8d35ae2a5f24e4b55d13881fa9cf36126732e6f0b703a7f7d5714": {
-    "source": "CNSA - Actualités",
-    "title": "La CNSA renforce son soutien auprès des fédérations du domicile avec un nouveau programme de conventionnement",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/la-cnsa-renforce-son-soutien-aupres-des-federations-du-domicile-avec-un-nouveau",
-    "description": "En 2026, la CNSA fait évoluer son programme de conventionnement, qu’elle conduit auprès des fédérations et têtes de réseau du secteur du domicile depuis 2008. Dans ce cadre renouvelé, elle a signé en début d’année deux nouvelles conventions d’accompagnement avec la FEHAP et NEXEM.",
-    "published": "2026-04-28T10:00:00+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "7b2271657eb8d35ae2a5f24e4b55d13881fa9cf36126732e6f0b703a7f7d5714"
-  },
-  "4afeedd9ef46411b2607f95d0700d24dafb460112484ec480baa4c956cf7fc4e": {
-    "source": "CNSA - Actualités",
-    "title": "Prévention de la perte d’autonomie : 2024, une année charnière pour la structuration et l’investissement",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/prevention-de-la-perte-dautonomie-2024-une-annee-charniere-pour-la-structuration-et",
-    "description": "Dans un contexte de vieillissement de la population et de tension croissante sur les ressources, la prévention de la perte d’autonomie s’impose comme un levier de réduction des risques et des inégalités. En 2024, 293 millions d’euros ont ainsi été mobilisés dans le cadre des commissions des financeurs de la perte d’autonomie (CFPPA), confirmant leur rôle central dans le pilotage territorial de la prévention.",
-    "published": "2026-04-22T08:22:42+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "4afeedd9ef46411b2607f95d0700d24dafb460112484ec480baa4c956cf7fc4e"
-  },
-  "4dc6bd4ff1188d2f7f0caf5b3c7c9af9f23430125d7db67cb24d96a0f352b243": {
-    "source": "CNSA - Actualités",
-    "title": "La CNSA mobilise 207 millions d’euros en 2026 en soutien de la préservation de l’autonomie des personnes âgées de 60 ans et plus",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/la-cnsa-mobilise-207-millions-deuros-en-2026-en-soutien-de-la-preservation-de-lautonomie",
-    "description": "En 2026, la CNSA renforce son soutien aux départements à travers ses deux concours « Forfait autonomie » et « Autres actions de prévention ». Ces financements sont complétés par un appui technique de la CNSA auprès des 101 commissions des financeurs de la prévention de la perte d’autonomie (CFPPA), qui bénéficient également de l’accompagnement du Centre de ressources et de preuves (CRP) afin de développer des actions de prévention toujours plus qualitatives et efficaces.",
-    "published": "2026-04-21T07:57:13+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "4dc6bd4ff1188d2f7f0caf5b3c7c9af9f23430125d7db67cb24d96a0f352b243"
-  },
-  "85c3221c62ddaafaeaf3f3438ed4ed3fb220773357520abd8250302ec2faa41f": {
-    "source": "CNSA - Actualités",
-    "title": "Le Conseil de la CNSA élit Paul Christophe à sa présidence et adopte le premier budget rectificatif 2026 de la branche Autonomie",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/le-conseil-de-la-cnsa-elit-paul-christophe-sa-presidence-et-adopte-le-premier-budget",
-    "description": "En présence de Camille Galliard-Minier, ministre déléguée chargée de l'Autonomie et des Personnes handicapées, le Conseil de la Caisse nationale de solidarité pour l'autonomie (CNSA) a élu Paul Christophe à sa présidence, succédant à Jean-René Lecerf dont le mandat s'achève après quatre années d'engagement continu pour la branche.",
-    "published": "2026-04-08T16:55:51+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "85c3221c62ddaafaeaf3f3438ed4ed3fb220773357520abd8250302ec2faa41f"
-  },
-  "a34f43f4a93fb2fe69a8638f0a99fa31878da64fcecb2ad30b4051fe390c7ceb": {
-    "source": "CNSA - Actualités",
-    "title": "Prix des EHPAD en 2024 : un écart important entre les chambres habilitées à l’aide sociale et les autres",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/prix-des-ehpad-en-2024-un-ecart-important-entre-les-chambres-habilitees-laide-sociale-et",
-    "description": "En 2024, les prix de l’hébergement en établissement d’hébergement pour personnes âgées dépendantes (EHPAD) continuent d’augmenter davantage que l’inflation. Ils varient fortement selon les territoires, le statut juridique, la taille et la localisation géographique des établissements expliquant ces différences.",
-    "published": "2026-04-01T08:27:35+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "a34f43f4a93fb2fe69a8638f0a99fa31878da64fcecb2ad30b4051fe390c7ceb"
-  },
-  "70703c8d21f885ea404a05d0d1f0cee550f5d6e12b7eafe429ccedee6e53a055": {
-    "source": "CNSA - Actualités",
-    "title": "La CNSA sélectionne 12 projets pour renforcer le repérage et l’accompagnement des jeunes aidants",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/la-cnsa-selectionne-12-projets-pour-renforcer-le-reperage-et-laccompagnement-des-jeunes",
-    "description": "La CNSA place l’adaptation de l’offre de soutien aux proches aidants et sa couverture territoriale au cœur de l’action de la branche Autonomie. À l’issue d’un appel à projets lancé en novembre, 12 projets ont été sélectionnés sur l’ensemble du territoire pour mener des actions à destination des jeunes aidants.",
-    "published": "2026-03-30T14:22:46+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "70703c8d21f885ea404a05d0d1f0cee550f5d6e12b7eafe429ccedee6e53a055"
-  },
-  "c07ececbd4221b4a6b618e44f8a920511a02ad90a877ed36f6f1e09cee0942a2": {
-    "source": "CNSA - Actualités",
-    "title": "Campagnes de transmission des comptes administratifs et des ERRD 2025",
-    "link": "https://www.cnsa.fr/index%2Ephp/actualites/campagnes-de-transmission-des-comptes-administratifs-et-des-errd-2025",
-    "description": "Les gestionnaires d’établissements et services médico-sociaux peuvent déposer leurs documents budgétaires et financiers dans les plateformes ImportCA et ImportERRD. Chaque année, les établissements et services médico-sociaux transmettent à leurs autorités de tarification leur compte administratif (CA) ou leur état réalisé des recettes et des dépenses (ERRD).",
-    "published": "2026-03-24T17:00:00+00:00",
-    "first_seen": "2026-08-05T14:34:46.597437+00:00",
-    "uid": "c07ececbd4221b4a6b618e44f8a920511a02ad90a877ed36f6f1e09cee0942a2"
-  },
-  "8f6b1986bb0de74800114a123b8710f75544008e6120aeb83c2ce26a88766d5b": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Sommeil des bébés en crèche : un manque criant de données scientifiques",
-    "link": "https://www.lesprosdelapetiteenfance.fr/sommeil-des-bebes-en-creche-un-manque-criant-de-donnees-scientifiques/",
-    "description": "Une revue systématique publiée en juillet 2026 s’est penchée sur les méthodes utilisées dans les structures d’accueil pour favoriser le sommeil des jeunes enfants. Sur plus de 3 500 publications...",
-    "published": "2026-08-05T07:54:42+00:00",
-    "first_seen": "2026-08-05T09:07:02.994447+00:00",
-    "uid": "8f6b1986bb0de74800114a123b8710f75544008e6120aeb83c2ce26a88766d5b",
-    "description_checked": true
-  },
-  "adbedae6c05e60b145ba79b955445fe95fe7b02307fa516856f8e3cd28b6649c": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Crèches : nouvelle méthode de calcul du nombre des personnels de catégorie 1",
-    "link": "https://www.lesprosdelapetiteenfance.fr/creches-decryptage-du-decret-du-1-aout-2026-sur-le-calcul-des-personnels-de-categorie-1/",
-    "description": "Le 4 août, a été publié au Journal officiel, un décret apportant une nouvelle méthode de calcul du nombre minimal de professionnels de catégorie 1 dans les crèches. Au 1ᵉʳ janvier 2027, cela en sera donc fini de l’effectif mensuel de référence ! Par ailleurs certaines dispositions du décret – avec une entrée en vigueur dès le 5 août – corrigent quelques points de la réglementation d’avril 2025 sur les procédures d’autorisations. . Décryptage de ce qui change et ce qui reste.",
-    "published": "2026-08-04T10:26:40+00:00",
-    "first_seen": "2026-08-04T14:40:28.784319+00:00",
-    "uid": "adbedae6c05e60b145ba79b955445fe95fe7b02307fa516856f8e3cd28b6649c",
-    "description_checked": true
-  },
-  "72e9fd2bfa7ea3bfb73536212696f1f0ba58fca762b5887134b7f3843b52c1f5": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Santé mentale des enfants : l’imprévisibilité du quotidien, un signal à ne pas négliger",
-    "link": "https://www.lesprosdelapetiteenfance.fr/sante-mentale-des-enfants-limprevisibilite-du-quotidien-un-signal-a-ne-pas-negliger/",
-    "description": "Une étude menée auprès de près de 30 000 enfants et adolescents montre que l’imprévisibilité du quotidien est associée à un risque accru de troubles de santé mentale.",
-    "published": "2026-08-04T10:47:51+00:00",
-    "first_seen": "2026-08-04T11:34:20.179686+00:00",
-    "uid": "72e9fd2bfa7ea3bfb73536212696f1f0ba58fca762b5887134b7f3843b52c1f5",
-    "description_checked": true
-  },
-  "7ddbe4a8bf9a472f8118051dce915da08100ffd3c48b84721db3bf1e08dcc789": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Crèches : décryptage du décret du 1 août 2026 sur le calcul des personnels de catégorie 1",
-    "link": "https://www.lesprosdelapetiteenfance.fr/creches-decryptage-du-decret-du-1-aout-2026-sur-le-calcul-des-personnels-de-categorie-1/",
-    "description": "",
-    "published": "2026-08-04T10:26:40+00:00",
-    "first_seen": "2026-08-04T11:34:20.179686+00:00",
-    "uid": "7ddbe4a8bf9a472f8118051dce915da08100ffd3c48b84721db3bf1e08dcc789"
-  },
-  "f8dd063058bf0e05ba20dcd52d4a8a6404a4bc9867e30697b0ea5028a2a267c8": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Le Prix du livre pour les bébés revient : les albums en compétition",
-    "link": "https://www.lesprosdelapetiteenfance.fr/le-prix-du-livre-pour-les-bebes-revient-les-livres-jeunesse-en-competition/",
-    "description": "Après une premier édition en 2025, le Prix du livre pour les bébés, qui récompense un album paru dans l’année écoulée parmi la production de littérature jeunesse destinée aux moins...",
-    "published": "2026-08-03T09:20:12+00:00",
-    "first_seen": "2026-08-03T15:17:54.040419+00:00",
-    "uid": "f8dd063058bf0e05ba20dcd52d4a8a6404a4bc9867e30697b0ea5028a2a267c8",
-    "description_checked": true
-  },
-  "213171c9eafdecfbaa9a8e86d7290fd57414857e82f5a66f38f39372883be8ba": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Le Prix du livre pour les bébés revient : les livres jeunesse en compétition",
-    "link": "https://www.lesprosdelapetiteenfance.fr/le-prix-du-livre-pour-les-bebes-revient-les-livres-jeunesse-en-competition/",
-    "description": "",
-    "published": "2026-08-03T09:20:12+00:00",
-    "first_seen": "2026-08-03T10:06:51.330635+00:00",
-    "uid": "213171c9eafdecfbaa9a8e86d7290fd57414857e82f5a66f38f39372883be8ba"
-  },
-  "55edc016091319caa25057d2d6d7ef801fbe1c7351dc8969d68a68a4ba28d2cf": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Fumées d’incendie : quels effets sur la santé respiratoire des jeunes enfants ?",
-    "link": "https://www.lesprosdelapetiteenfance.fr/fumees-dincendie-quels-effets-sur-la-sante-respiratoire-des-jeunes-enfants/",
-    "description": "Dans ce qu’il est convenu désormais d’appeler l’affaire de la MAM de Yerres - l’accueil de 17 enfants par deux assistantes maternelles dont une sans agrément à l’Atelier des petits - on a peu entendu les associations ou syndicats représentant les assistantes maternelles. Une sorte de silence gêné.",
-    "published": "2026-07-30T11:30:23+00:00",
-    "first_seen": "2026-07-30T14:33:10.874639+00:00",
-    "uid": "55edc016091319caa25057d2d6d7ef801fbe1c7351dc8969d68a68a4ba28d2cf",
-    "description_checked": true
   }
 }
