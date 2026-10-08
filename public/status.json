@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T10:38:20.533386+00:00",
+  "generated_at": "2026-10-08T18:52:29.539846+00:00",
   "sites_total": 17,
   "sites_ok": 17,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 12,
-  "merged_items": 592,
+  "new_items": 21,
+  "merged_items": 596,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -95,7 +95,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 16,
+      "items": 17,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
@@ -137,7 +137,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 43,
+      "items": 46,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
@@ -151,7 +151,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 55,
+      "items": 57,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -167,7 +167,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 15,
+      "items": 12,
       "feed": "c2l-restauration-collective.xml",
       "source_feed": "https://c2lsolutions.fr/feed/?post_type=post",
       "warnings": []
@@ -225,7 +225,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 45,
+      "items": 46,
       "feed": "igas.xml",
       "source_feed": "https://igas.gouv.fr/rss.xml",
       "warnings": []

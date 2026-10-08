@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 08 Oct 2026 10:16:26 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 12:10:31 +0000</lastBuildDate>
+    <item>
+      <title>Guyane : Le Centre spatial guyanais se prépare pour 2030</title>
+      <link>https://outremers360.com/bassin-atlantique-appli/guyane-le-centre-spatial-guyanais-se-prepare-pour-2030</link>
+      <description>Le Centre spatial guyanais (CSG) se prépare à une forte augmentation de son activité. Alors que la base de Kourou vise neuf lancements en 2026 et pourrait atteindre 13 à 14 tirs en 2027, ses infrastructures sont progressivement adaptées à cette montée en cadence. Un...</description>
+      <guid isPermaLink="false">099e42ae07c5c4d6f84de5fdf3a0b55f3e3a7c5a4f0c55e85b61ca9e19f96ebb</guid>
+      <pubDate>Thu, 08 Oct 2026 12:10:31 +0000</pubDate>
+    </item>
     <item>
       <title>Port de l’Étang Z’Abricot : l’AFD accompagne la CACEM à préparer l’agrandissement du port de plaisance en Martinique</title>
       <link>https://outremers360.com/bassin-atlantique-appli/port-de-letang-zabricot-lafd-accompagne-la-cacem-a-preparer-lagrandissement-du-port-de-plaisance-en-martinique</link>
@@ -421,13 +428,6 @@
       <description>Interview de Hannah Dominique, co-fondatrice et co-gérante de HABIT'ÂME à l'occasion de la première édition de Choose Outre-mer.Hannah Dominique, co-fondatrice et co-gérante de HABIT'AME a répondu aux questions d'Outremers 360 dans l’émission spéciale dédiée à ce...</description>
       <guid isPermaLink="false">d1a2e056f14ff3893ff8c242aa7b4e17e004b009e584c3f45de68bd8c394986a</guid>
       <pubDate>Fri, 02 Oct 2026 10:43:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Choose Outre-mer : Nadine Hafidou, vice-présidente de la délégation Outre-Mer du CESE et membre du bureau de la CCI Mayotte sur le plateau d'Outremers 360</title>
-      <link>https://outremers360.com/bassin-atlantique-appli/choose-outre-mer-nadine-hafidou-vice-presidente-de-la-delegation-outre-mer-du-cese-et-membre-du-bureau-de-la-cci-mayotte-sur-le-plateau-doutremers-360</link>
-      <description>Interview de Nadine Hafidou, vice-présidente de la délégation Outre-Mer du CESE et membre du bureau de la CCI Mayotte à l'occasion de la première édition de Choose Outre-mer.Nadine Hafidou, vice-présidente de la délégation Outre-Mer du CESE et membre du bureau de la CCI...</description>
-      <guid isPermaLink="false">5cafd16bc01e30b0589baf90ee3c2b7fb0cd28bfa86d554560134b498158436a</guid>
-      <pubDate>Fri, 02 Oct 2026 10:37:07 +0000</pubDate>
     </item>
   </channel>
 </rss>

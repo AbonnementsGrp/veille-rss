@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 06 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Accompagner au changement de comportement - Comprendre et Agir</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9675-accompagner-au-changement-de-comportement-comprendre-et-agir.html</link>
+      <description>Infographie sur l'accompagnement au changement de comportement qui répond aux 3 questions suivantes : Que constate t-on ? Pourquoi agir ? Comment agir ?</description>
+      <guid isPermaLink="false">29ec1f1f0c4012e893753dea7ce6f5abdf7d5cd06248ca07f2849e034d290d6b</guid>
+      <pubDate>Wed, 07 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Etude des enjeux énergétiques des entrepôts</title>
       <link>https://librairie.ademe.fr/mobilite-et-transports/9657-etude-des-enjeux-energetiques-des-entrepots.html</link>
@@ -108,10 +115,10 @@
       <pubDate>Tue, 15 Sep 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Les agriculteurs et le changement climatique</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9070-les-agriculteurs-et-le-changement-climatique.html</link>
+      <title>Baromètre changement climatique – Focus Agriculteurs – Résultats 2025</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9070-barometre-changement-climatique-focus-agriculteurs-resultats-2025.html</link>
       <description>Depuis 2000, l’ADEME conduit une enquête administrée chaque année auprès d'échantillons représentatifs de la population française permettant de dresser un tableau des représentations sociales du changement climatique et de leurs évolutions. L'enquête est également réalisée auprès d’un sur-échantillon cible. Cette année il a porté sur les agriculteurs qui avaient été interrogés en 2017. Les résultats montrent que les attitudes des agriculteurs interrogés dans cette enquête sont assez similaires à celles de la population générale. L’environnement apparait toutefois comme leur priorité numéro un par rapport à d’autres enjeux pour la France (alors qu’il s’agit de la 5ème préoccupation pour les Français). Ils sont par ailleurs plus nombreux à déjà subir les conséquences du changement climatique, en nette augmentation depuis 2017. Les conséquences du changement climatique affectent fortement leur activité et les contraint à de nouvelles stratégies d’adaptation. Ils affirment davantage que le public leur capacité de s’adapter à ses conséquences, bien que cet optimisme recule.</description>
-      <guid isPermaLink="false">4974b7843d947e90817deaf09a3e7920c321a1e9250929aedb141a760f1a23fa</guid>
+      <guid isPermaLink="false">138866ca99ddca1c8b7832dba4bd93c3453ab492bf7e355ecc9368d424783389</guid>
       <pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -420,13 +427,6 @@
       <link>https://librairie.ademe.fr/recherche-et-innovation/9433-entreprenariat-cooperatif-territorial-3-ans-de-recherche.html</link>
       <description>L’Entrepreneuriat Coopératif Territorial (ECT) est au centre d’un programme de recherche piloté par Clus’Ter Jura avec le laboratoire Ruralités de l’université de Poitiers. Ce concept vise à répondre à un enjeu majeur de développement local : créer de nouvelles activités supports d’emplois, dans des territoires ruraux où les opportunités économiques sont limitées. Après plusieurs années de recherche, une thèse CIFRE puis un programme de recherche et développement, mené de 2023 à 2025, ont permis d’analyser les conditions de réussite de cette forme d’entrepreneuriat fondée sur la coopération territoriale. L’objectif principal du projet était d’identifier les freins au développement de l’ECT et de mettre en évidence les facteurs favorisant son émergence, son accompagnement et son financement. Sept terrains d’étude ont été observés afin de comprendre comment des acteurs publics, privés, associatifs et citoyens peuvent construire collectivement des réponses à des besoins territoriaux. Les travaux montrent que l’ECT ne repose pas sur l’initiative d’un entrepreneur isolé mais sur des cadres collectifs permettant d’identifier, de qualifier et de légitimer des besoins partagés. L’émergence des projets dépend fortement de la qualité du dialogue entre les acteurs du territoire et de leur capacité à expérimenter ensemble. La recherche souligne également que les méthodes classiques d’accompagnement entrepreneurial sont insuffisantes. Les accompagnateurs doivent jouer un rôle d’animation territoriale, de facilitation de la coopération et de développement des compétences collectives. Les résultats mettent aussi en évidence la création d’une valeur multiple – économique, sociale et environnementale – souvent mal reconnue par les dispositifs traditionnels de financement. Les projets d’</description>
       <guid isPermaLink="false">f5cbcddcdaaff20615b9363a5a2dde19a9abb4a964f67b03d16e0d07e240da4d</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Feuille de route 2026 de l'Observatoire national du réemploi et de la réutilisation</title>
-      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9435-feuille-de-route-2026-de-l-observatoire-national-du-reemploi-et-de-la-reutilisation.html</link>
-      <description>L'ADEME présente à travers ce document, la feuille de route 2026 de l'Observatoire national du réemploi-réutilisation des produits et emballages soumis au principe de responsabilité élargie du producteur (REP). Pour ces filières REP, des objectifs de réemploi et de réutilisation sont fixés dans les cahiers des charges d'agrément des éco-organismes et systèmes individuels. Cet Observatoire est prévu par la Loi Anti-gaspillage pour une économie circulaire et la Loi Climat et résilience.</description>
-      <guid isPermaLink="false">1a7b81d3cd0026a87d963b2d64f22626a183257313f0edd231eda7889a74f0cd</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
