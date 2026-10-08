@@ -24,6 +24,13 @@
       <pubDate>Wed, 07 Oct 2026 14:11:35 +0000</pubDate>
     </item>
     <item>
+      <title>Webinaire Urgences : mieux orienter, s’appuyer sur le territoire</title>
+      <link>https://www.anap.fr/s/article/webinaire-urgences-mieux-orienter-s-appuyer-sur-le-territoire</link>
+      <description>À l’occasion de la publication de son guide, l’Anap propose une série de webinaires consacrés à la réorientation depuis les services d’urgences. Ces rendez-vous ont pour objectif d’accompagner la mise en place d’une dynamique territoriale, afin d’améliorer l’orientation des patients et la coordination entre les différents acteurs.</description>
+      <guid isPermaLink="false">8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c</guid>
+      <pubDate>Wed, 07 Oct 2026 13:24:39 +0000</pubDate>
+    </item>
+    <item>
       <title>Mouvement lycéen : évolution de Parcoursup, suspension de l'usage des grenades assourdissantes...l'exécutif cherche à désamorcer le conflit</title>
       <link>https://www.banquedesterritoires.fr/mouvement-lyceen-evolution-de-parcoursup-suspension-de-lusage-des-grenades-assourdissanteslexecutif</link>
       <description>À la veille d'une nouvelle journée de mobilisation, le gouvernement cherche à désamorcer une contestation lycéenne qui mêle dénonciation des conditions d'études, critiques de Parcoursup et défiance envers les institutions. Alors que le ministre de l'Enseignement supérieur, Philippe Baptiste, exclut toute suppression de la plateforme d'orientation, l'exécutif ouvre des espaces de dialogue. Dans le même temps, les violences liées au mouvement conduisent le ministre de l'Intérieur à suspendre l'usage des grenades assourdissantes.</description>
@@ -1079,13 +1086,6 @@
       <description>En 2024, le salaire moyen des éducatrices de jeunes enfants atteint 2 270 euros nets par mois en équivalent temps plein, selon les données de la Drees</description>
       <guid isPermaLink="false">e3dc07d018d5a41b9f14901d71662d81f937c42628779e9cc3fb167e0aabf05b</guid>
       <pubDate>Wed, 30 Sep 2026 14:35:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>L'hébergement temporaire en EHPAD - Retour d'expériences des territoires PAERPA</title>
-      <link>https://www.anap.fr/s/article/parcours-publication-2617</link>
-      <description>Ce retour d'expériences présente les enseignements des 9 territoires pilote du programme "Personnes âgées en risque de perte d'autonomie" qui ont développé, de façon expérimentale et selon des critères spécifiques, un dispositif d'hébergement temporaire en Ehpad avec limitation du reste à charge.</description>
-      <guid isPermaLink="false">134f551eeccd5c9e0e674295b08951eea6f94684811ed57bfc264501b3256ab7</guid>
-      <pubDate>Wed, 30 Sep 2026 14:33:43 +0000</pubDate>
     </item>
     <item>
       <title>Petite enfance : pour persévérer, mieux vaut essayer autrement</title>
@@ -2418,17 +2418,17 @@
       <pubDate>Wed, 26 Aug 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Etude faisabilité pour l'utilisation de scanners enterrés pour suivi biodiversité des sols après phytoremédiation</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9526-etude-faisabilite-pour-l-utilisation-de-scanners-enterres-pour-suivi-biodiversite-des-sols-apres-phytoremediation.html</link>
-      <description>Dans le contexte des sites et sols pollués (SSP), l'évaluation des trajectoires de restauration repose encore largement sur des indicateurs physico-chimiques, qui ne permettent pas toujours d'apprécier la récupération du fonctionnement biologique des sols. L'intégration d'indicateurs biologiques robustes constitue ainsi un enjeu majeur pour l'évaluation écologique des sols restaurés. Le projet CASCA a pour objectif de développer une méthode automatisée et non invasive de suivi de l'activité biologique des sols fondée sur l'imagerie optique in situ couplée à des approches d'intelligence artificielle. Le dispositif repose sur l'utilisation de scanners optiques enterrés permettant l'acquisition répétée d'images haute résolution directement dans la matrice du sol. Les images sont ensuite traitées par un pipeline automatisé combinant détection des changements entre images successives, extraction d'imagettes candidates et classification supervisée par apprentissage profond afin d'identifier les organismes présents. Les développements méthodologiques se sont appuyés sur une base de données de plus de cent mille imagettes annotées couvrant plusieurs dizaines de classes d'invertébrés du sol. Cette approche permet de transformer des images brutes acquises à haute fréquence temporelle en occurrences biologiques exploitables pour l'analyse écologique. Elle ouvre ainsi la possibilité de documenter de manière continue les dynamiques d'activité des communautés édaphiques, leurs variations saisonnières et leur réponse aux conditions environnementales locales. L'application du dispositif sur le site de Saint-Laurent-le-Minier ayant fait l'objet d'une réhabilitation écologique en 2019 constitue un premier cas d'étude permettant d'explorer plusieurs dimensions de la trajectoire de restaur</description>
-      <guid isPermaLink="false">eb338943cbdedd4be63ed5f7337dd8f33280696b1593af8707957e83e15cb5e7</guid>
-      <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Guide pour la constitution d'une base de données pour inventaires des sites potentiellement pollués (IHU)</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9525-guide-pour-la-constitution-d-une-base-de-donnees-pour-inventaires-des-sites-potentiellement-pollues-ihu.html</link>
       <description>Le renouvellement urbain et la reconstruction de la ville sur la ville sont des enjeux majeurs de l’urbanisme pour l’ensemble des acteurs de l’aménagement du territoire et en particulier les collectivités territoriales depuis déjà plusieurs années. Ils s’inscrivent désormais pleinement dans la démarche ZAN (Zéro Artificialisation Nette), mise en place en 2021 par la Loi Climat et Résilience, qui fixe comme objectif d’atteindre, en 2050, l’absence de toute artificialisation nette des sols. Ces enjeux nécessitent la prise en compte des éventuels risques environnementaux et sanitaires liés à l’historique et au contexte environnemental de ces zones urbaines. La démarche d’Inventaire Historique Urbain (IHU) a pour vocation de permettre aux collectivités locales de développer leur connaissance des friches et des sites potentiellement pollués de leur territoire, d’anticiper les enjeux associés dans le cadre de leurs futurs projets d’aménagement, et, potentiellement, d’apporter aux porteurs de projet un premier niveau d’information relatif au risque de présence de pollution sur un site. L’ADEME accompagne les collectivités locales dans ces démarches par un dispositif d’Aides à la Décision, se traduisant d’une part par des aides financières, et d’autre part par la mise à disposition d’outils et de méthodes pour améliorer les pratiques. Dans ce cadre, l’ADEME met à disposition des collectivités, depuis 2021, un cahier des charges type pour l’élaboration d’un IHU. Dans cette continuité, elle a souhaité pouvoir proposer aux collectivités des outils complémentaires pour l’élaboration d’un IHU. Une base de données type et un modèle de saisie de données QGIS ont ainsi été créés. La création de ces outils s’est appuyée sur l’interview de collectivités ou d’agences d’urbanisme en vue de</description>
       <guid isPermaLink="false">182e1c3b19b223455dd3027cdacab4896cd7e5953ce8069177e407a76f55d396</guid>
+      <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Etude faisabilité pour l'utilisation de scanners enterrés pour suivi biodiversité des sols après phytoremédiation</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9526-etude-faisabilite-pour-l-utilisation-de-scanners-enterres-pour-suivi-biodiversite-des-sols-apres-phytoremediation.html</link>
+      <description>Dans le contexte des sites et sols pollués (SSP), l'évaluation des trajectoires de restauration repose encore largement sur des indicateurs physico-chimiques, qui ne permettent pas toujours d'apprécier la récupération du fonctionnement biologique des sols. L'intégration d'indicateurs biologiques robustes constitue ainsi un enjeu majeur pour l'évaluation écologique des sols restaurés. Le projet CASCA a pour objectif de développer une méthode automatisée et non invasive de suivi de l'activité biologique des sols fondée sur l'imagerie optique in situ couplée à des approches d'intelligence artificielle. Le dispositif repose sur l'utilisation de scanners optiques enterrés permettant l'acquisition répétée d'images haute résolution directement dans la matrice du sol. Les images sont ensuite traitées par un pipeline automatisé combinant détection des changements entre images successives, extraction d'imagettes candidates et classification supervisée par apprentissage profond afin d'identifier les organismes présents. Les développements méthodologiques se sont appuyés sur une base de données de plus de cent mille imagettes annotées couvrant plusieurs dizaines de classes d'invertébrés du sol. Cette approche permet de transformer des images brutes acquises à haute fréquence temporelle en occurrences biologiques exploitables pour l'analyse écologique. Elle ouvre ainsi la possibilité de documenter de manière continue les dynamiques d'activité des communautés édaphiques, leurs variations saisonnières et leur réponse aux conditions environnementales locales. L'application du dispositif sur le site de Saint-Laurent-le-Minier ayant fait l'objet d'une réhabilitation écologique en 2019 constitue un premier cas d'étude permettant d'explorer plusieurs dimensions de la trajectoire de restaur</description>
+      <guid isPermaLink="false">eb338943cbdedd4be63ed5f7337dd8f33280696b1593af8707957e83e15cb5e7</guid>
       <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3062,17 +3062,17 @@
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Diagnostic Mobilité : infographie</title>
-      <link>https://librairie.ademe.fr/mobilite-et-transports/9441-diagnostic-mobilite-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est une application web qui permet de sélectionner un territoire et d’obtenir des données variées pour comprendre : • L’organisation géographique du territoire et le profil de la population : identifier les besoins spécifiques à la population et localiser les lieux qui génèrent des déplacements • L’offre de transport à disposition : mettre en regard les solutions actuelles de mobilité avec les besoins du territoire • Les pratiques de déplacement : quantifier les modes, les motifs, les flux afin d’identifier un potentiel de report modal Par son accès libre à tout public, l’outil constitue ainsi un support de travail commun pour les acteurs qui oeuvrent pour une mobilité durable des territoires : collectivités, bureaux d’études, opérateurs de solutions de mobilité, associations et initiatives citoyennes. Il permet alors de : • Présenter rapidement et sensibiliser • Identifier des actions pertinentes • Alimenter le diagnostic d’un plan de mobilité</description>
-      <guid isPermaLink="false">857dbe8b6792f4560744d727b1c8074aec00bc12880e34b5b4818c9c23c07712</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>La rue commune : infographie</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9438-la-rue-commune-infographie.html</link>
       <description>Ce commun lauréat à l'appel à communs est une méthodologie présentée dans un guide qui met l’accent sur la rue en tant que premier bien commun urbain, et sa transformation pour amorcer la transition écologique et sociale des villes. La méthodologie permet de réaliser un diagnostic de la rue pour la faire évoluer vers l’organisation et la mise en oeuvre d’une rue commune selon 5 principes : le lien social ; la priorité au piéton pour favoriser la santé et le bien-être ; la biodiversité ; le rafraîchissement urbain ; et la valorisation des eaux pluviales. Le diagnostic de la rue intègre des analyses incluant l’insertion de la rue dans son contexte local (mobilités, climat, continuités écologiques), ainsi qu’un diagnostic matériel (sols, façades, toitures) et immatériel (usages). Le guide propose les critères pour qu’une rue soit éligible à cette transformation (constituer un axe secondaire, présence des transports en commun, possibilité de décision d’engagement de la collectivité) et présente 4 études de cas permettant d’illustrer une diversité de situations de projet, dans une perspective de mise en oeuvre.</description>
       <guid isPermaLink="false">987584263cd3f5c5e8ac8136080a28bd9983c5d03ed0ab7f1171a57eb5008698</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diagnostic Mobilité : infographie</title>
+      <link>https://librairie.ademe.fr/mobilite-et-transports/9441-diagnostic-mobilite-infographie.html</link>
+      <description>Ce commun lauréat à l'appel à communs est une application web qui permet de sélectionner un territoire et d’obtenir des données variées pour comprendre : • L’organisation géographique du territoire et le profil de la population : identifier les besoins spécifiques à la population et localiser les lieux qui génèrent des déplacements • L’offre de transport à disposition : mettre en regard les solutions actuelles de mobilité avec les besoins du territoire • Les pratiques de déplacement : quantifier les modes, les motifs, les flux afin d’identifier un potentiel de report modal Par son accès libre à tout public, l’outil constitue ainsi un support de travail commun pour les acteurs qui oeuvrent pour une mobilité durable des territoires : collectivités, bureaux d’études, opérateurs de solutions de mobilité, associations et initiatives citoyennes. Il permet alors de : • Présenter rapidement et sensibiliser • Identifier des actions pertinentes • Alimenter le diagnostic d’un plan de mobilité</description>
+      <guid isPermaLink="false">857dbe8b6792f4560744d727b1c8074aec00bc12880e34b5b4818c9c23c07712</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>

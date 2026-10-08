@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 06 Oct 2026 08:08:27 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 07 Oct 2026 13:24:39 +0000</lastBuildDate>
+    <item>
+      <title>Webinaire Urgences : mieux orienter, s’appuyer sur le territoire</title>
+      <link>https://www.anap.fr/s/article/webinaire-urgences-mieux-orienter-s-appuyer-sur-le-territoire</link>
+      <description>À l’occasion de la publication de son guide, l’Anap propose une série de webinaires consacrés à la réorientation depuis les services d’urgences. Ces rendez-vous ont pour objectif d’accompagner la mise en place d’une dynamique territoriale, afin d’améliorer l’orientation des patients et la coordination entre les différents acteurs.</description>
+      <guid isPermaLink="false">8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c</guid>
+      <pubDate>Wed, 07 Oct 2026 13:24:39 +0000</pubDate>
+    </item>
     <item>
       <title>Des « salles hybrides » aux secteurs interventionnels avec guidage par imagerie - Opportunité et faisabilité</title>
       <link>https://www.anap.fr/s/article/bloc-operatoire-publication-2676</link>
@@ -421,13 +428,6 @@
       <description>Ce webinaire vous aide à décrypter les obligations réglementaires et à mobiliser les bons leviers pour faire de l’alimentation durable un moteur de transformation dans votre établissement.</description>
       <guid isPermaLink="false">c65ec12287df661d25bfd8fe3c498584c74ec3d6017faf744dd4a5b747dfff53</guid>
       <pubDate>Thu, 01 Oct 2026 08:42:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>L'hébergement temporaire en EHPAD - Retour d'expériences des territoires PAERPA</title>
-      <link>https://www.anap.fr/s/article/parcours-publication-2617</link>
-      <description>Ce retour d'expériences présente les enseignements des 9 territoires pilote du programme "Personnes âgées en risque de perte d'autonomie" qui ont développé, de façon expérimentale et selon des critères spécifiques, un dispositif d'hébergement temporaire en Ehpad avec limitation du reste à charge.</description>
-      <guid isPermaLink="false">134f551eeccd5c9e0e674295b08951eea6f94684811ed57bfc264501b3256ab7</guid>
-      <pubDate>Wed, 30 Sep 2026 14:33:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
