@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 08 Oct 2026 16:01:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 08:49:54 +0000</lastBuildDate>
+    <item>
+      <title>Grève du 8 octobre : Pas de bébés à la consigne annonce une nouvelle rencontre au ministère</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/greve-du-8-octobre-pas-de-bebes-a-la-consigne-annonce-une-nouvelle-rencontre-au-ministere/</link>
+      <description>Des manifestations et rassemblements ont eu lieu dans une trentaine de villes, mais, pour l’heure, pas encore de réponses immédiates aux revendications.</description>
+      <guid isPermaLink="false">1794d633203860df7c65a5f64eb3b7752cc22820148dbd6c2dc03499e3b83c1e</guid>
+      <pubDate>Fri, 09 Oct 2026 08:49:54 +0000</pubDate>
+    </item>
     <item>
       <title>« Des enfants fatigués, un accueil dégradé, y en a assez, on va lutter » : la petite enfance mobilisée le 8 octobre</title>
       <link>https://www.lesprosdelapetiteenfance.fr/des-enfants-fatigues-un-accueil-degrade-y-en-a-assez-on-va-lutter-la-petite-enfance-mobilisee-le-8-octobre/</link>
@@ -400,13 +407,6 @@
       <description>La mise en place du congé supplémentaire de naissance (CSN), entré en vigueur le 1ᵉʳ juillet 2026, concerne les enfants nés à partir du 1ᵉʳ janvier 2026. Ce décalage est susceptible d'avoir un impact sur l'activité des lieux d’accueil du jeune enfant à cette rentrée et au cours du second semestre 2026. C’est pourquoi certaines mesures correctives ont été prévues. Pour les parents et ceux qui accueillent leurs enfants.</description>
       <guid isPermaLink="false">ad9a8e2ef7e882c6d2324f7f407b3d3061ce6752175d8e95cc3f291bf4544cf9</guid>
       <pubDate>Fri, 28 Aug 2026 13:28:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>15 et 18 juin 2026 : Conférences Enfance en débat : « Le jeu au service des apprentissages »</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/article/15-et-18-juin-2026-conferences-enfance-en-debat-le-jeu-au-service-des-apprentissages/</link>
-      <description>Dans le cadre du cycle de rencontres « Enfance en débat », Sarah El Haïry, Haute-commissaire à l’Enfance, consacre cette 9e édition au jeu au service des apprentissages, à l’occasion...</description>
-      <guid isPermaLink="false">7946504c0cf7c9b6cc28bb799d2d0e2c004a6a70f88e5cd75c34aadb8e1d0f4e</guid>
-      <pubDate>Thu, 18 Jun 2015 20:26:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

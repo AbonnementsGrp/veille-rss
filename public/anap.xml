@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 07 Oct 2026 13:24:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 08 Oct 2026 13:52:50 +0000</lastBuildDate>
+    <item>
+      <title>Les Rendez-Vous juridiques de la Transition écologique</title>
+      <link>https://www.anap.fr/s/article/les-rendez-vous-juridiques-de-la-transition-ecologique</link>
+      <description>Actualités règlementaires, bonnes pratiques, conseils d’experts : face aux enjeux de la transition écologique, l’Anap vous propose une série de webinaires dédiés.</description>
+      <guid isPermaLink="false">b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245</guid>
+      <pubDate>Thu, 08 Oct 2026 13:52:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Boîte à outils Innovation collaborative</title>
+      <link>https://www.anap.fr/s/article/boite-a-outil-innovation-collaborative</link>
+      <description>La boîte à outils "innovation collaborative" propose des outils pratiques pour mobiliser les démarches de design et d'innovation au service de vos projets. Conçue pour être utilisée tout au long d’une démarche collaborative, vous y trouverez une méthodologie, des conseils et des canevas prêts à l’emploi.</description>
+      <guid isPermaLink="false">77dda2d59e428d7cbb11c11b60fe43e5642d35c84f9a4ce490421528b5f10fed</guid>
+      <pubDate>Thu, 08 Oct 2026 08:35:17 +0000</pubDate>
+    </item>
     <item>
       <title>Webinaire Urgences : mieux orienter, s’appuyer sur le territoire</title>
       <link>https://www.anap.fr/s/article/webinaire-urgences-mieux-orienter-s-appuyer-sur-le-territoire</link>
@@ -414,20 +428,6 @@
       <description>L’admission le jour même de l'intervention chirurgicale, ou admission J0, est bénéfique pour le patient, l’établissement et les professionnels. Elle peut être mise en place grâce à une organisation adaptée. Comment réussir sa mise en place ? Comment évaluer son potentiel ? Comment embarquer les équipes ?</description>
       <guid isPermaLink="false">9e487995a3b4bcee22754ac5809bb54638c3b8223642f2a397da7ea9dca7c1da</guid>
       <pubDate>Fri, 02 Oct 2026 13:43:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
-      <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
-      <description>La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.</description>
-      <guid isPermaLink="false">f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5</guid>
-      <pubDate>Fri, 02 Oct 2026 12:19:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webinaire Alimentation Durable : comment répondre aux nouvelles exigences réglementaires ?</title>
-      <link>https://www.anap.fr/s/article/webinaire-alimentation-durable-en-route-vers-les-objectifs-egalim</link>
-      <description>Ce webinaire vous aide à décrypter les obligations réglementaires et à mobiliser les bons leviers pour faire de l’alimentation durable un moteur de transformation dans votre établissement.</description>
-      <guid isPermaLink="false">c65ec12287df661d25bfd8fe3c498584c74ec3d6017faf744dd4a5b747dfff53</guid>
-      <pubDate>Thu, 01 Oct 2026 08:42:39 +0000</pubDate>
     </item>
   </channel>
 </rss>
