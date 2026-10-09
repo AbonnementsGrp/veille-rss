@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-08T18:52:29.539846+00:00",
+  "generated_at": "2026-10-09T01:14:57.036952+00:00",
   "sites_total": 17,
   "sites_ok": 17,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 21,
-  "merged_items": 596,
+  "new_items": 3,
+  "merged_items": 581,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -167,7 +167,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 12,
+      "items": 6,
       "feed": "c2l-restauration-collective.xml",
       "source_feed": "https://c2lsolutions.fr/feed/?post_type=post",
       "warnings": []
@@ -255,7 +255,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 19,
+      "items": 10,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []
