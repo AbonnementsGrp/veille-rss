@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 08 Oct 2026 13:52:50 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 09 Oct 2026 16:00:19 +0000</lastBuildDate>
+    <item>
+      <title>3 minutes Planning : automatisez la production de vos plannings !</title>
+      <link>https://www.anap.fr/s/article/3-minutes-planning-automatisez-la-production-de-vos-plannings</link>
+      <description>3 minutes Planning, l'outil gratuit de l'Anap qui génère des cycles de travail conformes pour libérer du temps d'encadrement.</description>
+      <guid isPermaLink="false">72d505affd97bef50c31a58217fe90ce1ae97c647e5083a18c458fc281eec77d</guid>
+      <pubDate>Fri, 09 Oct 2026 16:00:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blocs chirurgicaux : 3 jours pour gagner du temps opératoire</title>
+      <link>https://www.anap.fr/s/article/blocs-chirurgicaux-3-jours-pour-gagner-du-temps-operatoire</link>
+      <description>Une opportunité unique d’améliorer l’organisation et la performance de vos blocs. Bénéficiez d’un accompagnement par des experts et repartez avec des leviers opérationnels pour optimiser votre activité et fidéliser vos équipes.</description>
+      <guid isPermaLink="false">21dcf84394b7c950cbd009572ed422d1b84c010dc539aa0670e1604b60a7f451</guid>
+      <pubDate>Fri, 09 Oct 2026 15:09:56 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Fabrique RH Anap : la nouvelle génération d’outils RH à découvrir et enrichir</title>
+      <link>https://www.anap.fr/s/article/la-fabrique-rh-anap-la-nouvelle-generation-d-outils-rh-a-decouvrir-et-enrichir</link>
+      <description>La Fabrique RH Anap, rendez-vous digital régulier : prenez en main 3 minutes Planning, posez vos questions et faites évoluer l’outil.</description>
+      <guid isPermaLink="false">6924a49f21ac0822dad1d5f94cbe8ce1cab2b7af4a331cc474cc72e8eff94875</guid>
+      <pubDate>Fri, 09 Oct 2026 14:47:29 +0000</pubDate>
+    </item>
+    <item>
+      <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
+      <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
+      <description>La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.</description>
+      <guid isPermaLink="false">f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5</guid>
+      <pubDate>Fri, 09 Oct 2026 14:21:40 +0000</pubDate>
+    </item>
     <item>
       <title>Les Rendez-Vous juridiques de la Transition écologique</title>
       <link>https://www.anap.fr/s/article/les-rendez-vous-juridiques-de-la-transition-ecologique</link>
@@ -400,34 +428,6 @@
       <description>Grâce à cette nouvelle fiche juridique, maîtrisez en quelques minutes la règlementation relative à la gestion des déchets. L’occasion également de retrouver nos autres fiches juridiques Développement Durable et les webinaires de démonstration.</description>
       <guid isPermaLink="false">f05e2fc80ac3b9a490519c4c9acc5df6a4008644a1ed5c0d5153b961f9465b4c</guid>
       <pubDate>Tue, 06 Oct 2026 07:38:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Performance sans frontière : les voyages d’études de l’Anap</title>
-      <link>https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes</link>
-      <description>Espagne, Hollande, Belgique, Allemagne… Embarquez pour des séjours immersifs au sein des établissements européens les plus performants ! Échangez, inspirez-vous des systèmes de soins étrangers, découvrez les solutions de demain, explorez les enjeux de la performance sous un nouvel angle.</description>
-      <guid isPermaLink="false">43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446</guid>
-      <pubDate>Tue, 06 Oct 2026 07:37:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Ehpad vert : autonomie énergétique, adaptation climatique, performance économique</title>
-      <link>https://www.anap.fr/s/article/ehpad-vert-autonomie-energetique-adaptation-climatique-performance-economique</link>
-      <description>L’Anap conçoit le première modèle d’Ehpad autonome en énergie et un simulateur pour s’adapter aux canicules.</description>
-      <guid isPermaLink="false">cee6ca8707f2cbc8456448e7c6f1768cd699e048520dfe40001c580d8a28efd5</guid>
-      <pubDate>Mon, 05 Oct 2026 13:26:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webinaire : Les Rendez-Vous des PCO</title>
-      <link>https://www.anap.fr/s/article/webinaire-les-rendez-vous-des-pco</link>
-      <description>A la demande de la DITND, l'Anap a formulé des recommandations et construit une boîte à outils concrète pour renforcer l’organisation des plateformes de coordination et d'orientation (PCO). Participez à notre webinaire pour découvrir ces outils et les prendre en main.</description>
-      <guid isPermaLink="false">2a861a0a3fe5e4dd14017ba0790ed16655f274d0f9efb4470c873b886feaa24a</guid>
-      <pubDate>Mon, 05 Oct 2026 07:38:31 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webconférence – Admission J0 : moins de nuitées, plus de fluidité</title>
-      <link>https://www.anap.fr/s/article/Webconf%C3%A9rence-Admission-J0-moins-de-nuitees-plus-de-fluidite</link>
-      <description>L’admission le jour même de l'intervention chirurgicale, ou admission J0, est bénéfique pour le patient, l’établissement et les professionnels. Elle peut être mise en place grâce à une organisation adaptée. Comment réussir sa mise en place ? Comment évaluer son potentiel ? Comment embarquer les équipes ?</description>
-      <guid isPermaLink="false">9e487995a3b4bcee22754ac5809bb54638c3b8223642f2a397da7ea9dca7c1da</guid>
-      <pubDate>Fri, 02 Oct 2026 13:43:07 +0000</pubDate>
     </item>
   </channel>
 </rss>
