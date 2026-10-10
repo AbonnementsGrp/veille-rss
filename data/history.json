@@ -1,4 +1,49 @@
 {
+  "b03e0e0adc39e77c982c7a6e2b35904872f4e702d9bebab63950cd7b377699c8": {
+    "source": "Outre-Mer 360°",
+    "title": "Aérien : Air Tahiti dévoile 'Ānapanapa, son premier ATR « signature » 100% business",
+    "link": "https://outremers360.com/bassin-pacifique-appli/aerien-air-tahiti-devoile-anapanapa-son-premier-atr-signature-100-business",
+    "description": "La compagnie domestique polynésienne a dévoilé dans une vidéo la livrée de son premier ATR configuré en classe business. Baptisé 'Ānapanapa, l’appareil « signature » d’Air Tahiti doit débuter ses vols en novembre.Après avoir lancé ses cabines en...",
+    "published": "2026-10-10T12:30:09+00:00",
+    "first_seen": "2026-10-10T17:21:33.512615+00:00",
+    "uid": "b03e0e0adc39e77c982c7a6e2b35904872f4e702d9bebab63950cd7b377699c8"
+  },
+  "3fd337a0f8c49be4ef6b527754e427194175a3ba8281173dd6b13c233e2662cf": {
+    "source": "Outre-Mer 360°",
+    "title": "Le rhum Neisson fait briller la Martinique au Grand Prix de Formule 1 à Singapour ce weekend",
+    "link": "https://outremers360.com/bassin-atlantique-appli/le-rhum-neisson-fait-briller-la-martinique-au-grand-prix-de-formule-1-a-singapour-ce-weekend",
+    "description": "C’est la première fois, qu’un rhum sera présent dans ce type de manifestation, et ce sont les rhums Neisson qui ont été choisis en partenariat avec l’association Rum’Cartel de Singapour. Pour Grégory Neisson-Vernant, « c’est une grande première et une...",
+    "published": "2026-10-10T11:31:12+00:00",
+    "first_seen": "2026-10-10T17:21:33.512615+00:00",
+    "uid": "3fd337a0f8c49be4ef6b527754e427194175a3ba8281173dd6b13c233e2662cf"
+  },
+  "9dc00f5ed73876d87cacce8072a223066004366b65872a077b81329115c61bbb": {
+    "source": "Outre-Mer 360°",
+    "title": "Budget 2027 : Les agriculteurs des Outre-mer vent debout contre une « coupe budget historique de 24 millions d’euros »",
+    "link": "https://outremers360.com/bassin-atlantique-appli/budget-2027-les-agriculteurs-des-outre-mer-vent-debout-contre-une-coupe-budget-historique-de-24-millions-deuros",
+    "description": "Les agriculteurs de La Réunion, de Guadeloupe ou encore de Martinique sont vent debout contre une « coupe budget historique de 24 millions d’euros » dans les DROM, prévue par le gouvernement dans le budget 2027. Les représentants des filières locales réclament...",
+    "published": "2026-10-10T11:22:12+00:00",
+    "first_seen": "2026-10-10T17:21:33.512615+00:00",
+    "uid": "9dc00f5ed73876d87cacce8072a223066004366b65872a077b81329115c61bbb"
+  },
+  "ab2eee7bcd9bea941bfff7244c6b20cfe47eb10b85c27b04e8d61bbdd7454e5c": {
+    "source": "Outre-Mer 360°",
+    "title": "INTERVIEW. Après l’annonce de 500 millions d’investissements, Antoine Pellion, directeur général adjoint d’Idex détaille la stratégie du groupe énergétique aux Antilles-Guyane",
+    "link": "https://outremers360.com/bassin-atlantique-appli/interview-apres-lannonce-de-500-millions-dinvestissements-antoine-pellion-directeur-general-adjoint-didex-detaille-la-strategie-du-groupe-energetique-aux-antilles-guyane",
+    "description": "À l’occasion de la 1ère édition de Choose Outre-mer qui s’est tenue le 1er octobre dernier à Paris en présence de la ministre des Outre-mer Naïma Moutchou, le groupe énergétique Idex a annoncé son intention d’investir près de 500 millions d’euros au cours des...",
+    "published": "2026-10-10T11:12:01+00:00",
+    "first_seen": "2026-10-10T17:21:33.512615+00:00",
+    "uid": "ab2eee7bcd9bea941bfff7244c6b20cfe47eb10b85c27b04e8d61bbdd7454e5c"
+  },
+  "218ca083f5b315e83c8a5945b9f704ee64545553cfc8469cd6b649432d3105da": {
+    "source": "Outre-Mer 360°",
+    "title": "Saint-Martin prévoit l’installation de 80 caméras de vidéo-protection",
+    "link": "https://outremers360.com/bassin-atlantique-appli/saint-martin-prevoit-linstallation-de-80-cameras-de-video-protection",
+    "description": "La Collectivité de Saint-Martin prévoit de déployer 80 caméras de vidéo-protection entre 2026 et 2028. Le projet, estimé à 4 millions d’euros, a obtenu l’autorisation préfectorale nécessaire au démarrage des travaux. La Collectivité de Saint-Martin a obtenu...",
+    "published": "2026-10-10T10:13:26+00:00",
+    "first_seen": "2026-10-10T17:21:33.512615+00:00",
+    "uid": "218ca083f5b315e83c8a5945b9f704ee64545553cfc8469cd6b649432d3105da"
+  },
   "72d505affd97bef50c31a58217fe90ce1ae97c647e5083a18c458fc281eec77d": {
     "source": "ANAP - Actualités",
     "title": "3 minutes Planning : automatisez la production de vos plannings !",
@@ -9505,66 +9550,6 @@
     "published": "2026-07-21T06:11:01+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "dd7e05b3360fee05cce68354a5db228a02a19e2b50935eda582662dc1e1c8d02",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "53c8b21ae6c2cb8862683124acda47a99dad0571014cdac79a84d00f9b124eb8": {
-    "source": "ANAP - Actualités",
-    "title": "Pensées Prospectives #5 - Informatique quantique et santé",
-    "link": "https://www.anap.fr/s/article/pensees-prospectives-5",
-    "description": "\"Pensées prospectives\" explore une thématique prospective, issue de différentes disciplines, en lien avec les enjeux d’un ou plusieurs pôles de l’Anap. Avec cet article, explorez l'informatique quantique et la santé.",
-    "published": "2026-07-21T06:10:33+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "53c8b21ae6c2cb8862683124acda47a99dad0571014cdac79a84d00f9b124eb8",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "453aa84c83ca5947c8784478b8832b9fcb473f4f232dd47787f1e31dd18e56fd": {
-    "source": "ANAP - Actualités",
-    "title": "Réussir sa démarche d'innovation",
-    "link": "https://www.anap.fr/s/article/Faites-d%C3%A9coller-votre-d%C3%A9marche-Innovation",
-    "description": "Créer, développer et mettre en œuvre des idées novatrices, voilà l’enjeu d’une démarche d’innovation. Au-delà de la recherche, la valorisation de solutions améliorées repose sur un processus de direction et de soutien opérationnel indispensable pour passer de la découverte à une amélioration concrète. L’innovation doit faire l’objet d’une stratégie globale favorisant son développement grâce à des structures organisationnelles adéquates, une culture de l’innovation partagée, mais aussi une collab",
-    "published": "2026-07-21T06:09:55+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "453aa84c83ca5947c8784478b8832b9fcb473f4f232dd47787f1e31dd18e56fd",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "3378053b1f0c599c04e598e9faac3ee7a70634670d3eefc9002e78a2a1c925d7": {
-    "source": "ANAP - Actualités",
-    "title": "Pensées Prospectives #4 - Le diagnostic à la carte",
-    "link": "https://www.anap.fr/s/article/pensees-prospectives",
-    "description": "\"Pensées prospectives\" explore une thématique prospective, issue de différentes disciplines, en lien avec les enjeux d’un ou plusieurs pôles de l’Anap. Aujourd'hui, la thématique s'intitule \"Le diagnostic à la carte\".",
-    "published": "2026-07-21T06:09:16+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "3378053b1f0c599c04e598e9faac3ee7a70634670d3eefc9002e78a2a1c925d7",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "80a10d823dca58768d98953ce95abab3013761648067da84d99766f105ed4c66": {
-    "source": "ANAP - Actualités",
-    "title": "Santexpo 2026 : la performance commence avec vos idées !",
-    "link": "https://www.anap.fr/s/article/Santexpo-2026-la-performance-commence-avec-vos-id%C3%A9es",
-    "description": "Du 19 au 21 mai, l’Anap vous donne rendez-vous sur son stand L22 à Santexpo : découvrez nos ressources, échangez avec nos experts et prenez part à « Perf’en Santé », un espace de débats organisé en partenariat avec le Think Tank CRAPS pour décrypter et faire avancer la performance du système de santé.",
-    "published": "2026-07-21T06:08:38+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "80a10d823dca58768d98953ce95abab3013761648067da84d99766f105ed4c66",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "bbe6a06769f5789e08680f3a5bd96f3ae85b64c4111307b24778448f955d237b": {
-    "source": "ANAP - Actualités",
-    "title": "Webconférence – Transformer les blocages en solutions : la puissance de l'innovation collaborative",
-    "link": "https://www.anap.fr/s/article/webconference-transformer-blocages-en-solutions-puissance-innovation-collaborative",
-    "description": "Coordination territoriale des urgences, gouvernance, attractivité ... Le 11 mars, découvrez comment l’innovation collaborative est une méthode gagnante pour lever des blocages dans les établissements et sur les territoires.",
-    "published": "2026-07-21T06:08:07+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "bbe6a06769f5789e08680f3a5bd96f3ae85b64c4111307b24778448f955d237b",
     "description_checked": true,
     "title_checked": true,
     "title_enriched": true
