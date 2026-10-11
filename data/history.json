@@ -1,4 +1,16 @@
 {
+  "77dda2d59e428d7cbb11c11b60fe43e5642d35c84f9a4ce490421528b5f10fed": {
+    "source": "ANAP - Actualités",
+    "title": "Boîte à outils Innovation collaborative",
+    "link": "https://www.anap.fr/s/article/boite-a-outil-innovation-collaborative",
+    "description": "La boîte à outils \"innovation collaborative\" propose des outils pratiques pour mobiliser les démarches de design et d'innovation au service de vos projets. Conçue pour être utilisée tout au long d’une démarche collaborative, vous y trouverez une méthodologie, des conseils et des canevas prêts à l’emploi.",
+    "published": "2026-10-08T08:35:17+00:00",
+    "first_seen": "2026-10-11T19:34:59.867271+00:00",
+    "uid": "77dda2d59e428d7cbb11c11b60fe43e5642d35c84f9a4ce490421528b5f10fed",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "d99cd0c0babce5bd10ed3813f5dc0771ff7d0dc676efb2db7157fd4947484d5e": {
     "source": "Outre-Mer 360°",
     "title": "Le jazz réunionnais représenté pour la première fois au MaMa Music & Convention à Paris",
@@ -9517,18 +9529,6 @@
     "published": "2026-07-21T06:16:03+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "55d061f9951d91849432f3beb9198b43e2d9ed7a9d4a21ff0ce8210f4a8a2b1b",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "9188a55931f0ced618c18ff38be3e613a6f83145a8112eb83702d49b8df11c89": {
-    "source": "ANAP - Actualités",
-    "title": "Télémédecine : présentation de 25 projets",
-    "link": "https://www.anap.fr/s/article/numerique-publication-1716",
-    "description": "Destiné aux porteurs de projet télémédecine et aux Agences régionales de santé, ce document a pour ambition de les aider à consolider des organisations de télémédecine existantes ou à mettre en place de nouveaux projets, au travers du retour d'expérience et de la capitalisation réalisés à partir de 25 projets mature...",
-    "published": "2026-07-21T06:15:32+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "9188a55931f0ced618c18ff38be3e613a6f83145a8112eb83702d49b8df11c89",
     "description_checked": true,
     "title_checked": true,
     "title_enriched": true
