@@ -1,4 +1,99 @@
 {
+  "8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire Urgences : mieux orienter, s’appuyer sur le territoire",
+    "link": "https://www.anap.fr/s/article/webinaire-urgences-mieux-orienter-s-appuyer-sur-le-territoire",
+    "description": "À l’occasion de la publication de son guide, l’Anap propose une série de webinaires consacrés à la réorientation depuis les services d’urgences. Ces rendez-vous ont pour objectif d’accompagner la mise en place d’une dynamique territoriale, afin d’améliorer l’orientation des patients et la coordination entre les différents acteurs.",
+    "published": "2026-10-07T13:24:39+00:00",
+    "first_seen": "2026-10-12T21:17:45.072768+00:00",
+    "uid": "8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "372ceb8bd6a5e378add972170e4b11731b5aceeee1736b0b60f57a312d09951e": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "Beyfortus : 44 % d’otites en moins chez les nourrissons finlandais",
+    "link": "https://www.lesprosdelapetiteenfance.fr/beyfortus-44-dotites-en-moins-chez-les-nourrissons-finlandais/",
+    "description": "Le virus respiratoire syncytial (VRS) provoque surtout des bronchiolites chez le jeune enfant. Il peut aussi favoriser des otites moyennes aiguës (OMA). Ces dernières sont courantes : elles toucheraient 20...",
+    "published": "2026-10-12T11:19:51+00:00",
+    "first_seen": "2026-10-12T21:17:40.431977+00:00",
+    "uid": "372ceb8bd6a5e378add972170e4b11731b5aceeee1736b0b60f57a312d09951e",
+    "description_checked": true
+  },
+  "6ef497d5178900968dac340ec64377103f0bed86cb63594cad36294266224340": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "Girafes Awards 2026 : le palmarès complet",
+    "link": "https://www.lesprosdelapetiteenfance.fr/girafes-awards-2026-le-palmares-complet/",
+    "description": "Ce lundi 12 octobre, la cérémonie des Girafes Awards 2026 a récompensé les projets les plus créatifs et inspirants imaginés par les professionnels de la petite enfance autour du thème « Des équilibres ».",
+    "published": "2026-10-12T11:11:04+00:00",
+    "first_seen": "2026-10-12T21:17:40.431977+00:00",
+    "uid": "6ef497d5178900968dac340ec64377103f0bed86cb63594cad36294266224340",
+    "description_checked": true
+  },
+  "51178c971d5dcdb3542f51d5fb8902eba2ecfc704669c7fe8bf010319fec2b70": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Mouvement lycéen : les rythmes scolaires concentrent les premières remontées de la consultation nationale",
+    "link": "https://www.banquedesterritoires.fr/mouvement-lyceen-les-rythmes-scolaires-concentrent-les-premieres-remontees-de-la-consultation",
+    "description": "À peine une semaine après son ouverture, la plateforme de consultation lancée par le gouvernement à destination des lycéens a déjà recueilli plus de 76.000 contributions. Les premiers résultats, dévoilés sur X par le Premier ministre, Sébastien Lecornu, le 11 octobre 2026, mettent en avant une critique de l'organisation du temps scolaire. Ce qui fait écho aux travaux de la Convention citoyenne sur les temps de l'enfant, dont les propositions remettaient en cause dès 2025 l'organisation traditionnelle de la journée et de l'année scolaires.",
+    "published": "2026-10-12T13:04:58+00:00",
+    "first_seen": "2026-10-12T21:17:38.368090+00:00",
+    "uid": "51178c971d5dcdb3542f51d5fb8902eba2ecfc704669c7fe8bf010319fec2b70"
+  },
+  "8e69b0e3d9af2e5dc30423c151a1c3a0f71ea59aff25858b90b53e5a69f76a8e": {
+    "source": "Enfance & Jeunesse Infos - Veille juridique",
+    "title": "Violences en marge des blocus lycéens : une circulaire associe la PJJ et les parents à la réponse pénale",
+    "link": "https://www.enfancejeunesseinfos.fr/violences-en-marge-des-blocus-lyceens-une-circulaire-associe-la-pjj-et-les-parents-a-la-reponse-penale/",
+    "description": "Le garde des Sceaux, Gérald Darmanin, détaille la réponse judiciaire attendue face aux infractions commises en marge du blocus des lycées. Pour les mineurs mis en cause, la PJJ et les parents doivent être associés à chaque étape de la procédure.",
+    "published": "2026-10-09T13:12:00+00:00",
+    "first_seen": "2026-10-12T21:17:37.419149+00:00",
+    "uid": "8e69b0e3d9af2e5dc30423c151a1c3a0f71ea59aff25858b90b53e5a69f76a8e"
+  },
+  "797879b65d9b06ce8e87ffa3cae76167b7d003f9fddd72fb2a418f7f2fd5b828": {
+    "source": "Outre-Mer 360°",
+    "title": "La Réunion : Emmanuel Macron annonce l’arraisonnement d’un navire de la flotte fantôme pour «transport de carburants» illicite",
+    "link": "https://outremers360.com/bassin-indien-appli/la-reunion-emmanuel-macron-annonce-larraisonnement-dun-navire-de-la-flotte-fantome-pour-transport-de-carburants-illicite",
+    "description": "Un navire «suspecté de naviguer sous un faux pavillon», et «impliqué» dans un trafic «de transport de carburants», a été arraisonné lundi par la marine française au «sud de la Réunion», a annoncé Emmanuel Macron.«Ce matin, à plus de 450 nautiques au sud de La...",
+    "published": "2026-10-12T19:30:08+00:00",
+    "first_seen": "2026-10-12T21:17:27.758129+00:00",
+    "uid": "797879b65d9b06ce8e87ffa3cae76167b7d003f9fddd72fb2a418f7f2fd5b828"
+  },
+  "d6471f8071eab9cd08c773e40254475c22920a61eb9d6ef6460a700d798a079b": {
+    "source": "Outre-Mer 360°",
+    "title": "Aérien : Pour rejoindre l’océan Indien, Air France et Corsair ont évité le survol de la Mer Rouge",
+    "link": "https://outremers360.com/bassin-indien-appli/aerien-pour-rejoindre-locean-indien-air-france-et-corsair-ont-evite-le-survol-de-la-mer-rouge",
+    "description": "Les vols Air France et Corsair de Paris à l’océan Indien, notamment La Réunion, l’île Maurice ou Madagascar, ont évité le survol de la Mer Rouge ce weekend, en raison des attaques Houthis sur l’Arabie Saoudites qui se sont multipliées ces derniers jours.Les...",
+    "published": "2026-10-12T13:29:48+00:00",
+    "first_seen": "2026-10-12T21:17:27.758129+00:00",
+    "uid": "d6471f8071eab9cd08c773e40254475c22920a61eb9d6ef6460a700d798a079b"
+  },
+  "e4dcd7fae5b142116afbe664e1a9e144bba690965d6a048358bfcc475bccb224": {
+    "source": "Outre-Mer 360°",
+    "title": "Nouvelle-Calédonie : le gouvernement renforce les compétences des professionnels du secours",
+    "link": "https://outremers360.com/bassin-pacifique-appli/nouvelle-caledonie-le-gouvernement-renforce-les-competences-des-professionnels-du-secours",
+    "description": "Le gouvernement de la Nouvelle-Calédonie a organisé en septembre 2026, par l'intermédiaire de sa direction de la Sécurité civile et de la gestion des risques (DSCGR) et en partenariat avec Life Support France, cinq sessions de formation destinées aux professionnels de la...",
+    "published": "2026-10-12T12:56:22+00:00",
+    "first_seen": "2026-10-12T21:17:27.758129+00:00",
+    "uid": "e4dcd7fae5b142116afbe664e1a9e144bba690965d6a048358bfcc475bccb224"
+  },
+  "2fe4af7f96bec95df7d45357ae089ad47401fa61fbe750ff711eefc1e61eb6c5": {
+    "source": "Outre-Mer 360°",
+    "title": "VIH en Guyane : Jean-Luc Romero-Michel en déplacement pour une table ronde à Cayenne",
+    "link": "https://outremers360.com/bassin-atlantique-appli/vih-en-guyane-jean-luc-romero-michel-en-deplacement-pour-une-table-ronde-a-cayenne",
+    "description": "Le président des Élus Locaux Contre le Sida (ELCS) sera en Guyane du 14 au 18 octobre. Il participera le 16 octobre à une table ronde sur la lutte contre le Sida à la mairie de Cayenne, dans le département français le plus touché par le VIH.Jean-Luc Romero-Michel, ancien...",
+    "published": "2026-10-12T12:20:52+00:00",
+    "first_seen": "2026-10-12T21:17:27.758129+00:00",
+    "uid": "2fe4af7f96bec95df7d45357ae089ad47401fa61fbe750ff711eefc1e61eb6c5"
+  },
+  "38fba01b8b5b26d4daf6a2b9128296f00f99e320c52b242d3ba26176c088c63e": {
+    "source": "Outre-Mer 360°",
+    "title": "En Chine, Huguette Bello signe un mémorandum d'entente avec la ville chinoise de Tianjin",
+    "link": "https://outremers360.com/bassin-indien-appli/en-chine-huguette-bello-signe-un-memorandum-dentente-avec-la-ville-chinoise-de-tianjin",
+    "description": "La présidente de la Région Réunion, Huguette Bello, a signé lundi 12 octobre 2026 à Tianjin, en Chine, un mémorandum d'entente avec Yunlin Yu, président du Comité permanent de l'Assemblée populaire municipale de Tianjin. Le texte doit élargir à de nouveaux domaines une...",
+    "published": "2026-10-12T12:03:09+00:00",
+    "first_seen": "2026-10-12T21:17:27.758129+00:00",
+    "uid": "38fba01b8b5b26d4daf6a2b9128296f00f99e320c52b242d3ba26176c088c63e"
+  },
   "80ed7bf923a2892ebbd2162a641a52ec761fd51dfba7f58caaa85bd74bf704bb": {
     "source": "Enfance & Jeunesse Infos - Veille juridique",
     "title": "Justice des mineurs : le TIG s’ouvre aux structures de l’économie sociale et solidaire",
@@ -9379,126 +9474,6 @@
     "published": "2026-10-08T13:52:50+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "671d7f5a63909a335bc2ae3efc406e796707c71fdaba7339361bfc62ce509067": {
-    "source": "ANAP - Actualités",
-    "title": "La cybersécurité en établissement de santé : plan d’attaque contre les attaques",
-    "link": "https://www.anap.fr/s/article/cybersecurite-en-etablissement-de-sante-plan-attaque-contre-les-attaques",
-    "description": "Renforcez maintenant votre défense contre les cybermenaces ! Cette production, sous forme de fiches pratiques, fait le point sur la cybersécurité en établissement sanitaire et médico-social, et présente des mesures simples à mettre en place pour se protéger et limiter les risques.",
-    "published": "2026-08-17T09:35:21+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "671d7f5a63909a335bc2ae3efc406e796707c71fdaba7339361bfc62ce509067",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "fef109f8db45e210fd0dbeac14dcd45e170095f783e3ca07014ced4764a2018f": {
-    "source": "ANAP - Actualités",
-    "title": "Anatomocytopathologie : pourquoi et comment numériser l'activité",
-    "link": "https://www.anap.fr/s/article/anatomocytopathologie-pourquoi-et-comment-numeriser-l-activite",
-    "description": "Relevez le challenge de la numérisation de l'activité d'anatomocytopathologie (ACP) au sein de vos structures ! Cette publication vous donne les contours, les enjeux et les modalités de mise en pratique de la pathologie numérique.",
-    "published": "2026-08-17T09:34:28+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "fef109f8db45e210fd0dbeac14dcd45e170095f783e3ca07014ced4764a2018f",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "0381aa4177b4e7c2b2284caa5cf71c7262742bcca9028c51e4902c6e3b081387": {
-    "source": "ANAP - Actualités",
-    "title": "Webinaire Immobilier - Réussir une opération de travaux de A à Z",
-    "link": "https://www.anap.fr/s/article/webinaire-immobilier-travaux-maitrise-ouvrage",
-    "description": "Vous pilotez une opération de travaux ? Découvrez comment maîtriser votre projet de A à Z. Ce webinaire pratique vous donnera les clés pour respecter vos budgets, éviter les dérapages et porter efficacement votre projet.",
-    "published": "2026-07-30T13:48:20+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "0381aa4177b4e7c2b2284caa5cf71c7262742bcca9028c51e4902c6e3b081387",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "d26e20e96584b6ce924785dc142c7fead9ca0757f93cc94d55112213b2ae87a2": {
-    "source": "ANAP - Actualités",
-    "title": "« Carte postale de demain » saison 2 : un podcast à glisser dans vos valises",
-    "link": "https://www.anap.fr/s/article/Carte-postale-de-demain-saison-2-un-podcast-%C3%A0-glisser-dans-vos-valises",
-    "description": "La carte postale de demain fait son retour cet été : 4 nouveaux épisodes courts pour explorer les futurs possibles du système de santé, entre scénarios prospectifs, inspirations internationales et éclairages d’experts. Un podcast pour penser loin, même en vacances.",
-    "published": "2026-07-30T11:20:48+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "d26e20e96584b6ce924785dc142c7fead9ca0757f93cc94d55112213b2ae87a2",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "3f4750019bd00b3b2608113030247bde5a29d52ce8b2ec7de35f8911fa93c18f": {
-    "source": "ANAP - Actualités",
-    "title": "Septembre Bouge : partagez les initiatives positives des référents APS en ESMS",
-    "link": "https://www.anap.fr/s/article/Septembre-Bouge-partagez-les-initiatives-positives-des-r%C3%A9f%C3%A9rents-APS-en-ESMS",
-    "description": "Selon l'Anses, 95 % des adultes en France sont exposés à un risque pour leur santé faute d'activité physique suffisante. Dans les établissements et services médico-sociaux, les référents Activité Physique et Sportive (APS), lorsqu'ils sont désignés, contribuent à développer de nombreuses initiatives pour favoriser le mouvement au quotidien. C'est pourquoi, à l'occasion du mois Septembre Bouge, l'Anap lance un nouvel appel à manifestation d'intérêt pour identifier et valoriser ces initiatives.",
-    "published": "2026-07-30T11:20:15+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "3f4750019bd00b3b2608113030247bde5a29d52ce8b2ec7de35f8911fa93c18f",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "5481d8cd1eff52b868e558c9c76a2d3c4a4bfa4d52180e1a0f52f95aca2872ea": {
-    "source": "ANAP - Actualités",
-    "title": "Webinaire RH \"Evaluer les besoins en temps médical\"",
-    "link": "https://www.anap.fr/s/article/webinaire-rh-evaluer-les-besoins-en-temps-medical",
-    "description": "Evaluer le temps médical de vos effectifs est un casse-tête ? Optimisez le fonctionnement de votre service et fidélisez vos équipes grâce à notre webinaire \"Evaluer les besoins en temps médical\".",
-    "published": "2026-07-30T09:49:00+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "5481d8cd1eff52b868e558c9c76a2d3c4a4bfa4d52180e1a0f52f95aca2872ea",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "237aac35d41a37a193420996a0553e910acf9f363345c608cf9dbee393655e89": {
-    "source": "ANAP - Actualités",
-    "title": "Webinaire RH \"Le télétravail pour les soignants, c’est possible\"",
-    "link": "https://www.anap.fr/s/article/webinaire-rh-le-teletravail-pour-les-soignants-c-est-possible",
-    "description": "Avec ce webinaire, faites le point sur la réalité du télétravail pour les soignants en établissement, et repartez avec une méthodologie concrète pour le mettre en place !",
-    "published": "2026-07-30T09:44:58+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "237aac35d41a37a193420996a0553e910acf9f363345c608cf9dbee393655e89",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "ad06d4603ecf27a0aa913a36304f3b3f130a90fb01dcc05e03deac0167584da7": {
-    "source": "ANAP - Actualités",
-    "title": "Webinaire « Repères dimensionnels des établissements sanitaires »",
-    "link": "https://www.anap.fr/s/article/webinaire-immobilier-reperes-dimensionnels-etablissements-sanitaires",
-    "description": "Imagerie, services techniques, consultations ou encore soins externes… Vous souhaitez dimensionner au plus juste votre projet immobilier ? Participez à notre webinaire et maîtrisez les 46 repères dimensionnels élaborés par l’Anap et le ministère de la Santé.",
-    "published": "2026-07-30T08:27:41+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "ad06d4603ecf27a0aa913a36304f3b3f130a90fb01dcc05e03deac0167584da7",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "ba7f705485775bee4fd4da5e7059eb5c3f1618dc2e09970ae77f8c1c4785e13a": {
-    "source": "ANAP - Actualités",
-    "title": "Webinaire : Activité et territoires d'intervention HAD : maîtrisez les outils nationaux",
-    "link": "https://www.anap.fr/s/article/webinaire-activite-et-territoires-d-intervention",
-    "description": "Analyse des données, compréhension des territoires et perspectives de développement : un webinaire pour mieux piloter l'activité de votre structure d'HAD.",
-    "published": "2026-07-29T11:32:31+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "ba7f705485775bee4fd4da5e7059eb5c3f1618dc2e09970ae77f8c1c4785e13a",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "cbc33d1a125b97a9faac614d4e1b1641a7c8c773bbab1a18a1c0ff0e909389d1": {
-    "source": "ANAP - Actualités",
-    "title": "Masterclass Besoin en Fonds de Roulement pour les ARS",
-    "link": "https://www.anap.fr/s/article/masterclass-bfr-ars-accompagnement-tresorerie-etablissements",
-    "description": "Face aux tensions de trésorerie, l’optimisation du Besoin en Fonds de Roulement (BFR) est un levier essentiel de performance financière. Gestion des échéances, pilotage des stocks, définition et suivi d’indicateurs financiers... Découvrez les techniques qui permettent d'accompagner les établissements sanitaires pour sécuriser leur BFR.",
-    "published": "2026-07-28T09:13:05+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "cbc33d1a125b97a9faac614d4e1b1641a7c8c773bbab1a18a1c0ff0e909389d1",
     "description_checked": true,
     "title_checked": true,
     "title_enriched": true

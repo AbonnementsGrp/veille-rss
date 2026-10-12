@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 09 Oct 2026 12:35:19 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 12 Oct 2026 11:19:51 +0000</lastBuildDate>
+    <item>
+      <title>Beyfortus : 44 % d’otites en moins chez les nourrissons finlandais</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/beyfortus-44-dotites-en-moins-chez-les-nourrissons-finlandais/</link>
+      <description>Le virus respiratoire syncytial (VRS) provoque surtout des bronchiolites chez le jeune enfant. Il peut aussi favoriser des otites moyennes aiguës (OMA). Ces dernières sont courantes : elles toucheraient 20...</description>
+      <guid isPermaLink="false">372ceb8bd6a5e378add972170e4b11731b5aceeee1736b0b60f57a312d09951e</guid>
+      <pubDate>Mon, 12 Oct 2026 11:19:51 +0000</pubDate>
+    </item>
+    <item>
+      <title>Girafes Awards 2026 : le palmarès complet</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/girafes-awards-2026-le-palmares-complet/</link>
+      <description>Ce lundi 12 octobre, la cérémonie des Girafes Awards 2026 a récompensé les projets les plus créatifs et inspirants imaginés par les professionnels de la petite enfance autour du thème « Des équilibres ».</description>
+      <guid isPermaLink="false">6ef497d5178900968dac340ec64377103f0bed86cb63594cad36294266224340</guid>
+      <pubDate>Mon, 12 Oct 2026 11:11:04 +0000</pubDate>
+    </item>
     <item>
       <title>Crèches associatives et mutualistes : le plan d’urgence n’est « pas à la hauteur des réalités »</title>
       <link>https://www.lesprosdelapetiteenfance.fr/creches-associatives-et-mutualistes-un-plan-durgence-pas-a-la-hauteur-des-realites/</link>
@@ -393,20 +407,6 @@
       <description>Le Rhône était jusqu’ici le seul territoire où l’attestation d’honorabilité n’avait pas encore été déployée. Ce sera chose faite le 22 septembre 2026.</description>
       <guid isPermaLink="false">9224c4f5bd1a6efc61ce2927525ba8a512484a91292be980b9434bf139d2ffaf</guid>
       <pubDate>Tue, 01 Sep 2026 13:04:46 +0000</pubDate>
-    </item>
-    <item>
-      <title>Sommeil du bébé : des nuits qui évoluent au fil des acquisitions</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/sommeil-du-bebe-des-nuits-qui-evoluent-au-fil-des-acquisitions/</link>
-      <description>Une étude publiée en juillet 2026 dans Developmental Psychobiology montre une association entre plusieurs acquisitions motrices et langagières et des modifications du sommeil.</description>
-      <guid isPermaLink="false">d8c6271d38707930f93997362551f3bff048e87ac3db462c3d095b2d00f39b57</guid>
-      <pubDate>Tue, 01 Sep 2026 07:47:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>Etude de la DREES : les puéricultrices renforcent leur place centrale au coeur des équipes des PMI</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/etude-de-la-drees-les-puericultrices-renforcent-leur-place-centrale-au-coeur-des-equipes-des-pmi/</link>
-      <description>puericultrice</description>
-      <guid isPermaLink="false">ac47db6f2864b2bc06f96ed779939699af4da456501c8a4987a790169d5dc813</guid>
-      <pubDate>Mon, 31 Aug 2026 10:08:50 +0000</pubDate>
     </item>
   </channel>
 </rss>
