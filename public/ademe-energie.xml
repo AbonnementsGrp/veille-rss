@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 06 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 11 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Leviers pour accélérer les énergies renouvelables en Bretagne</title>
+      <link>https://librairie.ademe.fr/energies/9680-leviers-pour-accelerer-les-energies-renouvelables-en-bretagne.html</link>
+      <description>La transition énergétique interroge les conditions territoriales, sociales, et paysagères dans lesquelles ces infrastructures sont développées. Elle n'implique pas seulement un transfert technologique (des énergies fossiles vers les énergies renouvelables), mais également un changement profond de la relation aux infrastructures énergétiques, à leur architecture et à leur visibilité.</description>
+      <guid isPermaLink="false">3478e99d7c6f08b371cd37db3d2721283de031798c577588ca9d6cdb5c6bbd51</guid>
+      <pubDate>Sun, 11 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chaufferie géothermique sur sondes. Ecole Marcel Pagnol. Commune de Pamiers (09)</title>
       <link>https://librairie.ademe.fr/energies/9658-chaufferie-geothermique-sur-sondes-ecole-marcel-pagnol-commune-de-pamiers-09.html</link>
@@ -421,13 +428,6 @@
       <description>L’observatoire des batteries stationnaires a consisté à récolter des informations sur les caractéristiques des stockages existants et futurs en France hexagonale et à analyser les données de leur fonctionnement sur l’année 2024. La filière des batteries stationnaires est relativement nouvelle sur le territoire mais se développe très rapidement, en lien avec les besoins du système électrique. Dans ce contexte, la DGEC, la CRE, les gestionnaires de réseaux (RTE et Enedis), l’ATEE et l’ADEME se sont associés pour conduire une collecte de données auprès du parc existant et en projet, dans le but d’avoir une meilleure connaissance opérationnelle de cette filière émergente mais dont la croissance est rapide. Cette restitution publique est l’occasion de présenter une partie agrégée de l’observatoire, sous forme de huit indicateurs détaillant le parc de batteries lithium-ion stationnaires raccordées en moyenne et haute tension. Le jeu d’acteur 2025 des développeurs batterie est également mis en lumière. L’édition 2025 de l’observatoire est la première occurrence et a vocation à être réitérée pour suivre le développement de la filière par le biais d’indicateurs spécifiques.</description>
       <guid isPermaLink="false">8ad1a63311d06271ff150343123eef79236de7cb2456766911308da37422f143</guid>
       <pubDate>Thu, 02 Apr 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Etat des lieux de la filière de petite méthanisation agricole autonome en effluents d'élevage</title>
-      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9195-etat-des-lieux-de-la-filiere-de-petite-methanisation-agricole-autonome-en-effluents-d-elevage.html</link>
-      <description>29 unités de petite méthanisation ont été enquêtées. Une petite unité de méthanisation a été définie comme une unité en cogénération d’une puissance installée inférieure à 100 kWé, ou en valorisation de chaleur seule. Toutes les unités enquêtées ont au moins 85 % d’effluents d’élevage dans leur ration d’approvisionnement, et ont été mises en service entre 2012 et 2023. Les enquêtes ont eu lieu au cours de l’année 2025. Parmi les unités enquêtées, 12 sont en chaudière et 17 en cogénération. L’échantillon est principalement représenté par deux fournisseurs de solution : Nenufar pour les couvertures récupératrices de biogaz (11 unités) et Biolectric pour des systèmes en cogénération (13 unités), dont une partie des unités ont été construites en partenariat avec Agripower. Les couvertures de fosse à lisier sont en digestion anaérobie psychrophile, alors que les autres unités sont en mésophile.</description>
-      <guid isPermaLink="false">4c07c795f2383e9ff281094a5152fb2a4bc9764c8590c3e40c3d1b010babcfc3</guid>
-      <pubDate>Tue, 24 Mar 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
