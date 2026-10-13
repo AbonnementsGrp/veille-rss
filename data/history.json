@@ -1,4 +1,28 @@
 {
+  "8b9b44786ae0b5331a03c0f4da68d78beed539677e660bdcb361ba598806ee52": {
+    "source": "ANAP - Actualités",
+    "title": "Appui terrain - Renforcer l’attractivité et la fidélisation dans votre établissement",
+    "link": "https://www.anap.fr/s/article/appui-terrain-renforcer-l-attractivite-et-la-fidelisation-dans-votre--etablissement",
+    "description": "Établissements sanitaires et médico-sociaux : l’Anap vous accompagne pour renforcer l’attractivité et fidéliser vos équipes. Candidatez !",
+    "published": "2026-10-12T15:42:33+00:00",
+    "first_seen": "2026-10-13T02:37:49.202437+00:00",
+    "uid": "8b9b44786ae0b5331a03c0f4da68d78beed539677e660bdcb361ba598806ee52",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "10b2cad10fa2432daed110007745f833c2983cf340e2e978d9af2cdb751cf238": {
+    "source": "ANAP - Actualités",
+    "title": "Masterclass DATA - Piloter par la DATA : décider vite, agir juste.",
+    "link": "https://www.anap.fr/s/article/masterclass-data-piloter-decider-agir",
+    "description": "Vos systèmes d'information hospitaliers regorgent de données patients, RH, financières et logistiques. Les exploitez-vous vraiment ? Avec notre Masterclass DATA, transformez vos données hospitalières en leviers de pilotage : aide à la décision médicale, optimisation des organisations et anticipation des besoins.",
+    "published": "2026-10-12T08:25:36+00:00",
+    "first_seen": "2026-10-13T02:37:49.202437+00:00",
+    "uid": "10b2cad10fa2432daed110007745f833c2983cf340e2e978d9af2cdb751cf238",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c": {
     "source": "ANAP - Actualités",
     "title": "Webinaire Urgences : mieux orienter, s’appuyer sur le territoire",
@@ -1963,7 +1987,7 @@
     "title": "Webinaire : Les Rendez-Vous des PCO",
     "link": "https://www.anap.fr/s/article/webinaire-les-rendez-vous-des-pco",
     "description": "A la demande de la DITND, l'Anap a formulé des recommandations et construit une boîte à outils concrète pour renforcer l’organisation des plateformes de coordination et d'orientation (PCO). Participez à notre webinaire pour découvrir ces outils et les prendre en main.",
-    "published": "2026-10-05T07:38:31+00:00",
+    "published": "2026-10-12T14:29:45+00:00",
     "first_seen": "2026-10-06T06:25:02.211678+00:00",
     "uid": "2a861a0a3fe5e4dd14017ba0790ed16655f274d0f9efb4470c873b886feaa24a",
     "description_checked": true,
@@ -8377,7 +8401,7 @@
     "title": "Journée nationale de la transfo - Handicap : des intentions à l'action !",
     "link": "https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap",
     "description": "La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.",
-    "published": "2026-10-09T14:21:40+00:00",
+    "published": "2026-10-12T08:08:20+00:00",
     "first_seen": "2026-09-10T04:45:41.958704+00:00",
     "uid": "f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5",
     "description_checked": true,
@@ -9450,30 +9474,6 @@
     "published": "2026-09-30T10:39:26+00:00",
     "first_seen": "2026-08-27T15:16:35.558461+00:00",
     "uid": "908c16c5be426d9b20d0ae002a139d2ac41adcf2b25d206afe9d610eb0521b3f",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "c7d2a58c41d711efc159ea28fbed0a940c13ae44c8aecd916c965754f76e4e58": {
-    "source": "ANAP - Actualités",
-    "title": "Handicap : l'Anap outille la transformation vers une offre de services coordonnés",
-    "link": "https://www.anap.fr/s/article/handicap-offre-services-coordonnes-transformation",
-    "description": "En collaboration avec la Ministre déléguée chargée de l’Autonomie et des Personnes handicapées, le Secrétariat Général du Comité Interministériel du Handicap, la DGCS et la CNSA, l’Anap publie un guide et une boite à outils opérationnelle pour accompagner la transformation médico-sociale dans le champ du handicap.",
-    "published": "2026-08-21T10:18:29+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "c7d2a58c41d711efc159ea28fbed0a940c13ae44c8aecd916c965754f76e4e58",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245": {
-    "source": "ANAP - Actualités",
-    "title": "Les Rendez-Vous juridiques de la Transition écologique",
-    "link": "https://www.anap.fr/s/article/les-rendez-vous-juridiques-de-la-transition-ecologique",
-    "description": "Actualités règlementaires, bonnes pratiques, conseils d’experts : face aux enjeux de la transition écologique, l’Anap vous propose une série de webinaires dédiés.",
-    "published": "2026-10-08T13:52:50+00:00",
-    "first_seen": "2026-08-27T15:16:35.558461+00:00",
-    "uid": "b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245",
     "description_checked": true,
     "title_checked": true,
     "title_enriched": true
