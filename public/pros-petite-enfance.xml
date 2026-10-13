@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 13 Oct 2026 09:07:23 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 15:55:27 +0000</lastBuildDate>
+    <item>
+      <title>Crèches dans les quartiers prioritaires : Yci Enfance adresse onze propositions à la ministre</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/creches-en-quartiers-prioritaires-yci-enfance-adresse-onze-propositions-a-la-ministre/</link>
+      <description>Sécuriser les financements, accompagner les familles, faciliter les projets immobiliers… Le consortium Yci Enfance a adressé à Stéphanie Rist onze propositions pour développer les crèches non lucratives dans les quartiers prioritaires de la politique de la ville (QPV)</description>
+      <guid isPermaLink="false">2dbb6c2d24484c6009f18486a4247a2d7f369662164bc59105de472898c4b75c</guid>
+      <pubDate>Tue, 13 Oct 2026 15:55:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>« Et si nous arrêtions vraiment ? » : le secteur associatif se mobilise et s’inquiète pour son avenir</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/et-si-nous-arretions-vraiment-les-creches-associatives-alertent-sur-leur-avenir/</link>
+      <description>Budget 2027 : ce qui se profile pour la petite enfance</description>
+      <guid isPermaLink="false">284799ff77ee504e56ca9e1759fd511bd335862a1e0c08c61a2c6f6089577c3a</guid>
+      <pubDate>Tue, 13 Oct 2026 12:06:59 +0000</pubDate>
+    </item>
     <item>
       <title>Jouets d’occasion : Rejouons Solidaire lance un label qualité</title>
       <link>https://www.lesprosdelapetiteenfance.fr/jouets-doccasion-rejouons-solidaire-lance-un-label-qualite/</link>
@@ -393,20 +407,6 @@
       <description>Édouard Geffray, ministre de l'Éducation nationale, et Sarah El Haïry, Haute-commissaire à l'Enfance, publient ce 4 septembre le guide Les clés de l'enfance 3-6 ans.</description>
       <guid isPermaLink="false">5c59605f0f4d21aeb7640ac57ee661a15360ef723099b8e960e00a49450d9aa2</guid>
       <pubDate>Fri, 04 Sep 2026 13:32:03 +0000</pubDate>
-    </item>
-    <item>
-      <title>Accueil des enfants handicapés : le CNCPH mise sur les crèches familiales</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/accueil-des-enfants-en-situation-de-handicap-les-trois-propositions-du-cncph-pour-mieux-accompagner-les-tout-petits/</link>
-      <description>La 7e Conférence nationale du handicap se tient ce vendredi 4 septembre, sous l’autorité du président de la République.</description>
-      <guid isPermaLink="false">83a83f9af0921670d2eb49ff548a4e3054220c0f0bd39cab479ab2bfc6670d53</guid>
-      <pubDate>Fri, 04 Sep 2026 09:40:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>Gourdes pour bébé : sont-elles vraiment adaptées à la diversification alimentaire ?</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/gourdes-pour-bebe-sont-elles-vraiment-adaptees-a-la-diversification-alimentaire/</link>
-      <description>Une étude britannique publiée fin août dans Archives of Disease in Childhood s’est penchée sur la question.</description>
-      <guid isPermaLink="false">89ba474c62902cafd0037d971a5ca00bd815322ddbb63038c9c69a8f134f00a8</guid>
-      <pubDate>Thu, 03 Sep 2026 08:36:41 +0000</pubDate>
     </item>
   </channel>
 </rss>
