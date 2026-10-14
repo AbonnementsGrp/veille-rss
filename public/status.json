@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T19:26:36.697440+00:00",
+  "generated_at": "2026-10-14T23:56:49.979875+00:00",
   "sites_total": 17,
-  "sites_ok": 14,
-  "sites_error": 3,
-  "sites_warning": 1,
-  "new_items": 5,
-  "merged_items": 567,
+  "sites_ok": 15,
+  "sites_error": 2,
+  "sites_warning": 2,
+  "new_items": 4,
+  "merged_items": 566,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -93,10 +93,11 @@
       "url": "https://ofb.gouv.fr/actualites",
       "feed_categories": [],
       "render": false,
-      "status": "ok",
-      "method": "flux officiel",
+      "status": "error",
+      "method": "historique conservé",
       "items": 21,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
+      "error": "403 Client Error: Forbidden for url: https://ofb.gouv.fr/actualites",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
     },
@@ -135,11 +136,10 @@
       "url": "https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation",
       "feed_categories": [],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
+      "status": "ok",
+      "method": "flux officiel",
       "items": 39,
       "feed": "localtis-jeunesse-education-formation.xml",
-      "error": "503 Server Error: Service Unavailable for url: https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
     },
@@ -152,7 +152,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 51,
+      "items": 50,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -239,13 +239,14 @@
       "url": "https://www.banquedesterritoires.fr/thematiques/publics-fragiles",
       "feed_categories": [],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
+      "status": "ok",
+      "method": "flux officiel",
       "items": 20,
       "feed": "localtis-publics-fragiles.xml",
-      "error": "503 Server Error: Service Unavailable for url: https://www.banquedesterritoires.fr/thematiques/publics-fragiles",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
-      "warnings": []
+      "warnings": [
+        "rien de neuf depuis 923 jours (seuil : 60)"
+      ]
     },
     {
       "site": "ADN Tourisme",
