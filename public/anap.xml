@@ -8,13 +8,41 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 12 Oct 2026 15:42:33 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 13 Oct 2026 14:56:04 +0000</lastBuildDate>
+    <item>
+      <title>Appui terrain : Développer l’hospitalisation de jour en SMR</title>
+      <link>https://www.anap.fr/s/article/appui-terrain-hospitalisation-jour-smr-reforme</link>
+      <description>Obligatoire dans le cadre de la réforme, l’Anap vous accompagne pour développer une offre d’hospitalisation partielle en SMR. L’Anap vous propose un appui terrain pour structurer votre projet, intégrer les normes et obligations légales liées à la réforme.</description>
+      <guid isPermaLink="false">ad774e00f540c187b421b2ba818a2134d271ecc9ab540261cb31502aff9da6b7</guid>
+      <pubDate>Tue, 13 Oct 2026 14:56:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Blocs chirurgicaux : 3 jours pour gagner du temps opératoire</title>
+      <link>https://www.anap.fr/s/article/blocs-chirurgicaux-3-jours-pour-gagner-du-temps-operatoire</link>
+      <description>Une opportunité unique d’améliorer l’organisation et la performance de vos blocs. Bénéficiez d’un accompagnement par des experts et repartez avec des leviers opérationnels pour optimiser votre activité et fidéliser vos équipes.</description>
+      <guid isPermaLink="false">21dcf84394b7c950cbd009572ed422d1b84c010dc539aa0670e1604b60a7f451</guid>
+      <pubDate>Tue, 13 Oct 2026 12:59:15 +0000</pubDate>
+    </item>
     <item>
       <title>Appui terrain - Renforcer l’attractivité et la fidélisation dans votre établissement</title>
       <link>https://www.anap.fr/s/article/appui-terrain-renforcer-l-attractivite-et-la-fidelisation-dans-votre--etablissement</link>
       <description>Établissements sanitaires et médico-sociaux : l’Anap vous accompagne pour renforcer l’attractivité et fidéliser vos équipes. Candidatez !</description>
       <guid isPermaLink="false">8b9b44786ae0b5331a03c0f4da68d78beed539677e660bdcb361ba598806ee52</guid>
-      <pubDate>Mon, 12 Oct 2026 15:42:33 +0000</pubDate>
+      <pubDate>Tue, 13 Oct 2026 12:36:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les Rendez-Vous juridiques de la Transition écologique</title>
+      <link>https://www.anap.fr/s/article/les-rendez-vous-juridiques-de-la-transition-ecologique</link>
+      <description>Actualités règlementaires, bonnes pratiques, conseils d’experts : face aux enjeux de la transition écologique, l’Anap vous propose une série de webinaires dédiés.</description>
+      <guid isPermaLink="false">b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245</guid>
+      <pubDate>Tue, 13 Oct 2026 11:35:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 minutes Planning : automatisez la production de vos plannings !</title>
+      <link>https://www.anap.fr/s/article/3-minutes-planning-automatisez-la-production-de-vos-plannings</link>
+      <description>3 minutes Planning, l'outil gratuit de l'Anap qui génère des cycles de travail conformes pour libérer du temps d'encadrement.</description>
+      <guid isPermaLink="false">72d505affd97bef50c31a58217fe90ce1ae97c647e5083a18c458fc281eec77d</guid>
+      <pubDate>Tue, 13 Oct 2026 09:52:31 +0000</pubDate>
     </item>
     <item>
       <title>Webinaire : Les Rendez-Vous des PCO</title>
@@ -38,32 +66,11 @@
       <pubDate>Mon, 12 Oct 2026 08:08:20 +0000</pubDate>
     </item>
     <item>
-      <title>3 minutes Planning : automatisez la production de vos plannings !</title>
-      <link>https://www.anap.fr/s/article/3-minutes-planning-automatisez-la-production-de-vos-plannings</link>
-      <description>3 minutes Planning, l'outil gratuit de l'Anap qui génère des cycles de travail conformes pour libérer du temps d'encadrement.</description>
-      <guid isPermaLink="false">72d505affd97bef50c31a58217fe90ce1ae97c647e5083a18c458fc281eec77d</guid>
-      <pubDate>Fri, 09 Oct 2026 16:00:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blocs chirurgicaux : 3 jours pour gagner du temps opératoire</title>
-      <link>https://www.anap.fr/s/article/blocs-chirurgicaux-3-jours-pour-gagner-du-temps-operatoire</link>
-      <description>Une opportunité unique d’améliorer l’organisation et la performance de vos blocs. Bénéficiez d’un accompagnement par des experts et repartez avec des leviers opérationnels pour optimiser votre activité et fidéliser vos équipes.</description>
-      <guid isPermaLink="false">21dcf84394b7c950cbd009572ed422d1b84c010dc539aa0670e1604b60a7f451</guid>
-      <pubDate>Fri, 09 Oct 2026 15:09:56 +0000</pubDate>
-    </item>
-    <item>
       <title>La Fabrique RH Anap : la nouvelle génération d’outils RH à découvrir et enrichir</title>
       <link>https://www.anap.fr/s/article/la-fabrique-rh-anap-la-nouvelle-generation-d-outils-rh-a-decouvrir-et-enrichir</link>
       <description>La Fabrique RH Anap, rendez-vous digital régulier : prenez en main 3 minutes Planning, posez vos questions et faites évoluer l’outil.</description>
       <guid isPermaLink="false">6924a49f21ac0822dad1d5f94cbe8ce1cab2b7af4a331cc474cc72e8eff94875</guid>
       <pubDate>Fri, 09 Oct 2026 14:47:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les Rendez-Vous juridiques de la Transition écologique</title>
-      <link>https://www.anap.fr/s/article/les-rendez-vous-juridiques-de-la-transition-ecologique</link>
-      <description>Actualités règlementaires, bonnes pratiques, conseils d’experts : face aux enjeux de la transition écologique, l’Anap vous propose une série de webinaires dédiés.</description>
-      <guid isPermaLink="false">b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245</guid>
-      <pubDate>Thu, 08 Oct 2026 13:52:50 +0000</pubDate>
     </item>
     <item>
       <title>Boîte à outils Innovation collaborative</title>
@@ -421,13 +428,6 @@
       <description>Issue de la communauté IA-Pharma, cette production illustre la modélisation d’un algorithme pharmaceutique en situation à risque. Intégré aux SADP, il aide à détecter les problèmes de pharmacothérapie et à prévenir les complications.</description>
       <guid isPermaLink="false">36e9fa704d530f5a9276f821a1eb09ec3ade58c1ec5137e962afc915f8c6b1af</guid>
       <pubDate>Tue, 06 Oct 2026 07:44:53 +0000</pubDate>
-    </item>
-    <item>
-      <title>Cadre juridique de la gestion de l'eau : une fiche pour tout savoir</title>
-      <link>https://www.anap.fr/s/article/cadre-juridique-fiche-gestion-eau</link>
-      <description>Grâce à cette nouvelle fiche juridique, maîtrisez en quelques minutes la règlementation relative à la gestion de l'eau. L’occasion également de retrouver nos autres fiches juridiques Développement Durable et les webinaires de démonstration.</description>
-      <guid isPermaLink="false">41610ac75d57a5bcd52fcd04de4450fb9165623213528b163ff78a4758d50afc</guid>
-      <pubDate>Tue, 06 Oct 2026 07:42:03 +0000</pubDate>
     </item>
   </channel>
 </rss>
