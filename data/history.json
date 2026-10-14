@@ -1,4 +1,199 @@
 {
+  "5ba205012becb4c6d9ab3a0e587d5cd9a28c20ba7d801448233e1fe469e9a7ae": {
+    "source": "IGAS",
+    "title": "Mieux accompagner les personnes précaires vieillissantes : état des lieux et propositions",
+    "link": "https://igas.gouv.fr/mieux-accompagner-les-personnes-precaires-vieillissantes-etat-des-lieux-et-propositions",
+    "description": "L’IGAS publie un rapport consacré aux personnes précaires vieillissantes, dont le profil particulier et le nombre croissant constituent un défi pour les secteurs de l’hébergement et du grand âge. Sur tous les territoires visités, la mission a constaté l'engagement exceptionnel des associations et de leurs bénévoles au service de ces populations particulièrement vulnérables.",
+    "published": "2026-09-30T09:49:01+00:00",
+    "first_seen": "2026-10-14T14:32:03.726222+00:00",
+    "uid": "5ba205012becb4c6d9ab3a0e587d5cd9a28c20ba7d801448233e1fe469e9a7ae"
+  },
+  "28c24929c3981c26fc812a893bbf0fae776cc0a918f2df3b2c72314650cde6df": {
+    "source": "IGAS",
+    "title": "Le temps de travail des médecins",
+    "link": "https://igas.gouv.fr/le-temps-de-travail-des-medecins",
+    "description": "Publié le 25/08/2026 Mis à jour le 07/09/2026 | Temps de lecture : 2 minutes",
+    "published": "2026-09-07T10:31:49+00:00",
+    "first_seen": "2026-10-14T14:32:03.726222+00:00",
+    "uid": "28c24929c3981c26fc812a893bbf0fae776cc0a918f2df3b2c72314650cde6df",
+    "description_checked": true
+  },
+  "8e35abba4f641fda3a8391352c642fd6546f584e6ec3d43ce32721ef527a9fcf": {
+    "source": "IGAS",
+    "title": "La lutte contre la fraude aux prescriptions et aux facturations à l'assurance maladie",
+    "link": "https://igas.gouv.fr/la-lutte-contre-la-fraude-aux-prescriptions-et-aux-facturations-lassurance-maladie-0",
+    "description": "L’Inspection générale des finances (IGF) et l’Inspection générale des affaires sociales (IGAS) ont conduit une revue de dépenses sur la fraude aux prescriptions et aux facturations à l’assurance maladie.",
+    "published": "2026-08-20T07:58:17+00:00",
+    "first_seen": "2026-10-14T14:32:03.726222+00:00",
+    "uid": "8e35abba4f641fda3a8391352c642fd6546f584e6ec3d43ce32721ef527a9fcf",
+    "description_checked": true
+  },
+  "6907075465548619033f361933c24800896d68e746a01ecf2417c69b9ea42409": {
+    "source": "IGAS",
+    "title": "Podcast de l’Igas : La qualité de la formation professionnelle",
+    "link": "https://igas.gouv.fr/podcast-de-ligas-la-qualite-de-la-formation-professionnelle",
+    "description": "Qu’est-ce qu’une formation professionnelle de qualité, concrètement pour celles et ceux qui la suivent ? Le respect des règles ? La satisfaction des apprenants ? L’insertion dans l’emploi ?",
+    "published": "2026-08-18T12:08:44+00:00",
+    "first_seen": "2026-10-14T14:32:03.726222+00:00",
+    "uid": "6907075465548619033f361933c24800896d68e746a01ecf2417c69b9ea42409",
+    "description_checked": true
+  },
+  "bd28d9cbe7343867d8a872058b82c0782bca0881d470ff4c9eaacc5d3b8871f8": {
+    "source": "IGAS",
+    "title": "Revue de dépenses relative à l’efficacité des politiques familiales",
+    "link": "https://igas.gouv.fr/revue-de-depenses-relative-lefficacite-des-politiques-familiales",
+    "description": "À la demande du Premier ministre, l’Inspection générale des finances (IGF) et l’Inspection générale des affaires sociales (Igas) ont mené une revue des dépenses relative aux politiques familiales afin d’en renforcer l’efficacité.",
+    "published": "2026-08-14T08:04:33+00:00",
+    "first_seen": "2026-10-14T14:32:03.726222+00:00",
+    "uid": "bd28d9cbe7343867d8a872058b82c0782bca0881d470ff4c9eaacc5d3b8871f8",
+    "description_checked": true
+  },
+  "83dde98b4fc52a1222e69f4718f6c1865bb6e39e3ded5fc15c0e82cc7d1ba229": {
+    "source": "IGAS",
+    "title": "Dépollution de l’eau potable : stratégies et pistes de financement",
+    "link": "https://igas.gouv.fr/depollution-de-leau-potable-strategies-et-pistes-de-financement-0",
+    "description": "Face à la pollution de l'eau potable par les PFAS et les pesticides, la mission inter-inspections évalue l'ampleur des coûts potentiels et propose une stratégie d'actions graduée et territorialisée. Celle-ci combine actions préventives et curatives pour assurer la protection des populations. Elle s’appuie sur une participation accrue des principaux émetteurs de PFAS et de pesticides aux coûts de la dépollution, afin de contenir l’augmentation inévitable du prix de l'eau.",
+    "published": "2026-07-31T07:05:13+00:00",
+    "first_seen": "2026-10-14T14:32:03.726222+00:00",
+    "uid": "83dde98b4fc52a1222e69f4718f6c1865bb6e39e3ded5fc15c0e82cc7d1ba229",
+    "description_checked": true
+  },
+  "ba48fa27d9d2a5aa72b46ee3326c058e841e712f31995b84eb0865a65ba8bddf": {
+    "source": "IGAS",
+    "title": "Farida Belkhir, nommée sous-directrice au sein de la direction du budget du ministère de l’Économie, des Finances et de la Souveraineté industrielle et numérique",
+    "link": "https://igas.gouv.fr/farida-belkhir-nommee-sous-directrice-au-sein-de-la-direction-du-budget-du-ministere-de-leconomie-des-finances-et-de-la-souverainete-industrielle-et-numerique",
+    "description": "Après des études de sciences politiques (Panthéon Sorbonne puis Nanterre) et une fugace carrière de footballeuse, elle rejoint une première fois la Direction du Budget en 2014.",
+    "published": "2026-07-27T07:56:37+00:00",
+    "first_seen": "2026-10-14T14:32:03.726222+00:00",
+    "uid": "ba48fa27d9d2a5aa72b46ee3326c058e841e712f31995b84eb0865a65ba8bddf",
+    "description_checked": true
+  },
+  "db803dd57ea591c270c97999a8cc5905c681eec531135391c3d5c098a5fed855": {
+    "source": "C2L Solutions - Restauration collective",
+    "title": "Journée mondiale de l’alimentation 2026",
+    "link": "https://c2lsolutions.fr/journee-mondiale-alimentation-2026/",
+    "description": "Journée mondiale de l’alimentation 2026 : « Innover aujourd’hui pour nourrir demain » Le 16 octobre 2026, la Journée mondiale de l’alimentation 2026 mettra à l’honneur le thème « Innover aujourd’hui pour nourrir demain ». Portée par l’Organisation des Nations unies pour l’alimentation et l’agriculture (FAO), cette mobilisation internationale invite à repenser la production, l’approvisionnement et l’accès à une alimentation saine. Pour les collectivités et les acteurs de la restauration collective, elle offre aussi l’occasion de transformer cette ambition en actions concrètes : achats mieux adaptés, lutte contre le gaspillage et coopération avec les filières alimentaires. Journée mondiale de l’alimentation 2026 : quel est le thème choisi par la FAO ? La FAO a retenu « Innover aujourd’hui pour nourrir demain » pour l’édition 2026. Le message associe la recherche, la technologie, les savoir-faire traditionnels et les initiatives locales. L’objectif est d’améliorer l’accès de tous à des aliments suffisants, sûrs, diversifiés et nutritifs, sans compromettre les ressources naturelles. L’innovation ne se résume donc pas à l’intelligence artificielle ou à l’agriculture de précision. Elle peut aussi concerner le stockage, le partage des connaissances, la réduction des pertes, l’organisation d’une coopérative ou la logistique des denrées. La question n’est pas seulement de produire davantage. Elle consiste également à mieux utiliser les ressources, à rendre l’alimentation accessible et à soutenir des systèmes agroalimentaires capables de faire face aux crises. Pour découvrir le message de cette édition et les événements associés, consultez la page officielle de la Journée mondiale de l’alimentation de la FAO. Pourquoi cette journée reste-t-elle nécessaire en 2026 ? Les progrès ob",
+    "published": "2026-10-14T14:13:03+00:00",
+    "first_seen": "2026-10-14T14:32:00.330990+00:00",
+    "uid": "db803dd57ea591c270c97999a8cc5905c681eec531135391c3d5c098a5fed855"
+  },
+  "813af95be02b670e0f8b2a0f87af42cc87dc1aa3db9226bf149e2419eb21d856": {
+    "source": "Office français de la biodiversité",
+    "title": "Forêt d'Orléans : opération conjointe des services de l'Etat contre les motards en infraction",
+    "link": "https://ofb.gouv.fr/presse/foret-orleans-operation-conjointe-des-services-de-etat-contre-les-motards-en-infraction-0",
+    "description": "Forêt d'Orléans : opération conjointe des services de l'Etat contre les motards en infraction Centre-Val de Loire Thématique Contrôle & règlementation A la une Activé Type de presse Régionales Ressources associées document 2026_10_04_cp-operation-de-police-orleans.pdf PDF - 769.09 Ko Type de contenu Communiqué de presse Résumé Dimanche 4 octobre 2026, l’Office national des forêts (ONF), l’Office français de la biodiversité (OFB) et la Gendarmerie nationale ont mené une opération coordonnée en forêt domaniale d'Orléans pour intercepter des engins motorisés circulant illégalement en sous-bois. Une action de terrain résolue, qui s'inscrit dans les priorités du Parquet contre la délinquance environnementale et rappelle l'importance de respecter les règles pour préserver ce massif partagé",
+    "published": "2026-10-14T04:25:38+00:00",
+    "first_seen": "2026-10-14T14:31:51.040212+00:00",
+    "uid": "813af95be02b670e0f8b2a0f87af42cc87dc1aa3db9226bf149e2419eb21d856"
+  },
+  "4330ecc57e8e0592e3a2304093a8dd8cad9ae2e766ebbbd1f88b27fe7276e852": {
+    "source": "Office français de la biodiversité",
+    "title": "Sécheresse 2026 : la nature sous pression, l’OFB mobilisé",
+    "link": "https://ofb.gouv.fr/actualites/secheresse-2026-la-nature-sous-pression-ofb-mobilise",
+    "description": "Sécheresse 2026 : la nature sous pression, l’OFB mobilisé Cours d’eau à sec, faune et flore en détresse, forêts qui brûlent : l’été 2026 a mis la nature à rude épreuve. Face à cette sécheresse hors norme, l’OFB s’est mobilisé sur le terrain. Mais la crise n’est pas finie. Des milieux aquatiques fragilisés Cet été, la France a connu une sécheresse exceptionnelle par son intensité, son étendue et sa durée. À la mi-septembre, 75 départements sur 101 étaient encore au niveau maximal de restriction des usages de l’eau. Les petits cours d’eau sont en première ligne : leurs assecs atteignent des niveaux jamais observés en quinze ans de suivi. Fin septembre, sur un peu plus de 3 300 stations d’observation des petits cours d’eau, 1 594 étaient complètement à sec ou en rupture d’écoulement, soit près de la moitié. Pour plus de détails et mesurer cette évolution, l’OFB a diffusé chaque mois, tout au long de l’été, la carte des assecs . Avec moins d’eau et des températures plus élevées, les poissons manquent d’oxygène et meurent en nombre dans plusieurs rivières. Le changement climatique aggrave le phénomène : en asséchant sols et végétation, il favorise à la fois les assecs et les incendies. Faune et flore : des effets souvent invisibles Les animaux retrouvés morts ne sont que la partie visible du problème et beaucoup d’effets ne se verront que dans les mois ou les années à venir. Les poissons, les écrevisses, les moules d’eau douce, mais aussi les oiseaux, les chauves-souris et les mammifères sont touchés. Les incendies ont en outre ravagé des espaces naturels précieux, dont près de 1 600 hectares parmi les plus protégés de France. Plus de 100 000 hectares de forêt sont par ailleurs partis en fumée cet été et, en Gironde, plus de 60 espèces menacées ou protégées ont été exposées",
+    "published": "2026-10-13T14:11:15+00:00",
+    "first_seen": "2026-10-14T14:31:51.040212+00:00",
+    "uid": "4330ecc57e8e0592e3a2304093a8dd8cad9ae2e766ebbbd1f88b27fe7276e852"
+  },
+  "33c33bb6a1ccd07dbae41719ec1be55ed4ab65e7160d8f74d5bb30f884b2b696": {
+    "source": "Office français de la biodiversité",
+    "title": "Situation des écoulements des petits cours d'eau",
+    "link": "https://ofb.gouv.fr/actualites/situation-des-ecoulements-des-petits-cours-eau",
+    "description": "Situation des écoulements des petits cours d'eau Chaque mois, l'Office français de la biodiversité publie la carte des écoulements des petits cours d'eau établie grâce au réseau ONDE. Fin septembre, 1 594 cours d'eau sont touchés par des ruptures d'écoulement ou des assecs. La dégradation se poursuit Fin septembre, 1 594 cours d’eau de tête de bassin versant sont concernés par des ruptures d’écoulement ou des assecs. Jamais un nombre aussi élevé de ruptures d’écoulement ou d’assecs n’avait été observé à cette période de l’année. Par ailleurs, la persistance des ruptures d’écoulement et des assecs depuis plus de quatre mois sur les mêmes secteurs constitue une situation inédite depuis le début du suivi. Toutes les régions sont concernées avec les situations les plus critiques situées le long d’un axe allant de la Vendée à la région Grand Est, où la dégradation se poursuit. Une aggravation est également observée en Occitanie et en Auvergne-Rhône-Alpes. Aucune amélioration n’est observée dans les départements déjà les plus touchés fin août, certains connaissant même une nouvelle dégradation. C’est notamment le cas de la Creuse, de l’Aveyron, de la Côte-d’Or, de la Vendée, des Ardennes, de la Charente, de la Loire, de la Loire-Atlantique, de la Haute-Marne et de la Nièvre. Près de la moitié des cours d’eau observés (49,6 %) sont en rupture d’écoulement ou en assec. L’ampleur, la précocité et la persistance de ces phénomènes témoignent d’un niveau de dégradation particulièrement élevé, susceptible d’entraîner des conséquences importantes sur les écosystèmes aquatiques. Le réseau ONDE L'Observatoire national des étiages (ONDE) assure le suivi de l'état des écoulements des petits cours d'eau. Sur l'ensemble de l'Hexagone, environ 3 230 stations réparties dans chaque départemen",
+    "published": "2026-10-13T10:09:01+00:00",
+    "first_seen": "2026-10-14T14:31:51.040212+00:00",
+    "uid": "33c33bb6a1ccd07dbae41719ec1be55ed4ab65e7160d8f74d5bb30f884b2b696"
+  },
+  "9567b6afa18b9cbe5a233566ab1cfad19f90e7c39b62d2625854511754705946": {
+    "source": "ADEME_Urbanisme, territoires et sols",
+    "title": "Energie et immobilier logistique : Quelles synergies ?",
+    "link": "https://librairie.ademe.fr/mobilite-et-transports/9657-energie-et-immobilier-logistique-quelles-synergies-.html",
+    "description": "Les entrepôts logistiques de plus de 1 000 m² représentent un parc immobilier de 93,4 millions de m² en France, caractérisé par d’importantes surfaces de toitures et de parkings déjà artificialisés. L’étude met en évidence leur potentiel significatif de production d’énergies renouvelables, notamment photovoltaïque et géothermique. À l’horizon 2028, le productible photovoltaïque est estimé entre 6,4 et 8,1 TWh, ouvrant des perspectives d’autoconsommation, de couplage bâtiment-véhicule et d’intégration dans les stratégies énergétiques territoriales.",
+    "published": "2026-10-06T22:00:00+00:00",
+    "first_seen": "2026-10-14T14:31:50.175507+00:00",
+    "uid": "9567b6afa18b9cbe5a233566ab1cfad19f90e7c39b62d2625854511754705946"
+  },
+  "a8dc5b9eb80738d15c359803589380258c5af3ef03d0d60d7c11aa071a1f2a5f": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Perceptions des Français à l'égard de la pollution de l'air en 2026",
+    "link": "https://librairie.ademe.fr/air/9688-perceptions-des-francais-a-l-egard-de-la-pollution-de-l-air-en-2026.html",
+    "description": "Malgré la réduction des émissions des polluants réglementés et l’amélioration globale de la qualité de l’air en France depuis une vingtaine d'années, cette édition 2026 du baromètre annuel réalisé par l’ADEME montre, pour la deuxième année consécutive, une baisse du nombre de Français ayant la perception d'une bonne qualité de l'air . Plus d’un Français sur deux déclare avoir ressenti des gênes ou des troubles liées à la pollution de l’air. Le sentiment d’être correctement informé sur la pollution de l'air reste minoritaire : 59 % des Français estiment ne pas disposer d’une information suffisante sur la qualité de l’air près de chez eux. La majorité s’informe néanmoins, principalement via les bulletins météo, tandis que les sources plus spécialisées restent moins connues et moins utilisées. Des clivages persistent selon l’âge et le territoire . Les jeunes se montrent globalement plus préoccupés, utilisent davantage les outils numériques et soutiennent plus volontiers certaines mesures contraignantes, mais ils adoptent aussi plus souvent certaines pratiques polluantes, notamment dans la gestion des déchets verts ou le chauffage domestique au bois. Les habitants des grandes agglomérations perçoivent davantage la pollution et ses effets, déclarent plus de gênes et se montrent généralement plus favorables aux mesures restrictives concernant le transport ou le chauffage au bois. Enfin, la connaissance de certaines sources de pollution de l'air extérieur reste partielle telle que le chauffage domestique au bois, ainsi que certaines sources de pollution de l’air intérieur telles que le mobilier neuf et l'humidité. La vague 2026 met ainsi en évidence un contraste entre une perception élevée des risques liés à la pollution de l’air, un niveau d’information encore incomplet et un",
+    "published": "2026-10-13T22:00:00+00:00",
+    "first_seen": "2026-10-14T14:31:49.710966+00:00",
+    "uid": "a8dc5b9eb80738d15c359803589380258c5af3ef03d0d60d7c11aa071a1f2a5f"
+  },
+  "d649cfe18c3555b7ef039a53141a5ce287fa45aef785e75ac1b2dafe8e7f475f": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Energie et immobilier logistique : Quelles synergies ?",
+    "link": "https://librairie.ademe.fr/mobilite-et-transports/9657-energie-et-immobilier-logistique-quelles-synergies-.html",
+    "description": "Les entrepôts logistiques de plus de 1 000 m² représentent un parc immobilier de 93,4 millions de m² en France, caractérisé par d’importantes surfaces de toitures et de parkings déjà artificialisés. L’étude met en évidence leur potentiel significatif de production d’énergies renouvelables, notamment photovoltaïque et géothermique. À l’horizon 2028, le productible photovoltaïque est estimé entre 6,4 et 8,1 TWh, ouvrant des perspectives d’autoconsommation, de couplage bâtiment-véhicule et d’intégration dans les stratégies énergétiques territoriales.",
+    "published": "2026-10-06T22:00:00+00:00",
+    "first_seen": "2026-10-14T14:31:49.710966+00:00",
+    "uid": "d649cfe18c3555b7ef039a53141a5ce287fa45aef785e75ac1b2dafe8e7f475f"
+  },
+  "ea93bf548a2436ed9565b734e2ca1753e7b72e932fabefa85d8dcfe3da4ae0b7": {
+    "source": "Outre-Mer 360°",
+    "title": "La Réunion : Cyrille Melchior alerte la ministre des Outre-mer sur les menaces budgétaires qui pèsent sur l'agriculture",
+    "link": "https://outremers360.com/bassin-atlantique-appli/la-reunion-cyrille-melchior-alerte-la-ministre-des-outre-mer-sur-les-menaces-budgetaires-qui-pesent-sur-lagriculture",
+    "description": "Le président du Conseil départemental de La Réunion, Cyrille Melchior, a rencontré mardi 13 octobre 2026 à Paris la ministre des Outre-mer, Naïma Moutchou, pour défendre l'agriculture réunionnaise face aux menaces de réduction des financements publics. Il a plaidé pour...",
+    "published": "2026-10-14T13:09:55+00:00",
+    "first_seen": "2026-10-14T14:31:44.570708+00:00",
+    "uid": "ea93bf548a2436ed9565b734e2ca1753e7b72e932fabefa85d8dcfe3da4ae0b7"
+  },
+  "95a055b098a3f487546f1f736fa31e8462c98516fff1bb08838ce15f22345daf": {
+    "source": "Outre-Mer 360°",
+    "title": "Médécine nucléaire : un amendement sénatorial adopté ouvre l'accès à la radiothérapie interne vectorisée dans les Outre-mer",
+    "link": "https://outremers360.com/bassin-atlantique-appli/medecine-nucleaire-un-amendement-senatorial-adopte-ouvre-lacces-a-la-radiotherapie-interne-vectorisee-dans-les-outre-mer",
+    "description": "Lors de l'examen de la proposition de la loi du sénateur Khalifé Khalifé visant à accélérer le développement de la médecine nucléaire ce mardi 13 octobre au Sénat, un amendement sur l'égal accès aux soins dans les territoires ultramarins a été adopté....",
+    "published": "2026-10-14T11:30:54+00:00",
+    "first_seen": "2026-10-14T14:31:44.570708+00:00",
+    "uid": "95a055b098a3f487546f1f736fa31e8462c98516fff1bb08838ce15f22345daf"
+  },
+  "5e33a457814294b3ed23a5f540bb7e4de696fa4f4a79e8b4bdad5c655b32911f": {
+    "source": "Outre-Mer 360°",
+    "title": "Selon la députée Mereana Reid Arbelot, « le Sénat risque de vider » son texte visant à l’égalité des soins « des ultramarins sur l’ensemble du territoire national »",
+    "link": "https://outremers360.com/bassin-pacifique-appli/selon-la-deputee-mereana-reid-arbelot-le-senat-risque-de-vider-son-texte-visant-a-legalite-des-soins-des-ultramarins-sur-lensemble-du-territoire-national",
+    "description": "Dans un communiqué, la députée GDR de Polynésie française a exprimé « sa profonde inquiétude », suite à l’adoption, ce mardi 13 octobre, de sept amendements par la commission des affaires sociales du Sénat, « qui remettent en cause les objectifs...",
+    "published": "2026-10-14T11:21:46+00:00",
+    "first_seen": "2026-10-14T14:31:44.570708+00:00",
+    "uid": "5e33a457814294b3ed23a5f540bb7e4de696fa4f4a79e8b4bdad5c655b32911f"
+  },
+  "70582b3e9d96938c078716ef8e20ac436b05c13875062368523455350835ff80": {
+    "source": "Outre-Mer 360°",
+    "title": "À Bruxelles, les Outre-mer européens réclament des garanties concrètes pour leur avenir dans le prochain budget de l’UE",
+    "link": "https://outremers360.com/bassin-atlantique-appli/a-bruxelles-les-outre-mer-europeens-reclament-des-garanties-concretes-pour-leur-avenir-dans-le-prochain-budget-de-lue",
+    "description": "POSEI, pêche, octroi de mer, concurrence internationale, mécanisme carbone : réunis le 13 octobre à Bruxelles à l’initiative d’Eurodom, les acteurs économiques des régions ultrapériphériques ont interpellé les institutions européennes sur les risques que fait peser...",
+    "published": "2026-10-14T10:52:25+00:00",
+    "first_seen": "2026-10-14T14:31:44.570708+00:00",
+    "uid": "70582b3e9d96938c078716ef8e20ac436b05c13875062368523455350835ff80"
+  },
+  "afd5a04b08e155d66951984e131286c265bdc00e0ecf912480a6f04978de226b": {
+    "source": "Outre-Mer 360°",
+    "title": "Santé : La Polynésie française se dote de sa première Délégation à la recherche clinique et à l’innovation",
+    "link": "https://outremers360.com/bassin-pacifique-appli/sante-la-polynesie-francaise-se-dote-de-sa-premiere-delegation-a-la-recherche-clinique-et-a-linnovation",
+    "description": "Une convention de partenariat visant à créer la première Délégation à la recherche clinique et à l’innovation (DRCI) polynésienne a été signée ce mardi, entre la ministre polynésienne de la Santé, Raihei Ansquer, le représentant du groupement interrégional pour...",
+    "published": "2026-10-14T09:42:01+00:00",
+    "first_seen": "2026-10-14T14:31:44.570708+00:00",
+    "uid": "afd5a04b08e155d66951984e131286c265bdc00e0ecf912480a6f04978de226b"
+  },
+  "d03723e967ac2c8fe30706211006f1285f83ba101a9c4e8b8624bd7dc1596e11": {
+    "source": "Outre-Mer 360°",
+    "title": "Visite officielle en Chine : La Présidente de la Région Réunion se rend sur le complexe de Tianjin",
+    "link": "https://outremers360.com/bassin-indien-appli/visite-officielle-en-chine-la-presidente-de-la-region-reunion-se-rend-sur-le-complexe-de-tianjin",
+    "description": "Dans le cadre de sa visite officielle en Chine, la présidente de Région Réunion, Huguette Bello, s’est rendue sur le complexe portuaire de Tianjin. Cette étape a notamment permis d’observer les technologies déployées sur ce site et d’évoquer les perspectives de...",
+    "published": "2026-10-14T09:27:40+00:00",
+    "first_seen": "2026-10-14T14:31:44.570708+00:00",
+    "uid": "d03723e967ac2c8fe30706211006f1285f83ba101a9c4e8b8624bd7dc1596e11"
+  },
+  "317dececcf28630beb8fa828511a5489e421a241bf7fc838d603e8454b5884c0": {
+    "source": "Outre-Mer 360°",
+    "title": "« Zartis.re », un annuaire gratuit pour révéler les talents de La Réunion et de l’océan indien",
+    "link": "https://outremers360.com/bassin-indien-appli/zartis-re-un-annuaire-gratuit-pour-reveler-les-talents-de-la-reunion-et-de-locean-indien",
+    "description": "Un annuaire gratuit baptisé « Zartis.re » qui réunit artistes, prestataires d’évènementiel et lieux de diffusion est désormais à disposition à La Réunion. Publiée par l’équipe réunionnaise de MonTicket.re, cette plateforme permet de donner de la...",
+    "published": "2026-10-14T08:41:55+00:00",
+    "first_seen": "2026-10-14T14:31:44.570708+00:00",
+    "uid": "317dececcf28630beb8fa828511a5489e421a241bf7fc838d603e8454b5884c0"
+  },
   "f64e36c4b1eb00197da0506fe1045b596c4f9d1731936cb40b0d5e392a582cc1": {
     "source": "IGAS",
     "title": "Politiques sanitaires et sociales : quels sujets émergents ou en mutation ?",
@@ -9256,205 +9451,5 @@
     "published": "2026-09-07T12:22:49+00:00",
     "first_seen": "2026-09-07T19:10:54.000536+00:00",
     "uid": "35cf0d0fafdd0dacdc7c7b95e1f7223f3195902db183bc5a0a87660e10a9cfd7"
-  },
-  "749377298411119dc49e20783e26cf5b73ab93de04e71ee0e99190a3c0a2617d": {
-    "source": "CNSA - Actualités",
-    "title": "La CNSA sélectionne 5 nouveaux doctorants pour son programme de recherche « Autonomie, grand âge et handicap »",
-    "link": "https://www.cnsa.fr/actualites/la-cnsa-selectionne-5-nouveaux-doctorants-pour-son-programme-de-recherche-autonomie",
-    "description": "Leurs recherches portent sur les violences vécues par les femmes sourdes, les conséquences de la maladie de Huntington sur les familles, le travail des femmes migrantes auprès des personnes âgées, les transformations des établissements et services d’aide par le travail (ESAT), ainsi que les parcours professionnels des aides-soignantes.",
-    "published": "2026-09-07T09:02:04+00:00",
-    "first_seen": "2026-09-07T12:36:26.878930+00:00",
-    "uid": "749377298411119dc49e20783e26cf5b73ab93de04e71ee0e99190a3c0a2617d"
-  },
-  "5c42b38faf6617629414cc9c490654d3998e944484a350d5d1cd40ee9f8a2818": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Jouer dehors, faire la sieste : pas si simple en crèche !",
-    "link": "https://www.lesprosdelapetiteenfance.fr/jouer-dehors-faire-la-sieste-pas-si-simple-en-creche/",
-    "description": "Une étude internationale menée auprès de 187 structures d’accueil de la petite enfance montre que les conditions environnementales peuvent limiter les sorties et perturber la sieste.",
-    "published": "2026-09-07T08:33:55+00:00",
-    "first_seen": "2026-09-07T12:36:24.703853+00:00",
-    "uid": "5c42b38faf6617629414cc9c490654d3998e944484a350d5d1cd40ee9f8a2818",
-    "description_checked": true
-  },
-  "e3f820d1d5fcf5260a001422f951781f9068b06ee720888afe51643df12d4026": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "21 septembre 2026 : La Rentrée de la Petite Enfance",
-    "link": "https://www.lesprosdelapetiteenfance.fr/article/21-septembre-2026-la-rentree-de-la-petite-enfance-2026/",
-    "description": "Voici le pré-programme de la Rentrée de la Petite Enfance 2025 qui se tiendra le 21 septembre prochain au ministère des Solidarités à Paris. Le thème de la journée :...",
-    "published": "2026-09-21T00:00:00+00:00",
-    "first_seen": "2026-09-06T20:25:51.808858+00:00",
-    "uid": "e3f820d1d5fcf5260a001422f951781f9068b06ee720888afe51643df12d4026",
-    "description_checked": true
-  },
-  "bf44b585204c1c3adbfc555836cda4f5f198bdba18ab50df2fb7f22fb4911571": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "14 et 24 septembre : Deux rendez-vous Enfance en débat sur les violences sexuelles dans le sport",
-    "link": "https://www.lesprosdelapetiteenfance.fr/article/enfance-en-debat-deux-rendez-vous-en-septembre-consacres-aux-violences-sexuelles-dans-le-sport/",
-    "description": "Dans le cadre du cycle mensuel de rencontres « Enfance en débat », Sarah El Haïry, Haute-commissaire à l’Enfance, consacre le mois de septembre à la prévention des violences sexuelles dans le sport. Deux événements ont lieu les 14 et 24 septembre.",
-    "published": "2014-09-24T00:00:00+00:00",
-    "first_seen": "2026-09-06T20:25:51.808858+00:00",
-    "uid": "bf44b585204c1c3adbfc555836cda4f5f198bdba18ab50df2fb7f22fb4911571",
-    "description_checked": true
-  },
-  "7946504c0cf7c9b6cc28bb799d2d0e2c004a6a70f88e5cd75c34aadb8e1d0f4e": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "15 et 18 juin 2026 : Conférences Enfance en débat : « Le jeu au service des apprentissages »",
-    "link": "https://www.lesprosdelapetiteenfance.fr/article/15-et-18-juin-2026-conferences-enfance-en-debat-le-jeu-au-service-des-apprentissages/",
-    "description": "Dans le cadre du cycle de rencontres « Enfance en débat », Sarah El Haïry, Haute-commissaire à l’Enfance, consacre cette 9e édition au jeu au service des apprentissages, à l’occasion...",
-    "published": "2015-06-18T20:26:00+00:00",
-    "first_seen": "2026-09-06T20:25:51.808858+00:00",
-    "uid": "7946504c0cf7c9b6cc28bb799d2d0e2c004a6a70f88e5cd75c34aadb8e1d0f4e",
-    "description_checked": true
-  },
-  "31a76b7ccb9b62c3769246e7e79512d342a4961dea59b794cee1663269455ceb": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Des approches pour mieux communiquer",
-    "link": "https://www.lesprosdelapetiteenfance.fr/cat/pedagogie/des-approches-pour-mieux-communiquer/",
-    "description": "Les professionnels de la petite enfance connaissent l’importance d’adopter une communication bienveillante, d’accueillir avec bientraitance les émotions du jeune enfant, de lui offrir une écoute active pour qu’il prenne confiance en lui et grandisse tout simplement sereinement. Des méthodes, des outils (Communication Non Violente, Faber Mazlish…), à retrouver ici, peuvent aider les professionnels à développer leur communication et leur écoute pour qu’elles soient empathiques. Nous vous proposons",
-    "published": "",
-    "first_seen": "2026-09-06T20:25:51.808858+00:00",
-    "uid": "31a76b7ccb9b62c3769246e7e79512d342a4961dea59b794cee1663269455ceb",
-    "description_checked": true
-  },
-  "ff3d24466e68da41bf54a58b2cf3df45844e46d02b2492b6b574b4a3f80f0ec9": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Communication Non Violente (CNV)",
-    "link": "https://www.lesprosdelapetiteenfance.fr/cat/pedagogie/des-approches-pour-mieux-communiquer/cnv/",
-    "description": "Conceptualisée dans les années 70 aux Etats-Unis par le psychologue Marshall Rosenberg, la Communication Non-Violente (CNV) investit peu à peu le secteur de la petite enfance.",
-    "published": "",
-    "first_seen": "2026-09-06T20:25:51.808858+00:00",
-    "uid": "ff3d24466e68da41bf54a58b2cf3df45844e46d02b2492b6b574b4a3f80f0ec9",
-    "description_checked": true
-  },
-  "b1fad5f77b853459c48baeb3f44792e4c86e91d41fd6f38ee82393365d1632f5": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "D’autres approches",
-    "link": "https://www.lesprosdelapetiteenfance.fr/cat/pedagogie/des-approches-pour-mieux-communiquer/d-autres-approches/",
-    "description": "Pour bien, mieux communiquer avec les tout-petits mais aussi entre professionnels de la petite enfance et avec les parents, des approches, un peu moins connues que la Communication non violente ou la communication gestuelle associée à la parole, peuvent être adoptées. A découvrir ici l’approche Faber et Mazlish qui explique comment trouver les justes mots et résoudre, entre autres, les conflits dans un climat serein et apaisé. Mais également la Programmation Neurolinguistique (PNL), un courant d",
-    "published": "",
-    "first_seen": "2026-09-06T20:25:51.808858+00:00",
-    "uid": "b1fad5f77b853459c48baeb3f44792e4c86e91d41fd6f38ee82393365d1632f5",
-    "description_checked": true
-  },
-  "da2be633c287eaaaff673cc66d5c0fbb99603156e6d6651eec4bb329ce7221c0": {
-    "source": "Localtis - Jeunesse, éducation et formation",
-    "title": "Carte vitale pour chaque enfant confié : le service de l'ASE devra faire la démarche en début et fin de placement",
-    "link": "https://www.banquedesterritoires.fr/carte-vitale-pour-chaque-enfant-confie-le-service-de-lase-devra-faire-la-demarche-en-debut-et-fin",
-    "description": "Les enfants confiés à l'aide sociale à l'enfance (ASE) disposeront désormais de leur propre carte vitale. Publié au Journal officiel du 28 août 2026, un arrêté stipule que le service de l'ASE est chargé d'informer l'Assurance maladie du placement de l'enfant et de demander son \"affiliation…",
-    "published": "2026-09-04T13:28:32+00:00",
-    "first_seen": "2026-09-04T20:47:01.403367+00:00",
-    "uid": "da2be633c287eaaaff673cc66d5c0fbb99603156e6d6651eec4bb329ce7221c0"
-  },
-  "ffc5e8e7e8b30cd46978aa42afef26afc841d7a915be5934d8b42ad7b57d7aa2": {
-    "source": "Localtis - Jeunesse, éducation et formation",
-    "title": "Les décharges des directeurs d'école pourront être majorées selon l'organisation des collectivités",
-    "link": "https://www.banquedesterritoires.fr/les-decharges-des-directeurs-decole-pourront-etre-majorees-selon-lorganisation-des-collectivites",
-    "description": "Un décret étend à toutes les académies la possibilité de majorer les décharges de service d'enseignement des directeurs d'école pour tenir compte des spécificités de l'organisation des collectivités. Cette réforme, qui vise à régulariser la situation de la ville de Paris, n'était pas demandée par les autres collectivités qui, si elles y recourent, devront verser une compensation à l'État.",
-    "published": "2026-09-04T11:43:23+00:00",
-    "first_seen": "2026-09-04T20:47:01.403367+00:00",
-    "uid": "ffc5e8e7e8b30cd46978aa42afef26afc841d7a915be5934d8b42ad7b57d7aa2"
-  },
-  "d1b9d75f030c40d7ab74d423cc144c6cd5bb9af126a1bdbd6729e0bc356f6996": {
-    "source": "Localtis - Jeunesse, éducation et formation",
-    "title": "Mise à jour de la liste des écoles de production reconnues par l’Etat",
-    "link": "https://www.banquedesterritoires.fr/mise-jour-de-la-liste-des-ecoles-de-production-reconnues-par-letat",
-    "description": "Publié au Journal officiel du 3 septembre, un arrêté du 28 août 2026 fixe la liste des écoles de production reconnues par l’Etat. Il s’agit d’écoles techniques privées gérées par des organismes à but non lucratif qui forment dès l’âge de 15 ans des jeunes dépourvus de qualifications.…",
-    "published": "2026-09-04T07:54:38+00:00",
-    "first_seen": "2026-09-04T20:47:01.403367+00:00",
-    "uid": "d1b9d75f030c40d7ab74d423cc144c6cd5bb9af126a1bdbd6729e0bc356f6996"
-  },
-  "5c59605f0f4d21aeb7640ac57ee661a15360ef723099b8e960e00a49450d9aa2": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Les clés de l’enfance 3-6 ans : un guide pour l’entrée en maternelle destiné aux parents",
-    "link": "https://www.lesprosdelapetiteenfance.fr/les-cles-de-lenfance-3-6-ans-un-guide-pour-lentree-en-maternelle-destine-aux-parents/",
-    "description": "Édouard Geffray, ministre de l'Éducation nationale, et Sarah El Haïry, Haute-commissaire à l'Enfance, publient ce 4 septembre le guide Les clés de l'enfance 3-6 ans.",
-    "published": "2026-09-04T13:32:03+00:00",
-    "first_seen": "2026-09-04T16:22:55.671579+00:00",
-    "uid": "5c59605f0f4d21aeb7640ac57ee661a15360ef723099b8e960e00a49450d9aa2",
-    "description_checked": true
-  },
-  "45511c8929988b3143160b6710e8f1241085bde6f949f5556f0924f913ab9792": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "« Ségur pour tous » : le Conseil d’État donne tort aux départements",
-    "link": "https://www.enfancejeunesseinfos.fr/segur-pour-tous-le-conseil-detat-donne-tort-aux-departements/",
-    "description": "Une dizaine de départements contestaient l’agrément ou l’extension du « Ségur pour tous » dans le secteur sanitaire, social et médico-social privé non lucratif. Le Conseil d’État rejette leurs arguments, notamment sur le coût de la mesure et l’absence de compensation.",
-    "published": "2026-09-02T11:40:17+00:00",
-    "first_seen": "2026-09-04T16:22:53.578606+00:00",
-    "uid": "45511c8929988b3143160b6710e8f1241085bde6f949f5556f0924f913ab9792"
-  },
-  "83a83f9af0921670d2eb49ff548a4e3054220c0f0bd39cab479ab2bfc6670d53": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Accueil des enfants handicapés : le CNCPH mise sur les crèches familiales",
-    "link": "https://www.lesprosdelapetiteenfance.fr/accueil-des-enfants-en-situation-de-handicap-les-trois-propositions-du-cncph-pour-mieux-accompagner-les-tout-petits/",
-    "description": "La 7e Conférence nationale du handicap se tient ce vendredi 4 septembre, sous l’autorité du président de la République.",
-    "published": "2026-09-04T09:40:41+00:00",
-    "first_seen": "2026-09-04T11:20:15.979628+00:00",
-    "uid": "83a83f9af0921670d2eb49ff548a4e3054220c0f0bd39cab479ab2bfc6670d53",
-    "description_checked": true
-  },
-  "ddaf7c6e6a7cded1ff3939989558286a897d9319740eb8dbb53b1fbb515e6593": {
-    "source": "Localtis - Jeunesse, éducation et formation",
-    "title": "Accès des enfants au sport : le budget des familles sous tension",
-    "link": "https://www.banquedesterritoires.fr/acces-des-enfants-au-sport-le-budget-des-familles-sous-tension",
-    "description": "La pratique sportive des enfants risque-t-elle d'être sacrifiée, faute de moyens des parents ? Des acteurs du secteur s'inquiètent d'équipements et d'adhésions toujours plus chers, dans un contexte de baisse des aides publiques.",
-    "published": "2026-09-03T12:36:02+00:00",
-    "first_seen": "2026-09-03T21:03:32.974442+00:00",
-    "uid": "ddaf7c6e6a7cded1ff3939989558286a897d9319740eb8dbb53b1fbb515e6593"
-  },
-  "70aa99b69fbd6e9a621904d7fcc19c5ed19a3207a83b69cfd3d5bf4e513c673f": {
-    "source": "Observatoire de la culture",
-    "title": "Pour une éducation retournée par l’art",
-    "link": "https://www.observatoire-culture.net/education-retournee-art/",
-    "description": "Face à des priorités éducatives centrées sur la transmission de connaissances et la réussite professionnelle, l’anthropologue britannique Tim Ingold oppose une éducation fondée sur l’attention. À rebours des postures académiques, il invite à un compagnonnage dans lequel enseignants et élèves chemineraient ensemble dans l’expérience. Un renversement de tendance où l’art prendrait toute sa place : nous apprendre à correspondre avec le monde.",
-    "published": "2026-09-03T07:15:10+00:00",
-    "first_seen": "2026-09-03T11:17:26.904949+00:00",
-    "uid": "70aa99b69fbd6e9a621904d7fcc19c5ed19a3207a83b69cfd3d5bf4e513c673f"
-  },
-  "89ba474c62902cafd0037d971a5ca00bd815322ddbb63038c9c69a8f134f00a8": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Gourdes pour bébé : sont-elles vraiment adaptées à la diversification alimentaire ?",
-    "link": "https://www.lesprosdelapetiteenfance.fr/gourdes-pour-bebe-sont-elles-vraiment-adaptees-a-la-diversification-alimentaire/",
-    "description": "Une étude britannique publiée fin août dans Archives of Disease in Childhood s’est penchée sur la question.",
-    "published": "2026-09-03T08:36:41+00:00",
-    "first_seen": "2026-09-03T11:17:19.129969+00:00",
-    "uid": "89ba474c62902cafd0037d971a5ca00bd815322ddbb63038c9c69a8f134f00a8",
-    "description_checked": true
-  },
-  "1aa411bfb57ec12249c240a03607609742ed49de2e7e3cde3f22e91e1766ca99": {
-    "source": "IGAS",
-    "title": "Addictions : améliorer les parcours de prise en charge",
-    "link": "https://igas.gouv.fr/addictions-ameliorer-les-parcours-de-prise-en-charge",
-    "description": "Pour la première fois depuis la réforme de 2007-2008, l’Inspection générale des affaires sociales dresse un état des lieux du dispositif français de prise en charge des addictions. Toutes addictions et tous publics confondus, avec une attention particulière portée aux jeunes, aux femmes et aux publics en situation de précarité, la mission fait le constat d’un système aux fondamentaux solides mais sous forte tension, malgré l’engagement des professionnels. Elle formule des recommandations pour en",
-    "published": "2026-09-02T07:49:32+00:00",
-    "first_seen": "2026-09-02T16:36:06.017619+00:00",
-    "uid": "1aa411bfb57ec12249c240a03607609742ed49de2e7e3cde3f22e91e1766ca99",
-    "description_checked": true
-  },
-  "67fdedac432e191528ddc7ff17ff4f840712ce4d737df1fcc9c8ad355718fdff": {
-    "source": "Localtis - Jeunesse, éducation et formation",
-    "title": "Financement du GIP France enfance protégée : publication du décret fixant les contributions départementales",
-    "link": "https://www.banquedesterritoires.fr/financement-du-gip-france-enfance-protegee-publication-du-decret-fixant-les-contributions",
-    "description": "Un décret, publié au Journal officiel du 15 août 2026, fixe le montant de la participation de chaque département au groupement d'intérêt public (GIP) \"France enfance protégée\" au titre de l'année 2026. Définies en fonction de l'importance de la population, ces contributions représentent un…",
-    "published": "2026-09-02T11:58:22+00:00",
-    "first_seen": "2026-09-02T16:36:04.272197+00:00",
-    "uid": "67fdedac432e191528ddc7ff17ff4f840712ce4d737df1fcc9c8ad355718fdff"
-  },
-  "fd26d647b7e71712f6c23a5853f3e1686e8e2eb235ecf3ad944e2d70f4fb5298": {
-    "source": "Localtis - Jeunesse, éducation et formation",
-    "title": "Révision des niveaux de prise en charge des contrats d’apprentissage",
-    "link": "https://www.banquedesterritoires.fr/revision-des-niveaux-de-prise-en-charge-des-contrats-dapprentissage",
-    "description": "Plusieurs décrets parus au cours de l’été modifient les règles de financement des contrats d’apprentissage et le niveau d’exigence attendu des organismes de formation.",
-    "published": "2026-09-02T11:48:38+00:00",
-    "first_seen": "2026-09-02T16:36:04.272197+00:00",
-    "uid": "fd26d647b7e71712f6c23a5853f3e1686e8e2eb235ecf3ad944e2d70f4fb5298"
-  },
-  "03a9d1793baff0fa9851934181ac8af0f5f037cda59bd49f03c10e6e0ec2484a": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "AEEH : CAF et MDPH face à de nouvelles obligations de coopération",
-    "link": "https://www.enfancejeunesseinfos.fr/aeeh-caf-et-mdph-face-a-de-nouvelles-obligations-de-cooperation/",
-    "description": "La coordination entre CAF et MDPH se renforce autour de l’AEEH. Un nouveau modèle de convention doit mieux encadrer leurs échanges, harmoniser les pratiques et contribuer à prévenir les ruptures de droits pour les familles.",
-    "published": "2026-08-31T08:41:37+00:00",
-    "first_seen": "2026-09-02T11:20:49.751887+00:00",
-    "uid": "03a9d1793baff0fa9851934181ac8af0f5f037cda59bd49f03c10e6e0ec2484a"
   }
 }

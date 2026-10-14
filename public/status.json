@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T08:46:06.996802+00:00",
+  "generated_at": "2026-10-14T14:32:09.546607+00:00",
   "sites_total": 17,
   "sites_ok": 17,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 17,
-  "merged_items": 582,
+  "new_items": 21,
+  "merged_items": 581,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -95,7 +95,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 18,
+      "items": 21,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
@@ -123,7 +123,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 18,
+      "items": 17,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
@@ -137,7 +137,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 50,
+      "items": 45,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
@@ -167,7 +167,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 6,
+      "items": 7,
       "feed": "c2l-restauration-collective.xml",
       "source_feed": "https://c2lsolutions.fr/feed/?post_type=post",
       "warnings": []
@@ -185,7 +185,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 238 jours (seuil : 60)"
+        "rien de neuf depuis 239 jours (seuil : 60)"
       ]
     },
     {
@@ -225,7 +225,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 39,
+      "items": 40,
       "feed": "igas.xml",
       "source_feed": "https://igas.gouv.fr/rss.xml",
       "warnings": []
@@ -243,7 +243,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 922 jours (seuil : 60)"
+        "rien de neuf depuis 923 jours (seuil : 60)"
       ]
     },
     {
