@@ -1,4 +1,49 @@
 {
+  "749377298411119dc49e20783e26cf5b73ab93de04e71ee0e99190a3c0a2617d": {
+    "source": "CNSA - Actualités",
+    "title": "La CNSA sélectionne 5 nouveaux doctorants pour son programme de recherche « Autonomie, grand âge et handicap »",
+    "link": "https://www.cnsa.fr/actualites/la-cnsa-selectionne-5-nouveaux-doctorants-pour-son-programme-de-recherche-autonomie",
+    "description": "Leurs recherches portent sur les violences vécues par les femmes sourdes, les conséquences de la maladie de Huntington sur les familles, le travail des femmes migrantes auprès des personnes âgées, les transformations des établissements et services d’aide par le travail (ESAT), ainsi que les parcours professionnels des aides-soignantes.",
+    "published": "2026-09-07T09:02:04+00:00",
+    "first_seen": "2026-10-14T19:26:28.731165+00:00",
+    "uid": "749377298411119dc49e20783e26cf5b73ab93de04e71ee0e99190a3c0a2617d"
+  },
+  "45511c8929988b3143160b6710e8f1241085bde6f949f5556f0924f913ab9792": {
+    "source": "Enfance & Jeunesse Infos - Veille juridique",
+    "title": "« Ségur pour tous » : le Conseil d’État donne tort aux départements",
+    "link": "https://www.enfancejeunesseinfos.fr/segur-pour-tous-le-conseil-detat-donne-tort-aux-departements/",
+    "description": "Une dizaine de départements contestaient l’agrément ou l’extension du « Ségur pour tous » dans le secteur sanitaire, social et médico-social privé non lucratif. Le Conseil d’État rejette leurs arguments, notamment sur le coût de la mesure et l’absence de compensation.",
+    "published": "2026-09-02T11:40:17+00:00",
+    "first_seen": "2026-10-14T19:26:17.170757+00:00",
+    "uid": "45511c8929988b3143160b6710e8f1241085bde6f949f5556f0924f913ab9792"
+  },
+  "70aa99b69fbd6e9a621904d7fcc19c5ed19a3207a83b69cfd3d5bf4e513c673f": {
+    "source": "Observatoire de la culture",
+    "title": "Pour une éducation retournée par l’art",
+    "link": "https://www.observatoire-culture.net/education-retournee-art/",
+    "description": "Face à des priorités éducatives centrées sur la transmission de connaissances et la réussite professionnelle, l’anthropologue britannique Tim Ingold oppose une éducation fondée sur l’attention. À rebours des postures académiques, il invite à un compagnonnage dans lequel enseignants et élèves chemineraient ensemble dans l’expérience. Un renversement de tendance où l’art prendrait toute sa place : nous apprendre à correspondre avec le monde.",
+    "published": "2026-09-03T07:15:10+00:00",
+    "first_seen": "2026-10-14T19:26:16.356074+00:00",
+    "uid": "70aa99b69fbd6e9a621904d7fcc19c5ed19a3207a83b69cfd3d5bf4e513c673f"
+  },
+  "1edf165a3ad28a481ba690cd1edffa8a67aad4853d54d70ab900f9a4930da2ec": {
+    "source": "Outre-Mer 360°",
+    "title": "Polynésie : Les élus conviés à Paris « avant la fin de l’année » pour évoquer l’avenir institutionnel du territoire",
+    "link": "https://outremers360.com/bassin-pacifique-appli/polynesie-les-elus-convies-a-paris-avant-la-fin-de-lannee-pour-evoquer-lavenir-institutionnel-du-territoire",
+    "description": "Interrogée par le nouveau sénateur de Polynésie, Édouard Fritch, qui a posé sa première question au gouvernement ce mercredi 14 octobre, la ministre des Outre-mer Naïma Moutchou a annoncé la réunion à Paris, « avant la fin de l’année », des élus...",
+    "published": "2026-10-14T16:06:27+00:00",
+    "first_seen": "2026-10-14T19:26:05.005864+00:00",
+    "uid": "1edf165a3ad28a481ba690cd1edffa8a67aad4853d54d70ab900f9a4930da2ec"
+  },
+  "38f11f2f8064b00afa3f7b6abfa17a1031c40d7abacfcaa859f2722f7e7a84df": {
+    "source": "Outre-Mer 360°",
+    "title": "Flotte fantôme: navigation interdite autour du pétrolier russe en approche de La Réunion",
+    "link": "https://outremers360.com/bassin-indien-appli/flotte-fantome-navigation-interdite-autour-du-petrolier-russe-en-approche-de-la-reunion",
+    "description": "La préfecture de La Réunion a instauré mercredi des périmètres de sécurité interdisant la navigation autour du pétrolier «DF Peak», soupçonné d'appartenir à la «flotte fantôme» russe et attendu dans les prochaines heures en baie de La Possession, dans le...",
+    "published": "2026-10-14T15:41:46+00:00",
+    "first_seen": "2026-10-14T19:26:05.005864+00:00",
+    "uid": "38f11f2f8064b00afa3f7b6abfa17a1031c40d7abacfcaa859f2722f7e7a84df"
+  },
   "5ba205012becb4c6d9ab3a0e587d5cd9a28c20ba7d801448233e1fe469e9a7ae": {
     "source": "IGAS",
     "title": "Mieux accompagner les personnes précaires vieillissantes : état des lieux et propositions",
@@ -9405,51 +9450,5 @@
     "published": "2024-11-20T15:15:28+00:00",
     "first_seen": "2026-09-08T09:56:58.144147+00:00",
     "uid": "884c4761b1c3a81fc4d56ece1194e66c0b0cde8879c5846b9b2306346f4b8816"
-  },
-  "200360c5ea5f8a9c95f2386635b8ad7a75a48e9e7cacdbc06776167060998666": {
-    "source": "SNRC",
-    "title": "[Infographie] – Rentrée des classes: découvrez par le menu le fonctionnement des cantines scolaires",
-    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/infographie-rentree-des-classes-decouvrez-par-le-menu-le-fonctionnement-des-cantines-scolaires/",
-    "description": "En France, des millions d’écoliers, collégiens et lycéens ont fait leur rentrée des classes la semaine dernière. L’occasion pour les entreprises de restauration collective de rappeler l’importance et le mode d’emploi de la restauration scolaire au service des jeunes Français.",
-    "published": "2024-09-11T06:37:07+00:00",
-    "first_seen": "2026-09-08T09:56:58.144147+00:00",
-    "uid": "200360c5ea5f8a9c95f2386635b8ad7a75a48e9e7cacdbc06776167060998666"
-  },
-  "aefd07a71e7df8c672635faa823c58df6ab9b5e8d5f46904dfaaa83c7ac90964": {
-    "source": "SNRC",
-    "title": "Isabelle Aprile au micro d’Alexandre Le mer",
-    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/isabelle-aprile-au-micro-dalexandre-le-mer/",
-    "description": "ALEXANDRE LE MER 06h53, le 03 avril 2024 Isabelle Aprile, présidente du Syndicat National de la Restauration Collective, répond aux questions d’Alexandre Le Mer. Ensemble, ils s’intéressent à la volonté du monde agricole d’accélérer la mise en place de la loi Egalim dans la restauration collective. Pour écouter l’interview",
-    "published": "2024-04-17T09:08:14+00:00",
-    "first_seen": "2026-09-08T09:56:58.144147+00:00",
-    "uid": "aefd07a71e7df8c672635faa823c58df6ab9b5e8d5f46904dfaaa83c7ac90964"
-  },
-  "9a4c7b0207b7310ce1b40b923c1b2f4fbfed0b178cf51903728fe3519e370355": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Les nourrissons nous trompent dès 8 mois !",
-    "link": "https://www.lesprosdelapetiteenfance.fr/les-nourrissons-nous-trompent-des-8-mois/",
-    "description": "Un enfant qui fait semblant de ne pas entendre, cache un objet ou nie avoir fait une bêtise cherche-t-il à tromper son entourage ? Une étude publiée dans Cognitive Development montre que ces comportements apparaissent très tôt et deviennent de plus en plus élaborés au cours des premières années.",
-    "published": "2026-09-08T08:52:09+00:00",
-    "first_seen": "2026-09-08T08:54:48.665456+00:00",
-    "uid": "9a4c7b0207b7310ce1b40b923c1b2f4fbfed0b178cf51903728fe3519e370355",
-    "description_checked": true
-  },
-  "38055ba3985cf48682100d26cc4b6433b86632098e55e5c81a388116db0644d7": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "France enfance protégée : 4,9 millions d’euros de contribution pour les départements en 2026",
-    "link": "https://www.enfancejeunesseinfos.fr/france-enfance-protegee-4-9-millions-deuros-de-contribution-pour-les-departements-en-2026/",
-    "description": "Les départements contribueront à hauteur de 4,9 millions d’euros au financement du groupement d’intérêt public France enfance protégée en 2026. Une enveloppe identique à celle de 2025, répartie selon la population de chaque territoire.",
-    "published": "2026-09-04T07:25:06+00:00",
-    "first_seen": "2026-09-08T08:36:12.070030+00:00",
-    "uid": "38055ba3985cf48682100d26cc4b6433b86632098e55e5c81a388116db0644d7"
-  },
-  "35cf0d0fafdd0dacdc7c7b95e1f7223f3195902db183bc5a0a87660e10a9cfd7": {
-    "source": "Localtis - Jeunesse, éducation et formation",
-    "title": "Crèches : simplification du mode de calcul du nombre de professionnels qualifiés",
-    "link": "https://www.banquedesterritoires.fr/creches-simplification-du-mode-de-calcul-du-nombre-de-professionnels-qualifies",
-    "description": "Pour calculer le nombre de professionnels de catégorie 1 (dont les auxiliaires de puériculture et les éducatrices de jeunes enfants) devant être présents pour encadrer les jeunes enfants accueillis, un coefficient de 0,1 sera désormais appliqué par nombre de places d'accueil autorisé. Le SNPPE salue la simplification mais demande une revalorisation de ce coefficient, pour éviter que cette réforme ne se solde par \"un recul de l’exigence de qualification\".",
-    "published": "2026-09-07T12:22:49+00:00",
-    "first_seen": "2026-09-07T19:10:54.000536+00:00",
-    "uid": "35cf0d0fafdd0dacdc7c7b95e1f7223f3195902db183bc5a0a87660e10a9cfd7"
   }
 }

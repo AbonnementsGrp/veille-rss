@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-14T14:32:09.546607+00:00",
+  "generated_at": "2026-10-14T19:26:36.697440+00:00",
   "sites_total": 17,
-  "sites_ok": 17,
-  "sites_error": 0,
-  "sites_warning": 2,
-  "new_items": 21,
-  "merged_items": 581,
+  "sites_ok": 14,
+  "sites_error": 3,
+  "sites_warning": 1,
+  "new_items": 5,
+  "merged_items": 567,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -123,7 +123,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 17,
+      "items": 16,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
@@ -135,10 +135,11 @@
       "url": "https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation",
       "feed_categories": [],
       "render": false,
-      "status": "ok",
-      "method": "flux officiel",
-      "items": 45,
+      "status": "error",
+      "method": "historique conservé",
+      "items": 39,
       "feed": "localtis-jeunesse-education-formation.xml",
+      "error": "503 Server Error: Service Unavailable for url: https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
     },
@@ -151,7 +152,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 57,
+      "items": 51,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -223,10 +224,11 @@
       "url": "https://igas.gouv.fr/actualites",
       "feed_categories": [],
       "render": false,
-      "status": "ok",
-      "method": "flux officiel",
-      "items": 40,
+      "status": "error",
+      "method": "historique conservé",
+      "items": 39,
       "feed": "igas.xml",
+      "error": "503 Server Error: Service Unavailable for url: https://igas.gouv.fr/actualites",
       "source_feed": "https://igas.gouv.fr/rss.xml",
       "warnings": []
     },
@@ -237,14 +239,13 @@
       "url": "https://www.banquedesterritoires.fr/thematiques/publics-fragiles",
       "feed_categories": [],
       "render": false,
-      "status": "ok",
-      "method": "flux officiel",
+      "status": "error",
+      "method": "historique conservé",
       "items": 20,
       "feed": "localtis-publics-fragiles.xml",
+      "error": "503 Server Error: Service Unavailable for url: https://www.banquedesterritoires.fr/thematiques/publics-fragiles",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
-      "warnings": [
-        "rien de neuf depuis 923 jours (seuil : 60)"
-      ]
+      "warnings": []
     },
     {
       "site": "ADN Tourisme",
