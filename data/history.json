@@ -1,4 +1,65 @@
 {
+  "3d748f259b0cf9af18e853a983625962a6490242fca5bc5a45bdbc2a62629ff8": {
+    "source": "ANAP - Actualités",
+    "title": "Appui terrain – Moins de carbone, plus d’économies",
+    "link": "https://www.anap.fr/s/article/appui-terrain-moins-de-carbone-plus-d-economies",
+    "description": "Et si la transition écologique devenait un levier d’économies pour votre établissement ? L’Anap vous accompagne pendant environ deux mois pour bâtir une feuille de route chiffrée et priorisée, qui conjugue gains financiers et bénéfices environnementaux.",
+    "published": "2026-10-14T08:22:25+00:00",
+    "first_seen": "2026-10-15T04:43:00.001171+00:00",
+    "uid": "3d748f259b0cf9af18e853a983625962a6490242fca5bc5a45bdbc2a62629ff8",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "4b7b45ed008cf445ec90ab6d4d8a6afb7f712472567ec6ff0f8df242c15927b3": {
+    "source": "ANAP - Actualités",
+    "title": "Votre Cockpit DATA Blocs",
+    "link": "https://www.anap.fr/s/article/votre-cockpit-data-blocs-le-nouvel-outil-de-l-anap",
+    "description": "Le nouvel outil de l’Anap qui calcule automatiquement les indicateurs clés de votre bloc opératoire.",
+    "published": "2026-10-14T07:44:06+00:00",
+    "first_seen": "2026-10-15T04:43:00.001171+00:00",
+    "uid": "4b7b45ed008cf445ec90ab6d4d8a6afb7f712472567ec6ff0f8df242c15927b3",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "433844efa299b4e9fcde5927434bb52515b1b471675310f71fe51c8142eef302": {
+    "source": "SNRC",
+    "title": "Découvrez le dossier de presse du sondage exclusif IPSOS « Les Français et les entreprises de la restauration collective »",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/decouvrez-le-dossier-de-presse-du-sondage-exclusif-ipsos-les-francais-et-les-entreprises-de-la-restauration-collective/",
+    "description": "",
+    "published": "2026-02-16T09:02:00+00:00",
+    "first_seen": "2026-10-15T04:42:58.297758+00:00",
+    "uid": "433844efa299b4e9fcde5927434bb52515b1b471675310f71fe51c8142eef302",
+    "description_checked": true
+  },
+  "7ceb501bcb7f6cb6617dee3de5738c8209e47fd3da82913b27926f62f9788c8d": {
+    "source": "SNRC",
+    "title": "La cantine nourrit l’avenir – Investissons ensemble au service d’un modèle d’intérêt général",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/la-cantine-nourrit-lavenir-investissons-ensemble-au-service-dune-modele-dinteret-general/",
+    "description": "À l’approche du Congrès des Maires, les entreprises de la restauration collective prennent la parole pour rappeler les impacts positifs de la cantine et réaffirmer leur rôle de partenaires de confiance aux côtés des maires, pour nos enfants.",
+    "published": "2025-11-16T05:00:44+00:00",
+    "first_seen": "2026-10-15T04:42:58.297758+00:00",
+    "uid": "7ceb501bcb7f6cb6617dee3de5738c8209e47fd3da82913b27926f62f9788c8d"
+  },
+  "9c514efb014dd9c52d754d69baa924bb5982b879c1ca1891189ca47679829271": {
+    "source": "SNRC",
+    "title": "« Mieux manger ensemble pour mieux vivre ensemble ». Les entreprises de la restauration collective entrent en campagne!",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/mieux-manger-ensemble-pour-mieux-vivre-ensemble-les-entreprises-de-la-restauration-collective-entrent-en-campagne/",
+    "description": "À l’occasion de la Journée internationale de la Terre nourricière promue par l’ONU, le Syndicat National de la Restauration Collective (SNRC) lance une campagne de communication inédite, engagée et pédagogique pour rappeler l’utilité publique du modèle de la restauration collective concédée. Une initiative qui porte une conviction forte : investir collectivement dans l’alimentation …",
+    "published": "2025-04-21T06:00:09+00:00",
+    "first_seen": "2026-10-15T04:42:58.297758+00:00",
+    "uid": "9c514efb014dd9c52d754d69baa924bb5982b879c1ca1891189ca47679829271"
+  },
+  "884c4761b1c3a81fc4d56ece1194e66c0b0cde8879c5846b9b2306346f4b8816": {
+    "source": "SNRC",
+    "title": "[Communiqué de presse] – Que feraient des millions de Français sans cantines scolaires ?",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/communique-de-presse-que-feraient-des-millions-de-francais-sans-cantines-scolaires/",
+    "description": "Le Syndicat national de la restauration collective (SNRC) appelle les pouvoirs publics à agir de toute urgence pour préserver un modèle en danger bien qu’au service des Français.",
+    "published": "2024-11-20T15:15:28+00:00",
+    "first_seen": "2026-10-15T04:42:58.297758+00:00",
+    "uid": "884c4761b1c3a81fc4d56ece1194e66c0b0cde8879c5846b9b2306346f4b8816"
+  },
   "200360c5ea5f8a9c95f2386635b8ad7a75a48e9e7cacdbc06776167060998666": {
     "source": "SNRC",
     "title": "[Infographie] – Rentrée des classes: découvrez par le menu le fonctionnement des cantines scolaires",
@@ -2015,7 +2076,7 @@
     "title": "Imagerie : autodiagnostic",
     "link": "https://www.anap.fr/s/article/imagerie-publication-1543",
     "description": "L'autodiagnostic permet aux professionnels des services d'imagerie médicale de réaliser un diagnostic qualitatif de l'organisation et du fonctionnement de leur service d'imagerie médicale.",
-    "published": "2026-10-06T08:05:26+00:00",
+    "published": "2026-10-14T09:50:12+00:00",
     "first_seen": "2026-10-07T06:03:54.084743+00:00",
     "uid": "7622693ac9455094e188851280754463b40f67e10f5b72b72e7169f9f8c703db",
     "description_checked": true,
@@ -9374,78 +9435,6 @@
     "published": "2026-09-07T14:33:12+00:00",
     "first_seen": "2026-09-08T10:30:05.382727+00:00",
     "uid": "c7cc6cb077dd7a2ab774d54a8b09c382f8f2f923d5d04c9361d0d1923d3c0488",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "3dd0eb62f66fc8876767160b92d21fa43f70df89d90d60210866c2715698f323": {
-    "source": "ANAP - Actualités",
-    "title": "Réorienter depuis les urgences : vers la bonne filière de soin",
-    "link": "https://www.anap.fr/s/article/Reorienter-depuis-les-urgences-vers-la-bonne-filiere-de-soin",
-    "description": "La réorientation depuis les urgences consiste à orienter un patient dont l’état ne relève pas de la médecine d’urgence vers le professionnel le plus adapté. Elle permet de préserver la capacité du service d’urgences à prendre en charge les patients dans les situations plus graves et/ou urgentes.",
-    "published": "2026-09-07T07:47:10+00:00",
-    "first_seen": "2026-09-08T10:30:05.382727+00:00",
-    "uid": "3dd0eb62f66fc8876767160b92d21fa43f70df89d90d60210866c2715698f323",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "9e487995a3b4bcee22754ac5809bb54638c3b8223642f2a397da7ea9dca7c1da": {
-    "source": "ANAP - Actualités",
-    "title": "Webconférence – Admission J0 : moins de nuitées, plus de fluidité",
-    "link": "https://www.anap.fr/s/article/Webconf%C3%A9rence-Admission-J0-moins-de-nuitees-plus-de-fluidite",
-    "description": "L’admission le jour même de l'intervention chirurgicale, ou admission J0, est bénéfique pour le patient, l’établissement et les professionnels. Elle peut être mise en place grâce à une organisation adaptée. Comment réussir sa mise en place ? Comment évaluer son potentiel ? Comment embarquer les équipes ?",
-    "published": "2026-10-02T13:43:07+00:00",
-    "first_seen": "2026-09-08T10:30:05.382727+00:00",
-    "uid": "9e487995a3b4bcee22754ac5809bb54638c3b8223642f2a397da7ea9dca7c1da",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "eb5317d0d16ae114cb567c758de876bdcfaea676812c39059af23a2a03e7e5dc": {
-    "source": "ANAP - Actualités",
-    "title": "Laboratoire d’innovation : Un cadre et une méthode pour la transformation de votre établissement",
-    "link": "https://www.anap.fr/s/article/Laboratoire-d-innovation-un-essentiel-pour-transformer-nos-etablissements",
-    "description": "Le laboratoire d’innovation est un outil stratégique au service de la transformation des établissements de santé, à condition d’être clairement positionné et soutenu institutionnellement. Ce guide propose des repères opérationnels pour comprendre le rôle d’un lab d’innovation, définir sa raison d’être, organiser son portage politique, sa gouvernance et ses moyens, et faire des choix réalistes. Il s’adresse aux établissements souhaitant structurer une démarche d’innovation adaptée à leurs priorit",
-    "published": "2026-09-01T13:29:03+00:00",
-    "first_seen": "2026-09-08T10:30:05.382727+00:00",
-    "uid": "eb5317d0d16ae114cb567c758de876bdcfaea676812c39059af23a2a03e7e5dc",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "0e9af53db0a8e266f0e92c16546f7be55ed02ce91d48896b7dfdf285327ac223": {
-    "source": "ANAP - Actualités",
-    "title": "Webinaire : Développement durable et Certification HAS : les outils de l’Anap pour vous aider",
-    "link": "https://www.anap.fr/s/article/Webinaire-D%C3%A9veloppement-durable-et-Certification-HAS-les-outils-de-l-Anap-pour-vous-aider",
-    "description": "Le manuel de certification HAS des établissements sanitaires intègre de nombreux critères et éléments liés au développement durable. Préparez-vous à ces critères grâce aux outils de l’Anap !",
-    "published": "2026-09-09T09:21:19+00:00",
-    "first_seen": "2026-09-08T10:30:05.382727+00:00",
-    "uid": "0e9af53db0a8e266f0e92c16546f7be55ed02ce91d48896b7dfdf285327ac223",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "4635f81c4de9cb90d6b54a7d2833e731db05a2a5ee28bbe2bd34ccd32efd6c28": {
-    "source": "ANAP - Actualités",
-    "title": "Mon empreinte carbone",
-    "link": "https://www.anap.fr/s/article/mon-empreinte-carbone",
-    "description": "Mon Empreinte Carbone est un outil de datavisualisation qui permet d'estimer les émissions de CO² du secteur public de la santé à trois échelles différentes : nationale, régionale, structure juridique (FINESS) des établissements sanitaires et médico-sociaux.",
-    "published": "2026-09-01T08:21:04+00:00",
-    "first_seen": "2026-09-08T10:30:05.382727+00:00",
-    "uid": "4635f81c4de9cb90d6b54a7d2833e731db05a2a5ee28bbe2bd34ccd32efd6c28",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "13c4949541e0ea4771e5d838c068488ae9e9920fd031c6dde6d247fbc54b48fc": {
-    "source": "ANAP - Actualités",
-    "title": "Webinaire \"Évaluez votre empreinte carbone avec l’Anap\"",
-    "link": "https://www.anap.fr/s/article/webinaire-evaluez-votre-empreinte-carbone-avec-l-anap",
-    "description": "L’outil \"Mon Empreinte Carbone\" permet de visualiser, en deux clics, une estimation de vos émissions de CO2. Pour vous accompagner dans la prise en main opérationnelle de cet outil pour les établissements publics et en faire un levier de décarbonation opérationnelle, inscrivez-vous à notre série de webinaires.",
-    "published": "2026-08-31T15:32:48+00:00",
-    "first_seen": "2026-09-08T10:30:05.382727+00:00",
-    "uid": "13c4949541e0ea4771e5d838c068488ae9e9920fd031c6dde6d247fbc54b48fc",
     "description_checked": true,
     "title_checked": true,
     "title_enriched": true

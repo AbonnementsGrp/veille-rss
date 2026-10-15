@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 13 Oct 2026 14:56:04 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 09:50:12 +0000</lastBuildDate>
+    <item>
+      <title>Imagerie : autodiagnostic</title>
+      <link>https://www.anap.fr/s/article/imagerie-publication-1543</link>
+      <description>L'autodiagnostic permet aux professionnels des services d'imagerie médicale de réaliser un diagnostic qualitatif de l'organisation et du fonctionnement de leur service d'imagerie médicale.</description>
+      <guid isPermaLink="false">7622693ac9455094e188851280754463b40f67e10f5b72b72e7169f9f8c703db</guid>
+      <pubDate>Wed, 14 Oct 2026 09:50:12 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appui terrain – Moins de carbone, plus d’économies</title>
+      <link>https://www.anap.fr/s/article/appui-terrain-moins-de-carbone-plus-d-economies</link>
+      <description>Et si la transition écologique devenait un levier d’économies pour votre établissement ? L’Anap vous accompagne pendant environ deux mois pour bâtir une feuille de route chiffrée et priorisée, qui conjugue gains financiers et bénéfices environnementaux.</description>
+      <guid isPermaLink="false">3d748f259b0cf9af18e853a983625962a6490242fca5bc5a45bdbc2a62629ff8</guid>
+      <pubDate>Wed, 14 Oct 2026 08:22:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Votre Cockpit DATA Blocs</title>
+      <link>https://www.anap.fr/s/article/votre-cockpit-data-blocs-le-nouvel-outil-de-l-anap</link>
+      <description>Le nouvel outil de l’Anap qui calcule automatiquement les indicateurs clés de votre bloc opératoire.</description>
+      <guid isPermaLink="false">4b7b45ed008cf445ec90ab6d4d8a6afb7f712472567ec6ff0f8df242c15927b3</guid>
+      <pubDate>Wed, 14 Oct 2026 07:44:06 +0000</pubDate>
+    </item>
     <item>
       <title>Appui terrain : Développer l’hospitalisation de jour en SMR</title>
       <link>https://www.anap.fr/s/article/appui-terrain-hospitalisation-jour-smr-reforme</link>
@@ -134,13 +155,6 @@
       <description>L'Anap propose un autodiagnostic permettant d'évaluer la maturité des établissements sur 5 axes de questionnement avant de s'engager dans la réalisation d'un secteur interventionnel avec guidage par imagerie.</description>
       <guid isPermaLink="false">f356529e9b4de52dd921a095159ec6042216c897f009a5dd9f46efd05f3411b3</guid>
       <pubDate>Tue, 06 Oct 2026 08:05:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Imagerie : autodiagnostic</title>
-      <link>https://www.anap.fr/s/article/imagerie-publication-1543</link>
-      <description>L'autodiagnostic permet aux professionnels des services d'imagerie médicale de réaliser un diagnostic qualitatif de l'organisation et du fonctionnement de leur service d'imagerie médicale.</description>
-      <guid isPermaLink="false">7622693ac9455094e188851280754463b40f67e10f5b72b72e7169f9f8c703db</guid>
-      <pubDate>Tue, 06 Oct 2026 08:05:26 +0000</pubDate>
     </item>
     <item>
       <title>Autodiagnostic des consultations externes</title>
@@ -414,20 +428,6 @@
       <description>Nouvelle version des deux outils d'auto-évaluation en ligne de la performance du circuit des Dispositifs Médicaux Stériles (DMS) et des Dispositifs Médicaux Implantables (DMI) développée en collaboration avec Euro-Pharmat.</description>
       <guid isPermaLink="false">37a16272971534d3a13fd42d66774fc3ddcf1c3eaacdbc89d748969ff3959f20</guid>
       <pubDate>Tue, 06 Oct 2026 07:45:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evaluer le circuit des Médicaments de thérapie Innovante (MTI)</title>
-      <link>https://www.anap.fr/s/article/evaluer-le-circuit-des-medicaments-de-therapie-Innovante-mti</link>
-      <description>Les Médicaments de Thérapie Innovante (MTI) représentent une nouvelle catégorie de médicaments qui révolutionnent la prise en charge de nombreuses pathologies. Cet outil d'autodiagnostic permet d'évaluer et de sécuriser le circuit hospitalier innovant et complexe des MTI.</description>
-      <guid isPermaLink="false">240aa6ce0769aa8332f072185d115ff041f004e69c33bdf1e82bacb924e0d079</guid>
-      <pubDate>Tue, 06 Oct 2026 07:45:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Algorithme pharmaceutique et base de connaissances</title>
-      <link>https://www.anap.fr/s/article/ia-pharma-algorithme-securisation-medicaments</link>
-      <description>Issue de la communauté IA-Pharma, cette production illustre la modélisation d’un algorithme pharmaceutique en situation à risque. Intégré aux SADP, il aide à détecter les problèmes de pharmacothérapie et à prévenir les complications.</description>
-      <guid isPermaLink="false">36e9fa704d530f5a9276f821a1eb09ec3ade58c1ec5137e962afc915f8c6b1af</guid>
-      <pubDate>Tue, 06 Oct 2026 07:44:53 +0000</pubDate>
     </item>
   </channel>
 </rss>
