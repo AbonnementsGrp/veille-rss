@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T04:43:19.294805+00:00",
+  "generated_at": "2026-10-15T11:33:13.573420+00:00",
   "sites_total": 17,
-  "sites_ok": 15,
-  "sites_error": 2,
+  "sites_ok": 16,
+  "sites_error": 1,
   "sites_warning": 2,
-  "new_items": 6,
-  "merged_items": 566,
+  "new_items": 20,
+  "merged_items": 571,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -110,7 +110,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 16,
+      "items": 17,
       "feed": "observatoire-culture.xml",
       "source_feed": "https://www.observatoire-culture.net/feed/",
       "warnings": []
@@ -152,7 +152,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 50,
+      "items": 51,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -186,7 +186,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 239 jours (seuil : 60)"
+        "rien de neuf depuis 240 jours (seuil : 60)"
       ]
     },
     {
@@ -212,7 +212,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 22,
+      "items": 23,
       "feed": "cnsa.xml",
       "source_feed": "https://www.cnsa.fr/flux-rss.xml/article",
       "warnings": []
@@ -224,11 +224,10 @@
       "url": "https://igas.gouv.fr/actualites",
       "feed_categories": [],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
-      "items": 39,
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 40,
       "feed": "igas.xml",
-      "error": "503 Server Error: Service Unavailable for url: https://igas.gouv.fr/actualites",
       "source_feed": "https://igas.gouv.fr/rss.xml",
       "warnings": []
     },
@@ -245,7 +244,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 923 jours (seuil : 60)"
+        "rien de neuf depuis 924 jours (seuil : 60)"
       ]
     },
     {

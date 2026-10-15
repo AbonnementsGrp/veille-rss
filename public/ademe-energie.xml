@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 11 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 14 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Récupération de chaleur fatale chez un industriel de l'agroalimentaire en Maine-et-Loire</title>
+      <link>https://librairie.ademe.fr/energies/9696-recuperation-de-chaleur-fatale-chez-un-industriel-de-l-agroalimentaire-en-maine-et-loire.html</link>
+      <description>Bahier est une entreprise de l’agroalimentaire qui fabrique des produits de charcuterie (boudins/rillettes/produits de tête/salaisons diverses). L’entreprise a souhaité centraliser sa production de froid pour pouvoir en récupérer la chaleur fatale, initialement dispersée sur l’ensemble du site.</description>
+      <guid isPermaLink="false">3a6759d300b0a057226bf63c276f7c6c1a7358b48f9f20d750bb3ea0208ca922</guid>
+      <pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Analyse du potentiel d'électrification des procédés thermiques industriels</title>
+      <link>https://librairie.ademe.fr/industrie-et-production-durable/9697-analyse-du-potentiel-d-electrification-des-procedes-thermiques-industriels.html</link>
+      <description>L’électrification des procédés industriels représente un levier essentiel pour atteindre les objectifs de décarbonation fixés par la Stratégie française énergie‑climat. Alors qu’aujourd’hui près des deux tiers de l’énergie utilisée par l’industrie reposent encore sur des combustibles fossiles, la plupart des trajectoires vers la neutralité carbone envisagent une domination de l’électricité dans le mix énergétique industriel d’ici 2050. Cette étude propose une analyse prospective des potentiels techniques d’électrification. Elle identifie, par secteur et par technologie, les combustibles pouvant être remplacés ainsi que les nouveaux besoins électriques associés. En mettant en lumière ces réalités à l’échelle des procédés et des filières, la publication a pour ambition d’aider les industriels à intégrer pleinement l’électrification comme un outil majeur de décarbonation de leurs activités.</description>
+      <guid isPermaLink="false">fe1d952e3349a675b2da7567ce86f55cc05039bd8a362ec464eb5247fa946ece</guid>
+      <pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Leviers pour accélérer les énergies renouvelables en Bretagne</title>
       <link>https://librairie.ademe.fr/energies/9680-leviers-pour-accelerer-les-energies-renouvelables-en-bretagne.html</link>
@@ -414,20 +428,6 @@
       <description>L’étude vise à comprendre comment les démarches paysagères peuvent accompagner la transition des forêts, des bocages et de la filière bois, dans un contexte de crises écologiques, de tensions d’usage et d’attentes sociétales croissantes. Elle cherche à évaluer leur plus-value opérationnelle, leur rôle de médiation et leur capacité à structurer une dynamique territoriale. L’analyse s’appuie sur une revue de littérature préalable et l’analyse comparative de 9 retours d’expérience (REX) ayant fait l’objet d’une monographie et couvrant un ensemble diversifié de territoires (Bruche, Morvan, Chartreuse, Mézenc, Sainte Baume, Bocage boulonnais, Landes, Marais Poitevin, démarches mises en œuvre par l’Office National des Forêts). Il en ressort que les démarches paysagères interviennent principalement en situation de crise, de mutation ou de controverses (ex : controverses sur les modalités de coupes, déprise agricole, crise sanitaire, incendies). Elles permettent d’améliorer l’acceptabilité des pratiques forestières et de gestion du bocage, d’ouvrir un espace de médiation entre acteurs, et de produire une lecture transversale et spatialisée des territoires en dépassant les approches sectorielles et en croisant les aspects sociaux et écologiques. Elles contribuent également à établir des constats partagés et à construire un langage commun entre les parties prenantes. Ces démarches favorisent par ailleurs la diversification des pratiques sylvicoles et soutiennent une reterritorialisation des usages du bois via des projets connexes (chaufferies, filières de bois d’œuvre locales, actions pédagogiques). Toutefois, elles interviennent peu sur l’aval économique de la filière (transformation, marchés). Les retours d’expérience montrent que les démarches paysagères peuvent constituent un</description>
       <guid isPermaLink="false">75b46287b50c13d6e8c87b0d0305b559aed9586d0fb88909a05be61af37bc9f0</guid>
       <pubDate>Sun, 12 Apr 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Plateforme de stockage de plaquettes bois énergie. Plateforme de Saramon (32)</title>
-      <link>https://librairie.ademe.fr/energies/9286-plateforme-de-stockage-de-plaquettes-bois-energie-plateforme-de-saramon-32.html</link>
-      <description>Le Département du Gers a mis en place en 2019 une plateforme de stockage de plaquettes bois énergie sur la commune de Saramon. Cette unité permet d’une part, le stockage et le séchage de plaquettes bois à destination des chaufferies bois des collèges, et d’autre part, de produire de l’électricité à partir de panneaux solaires photovoltaïques positionnés sur la toiture de la plateforme. Cette fiche détaille les caractéristiques techniques et financières de l’installation et apporte le témoignage de la collectivité.</description>
-      <guid isPermaLink="false">3a40f5a6b40a969b42641452e7b0206e05dcc222654a1e4a0b067f52f764761a</guid>
-      <pubDate>Wed, 08 Apr 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Observatoire des batteries stationnaires</title>
-      <link>https://librairie.ademe.fr/energies/9279-observatoire-des-batteries-stationnaires.html</link>
-      <description>L’observatoire des batteries stationnaires a consisté à récolter des informations sur les caractéristiques des stockages existants et futurs en France hexagonale et à analyser les données de leur fonctionnement sur l’année 2024. La filière des batteries stationnaires est relativement nouvelle sur le territoire mais se développe très rapidement, en lien avec les besoins du système électrique. Dans ce contexte, la DGEC, la CRE, les gestionnaires de réseaux (RTE et Enedis), l’ATEE et l’ADEME se sont associés pour conduire une collecte de données auprès du parc existant et en projet, dans le but d’avoir une meilleure connaissance opérationnelle de cette filière émergente mais dont la croissance est rapide. Cette restitution publique est l’occasion de présenter une partie agrégée de l’observatoire, sous forme de huit indicateurs détaillant le parc de batteries lithium-ion stationnaires raccordées en moyenne et haute tension. Le jeu d’acteur 2025 des développeurs batterie est également mis en lumière. L’édition 2025 de l’observatoire est la première occurrence et a vocation à être réitérée pour suivre le développement de la filière par le biais d’indicateurs spécifiques.</description>
-      <guid isPermaLink="false">8ad1a63311d06271ff150343123eef79236de7cb2456766911308da37422f143</guid>
-      <pubDate>Thu, 02 Apr 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
