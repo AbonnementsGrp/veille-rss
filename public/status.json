@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T17:03:58.490358+00:00",
+  "generated_at": "2026-10-15T21:25:38.066800+00:00",
   "sites_total": 17,
   "sites_ok": 17,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 15,
-  "merged_items": 570,
+  "new_items": 3,
+  "merged_items": 566,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -137,7 +137,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 37,
+      "items": 35,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
@@ -151,7 +151,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 51,
+      "items": 49,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []

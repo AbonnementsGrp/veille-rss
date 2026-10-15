@@ -1,4 +1,34 @@
 {
+  "f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5": {
+    "source": "ANAP - Actualités",
+    "title": "Journée nationale de la transfo - Handicap : des intentions à l'action !",
+    "link": "https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap",
+    "description": "La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.",
+    "published": "2026-10-12T08:08:20+00:00",
+    "first_seen": "2026-10-15T21:25:27.195033+00:00",
+    "uid": "f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "57201da160a9791e518178a80ec171ab718cee6b9e88d2acf48f01cdffd7371a": {
+    "source": "Enfance & Jeunesse Infos - Veille juridique",
+    "title": "Mineur isolé en zone d'attente : sans administrateur ad hoc, la procédure est viciée",
+    "link": "https://www.enfancejeunesseinfos.fr/mineur-isole-en-zone-dattente-sans-administrateur-ad-hoc-la-procedure-est-viciee/",
+    "description": "Un mineur isolé maintenu à la frontière peut-il rester sans administrateur ad hoc au seul motif qu'aucun n'est disponible ? La Cour de cassation se prononce sur cette question très concrète et précise jusqu'où s'impose cette garantie de protection.",
+    "published": "2026-09-09T08:17:41+00:00",
+    "first_seen": "2026-10-15T21:25:19.551868+00:00",
+    "uid": "57201da160a9791e518178a80ec171ab718cee6b9e88d2acf48f01cdffd7371a"
+  },
+  "b64d9b1ccd25afcb64b320a72b779b95a3e03b23ae0d0198614ce4e24f2d53a2": {
+    "source": "Observatoire de la culture",
+    "title": "Radios associatives : faire média, faire territoire, faire commun",
+    "link": "https://www.observatoire-culture.net/radios-associatives-media-territoire-commun/",
+    "description": "Médias de « proximité », les radios associatives ne se résument pas à leur ancrage territorial : elles donnent voix à des paroles peu représentées, invitent chacun à participer à la fabrication de l’information et font se rencontrer culture, éducation et vie associative. Une contribution à la démocratie locale qui contraste avec la fragilité économique du secteur et des libertés associatives sous pression.",
+    "published": "2026-09-10T08:42:23+00:00",
+    "first_seen": "2026-10-15T21:25:19.059414+00:00",
+    "uid": "b64d9b1ccd25afcb64b320a72b779b95a3e03b23ae0d0198614ce4e24f2d53a2"
+  },
   "db7eba4c04063988205ac5645595da42c812c27e5bffc996e53e3f957b868bda": {
     "source": "ADN Tourisme",
     "title": "Les visages d’ADN Tourisme : Solène Forest",
@@ -9365,32 +9395,5 @@
     "first_seen": "2026-09-14T12:51:33.556852+00:00",
     "uid": "f65a08b9889c6a5e9587e6affa59ccbae5113544db97d813acf18d02d020cb57",
     "description_checked": true
-  },
-  "12b6839766629e6f66f390cdb88fe1cd7d5c747ee4f8b3af33f5167a59e14cc7": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "Prévenir avant de protéger : les priorités des prochains schémas départementaux des services aux familles",
-    "link": "https://www.enfancejeunesseinfos.fr/prevenir-avant-de-proteger-les-priorites-des-prochains-schemas-departementaux-des-services-aux-familles/",
-    "description": "L'instruction du 31 août 2026 place la prévention au premier rang des schémas départementaux des services aux familles renouvelés en 2026 et 2027. Sa cible : repérer et accompagner les familles bien avant qu'une mesure de protection de l'enfance ne s'impose.",
-    "published": "2026-09-11T09:14:21+00:00",
-    "first_seen": "2026-09-14T12:51:29.839935+00:00",
-    "uid": "12b6839766629e6f66f390cdb88fe1cd7d5c747ee4f8b3af33f5167a59e14cc7"
-  },
-  "894d8d622f358332f7d6f6c56cb1cf26aa60952054f6386d51928a114e541f32": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "Résidence alternée : la CAF ne peut réserver le CMG à un seul parent",
-    "link": "https://www.enfancejeunesseinfos.fr/residence-alternee-la-caf-ne-peut-reserver-le-cmg-a-un-seul-parent/",
-    "description": "Quand l’enfant partage réellement son temps entre deux foyers, chacun peut avoir des frais de garde. La Cour de cassation juge que la CAF doit étudier les droits des deux parents, même si le CMG est déjà versé à l’un d’eux.",
-    "published": "2026-09-10T17:22:02+00:00",
-    "first_seen": "2026-09-14T12:51:29.839935+00:00",
-    "uid": "894d8d622f358332f7d6f6c56cb1cf26aa60952054f6386d51928a114e541f32"
-  },
-  "fdf5f506d41401e2a6a66819d42c0786094201fd91ebaf1a00623116042f9dab": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "Détention provisoire d'un mineur accusé de crime : la Cour de cassation précise les effets de l'abrogation",
-    "link": "https://www.enfancejeunesseinfos.fr/detention-provisoire-dun-mineur-accuse-de-crime-la-cour-de-cassation-precise-les-effets-de-labrogation/",
-    "description": "Un mineur d'au moins 16 ans, maintenu en détention avant le 1ᵉʳ juillet 2026 après son renvoi devant une cour d'assises des mineurs, doit-il être libéré après l'abrogation du texte qui fondait cette mesure ? La Cour de cassation répond non.",
-    "published": "2026-09-02T06:29:59+00:00",
-    "first_seen": "2026-09-12T15:33:44.083403+00:00",
-    "uid": "fdf5f506d41401e2a6a66819d42c0786094201fd91ebaf1a00623116042f9dab"
   }
 }
