@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-15T11:33:13.573420+00:00",
+  "generated_at": "2026-10-15T17:03:58.490358+00:00",
   "sites_total": 17,
-  "sites_ok": 16,
-  "sites_error": 1,
+  "sites_ok": 17,
+  "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 20,
-  "merged_items": 571,
+  "new_items": 15,
+  "merged_items": 570,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -93,11 +93,10 @@
       "url": "https://ofb.gouv.fr/actualites",
       "feed_categories": [],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
+      "status": "ok",
+      "method": "flux officiel",
       "items": 21,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
-      "error": "403 Client Error: Forbidden for url: https://ofb.gouv.fr/actualites",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
     },
@@ -138,7 +137,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 39,
+      "items": 37,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
@@ -212,7 +211,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 23,
+      "items": 24,
       "feed": "cnsa.xml",
       "source_feed": "https://www.cnsa.fr/flux-rss.xml/article",
       "warnings": []

@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 15 Oct 2026 09:32:39 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:50:10 +0000</lastBuildDate>
+    <item>
+      <title>« Nous demandons urgemment un moyen pour recouvrir nos salaires impayés » : des assistantes maternelles interpellent la ministre</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/nous-demandons-urgemment-un-moyen-pour-recouvrir-nos-salaires-impayes-des-assistantes-maternelles-interpellent-la-ministre/</link>
+      <description>Obtenir gain de cause aux prud’hommes sans parvenir à récupérer les créances : c’est la situation dénoncée par un collectif d’assistantes maternelles dans une lettre envoyée lundi à la ministre de la Santé et des Familles.</description>
+      <guid isPermaLink="false">feb4c85b2d67f557e704954f27b474eb13efdbaa14404a4bae35fa1a9a09080f</guid>
+      <pubDate>Thu, 15 Oct 2026 15:50:10 +0000</pubDate>
+    </item>
+    <item>
+      <title>Jeux, lecture, échanges : quel impact sur le cerveau des tout-petits ?</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/jeux-lecture-echanges-quel-impact-sur-le-cerveau-des-tout-petits/</link>
+      <description>Une récente étude met en évidence l'importance des interactions adultes/ enfants notamment dans la lecture ou le jeu partagés.</description>
+      <guid isPermaLink="false">4157f48b95b8121bb8fca0abc421ab118fd977d5eeb71a70b129ce250c4cd341</guid>
+      <pubDate>Thu, 15 Oct 2026 15:32:14 +0000</pubDate>
+    </item>
     <item>
       <title>Laits de croissance Auchan et Bio Village Bébé : des lots rappelés par précaution</title>
       <link>https://www.lesprosdelapetiteenfance.fr/laits-de-croissance-auchan-et-bio-village-bebe-des-lots-rappeles-par-precaution/</link>
@@ -351,20 +365,6 @@
       <description>La FFEC alerte, dans un communiqué publié ce jour, sur la situation économique difficile que connaissent les crèches et microcrèches de tous statuts en France.</description>
       <guid isPermaLink="false">df8c6341b31b641815770758ce1b0e8f041922ffffd93c1622aba5d637eb25c7</guid>
       <pubDate>Thu, 10 Sep 2026 14:28:13 +0000</pubDate>
-    </item>
-    <item>
-      <title>« Les bébés ne sont pas des variables d’ajustement de PISA » : le SNPPE répond à la proposition de Bruno Le Maire de scolariser les enfants dès un an</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/les-bebes-ne-sont-pas-des-variables-dajustement-de-pisa-le-snppe-repond-a-bruno-le-maire/</link>
-      <description>Au lendemain de la publication des résultats de l’enquête PISA 2025, dans une interview sur CNEWS, Bruno Le Maire a proposé d’avancer l’entrée à l’école maternelle de trois ans à un an. La proposition a déclenché la colère du Syndicat national des professionnel·les de la petite enfance (SNPPE).</description>
-      <guid isPermaLink="false">45b26c2be5a4ec8d867890b6bfddd8de1077dc14a07186c2cc904ee17406cf96</guid>
-      <pubDate>Wed, 09 Sep 2026 15:10:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>ARPEDA : l’UNSA ProAssmat demande à la ministre le retrait ou la révision profonde du dispositif</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/arpeda-face-aux-inquietudes-lunsa-pro-assmat-demande-a-la-ministre-le-retrait-ou-la-revision-profonde-du-dispositif/</link>
-      <description>Dans un courrier adressé à Stéphanie Rist, ministre des Familles, ce 8 septembre, l’UNSA Pro Assmat &amp; AssFam demande de reconsidérer les dispositions relatives à ARPEDA (Accompagnement renforcé des parents employeurs pour leurs démarches administratives ), mission expérimentée dans plusieurs RPE à partir de ce mois de septembre.</description>
-      <guid isPermaLink="false">9e1d3a2c3a9d0d1228f5a496f1211e0f900b40125e8d07b5c0e4af100679f55a</guid>
-      <pubDate>Tue, 08 Sep 2026 10:41:34 +0000</pubDate>
     </item>
   </channel>
 </rss>
