@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 15 Oct 2026 15:50:10 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 16 Oct 2026 08:28:43 +0000</lastBuildDate>
+    <item>
+      <title>« Repérer, accueillir la parole et transmettre » : Sarah El Haïry publie un guide pour mieux repérer les violences faites aux enfants</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/reperer-accueillir-la-parole-et-transmettre-sarah-el-hairy-publie-pour-mieux-reperer-les-violences-faites-aux-enfants/</link>
+      <description>Destiné aux professionnels qui accompagnent les enfants, notamment dans la petite enfance, il propose des repères pour identifier les situations préoccupantes, accueillir les paroles et passer le relais aux bon interlocuteurs.</description>
+      <guid isPermaLink="false">8a9eb466a299b19741227d2f9d543361199dd6a92988f493a1e7650cf1f69c06</guid>
+      <pubDate>Fri, 16 Oct 2026 08:28:43 +0000</pubDate>
+    </item>
     <item>
       <title>« Nous demandons urgemment un moyen pour recouvrir nos salaires impayés » : des assistantes maternelles interpellent la ministre</title>
       <link>https://www.lesprosdelapetiteenfance.fr/nous-demandons-urgemment-un-moyen-pour-recouvrir-nos-salaires-impayes-des-assistantes-maternelles-interpellent-la-ministre/</link>
@@ -337,20 +344,6 @@
       <description>Dès l’âge de 6 mois, les bébés semblent déjà avoir une idée assez précise de la manière dont un adulte devrait réagir face aux pleurs d’un nourrisson. Une étude menée...</description>
       <guid isPermaLink="false">5da8ad5c62af106fab53073b2b7109e7a820fec4ec766d81f17f08aa003a39b3</guid>
       <pubDate>Tue, 15 Sep 2026 10:31:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Manifestation du 8 octobre : Pas de bébés à la consigne appelle les parents à se mobiliser</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/les-gouvernements-successifs-ont-sciemment-remis-en-cause-la-qualite-daccueil-de-vos-enfants-pas-de-bebes-a-la-consigne-appelle-les-parents-a-manifester-le-8-octobre/</link>
-      <description>Dans une lettre publiée ce 14 septembre, le collectif « Pas de bébés à la consigne » invite les parents à participer, aux côtés des professionnels, à la journée de manifestation nationale le 8 octobre.</description>
-      <guid isPermaLink="false">77a84ad861cd962c26c179a2f5899e6193189ac9003786f2748b6897dd7fa26e</guid>
-      <pubDate>Mon, 14 Sep 2026 15:17:20 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bronchiolite : la campagne de vaccination 2026-2027 en 10 questions</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/bronchiolite-la-campagne-de-vaccination-2026-2027-en-10-questions/</link>
-      <description>La campagne de prévention des infections au virus respiratoire syncytial (VRS), responsable notamment de la bronchiolite, débute ce 14 septembre en France métropolitaine.</description>
-      <guid isPermaLink="false">f65a08b9889c6a5e9587e6affa59ccbae5113544db97d813acf18d02d020cb57</guid>
-      <pubDate>Mon, 14 Sep 2026 12:29:09 +0000</pubDate>
     </item>
   </channel>
 </rss>

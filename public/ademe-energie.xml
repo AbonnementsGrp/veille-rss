@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 14 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Chaufferie géothermique sur sondes. Mairie, salle des fêtes et école. Commune de Bourret (82)</title>
+      <link>https://librairie.ademe.fr/energies/9707-chaufferie-geothermique-sur-sondes-mairie-salle-des-fetes-et-ecole-commune-de-bourret-82.html</link>
+      <description>Dans le cadre de son projet de rénovation énergétique, la Commune de Bourret (82) a engagé l’installation d’une solution géothermique, couplée à des panneaux photovoltaïques, pour le chauffage et le rafraîchissement de l’école et du bâtiment mairie-salle des fêtes. Les sondes géothermiques, associées à deux pompes à chaleur, permettent d’extraire l’énergie du sous-sol pour assurer le chauffage en hiver et le rafraîchissement en été. Le bâtiment regroupant la mairie et la salle des fêtes, datant des années 1980, a bénéficié d’une rénovation énergétique complète. Le système de ventilation a également été remplacé avec la mise en place d’une centrale de traitement d’air double-flux, permettant de réduire les consommations énergétiques liées au chauffage. Au-delà des performances énergétiques, ce projet répond également à un enjeu de résilience climatique. La salle des fêtes, désormais rafraîchie par géothermie, pourra servir de lieu d’accueil pour les habitants lors des épisodes de canicule (ou de fortes chaleurs). Cette fiche apporte les données clés du projet (coût, caractéristiques techniques…) et le témoignage du maire de la commune.</description>
+      <guid isPermaLink="false">36b8a9b72c9aa7d50860ef6bb0a919ad51685fed066c696969325925615885f3</guid>
+      <pubDate>Thu, 15 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Récupération de chaleur fatale chez un industriel de l'agroalimentaire en Maine-et-Loire</title>
       <link>https://librairie.ademe.fr/energies/9696-recuperation-de-chaleur-fatale-chez-un-industriel-de-l-agroalimentaire-en-maine-et-loire.html</link>
@@ -420,13 +427,6 @@
       <link>https://librairie.ademe.fr/changement-climatique/9293-elus-pour-agir-2026.html</link>
       <description>Sous l’égide des ministères chargés de la Transition écologique et de l’Énergie, l’ADEME anime un réseau unique d’élus qui agissent en faveur de la transition écologique dans chaque commune, chaque intercommunalité de France et à l’échelle de chaque région. Rejoignez-nous pour mieux décrypter la transition écologique, mieux connaître les acteurs et les outils et accéder aux meilleurs experts.</description>
       <guid isPermaLink="false">9193c7ab5aac09de2a616f8d3c72d0d2aba13d4724b24f8766c656737bafd5b8</guid>
-      <pubDate>Tue, 14 Apr 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Géothermie de surface : une énergie performante et durable pour les entreprises</title>
-      <link>https://librairie.ademe.fr/energies/9294-geothermie-de-surface-une-energie-performante-et-durable-pour-les-entreprises-9782715927865.html</link>
-      <description>Dans la collection "5 bonnes raisons de choisir la géothermie de surface", l’ADEME, le BRGM et leurs partenaires (l’AFPG, Association française des professionnels de la géothermie, le SER, Syndicat des énergies renouvelables, la CPME, Confédération des PME et l’EPE, Entreprises pour l’Environnement) proposent la brochure "Géothermie de surface : une énergie performante et durable pour les entreprises". L’augmentation des prix de l’énergie et la prise de conscience d’un besoin d’indépendance énergétique accru changent aujourd’hui la donne. La transition énergétique ne constitue pas seulement une nécessité écologique, elle est également un impératif économique et stratégique. Les entreprises, quelle que soit leur taille ou secteur d’activité, sont au cœur de ces réalités qui les impactent et sur lesquelles elles disposent également de leviers. La géothermie, énergie performante, durable, locale, disponible 24h/24, quelles que soient les conditions météorologiques, sur presque tout le territoire, peut répondre à ces enjeux. Ainsi choisir la géothermie pour une entreprise, c’est : 1. Maîtriser sa facture énergétique 2. Améliorer son bilan carbone 3. Faire du chaud et du froid avec un même équipement 4. Choisir une énergie qui s’intègre harmonieusement 5. S'offrir la possibilité d'une installation nouvelle génération Cette brochure a donc pour objectif de partager les expériences des acteurs de ce secteur et d'en inspirer d’autres.</description>
-      <guid isPermaLink="false">b23bca5888d9dc5c26e0fb9c449a8e1fe8d09a2ade75b203f0c09b7eeb46abbf</guid>
       <pubDate>Tue, 14 Apr 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
