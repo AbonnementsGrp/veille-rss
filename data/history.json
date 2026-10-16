@@ -1,4 +1,67 @@
 {
+  "43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446": {
+    "source": "ANAP - Actualités",
+    "title": "Performance sans frontière : les voyages d’études de l’Anap",
+    "link": "https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes",
+    "description": "Espagne, Hollande, Belgique, Allemagne… Embarquez pour des séjours immersifs au sein des établissements européens les plus performants ! Échangez, inspirez-vous des systèmes de soins étrangers, découvrez les solutions de demain, explorez les enjeux de la performance sous un nouvel angle.",
+    "published": "2026-10-15T15:48:17+00:00",
+    "first_seen": "2026-10-16T04:35:15.847762+00:00",
+    "uid": "43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "ffb2062ac52e6ae290cef21d9eabd69be369a6cca4aaf4b9339ae457f125462a": {
+    "source": "ANAP - Actualités",
+    "title": "Transition écologique : jusqu’à 1,5 million d’euros d’économies par an pour un hôpital",
+    "link": "https://www.anap.fr/s/article/transition-ecologique-jusqu-a-1-5-million-d-euros-d-economies-par-an-pour-un-hopital",
+    "description": "L’Anap lance un accompagnement collectif et met à disposition une infographie et une plateforme de financements pour aider les établissements à réduire leurs dépenses et leurs émissions.",
+    "published": "2026-10-15T13:43:03+00:00",
+    "first_seen": "2026-10-16T04:35:15.847762+00:00",
+    "uid": "ffb2062ac52e6ae290cef21d9eabd69be369a6cca4aaf4b9339ae457f125462a",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "dafc3330d685d30e5480cbb7fe5f49ec75195c23e6b58ae71f56a5994cfdcd1f": {
+    "source": "ANAP - Actualités",
+    "title": "Performance des SMR : Plateaux techniques, ambulatoire, réadaptation à domicile",
+    "link": "https://www.anap.fr/s/article/performance-des-smr-plateaux-techniques-ambulatoire-readaptation-a-domicile",
+    "description": "L’Anap renforce son action avec trois nouveaux guides, un autodiagnostic et un appui terrain.",
+    "published": "2026-10-15T13:42:21+00:00",
+    "first_seen": "2026-10-16T04:35:15.847762+00:00",
+    "uid": "dafc3330d685d30e5480cbb7fe5f49ec75195c23e6b58ae71f56a5994cfdcd1f",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "12b6839766629e6f66f390cdb88fe1cd7d5c747ee4f8b3af33f5167a59e14cc7": {
+    "source": "Enfance & Jeunesse Infos - Veille juridique",
+    "title": "Prévenir avant de protéger : les priorités des prochains schémas départementaux des services aux familles",
+    "link": "https://www.enfancejeunesseinfos.fr/prevenir-avant-de-proteger-les-priorites-des-prochains-schemas-departementaux-des-services-aux-familles/",
+    "description": "L'instruction du 31 août 2026 place la prévention au premier rang des schémas départementaux des services aux familles renouvelés en 2026 et 2027. Sa cible : repérer et accompagner les familles bien avant qu'une mesure de protection de l'enfance ne s'impose.",
+    "published": "2026-09-11T09:14:21+00:00",
+    "first_seen": "2026-10-16T04:35:06.734651+00:00",
+    "uid": "12b6839766629e6f66f390cdb88fe1cd7d5c747ee4f8b3af33f5167a59e14cc7"
+  },
+  "894d8d622f358332f7d6f6c56cb1cf26aa60952054f6386d51928a114e541f32": {
+    "source": "Enfance & Jeunesse Infos - Veille juridique",
+    "title": "Résidence alternée : la CAF ne peut réserver le CMG à un seul parent",
+    "link": "https://www.enfancejeunesseinfos.fr/residence-alternee-la-caf-ne-peut-reserver-le-cmg-a-un-seul-parent/",
+    "description": "Quand l’enfant partage réellement son temps entre deux foyers, chacun peut avoir des frais de garde. La Cour de cassation juge que la CAF doit étudier les droits des deux parents, même si le CMG est déjà versé à l’un d’eux.",
+    "published": "2026-09-10T17:22:02+00:00",
+    "first_seen": "2026-10-16T04:35:06.734651+00:00",
+    "uid": "894d8d622f358332f7d6f6c56cb1cf26aa60952054f6386d51928a114e541f32"
+  },
+  "fdf5f506d41401e2a6a66819d42c0786094201fd91ebaf1a00623116042f9dab": {
+    "source": "Enfance & Jeunesse Infos - Veille juridique",
+    "title": "Détention provisoire d'un mineur accusé de crime : la Cour de cassation précise les effets de l'abrogation",
+    "link": "https://www.enfancejeunesseinfos.fr/detention-provisoire-dun-mineur-accuse-de-crime-la-cour-de-cassation-precise-les-effets-de-labrogation/",
+    "description": "Un mineur d'au moins 16 ans, maintenu en détention avant le 1ᵉʳ juillet 2026 après son renvoi devant une cour d'assises des mineurs, doit-il être libéré après l'abrogation du texte qui fondait cette mesure ? La Cour de cassation répond non.",
+    "published": "2026-09-02T06:29:59+00:00",
+    "first_seen": "2026-10-16T04:35:06.734651+00:00",
+    "uid": "fdf5f506d41401e2a6a66819d42c0786094201fd91ebaf1a00623116042f9dab"
+  },
   "f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5": {
     "source": "ANAP - Actualités",
     "title": "Journée nationale de la transfo - Handicap : des intentions à l'action !",
@@ -1488,7 +1551,7 @@
     "title": "3 minutes Planning : automatisez la production de vos plannings !",
     "link": "https://www.anap.fr/s/article/3-minutes-planning-automatisez-la-production-de-vos-plannings",
     "description": "3 minutes Planning, l'outil gratuit de l'Anap qui génère des cycles de travail conformes pour libérer du temps d'encadrement.",
-    "published": "2026-10-13T09:52:31+00:00",
+    "published": "2026-10-15T13:46:17+00:00",
     "first_seen": "2026-10-10T09:53:20.124070+00:00",
     "uid": "72d505affd97bef50c31a58217fe90ce1ae97c647e5083a18c458fc281eec77d",
     "description_checked": true,
@@ -3130,7 +3193,7 @@
     "title": "Ehpad vert : autonomie énergétique, adaptation climatique, performance économique",
     "link": "https://www.anap.fr/s/article/ehpad-vert-autonomie-energetique-adaptation-climatique-performance-economique",
     "description": "L’Anap conçoit le première modèle d’Ehpad autonome en énergie et un simulateur pour s’adapter aux canicules.",
-    "published": "2026-10-05T13:26:32+00:00",
+    "published": "2026-10-15T13:41:13+00:00",
     "first_seen": "2026-10-06T06:25:02.211678+00:00",
     "uid": "cee6ca8707f2cbc8456448e7c6f1768cd699e048520dfe40001c580d8a28efd5",
     "description_checked": true,
@@ -6537,7 +6600,7 @@
     "title": "Appel à projets : Achats innovants dans les établissements de santé",
     "link": "https://www.anap.fr/s/article/appel-a-projets-achats-innovants",
     "description": "En partenariat avec l'Agence de l'innovation en santé (AIS) et la Direction générale de l'offre de soins (DGOS), l’Anap lance un appel à projets pour accélérer l'adoption d’innovations matures dans les établissements sanitaires et structures médico-sociales via la commande publique.",
-    "published": "2026-09-29T07:18:10+00:00",
+    "published": "2026-10-15T13:43:49+00:00",
     "first_seen": "2026-09-30T05:35:35.631100+00:00",
     "uid": "2dc9d256247110e3f2cadb17ac0e451d584559585150cd399f9be2f4bda8dcc3",
     "description_checked": true,
@@ -6867,7 +6930,7 @@
     "title": "Réformer l'offre de soins : ce que l'Europe nous dit",
     "link": "https://www.anap.fr/s/article/reformer-l-offre-de-soins-ce-que-l-europe-nous-dit",
     "description": "Au cours des vingt dernières années, de nombreux pays européens ont engagé des réformes d’ampleur de leur système de santé. L’Anap a étudié les réformes menées dans 6 pays européens pour en comprendre les tenants et aboutissants",
-    "published": "2026-09-28T13:51:19+00:00",
+    "published": "2026-10-15T13:46:57+00:00",
     "first_seen": "2026-09-29T01:02:14.037472+00:00",
     "uid": "4a41941a2245b158758c575dff8ed523f0e6933fd33f04fb37ce6ecf0a06a4eb",
     "description_checked": true,
@@ -9338,62 +9401,5 @@
     "published": "2026-09-10T08:31:15+00:00",
     "first_seen": "2026-09-15T09:50:17.509052+00:00",
     "uid": "7633931d9542a25ff9851a17efa217957f0ffc66e9dddbf35d7f936612da7c76"
-  },
-  "307e6a25cc9930d40896204c6643464e680bdfbc754aca5e867abbe9ea663b97": {
-    "source": "Outre-Mer 360°",
-    "title": "Vie chère : Un Observatoire des prix annoncé en Polynésie pour décembre 2026",
-    "link": "https://outremers360.com/bassin-pacifique-appli/vie-chere-un-observatoire-des-prix-annonce-en-polynesie-pour-decembre-2026",
-    "description": "L'Observatoire des prix, plateforme numérique destinée à permettre aux consommateurs de comparer facilement les prix pratiqués dans les commerces de Polynésie, devrait être officiellement lancé en fin d'année, révèle le compte-rendu du conseil des ministres du...",
-    "published": "2026-09-10T08:22:17+00:00",
-    "first_seen": "2026-09-15T09:50:17.509052+00:00",
-    "uid": "307e6a25cc9930d40896204c6643464e680bdfbc754aca5e867abbe9ea663b97"
-  },
-  "65233be35587df1cc690de961c7bec4e00bebfdec43acf4cd38790b34ed814cb": {
-    "source": "ADN Tourisme",
-    "title": "Un guide pour identifier les financements européens dans le tourisme",
-    "link": "https://www.adn-tourisme.fr/financements-europeens-tourisme/",
-    "description": "Ce document a été conçu par la direction générale des Entreprises, en partenariat avec l’ANCT, CCI France et ADN Tourisme.",
-    "published": "2026-09-14T14:28:19+00:00",
-    "first_seen": "2026-09-14T19:51:52.499712+00:00",
-    "uid": "65233be35587df1cc690de961c7bec4e00bebfdec43acf4cd38790b34ed814cb",
-    "description_checked": true
-  },
-  "77a84ad861cd962c26c179a2f5899e6193189ac9003786f2748b6897dd7fa26e": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Manifestation du 8 octobre : Pas de bébés à la consigne appelle les parents à se mobiliser",
-    "link": "https://www.lesprosdelapetiteenfance.fr/les-gouvernements-successifs-ont-sciemment-remis-en-cause-la-qualite-daccueil-de-vos-enfants-pas-de-bebes-a-la-consigne-appelle-les-parents-a-manifester-le-8-octobre/",
-    "description": "Dans une lettre publiée ce 14 septembre, le collectif « Pas de bébés à la consigne » invite les parents à participer, aux côtés des professionnels, à la journée de manifestation nationale le 8 octobre.",
-    "published": "2026-09-14T15:17:20+00:00",
-    "first_seen": "2026-09-14T19:51:40.076785+00:00",
-    "uid": "77a84ad861cd962c26c179a2f5899e6193189ac9003786f2748b6897dd7fa26e",
-    "description_checked": true
-  },
-  "3a3e788a3c54556e7a320e305f37690fa58b3235a3743a101f0e200e304fd6a3": {
-    "source": "Localtis - Jeunesse, éducation et formation",
-    "title": "Écoles : quand canicule et déclin démographique obligent les collectivités à repenser le modèle",
-    "link": "https://www.banquedesterritoires.fr/ecoles-quand-canicule-et-declin-demographique-obligent-les-collectivites-repenser-le-modele",
-    "description": "Longtemps pensées pour accueillir toujours plus d'élèves, les écoles se retrouvent confrontées à un nouveau défi : adapter des bâtiments souvent vieillissants à des épisodes de chaleur de plus en plus fréquents, tout en anticipant une baisse durable des effectifs scolaires. Dans une note publiée début septembre, la Fabrique de la Cité invite les collectivités à traiter ces deux aspects ensemble.",
-    "published": "2026-09-14T11:22:26+00:00",
-    "first_seen": "2026-09-14T19:51:37.994676+00:00",
-    "uid": "3a3e788a3c54556e7a320e305f37690fa58b3235a3743a101f0e200e304fd6a3"
-  },
-  "36a43879f35432f9a1d7400045cf10649aedf41d655f83eb5e8a5ceeb6e0d557": {
-    "source": "Localtis - Jeunesse, éducation et formation",
-    "title": "Compte personnel de formation : le projet de l’exécutif se précise",
-    "link": "https://www.banquedesterritoires.fr/compte-personnel-de-formation-le-projet-de-lexecutif-se-precise",
-    "description": "Les projets de formation des titulaires du CPF seront analysés dans le cadre d’un questionnaire automatisé. Une participation forfaitaire augmentée sera prévue en cas de projet insuffisamment \"clair et documenté\" et ne correspondant pas à certains critères.",
-    "published": "2026-09-14T10:44:54+00:00",
-    "first_seen": "2026-09-14T19:51:37.994676+00:00",
-    "uid": "36a43879f35432f9a1d7400045cf10649aedf41d655f83eb5e8a5ceeb6e0d557"
-  },
-  "f65a08b9889c6a5e9587e6affa59ccbae5113544db97d813acf18d02d020cb57": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Bronchiolite : la campagne de vaccination 2026-2027 en 10 questions",
-    "link": "https://www.lesprosdelapetiteenfance.fr/bronchiolite-la-campagne-de-vaccination-2026-2027-en-10-questions/",
-    "description": "La campagne de prévention des infections au virus respiratoire syncytial (VRS), responsable notamment de la bronchiolite, débute ce 14 septembre en France métropolitaine.",
-    "published": "2026-09-14T12:29:09+00:00",
-    "first_seen": "2026-09-14T12:51:33.556852+00:00",
-    "uid": "f65a08b9889c6a5e9587e6affa59ccbae5113544db97d813acf18d02d020cb57",
-    "description_checked": true
   }
 }

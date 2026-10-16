@@ -8,7 +8,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 14 Oct 2026 09:50:12 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 15 Oct 2026 15:48:17 +0000</lastBuildDate>
+    <item>
+      <title>Performance sans frontière : les voyages d’études de l’Anap</title>
+      <link>https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes</link>
+      <description>Espagne, Hollande, Belgique, Allemagne… Embarquez pour des séjours immersifs au sein des établissements européens les plus performants ! Échangez, inspirez-vous des systèmes de soins étrangers, découvrez les solutions de demain, explorez les enjeux de la performance sous un nouvel angle.</description>
+      <guid isPermaLink="false">43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446</guid>
+      <pubDate>Thu, 15 Oct 2026 15:48:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Réformer l'offre de soins : ce que l'Europe nous dit</title>
+      <link>https://www.anap.fr/s/article/reformer-l-offre-de-soins-ce-que-l-europe-nous-dit</link>
+      <description>Au cours des vingt dernières années, de nombreux pays européens ont engagé des réformes d’ampleur de leur système de santé. L’Anap a étudié les réformes menées dans 6 pays européens pour en comprendre les tenants et aboutissants</description>
+      <guid isPermaLink="false">4a41941a2245b158758c575dff8ed523f0e6933fd33f04fb37ce6ecf0a06a4eb</guid>
+      <pubDate>Thu, 15 Oct 2026 13:46:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 minutes Planning : automatisez la production de vos plannings !</title>
+      <link>https://www.anap.fr/s/article/3-minutes-planning-automatisez-la-production-de-vos-plannings</link>
+      <description>3 minutes Planning, l'outil gratuit de l'Anap qui génère des cycles de travail conformes pour libérer du temps d'encadrement.</description>
+      <guid isPermaLink="false">72d505affd97bef50c31a58217fe90ce1ae97c647e5083a18c458fc281eec77d</guid>
+      <pubDate>Thu, 15 Oct 2026 13:46:17 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appel à projets : Achats innovants dans les établissements de santé</title>
+      <link>https://www.anap.fr/s/article/appel-a-projets-achats-innovants</link>
+      <description>En partenariat avec l'Agence de l'innovation en santé (AIS) et la Direction générale de l'offre de soins (DGOS), l’Anap lance un appel à projets pour accélérer l'adoption d’innovations matures dans les établissements sanitaires et structures médico-sociales via la commande publique.</description>
+      <guid isPermaLink="false">2dc9d256247110e3f2cadb17ac0e451d584559585150cd399f9be2f4bda8dcc3</guid>
+      <pubDate>Thu, 15 Oct 2026 13:43:49 +0000</pubDate>
+    </item>
+    <item>
+      <title>Transition écologique : jusqu’à 1,5 million d’euros d’économies par an pour un hôpital</title>
+      <link>https://www.anap.fr/s/article/transition-ecologique-jusqu-a-1-5-million-d-euros-d-economies-par-an-pour-un-hopital</link>
+      <description>L’Anap lance un accompagnement collectif et met à disposition une infographie et une plateforme de financements pour aider les établissements à réduire leurs dépenses et leurs émissions.</description>
+      <guid isPermaLink="false">ffb2062ac52e6ae290cef21d9eabd69be369a6cca4aaf4b9339ae457f125462a</guid>
+      <pubDate>Thu, 15 Oct 2026 13:43:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Performance des SMR : Plateaux techniques, ambulatoire, réadaptation à domicile</title>
+      <link>https://www.anap.fr/s/article/performance-des-smr-plateaux-techniques-ambulatoire-readaptation-a-domicile</link>
+      <description>L’Anap renforce son action avec trois nouveaux guides, un autodiagnostic et un appui terrain.</description>
+      <guid isPermaLink="false">dafc3330d685d30e5480cbb7fe5f49ec75195c23e6b58ae71f56a5994cfdcd1f</guid>
+      <pubDate>Thu, 15 Oct 2026 13:42:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ehpad vert : autonomie énergétique, adaptation climatique, performance économique</title>
+      <link>https://www.anap.fr/s/article/ehpad-vert-autonomie-energetique-adaptation-climatique-performance-economique</link>
+      <description>L’Anap conçoit le première modèle d’Ehpad autonome en énergie et un simulateur pour s’adapter aux canicules.</description>
+      <guid isPermaLink="false">cee6ca8707f2cbc8456448e7c6f1768cd699e048520dfe40001c580d8a28efd5</guid>
+      <pubDate>Thu, 15 Oct 2026 13:41:13 +0000</pubDate>
+    </item>
     <item>
       <title>Imagerie : autodiagnostic</title>
       <link>https://www.anap.fr/s/article/imagerie-publication-1543</link>
@@ -57,13 +106,6 @@
       <description>Actualités règlementaires, bonnes pratiques, conseils d’experts : face aux enjeux de la transition écologique, l’Anap vous propose une série de webinaires dédiés.</description>
       <guid isPermaLink="false">b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245</guid>
       <pubDate>Tue, 13 Oct 2026 11:35:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>3 minutes Planning : automatisez la production de vos plannings !</title>
-      <link>https://www.anap.fr/s/article/3-minutes-planning-automatisez-la-production-de-vos-plannings</link>
-      <description>3 minutes Planning, l'outil gratuit de l'Anap qui génère des cycles de travail conformes pour libérer du temps d'encadrement.</description>
-      <guid isPermaLink="false">72d505affd97bef50c31a58217fe90ce1ae97c647e5083a18c458fc281eec77d</guid>
-      <pubDate>Tue, 13 Oct 2026 09:52:31 +0000</pubDate>
     </item>
     <item>
       <title>Webinaire : Les Rendez-Vous des PCO</title>
@@ -386,48 +428,6 @@
       <description>La pharmacie clinique optimise la prise en charge thérapeutique, à chaque étape du parcours de soins. Cet outil d’autodiagnostic permet d'en évaluer les actions pour sécuriser les prescriptions, la pertinence et l'efficience du recours aux produits de santé.</description>
       <guid isPermaLink="false">40b07bb1d386a75e3f3b7aa212620330219364ceee2b455e9741380ea7100ff4</guid>
       <pubDate>Tue, 06 Oct 2026 07:48:35 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autodiagnostic Automatisation de la PDA</title>
-      <link>https://www.anap.fr/s/article/autodiagnostic-automatisation-pda</link>
-      <description>Cet autodiagnostic, coconstruit avec le CUAP, permet d’objectiver votre activité de préparation des doses à administrer (PDA) automatisée. Il contient un volet stratégique et un volet processus, au choix, selon votre type d’automate.</description>
-      <guid isPermaLink="false">670df1fccf41c42915403b3d011a4b988bb537690b65efc81dec9351640dc263</guid>
-      <pubDate>Tue, 06 Oct 2026 07:48:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Systèmes d'aide à la décision pharmaceutique : glossaire des termes</title>
-      <link>https://www.anap.fr/s/article/systemes-aide-a-la-decision-pharmaceutique-glossaire-des-termes</link>
-      <description>Cette production est le fruit d'un groupe de travail de la communauté de pratiques IA-Pharma.</description>
-      <guid isPermaLink="false">3c592066e1c0614b38fe37936b3e72d998346d9a09de4e35079ea05677847dd0</guid>
-      <pubDate>Tue, 06 Oct 2026 07:47:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Outil diagnostic de la prise en charge médicamenteuse du résident en Ehpad</title>
-      <link>https://www.anap.fr/s/article/pharma-bio-ste-publication-2321</link>
-      <description>Interdiag Médicaments EHPAD© est un outil pluridisciplinaire pour l'auto-évaluation et la gestion des risques liés à la prise en charge médicamenteuse adapté aux spécificités organisationnelles de l'EHPAD. Deux outils sont proposés : avec ou sans PUI.</description>
-      <guid isPermaLink="false">029572367de0f6f461cf9d5ada243ff8fb6f6c0abef880dbabfce54ad9f7896d</guid>
-      <pubDate>Tue, 06 Oct 2026 07:47:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evaluer l'activité de radiopharmacie</title>
-      <link>https://www.anap.fr/s/article/pharma-bio-ste-publication-2867</link>
-      <description>Sécuriser le médicament radiopharmaceutique, la radioprotection du personnel et organiser l'activité en prenant en compte l'impact des thérapies innovantes, la règlementation et les contraintes temporelles des produits radioactifs.</description>
-      <guid isPermaLink="false">5ddd81cbb27c80c39a3d8caffdc33c3d495ffd72ed098296407f504e0dac4a0a</guid>
-      <pubDate>Tue, 06 Oct 2026 07:46:44 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evaluer l'approvisionnement en produits de santé des PUI d'Outre-mer</title>
-      <link>https://www.anap.fr/s/article/pharma-bio-ste-publication-2862</link>
-      <description>Cet outil permet d’évaluer et de sécuriser l’approvisionnement en produits de santé en produits de santé des PUI d'Outre-mer. Il comprend un volet "stratégie" (gouvernance, qualité et gestion des risques, formation, SI) et un volet "processus".</description>
-      <guid isPermaLink="false">aa5d0af8e2deeec98565537b0677c377d5044f05774de06cb43a972edcafe2f1</guid>
-      <pubDate>Tue, 06 Oct 2026 07:46:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diagnostiquer les risques liés à la prise en charge des Dispositifs Médicaux Stériles et Dispositifs Médicaux Implantables : Inter Diag DMS-DMI 2021</title>
-      <link>https://www.anap.fr/s/article/pharma-bio-ste-publication-2798</link>
-      <description>Nouvelle version des deux outils d'auto-évaluation en ligne de la performance du circuit des Dispositifs Médicaux Stériles (DMS) et des Dispositifs Médicaux Implantables (DMI) développée en collaboration avec Euro-Pharmat.</description>
-      <guid isPermaLink="false">37a16272971534d3a13fd42d66774fc3ddcf1c3eaacdbc89d748969ff3959f20</guid>
-      <pubDate>Tue, 06 Oct 2026 07:45:48 +0000</pubDate>
     </item>
   </channel>
 </rss>
