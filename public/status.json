@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-18T15:54:21.903981+00:00",
+  "generated_at": "2026-10-18T20:46:37.536630+00:00",
   "sites_total": 17,
   "sites_ok": 17,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 4,
-  "merged_items": 564,
+  "new_items": 2,
+  "merged_items": 565,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -255,7 +255,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 10,
+      "items": 11,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []
