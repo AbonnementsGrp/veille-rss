@@ -8,7 +8,42 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 14 Oct 2026 15:01:09 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 12:42:54 +0000</lastBuildDate>
+    <item>
+      <title>Trends in perinatal care provision across the regions</title>
+      <link>https://igas.gouv.fr/trends-perinatal-care-provision-across-regions</link>
+      <description>The IGAS report examines and sheds light on the situation regarding perinatal care in France over the past fifteen years or so. This has resulted in an infant mortality rate of 4 per 1,000 for the year 2024.</description>
+      <guid isPermaLink="false">186bff2bf87f8e98a70194365b4ffa64f399415d8f9e731ff71671593f1176dc</guid>
+      <pubDate>Mon, 19 Oct 2026 12:42:54 +0000</pubDate>
+    </item>
+    <item>
+      <title>Doctors' working hours</title>
+      <link>https://igas.gouv.fr/doctors-working-hours</link>
+      <description>The Prime Minister has tasked the General Inspectorate of Social Affairs (IGAS) and the General Inspectorate of Finance (IGF) with carrying out a review of doctors’ working hours in private practice and in hospitals. The task was, in particular, to collate available data, analyse trends in doctors’ working hours and the measures available to optimise them, and examine the organisation and management of working hours in public hospitals.</description>
+      <guid isPermaLink="false">cf5e3c976a98ae808d8fa34ec30fd8af727990f3e04a456664a1cdc90bb6a4fc</guid>
+      <pubDate>Mon, 19 Oct 2026 12:39:45 +0000</pubDate>
+    </item>
+    <item>
+      <title>Drinking Water Decontamination: Strategies and Funding Options</title>
+      <link>https://igas.gouv.fr/drinking-water-decontamination-strategies-and-funding-options</link>
+      <description>In response to the contamination of drinking water by PFAS and pesticides, the inter-inspectorate task force is assessing the scale of the potential costs and proposing a phased, region-specific action strategy. This strategy combines preventive and remedial measures to ensure the protection of the public. It relies on greater involvement by the main emitters of PFAS and pesticides in the costs of decontamination, in order to limit the inevitable rise in water prices.</description>
+      <guid isPermaLink="false">4b21d2e43dbd0467acdc3cfe5d9c3421c7026abb062ca3bd49712c9368292017</guid>
+      <pubDate>Mon, 19 Oct 2026 12:39:01 +0000</pubDate>
+    </item>
+    <item>
+      <title>Addictions: Improving Care Pathways (in France)</title>
+      <link>https://igas.gouv.fr/addictions-improving-care-pathways-france-0</link>
+      <description>For the first time since the 2007–2008 reform, the General Inspectorate of Social Affairs has carried out a review of the French system for the treatment of addictions. Covering all types of addiction and all sections of the population, with a particular focus on young people, women and those in vulnerable circumstances, the review finds that the system has solid foundations but is under considerable strain, despite the commitment of professionals. It sets out recommendations to strengthen its m</description>
+      <guid isPermaLink="false">9d8c652e36a0a06de52077165c8abaa22dd244a793f04b02bc19306b66314524</guid>
+      <pubDate>Mon, 19 Oct 2026 12:38:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Combating Fraud in Prescriptions and Health Insurance Billing</title>
+      <link>https://igas.gouv.fr/combating-fraud-prescriptions-and-health-insurance-billing</link>
+      <description>The General Inspectorate of Finance (IGF) and the General Inspectorate of Social Affairs (IGAS) have carried out a review of expenditure relating to fraud involving prescriptions and claims to the health insurance scheme.</description>
+      <guid isPermaLink="false">4175325093588ef8e6c8b9ef23d9c459c97ee0f9107add90a15371f90d95697e</guid>
+      <pubDate>Mon, 19 Oct 2026 12:29:16 +0000</pubDate>
+    </item>
     <item>
       <title>Évaluation du régime des micro-entrepreneurs</title>
       <link>https://igas.gouv.fr/evaluation-du-regime-des-micro-entrepreneurs-0</link>
@@ -99,13 +134,6 @@
       <description>The joint report by the General Inspectorate of Social Affairs (IGAS), the General Inspectorate of Finance (IGF) and the General Inspectorate of Administration (IGA) analyses the conditions under which artificial intelligence (AI) can bring about lasting improvements to public services, the quality of civil servants’ work and the effectiveness of public policies.</description>
       <guid isPermaLink="false">0b96f983fc1d80fbb2d7ab09dbbbf45898c49024df691593d68523240be8c29e</guid>
       <pubDate>Wed, 09 Sep 2026 05:19:16 +0000</pubDate>
-    </item>
-    <item>
-      <title>Addictions: Improving Care Pathways (in France)</title>
-      <link>https://igas.gouv.fr/addictions-improving-care-pathways-france</link>
-      <description>For the first time since the 2007–2008 reform, the General Inspectorate of Social Affairs has carried out a review of the French system for the treatment of addictions. Covering all types of addiction and all sections of the population – with a particular focus on young people, women and those in vulnerable circumstances – the review finds that the system has solid foundations but is under considerable strain, despite the commitment of professionals. It sets out recommendations to strengthen its</description>
-      <guid isPermaLink="false">9443ba0b1671c8c858e90cbfb885e774ac31d57e7ebd7b8c1b1d9874144b2069</guid>
-      <pubDate>Wed, 09 Sep 2026 04:58:33 +0000</pubDate>
     </item>
     <item>
       <title>Le temps de travail des médecins</title>
