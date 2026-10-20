@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T08:35:46.645236+00:00",
+  "generated_at": "2026-10-20T14:19:59.747888+00:00",
   "sites_total": 17,
   "sites_ok": 17,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 6,
-  "merged_items": 569,
+  "new_items": 11,
+  "merged_items": 571,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -25,7 +25,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 59,
+      "items": 60,
       "feed": "outre-mer-360.xml",
       "source_feed": "https://api.outremers360.com/rss/fil-info.xml",
       "warnings": []
@@ -151,7 +151,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 48,
+      "items": 49,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -185,7 +185,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 244 jours (seuil : 60)"
+        "rien de neuf depuis 245 jours (seuil : 60)"
       ]
     },
     {
@@ -243,7 +243,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 928 jours (seuil : 60)"
+        "rien de neuf depuis 929 jours (seuil : 60)"
       ]
     },
     {
