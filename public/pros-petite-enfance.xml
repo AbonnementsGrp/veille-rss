@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 20 Oct 2026 13:17:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 16:37:00 +0000</lastBuildDate>
+    <item>
+      <title>Fondation Œuvre de la Croix Saint- Simon : 46 établissements repris mais 450 professionnels licenciés</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/fondation-oeuvre-de-la-croix-saint-simon-46-etablissements-repris-mais-450-licencies/</link>
+      <description>Le tribunal des activités économiques vient de rendre sa décision concernant la cession des activités de la Fondation Œuvre de la crois Saint-Simon. Seuls 46 établissements seront repris, 17 structures...</description>
+      <guid isPermaLink="false">6a30758b0b2b61631b5825b8b821f0bac2b07a5e1bca1e1e34a2a69e33ca19ea</guid>
+      <pubDate>Tue, 20 Oct 2026 16:37:00 +0000</pubDate>
+    </item>
     <item>
       <title>Violences faites aux enfants : au moindre doute, appelez le 119</title>
       <link>https://www.lesprosdelapetiteenfance.fr/violences-faites-aux-enfants-au-moindre-doute-appelez-le-119/</link>
@@ -344,13 +351,6 @@
       <description>Le Syndicat national des professionnels de la petite enfance (SNPPE) appelle à rejoindre la mobilisation nationale lancée par le collectif Pas de bébés à la consigne. « Le 8 octobre, toutes et tous en grève pour la petite enfance ! », martele le syndicat.</description>
       <guid isPermaLink="false">c94dfeaaef0b27251e28fd0dfbced0878bb5c3ab86cedf29cc746d173d029ca9</guid>
       <pubDate>Fri, 18 Sep 2026 08:18:05 +0000</pubDate>
-    </item>
-    <item>
-      <title>Motricité des tout-petits : le matériel de jeu finalement pas si important</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/motricite-des-tout-petits-le-materiel-de-jeu-finalement-pas-si-important/</link>
-      <description>Faut-il multiplier les jeux et le matériel pour favoriser la motricité des tout-petits ? Une étude belge, publiée ce mois-ci dans Infant Behavior and Development et menée auprès de 136 enfants âgés de 18 à 33 mois, montre que le lien entre l’environnement matériel à la maison et leurs compétences motrices est loin d’être aussi simple.</description>
-      <guid isPermaLink="false">f58a95a447f41a82dff09e0bb1c48aa41799642c7aab45292f9ce85ef7b5c2ef</guid>
-      <pubDate>Thu, 17 Sep 2026 10:46:11 +0000</pubDate>
     </item>
   </channel>
 </rss>
