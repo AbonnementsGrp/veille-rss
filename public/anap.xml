@@ -8,20 +8,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 16 Oct 2026 15:00:07 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 19 Oct 2026 15:19:31 +0000</lastBuildDate>
     <item>
-      <title>Appui Terrain : Gestion de crise en ESMS</title>
-      <link>https://www.anap.fr/s/article/appui-terrain-gestion-de-crise-en-esms</link>
-      <description>Canicules, intempéries, risques sécuritaires… La multiplication de ces situations renforce la nécessité pour les établissements médico-sociaux d’anticiper et d’organiser leur gestion de crises. Participez à notre appui terrain et bénéficiez d’un accompagnement dédié.</description>
-      <guid isPermaLink="false">776cb20981362dfdbef46b3a52081d76981789b17a69e5f540f76ac4f34717f5</guid>
-      <pubDate>Fri, 16 Oct 2026 15:00:07 +0000</pubDate>
+      <title>Votre Cockpit DATA Blocs</title>
+      <link>https://www.anap.fr/s/article/votre-cockpit-data-blocs-le-nouvel-outil-de-l-anap</link>
+      <description>Le nouvel outil de l’Anap qui calcule automatiquement les indicateurs clés de votre bloc opératoire.</description>
+      <guid isPermaLink="false">4b7b45ed008cf445ec90ab6d4d8a6afb7f712472567ec6ff0f8df242c15927b3</guid>
+      <pubDate>Mon, 19 Oct 2026 15:19:31 +0000</pubDate>
     </item>
     <item>
       <title>Webinaire - La Data au Bloc opératoire : des données aux indicateurs de performance</title>
       <link>https://www.anap.fr/s/article/la-data-au-bloc-operatoire-des-donnees-aux-indicateurs-de-performance</link>
       <description>Taux d’occupation, taux de débordement, démarrages tardifs… Vous souhaitez piloter de façon automatisée la performance de votre bloc opératoire ? L’Anap vous invite lors d’un webinaire inédit à découvrir sa nouvelle application « DATA » dédiée au bloc opératoire.</description>
       <guid isPermaLink="false">b8d14f5b9bb70e1badc7dabb0bfab92f289329e7118d4bab8a89850498e88cd4</guid>
-      <pubDate>Fri, 16 Oct 2026 14:24:30 +0000</pubDate>
+      <pubDate>Mon, 19 Oct 2026 14:19:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Performance sans frontière : les voyages d’études de l’Anap</title>
+      <link>https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes</link>
+      <description>Espagne, Hollande, Belgique, Allemagne… Embarquez pour des séjours immersifs au sein des établissements européens les plus performants ! Échangez, inspirez-vous des systèmes de soins étrangers, découvrez les solutions de demain, explorez les enjeux de la performance sous un nouvel angle.</description>
+      <guid isPermaLink="false">43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446</guid>
+      <pubDate>Mon, 19 Oct 2026 09:02:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appui Terrain : Gestion de crise en ESMS</title>
+      <link>https://www.anap.fr/s/article/appui-terrain-gestion-de-crise-en-esms</link>
+      <description>Canicules, intempéries, risques sécuritaires… La multiplication de ces situations renforce la nécessité pour les établissements médico-sociaux d’anticiper et d’organiser leur gestion de crises. Participez à notre appui terrain et bénéficiez d’un accompagnement dédié.</description>
+      <guid isPermaLink="false">776cb20981362dfdbef46b3a52081d76981789b17a69e5f540f76ac4f34717f5</guid>
+      <pubDate>Fri, 16 Oct 2026 15:00:07 +0000</pubDate>
     </item>
     <item>
       <title>Webinaire : « Les rendez-vous des HProx »</title>
@@ -43,13 +57,6 @@
       <description>Découvrez les outils et repères méthodologiques pour accompagner les acteurs du secteur médico-social dans leur démarche de transformation vers une offre de services coordonnés.</description>
       <guid isPermaLink="false">8a01ba08aab131b97fc17dad2df397a5eecc493e6b258326f888b84f65b6954e</guid>
       <pubDate>Fri, 16 Oct 2026 10:14:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Votre Cockpit Data Blocs</title>
-      <link>https://www.anap.fr/s/article/votre-cockpit-data-blocs</link>
-      <description>Dédiés aux différents volets de la performance, pour accompagner la transformation des établissements sanitaires et médico-sociales.</description>
-      <guid isPermaLink="false">40ef6d86effb247af8b2c3a54fb9e3933916c928ef159d5906bcabb383fd34dc</guid>
-      <pubDate>Fri, 16 Oct 2026 10:13:36 +0000</pubDate>
     </item>
     <item>
       <title>Sur les traces du Développement Durable » : support d’animation d’ateliers</title>
@@ -99,13 +106,6 @@
       <description>Analyse des données, compréhension des territoires et perspectives de développement : un webinaire pour mieux piloter l'activité de votre structure d'HAD.</description>
       <guid isPermaLink="false">ba7f705485775bee4fd4da5e7059eb5c3f1618dc2e09970ae77f8c1c4785e13a</guid>
       <pubDate>Fri, 16 Oct 2026 08:09:33 +0000</pubDate>
-    </item>
-    <item>
-      <title>Performance sans frontière : les voyages d’études de l’Anap</title>
-      <link>https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes</link>
-      <description>Espagne, Hollande, Belgique, Allemagne… Embarquez pour des séjours immersifs au sein des établissements européens les plus performants ! Échangez, inspirez-vous des systèmes de soins étrangers, découvrez les solutions de demain, explorez les enjeux de la performance sous un nouvel angle.</description>
-      <guid isPermaLink="false">43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446</guid>
-      <pubDate>Thu, 15 Oct 2026 15:48:17 +0000</pubDate>
     </item>
     <item>
       <title>Réformer l'offre de soins : ce que l'Europe nous dit</title>

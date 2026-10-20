@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-20T00:22:43.441591+00:00",
+  "generated_at": "2026-10-20T08:35:46.645236+00:00",
   "sites_total": 17,
   "sites_ok": 17,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 0,
-  "merged_items": 568,
+  "new_items": 6,
+  "merged_items": 569,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -151,7 +151,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 47,
+      "items": 48,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
