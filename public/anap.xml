@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 19 Oct 2026 15:19:31 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 20 Oct 2026 09:25:50 +0000</lastBuildDate>
+    <item>
+      <title>Webconférence - IA en santé : découvrir des usages réels, obtenir des résultats concrets</title>
+      <link>https://www.anap.fr/s/article/webconference-ia-en-sante</link>
+      <description>L’IA en santé, concrètement, ça donne quoi ? Découvrez des usages issus du terrain et des ressources pour vous aider à passer à l’action.</description>
+      <guid isPermaLink="false">35ee4feb15baada071c79f52b2d7f577e12d43895f5a19a215fafdbaff01fb0f</guid>
+      <pubDate>Tue, 20 Oct 2026 09:25:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Masterclass IA : Révélez le potentiel de l’IA pour votre établissement</title>
+      <link>https://www.anap.fr/s/article/masterclass-ia-etablissements-sanitaires-medico-sociaux</link>
+      <description>Simplifier les plannings, fluidifier les parcours, soulager les fonctions supports : l'Intelligence Artificielle transforme le quotidien des établissements de santé. Et pour vous ? Cette masterclass vous guide pour comprendre l'IA, identifier les usages pertinents pour votre établissement, s'inspirer de bonnes pratiques et déployer.</description>
+      <guid isPermaLink="false">aea94c0a15d800f38c1ad9028078b7131e273418057888901fd722fbc1b8a27e</guid>
+      <pubDate>Tue, 20 Oct 2026 09:18:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
+      <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
+      <description>La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.</description>
+      <guid isPermaLink="false">f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5</guid>
+      <pubDate>Tue, 20 Oct 2026 08:40:32 +0000</pubDate>
+    </item>
     <item>
       <title>Votre Cockpit DATA Blocs</title>
       <link>https://www.anap.fr/s/article/votre-cockpit-data-blocs-le-nouvel-outil-de-l-anap</link>
@@ -92,13 +113,6 @@
       <description>La Fabrique RH Anap, rendez-vous digital régulier : prenez en main 3 minutes Planning, posez vos questions et faites évoluer l’outil.</description>
       <guid isPermaLink="false">6924a49f21ac0822dad1d5f94cbe8ce1cab2b7af4a331cc474cc72e8eff94875</guid>
       <pubDate>Fri, 16 Oct 2026 08:11:42 +0000</pubDate>
-    </item>
-    <item>
-      <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
-      <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
-      <description>La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.</description>
-      <guid isPermaLink="false">f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5</guid>
-      <pubDate>Fri, 16 Oct 2026 08:11:00 +0000</pubDate>
     </item>
     <item>
       <title>Webinaire : Activité et territoires d'intervention HAD : maîtrisez les outils nationaux</title>
@@ -407,20 +421,6 @@
       <description>L'autodiag Blocs opératoires permet de réaliser un diagnostic qualitatif de l'organisation et du fonctionnement d'un bloc opératoire en identifiant les points forts et les axes d'amélioration.</description>
       <guid isPermaLink="false">4b72fa21adaff0fc1e4d662d96b930a41a777061ebe03ae683d16cb5106feafb</guid>
       <pubDate>Tue, 06 Oct 2026 07:54:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Outil de monitorage du démarrage des salles</title>
-      <link>https://www.anap.fr/s/article/bloc-operatoire-publication-1379</link>
-      <description>Cet outil peut être utilisé pour suivre les horaires de démarrage des salles de bloc opératoire et en faire une analyse.</description>
-      <guid isPermaLink="false">ee322799fc29837367ff96506cbca02080095533afe320d4933ed80324e989c5</guid>
-      <pubDate>Tue, 06 Oct 2026 07:53:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Panorama des métiers en émergence à l'international</title>
-      <link>https://www.anap.fr/s/article/panorama-metiers-emergence-international</link>
-      <description>L’activité des établissements sanitaires et médico-sociaux évoluent, donnant naissance à de nouveaux métiers. Pour vous accompagner dans leur mise en place et en faire un levier d’attractivité, l’Anap vous propose, un panorama des métiers en émergence à l'international, une fiche pratique et un guide opérationnel.</description>
-      <guid isPermaLink="false">7c77875f431eaab0e15ae7478e119143143ae953fa35035fc0685f075a30ce2f</guid>
-      <pubDate>Tue, 06 Oct 2026 07:53:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

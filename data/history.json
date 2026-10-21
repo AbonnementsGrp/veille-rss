@@ -1,4 +1,16 @@
 {
+  "35ee4feb15baada071c79f52b2d7f577e12d43895f5a19a215fafdbaff01fb0f": {
+    "source": "ANAP - Actualités",
+    "title": "Webconférence - IA en santé : découvrir des usages réels, obtenir des résultats concrets",
+    "link": "https://www.anap.fr/s/article/webconference-ia-en-sante",
+    "description": "L’IA en santé, concrètement, ça donne quoi ? Découvrez des usages issus du terrain et des ressources pour vous aider à passer à l’action.",
+    "published": "2026-10-20T09:25:50+00:00",
+    "first_seen": "2026-10-21T04:51:49.942825+00:00",
+    "uid": "35ee4feb15baada071c79f52b2d7f577e12d43895f5a19a215fafdbaff01fb0f",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "08af0149152195dfa89c672119438e9d2951a46eeda9635a1129fc9b84388c7d": {
     "source": "Enfance & Jeunesse Infos - Veille juridique",
     "title": "Violences sexuelles : vers un parcours de soins remboursé à 100 % pour les victimes ?",
@@ -1000,7 +1012,7 @@
     "title": "Journée nationale de la transfo - Handicap : des intentions à l'action !",
     "link": "https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap",
     "description": "La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.",
-    "published": "2026-10-16T08:11:00+00:00",
+    "published": "2026-10-20T08:40:32+00:00",
     "first_seen": "2026-10-15T21:25:27.195033+00:00",
     "uid": "f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5",
     "description_checked": true,
@@ -8566,7 +8578,7 @@
     "title": "Masterclass IA : Révélez le potentiel de l’IA pour votre établissement",
     "link": "https://www.anap.fr/s/article/masterclass-ia-etablissements-sanitaires-medico-sociaux",
     "description": "Simplifier les plannings, fluidifier les parcours, soulager les fonctions supports : l'Intelligence Artificielle transforme le quotidien des établissements de santé. Et pour vous ? Cette masterclass vous guide pour comprendre l'IA, identifier les usages pertinents pour votre établissement, s'inspirer de bonnes pratiques et déployer.",
-    "published": "2026-09-23T11:56:34+00:00",
+    "published": "2026-10-20T09:18:18+00:00",
     "first_seen": "2026-09-24T04:54:45.466040+00:00",
     "uid": "aea94c0a15d800f38c1ad9028078b7131e273418057888901fd722fbc1b8a27e",
     "description_checked": true,
@@ -9413,14 +9425,5 @@
     "published": "2026-09-18T09:04:10+00:00",
     "first_seen": "2026-09-18T11:18:03.436169+00:00",
     "uid": "feb7a49c64e7da7ad5e20711be39bb12d6b5b42f33d17e1c917fdfc0ee97b1e1"
-  },
-  "ca7ebe3caadb1d55a8f8d2f391a76f0bc5f144f6bc822d287a59632f96e3446e": {
-    "source": "Outre-Mer 360°",
-    "title": "Le SMA et la Caisse Nationale d’Assurance Maladie signent une convention en faveur de l'accompagnement santé des jeunes volontaires",
-    "link": "https://outremers360.com/bassin-atlantique-appli/le-sma-et-la-caisse-nationale-dassurance-maladie-signent-une-convention-en-faveur-de-laccompagnement-sante-des-jeunes-volontaires",
-    "description": "Le 15 septembre, l’Assurance Maladie et le Service militaire adapté (SMA) ont signé une convention-cadre nationale destinée à renforcer l’accompagnement santé des jeunes volontaires ultramarins. Cette convention a été signée par le général de brigade Frédéric Bos,...",
-    "published": "2026-09-18T08:38:22+00:00",
-    "first_seen": "2026-09-18T11:18:03.436169+00:00",
-    "uid": "ca7ebe3caadb1d55a8f8d2f391a76f0bc5f144f6bc822d287a59632f96e3446e"
   }
 }
