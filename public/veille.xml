@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:37:16 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 21 Oct 2026 13:01:14 +0000</lastBuildDate>
+    <item>
+      <title>Couvre-feu en Martinique : une première nuit « moins intense », 11 interpellations selon le préfet</title>
+      <link>https://outremers360.com/bassin-atlantique-appli/ccouvre-feu-en-martinique-une-premiere-nuit-moins-intense-11-interpellations-selon-le-prefet</link>
+      <description>Au lendemain de l’instauration d’un couvre-feu dans six communes, le préfet de la Martinique, Étienne Desplanques a fait état d’une nuit moins agitée que les deux précédentes, malgré des tirs à Ducos et deux incendies importants au Lamentin. Détails avec...</description>
+      <guid isPermaLink="false">531e9bc769f62da9997b0d699876914f0aadbd219d31c9e88f761974f9b4b17b</guid>
+      <pubDate>Wed, 21 Oct 2026 13:01:14 +0000</pubDate>
+    </item>
     <item>
       <title>Polynésie : grèves illimitées au port autonome de Papeete et au Centre hospitalier du territoire</title>
       <link>https://outremers360.com/bassin-pacifique-appli/polynesie-greves-illimitees-au-port-autonome-de-papeete-et-au-centre-hospitalier-du-territoire</link>
@@ -563,13 +570,6 @@
       <pubDate>Sat, 17 Oct 2026 08:57:35 +0000</pubDate>
     </item>
     <item>
-      <title>Brésil: la déforestation amazonienne au plus bas niveau depuis près de 40 ans</title>
-      <link>https://outremers360.com/bassin-atlantique-appli/bresil-la-deforestation-amazonienne-au-plus-bas-niveau-depuis-pres-de-40-ans</link>
-      <description>La déforestation sur un an en Amazonie brésilienne a atteint son plus bas niveau depuis le début des relevés en 1988, selon les données officielles présentées vendredi par le gouvernement.Il s’agit d’une bonne nouvelle pour le président de gauche Luiz Inacio...</description>
-      <guid isPermaLink="false">2acb0550ff6e637b1feaebc282ee586476d541bbd3df8cc3459a924a15517101</guid>
-      <pubDate>Sat, 17 Oct 2026 08:27:24 +0000</pubDate>
-    </item>
-    <item>
       <title>Appui Terrain : Gestion de crise en ESMS</title>
       <link>https://www.anap.fr/s/article/appui-terrain-gestion-de-crise-en-esms</link>
       <description>Canicules, intempéries, risques sécuritaires… La multiplication de ces situations renforce la nécessité pour les établissements médico-sociaux d’anticiper et d’organiser leur gestion de crises. Participez à notre appui terrain et bénéficiez d’un accompagnement dédié.</description>
@@ -794,6 +794,13 @@
       <pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Etude de l'appropriation de l'agrivoltaïsme par les territoires</title>
+      <link>https://librairie.ademe.fr/energies/9703-etude-de-l-appropriation-de-l-agrivoltaisme-par-les-territoires.html</link>
+      <description>Une tribune publiée sur le site de Médiapart en septembre 2023, intitulée : “Photovoltaïque sur des terres naturelles, agricoles ou forestières : nous ne tomberons pas dans le panneau !” a recueilli plus de 350 signatures d’organisations opposées à l’agrivoltaïsme. Les différentes organisations s’opposent au concept même d’agrivoltaïsme et réfutent l’idée d’une synergie entre les activités énergétiques et agricoles. Cette position forte à l’encontre de l’agrivoltaïsme questionne les raisons de l’opposition ainsi que l’argumentaire porté. Ces différentes observations, couplées au développement rapide de la filière, a poussé France Agrivoltaïsme à conduire une étude visant à mettre en évidence les divers facteurs influant sur l’appropriation de l’agrivoltaïsme dans les territoires. Il s'agit d’en conclure une série de recommandations susceptibles de favoriser l’appropriation des projets agrivoltaïques à l’échelle locale. L'étude s’est déroulée en plusieurs étapes : une revue de la littérature scientifique existante relative à l’acceptabilité des ENR, complétée d’entretiens avec deux chercheurs spécialisés en sociologie des ENR afin d'approfondir les connaissances et d’élargir les perspectives de l’étude. Puis, trois départements français ont été sélectionnés pour sa conduite (Calvados, Moselle, Pyrénées-Orientales), avec des profils et contextes agricoles différents. La méthode reposait sur l’identification, dans chacun d’entre-eux, de quatre cas emblématiques dont l’ensemble des acteurs ont été sollicités : collectivités, organisations agricoles, associations locales, développeurs, agriculteurs, etc. Plus de 70 personnes ont ainsi été interrogées. À partir de ces entretiens, les principaux critères d'appropriation de l'agrivoltaïsme par les acteurs territoriaux ont été i</description>
+      <guid isPermaLink="false">71065d32a2b4c6830aebbba75b0e2ef2afdbd2d1d5e442a21c4599158f046e76</guid>
+      <pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Récupération de chaleur fatale chez un industriel de l'agroalimentaire en Maine-et-Loire</title>
       <link>https://librairie.ademe.fr/energies/9696-recuperation-de-chaleur-fatale-chez-un-industriel-de-l-agroalimentaire-en-maine-et-loire.html</link>
       <description>Bahier est une entreprise de l’agroalimentaire qui fabrique des produits de charcuterie (boudins/rillettes/produits de tête/salaisons diverses). L’entreprise a souhaité centraliser sa production de froid pour pouvoir en récupérer la chaleur fatale, initialement dispersée sur l’ensemble du site.</description>
@@ -805,13 +812,6 @@
       <link>https://librairie.ademe.fr/industrie-et-production-durable/9697-analyse-du-potentiel-d-electrification-des-procedes-thermiques-industriels.html</link>
       <description>L’électrification des procédés industriels représente un levier essentiel pour atteindre les objectifs de décarbonation fixés par la Stratégie française énergie‑climat. Alors qu’aujourd’hui près des deux tiers de l’énergie utilisée par l’industrie reposent encore sur des combustibles fossiles, la plupart des trajectoires vers la neutralité carbone envisagent une domination de l’électricité dans le mix énergétique industriel d’ici 2050. Cette étude propose une analyse prospective des potentiels techniques d’électrification. Elle identifie, par secteur et par technologie, les combustibles pouvant être remplacés ainsi que les nouveaux besoins électriques associés. En mettant en lumière ces réalités à l’échelle des procédés et des filières, la publication a pour ambition d’aider les industriels à intégrer pleinement l’électrification comme un outil majeur de décarbonation de leurs activités.</description>
       <guid isPermaLink="false">fe1d952e3349a675b2da7567ce86f55cc05039bd8a362ec464eb5247fa946ece</guid>
-      <pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Etude de l'appropriation de l'agrivoltaïsme par les territoires</title>
-      <link>https://librairie.ademe.fr/energies/9703-etude-de-l-appropriation-de-l-agrivoltaisme-par-les-territoires.html</link>
-      <description>Une tribune publiée sur le site de Médiapart en septembre 2023, intitulée : “Photovoltaïque sur des terres naturelles, agricoles ou forestières : nous ne tomberons pas dans le panneau !” a recueilli plus de 350 signatures d’organisations opposées à l’agrivoltaïsme. Les différentes organisations s’opposent au concept même d’agrivoltaïsme et réfutent l’idée d’une synergie entre les activités énergétiques et agricoles. Cette position forte à l’encontre de l’agrivoltaïsme questionne les raisons de l’opposition ainsi que l’argumentaire porté. Ces différentes observations, couplées au développement rapide de la filière, a poussé France Agrivoltaïsme à conduire une étude visant à mettre en évidence les divers facteurs influant sur l’appropriation de l’agrivoltaïsme dans les territoires. Il s'agit d’en conclure une série de recommandations susceptibles de favoriser l’appropriation des projets agrivoltaïques à l’échelle locale. L'étude s’est déroulée en plusieurs étapes : une revue de la littérature scientifique existante relative à l’acceptabilité des ENR, complétée d’entretiens avec deux chercheurs spécialisés en sociologie des ENR afin d'approfondir les connaissances et d’élargir les perspectives de l’étude. Puis, trois départements français ont été sélectionnés pour sa conduite (Calvados, Moselle, Pyrénées-Orientales), avec des profils et contextes agricoles différents. La méthode reposait sur l’identification, dans chacun d’entre-eux, de quatre cas emblématiques dont l’ensemble des acteurs ont été sollicités : collectivités, organisations agricoles, associations locales, développeurs, agriculteurs, etc. Plus de 70 personnes ont ainsi été interrogées. À partir de ces entretiens, les principaux critères d'appropriation de l'agrivoltaïsme par les acteurs territoriaux ont été i</description>
-      <guid isPermaLink="false">71065d32a2b4c6830aebbba75b0e2ef2afdbd2d1d5e442a21c4599158f046e76</guid>
       <pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -1162,6 +1162,20 @@
       <link>https://librairie.ademe.fr/mobilite-et-transports/9657-energie-et-immobilier-logistique-quelles-synergies-.html</link>
       <description>Les entrepôts logistiques de plus de 1 000 m² représentent un parc immobilier de 93,4 millions de m² en France, caractérisé par d’importantes surfaces de toitures et de parkings déjà artificialisés. L’étude met en évidence leur potentiel significatif de production d’énergies renouvelables, notamment photovoltaïque et géothermique. À l’horizon 2028, le productible photovoltaïque est estimé entre 6,4 et 8,1 TWh, ouvrant des perspectives d’autoconsommation, de couplage bâtiment-véhicule et d’intégration dans les stratégies énergétiques territoriales.</description>
       <guid isPermaLink="false">d649cfe18c3555b7ef039a53141a5ce287fa45aef785e75ac1b2dafe8e7f475f</guid>
+      <pubDate>Tue, 06 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Etude des enjeux énergétiques liés à l'immobilier logistique</title>
+      <link>https://librairie.ademe.fr/mobilite-et-transports/9657-etude-des-enjeux-energetiques-lies-a-l-immobilier-logistique.html</link>
+      <description>Les entrepôts logistiques de plus de 1 000 m² représentent un parc immobilier de 93,4 millions de m² en France, caractérisé par d’importantes surfaces de toitures et de parkings déjà artificialisés. L’étude met en évidence leur potentiel significatif de production d’énergies renouvelables, notamment photovoltaïque et géothermique. À l’horizon 2028, le productible photovoltaïque est estimé entre 6,4 et 8,1 TWh, ouvrant des perspectives d’autoconsommation, de couplage bâtiment-véhicule et d’intégration dans les stratégies énergétiques territoriales.</description>
+      <guid isPermaLink="false">3422adf165da0b0128b07644ade135eeb9016c5d6eaa0076ecf2790030b7d693</guid>
+      <pubDate>Tue, 06 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Etude des enjeux énergétiques des entrepôts</title>
+      <link>https://librairie.ademe.fr/mobilite-et-transports/9657-etude-des-enjeux-energetiques-des-entrepots.html</link>
+      <description>Les entrepôts logistiques de plus de 1 000 m² représentent un parc immobilier de 93,4 millions de m² en France, caractérisé par d’importantes surfaces de toitures et de parkings déjà artificialisés. L’étude met en évidence leur potentiel significatif de production d’énergies renouvelables, notamment photovoltaïque et géothermique. À l’horizon 2028, le productible photovoltaïque est estimé entre 6,4 et 8,1 TWh, ouvrant des perspectives d’autoconsommation, de couplage bâtiment-véhicule et d’intégration dans les stratégies énergétiques territoriales.</description>
+      <guid isPermaLink="false">d173ba4ac1022533515402f4a18936a0fd5303385d7f8f1530d89c902411557c</guid>
       <pubDate>Tue, 06 Oct 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -2082,25 +2096,11 @@
       <pubDate>Fri, 18 Sep 2026 12:37:29 +0000</pubDate>
     </item>
     <item>
-      <title>Petite enfance : des interactions de qualité favorisent le développement du langage</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/petite-enfance-des-interactions-de-qualite-favorisent-le-developpement-du-langage/</link>
-      <description>Pour favoriser le langage d’un tout-petit, la quantité de mots entendus compte mais la qualité des échanges avec l’adulte aussi. La manière de répondre à ses initiatives, de prolonger l’échange et de lui laisser le temps de réagir joue un rôle également.</description>
-      <guid isPermaLink="false">792cca99d2fa05e5a1a5437ced2edf920a67bdbdcf8f23a09a71b31a2ff4a9f5</guid>
-      <pubDate>Fri, 18 Sep 2026 10:06:35 +0000</pubDate>
-    </item>
-    <item>
       <title>Présidentielle 2027 : le monde du tourisme donne rendez-vous aux candidats le 1er décembre 2026 à Paris</title>
       <link>https://www.adn-tourisme.fr/presidentielle-2027-grand-oral-tourisme/</link>
       <description>Trois mois après avoir annoncé leur volonté commune de placer le tourisme au cœur du débat présidentiel , ADN Tourisme, l’Association Nationale des Élus des Territoires Touristiques (ANETT), la Confédération des Acteurs du Tourisme (CAT) et INNTO France – instituts nationaux de tourisme franchissent une nouvelle étape et dévoilent les contours du rendez-vous qu’elles préparent pour la campagne présidentielle de 2027.</description>
       <guid isPermaLink="false">581802e9cb8c1c9f9b254761c7a0a11a9ee11c8a4c572bc4ee5054b6f1f192fa</guid>
       <pubDate>Fri, 18 Sep 2026 09:34:55 +0000</pubDate>
-    </item>
-    <item>
-      <title>« Des salaires à notre juste valeur » : le SNPPE appelle les professionnels de la petite enfance à la grève le 8 octobre</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/des-salaires-a-notre-juste-valeur-le-snppe-appelle-les-professionnels-de-la-petite-enfance-a-la-greve-le-8-octobre/</link>
-      <description>Le Syndicat national des professionnels de la petite enfance (SNPPE) appelle à rejoindre la mobilisation nationale lancée par le collectif Pas de bébés à la consigne. « Le 8 octobre, toutes et tous en grève pour la petite enfance ! », martele le syndicat.</description>
-      <guid isPermaLink="false">c94dfeaaef0b27251e28fd0dfbced0878bb5c3ab86cedf29cc746d173d029ca9</guid>
-      <pubDate>Fri, 18 Sep 2026 08:18:05 +0000</pubDate>
     </item>
     <item>
       <title>Synthèse d'activité 2025 ADEME Nouvelle-Calédonie Wallis et Futuna</title>
@@ -2192,6 +2192,13 @@
       <description>L'instruction du 31 août 2026 place la prévention au premier rang des schémas départementaux des services aux familles renouvelés en 2026 et 2027. Sa cible : repérer et accompagner les familles bien avant qu'une mesure de protection de l'enfance ne s'impose.</description>
       <guid isPermaLink="false">12b6839766629e6f66f390cdb88fe1cd7d5c747ee4f8b3af33f5167a59e14cc7</guid>
       <pubDate>Fri, 11 Sep 2026 09:14:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Baromètre changement climatique – Focus Agriculteurs – Résultats 2025</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9070-barometre-changement-climatique-focus-agriculteurs-resultats-2025.html</link>
+      <description>Depuis 2000, l’ADEME conduit une enquête administrée chaque année auprès d'échantillons représentatifs de la population française permettant de dresser un tableau des représentations sociales du changement climatique et de leurs évolutions. L'enquête est également réalisée auprès d’un sur-échantillon cible. Cette année il a porté sur les agriculteurs qui avaient été interrogés en 2017. Les résultats montrent que les attitudes des agriculteurs interrogés dans cette enquête sont assez similaires à celles de la population générale. L’environnement apparait toutefois comme leur priorité numéro un par rapport à d’autres enjeux pour la France (alors qu’il s’agit de la 5ème préoccupation pour les Français). Ils sont par ailleurs plus nombreux à déjà subir les conséquences du changement climatique, en nette augmentation depuis 2017. Les conséquences du changement climatique affectent fortement leur activité et les contraint à de nouvelles stratégies d’adaptation. Ils affirment davantage que le public leur capacité de s’adapter à ses conséquences, bien que cet optimisme recule.</description>
+      <guid isPermaLink="false">5f0e80806c60c146b9e6d0cb3a3c6cf48da859802d94c057b458708947a0555b</guid>
+      <pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Journées Françaises de l'Evaluation 2025 : "Evaluation et Transition(s)"</title>
@@ -2537,17 +2544,17 @@
       <pubDate>Wed, 26 Aug 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Guide pour la constitution d'une base de données pour inventaires des sites potentiellement pollués (IHU)</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9525-guide-pour-la-constitution-d-une-base-de-donnees-pour-inventaires-des-sites-potentiellement-pollues-ihu.html</link>
-      <description>Le renouvellement urbain et la reconstruction de la ville sur la ville sont des enjeux majeurs de l’urbanisme pour l’ensemble des acteurs de l’aménagement du territoire et en particulier les collectivités territoriales depuis déjà plusieurs années. Ils s’inscrivent désormais pleinement dans la démarche ZAN (Zéro Artificialisation Nette), mise en place en 2021 par la Loi Climat et Résilience, qui fixe comme objectif d’atteindre, en 2050, l’absence de toute artificialisation nette des sols. Ces enjeux nécessitent la prise en compte des éventuels risques environnementaux et sanitaires liés à l’historique et au contexte environnemental de ces zones urbaines. La démarche d’Inventaire Historique Urbain (IHU) a pour vocation de permettre aux collectivités locales de développer leur connaissance des friches et des sites potentiellement pollués de leur territoire, d’anticiper les enjeux associés dans le cadre de leurs futurs projets d’aménagement, et, potentiellement, d’apporter aux porteurs de projet un premier niveau d’information relatif au risque de présence de pollution sur un site. L’ADEME accompagne les collectivités locales dans ces démarches par un dispositif d’Aides à la Décision, se traduisant d’une part par des aides financières, et d’autre part par la mise à disposition d’outils et de méthodes pour améliorer les pratiques. Dans ce cadre, l’ADEME met à disposition des collectivités, depuis 2021, un cahier des charges type pour l’élaboration d’un IHU. Dans cette continuité, elle a souhaité pouvoir proposer aux collectivités des outils complémentaires pour l’élaboration d’un IHU. Une base de données type et un modèle de saisie de données QGIS ont ainsi été créés. La création de ces outils s’est appuyée sur l’interview de collectivités ou d’agences d’urbanisme en vue de</description>
-      <guid isPermaLink="false">182e1c3b19b223455dd3027cdacab4896cd7e5953ce8069177e407a76f55d396</guid>
-      <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Etude faisabilité pour l'utilisation de scanners enterrés pour suivi biodiversité des sols après phytoremédiation</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9526-etude-faisabilite-pour-l-utilisation-de-scanners-enterres-pour-suivi-biodiversite-des-sols-apres-phytoremediation.html</link>
       <description>Dans le contexte des sites et sols pollués (SSP), l'évaluation des trajectoires de restauration repose encore largement sur des indicateurs physico-chimiques, qui ne permettent pas toujours d'apprécier la récupération du fonctionnement biologique des sols. L'intégration d'indicateurs biologiques robustes constitue ainsi un enjeu majeur pour l'évaluation écologique des sols restaurés. Le projet CASCA a pour objectif de développer une méthode automatisée et non invasive de suivi de l'activité biologique des sols fondée sur l'imagerie optique in situ couplée à des approches d'intelligence artificielle. Le dispositif repose sur l'utilisation de scanners optiques enterrés permettant l'acquisition répétée d'images haute résolution directement dans la matrice du sol. Les images sont ensuite traitées par un pipeline automatisé combinant détection des changements entre images successives, extraction d'imagettes candidates et classification supervisée par apprentissage profond afin d'identifier les organismes présents. Les développements méthodologiques se sont appuyés sur une base de données de plus de cent mille imagettes annotées couvrant plusieurs dizaines de classes d'invertébrés du sol. Cette approche permet de transformer des images brutes acquises à haute fréquence temporelle en occurrences biologiques exploitables pour l'analyse écologique. Elle ouvre ainsi la possibilité de documenter de manière continue les dynamiques d'activité des communautés édaphiques, leurs variations saisonnières et leur réponse aux conditions environnementales locales. L'application du dispositif sur le site de Saint-Laurent-le-Minier ayant fait l'objet d'une réhabilitation écologique en 2019 constitue un premier cas d'étude permettant d'explorer plusieurs dimensions de la trajectoire de restaur</description>
       <guid isPermaLink="false">eb338943cbdedd4be63ed5f7337dd8f33280696b1593af8707957e83e15cb5e7</guid>
+      <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide pour la constitution d'une base de données pour inventaires des sites potentiellement pollués (IHU)</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9525-guide-pour-la-constitution-d-une-base-de-donnees-pour-inventaires-des-sites-potentiellement-pollues-ihu.html</link>
+      <description>Le renouvellement urbain et la reconstruction de la ville sur la ville sont des enjeux majeurs de l’urbanisme pour l’ensemble des acteurs de l’aménagement du territoire et en particulier les collectivités territoriales depuis déjà plusieurs années. Ils s’inscrivent désormais pleinement dans la démarche ZAN (Zéro Artificialisation Nette), mise en place en 2021 par la Loi Climat et Résilience, qui fixe comme objectif d’atteindre, en 2050, l’absence de toute artificialisation nette des sols. Ces enjeux nécessitent la prise en compte des éventuels risques environnementaux et sanitaires liés à l’historique et au contexte environnemental de ces zones urbaines. La démarche d’Inventaire Historique Urbain (IHU) a pour vocation de permettre aux collectivités locales de développer leur connaissance des friches et des sites potentiellement pollués de leur territoire, d’anticiper les enjeux associés dans le cadre de leurs futurs projets d’aménagement, et, potentiellement, d’apporter aux porteurs de projet un premier niveau d’information relatif au risque de présence de pollution sur un site. L’ADEME accompagne les collectivités locales dans ces démarches par un dispositif d’Aides à la Décision, se traduisant d’une part par des aides financières, et d’autre part par la mise à disposition d’outils et de méthodes pour améliorer les pratiques. Dans ce cadre, l’ADEME met à disposition des collectivités, depuis 2021, un cahier des charges type pour l’élaboration d’un IHU. Dans cette continuité, elle a souhaité pouvoir proposer aux collectivités des outils complémentaires pour l’élaboration d’un IHU. Une base de données type et un modèle de saisie de données QGIS ont ainsi été créés. La création de ces outils s’est appuyée sur l’interview de collectivités ou d’agences d’urbanisme en vue de</description>
+      <guid isPermaLink="false">182e1c3b19b223455dd3027cdacab4896cd7e5953ce8069177e407a76f55d396</guid>
       <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3013,13 +3020,6 @@
       <pubDate>Tue, 23 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>PREFIGS : Préfigurer une transition écologique juste.</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9452-prefigs-prefigurer-une-transition-ecologique-juste.html</link>
-      <description>Le projet Prefigs (PRécarité Écologie Futur Imaginaires orGanisations Savoirs) est un programme de recherche-action participative visant à intégrer les expériences de vie précaires dans la construction, par le bas, d’une transition écologique juste, entendue comme une transformation radicale, démocratique et socialement émancipatrice de la société. Pendant deux ans, quatre collectifs socialement mixtes ont enquêté sur des problématiques concrètes (mobilité rurale bas carbone, alimentation durable accessible, habitabilité des quartiers populaires) et conçu des solutions locales (covoiturage, caisse alimentaire, jardins partagés, animations et œuvre collective), soutenues par des partenariats institutionnels. Ces expérimentations ont permis d’explorer les tensions sociales relatives à l’écologie et les manières de les contourner en vue de faire de la transition écologique juste un référentiel d’action publique.</description>
-      <guid isPermaLink="false">d08b5f8d9791b4368de20ab1f73b99ae12f6163098d57ab2c81fd37290a54aff</guid>
-      <pubDate>Tue, 23 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Animation d'une démarche ClimAgri®</title>
       <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9449-animation-d-une-demarche-climagriR.html</link>
       <description>ClimAgri ® est à la fois un outil de diagnostic et une démarche d'animation auprès des acteurs sur les enjeux climatiques (en particulier émissions de gaz à effet de serre et stockage de carbone) du secteur agricole, à l'échelle territoriale. Ce guide d'accompagnement à la démarche propose des clés aux experts ClimAgri® pour réaliser une démarche ClimAgri®, sur la base du diagnostic jusqu'au passage à l'action, en passant par l'indispensable mobilisation des acteurs.</description>
@@ -3034,17 +3034,17 @@
       <pubDate>Mon, 22 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Cartographie participative des refuges climatiques : infographie</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9442-cartographie-participative-des-refuges-climatiques-infographie.html</link>
+      <description>Ce commun lauréat à l'appel à communs est une cartographie numérique participative, pour que les collectivités et les citoyens puissent identifier, qualifier et rendre visibles les espaces refuges climatiques en ville.</description>
+      <guid isPermaLink="false">7566db8f2f1b9f9821e36e267677e29e3f753ee21cf72dd94526a30b83c37d95</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>La Forge d'Adaptations : infographie</title>
       <link>https://librairie.ademe.fr/changement-climatique/9429-la-forge-d-adaptations-infographie.html</link>
       <description>Du sud au nord, produire et documenter des prototypes de solutions face aux effets du changement climatique. Les nombreux fablabs à travers le monde, en tant que lieux de conception et de fabrication, développent des prototypes pour répondre aux défis locaux soulevés par le changement climatique. Ces prototypes sont souvent méconnus des populations, car ils ne sont pas documentés d’une façon permettant un transfert aisé des connaissances.</description>
       <guid isPermaLink="false">33014a19e19d95857277ad9a761eefbc30780c5af371d7369fb6a47bc91a4d23</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TerriSTORY : infographie</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9431-terristory-infographie.html</link>
-      <description>Aider le pilotage de la transition écologique des territoires via une plateforme partenariale. Remédier à la dispersion des données du territoire et des outils de pilotage nécessaires aux collectivités pour organiser leur transition écologique</description>
-      <guid isPermaLink="false">2b4daf2d8e6fbe6e1909db7481e524f3230fc5de1fe3584dab966dc432b6f554</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3055,10 +3055,10 @@
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cartographie participative des refuges climatiques : infographie</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9442-cartographie-participative-des-refuges-climatiques-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est une cartographie numérique participative, pour que les collectivités et les citoyens puissent identifier, qualifier et rendre visibles les espaces refuges climatiques en ville.</description>
-      <guid isPermaLink="false">7566db8f2f1b9f9821e36e267677e29e3f753ee21cf72dd94526a30b83c37d95</guid>
+      <title>TerriSTORY : infographie</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9431-terristory-infographie.html</link>
+      <description>Aider le pilotage de la transition écologique des territoires via une plateforme partenariale. Remédier à la dispersion des données du territoire et des outils de pilotage nécessaires aux collectivités pour organiser leur transition écologique</description>
+      <guid isPermaLink="false">2b4daf2d8e6fbe6e1909db7481e524f3230fc5de1fe3584dab966dc432b6f554</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3069,24 +3069,17 @@
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Localiser les transitions écologiques, démocratiques et sociales</title>
-      <link>https://librairie.ademe.fr/recherche-et-innovation/9425-localiser-les-transitions-ecologiques-democratiques-et-sociales.html</link>
-      <description>Le projet TecDem vise à questionner les modalités de localisation des transitions écologiques, démocratiques et sociales au sens d’ancrage dans des lieux et des territoires mais aussi d’actualisation dans des situations concrètes et des contextes sociaux particuliers. Comment les centres sociaux, les acteurs du réemploi et les collectifs citoyens articulent ils aujourd’hui les dimensions écologique, sociale et démocratique dans leurs actions ? Le projet analyse la diffusion des transitions dans des quartiers populaires et dans différents contextes socio-spatiaux de la région Centre-Val de Loire. Une enquête a été menée à l’échelle de la région à deux niveaux. D’abord, avec la fédération régionale des centres sociaux et le réseau régional des acteurs du réemploi et de la réutilisation sur les expériences de groupes qui portent des actions intégrant transition écologique et transitions démocratique et sociale. Ensuite, a été étudié la place des enjeux de justice sociale et environnementale au sein des dispositifs de participation et d’implication citoyenne mis en oeuvre par la Région. Puis deux études de cas territorialisées ont été mises en oeuvre : au sein de Bourges Plus et du PETR Pays Loire Beauce.</description>
-      <guid isPermaLink="false">4b86980b15bbe6216e81a4f162d55db022c63cb00cd90e620b36425e14dc387f</guid>
+      <title>La rue commune : infographie</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9438-la-rue-commune-infographie.html</link>
+      <description>Ce commun lauréat à l'appel à communs est une méthodologie présentée dans un guide qui met l’accent sur la rue en tant que premier bien commun urbain, et sa transformation pour amorcer la transition écologique et sociale des villes. La méthodologie permet de réaliser un diagnostic de la rue pour la faire évoluer vers l’organisation et la mise en oeuvre d’une rue commune selon 5 principes : le lien social ; la priorité au piéton pour favoriser la santé et le bien-être ; la biodiversité ; le rafraîchissement urbain ; et la valorisation des eaux pluviales. Le diagnostic de la rue intègre des analyses incluant l’insertion de la rue dans son contexte local (mobilités, climat, continuités écologiques), ainsi qu’un diagnostic matériel (sols, façades, toitures) et immatériel (usages). Le guide propose les critères pour qu’une rue soit éligible à cette transformation (constituer un axe secondaire, présence des transports en commun, possibilité de décision d’engagement de la collectivité) et présente 4 études de cas permettant d’illustrer une diversité de situations de projet, dans une perspective de mise en oeuvre.</description>
+      <guid isPermaLink="false">987584263cd3f5c5e8ac8136080a28bd9983c5d03ed0ab7f1171a57eb5008698</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Pas de vacances pour la vacance : infographie</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9428-pas-de-vacances-pour-la-vacance-infographie.html</link>
       <description>Visualiser la vacance des logements pour mieux valoriser la ressource. La vacance des logements est un levier sous-exploité pour répondre aux besoins de logements.</description>
-      <guid isPermaLink="false">a11d5420fbfaab5ecfb42d890f02feba3c00a3cb6204a2552427ce7d72892df7</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CycloDiag : infographie</title>
-      <link>https://librairie.ademe.fr/mobilite-et-transports/9445-cyclodiag-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est un outil d'auto-diagnostic à destination des collectivités, conçu pour évaluer le niveau d'engagement en matière de cyclologistique.</description>
-      <guid isPermaLink="false">1fb99d143b897dbe251d9b8d48dd0fe6e41f1aea277824bdb5f904ce1fd69088</guid>
+      <guid isPermaLink="false">6700015b6c5bf7c251b1eda6f049e8e8a94cc46a0d62931819b687b36f68adc0</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3094,13 +3087,6 @@
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9437-fresque-de-la-ville-infographie.html</link>
       <description>Ce commun lauréat à l'appel à communs est Un jeu sérieux de type fresque pour sensibiliser aux enjeux systémiques et mettre en débat la fabrique de la ville. Une campagne de financement participatif du jeu imprimé a été organisée pour fédérer la communauté et faciliter sa diffusion. Un tour de France d’ateliers fresque de la ville a été également organisé, avec des animations et des formations pour former les participants à l’animation du jeu. Depuis sa finalisation en 2022, sa diffusion se poursuit : demandes d’animation, téléchargements des tutos, achats de cartes papier… L’animation du jeu est simple et nécessite peu de matériel en dehors des cartes du jeu.</description>
       <guid isPermaLink="false">5481bc84cbdd281426effc0b05fc12ba8ac4bf7b071cd5f98994f60b4d0fde96</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La rue commune : infographie</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9438-la-rue-commune-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est une méthodologie présentée dans un guide qui met l’accent sur la rue en tant que premier bien commun urbain, et sa transformation pour amorcer la transition écologique et sociale des villes. La méthodologie permet de réaliser un diagnostic de la rue pour la faire évoluer vers l’organisation et la mise en oeuvre d’une rue commune selon 5 principes : le lien social ; la priorité au piéton pour favoriser la santé et le bien-être ; la biodiversité ; le rafraîchissement urbain ; et la valorisation des eaux pluviales. Le diagnostic de la rue intègre des analyses incluant l’insertion de la rue dans son contexte local (mobilités, climat, continuités écologiques), ainsi qu’un diagnostic matériel (sols, façades, toitures) et immatériel (usages). Le guide propose les critères pour qu’une rue soit éligible à cette transformation (constituer un axe secondaire, présence des transports en commun, possibilité de décision d’engagement de la collectivité) et présente 4 études de cas permettant d’illustrer une diversité de situations de projet, dans une perspective de mise en oeuvre.</description>
-      <guid isPermaLink="false">987584263cd3f5c5e8ac8136080a28bd9983c5d03ed0ab7f1171a57eb5008698</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3115,6 +3101,13 @@
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9443-observatoire-national-quartier-energie-carbone.html</link>
       <description>Ce commun lauréat à l'appel à communs est une plateforme numérique qui capitalise des évaluations réalisées grâce à la méthode Quartier Energie Carbone.</description>
       <guid isPermaLink="false">b972b6e8c1c28d06914ee3f9ba356ab28d7ff166f6d893e1fcb5223f14941ca6</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>CycloDiag : infographie</title>
+      <link>https://librairie.ademe.fr/mobilite-et-transports/9445-cyclodiag-infographie.html</link>
+      <description>Ce commun lauréat à l'appel à communs est un outil d'auto-diagnostic à destination des collectivités, conçu pour évaluer le niveau d'engagement en matière de cyclologistique.</description>
+      <guid isPermaLink="false">1fb99d143b897dbe251d9b8d48dd0fe6e41f1aea277824bdb5f904ce1fd69088</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3279,20 +3272,6 @@
       <pubDate>Tue, 02 Jun 2026 12:51:03 +0000</pubDate>
     </item>
     <item>
-      <title>Questionnaire de diagnostic : Compétences TEE actuelles et futures pour les métiers des espaces verts</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9379-questionnaire-de-diagnostic-competences-tee-actuelles-et-futures-pour-les-metiers-des-espaces-verts.html</link>
-      <description>Ce document présente le questionnaire de diagnostic et d'auto-positionnement dédié aux métiers des espaces verts . La démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le document structure un parcours d'auto-évaluation individuel s'appuyant sur des questions concrètes d'aide au positionnement et de l'analyse des pratiques professionnelles actuelles. Il permet d'identifier les besoins prioritaires de montée en compétences à travers cinq grands axes : l'acculturation et la sensibilisation à la transition écologique, le pilotage et la stratégie des projets durables, l'animation et la facilitation du changement, l'opérationnalisation et la gestion technique, la posture professionnelle et les compétences comportementales / relationnelles. Conçu pour les profils clés du secteur, ici chargé de travaux espaces verts ou naturels, jardinier/jardinière et agent espaces verts ou naturels , cet outil sert de base opérationnelle pour co-construire et orienter les futurs parcours de formation individuels.</description>
-      <guid isPermaLink="false">7261c1f4d4e31d8208b79eeab1545e626300a6f5b0f72a1e598185528438c96d</guid>
-      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Projet EcoBioMAx - Eco-extraction de biomasse maximisée par couplage bi-vis/micro-ondes</title>
-      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9248-projet-ecobiomax-eco-extraction-de-biomasse-maximisee-par-couplage-bi-vis-micro-ondes.html</link>
-      <description>L’objectif du projet est de développer une filière chimie biosourcée pour offrir des alternatives aux usages traditionnels du châtaignier, dont la qualité n'est plus suffisante. Grâce à sa richesse en ellagitannins, le bois peut être valorisé dans des secteurs tels que le biocontrôle, la cosmétique et l’agroalimentaire. Le projet ÉcoBioMax étudie la combinaison de l’extraction par micro-ondes et de l’extrusion bi-vis pour maximiser les rendements et tendre vers le zéro déchet.</description>
-      <guid isPermaLink="false">318b8965a713a3077164472ef2b199ededb4412924aeaa7d11fdf04e73d23d2c</guid>
-      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>GRAINE 2019 - TreCEffiQuaS</title>
       <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9239-graine-2019-treceffiquas.html</link>
       <description>Le projet TreCEffiQuaS s’appuyant sur des recherches menées sur le chêne français démontre qu’une immense majorité du bois dit de qualité secondaire peut effectivement être transformée en matériau bois beaucoup plus performant. Grâce à de nouvelles méthodes de classement à l’aide de scanners industriels plus efficaces que les méthodes visuelles et à des outils d’optimisation innovants, les chercheurs de l’ENSAM de Cluny ouvrent la voie à une application du bois de chêne en matériaux de construction de façon plus durable et plus efficace de nos ressources forestières.</description>
@@ -3328,6 +3307,13 @@
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Questionnaire de diagnostic : Compétences TEE actuelles et futures pour les métiers des espaces verts</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9379-questionnaire-de-diagnostic-competences-tee-actuelles-et-futures-pour-les-metiers-des-espaces-verts.html</link>
+      <description>Ce document présente le questionnaire de diagnostic et d'auto-positionnement dédié aux métiers des espaces verts . La démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le document structure un parcours d'auto-évaluation individuel s'appuyant sur des questions concrètes d'aide au positionnement et de l'analyse des pratiques professionnelles actuelles. Il permet d'identifier les besoins prioritaires de montée en compétences à travers cinq grands axes : l'acculturation et la sensibilisation à la transition écologique, le pilotage et la stratégie des projets durables, l'animation et la facilitation du changement, l'opérationnalisation et la gestion technique, la posture professionnelle et les compétences comportementales / relationnelles. Conçu pour les profils clés du secteur, ici chargé de travaux espaces verts ou naturels, jardinier/jardinière et agent espaces verts ou naturels , cet outil sert de base opérationnelle pour co-construire et orienter les futurs parcours de formation individuels.</description>
+      <guid isPermaLink="false">7261c1f4d4e31d8208b79eeab1545e626300a6f5b0f72a1e598185528438c96d</guid>
+      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Questionnaire de diagnostic : Compétences TEE actuelles et futures pour les métiers de la commande publique et achat</title>
       <link>https://librairie.ademe.fr/changement-climatique/9380-questionnaire-de-diagnostic-competences-tee-actuelles-et-futures-pour-les-metiers-de-la-commande-publique-et-achat.html</link>
       <description>Ce document présente le questionnaire de diagnostic et d'auto-positionnement dédié aux métiers de la commande publique et achat . Issu de la démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, l'ADEME, le CNFPT et la Région Centre-Val de Loire, ce projet vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le document structure un parcours d'auto-évaluation individuel structuré autour de questions concrètes d'aide au positionnement et de l'analyse des pratiques professionnelles actuelles. Il permet d'identifier les besoins prioritaires de montée en compétences à travers cinq grands axes : l'acculturation/sensibilisation, les connaissances techniques/juridiques, la mise en œuvre opérationnelle, la coopération/animation, l'amélioration continue. Conçu pour les profils clés du secteur, ici l'acheteur public, l'instructeur gestionnaire des marchés publics et le prescripteur , cet outil sert de base opérationnelle pour co-construire et orienter les futurs parcours de formation individuels.</description>
@@ -3353,6 +3339,13 @@
       <link>https://librairie.ademe.fr/changement-climatique/9383-carte-metiers-des-espaces-verts-missions-et-evolutions-2025-2050.html</link>
       <description>Ce document présente la carte métier prospective dédiée à l'évolution du rôle de jardinier / chargé de travaux espaces verts &amp; naturels entre 2025 et 2050 . Issu de la démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, ce projet vise à anticiper les mutations des pratiques professionnelles face aux défis écologiques . Le document cartographie les missions actuelles, les enjeux majeurs et les impacts environnementaux du métier , avant de projeter sa transformation à l'horizon 2050 selon deux trajectoires de l'ADEME : le scénario 2 "Coopérations Territoriales" d'une part, et le scénario 3 "Technologies vertes" d'autre part. Il détaille les compétences clés futures (savoirs, savoir-faire, savoir-être) indispensables pour accompagner cette transition et présente le parcours de formation associé. Ce guide constitue ainsi un outil d'orientation stratégique pour préparer dès aujourd'hui les agents aux pratiques de demain .</description>
       <guid isPermaLink="false">467abef816e66f78910077d58e8f87ae51b00c342d3c03bdbd1aaeb8f8ef2f9f</guid>
+      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Projet EcoBioMAx - Eco-extraction de biomasse maximisée par couplage bi-vis/micro-ondes</title>
+      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9248-projet-ecobiomax-eco-extraction-de-biomasse-maximisee-par-couplage-bi-vis-micro-ondes.html</link>
+      <description>L’objectif du projet est de développer une filière chimie biosourcée pour offrir des alternatives aux usages traditionnels du châtaignier, dont la qualité n'est plus suffisante. Grâce à sa richesse en ellagitannins, le bois peut être valorisé dans des secteurs tels que le biocontrôle, la cosmétique et l’agroalimentaire. Le projet ÉcoBioMax étudie la combinaison de l’extraction par micro-ondes et de l’extrusion bi-vis pour maximiser les rendements et tendre vers le zéro déchet.</description>
+      <guid isPermaLink="false">318b8965a713a3077164472ef2b199ededb4412924aeaa7d11fdf04e73d23d2c</guid>
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3587,13 +3580,6 @@
       <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Un logement plus sobre ? Ce que disent les Français</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9305-un-logement-plus-sobre-ce-que-disent-les-francais.html</link>
-      <description>Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet logement: superficie, pratiques de chauffage et de la climatisation.</description>
-      <guid isPermaLink="false">2eadc6c888be366274d7b642224287242512af7c99d7725d1032bdbbb69e84f1</guid>
-      <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Se déplacer sobrement ? Ce que disent les Français</title>
       <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9307-se-deplacer-sobrement-ce-que-disent-les-francais.html</link>
       <description>Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet mobilité: pratiques de déplacements quotidiens et tourisme.</description>
@@ -3605,6 +3591,13 @@
       <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9306-choix-alimentaires-ce-que-disent-les-francais.html</link>
       <description>Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet alimentation.</description>
       <guid isPermaLink="false">c4a65873916c290eb266fb3ede841a801c34ad0e90fb74621f4993821b578c66</guid>
+      <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Un logement plus sobre ? Ce que disent les Français</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9305-un-logement-plus-sobre-ce-que-disent-les-francais.html</link>
+      <description>Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet logement: superficie, pratiques de chauffage et de la climatisation.</description>
+      <guid isPermaLink="false">2eadc6c888be366274d7b642224287242512af7c99d7725d1032bdbbb69e84f1</guid>
       <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3664,13 +3657,6 @@
       <pubDate>Sun, 22 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>RAM2S - Analyses pour étudier l'impact des infrastructures sur l'environnement, avec des terrains d'expérimentation prévus</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9162-ram2s-analyses-pour-etudier-l-impact-des-infrastructures-sur-l-environnement-avec-des-terrains-d-experimentation-prevus.html</link>
-      <description>Devant les défis complexes associant les aspects socio-économiques, environnementaux et techniques, le projet RAM2S (Risques Associés aux Mouvements de Sols et Solutions) vise à approfondir l'analyse de la vulnérabilité des constructions. L’objectif est de cibler les bâtiments à risque tout en élaborant des stratégies appropriées de remédiation et/ou de prévention, permettant ainsi d’anticiper de manière optimale les solutions nécessaires.</description>
-      <guid isPermaLink="false">95c4e9f78a32e7b8b90a1cc8622c5c6e6964d8a8e61db8642cbc872a6657eb50</guid>
-      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>ARG VIP - Développer un outil d'aide à la décision pour améliorer la prévention RGA et inciter le secteur immobilier à s'adapter</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9158-arg-vip-developper-un-outil-d-aide-a-la-decision-pour-ameliorer-la-prevention-rga-et-inciter-le-secteur-immobilier-a-s-adapter.html</link>
       <description>L’application ARG VIP intègre un catalogue de solutions permettant de réduire les vulnérabilités du bâtiment mis en regard avec la perte de valeur potentielle, à différents horizons temporels.</description>
@@ -3699,6 +3685,13 @@
       <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>RAM2S - Analyses pour étudier l'impact des infrastructures sur l'environnement, avec des terrains d'expérimentation prévus</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9162-ram2s-analyses-pour-etudier-l-impact-des-infrastructures-sur-l-environnement-avec-des-terrains-d-experimentation-prevus.html</link>
+      <description>Devant les défis complexes associant les aspects socio-économiques, environnementaux et techniques, le projet RAM2S (Risques Associés aux Mouvements de Sols et Solutions) vise à approfondir l'analyse de la vulnérabilité des constructions. L’objectif est de cibler les bâtiments à risque tout en élaborant des stratégies appropriées de remédiation et/ou de prévention, permettant ainsi d’anticiper de manière optimale les solutions nécessaires.</description>
+      <guid isPermaLink="false">95c4e9f78a32e7b8b90a1cc8622c5c6e6964d8a8e61db8642cbc872a6657eb50</guid>
+      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>REMED RGA - Développement d'outil d'aide à la décision pour choisir les meilleures solutions de prévention/remédiation du RGA</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9163-remed-rga-developpement-d-outil-d-aide-a-la-decision-pour-choisir-les-meilleures-solutions-de-prevention-remediation-du-rga.html</link>
       <description>Le projet a pour objectif de réduire les dégradations sur les constructions avec des structures/fondations vieillissantes et une multiplication/intensification des sollicitations liées aux variations hydriques du sol support.</description>
@@ -3718,13 +3711,6 @@
       <description>Le projet SEHSAR a pour objectif de développer un outil de veille et d’anticipation du niveau de la sécheresse des sols argileux en France par la mesure in situ combinée aux algorithmes de l’intelligence artificielle pour une meilleure prise de décision et des applications comme l’humidification automatique et connectée du procédé MACH « MAison Confortée par Humidification ».</description>
       <guid isPermaLink="false">dadeced2ca2606c301c4b41edb6e6dc9f7f075be232d8ba3261f7d5f65be85d5</guid>
       <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAP 2050 : Modélisations et Analyses Prospectives pour les trajectoires bas carbone des territoires à horizon 2050</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9138-map-2050-modelisations-et-analyses-prospectives-pour-les-trajectoires-bas-carbone-des-territoires-a-horizon-2050.html</link>
-      <description>Lauréat de l’Appel à Projets de Recherche PACT2e de l’ADEME, le projet MAP2050 poursuit trois grands objectifs : construire une vision partagée des besoins des collectivités, de l’état des lieux actuel et des améliorations nécessaires des outils et méthodes d’aide à la décision pour les scénarios de décarbonation des collectivités ; expérimenter, consolider et diffuser sous une forme directement appropriable une méthodologie d’élaboration et d’évaluation prospective des scénarios de décarbonation des collectivités ; spécifier les besoins d’amélioration des outils existants et de développement de nouveaux outils , notamment pour la simulation énergétique dynamique (SED) et la simulation probabiliste des évolutions à moyen et longs termes de l’usage du sol, de la répartition de la population et des comportements (de type « land use »). Le projet a permis d’expérimenter ces différents outils et méthodes avec la Communauté urbaine de Dunkerque , afin de simuler des trajectoires énergie-carbone aux horizons 2030-2050.</description>
-      <guid isPermaLink="false">1aba40b702606bb1ec9c2f721850163403de10b8d94cf62dab5383e0f91d90b2</guid>
-      <pubDate>Wed, 18 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>CASSANDRE : CaniculeS, SANté et Densité de REseaux météorologiques sur le territoire grenoblois</title>
@@ -3781,20 +3767,6 @@
       <description>Infographie sur la sobriété foncière et la réhabilitation des friches qui répond aux 3 questions suivantes : Que constate t-on ? Pourquoi agir ? Comment agir</description>
       <guid isPermaLink="false">8d5bf068eb35838112bdb06356b4e50db0fe827141a468237933f95012002b7e</guid>
       <pubDate>Wed, 04 Feb 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Evaluer la mutabilité des friches – Outil MUTAFRICHES – Brique numérique interopérable</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9013-evaluer-la-mutabilite-des-friches-outil-mutafriches-brique-numerique-interoperable.html</link>
-      <description>MUTAFRICHES est un outil d’aide à la décision visant à définir les usages potentiels les plus adaptés à une friche donnée. En affichant la mutabilité d’un site en friche, il contribue à la réflexion concernant un projet de reconversion, de manière factuelle et objective, sur la base de caractéristiques (qualitatives ou chiffrées) du site et de son environnement. La brique numérique Mutafriches à été développée sur la base des travaux réalisés par l’ADEME en 2024. Le fichier Excel d’origine, a été transformé en solution numérique, interopérable sur d’autres outils de l’écosystème. Accès à l'outil : https://benefriches.incubateur.ademe.dev/commencer-avec-mutabilite</description>
-      <guid isPermaLink="false">883bda4f4575a1ba1dbfc384d960048e30222fbb0cd314ce14b213d2df2ac5fd</guid>
-      <pubDate>Thu, 22 Jan 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Prospective d'évolution des consommations des data centers à court, moyen et long terme de 2024 à 2060</title>
-      <link>https://librairie.ademe.fr/energies/8910-prospective-d-evolution-des-consommations-des-data-centers-a-court-moyen-et-long-terme-de-2024-a-2060.html</link>
-      <description>Cette étude de l’ADEME répond à 3 objectifs : 1. Dresser l’état des lieux de la consommation électrique actuelle des centres de données en France ; 2. Proposer un modèle prospectif détaillé permettant de modéliser des scénarios d’évolution des consommations des centres de données dans le temps ; 3. Modéliser et analyser 5 scénarios prospectifs jusqu’à 2060 : un scénario tendanciel et 4 scénarios envisageant les 4 chemins possibles de transition écologique. Cette étude a considéré les émissions de gaz à effet de serre engendrées, la pression sur les ressources en eau, l’artificialisation des sols, la concurrence avec les d’autres usages de l’électricité, ou encore les enjeux de souveraineté numérique et distingue les consommations en France des consommations à l’étranger pour un usage français.</description>
-      <guid isPermaLink="false">04d22219d83ecf53f48814c587f9277e4eaec8900a832cfb782aa63f591a7afd</guid>
-      <pubDate>Mon, 05 Jan 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
       <title>La cantine nourrit l’avenir – Investissons ensemble au service d’un modèle d’intérêt général</title>
