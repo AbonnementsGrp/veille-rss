@@ -85,8 +85,15 @@ jobs:
             gh label create "$nom" --color "$couleur" --description "$description" --force
           done
           verdict=$(tr '_' '-' < verdict.txt)
+          # gh pose et retire les étiquettes par deux requêtes parallèles : celle
+          # du verdict ne doit pas figurer parmi les retraits, sinon elle peut
+          # disparaître aussitôt posée (issues #8 et #14).
+          perimees=""
+          for e in enquete-ok enquete-a-verifier enquete-manuel enquete-erreur; do
+            [ "$e" = "enquete-$verdict" ] || perimees="$perimees,$e"
+          done
           gh issue edit "$NUMERO" \
-            --remove-label enquete-ok,enquete-a-verifier,enquete-manuel,enquete-erreur \
+            --remove-label "${perimees#,}" \
             --add-label "nouvelle-source,enquete-$verdict"
           if [ "$AUTO" != "true" ]; then
             gh issue comment "$NUMERO" --body-file commentaire.md

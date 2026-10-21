@@ -20,6 +20,8 @@ import re
 import sys
 from pathlib import Path
 
+from bs4 import BeautifulSoup
+
 sys.path.insert(0, str(Path(__file__).resolve().parents[1]))
 
 from veille.browser import BrowserSession  # noqa: E402
@@ -34,6 +36,7 @@ from veille.onboarding import (  # noqa: E402
     investigate,
     render_block,
 )
+from veille.text import clean_text  # noqa: E402
 
 # Libellés du formulaire .github/ISSUE_TEMPLATE/nouvelle-source.yml → clé.
 CHAMPS = {
@@ -49,6 +52,11 @@ TITRES = {
     "a_verifier": "⚠️ Source exploitable, à vérifier avant d'approuver",
     VERDICT_MANUEL: "❌ Cette source demande un réglage manuel",
 }
+# Codes par lesquels un site refuse une page à un robot : accès interdit, trop de
+# requêtes, ou service « indisponible » d'une page de vérification anti-robots.
+# adaptation-changement-climatique.gouv.fr répond ainsi, par une « Vérification
+# du navigateur » en 503, à tout client qui n'exécute pas son JavaScript.
+CODES_REFUS = {403, 429, 503}
 
 
 def parse_issue_body(body: str) -> dict[str, str]:
@@ -92,6 +100,34 @@ def commentaire(p: Proposal, ajoutee: bool = False) -> str:
     return "\n".join(lignes) + "\n"
 
 
+def echec_enquete(url: str, exc: Exception) -> str:
+    """Le commentaire d'une enquête impossible, avec ce que le demandeur peut y faire.
+
+    Une page refusée au robot ne se débloque pas en revérifiant son adresse : le
+    commentaire le dit et oriente vers le flux RSS du site. La veille ne contourne
+    pas ces protections.
+    """
+    reponse = getattr(exc, "response", None)
+    code = getattr(reponse, "status_code", None)
+    if code not in CODES_REFUS:
+        return (f"❌ Impossible d'enquêter sur `{url}` : {exc}\n\n"
+                "Vérifiez l'adresse, puis modifiez l'issue pour relancer.\n")
+    soup = BeautifulSoup(reponse.text, "html.parser")
+    titre = clean_text(soup.title.get_text(), 120) if soup.title else ""
+    return (
+        f"❌ Le site refuse cette page au robot de la veille (code {code}"
+        + (f", page « {titre} »" if titre else "") + ").\n\n"
+        f"Si `{url}` s'ouvre normalement dans votre navigateur, le site la protège contre les "
+        "robots : relancer l'enquête n'y changera rien, et la veille ne contourne pas ces "
+        "protections. Si elle ne s'ouvre pas non plus, le site est momentanément indisponible : "
+        "réessayez plus tard en modifiant l'issue.\n\n"
+        "Proposez plutôt le **flux RSS** du site, s'il en publie un : cherchez un lien « Flux RSS » "
+        "ou « RSS », souvent en haut ou en pied de page, et mettez son adresse à la place de "
+        "celle-ci en modifiant l'issue. Une autre page du site qui liste les mêmes articles peut "
+        "aussi convenir.\n"
+    )
+
+
 def ecrire(nom: str, contenu: str) -> None:
     if nom == "commentaire.md":
         contenu = avec_pied_de_page(contenu)
@@ -121,8 +157,7 @@ def main(argv: list[str]) -> int:
                 max_items=int(settings.get("max_items_per_feed", 60)), cfg=cfg, browser=navigateur,
             )
     except Exception as exc:
-        ecrire("commentaire.md", f"❌ Impossible d'enquêter sur `{url}` : {exc}\n\n"
-               "Vérifiez l'adresse, puis modifiez l'issue pour relancer.\n")
+        ecrire("commentaire.md", echec_enquete(url, exc))
         ecrire("verdict.txt", "erreur")
         return 1
 

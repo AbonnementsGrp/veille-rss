@@ -65,8 +65,14 @@ jobs:
             gh label create "$nom" --color "$couleur" --description "$description" --force
           done
           verdict=$(cat verdict.txt)
+          # L'appel qui pose le verdict ne le retire pas : gh mène les deux en
+          # parallèle (voir nouvelle-source.yml).
+          perimees=""
+          for e in enquete-ok enquete-erreur; do
+            [ "$e" = "enquete-$verdict" ] || perimees="$perimees,$e"
+          done
           gh issue edit "$NUMERO" \
-            --remove-label enquete-ok,enquete-erreur \
+            --remove-label "${perimees#,}" \
             --add-label "nouveau-domaine,enquete-$verdict"
           if [ "$AUTO" != "true" ]; then
             gh issue comment "$NUMERO" --body-file commentaire.md

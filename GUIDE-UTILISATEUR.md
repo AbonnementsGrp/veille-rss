@@ -163,6 +163,7 @@ aucune manipulation technique.
 | ✅ Source prête à être ajoutée | Un flux ou une liste d'articles propre a été trouvée. Si vous avez les droits d'écriture sur le dépôt, la source est ajoutée aussitôt ; sinon il ne manque que la validation d'un responsable. |
 | ⚠️ Exploitable, à vérifier | Des articles ont été trouvés, mais avec des réserves — dates manquantes, méthode fragile, adresse déjà suivie, ou page en JavaScript qu'il a fallu ouvrir dans un navigateur pour voir les articles. Lisez l'aperçu : s'il montre des liens de menu plutôt que des articles, proposez une autre page du site. |
 | ❌ Demande un réglage manuel | La page ne se laisse pas lire automatiquement, même ouverte dans un navigateur (structure inhabituelle, liste d'articles absente). Un responsable devra intervenir à la main, ou une autre page peut être tentée. |
+| ❌ Le site refuse cette page au robot | Le site protège la page contre les robots (par exemple une « Vérification du navigateur ») : relancer l'enquête n'y changera rien. Proposez à la place le **flux RSS** du site — lien « Flux RSS » ou « RSS », souvent en haut ou en pied de page — ou une autre page qui liste les mêmes articles, en modifiant votre demande. |
 
    Le commentaire montre les cinq premiers articles trouvés : c'est le meilleur
    moyen de juger si la source est la bonne.

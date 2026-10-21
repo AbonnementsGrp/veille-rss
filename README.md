@@ -166,9 +166,11 @@ git restore data/history.json public/
 Ils n'accèdent pas au réseau : ils s'appuient sur les jeux de données de
 `tests/fixtures/`, et Playwright y est remplacé par des objets factices. Un seul
 test rend une vraie page dans Chromium, pour prouver que le shadow DOM est bien
-traversé ; il est ignoré sur un poste sans navigateur et joué en CI. La CI
-exécute la suite avant toute génération, afin qu'une régression ne soit jamais
-publiée.
+traversé ; il est ignoré sur un poste sans navigateur et joué en CI. De même,
+`tests/test_workflows.py` exécute l'étape d'étiquetage des workflows d'issue
+avec un faux `gh` : il demande bash (Git Bash sous Windows) et s'ignore sans
+lui. La CI exécute la suite avant toute génération, afin qu'une régression ne
+soit jamais publiée.
 
 ## Purger l'historique d'une source
 
@@ -205,7 +207,10 @@ qu'il écrirait. Il pose une étiquette selon le verdict :
 `enquete-ok`, `enquete-a-verifier`, `enquete-manuel` ou `enquete-erreur`. Les
 étiquettes, dont `approuvé`, sont créées par le workflow lui-même au premier
 passage : rien à préparer dans le dépôt. Le formulaire est reconnu à son premier
-champ, pas à son étiquette.
+champ, pas à son étiquette. Une page que le site refuse aux robots (code 403,
+429 ou 503, souvent une « Vérification du navigateur ») vaut `enquete-erreur`,
+avec un commentaire qui le dit et oriente vers le flux RSS du site : la veille ne
+contourne pas ces protections, et revérifier l'adresse n'y changerait rien.
 
 **Qui approuve.** Une demande déposée par une personne ayant les droits
 d'écriture sur le dépôt (propriétaire ou collaborateur, d'après
@@ -491,6 +496,12 @@ si une source le demande.
   reste (CONTRIBUTOR, NONE…) est un compte extérieur et attend l'étiquette. Les
   workflows d'issue ne s'exécutent plus sur une issue fermée : modifier une
   demande déjà appliquée ne la rejoue pas.
+- **Un `gh issue edit` ne retire jamais l'étiquette qu'il pose.** gh mène
+  `--add-label` et `--remove-label` par deux requêtes parallèles : une étiquette
+  présente des deux côtés disparaît quand le retrait arrive en second. Les
+  issues #8 et #14 sont ainsi restées sans étiquette de verdict. Les workflows
+  d'issue retirent donc les verdicts périmés, sauf celui qu'ils posent ;
+  `tests/test_workflows.py` le vérifie en exécutant leur étape d'étiquetage.
 
 ## Sources suivies
 
