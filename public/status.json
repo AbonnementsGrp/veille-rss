@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-22T04:51:33.903182+00:00",
+  "generated_at": "2026-10-22T11:56:28.209379+00:00",
   "sites_total": 17,
   "sites_ok": 11,
   "sites_error": 6,
   "sites_warning": 2,
-  "new_items": 4,
-  "merged_items": 565,
+  "new_items": 13,
+  "merged_items": 567,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -114,7 +114,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 17,
+      "items": 18,
       "feed": "observatoire-culture.xml",
       "source_feed": "https://www.observatoire-culture.net/feed/",
       "warnings": []
@@ -190,7 +190,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 246 jours (seuil : 60)"
+        "rien de neuf depuis 247 jours (seuil : 60)"
       ]
     },
     {
@@ -249,7 +249,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 930 jours (seuil : 60)"
+        "rien de neuf depuis 931 jours (seuil : 60)"
       ]
     },
     {
@@ -261,7 +261,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 11,
+      "items": 12,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []
