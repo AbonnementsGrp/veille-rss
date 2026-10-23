@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-23T04:53:29.535367+00:00",
+  "generated_at": "2026-10-23T11:42:25.944350+00:00",
   "sites_total": 17,
-  "sites_ok": 13,
-  "sites_error": 4,
+  "sites_ok": 17,
+  "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 1,
-  "merged_items": 569,
+  "new_items": 12,
+  "merged_items": 571,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -37,11 +37,10 @@
       "url": "https://librairie.ademe.fr/3147-changement-climatique",
       "feed_categories": [],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
+      "status": "ok",
+      "method": "flux officiel",
       "items": 60,
       "feed": "ademe-changement-climatique.xml",
-      "error": "https://librairie.ademe.fr/rss/3147-thematique-changement-climatique.xml ne sert pas un flux (contenu text/html) ; aucun article détecté sur la page",
       "source_feed": "https://librairie.ademe.fr/rss/3147-thematique-changement-climatique.xml",
       "warnings": []
     },
@@ -52,11 +51,10 @@
       "url": "https://librairie.ademe.fr/3149-energies",
       "feed_categories": [],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
+      "status": "ok",
+      "method": "flux officiel",
       "items": 60,
       "feed": "ademe-energie.xml",
-      "error": "https://librairie.ademe.fr/rss/3149-thematique-energies.xml ne sert pas un flux (contenu text/html) ; aucun article détecté sur la page",
       "source_feed": "https://librairie.ademe.fr/rss/3149-thematique-energies.xml",
       "warnings": []
     },
@@ -67,11 +65,10 @@
       "url": "https://librairie.ademe.fr/3544-societe-et-politiques-publiques",
       "feed_categories": [],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
+      "status": "ok",
+      "method": "flux officiel",
       "items": 60,
       "feed": "ademe-soci-t-et-politiques-publiques.xml",
-      "error": "https://librairie.ademe.fr/rss/3544-thematique-societe-et-politiques-publiques.xml ne sert pas un flux (contenu text/html) ; aucun article détecté sur la page",
       "source_feed": "https://librairie.ademe.fr/rss/3544-thematique-societe-et-politiques-publiques.xml",
       "warnings": []
     },
@@ -82,11 +79,10 @@
       "url": "https://librairie.ademe.fr/3509-urbanisme-territoires-et-sols",
       "feed_categories": [],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
+      "status": "ok",
+      "method": "flux officiel",
       "items": 60,
       "feed": "ademe-urbanisme-territoires-et-sols.xml",
-      "error": "https://librairie.ademe.fr/rss/3509-thematique-urbanisme-territoires-et-sols.xml ne sert pas un flux (contenu text/html) ; aucun article détecté sur la page",
       "source_feed": "https://librairie.ademe.fr/rss/3509-thematique-urbanisme-territoires-et-sols.xml",
       "warnings": []
     },
@@ -189,7 +185,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 247 jours (seuil : 60)"
+        "rien de neuf depuis 248 jours (seuil : 60)"
       ]
     },
     {
@@ -247,7 +243,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 931 jours (seuil : 60)"
+        "rien de neuf depuis 932 jours (seuil : 60)"
       ]
     },
     {
