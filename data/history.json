@@ -1,4 +1,16 @@
 {
+  "ad774e00f540c187b421b2ba818a2134d271ecc9ab540261cb31502aff9da6b7": {
+    "source": "ANAP - Actualités",
+    "title": "Appui terrain : Développer l’hospitalisation de jour en SMR",
+    "link": "https://www.anap.fr/s/article/appui-terrain-hospitalisation-jour-smr-reforme",
+    "description": "Obligatoire dans le cadre de la réforme, l’Anap vous accompagne pour développer une offre d’hospitalisation partielle en SMR. L’Anap vous propose un appui terrain pour structurer votre projet, intégrer les normes et obligations légales liées à la réforme.",
+    "published": "2026-10-13T14:56:04+00:00",
+    "first_seen": "2026-10-23T21:26:25.219596+00:00",
+    "uid": "ad774e00f540c187b421b2ba818a2134d271ecc9ab540261cb31502aff9da6b7",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "63ce812c88d3e02fd4c778e1fb58ea04cb2fd4f0fcb7fbfcb39bb3300eeb5cc9": {
     "source": "IGAS",
     "title": "Mission de contrôle sur une allégation de fraude lors des épreuves nationales ECOS 2026",
@@ -9422,14 +9434,5 @@
     "first_seen": "2026-09-22T11:42:41.090539+00:00",
     "uid": "6b7399dd0bfa77278e070623a4d1bd366d5ac74eaa051858a997301f8eeffae7",
     "description_checked": true
-  },
-  "012a2a09b9fd817db3690e3b767238dd5cd1c350d35f795a7299b13b609aa6fb": {
-    "source": "Outre-Mer 360°",
-    "title": "L’État va verser 21 milliards de Fcfp à la Nouvelle-Calédonie pour tenir jusqu’en novembre",
-    "link": "https://outremers360.com/bassin-pacifique-appli/letat-va-verser-21-milliards-de-fcfp-a-la-nouvelle-caledonie-pour-tenir-jusquen-novembre",
-    "description": "Entre la dernière tranche du prêt garanti et la subvention prévue en 2026, la Nouvelle-Calédonie s’apprête à recevoir près de 21 milliards francs de l’État, a annoncé Milakulo Tukumuli lors d’une conférence de presse ce mardi 22 septembre. Le président...",
-    "published": "2026-09-22T09:46:41+00:00",
-    "first_seen": "2026-09-22T11:42:32.148950+00:00",
-    "uid": "012a2a09b9fd817db3690e3b767238dd5cd1c350d35f795a7299b13b609aa6fb"
   }
 }
