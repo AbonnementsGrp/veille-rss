@@ -1,4 +1,16 @@
 {
+  "c7cc6cb077dd7a2ab774d54a8b09c382f8f2f923d5d04c9361d0d1923d3c0488": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire RH \"Gestion du temps de travail\"",
+    "link": "https://www.anap.fr/s/article/webinaires-RH-Gestion-du-temps-de-travail",
+    "description": "Comment organiser la présence des équipes et sécuriser vos plannings ? Notre webinaire vous aide à prendre en main nos 2 outils complémentaires : maquette organisationnelle pour calculer l'effectif nécessaire à votre activité, et cycle de travail pour répartir vos effectifs.",
+    "published": "2026-10-22T08:09:41+00:00",
+    "first_seen": "2026-10-23T04:53:17.637636+00:00",
+    "uid": "c7cc6cb077dd7a2ab774d54a8b09c382f8f2f923d5d04c9361d0d1923d3c0488",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "1f8bc7c6e1405c0bd73e20432f9f701cca993dcd0742982c02eebaa54db4b44e": {
     "source": "C2L Solutions - Restauration collective",
     "title": "EGALIM 2026 en restauration collective : ce qui change pour les acheteurs publics",
@@ -9428,14 +9440,5 @@
     "published": "2026-09-21T09:23:44+00:00",
     "first_seen": "2026-09-21T12:51:48.754998+00:00",
     "uid": "8bdf40cb5f26174f16002fd54dd5e51e912764220b07ff4e4aff3140d7229714"
-  },
-  "979ffed66a453a0afda191ea92f9babf47148e0a16c678ffb8043a8636153809": {
-    "source": "Outre-Mer 360°",
-    "title": "Nouvelle-Calédonie : La Chambre des comptes juge inefficace la formation professionnelle des jeunes éloignés de l’emploi",
-    "link": "https://outremers360.com/bassin-pacifique-appli/nouvelle-caledonie-la-chambre-des-comptes-juge-inefficace-la-formation-professionnelle-des-jeunes-eloignes-de-lemploi",
-    "description": "Problème de gouvernance et de pilotage, absence de vision stratégique, baisse de moitié des crédits dédiés en dix ans… Le rapport de la Chambre territoriale des comptes publié ce lundi et visant à évaluer la formation professionnelle menée par la Nouvelle-Calédonie...",
-    "published": "2026-09-21T08:42:09+00:00",
-    "first_seen": "2026-09-21T12:51:48.754998+00:00",
-    "uid": "979ffed66a453a0afda191ea92f9babf47148e0a16c678ffb8043a8636153809"
   }
 }

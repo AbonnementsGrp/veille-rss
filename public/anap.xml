@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 21 Oct 2026 11:57:50 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 22 Oct 2026 08:09:41 +0000</lastBuildDate>
+    <item>
+      <title>Webinaire RH "Gestion du temps de travail"</title>
+      <link>https://www.anap.fr/s/article/webinaires-RH-Gestion-du-temps-de-travail</link>
+      <description>Comment organiser la présence des équipes et sécuriser vos plannings ? Notre webinaire vous aide à prendre en main nos 2 outils complémentaires : maquette organisationnelle pour calculer l'effectif nécessaire à votre activité, et cycle de travail pour répartir vos effectifs.</description>
+      <guid isPermaLink="false">c7cc6cb077dd7a2ab774d54a8b09c382f8f2f923d5d04c9361d0d1923d3c0488</guid>
+      <pubDate>Thu, 22 Oct 2026 08:09:41 +0000</pubDate>
+    </item>
     <item>
       <title>La Fabrique RH Anap : la nouvelle génération d’outils RH à découvrir et enrichir</title>
       <link>https://www.anap.fr/s/article/la-fabrique-rh-anap-la-nouvelle-generation-d-outils-rh-a-decouvrir-et-enrichir</link>
@@ -414,13 +421,6 @@
       <description>2 autodiagnostics pour réaliser un premier état des lieux, identifier les points forts et axes d'amélioration de l'organisation d'un CMP, selon les publics accueillis : psychiatrie de l'enfant et de l'adolescent, et psychiatrie de l'adulte. Avec, en plus, un outil de synthèse pour une vision consolidée de plusieurs CMP.</description>
       <guid isPermaLink="false">854d98e1a9e13d7239ce760dc180c9d732e932d2cf61fe7003800ba81eb08591</guid>
       <pubDate>Tue, 06 Oct 2026 07:57:28 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autodiagnostic Système d’information RH</title>
-      <link>https://www.anap.fr/s/article/ressourceshumaines-publication-2534</link>
-      <description>Evaluez la maturité de votre système d'information de gestion des ressources humaines. Recrutement, gestion du personnel, paie, formation... Avec cet outil en ligne, analysez le SIRH de votre établissement, ou de votre groupement jusqu’à 10 structures, et identifiez vos axes de progrès.</description>
-      <guid isPermaLink="false">e41265ef78d3cb3567f54d5866b0bad356ab6bf0d3068478f70babc8bd773934</guid>
-      <pubDate>Tue, 06 Oct 2026 07:56:55 +0000</pubDate>
     </item>
   </channel>
 </rss>
