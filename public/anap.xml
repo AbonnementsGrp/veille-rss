@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 22 Oct 2026 08:09:41 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 23 Oct 2026 13:51:33 +0000</lastBuildDate>
+    <item>
+      <title>Webinaire - Ambulatoire : calibrer aisément mon organisation</title>
+      <link>https://www.anap.fr/s/article/webinaire-ambulatoire-calibrer-aisement-mon-organisation</link>
+      <description>Chirurgie, SMR, médecine… et si vous pouviez calibrer simplement et efficacement l’organisation de votre service ambulatoire ? Découvrez comment simuler une journée type et tester votre organisation avant de la mettre en place.</description>
+      <guid isPermaLink="false">525319e26f1c09a529b5cb099e6321b6d4efa99b3d358c1759b137dbe3c1607c</guid>
+      <pubDate>Fri, 23 Oct 2026 13:51:33 +0000</pubDate>
+    </item>
     <item>
       <title>Webinaire RH "Gestion du temps de travail"</title>
       <link>https://www.anap.fr/s/article/webinaires-RH-Gestion-du-temps-de-travail</link>
@@ -414,13 +421,6 @@
       <description>Cet outil a été conçu pour réaliser un état des lieux des séjours de plus de 90 jours en continu sur un an, et pour mesurer le niveau d’organisation de votre structure. Vous pourrez, à partir de la situation des personnes hospitalisées, leur proposer des solutions de sortie adaptées à leurs besoins.</description>
       <guid isPermaLink="false">613ff0a290d5857ea02416bb246ad85b33f84ffefcf2c04971a6a957ea88707b</guid>
       <pubDate>Tue, 06 Oct 2026 07:57:59 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autodiagnostics Psychiatrie et santé mentale : CMP</title>
-      <link>https://www.anap.fr/s/article/autodiagnostic-psychiatrie-sante-mentale-cmp</link>
-      <description>2 autodiagnostics pour réaliser un premier état des lieux, identifier les points forts et axes d'amélioration de l'organisation d'un CMP, selon les publics accueillis : psychiatrie de l'enfant et de l'adolescent, et psychiatrie de l'adulte. Avec, en plus, un outil de synthèse pour une vision consolidée de plusieurs CMP.</description>
-      <guid isPermaLink="false">854d98e1a9e13d7239ce760dc180c9d732e932d2cf61fe7003800ba81eb08591</guid>
-      <pubDate>Tue, 06 Oct 2026 07:57:28 +0000</pubDate>
     </item>
   </channel>
 </rss>

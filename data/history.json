@@ -1,4 +1,16 @@
 {
+  "525319e26f1c09a529b5cb099e6321b6d4efa99b3d358c1759b137dbe3c1607c": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire - Ambulatoire : calibrer aisément mon organisation",
+    "link": "https://www.anap.fr/s/article/webinaire-ambulatoire-calibrer-aisement-mon-organisation",
+    "description": "Chirurgie, SMR, médecine… et si vous pouviez calibrer simplement et efficacement l’organisation de votre service ambulatoire ? Découvrez comment simuler une journée type et tester votre organisation avant de la mettre en place.",
+    "published": "2026-10-23T13:51:33+00:00",
+    "first_seen": "2026-10-24T04:39:49.660400+00:00",
+    "uid": "525319e26f1c09a529b5cb099e6321b6d4efa99b3d358c1759b137dbe3c1607c",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "ad774e00f540c187b421b2ba818a2134d271ecc9ab540261cb31502aff9da6b7": {
     "source": "ANAP - Actualités",
     "title": "Appui terrain : Développer l’hospitalisation de jour en SMR",
@@ -9423,16 +9435,6 @@
     "published": "2026-09-22T09:54:03+00:00",
     "first_seen": "2026-09-22T11:42:41.090539+00:00",
     "uid": "3e119a0448b5702a171d9bd47fc5df6536e6dc76e7d6493f18da160e1014face",
-    "description_checked": true
-  },
-  "6b7399dd0bfa77278e070623a4d1bd366d5ac74eaa051858a997301f8eeffae7": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Réforme du CMG : 55 % des familles seraient gagnantes, selon les résultats de l’enquête CNAF",
-    "link": "https://www.lesprosdelapetiteenfance.fr/reforme-du-cmg-55-des-familles-seraient-gagnantes-selon-les-resultats-de-la-cnaf/",
-    "description": "Les premiers résultats de l’enquête menée par la Cnaf sur la réforme du CMG ont été dévoilés ce 21 septembre, à l’occasion de la Rentrée de la petite enfance",
-    "published": "2026-09-21T09:58:10+00:00",
-    "first_seen": "2026-09-22T11:42:41.090539+00:00",
-    "uid": "6b7399dd0bfa77278e070623a4d1bd366d5ac74eaa051858a997301f8eeffae7",
     "description_checked": true
   }
 }
