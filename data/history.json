@@ -1,4 +1,22 @@
 {
+  "bd71e4c3ef4bf7c84face07eb254c40c64645c3fb5536e81cb19fa0c5bd4899b": {
+    "source": "Enfance & Jeunesse Infos - Veille juridique",
+    "title": "Détention provisoire des mineurs : une prolongation décidée avant l’abrogation reste valable",
+    "link": "https://www.enfancejeunesseinfos.fr/detention-provisoire-des-mineurs-une-prolongation-decidee-avant-labrogation-reste-valable/",
+    "description": "Pour un mineur renvoyé devant une cour d’assises, une prolongation de détention décidée avant l’abrogation du texte qui la permettait peut continuer à s’appliquer après. La Cour de cassation précise le sort des mesures prononcées avant le 1er juillet 2026.",
+    "published": "2026-09-21T12:19:50+00:00",
+    "first_seen": "2026-10-24T15:59:00.895603+00:00",
+    "uid": "bd71e4c3ef4bf7c84face07eb254c40c64645c3fb5536e81cb19fa0c5bd4899b"
+  },
+  "269da370b5dfa99efa0e296c11d8e229cbfb2fc715b339d1bc8e366c90db0a2b": {
+    "source": "Enfance & Jeunesse Infos - Veille juridique",
+    "title": "Enfants de l’ASE : l’Éducation nationale veut prévenir les ruptures scolaires",
+    "link": "https://www.enfancejeunesseinfos.fr/enfants-de-lase-leducation-nationale-veut-prevenir-les-ruptures-scolaires/",
+    "description": "Une instruction du 16 septembre 2026 demande aux académies de mobiliser l'accompagnement pédagogique à domicile, à l’hôpital ou à l’école (Apadhe) pour les élèves de l’ASE temporairement empêchés d’aller à l’école, afin d’éviter les ruptures scolaires.",
+    "published": "2026-09-18T17:11:52+00:00",
+    "first_seen": "2026-10-24T15:59:00.895603+00:00",
+    "uid": "269da370b5dfa99efa0e296c11d8e229cbfb2fc715b339d1bc8e366c90db0a2b"
+  },
   "5702da8e7cf5052e5269c0116e9b2e56bb2249b8ef147e95ad539eeabe7b1bfc": {
     "source": "Outre-Mer 360°",
     "title": "« En toute intimité avec… Patrick Chamoiseau » : « L’amour est le moteur fondamental de la créativité »",
@@ -21,7 +39,7 @@
     "source": "Outre-Mer 360°",
     "title": "Aérien. Copa Airlines en Guyane : vers une ligne directe pour Panama en 2027 ?",
     "link": "https://outremers360.com/bassin-atlantique-appli/aerien-copa-airlines-en-guyane-vers-une-ligne-directe-pour-panama-en-2027",
-    "description": "Et si la Guyane était bientôt reliée au hub de Panama ? Ce mardi 20 octobre, la Collectivité territoriale et le Comité du tourisme ont reçu Gabriel Varela, directeur de la planification et des alliances de Copa Airlines, en visite sur le territoire du 19 au 21 octobre....",
+    "description": "Et si la Guyane était bientôt reliée au hub de Panama ? Ce mardi 20 octobre, la SCAC et le Comité du tourisme ont reçu Gabriel Varela, directeur de la planification et des alliances de Copa Airlines, en visite sur le territoire du 19 au 21 octobre. Objectif : étudier la...",
     "published": "2026-10-24T08:03:17+00:00",
     "first_seen": "2026-10-24T11:04:21.402005+00:00",
     "uid": "263f77f9ce8027b799bd316ffcb9617b47ac0e0ce4a89cb5fedd5bdd57e7e5b9"
@@ -9406,30 +9424,6 @@
     "published": "2026-09-22T12:21:23+00:00",
     "first_seen": "2026-09-23T04:47:54.623442+00:00",
     "uid": "37df2e923174e010a7e47b88f9c269573fe1010ab88d2b475ee5623d8b8a8863",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "60d3e366b0bdff4c43a903a97f0009da9742b4e6ff68728fce93c1ff9927ca99": {
-    "source": "ANAP - Actualités",
-    "title": "Réforme des SAD : tous les outils Anap",
-    "link": "https://www.anap.fr/s/article/reforme-services-autonomie-a-domicile",
-    "description": "L'Anap met à disposition des gestionnaires de services à domicile des outils d’accompagnement à la mise en œuvre de la réforme des SAD.",
-    "published": "2026-09-22T08:32:06+00:00",
-    "first_seen": "2026-09-23T04:47:54.623442+00:00",
-    "uid": "60d3e366b0bdff4c43a903a97f0009da9742b4e6ff68728fce93c1ff9927ca99",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "f5fb504421c5e2cf3dc1e7ec66c7a72bce0e64a55c0066e89e16f8f34bdbfdce": {
-    "source": "ANAP - Actualités",
-    "title": "Réforme des SAD : le GCSMS",
-    "link": "https://www.anap.fr/s/article/reforme-sad-gcsms",
-    "description": "La réforme des SAD implique pour les gestionnaires de services à domicile d’opérer des rapprochements pour proposer une réponse coordonnée entre l’aide et le soin. Pour connaître l'essentiel sur le GCSMS et les enjeux incontournables dans le cadre d'une opération de rapprochement, téléchargez nos fiches pratiques.",
-    "published": "2026-09-22T08:31:08+00:00",
-    "first_seen": "2026-09-23T04:47:54.623442+00:00",
-    "uid": "f5fb504421c5e2cf3dc1e7ec66c7a72bce0e64a55c0066e89e16f8f34bdbfdce",
     "description_checked": true,
     "title_checked": true,
     "title_enriched": true
