@@ -1,4 +1,13 @@
 {
+  "58803830e091383f4ce99bccd2271a10752a21a2604277557dc435b529f58128": {
+    "source": "Outre-Mer 360°",
+    "title": "Route du Rhum 2026 : la Guadeloupe « vise 30 à 35 millions d’euros de retombées», indique Jean-Claude Nelson vice-président de la Région Guadeloupe",
+    "link": "https://outremers360.com/bassin-atlantique-appli/route-du-rhum-2026-la-guadeloupe-vise-30-a-35-millions-deuros-de-retombees-indique-jean-claude-nelson-vice-president-de-la-region-guadeloupe",
+    "description": "Partenaire majeur de la course, la Région Guadeloupe a déployé un pavillon de 950 m² et 47 entreprises sur le village de Saint-Malo. Intérrogé par Outremers 360 à Saint-Malo, le vice-président du conseil régional de la Guadeloupe, Jean-Claude Nelson, vise entre 30 et 35...",
+    "published": "2026-10-24T16:22:57+00:00",
+    "first_seen": "2026-10-24T20:52:14.129922+00:00",
+    "uid": "58803830e091383f4ce99bccd2271a10752a21a2604277557dc435b529f58128"
+  },
   "bd71e4c3ef4bf7c84face07eb254c40c64645c3fb5536e81cb19fa0c5bd4899b": {
     "source": "Enfance & Jeunesse Infos - Veille juridique",
     "title": "Détention provisoire des mineurs : une prolongation décidée avant l’abrogation reste valable",
@@ -9415,17 +9424,5 @@
     "published": "2026-09-23T06:47:37+00:00",
     "first_seen": "2026-09-23T11:40:20.794640+00:00",
     "uid": "aa8edee20dd3cd05ae738bd85e1198a05646ce6b513549a5f55d55fcaab27638"
-  },
-  "37df2e923174e010a7e47b88f9c269573fe1010ab88d2b475ee5623d8b8a8863": {
-    "source": "ANAP - Actualités",
-    "title": "Faciliter l'accès au logement des professionnels des établissements sanitaires et médico-sociaux",
-    "link": "https://www.anap.fr/s/article/faciliter-l-acces-au-logement-des-professionnels-des-etablissements-sanitaires-et-medico-sociaux",
-    "description": "Face aux difficultés de recrutement et de fidélisation dans les zones tendues, le logement s'impose comme un levier RH incontournable. Ce guide pratique donne aux directions d'établissements sanitaires et médico-sociaux des outils concrets pour structurer une politique logement adaptée à leurs moyens et à leur territoire.",
-    "published": "2026-09-22T12:21:23+00:00",
-    "first_seen": "2026-09-23T04:47:54.623442+00:00",
-    "uid": "37df2e923174e010a7e47b88f9c269573fe1010ab88d2b475ee5623d8b8a8863",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
   }
 }
