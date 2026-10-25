@@ -2173,17 +2173,17 @@
       <pubDate>Fri, 11 Sep 2026 09:14:21 +0000</pubDate>
     </item>
     <item>
-      <title>Journées Françaises de l'Evaluation 2025 : "Evaluation et Transition(s)"</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9500-journees-francaises-de-l-evaluation-2025-evaluation-et-transitions.html</link>
-      <description>Organisées tous les deux ans par la Société Française de l’Évaluation (SFE), les Journées Françaises de l’Évaluation réunissent près de 400 participants issus des collectivités, de la recherche, des institutions publiques et du monde de l’évaluation. Cet événement national vise à renforcer la place de l’évaluation dans la décision publique, à valoriser son utilité et à favoriser le partage de pratiques entre acteurs. À travers des conférences, des échanges scientifiques, des témoignages, des visites de terrain et des interventions de personnalités reconnues, les JFE permettent d’explorer les grands enjeux contemporains des politiques publiques, notamment ceux liés aux transitions. Elles contribuent également à lever les freins au développement de l’évaluation, à mieux outiller les collectivités et à rapprocher les acteurs territoriaux et nationaux de la recherche. Les interventions font enfin l’objet d’une valorisation scientifique à travers la publication d’actes, afin de prolonger les réflexions et de laisser un héritage durable.</description>
-      <guid isPermaLink="false">12647f8015c8abff73dd5c84ea6c436507972f0ab3a318f411f10c0a2779d06e</guid>
-      <pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Les agriculteurs et le changement climatique</title>
       <link>https://librairie.ademe.fr/changement-climatique/9070-les-agriculteurs-et-le-changement-climatique.html</link>
       <description>Depuis 2000, l’ADEME conduit une enquête administrée chaque année auprès d'échantillons représentatifs de la population française permettant de dresser un tableau des représentations sociales du changement climatique et de leurs évolutions. L'enquête est également réalisée auprès d’un sur-échantillon cible. Cette année il a porté sur les agriculteurs qui avaient été interrogés en 2017. Les résultats montrent que les attitudes des agriculteurs interrogés dans cette enquête sont assez similaires à celles de la population générale. L’environnement apparait toutefois comme leur priorité numéro un par rapport à d’autres enjeux pour la France (alors qu’il s’agit de la 5ème préoccupation pour les Français). Ils sont par ailleurs plus nombreux à déjà subir les conséquences du changement climatique, en nette augmentation depuis 2017. Les conséquences du changement climatique affectent fortement leur activité et les contraint à de nouvelles stratégies d’adaptation. Ils affirment davantage que le public leur capacité de s’adapter à ses conséquences, bien que cet optimisme recule.</description>
       <guid isPermaLink="false">212f2203923d93d378dcb68e182b6a9c3119f370628bdaf4541ab65767659e32</guid>
+      <pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Journées Françaises de l'Evaluation 2025 : "Evaluation et Transition(s)"</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9500-journees-francaises-de-l-evaluation-2025-evaluation-et-transitions.html</link>
+      <description>Organisées tous les deux ans par la Société Française de l’Évaluation (SFE), les Journées Françaises de l’Évaluation réunissent près de 400 participants issus des collectivités, de la recherche, des institutions publiques et du monde de l’évaluation. Cet événement national vise à renforcer la place de l’évaluation dans la décision publique, à valoriser son utilité et à favoriser le partage de pratiques entre acteurs. À travers des conférences, des échanges scientifiques, des témoignages, des visites de terrain et des interventions de personnalités reconnues, les JFE permettent d’explorer les grands enjeux contemporains des politiques publiques, notamment ceux liés aux transitions. Elles contribuent également à lever les freins au développement de l’évaluation, à mieux outiller les collectivités et à rapprocher les acteurs territoriaux et nationaux de la recherche. Les interventions font enfin l’objet d’une valorisation scientifique à travers la publication d’actes, afin de prolonger les réflexions et de laisser un héritage durable.</description>
+      <guid isPermaLink="false">12647f8015c8abff73dd5c84ea6c436507972f0ab3a318f411f10c0a2779d06e</guid>
       <pubDate>Thu, 10 Sep 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3013,6 +3013,13 @@
       <pubDate>Mon, 22 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Référentiel par catégorie de produit (RCP) des applicatifs numériques</title>
+      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9434-referentiel-par-categorie-de-produit-rcp-des-applicatifs-numeriques.html</link>
+      <description>Ce référentiel méthodologique pour l’évaluation environnemental fournit la méthode à respecter pour réaliser l’analyse du cycle de vie d’un applicatif numérique.</description>
+      <guid isPermaLink="false">57de8dfa5fa1978412b397cfc76b965156128d7b9ebec676eb183dcd0b43eb1c</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>La Forge d'Adaptations : infographie</title>
       <link>https://librairie.ademe.fr/changement-climatique/9429-la-forge-d-adaptations-infographie.html</link>
       <description>Du sud au nord, produire et documenter des prototypes de solutions face aux effets du changement climatique. Les nombreux fablabs à travers le monde, en tant que lieux de conception et de fabrication, développent des prototypes pour répondre aux défis locaux soulevés par le changement climatique. Ces prototypes sont souvent méconnus des populations, car ils ne sont pas documentés d’une façon permettant un transfert aisé des connaissances.</description>
@@ -3024,13 +3031,6 @@
       <link>https://librairie.ademe.fr/changement-climatique/9431-terristory-infographie.html</link>
       <description>Aider le pilotage de la transition écologique des territoires via une plateforme partenariale. Remédier à la dispersion des données du territoire et des outils de pilotage nécessaires aux collectivités pour organiser leur transition écologique</description>
       <guid isPermaLink="false">2b4daf2d8e6fbe6e1909db7481e524f3230fc5de1fe3584dab966dc432b6f554</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Référentiel par catégorie de produit (RCP) des applicatifs numériques</title>
-      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9434-referentiel-par-categorie-de-produit-rcp-des-applicatifs-numeriques.html</link>
-      <description>Ce référentiel méthodologique pour l’évaluation environnemental fournit la méthode à respecter pour réaliser l’analyse du cycle de vie d’un applicatif numérique.</description>
-      <guid isPermaLink="false">57de8dfa5fa1978412b397cfc76b965156128d7b9ebec676eb183dcd0b43eb1c</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3258,17 +3258,17 @@
       <pubDate>Tue, 02 Jun 2026 12:51:03 +0000</pubDate>
     </item>
     <item>
-      <title>Questionnaire de diagnostic : Compétences TEE actuelles et futures pour les métiers des espaces verts</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9379-questionnaire-de-diagnostic-competences-tee-actuelles-et-futures-pour-les-metiers-des-espaces-verts.html</link>
-      <description>Ce document présente le questionnaire de diagnostic et d'auto-positionnement dédié aux métiers des espaces verts . La démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le document structure un parcours d'auto-évaluation individuel s'appuyant sur des questions concrètes d'aide au positionnement et de l'analyse des pratiques professionnelles actuelles. Il permet d'identifier les besoins prioritaires de montée en compétences à travers cinq grands axes : l'acculturation et la sensibilisation à la transition écologique, le pilotage et la stratégie des projets durables, l'animation et la facilitation du changement, l'opérationnalisation et la gestion technique, la posture professionnelle et les compétences comportementales / relationnelles. Conçu pour les profils clés du secteur, ici chargé de travaux espaces verts ou naturels, jardinier/jardinière et agent espaces verts ou naturels , cet outil sert de base opérationnelle pour co-construire et orienter les futurs parcours de formation individuels.</description>
-      <guid isPermaLink="false">7261c1f4d4e31d8208b79eeab1545e626300a6f5b0f72a1e598185528438c96d</guid>
-      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Projet EcoBioMAx - Eco-extraction de biomasse maximisée par couplage bi-vis/micro-ondes</title>
       <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9248-projet-ecobiomax-eco-extraction-de-biomasse-maximisee-par-couplage-bi-vis-micro-ondes.html</link>
       <description>L’objectif du projet est de développer une filière chimie biosourcée pour offrir des alternatives aux usages traditionnels du châtaignier, dont la qualité n'est plus suffisante. Grâce à sa richesse en ellagitannins, le bois peut être valorisé dans des secteurs tels que le biocontrôle, la cosmétique et l’agroalimentaire. Le projet ÉcoBioMax étudie la combinaison de l’extraction par micro-ondes et de l’extrusion bi-vis pour maximiser les rendements et tendre vers le zéro déchet.</description>
       <guid isPermaLink="false">318b8965a713a3077164472ef2b199ededb4412924aeaa7d11fdf04e73d23d2c</guid>
+      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carte métiers de l'hygiène et propreté des locaux : missions et évolutions (2025-2050)</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9385-carte-metiers-de-l-hygiene-et-proprete-des-locaux-missions-et-evolutions-2025-2050.html</link>
+      <description>Ce document présente la carte métier prospective dédiée à l'évolution du rôle de l’agent de propreté et d’hygiène des locaux entre 2025 et 2050 . Issu de la démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, ce projet vise à anticiper les mutations des pratiques professionnelles face aux défis écologiques . Le document cartographie les missions actuelles, les enjeux majeurs et les impacts environnementaux du métier , avant de projeter sa transformation à l'horizon 2050 selon deux trajectoires de l'ADEME : le scénario 2 "Coopérations Territoriales" d'une part, et le scénario 3 "Technologies vertes" d'autre part. Il détaille les compétences clés futures (savoirs, savoir-faire, savoir-être) indispensables pour accompagner cette transition et présente le parcours de formation associé. Ce guide constitue ainsi un outil d'orientation stratégique pour préparer dès aujourd'hui les agents aux pratiques de demain .</description>
+      <guid isPermaLink="false">26937859cac02891eeeecbfd78133f6d328b3f7ed1bbd7bc2284ffd332eccd78</guid>
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -3307,6 +3307,13 @@
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Questionnaire de diagnostic : Compétences TEE actuelles et futures pour les métiers des espaces verts</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9379-questionnaire-de-diagnostic-competences-tee-actuelles-et-futures-pour-les-metiers-des-espaces-verts.html</link>
+      <description>Ce document présente le questionnaire de diagnostic et d'auto-positionnement dédié aux métiers des espaces verts . La démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le document structure un parcours d'auto-évaluation individuel s'appuyant sur des questions concrètes d'aide au positionnement et de l'analyse des pratiques professionnelles actuelles. Il permet d'identifier les besoins prioritaires de montée en compétences à travers cinq grands axes : l'acculturation et la sensibilisation à la transition écologique, le pilotage et la stratégie des projets durables, l'animation et la facilitation du changement, l'opérationnalisation et la gestion technique, la posture professionnelle et les compétences comportementales / relationnelles. Conçu pour les profils clés du secteur, ici chargé de travaux espaces verts ou naturels, jardinier/jardinière et agent espaces verts ou naturels , cet outil sert de base opérationnelle pour co-construire et orienter les futurs parcours de formation individuels.</description>
+      <guid isPermaLink="false">7261c1f4d4e31d8208b79eeab1545e626300a6f5b0f72a1e598185528438c96d</guid>
+      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Questionnaire de diagnostic : Compétences TEE actuelles et futures pour les métiers de la commande publique et achat</title>
       <link>https://librairie.ademe.fr/changement-climatique/9380-questionnaire-de-diagnostic-competences-tee-actuelles-et-futures-pour-les-metiers-de-la-commande-publique-et-achat.html</link>
       <description>Ce document présente le questionnaire de diagnostic et d'auto-positionnement dédié aux métiers de la commande publique et achat . Issu de la démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, l'ADEME, le CNFPT et la Région Centre-Val de Loire, ce projet vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le document structure un parcours d'auto-évaluation individuel structuré autour de questions concrètes d'aide au positionnement et de l'analyse des pratiques professionnelles actuelles. Il permet d'identifier les besoins prioritaires de montée en compétences à travers cinq grands axes : l'acculturation/sensibilisation, les connaissances techniques/juridiques, la mise en œuvre opérationnelle, la coopération/animation, l'amélioration continue. Conçu pour les profils clés du secteur, ici l'acheteur public, l'instructeur gestionnaire des marchés publics et le prescripteur , cet outil sert de base opérationnelle pour co-construire et orienter les futurs parcours de formation individuels.</description>
@@ -3339,13 +3346,6 @@
       <link>https://librairie.ademe.fr/changement-climatique/9384-carte-metiers-de-la-commande-publique-et-achat-missions-et-evolutions-2025-2050.html</link>
       <description>Ce document présente la carte métier prospective dédiée à l'évolution du rôle de l'acheteur public / responsable achat entre 2025 et 2050 . Issu de la démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, ce projet vise à anticiper les mutations des pratiques professionnelles face aux défis écologiques . Le document cartographie les missions actuelles, les enjeux majeurs et les impacts environnementaux du métier , avant de projeter sa transformation à l'horizon 2050 selon deux trajectoires de l'ADEME : les "Coopérations Territoriales" d'une part, et les "Technologies vertes" d'autre part. Il détaille les compétences clés futures (savoirs, savoir-faire, savoir-être) indispensables pour accompagner cette transition et présente le parcours de formation associé. Ce guide constitue ainsi un outil d'orientation stratégique pour préparer dès aujourd'hui les agents aux pratiques de demain .</description>
       <guid isPermaLink="false">e515e61fa9af2b3f8a72bdf4728ac81bf62ad32b26b91bfa3177c59d6a95509e</guid>
-      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carte métiers de l'hygiène et propreté des locaux : missions et évolutions (2025-2050)</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9385-carte-metiers-de-l-hygiene-et-proprete-des-locaux-missions-et-evolutions-2025-2050.html</link>
-      <description>Ce document présente la carte métier prospective dédiée à l'évolution du rôle de l’agent de propreté et d’hygiène des locaux entre 2025 et 2050 . Issu de la démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, ce projet vise à anticiper les mutations des pratiques professionnelles face aux défis écologiques . Le document cartographie les missions actuelles, les enjeux majeurs et les impacts environnementaux du métier , avant de projeter sa transformation à l'horizon 2050 selon deux trajectoires de l'ADEME : le scénario 2 "Coopérations Territoriales" d'une part, et le scénario 3 "Technologies vertes" d'autre part. Il détaille les compétences clés futures (savoirs, savoir-faire, savoir-être) indispensables pour accompagner cette transition et présente le parcours de formation associé. Ce guide constitue ainsi un outil d'orientation stratégique pour préparer dès aujourd'hui les agents aux pratiques de demain .</description>
-      <guid isPermaLink="false">26937859cac02891eeeecbfd78133f6d328b3f7ed1bbd7bc2284ffd332eccd78</guid>
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
