@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 21 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Exposition des infrastructures numériques en France aux risques climatiques physiques et solutions d'adaptation</title>
+      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9719-exposition-des-infrastructures-numeriques-en-france-aux-risques-climatiques-physiques-et-solutions-d-adaptation.html</link>
+      <description>Ce rapport repose sur une analyse bibliographique des travaux existants sur les impacts du changement climatique sur les infrastructures et équipements numériques. Cette revue de la littérature a permis de synthétiser les connaissances relatives aux vulnérabilités des infrastructures et équipements numériques, de leurs dépendances avec les autres infrastructures essentielles (énergie, eau, transport etc.), ainsi qu’aux principales solutions d’adaptation identifiées dans la littérature. Ces enseignements ont servi de base à la formulation de deux préconisations de recherche-action présentées dans le rapport.</description>
+      <guid isPermaLink="false">f02443f37172a8ce3481f536eae77ba4cb8042ba1c10f0d9aa24e27bfcd5cf44</guid>
+      <pubDate>Sun, 25 Oct 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Entrepôt fluvial au service d'une distribution durable via la Garonne (EDDGAR)</title>
       <link>https://librairie.ademe.fr/mobilite-et-transports/9715-entrepot-fluvial-au-service-d-une-distribution-durable-via-la-garonne-eddgar.html</link>
@@ -421,13 +428,6 @@
       <description>Le projet Prefigs (PRécarité Écologie Futur Imaginaires orGanisations Savoirs) est un programme de recherche-action participative visant à intégrer les expériences de vie précaires dans la construction, par le bas, d’une transition écologique juste, entendue comme une transformation radicale, démocratique et socialement émancipatrice de la société. Pendant deux ans, quatre collectifs socialement mixtes ont enquêté sur des problématiques concrètes (mobilité rurale bas carbone, alimentation durable accessible, habitabilité des quartiers populaires) et conçu des solutions locales (covoiturage, caisse alimentaire, jardins partagés, animations et œuvre collective), soutenues par des partenariats institutionnels. Ces expérimentations ont permis d’explorer les tensions sociales relatives à l’écologie et les manières de les contourner en vue de faire de la transition écologique juste un référentiel d’action publique.</description>
       <guid isPermaLink="false">d08b5f8d9791b4368de20ab1f73b99ae12f6163098d57ab2c81fd37290a54aff</guid>
       <pubDate>Tue, 23 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Localiser les transitions écologiques, démocratiques et sociales</title>
-      <link>https://librairie.ademe.fr/recherche-et-innovation/9425-localiser-les-transitions-ecologiques-democratiques-et-sociales.html</link>
-      <description>Le projet TecDem vise à questionner les modalités de localisation des transitions écologiques, démocratiques et sociales au sens d’ancrage dans des lieux et des territoires mais aussi d’actualisation dans des situations concrètes et des contextes sociaux particuliers. Comment les centres sociaux, les acteurs du réemploi et les collectifs citoyens articulent ils aujourd’hui les dimensions écologique, sociale et démocratique dans leurs actions ? Le projet analyse la diffusion des transitions dans des quartiers populaires et dans différents contextes socio-spatiaux de la région Centre-Val de Loire. Une enquête a été menée à l’échelle de la région à deux niveaux. D’abord, avec la fédération régionale des centres sociaux et le réseau régional des acteurs du réemploi et de la réutilisation sur les expériences de groupes qui portent des actions intégrant transition écologique et transitions démocratique et sociale. Ensuite, a été étudié la place des enjeux de justice sociale et environnementale au sein des dispositifs de participation et d’implication citoyenne mis en oeuvre par la Région. Puis deux études de cas territorialisées ont été mises en oeuvre : au sein de Bourges Plus et du PETR Pays Loire Beauce.</description>
-      <guid isPermaLink="false">4b86980b15bbe6216e81a4f162d55db022c63cb00cd90e620b36425e14dc387f</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

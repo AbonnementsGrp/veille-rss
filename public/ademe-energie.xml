@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 20 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Hôtellerie Corse : Cap sur la Transition Énergétique</title>
+      <link>https://librairie.ademe.fr/batiment/9508-hotellerie-corse-cap-sur-la-transition-energetique.html</link>
+      <description>Bienvenue sur la mallette ressources de l'ADEME à destination des hôteliers ! Découvrez des recommandations concrètes pour garantir la performance de vos équipements sur le long terme. La mallette ressources de l'ADEME vulgarise les préconisations basées sur l'analyse approfondie de 45 établissements en Corse. Voir : " Étude des consommations énergétiques des hôtels en Corse", réalisée en 2025 https://librairie.ademe.fr/energies/9032-etude-des-consommations-energetiques-des-hotels-de-corse.html</description>
+      <guid isPermaLink="false">ab8fc93a3d3315dda79f1a62237262814244976cb732211e9efa14c6177535de</guid>
+      <pubDate>Sun, 25 Oct 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>BâtiZoom : Baromètre de la transition écologique du bâtiment en 2025</title>
       <link>https://librairie.ademe.fr/batiment/9714-batizoom-barometre-de-la-transition-ecologique-du-batiment-en-2025.html</link>
@@ -421,13 +428,6 @@
       <description>Lancé début 2022, Les Générateurs est un réseau de conseillers co-financé par l'ADEME et des Régions. Présents en France métropolitaine et dans les outre-mer, les Générateurs ont vocation à apporter un conseil de premier niveau neutre et objectif aux collectivités pour les sensibiliser aux énergies renouvelables éolien et photovoltaïque. L'enquête annuelle 2025 présente les actions d'accompagnement et de sensibilisation réalisées par les conseillers partout en France, sous des angles à la fois qualitatif et quantitatif.</description>
       <guid isPermaLink="false">387c13505eb8dc0850499e3c6bf04ea19d21e235eb6b2429d08bfa49996f5411</guid>
       <pubDate>Wed, 22 Apr 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Protocole et certification en sortie d'usine pour les systèmes de détection arrêt (SDA)</title>
-      <link>https://librairie.ademe.fr/energies/9304-protocole-et-certification-en-sortie-d-usine-pour-les-systemes-de-detection-arret-sda.html</link>
-      <description>Ce rapport s’inscrit dans le cadre du projet SDA+ initié début 2025 par l’ADEME (Agence de la transition écologique) et l’OFB (Office Français de la Biodiversité) dans le cadre de l’Observatoire des Énergies Renouvelables et de la Biodiversité. SDA+ vise à établir un processus opérationnel pour caractériser la performance des SDA (Système Détection-Arrêt) en sortie d’usine et une fois installés sur les parcs éoliens, afin de permettre aux industriels d’apporter des éléments d’évaluation comparables et homogènes, et afin d’assister les opérateurs éoliens dans leurs choix de ces systèmes. Le programme est composé des missions suivantes : Co-construction avec les professionnels d’un processus d’évaluation et de certification volontaire de la performance des SDA « sortie d’usine », indépendamment du contexte environnemental de l’installation finale (mission 1) ; Préfiguration d’une expérimentation de ce processus d’évaluation et de certification sur plusieurs sites test ; Comparaison des meilleures modalités possibles d’évaluation de la performance des SDA une fois installés dans les parcs éoliens et accord des parties prenantes autour d’une proposition d’un protocole standardisé. Le présent rapport supporte la mission 1 : il propose un processus de certification de la performance des Systèmes Détection-Arrêt (SDA) en sortie d’usine. La performance d’un SDA est définie comme la probabilité combinée que le système détecte un individu d’une espèce ou d’une classe d’oiseau cible avant une certaine distance. Ce processus inclut : La définition des objectifs de l’évaluation ; Les conditions des tests permettant l ’évaluation d’un SDA en sortie d’usine ; Le protocole opératoire permettant l’évaluation d’un ou plusieurs SDA sur le terrain ; Le mode de bancarisation et de traitemen</description>
-      <guid isPermaLink="false">d402e95765782392843baa79786803eff0af300cf65cd9bef91229087238d554</guid>
-      <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

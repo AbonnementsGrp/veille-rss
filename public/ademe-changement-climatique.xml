@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 15 Oct 2026 22:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 25 Oct 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Référentiel par catégorie de produit (RCP) des produits internet et des objets (IoT)</title>
+      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9718-referentiel-par-categorie-de-produit-rcp-des-produits-internet-et-des-objets-iot.html</link>
+      <description>Ce référentiel méthodologique pour l’évaluation environnemental fournit la méthode à respecter pour réaliser l’analyse du cycle de vie d’un applicatif numérique.</description>
+      <guid isPermaLink="false">c6d07ec5abb7f26c44ca0b617859aae18c2e94aa0f452e7ee778403ab2e11dc2</guid>
+      <pubDate>Sun, 25 Oct 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Chaufferie géothermique sur sondes. Mairie, salle des fêtes et école. Commune de Bourret (82)</title>
       <link>https://librairie.ademe.fr/energies/9707-chaufferie-geothermique-sur-sondes-mairie-salle-des-fetes-et-ecole-commune-de-bourret-82.html</link>
@@ -421,13 +428,6 @@
       <description>L’éclairage public désigne l’ensemble des installations lumineuses destinées à assurer l’éclairage nocturne des espaces publics, tels que les routes, les trottoirs, les parcs ou les parkings. Il constitue un service essentiel au fonctionnement des territoires, en contribuant à la sécurité des déplacements, à la visibilité et au confort des usagers. Au-delà des enjeux économiques, l’éclairage public doit aussi répondre à des enjeux environnementaux, portant notamment sur la maîtrise des consommations d’énergie, la réduction des nuisances lumineuses et l’impact environnemental des équipements d’éclairage. Enfin, dans le contexte spécifique de la Guyane, les enjeux liés à l’éclairage public sont amplifiés par d’autres aspects, tels que la présence de zones isolées non raccordées au réseau électrique, ainsi que des problèmes de fiabilité du réseau, qui est soumis à d’importantes variations de tension.</description>
       <guid isPermaLink="false">cdb3277139aae1f6560afdf95e937a66710f759ab78e5a1cae6498392dc0b83f</guid>
       <pubDate>Sun, 22 Mar 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>MAP 2050 : Modélisations et Analyses Prospectives pour les trajectoires bas carbone des territoires à horizon 2050</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9138-map-2050-modelisations-et-analyses-prospectives-pour-les-trajectoires-bas-carbone-des-territoires-a-horizon-2050.html</link>
-      <description>Lauréat de l’Appel à Projets de Recherche PACT2e de l’ADEME, le projet MAP2050 poursuit trois grands objectifs : construire une vision partagée des besoins des collectivités, de l’état des lieux actuel et des améliorations nécessaires des outils et méthodes d’aide à la décision pour les scénarios de décarbonation des collectivités ; expérimenter, consolider et diffuser sous une forme directement appropriable une méthodologie d’élaboration et d’évaluation prospective des scénarios de décarbonation des collectivités ; spécifier les besoins d’amélioration des outils existants et de développement de nouveaux outils , notamment pour la simulation énergétique dynamique (SED) et la simulation probabiliste des évolutions à moyen et longs termes de l’usage du sol, de la répartition de la population et des comportements (de type « land use »). Le projet a permis d’expérimenter ces différents outils et méthodes avec la Communauté urbaine de Dunkerque , afin de simuler des trajectoires énergie-carbone aux horizons 2030-2050.</description>
-      <guid isPermaLink="false">1aba40b702606bb1ec9c2f721850163403de10b8d94cf62dab5383e0f91d90b2</guid>
-      <pubDate>Wed, 18 Mar 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

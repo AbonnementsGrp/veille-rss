@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-25T23:18:05.837769+00:00",
+  "generated_at": "2026-10-26T13:12:34.701722+00:00",
   "sites_total": 17,
   "sites_ok": 17,
   "sites_error": 0,
   "sites_warning": 2,
-  "new_items": 0,
-  "merged_items": 564,
+  "new_items": 15,
+  "merged_items": 566,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -151,7 +151,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 41,
+      "items": 42,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -185,7 +185,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 250 jours (seuil : 60)"
+        "rien de neuf depuis 251 jours (seuil : 60)"
       ]
     },
     {
@@ -243,7 +243,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 934 jours (seuil : 60)"
+        "rien de neuf depuis 935 jours (seuil : 60)"
       ]
     },
     {
@@ -255,7 +255,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 12,
+      "items": 13,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []
