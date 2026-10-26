@@ -1,4 +1,53 @@
 {
+  "640b54d6111e53080e735b5898d575dd39d67c8e7c9bc783d38891765dfb172d": {
+    "source": "ADN Tourisme",
+    "title": "Les visages d’ADN Tourisme : Eric Bruxelle",
+    "link": "https://www.adn-tourisme.fr/les-visages-adn-tourisme-eric-bruxelle/",
+    "description": "Nous vous proposons de rencontrer ceux qui font les visages d’ADN Tourisme. Aujourd’hui, rencontre avec Eric Bruxelle, Président d’Isle‑sur‑la‑Sorgue Tourisme.",
+    "published": "2026-09-23T14:00:50+00:00",
+    "first_seen": "2026-10-26T20:32:32.693612+00:00",
+    "uid": "640b54d6111e53080e735b5898d575dd39d67c8e7c9bc783d38891765dfb172d",
+    "description_checked": true
+  },
+  "aea94c0a15d800f38c1ad9028078b7131e273418057888901fd722fbc1b8a27e": {
+    "source": "ANAP - Actualités",
+    "title": "Masterclass IA : Révélez le potentiel de l’IA pour votre établissement",
+    "link": "https://www.anap.fr/s/article/masterclass-ia-etablissements-sanitaires-medico-sociaux",
+    "description": "Simplifier les plannings, fluidifier les parcours, soulager les fonctions supports : l'Intelligence Artificielle transforme le quotidien des établissements de santé. Et pour vous ? Cette masterclass vous guide pour comprendre l'IA, identifier les usages pertinents pour votre établissement, s'inspirer de bonnes pratiques et déployer.",
+    "published": "2026-10-20T09:18:18+00:00",
+    "first_seen": "2026-10-26T20:32:19.584217+00:00",
+    "uid": "aea94c0a15d800f38c1ad9028078b7131e273418057888901fd722fbc1b8a27e",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "333133f6ac4662e6fbd8ef819414ef899f6f006e70b8a3c4218ae5fc1dac9cd4": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Le projet de loi Protection des enfants arrive en séance au Sénat",
+    "link": "https://www.banquedesterritoires.fr/le-projet-de-loi-protection-des-enfants-arrive-en-seance-au-senat",
+    "description": "En commission, les sénateurs ont rétabli la possibilité de raccourcir la procédure de délaissement parental pour les enfants de moins de trois ans ainsi que la création d'un dispositif de suppléance parentale. Ils ont à l'inverse supprimé la nouvelle ordonnance de protection de l'enfant, plaidant pour une extension de l'ordonnance dédiée à la protection des victimes de violences conjugales. Entre pragmatisme et regrets sur les lacunes du texte, les sénateurs devraient adopter ce projet de loi relatif à la protection des enfants d'ici quelques jours.",
+    "published": "2026-10-26T15:25:01+00:00",
+    "first_seen": "2026-10-26T20:32:13.708853+00:00",
+    "uid": "333133f6ac4662e6fbd8ef819414ef899f6f006e70b8a3c4218ae5fc1dac9cd4"
+  },
+  "81f97031d73e66671747a1ca295e50b1d3b1de095a6776401701fd1f20490363": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Une PPL demande le prélèvement des impayés scolaires et périscolaires sur les prestations familiales",
+    "link": "https://www.banquedesterritoires.fr/une-ppl-demande-le-prelevement-des-impayes-scolaires-et-periscolaires-sur-les-prestations",
+    "description": "Obtenir le règlement des factures de cantine et de prestations périscolaires impayées directement auprès des organismes de prestations familiales, c'est le sens de la proposition parlementaire de loi (PPL) déposée le 20 octobre par Jean-Luc Warsmann (groupe Liot).Le député des Ardennes estime…",
+    "published": "2026-10-26T10:25:39+00:00",
+    "first_seen": "2026-10-26T20:32:13.708853+00:00",
+    "uid": "81f97031d73e66671747a1ca295e50b1d3b1de095a6776401701fd1f20490363"
+  },
+  "cc37a07a5b05afa00d9bb5038743990e2d852dad211583e03ec6212a4a457ea0": {
+    "source": "Outre-Mer 360°",
+    "title": "Jean-Paul Ferreira élu à la présidence de la Collectivité territoriale de Guyane",
+    "link": "https://outremers360.com/bassin-atlantique-appli/jean-paul-ferreira-elu-a-la-presidence-de-la-collectivite-territoriale-de-guyane",
+    "description": "Président par intérim depuis la disparition de Gabriel Serville, le premier vice-président a été élu ce lundi matin dès le premier tour, avec 34 voix sur 54 votants. Un sujet avec notre partenaire Radio-Télé Peyi Guyane.Jean-Paul Fereira prend officiellement la tête de...",
+    "published": "2026-10-26T14:03:00+00:00",
+    "first_seen": "2026-10-26T20:32:00.507413+00:00",
+    "uid": "cc37a07a5b05afa00d9bb5038743990e2d852dad211583e03ec6212a4a457ea0"
+  },
   "694a7809a331fc428af2e12c047c5721648c52768e919e0af494a567f0477e4b": {
     "source": "ADN Tourisme",
     "title": "Le 1er office de tourisme à 100% certifier l’accessibilité numérique de son site !",
@@ -9374,50 +9423,5 @@
     "first_seen": "2026-09-24T11:49:09.025630+00:00",
     "uid": "3cfbece5f0939b16cb6bb9f5550665a157d9ae2892ee0a451e77b6210c1395e4",
     "description_checked": true
-  },
-  "ffe5c026e4c25912c282289a8b010c1cecfe0fa9c97fd167ca9c8bd056d444a0": {
-    "source": "Observatoire de la culture",
-    "title": "Refonder un projet de scène conventionnée avec les droits culturels",
-    "link": "https://www.observatoire-culture.net/refonder-projet-scene-conventionnee-droits-culturels/",
-    "description": "Thomas Desmaison dirige, depuis 2020, le Théâtre du Cloître à Bellac (87), labellisé « Scène conventionnée d’intérêt national ». Il y mène, avec son équipe, un projet fondé sur les droits culturels afin qu’advienne une « relation de qualité » entre des personnes et des ressources culturelles. Une approche qui n’est pas sans bousculer des modèles de fonctionnement où la diffusion et la figure centrale du programmateur restent prédominantes.",
-    "published": "2026-09-24T08:39:01+00:00",
-    "first_seen": "2026-09-24T11:49:04.944365+00:00",
-    "uid": "ffe5c026e4c25912c282289a8b010c1cecfe0fa9c97fd167ca9c8bd056d444a0"
-  },
-  "7cb7c71aa9164edd5874e0d777b6a0d031951bf4f1178bfd43091ccd269a3bc2": {
-    "source": "Outre-Mer 360°",
-    "title": "Aérien : Légère hausse du trafic des passagers à l’aéroport de La Réunion de janvier à août",
-    "link": "https://outremers360.com/bassin-indien-appli/aerien-legere-hausse-du-trafic-des-passagers-a-laeroport-de-la-reunion-de-janvier-a-aout",
-    "description": "Entre janvier et août 2026, l’Aéroport La Réunion Roland Garros a accueilli plus de 1,82 million de passagers, hors transit, soit une progression de 1% par rapport à la même période, en 2025. Sur cette même période, le fret à l’export bondit de...",
-    "published": "2026-09-24T11:46:03+00:00",
-    "first_seen": "2026-09-24T11:49:00.004888+00:00",
-    "uid": "7cb7c71aa9164edd5874e0d777b6a0d031951bf4f1178bfd43091ccd269a3bc2"
-  },
-  "164bf5c55bd7729e94216e42ba98e6d19f5053bf0ffea3167dbdea73ba9b2c9b": {
-    "source": "Outre-Mer 360°",
-    "title": "Congrès HLM à Bordeaux : Emmanuel Séraphin défend une adaptation du logement pensée à partir des réalités ultramarines",
-    "link": "https://outremers360.com/bassin-indien-appli/congres-hlm-a-bordeaux-emmanuel-seraphin-defend-une-adaptation-du-logement-pensee-a-partir-des-realites-ultramarines",
-    "description": "À l’occasion du Congrès HLM à Bordeaux, Emmanuel Séraphin, Maire de Saint-Paul et Président du Territoire de l’Ouest, a participé à une table ronde consacrée à l’adaptation du logement au changement climatique. Aux côtés de Claire Goudineau, Directrice...",
-    "published": "2026-09-24T10:50:23+00:00",
-    "first_seen": "2026-09-24T11:49:00.004888+00:00",
-    "uid": "164bf5c55bd7729e94216e42ba98e6d19f5053bf0ffea3167dbdea73ba9b2c9b"
-  },
-  "c22109ac6519726969f17bc004037f30956bff6865cb42425e09cc8914ace260": {
-    "source": "Outre-Mer 360°",
-    "title": "Présidentielle 2027 : Pour la primaire socialiste, Olivier Faure revendique plus de 500 soutiens d’élus, dont 24 en Outre-mer",
-    "link": "https://outremers360.com/bassin-atlantique-appli/presidentielle-2027-pour-la-primaire-socialiste-olivier-faure-revendique-plus-de-500-soutiens-delus-dont-24-en-outre-mer",
-    "description": "Le premier secrétaire général du Parti socialiste et député de Seine-et-Marne revendique plus de 500 soutiens de parlementaires nationaux et européens, conseillers régionaux et départementaux, et maires, à quelques semaines de la primaire socialiste. Parmi ces...",
-    "published": "2026-09-24T10:18:53+00:00",
-    "first_seen": "2026-09-24T11:49:00.004888+00:00",
-    "uid": "c22109ac6519726969f17bc004037f30956bff6865cb42425e09cc8914ace260"
-  },
-  "105990ec82998f4a707d33bb560b914fd84270fa509acf5bfd2259b7bd513bda": {
-    "source": "Outre-Mer 360°",
-    "title": "L'AFD accompagne le projet inclusif Café 21 porté par l'APAJH Guyane",
-    "link": "https://outremers360.com/bassin-atlantique-appli/lafd-accompagne-le-projet-inclusif-cafe-21-porte-par-lapajh-guyane",
-    "description": "À Rémire-Montjoly, le Café 21 accueille des personnes en situation de handicap ou éloignées de l’emploi dans un cadre professionnel réel. Porté par l’Association pour Adultes et Jeunes Handicapés de Guyane (APAJH) et soutenu par l’Agence française de...",
-    "published": "2026-09-24T08:32:43+00:00",
-    "first_seen": "2026-09-24T11:49:00.004888+00:00",
-    "uid": "105990ec82998f4a707d33bb560b914fd84270fa509acf5bfd2259b7bd513bda"
   }
 }
