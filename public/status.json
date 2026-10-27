@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-27T15:23:06.133911+00:00",
+  "generated_at": "2026-10-27T22:17:20.759279+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
   "sites_warning": 2,
-  "new_items": 11,
-  "merged_items": 562,
+  "new_items": 3,
+  "merged_items": 563,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -137,7 +137,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 25,
+      "items": 26,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []

@@ -1,4 +1,35 @@
 {
+  "7d097db507c41192223bc070353d03cc6ca2f5eae783b581d44356236ff3abb1": {
+    "source": "IGAS",
+    "title": "Assurance maladie obligatoire et complémentaires santé : un éclairage chiffré sur les scénarios d'évolution du financement des soins",
+    "link": "https://igas.gouv.fr/assurance-maladie-obligatoire-et-complementaires-sante-un-eclairage-chiffre-sur-les-scenarios-devolution-du-financement-des-soins",
+    "description": "L'IGAS et l'IGF publient une étude de chiffrage destinée à éclairer les débats sur l'avenir de l'articulation entre assurance maladie obligatoire et complémentaires santé.",
+    "published": "2026-09-24T13:04:20+00:00",
+    "first_seen": "2026-10-27T22:17:16.484128+00:00",
+    "uid": "7d097db507c41192223bc070353d03cc6ca2f5eae783b581d44356236ff3abb1",
+    "description_checked": true
+  },
+  "b8d14f5b9bb70e1badc7dabb0bfab92f289329e7118d4bab8a89850498e88cd4": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire - La Data au Bloc opératoire : des données aux indicateurs de performance",
+    "link": "https://www.anap.fr/s/article/la-data-au-bloc-operatoire-des-donnees-aux-indicateurs-de-performance",
+    "description": "Taux d’occupation, taux de débordement, démarrages tardifs… Vous souhaitez piloter de façon automatisée la performance de votre bloc opératoire ? L’Anap vous invite lors d’un webinaire inédit à découvrir sa nouvelle application « DATA » dédiée au bloc opératoire.",
+    "published": "2026-10-19T14:19:05+00:00",
+    "first_seen": "2026-10-27T22:17:05.409969+00:00",
+    "uid": "b8d14f5b9bb70e1badc7dabb0bfab92f289329e7118d4bab8a89850498e88cd4",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "ff59ea4826d863d83fbc6b836053a5d1edf5c289cbf0a5ac3209c70ac7b8ce94": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Fin de Parcoursup, classes réduites, postes supplémentaires : le gouvernement tente d'apaiser la colère lycéenne",
+    "link": "https://www.banquedesterritoires.fr/fin-de-parcoursup-classes-reduites-postes-supplementaires-le-gouvernement-tente-dapaiser-la-colere",
+    "description": "Après plus d'un mois de blocage lycéen et étudiant, le gouvernement a annoncé un train de mesures qu'il estime en phase avec les revendications. Plusieurs d'entre elles, notamment la fin de Parcoursup et le recrutement d'enseignants, devront faire l'objet d'une adoption au Parlement, et ce dès le vote du projet de loi de finances.",
+    "published": "2026-10-27T11:55:02+00:00",
+    "first_seen": "2026-10-27T22:16:59.787307+00:00",
+    "uid": "ff59ea4826d863d83fbc6b836053a5d1edf5c289cbf0a5ac3209c70ac7b8ce94"
+  },
   "cd7c2c8ad7ca31b57b209b06f3a07e04700607f660c38872ddeb24b3f2649f18": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Une campagne nationale pour valoriser les salariées du particulier employeur",
@@ -9394,32 +9425,5 @@
     "published": "2026-09-25T11:08:47+00:00",
     "first_seen": "2026-09-25T11:53:55.606513+00:00",
     "uid": "00c301627e05f4ee316a65450cea7da042f9dacb68d5023ace7de66611696edb"
-  },
-  "074baa07b04041c27171d24c67395dd1649415ce264f91dd6df80419e3d91ae2": {
-    "source": "Outre-Mer 360°",
-    "title": "Essais nucléaires en Polynésie : La députée Mereana Reid Arbelot défend sa réforme de la loi Morin",
-    "link": "https://outremers360.com/bassin-pacifique-appli/essais-nucleaires-en-polynesie-la-deputee-mereana-reid-arbelot-defend-sa-reforme-de-la-loi-morin",
-    "description": "Ce jeudi, l’Assemblée de la Polynésie a adopté une proposition de résolution demandant un amendement de la réforme de la loi Morin défendue à Paris par Mereana Reid-Arbelot. Comme le Cesec, les élus de l’assemblée veulent que les avancées du texte couvrent toute la...",
-    "published": "2026-09-25T11:02:54+00:00",
-    "first_seen": "2026-09-25T11:53:55.606513+00:00",
-    "uid": "074baa07b04041c27171d24c67395dd1649415ce264f91dd6df80419e3d91ae2"
-  },
-  "68c955ece5c72760ab348c5f42b94232b3d8ce18668e6b24e4ca02796be1a247": {
-    "source": "Outre-Mer 360°",
-    "title": "L’association Amazones Paris et la CDC Habitat Île-de-France s’unissent pour faciliter soins et logement des femmes ultramarines dans l’Hexagone",
-    "link": "https://outremers360.com/bassin-atlantique-appli/lassociation-amazones-paris-et-la-cdc-habitat-ile-de-france-sunissent-pour-faciliter-soins-et-logement-des-femmes-ultramarines-dans-lhexagone",
-    "description": "Mardi 22 septembre au congrès HLM de Bordeaux, l’association Amazones Paris et la CDC Habitat Île-de-France ont signé une convention de partenariat visant à faciliter l’accès aux soins et au logement des femmes atteintes d’un cancer, originaires principalement des...",
-    "published": "2026-09-25T10:58:27+00:00",
-    "first_seen": "2026-09-25T11:53:55.606513+00:00",
-    "uid": "68c955ece5c72760ab348c5f42b94232b3d8ce18668e6b24e4ca02796be1a247"
-  },
-  "a8a7a5f0f0f6f84e023ac8fd6d42839a93ea9c3df5f553aa84004c375816f0e0": {
-    "source": "Outre-Mer 360°",
-    "title": "La Réunion : À Saint-Gilles-les-Hauts, un nouveau scanner pour rapprocher l’imagerie médicale des patients",
-    "link": "https://outremers360.com/bassin-indien-appli/la-reunion-a-saint-gilles-les-hauts-un-nouveau-scanner-pour-rapprocher-limagerie-medicale-des-patients",
-    "description": "Mis en service en juin au centre d’imagerie de Saint-Gilles-les-Hauts, un scanner de dernière génération doit permettre aux habitants des Hauts de l’Ouest de réaliser certains examens plus près de leur domicile. Plus de 2.000 examens ont déjà été réalisés depuis sa...",
-    "published": "2026-09-25T10:43:57+00:00",
-    "first_seen": "2026-09-25T11:53:55.606513+00:00",
-    "uid": "a8a7a5f0f0f6f84e023ac8fd6d42839a93ea9c3df5f553aa84004c375816f0e0"
   }
 }
