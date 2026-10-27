@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 25 Oct 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Référentiel par catégorie de produit (RCP) d'un service de diffusion et distribution vidéo</title>
+      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9723-referentiel-par-categorie-de-produit-rcp-d-un-service-de-diffusion-et-distribution-video.html</link>
+      <description>Ce référentiel méthodologique pour l’évaluation environnemental fournit la méthode à respecter pour réaliser l’analyse du cycle de vie d’un service de diffusion vidéo, tel que prévu dans le cadre de l'article 26 de la loi visant à réduire l'empreinte environnementale du numérique (loi REEN)</description>
+      <guid isPermaLink="false">6aceb8577f1e750481a59b6e1a1a00dc6736dd204cf88a2f770ccda4f23da5fc</guid>
+      <pubDate>Mon, 26 Oct 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Exposition des infrastructures numériques en France aux risques climatiques physiques et solutions d'adaptation</title>
       <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9719-exposition-des-infrastructures-numeriques-en-france-aux-risques-climatiques-physiques-et-solutions-d-adaptation.html</link>
@@ -420,13 +427,6 @@
       <link>https://librairie.ademe.fr/changement-climatique/9451-act-biodiversite-methodologie.html</link>
       <description>Chaque année, les écosystèmes fournissent des services dont la valeur est estimée à plus de 41 000 milliards d’euros (environ la moitié du PIB mondial) (WEF, 2020) alors même que le nombre total de mammifères sauvages, mesurés en biomasse, a diminué de 82 % par rapport aux données historiques (IPBES, 2019). Prévue dans la Stratégie Nationale Biodiversité adoptée en 2023, l’ADEME et l’OFB ont publié en juin 2026 ACT Biodiversité : une méthodologie d’évaluation de l’efficacité de la stratégie des entreprises en faveur de la biodiversité pour enrayer le déclin de celle-ci. Voici le lien vers les annexes méthodologiques : https://actinitiative.org/fr/act-biodiversity/</description>
       <guid isPermaLink="false">3691fb8a445cf192ff7657f9cf79e4a908e74ccc917473de91895fd86aae50fc</guid>
-      <pubDate>Tue, 23 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>PREFIGS : Préfigurer une transition écologique juste.</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9452-prefigs-prefigurer-une-transition-ecologique-juste.html</link>
-      <description>Le projet Prefigs (PRécarité Écologie Futur Imaginaires orGanisations Savoirs) est un programme de recherche-action participative visant à intégrer les expériences de vie précaires dans la construction, par le bas, d’une transition écologique juste, entendue comme une transformation radicale, démocratique et socialement émancipatrice de la société. Pendant deux ans, quatre collectifs socialement mixtes ont enquêté sur des problématiques concrètes (mobilité rurale bas carbone, alimentation durable accessible, habitabilité des quartiers populaires) et conçu des solutions locales (covoiturage, caisse alimentaire, jardins partagés, animations et œuvre collective), soutenues par des partenariats institutionnels. Ces expérimentations ont permis d’explorer les tensions sociales relatives à l’écologie et les manières de les contourner en vue de faire de la transition écologique juste un référentiel d’action publique.</description>
-      <guid isPermaLink="false">d08b5f8d9791b4368de20ab1f73b99ae12f6163098d57ab2c81fd37290a54aff</guid>
       <pubDate>Tue, 23 Jun 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
