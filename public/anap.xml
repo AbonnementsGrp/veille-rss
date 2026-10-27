@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 23 Oct 2026 13:51:33 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 26 Oct 2026 14:16:37 +0000</lastBuildDate>
+    <item>
+      <title>Masterclass DATA - Piloter par la DATA : décider vite, agir juste.</title>
+      <link>https://www.anap.fr/s/article/masterclass-data-piloter-decider-agir</link>
+      <description>Vos systèmes d'information hospitaliers regorgent de données patients, RH, financières et logistiques. Les exploitez-vous vraiment ? Avec notre Masterclass DATA, transformez vos données hospitalières en leviers de pilotage : aide à la décision médicale, optimisation des organisations et anticipation des besoins.</description>
+      <guid isPermaLink="false">10b2cad10fa2432daed110007745f833c2983cf340e2e978d9af2cdb751cf238</guid>
+      <pubDate>Mon, 26 Oct 2026 14:16:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Masterclass Bloc opératoire : tout savoir sur le pilotage rapproché du bloc</title>
+      <link>https://www.anap.fr/s/article/masterclass-pilotage-bloc-operatoire</link>
+      <description>Vous souhaitez transformer le bloc opératoire en moteur de performance hospitalière, alliant excellence des soins et viabilité économique ? Grâce à notre masterclass destinée aux équipes dirigeantes et de pilotage des blocs opératoires, développez une vision stratégique et opérationnelle du bloc opératoire : décryptez ses mécanismes de pilotage, appropriez vous les indicateurs clés et optimisez vos décisions.</description>
+      <guid isPermaLink="false">3467f4104fad6dea198605e92527f077abaccdbd12271747f5833d6a2a9a4e76</guid>
+      <pubDate>Mon, 26 Oct 2026 14:15:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Masterclass IA : Révélez le potentiel de l’IA pour votre établissement</title>
+      <link>https://www.anap.fr/s/article/masterclass-ia-etablissements-sanitaires-medico-sociaux</link>
+      <description>Simplifier les plannings, fluidifier les parcours, soulager les fonctions supports : l'Intelligence Artificielle transforme le quotidien des établissements de santé. Et pour vous ? Cette masterclass vous guide pour comprendre l'IA, identifier les usages pertinents pour votre établissement, s'inspirer de bonnes pratiques et déployer.</description>
+      <guid isPermaLink="false">aea94c0a15d800f38c1ad9028078b7131e273418057888901fd722fbc1b8a27e</guid>
+      <pubDate>Mon, 26 Oct 2026 14:13:16 +0000</pubDate>
+    </item>
+    <item>
+      <title>Financer sa transition écologique : les appels à projets par région</title>
+      <link>https://www.anap.fr/s/article/financer-transition-ecologique-appels-projets-region</link>
+      <description>Dans le cadre de l’accompagnement à la transition écologique des établissements sanitaires et médico-sociaux, l’ANAP met en place une veille régulière sur les appels à projets et appels à manifestations d’intérêt (AAP/AMI) émis par les pouvoirs publics, agences, collectivités ou partenaires institutionnels. Objectif :vous alerter rapidement sur les opportunités de financement, d’expérimentation ou d’accompagnement pour concrétiser vos projets de décarbonation, d’adaptation au changement climatiq</description>
+      <guid isPermaLink="false">fd08f2dc2d97657ea9a1542fe75c560c387e15a96da564ae41f0319bf58887dd</guid>
+      <pubDate>Mon, 26 Oct 2026 10:02:20 +0000</pubDate>
+    </item>
     <item>
       <title>Webinaire - Ambulatoire : calibrer aisément mon organisation</title>
       <link>https://www.anap.fr/s/article/webinaire-ambulatoire-calibrer-aisement-mon-organisation</link>
@@ -101,13 +129,6 @@
       <pubDate>Tue, 20 Oct 2026 09:25:50 +0000</pubDate>
     </item>
     <item>
-      <title>Masterclass IA : Révélez le potentiel de l’IA pour votre établissement</title>
-      <link>https://www.anap.fr/s/article/masterclass-ia-etablissements-sanitaires-medico-sociaux</link>
-      <description>Simplifier les plannings, fluidifier les parcours, soulager les fonctions supports : l'Intelligence Artificielle transforme le quotidien des établissements de santé. Et pour vous ? Cette masterclass vous guide pour comprendre l'IA, identifier les usages pertinents pour votre établissement, s'inspirer de bonnes pratiques et déployer.</description>
-      <guid isPermaLink="false">aea94c0a15d800f38c1ad9028078b7131e273418057888901fd722fbc1b8a27e</guid>
-      <pubDate>Tue, 20 Oct 2026 09:18:18 +0000</pubDate>
-    </item>
-    <item>
       <title>Webinaire - La Data au Bloc opératoire : des données aux indicateurs de performance</title>
       <link>https://www.anap.fr/s/article/la-data-au-bloc-operatoire-des-donnees-aux-indicateurs-de-performance</link>
       <description>Taux d’occupation, taux de débordement, démarrages tardifs… Vous souhaitez piloter de façon automatisée la performance de votre bloc opératoire ? L’Anap vous invite lors d’un webinaire inédit à découvrir sa nouvelle application « DATA » dédiée au bloc opératoire.</description>
@@ -162,13 +183,6 @@
       <description>L'Anap vous propose une lecture simplifiée de l’HAD Réadaptation permettant aux équipes de se lancer dans le projet.</description>
       <guid isPermaLink="false">2886310c1c7b1bb9e6de293fda815fde19ce72bfb8b6a35fdcbd28785e3484d6</guid>
       <pubDate>Fri, 16 Oct 2026 10:12:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Masterclass DATA - Piloter par la DATA : décider vite, agir juste.</title>
-      <link>https://www.anap.fr/s/article/masterclass-data-piloter-decider-agir</link>
-      <description>Vos systèmes d'information hospitaliers regorgent de données patients, RH, financières et logistiques. Les exploitez-vous vraiment ? Avec notre Masterclass DATA, transformez vos données hospitalières en leviers de pilotage : aide à la décision médicale, optimisation des organisations et anticipation des besoins.</description>
-      <guid isPermaLink="false">10b2cad10fa2432daed110007745f833c2983cf340e2e978d9af2cdb751cf238</guid>
-      <pubDate>Fri, 16 Oct 2026 08:23:34 +0000</pubDate>
     </item>
     <item>
       <title>Webconférence – Admission J0 : moins de nuitées, plus de fluidité</title>
@@ -407,20 +421,6 @@
       <description>Cet outil de simulation économique permet de calculer le retour sur investissement de votre plateau d'imagerie. Il s'adapte à plusieurs situations : création d'un plateau d'imagerie, acquisition d'un appareil supplémentaire dans un plateau préexistant.</description>
       <guid isPermaLink="false">f0652e57e8fe56c8b577290e7e74fe36e811727dbc7d1aa66bde3952b6c81f30</guid>
       <pubDate>Tue, 06 Oct 2026 07:58:56 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autodiagnostics Psychiatrie et santé mentale : hôpital de jour</title>
-      <link>https://www.anap.fr/s/article/autodiagnostic-psychiatrie-sante-mentale-hopital-de-jour</link>
-      <description>5 autodiagnostics pour réaliser un état des lieux, identifier les points forts et axes d'amélioration de l'organisation d'un HDJ, selon les publics accueillis, de la psychiatrie périnatale à celle de la personne âgée. Avec, en plus, un outil de synthèse pour une vision consolidée de plusieurs HDJ.</description>
-      <guid isPermaLink="false">5aab493e375a2f6b1b3ee0c255e00bb648577ef219ac1a8be3d9bd299a767a75</guid>
-      <pubDate>Tue, 06 Oct 2026 07:58:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autodiagnostic Psychiatrie et santé mentale : séjours longs</title>
-      <link>https://www.anap.fr/s/article/autodiagnostic-psychiatrie-sante-mentale-sejours-longs</link>
-      <description>Cet outil a été conçu pour réaliser un état des lieux des séjours de plus de 90 jours en continu sur un an, et pour mesurer le niveau d’organisation de votre structure. Vous pourrez, à partir de la situation des personnes hospitalisées, leur proposer des solutions de sortie adaptées à leurs besoins.</description>
-      <guid isPermaLink="false">613ff0a290d5857ea02416bb246ad85b33f84ffefcf2c04971a6a957ea88707b</guid>
-      <pubDate>Tue, 06 Oct 2026 07:57:59 +0000</pubDate>
     </item>
   </channel>
 </rss>

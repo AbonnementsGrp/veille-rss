@@ -1,4 +1,56 @@
 {
+  "3467f4104fad6dea198605e92527f077abaccdbd12271747f5833d6a2a9a4e76": {
+    "source": "ANAP - Actualités",
+    "title": "Masterclass Bloc opératoire : tout savoir sur le pilotage rapproché du bloc",
+    "link": "https://www.anap.fr/s/article/masterclass-pilotage-bloc-operatoire",
+    "description": "Vous souhaitez transformer le bloc opératoire en moteur de performance hospitalière, alliant excellence des soins et viabilité économique ? Grâce à notre masterclass destinée aux équipes dirigeantes et de pilotage des blocs opératoires, développez une vision stratégique et opérationnelle du bloc opératoire : décryptez ses mécanismes de pilotage, appropriez vous les indicateurs clés et optimisez vos décisions.",
+    "published": "2026-10-26T14:15:15+00:00",
+    "first_seen": "2026-10-27T09:02:51.814850+00:00",
+    "uid": "3467f4104fad6dea198605e92527f077abaccdbd12271747f5833d6a2a9a4e76",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "fd08f2dc2d97657ea9a1542fe75c560c387e15a96da564ae41f0319bf58887dd": {
+    "source": "ANAP - Actualités",
+    "title": "Financer sa transition écologique : les appels à projets par région",
+    "link": "https://www.anap.fr/s/article/financer-transition-ecologique-appels-projets-region",
+    "description": "Dans le cadre de l’accompagnement à la transition écologique des établissements sanitaires et médico-sociaux, l’ANAP met en place une veille régulière sur les appels à projets et appels à manifestations d’intérêt (AAP/AMI) émis par les pouvoirs publics, agences, collectivités ou partenaires institutionnels. Objectif :vous alerter rapidement sur les opportunités de financement, d’expérimentation ou d’accompagnement pour concrétiser vos projets de décarbonation, d’adaptation au changement climatiq",
+    "published": "2026-10-26T10:02:20+00:00",
+    "first_seen": "2026-10-27T09:02:51.814850+00:00",
+    "uid": "fd08f2dc2d97657ea9a1542fe75c560c387e15a96da564ae41f0319bf58887dd",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "b057bdb3ba9fbd44f3940a0d0fd3941772cb039388ca9802fffe93a4b01abe0b": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "« C’est inacceptable ! » : trois mois sans Défenseur des enfants, 54 personnalités interpellent le Premier ministre",
+    "link": "https://www.lesprosdelapetiteenfance.fr/cest-inacceptable-trois-mois-sans-defenseur-des-enfants-54-personnalites-interpellent-le-premier-ministre/",
+    "description": "Le poste de Défenseur des enfants est vacant depuis juillet. Dans une lettre ouverte adressée le 26 octobre à Sébastien Lecornu, plusieurs personnalités demandent une nomination rapide.",
+    "published": "2026-10-27T08:41:53+00:00",
+    "first_seen": "2026-10-27T09:02:48.004939+00:00",
+    "uid": "b057bdb3ba9fbd44f3940a0d0fd3941772cb039388ca9802fffe93a4b01abe0b",
+    "description_checked": true
+  },
+  "64fbbbb16b75b448e1c173083cd604841dca4aa5908832a9a8c096716b591dda": {
+    "source": "Outre-Mer 360°",
+    "title": "Attentat raciste de Trappes : un homme condamné pour apologie du terrorisme en Martinique",
+    "link": "https://outremers360.com/bassin-atlantique-appli/attentat-raciste-de-trappes-un-homme-condamne-pour-apologie-du-terrorisme-en-martinique",
+    "description": "Un homme a été condamné lundi en Martinique à douze mois de prison, dont huit ferme, pour apologie du terrorisme après avoir publié des messages racistes se réjouissant de l'attaque meurtrière de Trappes (Yvelines).Il avait publié vendredi plusieurs commentaires sur...",
+    "published": "2026-10-27T08:32:02+00:00",
+    "first_seen": "2026-10-27T09:02:35.575063+00:00",
+    "uid": "64fbbbb16b75b448e1c173083cd604841dca4aa5908832a9a8c096716b591dda"
+  },
+  "4e7aeced3bd93ab83ddf8e79c6825a271e0fd72df7d9d63d8a5464e72939d8d2": {
+    "source": "Outre-Mer 360°",
+    "title": "Interview. Nickel, maritime, numérique, tourisme, fiscalité, Christopher Gygès, vice-président du gouvernement de la Nouvelle-Calédonie dévoile sa feuille de route pour remettre le territoire sur « la voie de la prospérité »",
+    "link": "https://outremers360.com/bassin-pacifique-appli/interview-nickel-maritime-numerique-tourisme-fiscalite-christopher-gyges-vice-president-du-gouvernement-de-la-nouvelle-caledonie-devoile-sa-feuille-de-route-pour-remettre-le-territoire-sur-la-voie-de-la-prosperite",
+    "description": "De retour du sommet Choose Outre-mer à Paris, où la Nouvelle-Calédonie s'est particulièrement distinguée par plusieurs annonces d'investissements et de partenariats, Christopher Gygès, vice-président du gouvernement calédonien, depuis le 1er juillet 2026, entend...",
+    "published": "2026-10-27T08:21:54+00:00",
+    "first_seen": "2026-10-27T09:02:35.575063+00:00",
+    "uid": "4e7aeced3bd93ab83ddf8e79c6825a271e0fd72df7d9d63d8a5464e72939d8d2"
+  },
   "ffe5c026e4c25912c282289a8b010c1cecfe0fa9c97fd167ca9c8bd056d444a0": {
     "source": "Observatoire de la culture",
     "title": "Refonder un projet de scène conventionnée avec les droits culturels",
@@ -23,7 +75,7 @@
     "title": "Masterclass IA : Révélez le potentiel de l’IA pour votre établissement",
     "link": "https://www.anap.fr/s/article/masterclass-ia-etablissements-sanitaires-medico-sociaux",
     "description": "Simplifier les plannings, fluidifier les parcours, soulager les fonctions supports : l'Intelligence Artificielle transforme le quotidien des établissements de santé. Et pour vous ? Cette masterclass vous guide pour comprendre l'IA, identifier les usages pertinents pour votre établissement, s'inspirer de bonnes pratiques et déployer.",
-    "published": "2026-10-20T09:18:18+00:00",
+    "published": "2026-10-26T14:13:16+00:00",
     "first_seen": "2026-10-26T20:32:19.584217+00:00",
     "uid": "aea94c0a15d800f38c1ad9028078b7131e273418057888901fd722fbc1b8a27e",
     "description_checked": true,
@@ -3102,7 +3154,7 @@
     "title": "Masterclass DATA - Piloter par la DATA : décider vite, agir juste.",
     "link": "https://www.anap.fr/s/article/masterclass-data-piloter-decider-agir",
     "description": "Vos systèmes d'information hospitaliers regorgent de données patients, RH, financières et logistiques. Les exploitez-vous vraiment ? Avec notre Masterclass DATA, transformez vos données hospitalières en leviers de pilotage : aide à la décision médicale, optimisation des organisations et anticipation des besoins.",
-    "published": "2026-10-16T08:23:34+00:00",
+    "published": "2026-10-26T14:16:37+00:00",
     "first_seen": "2026-10-13T02:37:49.202437+00:00",
     "uid": "10b2cad10fa2432daed110007745f833c2983cf340e2e978d9af2cdb751cf238",
     "description_checked": true,
@@ -9374,53 +9426,6 @@
     "published": "2026-09-24T13:04:20+00:00",
     "first_seen": "2026-09-24T17:13:51.158880+00:00",
     "uid": "7d097db507c41192223bc070353d03cc6ca2f5eae783b581d44356236ff3abb1",
-    "description_checked": true
-  },
-  "14c010266e8acdb38cd9784633ae5a5f24fadf277e18d792741a9646ecd883d6": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "La Fepem réclame un « Grenelle de l’attractivité » et l’accès des particuliers employeurs à l’attestation d’honorabilité",
-    "link": "https://www.lesprosdelapetiteenfance.fr/petite-enfance-la-fepem-reclame-un-grenelle-de-lattractivite-et-lacces-des-particuliers-employeurs-a-lattestation-dhonorabilite/",
-    "description": "À l’approche de 2027, la Fédération des particuliers employeurs de France (Fepem) dévoile ses propositions pour faire du « droit de vivre chez soi une priorité du prochain quinquennat ».",
-    "published": "2026-09-24T14:59:39+00:00",
-    "first_seen": "2026-09-24T17:13:43.438744+00:00",
-    "uid": "14c010266e8acdb38cd9784633ae5a5f24fadf277e18d792741a9646ecd883d6",
-    "description_checked": true
-  },
-  "4c62578902356bc3e619a3ff723e69516c0e4c44d6bc779bc5fcda5d7abc4296": {
-    "source": "Localtis - Jeunesse, éducation et formation",
-    "title": "Numérique pour l'éducation : le ministère détaille le cadre de référence",
-    "link": "https://www.banquedesterritoires.fr/numerique-pour-leducation-le-ministere-detaille-le-cadre-de-reference",
-    "description": "Un arrêté du ministère de l'Éducation nationale décline le cadre de référence du numérique pour l'éducation. Il passe en revue les questions de sécurité, d'interopérabilité des systèmes et de numérique responsable. Autant de sujets qui concernent au premier chef les collectivités.",
-    "published": "2026-09-24T10:20:32+00:00",
-    "first_seen": "2026-09-24T17:13:40.005038+00:00",
-    "uid": "4c62578902356bc3e619a3ff723e69516c0e4c44d6bc779bc5fcda5d7abc4296"
-  },
-  "150b97bbfea43ece3154affb36508593912d485a9c2529fc968b23fc202a8f33": {
-    "source": "Outre-Mer 360°",
-    "title": "Sécheresse en Nouvelle-Calédonie : 110 millions de francs et un nouveau plan de soutien aux exploitants",
-    "link": "https://outremers360.com/bassin-pacifique-appli/secheresse-en-nouvelle-caledonie-110-millions-de-francs-et-un-nouveau-plan-de-soutien-aux-exploitants",
-    "description": "Alors que la saison sèche s’installe en Nouvelle-Calédonie et devrait se renforcer dans les semaines à venir sous l’effet El Niño, l’Agence rurale a modifié les modalités de l’accompagnement qu’elle propose aux exploitants agricoles, afin de mieux les aider à se...",
-    "published": "2026-09-24T12:17:59+00:00",
-    "first_seen": "2026-09-24T17:13:33.336609+00:00",
-    "uid": "150b97bbfea43ece3154affb36508593912d485a9c2529fc968b23fc202a8f33"
-  },
-  "a57a752d64f4b818fb336af17bcdb4edf7e7cd4f99841c2c2e8a6bda736ef134": {
-    "source": "Outre-Mer 360°",
-    "title": "Tourisme : La Nouvelle-Calédonie et la Polynésie française parmi les 50 meilleurs lieux où voyager en 2027",
-    "link": "https://outremers360.com/bassin-pacifique-appli/tourisme-la-nouvelle-caledonie-et-la-polynesie-francaise-parmi-les-50-meilleurs-lieux-ou-voyager-en-2027",
-    "description": "L’éditeur de guides de voyage Lonely Planet a classé la Nouvelle-Calédonie et la Polynésie française dans son classement des meilleurs lieux où voyager en 2027 (50 Best Places to Go in 2027). Après La Réunion en 2026, au tour des deux collectivités du Pacifique de...",
-    "published": "2026-09-24T12:07:57+00:00",
-    "first_seen": "2026-09-24T17:13:33.336609+00:00",
-    "uid": "a57a752d64f4b818fb336af17bcdb4edf7e7cd4f99841c2c2e8a6bda736ef134"
-  },
-  "61b89736b148a77eb53f262a1822709b24bfb1064745e7a38c8a2cef234d92bb": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "ARPEDA : le SPAMAF pose six conditions avant toute généralisation du dispositif",
-    "link": "https://www.lesprosdelapetiteenfance.fr/arpeda-le-spamaf-pose-six-conditions-avant-toute-generalisation-du-dispositif/",
-    "description": "Alors que l’expérimentation ARPEDA vient de débuter dans sept territoires pilotes, le SPAMAF demande qu’aucune généralisation du dispositif ne soit envisagée sans garanties supplémentaires pour les assistantes maternelles.",
-    "published": "2026-09-24T09:34:27+00:00",
-    "first_seen": "2026-09-24T11:49:09.025630+00:00",
-    "uid": "61b89736b148a77eb53f262a1822709b24bfb1064745e7a38c8a2cef234d92bb",
     "description_checked": true
   }
 }

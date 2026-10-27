@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-10-27T00:34:00.738156+00:00",
+  "generated_at": "2026-10-27T09:03:07.588732+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
   "sites_warning": 2,
-  "new_items": 1,
+  "new_items": 5,
   "merged_items": 563,
   "themes": [
     "ANTIGUA",
@@ -185,7 +185,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 251 jours (seuil : 60)"
+        "rien de neuf depuis 252 jours (seuil : 60)"
       ]
     },
     {
