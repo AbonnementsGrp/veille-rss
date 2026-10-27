@@ -1,4 +1,13 @@
 {
+  "ffe5c026e4c25912c282289a8b010c1cecfe0fa9c97fd167ca9c8bd056d444a0": {
+    "source": "Observatoire de la culture",
+    "title": "Refonder un projet de scène conventionnée avec les droits culturels",
+    "link": "https://www.observatoire-culture.net/refonder-projet-scene-conventionnee-droits-culturels/",
+    "description": "Thomas Desmaison dirige, depuis 2020, le Théâtre du Cloître à Bellac (87), labellisé « Scène conventionnée d’intérêt national ». Il y mène, avec son équipe, un projet fondé sur les droits culturels afin qu’advienne une « relation de qualité » entre des personnes et des ressources culturelles. Une approche qui n’est pas sans bousculer des modèles de fonctionnement où la diffusion et la figure centrale du programmateur restent prédominantes.",
+    "published": "2026-09-24T08:39:01+00:00",
+    "first_seen": "2026-10-27T00:33:44.234905+00:00",
+    "uid": "ffe5c026e4c25912c282289a8b010c1cecfe0fa9c97fd167ca9c8bd056d444a0"
+  },
   "640b54d6111e53080e735b5898d575dd39d67c8e7c9bc783d38891765dfb172d": {
     "source": "ADN Tourisme",
     "title": "Les visages d’ADN Tourisme : Eric Bruxelle",
@@ -9412,16 +9421,6 @@
     "published": "2026-09-24T09:34:27+00:00",
     "first_seen": "2026-09-24T11:49:09.025630+00:00",
     "uid": "61b89736b148a77eb53f262a1822709b24bfb1064745e7a38c8a2cef234d92bb",
-    "description_checked": true
-  },
-  "3cfbece5f0939b16cb6bb9f5550665a157d9ae2892ee0a451e77b6210c1395e4": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Petite enfance : le plan d’urgence prévoit 3 millions d’euros pour l’accueil individuel",
-    "link": "https://www.lesprosdelapetiteenfance.fr/petite-enfance-le-plan-durgence-prevoit-3-millions-deuros-pour-laccueil-individuel/",
-    "description": "Le plan d’urgence de 90 millions pour la petite enfance annoncé par la ministre Stéphanie Rist comporte aussi plusieurs mesures en faveur de l’accueil individuel. On fait le point sur ces mesures qui doivent encore être approuvées par le conseil d’administration de la CNAF.",
-    "published": "2026-09-24T08:32:08+00:00",
-    "first_seen": "2026-09-24T11:49:09.025630+00:00",
-    "uid": "3cfbece5f0939b16cb6bb9f5550665a157d9ae2892ee0a451e77b6210c1395e4",
     "description_checked": true
   }
 }
