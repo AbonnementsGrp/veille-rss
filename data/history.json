@@ -1,4 +1,16 @@
 {
+  "908c16c5be426d9b20d0ae002a139d2ac41adcf2b25d206afe9d610eb0521b3f": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire - Les Rendez-Vous de la Transfo",
+    "link": "https://www.anap.fr/s/article/webinaire-rdv-transfo",
+    "description": "Transformer l'offre médico-sociale, ça ne se fait pas seul. L'Anap lance « Les Rendez-Vous de la Transfo », une communauté de pratiques ouverte à tous les ESMS. L'objectif ? Faire vivre les outils de l'Anap, partager ce qui fonctionne sur le terrain et enrichir collectivement les outils.",
+    "published": "2026-10-27T12:46:44+00:00",
+    "first_seen": "2026-10-28T05:45:37.144429+00:00",
+    "uid": "908c16c5be426d9b20d0ae002a139d2ac41adcf2b25d206afe9d610eb0521b3f",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "7d097db507c41192223bc070353d03cc6ca2f5eae783b581d44356236ff3abb1": {
     "source": "IGAS",
     "title": "Assurance maladie obligatoire et complémentaires santé : un éclairage chiffré sur les scénarios d'évolution du financement des soins",
@@ -9416,14 +9428,5 @@
     "published": "2026-09-25T11:32:33+00:00",
     "first_seen": "2026-09-25T11:53:55.606513+00:00",
     "uid": "23397e9a935686bdc2be94e95b785d50664ac7823ffe1c561d56f476ccaa8dd6"
-  },
-  "00c301627e05f4ee316a65450cea7da042f9dacb68d5023ace7de66611696edb": {
-    "source": "Outre-Mer 360°",
-    "title": "Holcim France et AL’MA s’associent pour un écoquartier de 230 logements à Mayotte",
-    "link": "https://outremers360.com/bassin-indien-appli/holcim-france-et-alma-sassocient-pour-un-ecoquartier-de-230-logements-a-mayotte",
-    "description": "Holcim France et AL’MA, filiale du groupe Action Logement à Mayotte, annoncent la signature d’un partenariat commercial pour la conception et la construction de l’écoquartier résidentiel AL’MA HOME FULERA VILLAGE, à Chiconi. Le projet prévoit la réalisation de...",
-    "published": "2026-09-25T11:08:47+00:00",
-    "first_seen": "2026-09-25T11:53:55.606513+00:00",
-    "uid": "00c301627e05f4ee316a65450cea7da042f9dacb68d5023ace7de66611696edb"
   }
 }
