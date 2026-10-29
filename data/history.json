@@ -1,4 +1,83 @@
 {
+  "d901569c9be82585d843d7a071eeca4deaab6348ae3a05fefc3eb19e0fba5bab": {
+    "source": "ANAP - Actualités",
+    "title": "Améliorer le fonctionnement des Plateformes de Coordination et d'Orientation (PCO)",
+    "link": "https://www.anap.fr/s/article/ameliorer-le-fonctionnement-des-plateformes-de-coordination-et-d-orientation-pco",
+    "description": "Mandatée par la DITND, l'Anap a conduit une évaluation nationale du fonctionnement des PCO. Elle en publie les résultats et met à disposition une boîte à outils concrète pour aider les plateformes à harmoniser leurs pratiques et améliorer l'accompagnement des enfants présentant des troubles du neurodéveloppement.",
+    "published": "2026-10-28T16:42:04+00:00",
+    "first_seen": "2026-10-29T10:01:02.851376+00:00",
+    "uid": "d901569c9be82585d843d7a071eeca4deaab6348ae3a05fefc3eb19e0fba5bab",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "966335bf066cc79c4b25b59d3b3aa66911d3ea54ce06b9998be2fca0fe2e1e78": {
+    "source": "ANAP - Actualités",
+    "title": "Matrice des risques d'un projet immobilier",
+    "link": "https://www.anap.fr/s/article/matrice-des-risques-d-un-projet-immobilier",
+    "description": "Les projets immobiliers des établissements de santé sont de plus en plus complexes à mener. Pour repérer au plus tôt ce qui pourrait les fragiliser, l’Anap met à votre disposition une matrice des risques. Développée avec la Direction générale de l'offre de soins (DGOS), elle fournit aux ARS et aux établissements une grille d’analyse commune pour identifier les risques d’un projet et cibler les opérations qui demandent une vigilance particulière.",
+    "published": "2026-10-28T08:51:13+00:00",
+    "first_seen": "2026-10-29T10:01:02.851376+00:00",
+    "uid": "966335bf066cc79c4b25b59d3b3aa66911d3ea54ce06b9998be2fca0fe2e1e78",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "1acf19f9b0a923566fe49cdaaad78a9d35e5580f5729635feaa0224e7987f55b": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "Des modes d’accueil accessibles et de qualité : une solution à la baisse de la natalité pour trois français sur quatre",
+    "link": "https://www.lesprosdelapetiteenfance.fr/baisse-de-la-natalite-pres-de-trois-francais-sur-quatre-voient-une-solution-dans-des-modes-daccueil-accessibles-et-de-qualite/",
+    "description": "Développer des solutions d’accueil accessibles et de qualité : 73 % des Français jugent cette mesure efficace pour relancer la natalité, selon l’enquête Ipsos bva réalisée pour le CESE.",
+    "published": "2026-10-29T09:43:25+00:00",
+    "first_seen": "2026-10-29T10:00:59.982163+00:00",
+    "uid": "1acf19f9b0a923566fe49cdaaad78a9d35e5580f5729635feaa0224e7987f55b",
+    "description_checked": true
+  },
+  "c6e9277e83f7992a2f3075f4634f3b9ac57f72e1de01125e2ded1ee8b38bf8a5": {
+    "source": "Outre-Mer 360°",
+    "title": "Le Sénat vote pour l’imprescriptibilité des crimes sexuels commis sur les mineurs",
+    "link": "https://outremers360.com/bassin-atlantique-appli/le-senat-vote-pour-limprescriptibilite-des-crimes-sexuels-commis-sur-les-mineurs",
+    "description": "Le Sénat a voté mercredi pour l’imprescriptibilité des crimes sexuels commis sur les mineurs, étendant cette exception jusqu’ici réservée aux crimes contre l’humanité et ouvrant la voie à un changement majeur dans la justice française. Lors de l’examen...",
+    "published": "2026-10-29T08:55:01+00:00",
+    "first_seen": "2026-10-29T10:00:46.311178+00:00",
+    "uid": "c6e9277e83f7992a2f3075f4634f3b9ac57f72e1de01125e2ded1ee8b38bf8a5"
+  },
+  "0fe9bc58521630a3a0ae355d804990d2e999bf3a0eda6ee456909e415f83af2e": {
+    "source": "Outre-Mer 360°",
+    "title": "Aérien : Le Martiniquais Louis-Philippe Vigilant, nouveau chef « Signature » d’Air France au départ des Antilles et de la Guyane",
+    "link": "https://outremers360.com/bassin-atlantique-appli/aerien-louis-philippe-vigilant-nouveau-chef-signature-dair-france-au-depart-des-antilles-et-de-la-guyane",
+    "description": "À compter du 1er novembre 2026, Air France proposera à bord de sa cabine Business de « nouvelles créations culinaires » signées par le chef martiniquais Louis-Philippe Vigilant. Ces mets seront à découvrir sur les vols long-courriers au départ de...",
+    "published": "2026-10-29T08:50:15+00:00",
+    "first_seen": "2026-10-29T10:00:46.311178+00:00",
+    "uid": "0fe9bc58521630a3a0ae355d804990d2e999bf3a0eda6ee456909e415f83af2e"
+  },
+  "10e03a6615d0cfd1b054f3f78f8fff6c531dfd21081b9c4bb0076f6ce9f73405": {
+    "source": "Outre-Mer 360°",
+    "title": "Télécommunications : la Polynésie prépare l’ouverture des liaisons internationales à de nouveaux opérateurs",
+    "link": "https://outremers360.com/bassin-pacifique-appli/telecommunications-la-polynesie-prepare-louverture-des-liaisons-internationales-a-de-nouveaux-operateurs",
+    "description": "Le gouvernement de la Polynésie relance le dossier de la modernisation des télécoms. Un nouveau projet de loi présenté en conseil des ministres entend encadrer l'itinérance mobile et ouvrir de manière maîtrisée les liaisons internationales à de nouveaux opérateurs. Un...",
+    "published": "2026-10-29T08:22:19+00:00",
+    "first_seen": "2026-10-29T10:00:46.311178+00:00",
+    "uid": "10e03a6615d0cfd1b054f3f78f8fff6c531dfd21081b9c4bb0076f6ce9f73405"
+  },
+  "d43a1cb266af39dff218e8a99a0e241964d1418cb295242bc9b021ec60e29b7b": {
+    "source": "Outre-Mer 360°",
+    "title": "Guyane : l'Ouest guyanais à l'honneur pour la première fois au salon des maires",
+    "link": "https://outremers360.com/bassin-atlantique-appli/guyane-louest-guyanais-a-lhonneur-pour-la-premiere-fois-au-salon-des-maires",
+    "description": "Pour la première fois, le Salon des maires de Guyane se tient dans l'Ouest. La 3e édition, organisée par l'Association des maires de Guyane sur le thème « Une Guyane qui transforme », s'est ouverte ce mercredi 28 octobre au stade René-Long de Saint-Laurent-du-Maroni....",
+    "published": "2026-10-29T08:14:28+00:00",
+    "first_seen": "2026-10-29T10:00:46.311178+00:00",
+    "uid": "d43a1cb266af39dff218e8a99a0e241964d1418cb295242bc9b021ec60e29b7b"
+  },
+  "639558684690bb786071eaefdf00d007ec178eab4f6fadaccb45fa697319f943": {
+    "source": "Outre-Mer 360°",
+    "title": "SÉRIE. Infrastructures en Outre-mer : connectivité internationale, fret, transition énergétique, l'aéroport Martinique Aimé-Césaire accélère sa stratégie de développement",
+    "link": "https://outremers360.com/bassin-atlantique-appli/serie-infrastructures-en-outre-mer-connectivite-internationale-fret-transition-energetique-laeroport-martinique-aime-cesaire-accelere-sa-strategie-de-developpement",
+    "description": "Outremers360, en partenariat avec Méridiam, poursuit sa série consacrée aux grandes infrastructures ultramarines. Routes, ports, ponts, équipements majeurs : ces réalisations changent le quotidien des habitants, redessinent les territoires et ouvrent de nouvelles...",
+    "published": "2026-10-29T07:52:42+00:00",
+    "first_seen": "2026-10-29T10:00:46.311178+00:00",
+    "uid": "639558684690bb786071eaefdf00d007ec178eab4f6fadaccb45fa697319f943"
+  },
   "6a6a02eb2f27376792fbe9b107fae6c98fcb27e5f88ce7d0544435b61fe77a13": {
     "source": "IGAS",
     "title": "L'Igas recrute six Inspecteurs ou Inspectrices",
@@ -2221,7 +2300,7 @@
     "title": "Performance sans frontière : les voyages d’études de l’Anap",
     "link": "https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes",
     "description": "Espagne, Hollande, Belgique, Allemagne… Embarquez pour des séjours immersifs au sein des établissements européens les plus performants ! Échangez, inspirez-vous des systèmes de soins étrangers, découvrez les solutions de demain, explorez les enjeux de la performance sous un nouvel angle.",
-    "published": "2026-10-19T09:02:34+00:00",
+    "published": "2026-10-28T16:54:11+00:00",
     "first_seen": "2026-10-16T04:35:15.847762+00:00",
     "uid": "43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446",
     "description_checked": true,
@@ -2284,7 +2363,7 @@
     "title": "Journée nationale de la transfo - Handicap : des intentions à l'action !",
     "link": "https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap",
     "description": "La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.",
-    "published": "2026-10-21T11:25:45+00:00",
+    "published": "2026-10-28T16:11:52+00:00",
     "first_seen": "2026-10-15T21:25:27.195033+00:00",
     "uid": "f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5",
     "description_checked": true,
@@ -3768,7 +3847,7 @@
     "title": "3 minutes Planning : automatisez la production de vos plannings !",
     "link": "https://www.anap.fr/s/article/3-minutes-planning-automatisez-la-production-de-vos-plannings",
     "description": "3 minutes Planning, l'outil gratuit de l'Anap qui génère des cycles de travail conformes pour libérer du temps d'encadrement.",
-    "published": "2026-10-15T13:46:17+00:00",
+    "published": "2026-10-28T08:45:55+00:00",
     "first_seen": "2026-10-10T09:53:20.124070+00:00",
     "uid": "72d505affd97bef50c31a58217fe90ce1ae97c647e5083a18c458fc281eec77d",
     "description_checked": true,
@@ -3792,7 +3871,7 @@
     "title": "La Fabrique RH Anap : la nouvelle génération d’outils RH à découvrir et enrichir",
     "link": "https://www.anap.fr/s/article/la-fabrique-rh-anap-la-nouvelle-generation-d-outils-rh-a-decouvrir-et-enrichir",
     "description": "La Fabrique RH Anap, rendez-vous digital régulier : prenez en main 3 minutes Planning, posez vos questions et faites évoluer l’outil.",
-    "published": "2026-10-21T11:57:50+00:00",
+    "published": "2026-10-28T08:43:57+00:00",
     "first_seen": "2026-10-10T09:53:20.124070+00:00",
     "uid": "6924a49f21ac0822dad1d5f94cbe8ce1cab2b7af4a331cc474cc72e8eff94875",
     "description_checked": true,
@@ -9350,77 +9429,5 @@
     "published": "2026-09-27T10:35:54+00:00",
     "first_seen": "2026-09-27T12:05:43.280426+00:00",
     "uid": "0c3be680daf7096dfb27df36f27ad0111a1b0996b81506d2ac8f6efc3483c181"
-  },
-  "968c57fdc356e845576307039a77fc10cea5b053104283643dfac6eb0c16230b": {
-    "source": "Outre-Mer 360°",
-    "title": "Polynésie : Vatea Moarii, nouveau président du Cluster maritime",
-    "link": "https://outremers360.com/bassin-pacifique-appli/polynesie-vatea-moarii-nouveau-president-du-cluster-maritime",
-    "description": "Le gérant d’Ocean Products Tahiti a pris le relais, ce jeudi 24 septembre, de Stéphane Pérez à la tête du Cluster maritime de Polynésie. L’organisme, qui réunit les acteurs privés et publics de la mer, a réorganisé son bureau, avec des vice-présidences...",
-    "published": "2026-09-27T09:13:33+00:00",
-    "first_seen": "2026-09-27T12:05:43.280426+00:00",
-    "uid": "968c57fdc356e845576307039a77fc10cea5b053104283643dfac6eb0c16230b"
-  },
-  "83d47e35af1493583de064148d5a015eb7066eda5f531c5fefa4632e308ae593": {
-    "source": "Outre-Mer 360°",
-    "title": "Nita Green, sénatrice et ministre d’Australie du Nord, en déplacement en Nouvelle-Calédonie ce lundi",
-    "link": "https://outremers360.com/bassin-pacifique-appli/nita-green-senatrice-et-ministre-daustralie-du-nord-en-deplacement-en-nouvelle-caledonie-ce-lundi",
-    "description": "Nita Green, sénatrice du Queensland et ministre déléguée aux Affaires des îles du Pacifique et au Tourisme d’Australie du Nord, sera en déplacement en Nouvelle-Calédonie ce lundi 23 septembre.« Plus proche voisin à l’est de l’Australie », la...",
-    "published": "2026-09-27T08:48:45+00:00",
-    "first_seen": "2026-09-27T12:05:43.280426+00:00",
-    "uid": "83d47e35af1493583de064148d5a015eb7066eda5f531c5fefa4632e308ae593"
-  },
-  "2b9483e6a528a015e663a56a2aacf34949d35895dc1f631c87ee2578898784e3": {
-    "source": "Outre-Mer 360°",
-    "title": "SÉRIE. Les grands textes qui ont marqué les Outre-mer : le 1er juillet 1937, le Guyanais Félix Éboué, alors gouverneur intérimaire de la Guadeloupe, prononce son célèbre discours « Jouer le jeu ! »",
-    "link": "https://outremers360.com/bassin-atlantique-appli/serie-les-grands-textes-qui-ont-marque-les-outre-mer-le-1er-juillet-1937-le-guyanais-felix-eboue-alors-gouverneur-interimaire-de-la-guadeloupe-prononce-son-celebre-discours-jouer-le-jeu",
-    "description": "Après avoir été gouverneur intérimaire du Soudan français (actuel Mali) de 1934 à octobre 1936, Félix Éboué s’embarque pour les Antilles ce même mois pour occuper un poste similaire en Guadeloupe. Son ordre de mission l’incite à mettre en place les réformes du...",
-    "published": "2026-09-27T08:16:11+00:00",
-    "first_seen": "2026-09-27T12:05:43.280426+00:00",
-    "uid": "2b9483e6a528a015e663a56a2aacf34949d35895dc1f631c87ee2578898784e3"
-  },
-  "67791a88f58a9770333daf58e54852c944088607bb0be018850fd92123f44e5d": {
-    "source": "Outre-Mer 360°",
-    "title": "Sénatoriales 2026 : Lafaele Tukumuli élu sénateur de Wallis-et-Futuna au premier tour",
-    "link": "https://outremers360.com/bassin-pacifique-appli/senatoriales-2026-lafaele-tukumuli-elu-senateur-de-wallis-et-futuna-au-premier-tour",
-    "description": "Lafaele Tukumuli a été élu sénateur de Wallis-et-Futuna ce dimanche 27 septembre. Sa victoire illustre un compromis politique au sein de la majorité à l’Assemblée territoriale, permettant à un Futunien de siéger au palais du Luxembourg. Il est le premier sénateur...",
-    "published": "2026-09-27T07:54:53+00:00",
-    "first_seen": "2026-09-27T12:05:43.280426+00:00",
-    "uid": "67791a88f58a9770333daf58e54852c944088607bb0be018850fd92123f44e5d"
-  },
-  "1393c1c2b49cb2c048dfc7376885734063c6bc65e19c3b534db41eb2d2d1efd4": {
-    "source": "Outre-Mer 360°",
-    "title": "SÉRIE. Histoire des chefs-lieux d’Outre-mer : Mata Utu, un village d’Uvea devenu cœur des trois derniers royaumes de France",
-    "link": "https://outremers360.com/bassin-pacifique-appli/histoire-des-chefs-lieux-doutre-mer-mata-utu-un-village-duvea-devenu-coeur-des-trois-derniers-royaumes-de-france",
-    "description": "Mata Utu concentre aujourd’hui les principaux pouvoirs de Wallis-et-Futuna : Préfecture, Assemblée territoriale, Palais royal et cathédrale s’y côtoient dans un espace relativement restreint. Une proximité qui résume à elle seule l’histoire singulière de ce...",
-    "published": "2026-09-26T06:57:43+00:00",
-    "first_seen": "2026-09-27T12:05:43.280426+00:00",
-    "uid": "1393c1c2b49cb2c048dfc7376885734063c6bc65e19c3b534db41eb2d2d1efd4"
-  },
-  "acd9bfea1ff18a4e7d8d86680251ab2b302d17c289dea7f2906d7ff5642b3dbe": {
-    "source": "Outre-Mer 360°",
-    "title": "Haïti, pays invité d’honneur de la 10ème édition du Salon de la Gastronomie de l’Outre-mer et des cuisines du monde",
-    "link": "https://outremers360.com/bassin-atlantique-appli/haiti-pays-invite-dhonneur-de-la-10eme-edition-du-salon-de-la-gastronomie-de-loutre-mer-et-des-cuisines-du-monde",
-    "description": "Porté par une nouvelle gouvernance, le Salon de la Gastronomie de l’Outre-mer et des cuisines du monde, s’apprête à célébrer son dixième anniversaire en grandes pompes les 2, 3 et 4 octobre 2026 au Pavillon Gravelle, à Paris, avec comme invité d’honneur Haïti. Une...",
-    "published": "2026-09-26T11:34:59+00:00",
-    "first_seen": "2026-09-26T16:25:45.395300+00:00",
-    "uid": "acd9bfea1ff18a4e7d8d86680251ab2b302d17c289dea7f2906d7ff5642b3dbe"
-  },
-  "87dba2d030e5bbbcdc074cdf1bfa3c9a7bb2bc2c022b4ce7303192323a09b0ab": {
-    "source": "Outre-Mer 360°",
-    "title": "Aérien : Il y a 40 ans, Air France opérait en propre son premier vol entre Paris et Tahiti",
-    "link": "https://outremers360.com/bassin-pacifique-appli/aerien-il-y-a-40-ans-air-france-operait-en-propre-son-premier-vol-entre-paris-et-tahiti",
-    "description": "La compagnie Air France fête, ce samedi 26 septembre, les 40 ans de son premier vol entre Paris-CDG et Tahiti-Faa’a, via Los Angeles. « Une étape emblématique dans l'histoire de l'aviation française et polynésienne » souligne la compagnie nationale.« Cet...",
-    "published": "2026-09-26T11:16:54+00:00",
-    "first_seen": "2026-09-26T11:27:34.789906+00:00",
-    "uid": "87dba2d030e5bbbcdc074cdf1bfa3c9a7bb2bc2c022b4ce7303192323a09b0ab"
-  },
-  "60505ad371e2fee0f38b56dc6c67d0ad80c225492f15acbdf8ec494511a52e3d": {
-    "source": "Outre-Mer 360°",
-    "title": "Martinique : 5,8 millions d’euros pour renforcer la sûreté du Grand Port maritime et lutter contre les trafics",
-    "link": "https://outremers360.com/bassin-atlantique-appli/martinique-5-8-millions-deuros-pour-renforcer-la-surete-du-grand-port-maritime-et-lutter-contre-les-trafics",
-    "description": "Le Grand Port maritime de la Martinique va renforcer son dispositif de sûreté face aux risques liés aux trafics de stupéfiants et à la corruption. Une stratégie 2025-2029, présentée vendredi 25 septembre 2026 par le préfet de la Martinique et le président du directoire...",
-    "published": "2026-09-26T09:59:19+00:00",
-    "first_seen": "2026-09-26T11:27:34.789906+00:00",
-    "uid": "60505ad371e2fee0f38b56dc6c67d0ad80c225492f15acbdf8ec494511a52e3d"
   }
 }

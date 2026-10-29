@@ -8,7 +8,49 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 27 Oct 2026 12:46:44 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 16:54:11 +0000</lastBuildDate>
+    <item>
+      <title>Performance sans frontière : les voyages d’études de l’Anap</title>
+      <link>https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes</link>
+      <description>Espagne, Hollande, Belgique, Allemagne… Embarquez pour des séjours immersifs au sein des établissements européens les plus performants ! Échangez, inspirez-vous des systèmes de soins étrangers, découvrez les solutions de demain, explorez les enjeux de la performance sous un nouvel angle.</description>
+      <guid isPermaLink="false">43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446</guid>
+      <pubDate>Wed, 28 Oct 2026 16:54:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Améliorer le fonctionnement des Plateformes de Coordination et d'Orientation (PCO)</title>
+      <link>https://www.anap.fr/s/article/ameliorer-le-fonctionnement-des-plateformes-de-coordination-et-d-orientation-pco</link>
+      <description>Mandatée par la DITND, l'Anap a conduit une évaluation nationale du fonctionnement des PCO. Elle en publie les résultats et met à disposition une boîte à outils concrète pour aider les plateformes à harmoniser leurs pratiques et améliorer l'accompagnement des enfants présentant des troubles du neurodéveloppement.</description>
+      <guid isPermaLink="false">d901569c9be82585d843d7a071eeca4deaab6348ae3a05fefc3eb19e0fba5bab</guid>
+      <pubDate>Wed, 28 Oct 2026 16:42:04 +0000</pubDate>
+    </item>
+    <item>
+      <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
+      <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
+      <description>La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.</description>
+      <guid isPermaLink="false">f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5</guid>
+      <pubDate>Wed, 28 Oct 2026 16:11:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Matrice des risques d'un projet immobilier</title>
+      <link>https://www.anap.fr/s/article/matrice-des-risques-d-un-projet-immobilier</link>
+      <description>Les projets immobiliers des établissements de santé sont de plus en plus complexes à mener. Pour repérer au plus tôt ce qui pourrait les fragiliser, l’Anap met à votre disposition une matrice des risques. Développée avec la Direction générale de l'offre de soins (DGOS), elle fournit aux ARS et aux établissements une grille d’analyse commune pour identifier les risques d’un projet et cibler les opérations qui demandent une vigilance particulière.</description>
+      <guid isPermaLink="false">966335bf066cc79c4b25b59d3b3aa66911d3ea54ce06b9998be2fca0fe2e1e78</guid>
+      <pubDate>Wed, 28 Oct 2026 08:51:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>3 minutes Planning : automatisez la production de vos plannings !</title>
+      <link>https://www.anap.fr/s/article/3-minutes-planning-automatisez-la-production-de-vos-plannings</link>
+      <description>3 minutes Planning, l'outil gratuit de l'Anap qui génère des cycles de travail conformes pour libérer du temps d'encadrement.</description>
+      <guid isPermaLink="false">72d505affd97bef50c31a58217fe90ce1ae97c647e5083a18c458fc281eec77d</guid>
+      <pubDate>Wed, 28 Oct 2026 08:45:55 +0000</pubDate>
+    </item>
+    <item>
+      <title>La Fabrique RH Anap : la nouvelle génération d’outils RH à découvrir et enrichir</title>
+      <link>https://www.anap.fr/s/article/la-fabrique-rh-anap-la-nouvelle-generation-d-outils-rh-a-decouvrir-et-enrichir</link>
+      <description>La Fabrique RH Anap, rendez-vous digital régulier : prenez en main 3 minutes Planning, posez vos questions et faites évoluer l’outil.</description>
+      <guid isPermaLink="false">6924a49f21ac0822dad1d5f94cbe8ce1cab2b7af4a331cc474cc72e8eff94875</guid>
+      <pubDate>Wed, 28 Oct 2026 08:43:57 +0000</pubDate>
+    </item>
     <item>
       <title>Webinaire - Les Rendez-Vous de la Transfo</title>
       <link>https://www.anap.fr/s/article/webinaire-rdv-transfo</link>
@@ -57,20 +99,6 @@
       <description>Comment organiser la présence des équipes et sécuriser vos plannings ? Notre webinaire vous aide à prendre en main nos 2 outils complémentaires : maquette organisationnelle pour calculer l'effectif nécessaire à votre activité, et cycle de travail pour répartir vos effectifs.</description>
       <guid isPermaLink="false">c7cc6cb077dd7a2ab774d54a8b09c382f8f2f923d5d04c9361d0d1923d3c0488</guid>
       <pubDate>Thu, 22 Oct 2026 08:09:41 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Fabrique RH Anap : la nouvelle génération d’outils RH à découvrir et enrichir</title>
-      <link>https://www.anap.fr/s/article/la-fabrique-rh-anap-la-nouvelle-generation-d-outils-rh-a-decouvrir-et-enrichir</link>
-      <description>La Fabrique RH Anap, rendez-vous digital régulier : prenez en main 3 minutes Planning, posez vos questions et faites évoluer l’outil.</description>
-      <guid isPermaLink="false">6924a49f21ac0822dad1d5f94cbe8ce1cab2b7af4a331cc474cc72e8eff94875</guid>
-      <pubDate>Wed, 21 Oct 2026 11:57:50 +0000</pubDate>
-    </item>
-    <item>
-      <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
-      <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
-      <description>La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.</description>
-      <guid isPermaLink="false">f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5</guid>
-      <pubDate>Wed, 21 Oct 2026 11:25:45 +0000</pubDate>
     </item>
     <item>
       <title>Ehpad vert : autonomie énergétique, adaptation climatique, performance économique</title>
@@ -143,13 +171,6 @@
       <pubDate>Mon, 19 Oct 2026 14:19:05 +0000</pubDate>
     </item>
     <item>
-      <title>Performance sans frontière : les voyages d’études de l’Anap</title>
-      <link>https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes</link>
-      <description>Espagne, Hollande, Belgique, Allemagne… Embarquez pour des séjours immersifs au sein des établissements européens les plus performants ! Échangez, inspirez-vous des systèmes de soins étrangers, découvrez les solutions de demain, explorez les enjeux de la performance sous un nouvel angle.</description>
-      <guid isPermaLink="false">43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446</guid>
-      <pubDate>Mon, 19 Oct 2026 09:02:34 +0000</pubDate>
-    </item>
-    <item>
       <title>Appui Terrain : Gestion de crise en ESMS</title>
       <link>https://www.anap.fr/s/article/appui-terrain-gestion-de-crise-en-esms</link>
       <description>Canicules, intempéries, risques sécuritaires… La multiplication de ces situations renforce la nécessité pour les établissements médico-sociaux d’anticiper et d’organiser leur gestion de crises. Participez à notre appui terrain et bénéficiez d’un accompagnement dédié.</description>
@@ -211,13 +232,6 @@
       <description>Au cours des vingt dernières années, de nombreux pays européens ont engagé des réformes d’ampleur de leur système de santé. L’Anap a étudié les réformes menées dans 6 pays européens pour en comprendre les tenants et aboutissants</description>
       <guid isPermaLink="false">4a41941a2245b158758c575dff8ed523f0e6933fd33f04fb37ce6ecf0a06a4eb</guid>
       <pubDate>Thu, 15 Oct 2026 13:46:57 +0000</pubDate>
-    </item>
-    <item>
-      <title>3 minutes Planning : automatisez la production de vos plannings !</title>
-      <link>https://www.anap.fr/s/article/3-minutes-planning-automatisez-la-production-de-vos-plannings</link>
-      <description>3 minutes Planning, l'outil gratuit de l'Anap qui génère des cycles de travail conformes pour libérer du temps d'encadrement.</description>
-      <guid isPermaLink="false">72d505affd97bef50c31a58217fe90ce1ae97c647e5083a18c458fc281eec77d</guid>
-      <pubDate>Thu, 15 Oct 2026 13:46:17 +0000</pubDate>
     </item>
     <item>
       <title>Performance des SMR : Plateaux techniques, ambulatoire, réadaptation à domicile</title>
@@ -407,20 +421,6 @@
       <description>Cadrage, planification, conception, mise en œuvre et clôture : cet autodiagnostic en ligne permet d'évaluer vos connaissances de la gestion de projet. Vous aurez ensuite accès à une méthodologie et à des outils opérationnels clés en main pour mener à bien votre projet.</description>
       <guid isPermaLink="false">2fd5d2061d4bc7fa23451848637b6310ca30d5cdf5ade49fdf6b4ece562ad057</guid>
       <pubDate>Tue, 06 Oct 2026 08:00:18 +0000</pubDate>
-    </item>
-    <item>
-      <title>La réforme de la tarification des soins infirmiers à domicile</title>
-      <link>https://www.anap.fr/s/article/reforme-tarification-soins-infirmiers-a-domicile</link>
-      <description>Depuis mai 2023, les SSIAD et SPASAD sont soumis à une nouvelle tarification pour leurs activités de soins. La DGCS et l’Anap proposent une synthèse flash pour saisir en quelques minutes les points clés de cette réforme : mécanismes tarifaires, calendrier de mise en œuvre, impacts sur le financement des services.</description>
-      <guid isPermaLink="false">ef758807277f4869610ca2710316450478d8a1b242f8e76af4faa8145e4eef77</guid>
-      <pubDate>Tue, 06 Oct 2026 07:59:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autodiagnostic Maturité de la fonction logistique</title>
-      <link>https://www.anap.fr/s/article/autodiagnostic-maturite-fonction-logistique</link>
-      <description>Cet autodiagnostic en ligne permet d'évaluer la maturité de votre fonction logistique (stratégie et positionnement, gestion des stocks et des magasins, approvisionnements, ressources humaines, matériel et infrastructure, outils et pilotage), pour vous engager, ensuite, dans une démarche d’optimisation.</description>
-      <guid isPermaLink="false">640d662b4eef658e74829ecc38ba57c9445c577388fa1613fa7b74b5a183694d</guid>
-      <pubDate>Tue, 06 Oct 2026 07:59:22 +0000</pubDate>
     </item>
   </channel>
 </rss>

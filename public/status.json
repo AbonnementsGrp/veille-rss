@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-28T20:17:07.839623+00:00",
+  "generated_at": "2026-10-29T10:01:18.141009+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
   "sites_warning": 2,
   "new_items": 8,
-  "merged_items": 561,
+  "merged_items": 562,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -151,7 +151,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 35,
+      "items": 36,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -185,7 +185,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 253 jours (seuil : 60)"
+        "rien de neuf depuis 254 jours (seuil : 60)"
       ]
     },
     {
