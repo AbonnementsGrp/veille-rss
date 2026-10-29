@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 25 Oct 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Acteurs du secteur des travaux publics : S'adapter pour faire face au changement climatique</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9728-acteurs-du-secteur-des-travaux-publics-s-adapter-pour-faire-face-au-changement-climatique.html</link>
+      <description>Afin d’accompagner les acteurs des travaux publics dans la construction de leur stratégie d’adaptation aux impacts du changement climatique, la Fédération Nationale des Travaux Publics (FNTP) a développé un guide méthodologique dédié au secteur, avec l’accompagnement méthodologique de l’ADEME, ainsi que le soutien de la Direction générale des entreprises (DGE). Ce guide s’appuie également sur les contributions et retours d’expérience d’entreprises et d’acteurs de la filière, afin d’illustrer les enjeux et les solutions par des exemples issus du terrain. Le premier chapitre rappelle les enjeux clés liés à l’adaptation de la filière des travaux publics. Le second chapitre présente une méthode en 4 étapes pour déployer une démarche d’adaptation. Enfin, les troisième et quatrième chapitres mettent en avant les impacts du changement du climatique sur les entreprises des travaux publics ainsi que sur les infrastructures, et proposent des solutions d’adaptation qui peuvent être déployées.</description>
+      <guid isPermaLink="false">52ccc21a81179461cdcb49b5f05a3523a3274f6cfcb19bf3a4a167ea583b0ac2</guid>
+      <pubDate>Wed, 28 Oct 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Référentiel par catégorie de produit (RCP) des produits internet et des objets (IoT)</title>
       <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9718-referentiel-par-categorie-de-produit-rcp-des-produits-internet-et-des-objets-iot.html</link>
@@ -178,17 +185,17 @@
       <pubDate>Mon, 22 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Cartographie participative des refuges climatiques : infographie</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9442-cartographie-participative-des-refuges-climatiques-infographie.html</link>
+      <description>Ce commun lauréat à l'appel à communs est une cartographie numérique participative, pour que les collectivités et les citoyens puissent identifier, qualifier et rendre visibles les espaces refuges climatiques en ville.</description>
+      <guid isPermaLink="false">7566db8f2f1b9f9821e36e267677e29e3f753ee21cf72dd94526a30b83c37d95</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Référentiel par catégorie de produit (RCP) des applicatifs numériques</title>
       <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9434-referentiel-par-categorie-de-produit-rcp-des-applicatifs-numeriques.html</link>
       <description>Ce référentiel méthodologique pour l’évaluation environnemental fournit la méthode à respecter pour réaliser l’analyse du cycle de vie d’un applicatif numérique.</description>
       <guid isPermaLink="false">57de8dfa5fa1978412b397cfc76b965156128d7b9ebec676eb183dcd0b43eb1c</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Forge d'Adaptations : infographie</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9429-la-forge-d-adaptations-infographie.html</link>
-      <description>Du sud au nord, produire et documenter des prototypes de solutions face aux effets du changement climatique. Les nombreux fablabs à travers le monde, en tant que lieux de conception et de fabrication, développent des prototypes pour répondre aux défis locaux soulevés par le changement climatique. Ces prototypes sont souvent méconnus des populations, car ils ne sont pas documentés d’une façon permettant un transfert aisé des connaissances.</description>
-      <guid isPermaLink="false">33014a19e19d95857277ad9a761eefbc30780c5af371d7369fb6a47bc91a4d23</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -199,10 +206,10 @@
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cartographie participative des refuges climatiques : infographie</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9442-cartographie-participative-des-refuges-climatiques-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est une cartographie numérique participative, pour que les collectivités et les citoyens puissent identifier, qualifier et rendre visibles les espaces refuges climatiques en ville.</description>
-      <guid isPermaLink="false">7566db8f2f1b9f9821e36e267677e29e3f753ee21cf72dd94526a30b83c37d95</guid>
+      <title>La Forge d'Adaptations : infographie</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9429-la-forge-d-adaptations-infographie.html</link>
+      <description>Du sud au nord, produire et documenter des prototypes de solutions face aux effets du changement climatique. Les nombreux fablabs à travers le monde, en tant que lieux de conception et de fabrication, développent des prototypes pour répondre aux défis locaux soulevés par le changement climatique. Ces prototypes sont souvent méconnus des populations, car ils ne sont pas documentés d’une façon permettant un transfert aisé des connaissances.</description>
+      <guid isPermaLink="false">33014a19e19d95857277ad9a761eefbc30780c5af371d7369fb6a47bc91a4d23</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -227,13 +234,6 @@
       <pubDate>Wed, 10 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Projet EcoBioMAx - Eco-extraction de biomasse maximisée par couplage bi-vis/micro-ondes</title>
-      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9248-projet-ecobiomax-eco-extraction-de-biomasse-maximisee-par-couplage-bi-vis-micro-ondes.html</link>
-      <description>L’objectif du projet est de développer une filière chimie biosourcée pour offrir des alternatives aux usages traditionnels du châtaignier, dont la qualité n'est plus suffisante. Grâce à sa richesse en ellagitannins, le bois peut être valorisé dans des secteurs tels que le biocontrôle, la cosmétique et l’agroalimentaire. Le projet ÉcoBioMax étudie la combinaison de l’extraction par micro-ondes et de l’extrusion bi-vis pour maximiser les rendements et tendre vers le zéro déchet.</description>
-      <guid isPermaLink="false">318b8965a713a3077164472ef2b199ededb4412924aeaa7d11fdf04e73d23d2c</guid>
-      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Carte métiers de l'hygiène et propreté des locaux : missions et évolutions (2025-2050)</title>
       <link>https://librairie.ademe.fr/changement-climatique/9385-carte-metiers-de-l-hygiene-et-proprete-des-locaux-missions-et-evolutions-2025-2050.html</link>
       <description>Ce document présente la carte métier prospective dédiée à l'évolution du rôle de l’agent de propreté et d’hygiène des locaux entre 2025 et 2050 . Issu de la démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, ce projet vise à anticiper les mutations des pratiques professionnelles face aux défis écologiques . Le document cartographie les missions actuelles, les enjeux majeurs et les impacts environnementaux du métier , avant de projeter sa transformation à l'horizon 2050 selon deux trajectoires de l'ADEME : le scénario 2 "Coopérations Territoriales" d'une part, et le scénario 3 "Technologies vertes" d'autre part. Il détaille les compétences clés futures (savoirs, savoir-faire, savoir-être) indispensables pour accompagner cette transition et présente le parcours de formation associé. Ce guide constitue ainsi un outil d'orientation stratégique pour préparer dès aujourd'hui les agents aux pratiques de demain .</description>
@@ -241,24 +241,10 @@
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>GRAINE 2019 - TreCEffiQuaS</title>
-      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9239-graine-2019-treceffiquas.html</link>
-      <description>Le projet TreCEffiQuaS s’appuyant sur des recherches menées sur le chêne français démontre qu’une immense majorité du bois dit de qualité secondaire peut effectivement être transformée en matériau bois beaucoup plus performant. Grâce à de nouvelles méthodes de classement à l’aide de scanners industriels plus efficaces que les méthodes visuelles et à des outils d’optimisation innovants, les chercheurs de l’ENSAM de Cluny ouvrent la voie à une application du bois de chêne en matériaux de construction de façon plus durable et plus efficace de nos ressources forestières.</description>
-      <guid isPermaLink="false">1365884c0853681b97ec687966a403ad5c39347ba10c83ad3ddb1e9cabb2f51c</guid>
-      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Référentiel de compétences : Transition Écologique et Énergétique pour les métiers des espaces verts</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9373-referentiel-de-competences-transition-ecologique-et-energetique-pour-les-metiers-des-espaces-verts.html</link>
-      <description>Ce document présente le référentiel de compétences en Transition Écologique et Énergétique (TEE) dédié aux métiers des espaces verts. La démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le référentiel de compétences sert d'outil d'évaluation et de base pour structurer des parcours de formation adaptés, en comparant les pratiques actuelles aux exigences imposées par le changement climatiques. Il cartographie les besoins de montée en compétences à travers cinq grands axes : la sensibilisation/posture, l'acquisition de connaissances techniques, le développement de compétences transversales, l'expérimentation, la valorisation/transmission. Pour chaque compétence, un niveau attendu (allant de 1 "Notions" à 3 "Avancé") est précisément défini pour les profils clés du secteur, ici le chargé de travaux espaces verts, le jardinier et l'agent d'entretien. Ce guide constitue ainsi un cadre normalisé pour accompagner le changement et transformer les pratiques métiers face aux défis écologiques.</description>
-      <guid isPermaLink="false">05648cc1942bf46e9341210f7f365b833c9066d2a32f077f6a00c636d762dd0e</guid>
-      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Référentiel de compétences : Transition Écologique et Énergétique pour les métiers de la commande publique et achat</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9376-referentiel-de-competences-transition-ecologique-et-energetique-pour-les-metiers-de-la-commande-publique-et-achat.html</link>
-      <description>Ce document présente le référentiel de compétences en Transition Écologique et Énergétique (TEE) dédié aux métiers de la commande publique et achat. La démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le référentiel de compétences sert d'outil d'évaluation et de base pour structurer des parcours de formation adaptés, en comparant les pratiques actuelles aux exigences imposées par le changement climatiques. Il cartographie les besoins de montée en compétences à travers cinq grands axes : la sensibilisation/posture, l'acquisition de connaissances techniques, le développement de compétences transversales, l'expérimentation, la valorisation/transmission. Pour chaque compétence, un niveau attendu (allant de 1 "Notions" à 3 "Avancé") est précisément défini pour les profils clés du secteur, ici l'acheteur public, l'instructeur gestionnaire des marchés publics et le prescripteur . Ce guide constitue ainsi un cadre normalisé pour accompagner le changement et transformer les pratiques métiers face aux défis écologiques.</description>
-      <guid isPermaLink="false">efbdcb21e3409505bd7edfa313e5c8a19ca631b6b5bf3ee9811d9042d7881a21</guid>
+      <title>Questionnaire de diagnostic : Compétences TEE actuelles et futures pour les métiers du bâtiment</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9378-questionnaire-de-diagnostic-competences-tee-actuelles-et-futures-pour-les-metiers-du-batiment.html</link>
+      <description>Ce document présente le questionnaire de diagnostic et d'auto-positionnement dédié aux métiers du bâtiment . La démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le document structure un parcours d'auto-évaluation individuel s'appuyant sur des questions concrètes d'aide au positionnement et de l'analyse des pratiques professionnelles actuelles. Il permet d'identifier les besoins prioritaires de montée en compétences à travers cinq grands axes : l'acculturation et la sensibilisation à la transition écologique, le pilotage et la stratégie des projets durables, l'animation et la facilitation du changement, l'opérationnalisation et la gestion technique, la posture professionnelle et les compétences comportementales / relationnelles. Conçu pour les profils clés du secteur, ici chargé de maintenance du patrimoine bâti, chargé d'opérations de construction et assistant de suivi de travaux de bâtiment , cet outil sert de base opérationnelle pour co-construire et orienter les futurs parcours de formation individuels.</description>
+      <guid isPermaLink="false">cd8f50fbf1577f2239ebf1743cc7615ff4dd86c1ca67fa22e0cc8682bda18136</guid>
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -269,10 +255,31 @@
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Questionnaire de diagnostic : Compétences TEE actuelles et futures pour les métiers du bâtiment</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9378-questionnaire-de-diagnostic-competences-tee-actuelles-et-futures-pour-les-metiers-du-batiment.html</link>
-      <description>Ce document présente le questionnaire de diagnostic et d'auto-positionnement dédié aux métiers du bâtiment . La démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le document structure un parcours d'auto-évaluation individuel s'appuyant sur des questions concrètes d'aide au positionnement et de l'analyse des pratiques professionnelles actuelles. Il permet d'identifier les besoins prioritaires de montée en compétences à travers cinq grands axes : l'acculturation et la sensibilisation à la transition écologique, le pilotage et la stratégie des projets durables, l'animation et la facilitation du changement, l'opérationnalisation et la gestion technique, la posture professionnelle et les compétences comportementales / relationnelles. Conçu pour les profils clés du secteur, ici chargé de maintenance du patrimoine bâti, chargé d'opérations de construction et assistant de suivi de travaux de bâtiment , cet outil sert de base opérationnelle pour co-construire et orienter les futurs parcours de formation individuels.</description>
-      <guid isPermaLink="false">cd8f50fbf1577f2239ebf1743cc7615ff4dd86c1ca67fa22e0cc8682bda18136</guid>
+      <title>Référentiel de compétences : Transition Écologique et Énergétique pour les métiers de la commande publique et achat</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9376-referentiel-de-competences-transition-ecologique-et-energetique-pour-les-metiers-de-la-commande-publique-et-achat.html</link>
+      <description>Ce document présente le référentiel de compétences en Transition Écologique et Énergétique (TEE) dédié aux métiers de la commande publique et achat. La démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le référentiel de compétences sert d'outil d'évaluation et de base pour structurer des parcours de formation adaptés, en comparant les pratiques actuelles aux exigences imposées par le changement climatiques. Il cartographie les besoins de montée en compétences à travers cinq grands axes : la sensibilisation/posture, l'acquisition de connaissances techniques, le développement de compétences transversales, l'expérimentation, la valorisation/transmission. Pour chaque compétence, un niveau attendu (allant de 1 "Notions" à 3 "Avancé") est précisément défini pour les profils clés du secteur, ici l'acheteur public, l'instructeur gestionnaire des marchés publics et le prescripteur . Ce guide constitue ainsi un cadre normalisé pour accompagner le changement et transformer les pratiques métiers face aux défis écologiques.</description>
+      <guid isPermaLink="false">efbdcb21e3409505bd7edfa313e5c8a19ca631b6b5bf3ee9811d9042d7881a21</guid>
+      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Référentiel de compétences : Transition Écologique et Énergétique pour les métiers des espaces verts</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9373-referentiel-de-competences-transition-ecologique-et-energetique-pour-les-metiers-des-espaces-verts.html</link>
+      <description>Ce document présente le référentiel de compétences en Transition Écologique et Énergétique (TEE) dédié aux métiers des espaces verts. La démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le référentiel de compétences sert d'outil d'évaluation et de base pour structurer des parcours de formation adaptés, en comparant les pratiques actuelles aux exigences imposées par le changement climatiques. Il cartographie les besoins de montée en compétences à travers cinq grands axes : la sensibilisation/posture, l'acquisition de connaissances techniques, le développement de compétences transversales, l'expérimentation, la valorisation/transmission. Pour chaque compétence, un niveau attendu (allant de 1 "Notions" à 3 "Avancé") est précisément défini pour les profils clés du secteur, ici le chargé de travaux espaces verts, le jardinier et l'agent d'entretien. Ce guide constitue ainsi un cadre normalisé pour accompagner le changement et transformer les pratiques métiers face aux défis écologiques.</description>
+      <guid isPermaLink="false">05648cc1942bf46e9341210f7f365b833c9066d2a32f077f6a00c636d762dd0e</guid>
+      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>GRAINE 2019 - TreCEffiQuaS</title>
+      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9239-graine-2019-treceffiquas.html</link>
+      <description>Le projet TreCEffiQuaS s’appuyant sur des recherches menées sur le chêne français démontre qu’une immense majorité du bois dit de qualité secondaire peut effectivement être transformée en matériau bois beaucoup plus performant. Grâce à de nouvelles méthodes de classement à l’aide de scanners industriels plus efficaces que les méthodes visuelles et à des outils d’optimisation innovants, les chercheurs de l’ENSAM de Cluny ouvrent la voie à une application du bois de chêne en matériaux de construction de façon plus durable et plus efficace de nos ressources forestières.</description>
+      <guid isPermaLink="false">1365884c0853681b97ec687966a403ad5c39347ba10c83ad3ddb1e9cabb2f51c</guid>
+      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Projet EcoBioMAx - Eco-extraction de biomasse maximisée par couplage bi-vis/micro-ondes</title>
+      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9248-projet-ecobiomax-eco-extraction-de-biomasse-maximisee-par-couplage-bi-vis-micro-ondes.html</link>
+      <description>L’objectif du projet est de développer une filière chimie biosourcée pour offrir des alternatives aux usages traditionnels du châtaignier, dont la qualité n'est plus suffisante. Grâce à sa richesse en ellagitannins, le bois peut être valorisé dans des secteurs tels que le biocontrôle, la cosmétique et l’agroalimentaire. Le projet ÉcoBioMax étudie la combinaison de l’extraction par micro-ondes et de l’extrusion bi-vis pour maximiser les rendements et tendre vers le zéro déchet.</description>
+      <guid isPermaLink="false">318b8965a713a3077164472ef2b199ededb4412924aeaa7d11fdf04e73d23d2c</guid>
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -346,17 +353,17 @@
       <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Méthanisation et émissions de gaz à effet de serre : bilans DIGES pour 100 unités de méthanisation</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9336-methanisation-et-emissions-de-gaz-a-effet-de-serre-bilans-diges-pour-100-unites-de-methanisation.html</link>
-      <description>L’ADEME a publié en 2024 le calculateur DIGES 3, destiné aux acteurs de la filière méthanisation, afin de les aider à mieux appréhender l’impact environnemental des unités de méthanisation françaises en projet ou en fonctionnement. Cette étude a réalisé son déploiement sur 100 unités en exploitation. Le panel représente la diversité des installations de la filière de méthanisation française. L’impact de la filière méthanisation sur l’indicateur réchauffement climatique est globalement très favorable en injection et favorable en cogénération, pour un PRG du méthane à 100 ans. Ce bilan environnemental peut encore s’améliorer en incitant les exploitants d’unité à optimiser leurs pratiques d’exploitation. Ce travail a permis également d’éprouver la méthodologie DIGES 3, et de cibler des axes d’amélioration complémentaires, qui aboutiront à une nouvelle version de cet outil. Il a permis également de produire deux fiches "références", pour que les porteurs de projets qui réaliseront de futurs bilans puissent se situer par rapport à la moyenne nationale de leur typologie (méthanisation territoriale ou agricole en co-génération ou en injection) et puissent cibler des axes d’amélioration de leurs pratiques.</description>
-      <guid isPermaLink="false">8b0d300cd1993271d7c426837a0baf497bd9dd2604e3e8e6ea5a0faa4e54c6cb</guid>
-      <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>AGRICULTURES ET TERRITOIRES 2050</title>
       <link>https://librairie.ademe.fr/changement-climatique/9335-agricultures-et-territoires-2050.html</link>
       <description>Le projet TERRITOIRES 2050 , porté par la SCOP MAELAB et soutenu par l'ADEME, s'inscrit dans l'ambition nationale d'atteindre la neutralité carbone en 2050. TERRITOIRES 2050 part du constat que si des stratégies ou scénarios nationaux existent, notamment en matière de neutralité carbone (ex. SNBC), leur déclinaison à l'échelle locale est indispensable pour adapter les transitions aux spécificités géographiques, agricoles et socio-économiques de chaque territoire. L'objectif de ce guide est de présenter la démarche générique T2050 qui a été développée pour territorialiser le volet agricole des quatre scénarios nationaux « TRANSITIONS 2050 » de l'ADEME. Les enjeux résident dans la capacité à mobiliser les acteurs locaux pour co-construire des trajectoires désirables et réalistes, tout en évaluant de manière intégrée leurs impacts environnementaux (eau, biodiversité, carbone) et socio-économiques. Ce guide présente la démarche T2050, structurée en six étapes, allant du diagnostic initial à la simulation prospective, testée avec succès sur deux territoires pilotes contrastés, les bassins de l'Aveyron aval et de la Seille. L'utilisation de la plateforme de modélisation MAELIA permet de quantifier précisément des indicateurs tels que les flux d’eau et d’azote, le stockage de carbone, les émissions de gaz à effet de serre, la consommation d'eau ou la production de biomasse à l'horizon 2050. Ce guide a vocation à outiller les acteurs des territoires (ex. EPCI, Département) pour qu'ils puissent analyser et construire leurs propres stratégies de transition en cohérence avec les objectifs nationaux.</description>
       <guid isPermaLink="false">0ba0f15b985a9cc4535d0feb6af4b490c83e302c2b7c907d6ab5329a209feb9c</guid>
+      <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Méthanisation et émissions de gaz à effet de serre : bilans DIGES pour 100 unités de méthanisation</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9336-methanisation-et-emissions-de-gaz-a-effet-de-serre-bilans-diges-pour-100-unites-de-methanisation.html</link>
+      <description>L’ADEME a publié en 2024 le calculateur DIGES 3, destiné aux acteurs de la filière méthanisation, afin de les aider à mieux appréhender l’impact environnemental des unités de méthanisation françaises en projet ou en fonctionnement. Cette étude a réalisé son déploiement sur 100 unités en exploitation. Le panel représente la diversité des installations de la filière de méthanisation française. L’impact de la filière méthanisation sur l’indicateur réchauffement climatique est globalement très favorable en injection et favorable en cogénération, pour un PRG du méthane à 100 ans. Ce bilan environnemental peut encore s’améliorer en incitant les exploitants d’unité à optimiser leurs pratiques d’exploitation. Ce travail a permis également d’éprouver la méthodologie DIGES 3, et de cibler des axes d’amélioration complémentaires, qui aboutiront à une nouvelle version de cet outil. Il a permis également de produire deux fiches "références", pour que les porteurs de projets qui réaliseront de futurs bilans puissent se situer par rapport à la moyenne nationale de leur typologie (méthanisation territoriale ou agricole en co-génération ou en injection) et puissent cibler des axes d’amélioration de leurs pratiques.</description>
+      <guid isPermaLink="false">8b0d300cd1993271d7c426837a0baf497bd9dd2604e3e8e6ea5a0faa4e54c6cb</guid>
       <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -420,13 +427,6 @@
       <link>https://librairie.ademe.fr/industrie-et-production-durable/9170-synthese-des-aides-de-l-ademe-en-faveur-de-la-transition-energetique-des-entreprises-de-guyane.html</link>
       <description>Ce document présente les différentes aides de l’ADEME en faveur de la transition énergétique des entreprises de Guyane en 2026.</description>
       <guid isPermaLink="false">90569d422a9b835e45f13c68fd2d524358de26f83e598ee093aa75f694ba3be5</guid>
-      <pubDate>Sun, 22 Mar 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Quel éclairage public en Guyane ?</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9168-quel-eclairage-public-en-guyane-.html</link>
-      <description>L’éclairage public désigne l’ensemble des installations lumineuses destinées à assurer l’éclairage nocturne des espaces publics, tels que les routes, les trottoirs, les parcs ou les parkings. Il constitue un service essentiel au fonctionnement des territoires, en contribuant à la sécurité des déplacements, à la visibilité et au confort des usagers. Au-delà des enjeux économiques, l’éclairage public doit aussi répondre à des enjeux environnementaux, portant notamment sur la maîtrise des consommations d’énergie, la réduction des nuisances lumineuses et l’impact environnemental des équipements d’éclairage. Enfin, dans le contexte spécifique de la Guyane, les enjeux liés à l’éclairage public sont amplifiés par d’autres aspects, tels que la présence de zones isolées non raccordées au réseau électrique, ainsi que des problèmes de fiabilité du réseau, qui est soumis à d’importantes variations de tension.</description>
-      <guid isPermaLink="false">cdb3277139aae1f6560afdf95e937a66710f759ab78e5a1cae6498392dc0b83f</guid>
       <pubDate>Sun, 22 Mar 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>

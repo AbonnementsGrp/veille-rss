@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 26 Oct 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Sobriété : Comprendre et Agir</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9730-sobriete-comprendre-et-agir.html</link>
+      <description>Infographie sur la sobriété dans les territoires qui répond aux 3 questions suivantes : Que constate t-on ? Pourquoi agir ? Comment agir ?</description>
+      <guid isPermaLink="false">c594f5e4504ddaae2bd99dccaf19647e29be6a421c11b9284bb5b07a3fbadc9d</guid>
+      <pubDate>Wed, 28 Oct 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Engager et impliquer mes élus dans le programme Territoire Engagé Transition Ecologique</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9733-engager-et-impliquer-mes-elus-dans-le-programme-territoire-engage-transition-ecologique.html</link>
+      <description>Infographie sur l'engagement des élus dans le programme TETE qui répond aux 3 questions suivantes : Que constate t-on ? Pourquoi agir ? Comment agir ?</description>
+      <guid isPermaLink="false">2482ab3fcaa38efca7a6f2fdd23d745ee9c0b46a60878572bbef4eca4b5b2e3e</guid>
+      <pubDate>Wed, 28 Oct 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Référentiel par catégorie de produit (RCP) d'un service de diffusion et distribution vidéo</title>
       <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9723-referentiel-par-categorie-de-produit-rcp-d-un-service-de-diffusion-et-distribution-video.html</link>
@@ -414,20 +428,6 @@
       <description>Les épisodes de canicule nous l’ont encore rappelé. Aujourd’hui, le changement climatique est l'un des plus grands défis de notre époque. Pourtant, alors que le consensus scientifique n’a jamais été aussi fort sur la réalité du changement climatique et ses causes, les fake news et les discours de désinformation continuent de circuler massivement, notamment sur les réseaux sociaux et certaines plateformes médiatiques. La désinformation ne se contente pas de semer le doute : elle ralentit les décisions politiques, freine les changements de comportements et compromet les actions nécessaires face à l'urgence climatique. À travers ce magazine, notre objectif est de décrypter les mécanismes de la désinformation climatique, de distinguer les faits des idées reçues et de donner aux lecteurs des clés pour s'informer de manière plus éclairée. Décryptages, témoignages, exemples, le magazine donne la parole à celles et ceux qui luttent contre la désinformation climatique. Journalistes et scientifiques : en première ligne face à la désinformation climatique Alors que la désinformation climatique gagne du terrain, nous sommes partis à la rencontre de journalistes et de scientifiques qui tentent, chacun à leur manière, de rétablir les faits. Audrey Garric du Monde, Christophe Cassou du CNRS, Célia Gautier d’Expertises Climat… entre travail de terrain, vérification des sources et bataille contre les récits trompeurs, ils nous racontent les coulisses d’une information climatique sous pression. À découvrir également dans le magazine : Les mécanismes de la désinformation expliqués Elle n’a rien de nouveau. Elle servait déjà dans l’Antiquité à manipuler l’opinion. Le problème, aujourd’hui, c’est que les fake news se propagent plus vite. Et, quand elles s’attaquent au climat, elles menacent</description>
       <guid isPermaLink="false">8f977ee468981a4f256d34a01bc2234de3a2508e4b549c5db2f4d135e69ba16b</guid>
       <pubDate>Thu, 02 Jul 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Synthèse d'activité ADEME Guadeloupe 2025</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9456-synthese-d-activite-ademe-guadeloupe-2025.html</link>
-      <description>Ce rapport présente les évènements phares et le bilan des actions réalisées par l'ADEME Guadeloupe sur l'année 2025.</description>
-      <guid isPermaLink="false">35d48cbc70d2c953e2d239a401e4a3fcbe411f0b4a4fab70e40683def1728bf1</guid>
-      <pubDate>Thu, 25 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ACT Biodiversité : méthodologie</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9451-act-biodiversite-methodologie.html</link>
-      <description>Chaque année, les écosystèmes fournissent des services dont la valeur est estimée à plus de 41 000 milliards d’euros (environ la moitié du PIB mondial) (WEF, 2020) alors même que le nombre total de mammifères sauvages, mesurés en biomasse, a diminué de 82 % par rapport aux données historiques (IPBES, 2019). Prévue dans la Stratégie Nationale Biodiversité adoptée en 2023, l’ADEME et l’OFB ont publié en juin 2026 ACT Biodiversité : une méthodologie d’évaluation de l’efficacité de la stratégie des entreprises en faveur de la biodiversité pour enrayer le déclin de celle-ci. Voici le lien vers les annexes méthodologiques : https://actinitiative.org/fr/act-biodiversity/</description>
-      <guid isPermaLink="false">3691fb8a445cf192ff7657f9cf79e4a908e74ccc917473de91895fd86aae50fc</guid>
-      <pubDate>Tue, 23 Jun 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

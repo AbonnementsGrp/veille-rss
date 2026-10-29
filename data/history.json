@@ -1,4 +1,103 @@
 {
+  "ef8dbe14f61297012e5f1b6657412c270d82cca8258d8f563e8003a41159bd64": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "À l'Assemblée, les AESH font un premier pas vers la fonctionnarisation",
+    "link": "https://www.banquedesterritoires.fr/lassemblee-les-aesh-font-un-premier-pas-vers-la-fonctionnarisation",
+    "description": "Les députés ont adopté en première lecture une proposition de loi créant un corps de fonctionnaires de catégorie B pour les accompagnants d'élèves en situation de handicap. Le texte laisse toutefois en suspens des questions cruciales que la navette parlementaire devra résoudre.",
+    "published": "2026-10-29T14:49:24+00:00",
+    "first_seen": "2026-10-29T18:29:30.019091+00:00",
+    "uid": "ef8dbe14f61297012e5f1b6657412c270d82cca8258d8f563e8003a41159bd64"
+  },
+  "c594f5e4504ddaae2bd99dccaf19647e29be6a421c11b9284bb5b07a3fbadc9d": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Sobriété : Comprendre et Agir",
+    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9730-sobriete-comprendre-et-agir.html",
+    "description": "Infographie sur la sobriété dans les territoires qui répond aux 3 questions suivantes : Que constate t-on ? Pourquoi agir ? Comment agir ?",
+    "published": "2026-10-28T23:00:00+00:00",
+    "first_seen": "2026-10-29T18:29:22.870105+00:00",
+    "uid": "c594f5e4504ddaae2bd99dccaf19647e29be6a421c11b9284bb5b07a3fbadc9d"
+  },
+  "2482ab3fcaa38efca7a6f2fdd23d745ee9c0b46a60878572bbef4eca4b5b2e3e": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Engager et impliquer mes élus dans le programme Territoire Engagé Transition Ecologique",
+    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9733-engager-et-impliquer-mes-elus-dans-le-programme-territoire-engage-transition-ecologique.html",
+    "description": "Infographie sur l'engagement des élus dans le programme TETE qui répond aux 3 questions suivantes : Que constate t-on ? Pourquoi agir ? Comment agir ?",
+    "published": "2026-10-28T23:00:00+00:00",
+    "first_seen": "2026-10-29T18:29:22.870105+00:00",
+    "uid": "2482ab3fcaa38efca7a6f2fdd23d745ee9c0b46a60878572bbef4eca4b5b2e3e"
+  },
+  "346a67b16249c43d88092bf0c0917d0748bdc7c4bb321cb983c89bf91e41c904": {
+    "source": "ADEME_Energie",
+    "title": "Géothermie : comprendre et agir",
+    "link": "https://librairie.ademe.fr/energies/9727-geothermie-comprendre-et-agir.html",
+    "description": "Infographie sur la géothermie qui répond aux 3 questions suivantes : Que constate t-on ? Pourquoi agir ? Comment agir ?",
+    "published": "2026-10-28T23:00:00+00:00",
+    "first_seen": "2026-10-29T18:29:22.152278+00:00",
+    "uid": "346a67b16249c43d88092bf0c0917d0748bdc7c4bb321cb983c89bf91e41c904"
+  },
+  "52ccc21a81179461cdcb49b5f05a3523a3274f6cfcb19bf3a4a167ea583b0ac2": {
+    "source": "ADEME_Changement climatique",
+    "title": "Acteurs du secteur des travaux publics : S'adapter pour faire face au changement climatique",
+    "link": "https://librairie.ademe.fr/changement-climatique/9728-acteurs-du-secteur-des-travaux-publics-s-adapter-pour-faire-face-au-changement-climatique.html",
+    "description": "Afin d’accompagner les acteurs des travaux publics dans la construction de leur stratégie d’adaptation aux impacts du changement climatique, la Fédération Nationale des Travaux Publics (FNTP) a développé un guide méthodologique dédié au secteur, avec l’accompagnement méthodologique de l’ADEME, ainsi que le soutien de la Direction générale des entreprises (DGE). Ce guide s’appuie également sur les contributions et retours d’expérience d’entreprises et d’acteurs de la filière, afin d’illustrer les enjeux et les solutions par des exemples issus du terrain. Le premier chapitre rappelle les enjeux clés liés à l’adaptation de la filière des travaux publics. Le second chapitre présente une méthode en 4 étapes pour déployer une démarche d’adaptation. Enfin, les troisième et quatrième chapitres mettent en avant les impacts du changement du climatique sur les entreprises des travaux publics ainsi que sur les infrastructures, et proposent des solutions d’adaptation qui peuvent être déployées.",
+    "published": "2026-10-28T23:00:00+00:00",
+    "first_seen": "2026-10-29T18:29:18.233506+00:00",
+    "uid": "52ccc21a81179461cdcb49b5f05a3523a3274f6cfcb19bf3a4a167ea583b0ac2"
+  },
+  "48f088faaa4ad5e104f5c372562e3b39de4f4c471abe35d750a2909b6e820983": {
+    "source": "Outre-Mer 360°",
+    "title": "Foncier en Outre-mer : l'Assemblée nationale adopte une proposition de loi pour rétablir le droit commun de la prescription acquisitive",
+    "link": "https://outremers360.com/bassin-atlantique-appli/foncier-en-outre-mer-lassemblee-nationale-adopte-une-proposition-de-loi-pourretablir-le-droit-commun-de-la-prescription-acquisitive",
+    "description": "Dans le cadre de la niche parlementaire de La France Insoumise à l'Assemblée nationale, la proposition de loi sur le foncier porte sur la « prescription acquisitive », soit le fait de pouvoir être déclaré propriétaire d’un bien après un certain délai...",
+    "published": "2026-10-29T17:26:05+00:00",
+    "first_seen": "2026-10-29T18:29:17.371256+00:00",
+    "uid": "48f088faaa4ad5e104f5c372562e3b39de4f4c471abe35d750a2909b6e820983"
+  },
+  "203a35dd824a17c2a863cc7994cd19b2bb660cdcdbd829f3532a4643f35eeb10": {
+    "source": "Outre-Mer 360°",
+    "title": "Haïti : de nouvelles élections présidentielle et législatives attendues à l'été 2027",
+    "link": "https://outremers360.com/bassin-atlantique-appli/haiti-de-nouvelles-elections-presidentielle-et-legislatives-attendues-a-lete-2027",
+    "description": "Les autorités électorales haïtiennes ont annoncé la tenue d'élections présidentielle et législatives à l'été 2027, après un énième report, dans un pays ravagé par la violence des gangs.Le premier tour des différents scrutins doit se tenir le 18 juillet et le second...",
+    "published": "2026-10-29T16:57:51+00:00",
+    "first_seen": "2026-10-29T18:29:17.371256+00:00",
+    "uid": "203a35dd824a17c2a863cc7994cd19b2bb660cdcdbd829f3532a4643f35eeb10"
+  },
+  "f645ab88e0a11c306cb6dacfdb99927fc84a4e680d5bdcea3da9f8e4a52dbd8b": {
+    "source": "Outre-Mer 360°",
+    "title": "Mayotte : Le Centre Hospitalier de Mayotte et la Technopole de Mayotte s’associent pour mettre l’innovation au service des soins et des patients",
+    "link": "https://outremers360.com/bassin-indien-appli/mayotte-le-chm-et-la-technopole-de-mayotte-sassocient-pour-mettre-linnovation-au-service-des-soins-et-des-patients",
+    "description": "Le Centre Hospitalier de Mayotte (CHM) et l’Association Mayotte Technopole (AMT) ont signé une charte de partenariat le 29 octobre 2026, à l’occasion de la première Journée de la recherche clinique portée par l’Unité de recherche clinique (URC) du CHM. Organisée à...",
+    "published": "2026-10-29T15:07:36+00:00",
+    "first_seen": "2026-10-29T18:29:17.371256+00:00",
+    "uid": "f645ab88e0a11c306cb6dacfdb99927fc84a4e680d5bdcea3da9f8e4a52dbd8b"
+  },
+  "f9063bc690000dad4532de42b05c40ff2ab21fdd1bee7919687352d93f2495dd": {
+    "source": "Outre-Mer 360°",
+    "title": "Le général Frédéric Bos, commandant du SMA Outre-mer, prochainement aux Antilles-Guyane",
+    "link": "https://outremers360.com/bassin-atlantique-appli/le-general-frederic-bos-commandant-du-sma-outre-mer-prochainement-aux-antilles-guyane",
+    "description": "Du 2 au 13 novembre 2026, le général Frédéric Bos se rendra en Guyane, en Martinique puis en Guadeloupe pour visiter les régiments du SMA et « apprécier la mise en œuvre de leurs missions au plus près des réalités locales ».Ces visites « visent à...",
+    "published": "2026-10-29T12:33:36+00:00",
+    "first_seen": "2026-10-29T18:29:17.371256+00:00",
+    "uid": "f9063bc690000dad4532de42b05c40ff2ab21fdd1bee7919687352d93f2495dd"
+  },
+  "a109fcf8254b1484545fb477ed4668b9ae697276df3bfdc6572ad714a06eec6e": {
+    "source": "Outre-Mer 360°",
+    "title": "Le Salvador déploie 2 000 soldats en Haïti pour secourir quatre de ses soldats",
+    "link": "https://outremers360.com/bassin-atlantique-appli/le-salvador-deploie-2-000-soldats-en-haiti-pour-secourir-quatre-de-ses-soldats",
+    "description": "Le Salvador a déployé un contingent de plus de 2000 militaires en Haïti pour l'opération de sauvetage de quatre soldats salvadoriens portés disparus depuis dix jours après une embuscade tendue par des bandes armées, a annoncé mercredi le...",
+    "published": "2026-10-29T12:18:39+00:00",
+    "first_seen": "2026-10-29T18:29:17.371256+00:00",
+    "uid": "a109fcf8254b1484545fb477ed4668b9ae697276df3bfdc6572ad714a06eec6e"
+  },
+  "208491f3cba459a4e0bde875fcb63019e28df95702ea1b264ec7d31219940c0f": {
+    "source": "Outre-Mer 360°",
+    "title": "La Réunion : la Biennale internationale d'architecture tropicale 2026 questionne l'avenir des territoires face aux risques naturels",
+    "link": "https://outremers360.com/bassin-indien-appli/la-reunion-la-biennale-internationale-darchitecture-tropicale-2026-questionne-lavenir-des-territoires-face-aux-risques-naturels",
+    "description": "La 4ème Biennale internationale d'architecture tropicale (BIAT) se tiendra du mardi 3 au vendredi 6 novembre 2026 à La Réunion. Organisée par l'École nationale supérieure d'architecture de La Réunion (ENSA-La Réunion), elle s'interroge sur la manière d'habiter les...",
+    "published": "2026-10-29T12:12:09+00:00",
+    "first_seen": "2026-10-29T18:29:17.371256+00:00",
+    "uid": "208491f3cba459a4e0bde875fcb63019e28df95702ea1b264ec7d31219940c0f"
+  },
   "d901569c9be82585d843d7a071eeca4deaab6348ae3a05fefc3eb19e0fba5bab": {
     "source": "ANAP - Actualités",
     "title": "Améliorer le fonctionnement des Plateformes de Coordination et d'Orientation (PCO)",
@@ -9329,105 +9428,5 @@
     "published": "2026-09-28T09:09:30+00:00",
     "first_seen": "2026-09-28T13:59:02.454922+00:00",
     "uid": "48801a6e14b61bffcb4725dc36f932f824b1b17270764f591fc5c73bbe9ec88c"
-  },
-  "cd5ddbd7c891b7aac51c268dd8a78d5d5c1909c6c6b3bc9215aaa0f187396680": {
-    "source": "Outre-Mer 360°",
-    "title": "Aéroport de Mayotte : L'Assemblée de Mayotte valide la convention avec la DGAC pour engager les enquêtes nécessaires à Bouyouni",
-    "link": "https://outremers360.com/bassin-indien-appli/aeroport-de-mayotte-lassemblee-de-mayotte-valide-la-convention-avec-la-dgac-pour-engager-les-enquetes-necessaires-a-bouyouni",
-    "description": "L’Assemblée de Mayotte a adopté, vendredi 25 septembre, une convention avec la DGAC pour préparer le volet foncier du futur aéroport de Bouyouni. Le texte prévoit des enquêtes sur les terrains concernés, mais les moyens mobilisés par le Département et l’absence de...",
-    "published": "2026-09-28T08:58:03+00:00",
-    "first_seen": "2026-09-28T13:59:02.454922+00:00",
-    "uid": "cd5ddbd7c891b7aac51c268dd8a78d5d5c1909c6c6b3bc9215aaa0f187396680"
-  },
-  "73d64c411de8281a0c0d5b931afa05c504a1e739bcb091ffc45ade1242391b23": {
-    "source": "Outre-Mer 360°",
-    "title": "Sénatoriales 2026 : Retour sur les résultats en Outre-mer",
-    "link": "https://outremers360.com/bassin-atlantique-appli/senatoriales-2026-retour-sur-les-resultats-en-outre-mer",
-    "description": "Pour ces élections sénatoriales, sept sièges de cinq territoires d’Outre-mer étaient remis en jeu : un à Wallis-et-Futuna, deux en Guyane, un à Saint-Barthélemy, un à Saint-Martin et deux en Polynésie française. Retour sur l’issue du scrutin du 27 septembre.À...",
-    "published": "2026-09-28T08:27:22+00:00",
-    "first_seen": "2026-09-28T13:59:02.454922+00:00",
-    "uid": "73d64c411de8281a0c0d5b931afa05c504a1e739bcb091ffc45ade1242391b23"
-  },
-  "f44d55cc476d4e2bc3ae7e5813b626e7895b45ffcf2f238b65ebc984d00bef0b": {
-    "source": "Outre-Mer 360°",
-    "title": "Sénatoriales 2026 : Le ticket Lana Tetuanui-Édouard Fritch élu au 1er tour en Polynésie française",
-    "link": "https://outremers360.com/bassin-pacifique-appli/senatoriales-2026-le-ticket-lana-tetuanui-edouard-fritch-elu-au-1er-tour-en-polynesie-francaise",
-    "description": "Le « ticket » du parti autonomiste Tapura Huira’atira a largement distancé la concurrence, ce dimanche, aux élections sénatoriales en Polynésie. Lana Tetuanui, sénatrice sortante, va retrouver son siège au Sénat, accompagnée par Édouard Fritch (félicité...",
-    "published": "2026-09-28T07:31:06+00:00",
-    "first_seen": "2026-09-28T13:59:02.454922+00:00",
-    "uid": "f44d55cc476d4e2bc3ae7e5813b626e7895b45ffcf2f238b65ebc984d00bef0b"
-  },
-  "08443bdec1f4bcfd4769e53a8df16278e953c891730e60cba2eba5f468098794": {
-    "source": "Outre-Mer 360°",
-    "title": "Santé : dans les DROM, le recours à l’IVG est deux fois plus élevé que dans l’Hexagone en 2025, selon la DREES",
-    "link": "https://outremers360.com/bassin-atlantique-appli/sante-dans-les-drom-le-recours-a-livg-est-deux-fois-plus-eleve-que-dans-lhexagone-en-2025-selon-la-drees",
-    "description": "La Direction de la recherche, des études, de l’évaluation et des statistiques (DREES) vient de publier un rapport sur les interruptions volontaires de grossesse (IVG) en France en 2025, en les comparant notamment avec les années précédentes. Sur la période...",
-    "published": "2026-09-28T06:58:59+00:00",
-    "first_seen": "2026-09-28T13:59:02.454922+00:00",
-    "uid": "08443bdec1f4bcfd4769e53a8df16278e953c891730e60cba2eba5f468098794"
-  },
-  "e0edb58e7318365e7105bd2d27195482d25491991b5da312c38f8cc6defd9564": {
-    "source": "Outre-Mer 360°",
-    "title": "Sénatoriales 2026 : Ryan Persaud, plus jeune sénateur élu en Guyane",
-    "link": "https://outremers360.com/bassin-atlantique-appli/senatoriales-2026-ryan-persaud-plus-jeune-senateur-elu-en-guyane",
-    "description": "Ryan Persaud, 32 ans, est le deuxième sénateur de Guyane élu ce dimanche 27 septembre, à l’issue du second tour des élections sénatoriales. Il rejoint ainsi Rodolphe Alexandre, élu dès le premier tour.À 32 ans, Ryan Persaud, élu municipal à Mana, fera partie des plus...",
-    "published": "2026-09-28T06:51:04+00:00",
-    "first_seen": "2026-09-28T13:59:02.454922+00:00",
-    "uid": "e0edb58e7318365e7105bd2d27195482d25491991b5da312c38f8cc6defd9564"
-  },
-  "4457eed1710d3e8d028463a9a4144b7126d6fb02220f80708680a81d62c9381b": {
-    "source": "Outre-Mer 360°",
-    "title": "Sénatoriales 2026 : Daniel Gibbs élu sénateur de Saint-Martin",
-    "link": "https://outremers360.com/bassin-atlantique-appli/senatoriales-2026-daniel-gibbs-elu-senateur-de-saint-martin",
-    "description": "Ancien président de la Collectivité territoriale de Saint-Martin, Daniel Gibbs a été élu sénateur de l’île ce dimanche 27 septembre. Il s’est imposé au second tour face à Valérie Damaseau. Député de 2012 à 2017, puis président de la Collectivité de 2017 à...",
-    "published": "2026-09-27T20:58:51+00:00",
-    "first_seen": "2026-09-27T21:22:54.900601+00:00",
-    "uid": "4457eed1710d3e8d028463a9a4144b7126d6fb02220f80708680a81d62c9381b"
-  },
-  "a96c9913f59c80b7523d99f55888cffdaf129cbfe0675bd7bf00015811e63905": {
-    "source": "Outre-Mer 360°",
-    "title": "Sénatoriales 2026 : Rodolphe Alexandre élu sénateur de Guyane au 1er tour, un second tour nécessaire",
-    "link": "https://outremers360.com/bassin-atlantique-appli/senatoriales-2026-rodolphe-alexandre-elu-senateur-de-guyane-au-1er-tour-un-second-tour-necessaire",
-    "description": "L’ancien président de la Collectivité territoriale de Guyane a été élu sénateur, ce dimanche 27 septembre, dès le premier tour. Un second est toutefois nécessaire pour attribuer le second siège du territoire au palais du Luxembourg.Déjà annoncé comme favori,...",
-    "published": "2026-09-27T17:07:42+00:00",
-    "first_seen": "2026-09-27T21:22:54.900601+00:00",
-    "uid": "a96c9913f59c80b7523d99f55888cffdaf129cbfe0675bd7bf00015811e63905"
-  },
-  "ae56a8be226c432a455106fad325750c242c4c1f2020d9cb2a9e5435fa857e67": {
-    "source": "Outre-Mer 360°",
-    "title": "Sénatoriales 2026 : Micheline Jacques réélue sénatrice de Saint-Barthélemy au 1er tour",
-    "link": "https://outremers360.com/bassin-atlantique-appli/senatoriales-2026-micheline-jacques-reelue-senatrice-de-saint-barthelemy-au-1er-tour",
-    "description": "La sénatrice sortante de Saint-Barthélemy, également présidente de la Délégation aux Outre-mer du Sénat, a été réélue ce dimanche 27 septembre. Micheline Jacques retrouve son siège au palais du Luxembourg. La sénatrice LR a été réélue avec 13 voix, contre 5...",
-    "published": "2026-09-27T15:53:43+00:00",
-    "first_seen": "2026-09-27T17:00:02.010186+00:00",
-    "uid": "ae56a8be226c432a455106fad325750c242c4c1f2020d9cb2a9e5435fa857e67"
-  },
-  "f70a4c110f3e685d94b854ff187cf4f46a6a76faa5126dde3d16b66d5ec2bb23": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Sommeil des tout-petits : se coucher tôt fait-il grandir ?",
-    "link": "https://www.lesprosdelapetiteenfance.fr/sommeil-des-tout-petits-se-coucher-tot-fait-il-grandir/",
-    "description": "Coucher un jeune enfant plus tôt boosterait-il sa croissance ? Une vaste étude japonaise menée auprès de plus de 49 000 enfants montre une association entre un coucher avant 22 heures à l’âge de 18 mois et une croissance staturale légèrement supérieure jusqu’à 3 ans.",
-    "published": "2026-09-27T08:25:00+00:00",
-    "first_seen": "2026-09-27T12:05:52.673413+00:00",
-    "uid": "f70a4c110f3e685d94b854ff187cf4f46a6a76faa5126dde3d16b66d5ec2bb23",
-    "description_checked": true
-  },
-  "e2ae48e1789147e9130be52478033e596f027baf96f7d879d19332c95a376db2": {
-    "source": "Outre-Mer 360°",
-    "title": "Près de 250 évènements avec une programmation axée sur la jeunesse, riche et insolite, planifiés dans les territoires ultramarins à l’occasion de la 3ème édition de Biblis en folie",
-    "link": "https://outremers360.com/bassin-atlantique-appli/pres-de-250-evenements-avec-une-programmation-axee-sur-la-jeunesse-riche-et-insolite-planifies-dans-les-territoires-ultramarins-a-loccasion-de-la-3eme-edition-de-biblis-en-folie",
-    "description": "Evènement organisé par le ministère de la Culture qui vise à célébrer bibliothèques et médiathèques, lieux culturels de premier plan, l’opération « Biblis en folie » revient pour une 3ème édition qui se déroulera du 2 au 4 octobre 2026. A cette...",
-    "published": "2026-09-27T11:10:08+00:00",
-    "first_seen": "2026-09-27T12:05:43.280426+00:00",
-    "uid": "e2ae48e1789147e9130be52478033e596f027baf96f7d879d19332c95a376db2"
-  },
-  "0c3be680daf7096dfb27df36f27ad0111a1b0996b81506d2ac8f6efc3483c181": {
-    "source": "Outre-Mer 360°",
-    "title": "The Voice Kids : Joy et Nelson, deux jeunes ultramarins qualifiés pour la grande finale",
-    "link": "https://outremers360.com/bassin-atlantique-appli/the-voice-kids-joy-et-nelson-deux-jeunes-ultramarins-qualifies-pour-la-grande-finale",
-    "description": "Joy, 10 ans, et Nelson, 15 ans, représenteront respectivement La Réunion et la Martinique pour la grande finale du télé-crochet The Voice Kids, ce samedi 3 octobre.Joy et Nelson ont brillamment passé l’étape des « Battles » ce samedi soir sur TF1. Ils font...",
-    "published": "2026-09-27T10:35:54+00:00",
-    "first_seen": "2026-09-27T12:05:43.280426+00:00",
-    "uid": "0c3be680daf7096dfb27df36f27ad0111a1b0996b81506d2ac8f6efc3483c181"
   }
 }

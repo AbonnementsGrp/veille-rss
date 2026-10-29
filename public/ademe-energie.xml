@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 25 Oct 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 28 Oct 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Géothermie : comprendre et agir</title>
+      <link>https://librairie.ademe.fr/energies/9727-geothermie-comprendre-et-agir.html</link>
+      <description>Infographie sur la géothermie qui répond aux 3 questions suivantes : Que constate t-on ? Pourquoi agir ? Comment agir ?</description>
+      <guid isPermaLink="false">346a67b16249c43d88092bf0c0917d0748bdc7c4bb321cb983c89bf91e41c904</guid>
+      <pubDate>Wed, 28 Oct 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Hôtellerie Corse : Cap sur la Transition Énergétique</title>
       <link>https://librairie.ademe.fr/batiment/9508-hotellerie-corse-cap-sur-la-transition-energetique.html</link>
@@ -420,13 +427,6 @@
       <link>https://librairie.ademe.fr/changement-climatique/9309-elus-pour-agir-avec-le-bon-reseau-c-est-plus-facile-d-agir-en-ile-de-france.html</link>
       <description>Lancé en 2023, le réseau Elus pour Agir crée un lieu de rencontre des élus locaux sur les sujets de la transition écologique. Grâce à une programmation événementielle mensuelle et une articulation avec d'autres réseaux d'élus, les élus ont pu : Mieux comprendre les enjeux écologiques et énergétique ; Trouver des réponses de terrain adaptées à leurs besoin ; Rencontrer, échanger et s'inspirer auprès d'autres élus engagés.</description>
       <guid isPermaLink="false">4d166eda42897cfb092b4e1c4c793f7e4e7c3ae797309f7c4317918cd9fb3b24</guid>
-      <pubDate>Wed, 22 Apr 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Enquête annuelle 2025 du réseau Les Générateurs</title>
-      <link>https://librairie.ademe.fr/energies/9310-enquete-annuelle-2025-du-reseau-les-generateurs.html</link>
-      <description>Lancé début 2022, Les Générateurs est un réseau de conseillers co-financé par l'ADEME et des Régions. Présents en France métropolitaine et dans les outre-mer, les Générateurs ont vocation à apporter un conseil de premier niveau neutre et objectif aux collectivités pour les sensibiliser aux énergies renouvelables éolien et photovoltaïque. L'enquête annuelle 2025 présente les actions d'accompagnement et de sensibilisation réalisées par les conseillers partout en France, sous des angles à la fois qualitatif et quantitatif.</description>
-      <guid isPermaLink="false">387c13505eb8dc0850499e3c6bf04ea19d21e235eb6b2429d08bfa49996f5411</guid>
       <pubDate>Wed, 22 Apr 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
