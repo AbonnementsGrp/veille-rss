@@ -8,7 +8,35 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 29 Oct 2026 14:49:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 30 Oct 2026 15:16:52 +0000</lastBuildDate>
+    <item>
+      <title>Amaury Fievez : "On n'est pas obligé de faire des millions d'euros de travaux pour adapter une école à la canicule"</title>
+      <link>https://www.banquedesterritoires.fr/amaury-fievez-nest-pas-oblige-de-faire-des-millions-deuros-de-travaux-pour-adapter-une-ecole-la</link>
+      <description>Chercheur et pilote du programme Racine – pour Recherche sur l'adaptation aux canicules à l'intérieur de nos écoles – au sein du programme Actee (Action des collectivités territoriales pour l'efficacité énergétique), Amaury Fievez expérimente depuis deux ans, dans 30 écoles, des solutions low-tech contre les vagues de chaleur : protections solaires, brasseurs d'air, ventilation nocturne. Pour lui, l'adaptation passe moins par de lourds travaux que par un changement de culture – jusqu'au retour du gardiennage – et par la recréation d'une gouvernance, aujourd'hui éclatée entre communes (services techniques, élus) et Éducation nationale. Alors que le gouvernement vient de décider de ne pas reconduire Actee au-delà de 2026, mettant fin à l'un des principaux dispositifs d'accompagnement de la rénovation énergétique des bâtiments publics, le chercheur s'interroge sur l'avenir des démarches engagées et sur la capacité des collectivités à poursuivre l'adaptation de leurs écoles aux fortes chaleurs.</description>
+      <guid isPermaLink="false">abaf4186b1413cdaf196890bfc6df023a1e34306e0805c030158a2598e0d0086</guid>
+      <pubDate>Fri, 30 Oct 2026 15:16:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Bio et produits durables : les déclarations des cantines bondissent de 47%, mais les objectifs EGalim restent encore éloignés</title>
+      <link>https://www.banquedesterritoires.fr/bio-et-produits-durables-les-declarations-des-cantines-bondissent-de-47-mais-les-objectifs-egalim</link>
+      <description>La campagne 2026 de télédéclaration des achats alimentaires en restauration collective a enregistré une progression record, avec près de 50.000 établissements déclarants. Si cette mobilisation permet de mieux mesurer les progrès accomplis pour tendre vers les objectifs de la loi EGalim, les résultats nationaux demeurent encore en deçà des seuils fixés par le législateur.</description>
+      <guid isPermaLink="false">415042a80e8dd2451bde6b7d18e6d14564d75774c58c97f2fbda9b8ec35f54b7</guid>
+      <pubDate>Fri, 30 Oct 2026 14:11:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>L'emploi d'assistant familial désormais sur la liste des activités accessoires des agents publics</title>
+      <link>https://www.banquedesterritoires.fr/lemploi-dassistant-familial-desormais-sur-la-liste-des-activites-accessoires-des-agents-publics</link>
+      <description>En dépit de l'opposition unanime des syndicats de la fonction publique à l'encontre du texte, le gouvernement a publié ce 30 octobre le décret ouvrant la possibilité pour les agents publics d'exercer sous certaines conditions l'activité d'assistant familial à titre accessoire et autorisant les assistants familiaux à exercer une deuxième activité.</description>
+      <guid isPermaLink="false">add923d61ac547d4887c7ea40215173d0fc22b79ff42aeb3ff16d59f27a8b67f</guid>
+      <pubDate>Fri, 30 Oct 2026 13:32:03 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les partenaires sociaux démarrent les négociations sur l’emploi des jeunes</title>
+      <link>https://www.banquedesterritoires.fr/les-partenaires-sociaux-demarrent-les-negociations-sur-lemploi-des-jeunes</link>
+      <description>Syndicats et organisations patronales vont se rencontrer mercredi 4 novembre pour négocier des mesures favorisant l’emploi des jeunes. Mais encore faut-il qu’ils trouvent un terrain d’entente.</description>
+      <guid isPermaLink="false">9e35b9a53fe7085cf666158ce1da0ed8f2b38e88518ab18fa8e599f4c1e8419a</guid>
+      <pubDate>Fri, 30 Oct 2026 12:12:01 +0000</pubDate>
+    </item>
     <item>
       <title>À l'Assemblée, les AESH font un premier pas vers la fonctionnarisation</title>
       <link>https://www.banquedesterritoires.fr/lassemblee-les-aesh-font-un-premier-pas-vers-la-fonctionnarisation</link>
@@ -190,13 +218,6 @@
       <description>Le plan local pour l’insertion et l’emploi d’Argenteuil (Val-d’Oise) finance sur ses propres deniers des formations en français langue étrangère ainsi que dans la restauration pour des publics éloignés de l’emploi. Reportage.</description>
       <guid isPermaLink="false">49eb958955008b4ecebe11c57e47f8304696f23df2c7566b5536c01d508b2154</guid>
       <pubDate>Tue, 29 Sep 2026 10:37:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Surveillance des piscines : les nouveaux diplômes accueillis avec tiédeur par les professionnels</title>
-      <link>https://www.banquedesterritoires.fr/surveillance-des-piscines-les-nouveaux-diplomes-accueillis-avec-tiedeur-par-les-professionnels</link>
-      <description>Les contenus des nouveaux diplômes de maître-nageur-sauveteur et de surveillant-sauveteur aquatique, récemment publiés, ne devraient pas changer la donne en matière de recrutements, selon les organisations professionnelles concernées.</description>
-      <guid isPermaLink="false">8abe72b4c0547e481582893fe1c9e671121496d5c791b7f9a07134abdf535003</guid>
-      <pubDate>Mon, 28 Sep 2026 12:41:17 +0000</pubDate>
     </item>
   </channel>
 </rss>

@@ -1,4 +1,76 @@
 {
+  "8a01ba08aab131b97fc17dad2df397a5eecc493e6b258326f888b84f65b6954e": {
+    "source": "ANAP - Actualités",
+    "title": "Transformation de l’offre médico-sociale : vers une offre de services coordonnés",
+    "link": "https://www.anap.fr/s/article/transformer-offre-services-coordonnes-guide-pratique-boite-outils",
+    "description": "Découvrez les outils et repères méthodologiques pour accompagner les acteurs du secteur médico-social dans leur démarche de transformation vers une offre de services coordonnés.",
+    "published": "2026-10-16T10:14:28+00:00",
+    "first_seen": "2026-10-30T22:23:32.907085+00:00",
+    "uid": "8a01ba08aab131b97fc17dad2df397a5eecc493e6b258326f888b84f65b6954e",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "2886310c1c7b1bb9e6de293fda815fde19ce72bfb8b6a35fdcbd28785e3484d6": {
+    "source": "ANAP - Actualités",
+    "title": "HAD de Réadaptation : deux équipes, un seul objectif",
+    "link": "https://www.anap.fr/s/article/had-de-readaptation-deux-equipes-un-seul-objectif",
+    "description": "L'Anap vous propose une lecture simplifiée de l’HAD Réadaptation permettant aux équipes de se lancer dans le projet.",
+    "published": "2026-10-16T10:12:00+00:00",
+    "first_seen": "2026-10-30T22:23:32.907085+00:00",
+    "uid": "2886310c1c7b1bb9e6de293fda815fde19ce72bfb8b6a35fdcbd28785e3484d6",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "4a41941a2245b158758c575dff8ed523f0e6933fd33f04fb37ce6ecf0a06a4eb": {
+    "source": "ANAP - Actualités",
+    "title": "Réformer l'offre de soins : ce que l'Europe nous dit",
+    "link": "https://www.anap.fr/s/article/reformer-l-offre-de-soins-ce-que-l-europe-nous-dit",
+    "description": "Au cours des vingt dernières années, de nombreux pays européens ont engagé des réformes d’ampleur de leur système de santé. L’Anap a étudié les réformes menées dans 6 pays européens pour en comprendre les tenants et aboutissants",
+    "published": "2026-10-15T13:46:57+00:00",
+    "first_seen": "2026-10-30T22:23:32.907085+00:00",
+    "uid": "4a41941a2245b158758c575dff8ed523f0e6933fd33f04fb37ce6ecf0a06a4eb",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "abaf4186b1413cdaf196890bfc6df023a1e34306e0805c030158a2598e0d0086": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Amaury Fievez : \"On n'est pas obligé de faire des millions d'euros de travaux pour adapter une école à la canicule\"",
+    "link": "https://www.banquedesterritoires.fr/amaury-fievez-nest-pas-oblige-de-faire-des-millions-deuros-de-travaux-pour-adapter-une-ecole-la",
+    "description": "Chercheur et pilote du programme Racine – pour Recherche sur l'adaptation aux canicules à l'intérieur de nos écoles – au sein du programme Actee (Action des collectivités territoriales pour l'efficacité énergétique), Amaury Fievez expérimente depuis deux ans, dans 30 écoles, des solutions low-tech contre les vagues de chaleur : protections solaires, brasseurs d'air, ventilation nocturne. Pour lui, l'adaptation passe moins par de lourds travaux que par un changement de culture – jusqu'au retour du gardiennage – et par la recréation d'une gouvernance, aujourd'hui éclatée entre communes (services techniques, élus) et Éducation nationale. Alors que le gouvernement vient de décider de ne pas reconduire Actee au-delà de 2026, mettant fin à l'un des principaux dispositifs d'accompagnement de la rénovation énergétique des bâtiments publics, le chercheur s'interroge sur l'avenir des démarches engagées et sur la capacité des collectivités à poursuivre l'adaptation de leurs écoles aux fortes chaleurs.",
+    "published": "2026-10-30T15:16:52+00:00",
+    "first_seen": "2026-10-30T22:23:27.345529+00:00",
+    "uid": "abaf4186b1413cdaf196890bfc6df023a1e34306e0805c030158a2598e0d0086"
+  },
+  "415042a80e8dd2451bde6b7d18e6d14564d75774c58c97f2fbda9b8ec35f54b7": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Bio et produits durables : les déclarations des cantines bondissent de 47%, mais les objectifs EGalim restent encore éloignés",
+    "link": "https://www.banquedesterritoires.fr/bio-et-produits-durables-les-declarations-des-cantines-bondissent-de-47-mais-les-objectifs-egalim",
+    "description": "La campagne 2026 de télédéclaration des achats alimentaires en restauration collective a enregistré une progression record, avec près de 50.000 établissements déclarants. Si cette mobilisation permet de mieux mesurer les progrès accomplis pour tendre vers les objectifs de la loi EGalim, les résultats nationaux demeurent encore en deçà des seuils fixés par le législateur.",
+    "published": "2026-10-30T14:11:53+00:00",
+    "first_seen": "2026-10-30T22:23:27.345529+00:00",
+    "uid": "415042a80e8dd2451bde6b7d18e6d14564d75774c58c97f2fbda9b8ec35f54b7"
+  },
+  "add923d61ac547d4887c7ea40215173d0fc22b79ff42aeb3ff16d59f27a8b67f": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "L'emploi d'assistant familial désormais sur la liste des activités accessoires des agents publics",
+    "link": "https://www.banquedesterritoires.fr/lemploi-dassistant-familial-desormais-sur-la-liste-des-activites-accessoires-des-agents-publics",
+    "description": "En dépit de l'opposition unanime des syndicats de la fonction publique à l'encontre du texte, le gouvernement a publié ce 30 octobre le décret ouvrant la possibilité pour les agents publics d'exercer sous certaines conditions l'activité d'assistant familial à titre accessoire et autorisant les assistants familiaux à exercer une deuxième activité.",
+    "published": "2026-10-30T13:32:03+00:00",
+    "first_seen": "2026-10-30T22:23:27.345529+00:00",
+    "uid": "add923d61ac547d4887c7ea40215173d0fc22b79ff42aeb3ff16d59f27a8b67f"
+  },
+  "9e35b9a53fe7085cf666158ce1da0ed8f2b38e88518ab18fa8e599f4c1e8419a": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Les partenaires sociaux démarrent les négociations sur l’emploi des jeunes",
+    "link": "https://www.banquedesterritoires.fr/les-partenaires-sociaux-demarrent-les-negociations-sur-lemploi-des-jeunes",
+    "description": "Syndicats et organisations patronales vont se rencontrer mercredi 4 novembre pour négocier des mesures favorisant l’emploi des jeunes. Mais encore faut-il qu’ils trouvent un terrain d’entente.",
+    "published": "2026-10-30T12:12:01+00:00",
+    "first_seen": "2026-10-30T22:23:27.345529+00:00",
+    "uid": "9e35b9a53fe7085cf666158ce1da0ed8f2b38e88518ab18fa8e599f4c1e8419a"
+  },
   "d25f4dd17f85dedd02e42f0365281c59dd9658e6f46ac5dd1a714f544be2ea30": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Crèches, assistantes maternelles : ce que prévoit le plan gouvernemental contre les perturbateurs endocriniens",
@@ -9342,74 +9414,5 @@
     "first_seen": "2026-09-29T09:53:08.854753+00:00",
     "uid": "49a99c391eecefe17f5522f581fe7f73015a63e7919a0481960439acca67b846",
     "description_checked": true
-  },
-  "e2b91fffabaf64de4a88d00677fb07c736e955ea985791941ca17d66139558ed": {
-    "source": "Outre-Mer 360°",
-    "title": "Martinique : Un établissement de jour pour les pathologies psychiatriques inauguré aujourd’hui",
-    "link": "https://outremers360.com/bassin-atlantique-appli/martinique-un-etablissement-de-jour-pour-les-pathologies-psychiatriques-inaugure-aujourdhui",
-    "description": "Ce lundi 28 septembre, le nouveau centre médico-psychologique (CMP) La Laugier a été inauguré par le centre hospitalier Maurice Despinoy à Rivière-Salée. Fonctionnel depuis deux mois, cet établissement accueille enfants, adolescents et adultes en souffrance psychique....",
-    "published": "2026-09-29T08:49:36+00:00",
-    "first_seen": "2026-09-29T09:52:15.294945+00:00",
-    "uid": "e2b91fffabaf64de4a88d00677fb07c736e955ea985791941ca17d66139558ed"
-  },
-  "bcb4057df5f4e6267e285e4b64f0c4c390d5ad737e0a49c375062df2ed169380": {
-    "source": "Outre-Mer 360°",
-    "title": "Les expertises ultramarines au cœur de la programmation du FOROM dédié à la construction durable",
-    "link": "https://outremers360.com/bassin-atlantique-appli/les-expertises-ultramarines-au-coeur-de-la-programmation-du-forom-dedie-a-la-construction-durable",
-    "description": "Et si on regardait du côté des Outre-mer pour inventer la construction durable de demain ? C’est tout l’enjeu de la présence du Forum de la construction durable en Outre-mer (FOROM) à BATIMAT 2026. Pendant quatre jours, le FOROM nouvellement officialisé donne...",
-    "published": "2026-09-29T08:41:15+00:00",
-    "first_seen": "2026-09-29T09:52:15.294945+00:00",
-    "uid": "bcb4057df5f4e6267e285e4b64f0c4c390d5ad737e0a49c375062df2ed169380"
-  },
-  "fbac00af606b86baf154deb20bd2d90e6b549a9ba5ee66cce0f7584f0edf086a": {
-    "source": "Outre-Mer 360°",
-    "title": "Mayotte : Pour ses 30 ans, Somagaz inaugure son centre de requalification des bouteilles de GPL",
-    "link": "https://outremers360.com/bassin-indien-appli/mayotte-pour-ses-30-ans-somagaz-inaugure-son-centre-de-requalification-des-bouteilles-de-gpl",
-    "description": "Trente ans après le début de ses activités à Mayotte, Somagaz a célébré son anniversaire ce mercredi 23 septembre sur son site de Longoni. L’occasion pour l’entreprise, filiale de Vivo Energy depuis 2023, d’inaugurer son nouveau centre de requalification des...",
-    "published": "2026-09-29T07:34:29+00:00",
-    "first_seen": "2026-09-29T09:52:15.294945+00:00",
-    "uid": "fbac00af606b86baf154deb20bd2d90e6b549a9ba5ee66cce0f7584f0edf086a"
-  },
-  "818e28aeb8f8755eb17f92b4914bb0d52872513f92ca895a91b450bc248ed483": {
-    "source": "Outre-Mer 360°",
-    "title": "Les réussites ultramarines à l'international : l’enseigne Renée, l’innovation au service d’un héritage familial guadeloupéen",
-    "link": "https://outremers360.com/bassin-atlantique-appli/les-reussites-ultramarines-a-linternational-lenseigne-renee-linnovation-au-service-dun-heritage-familial-guadeloupeen",
-    "description": "Outremers360, en partenariat avec Business France membre de la team France Export , vous propose une nouvelle série consacrée au développement international des entreprises ultramarines. Ce deuxième volet nous ouvre les portes de Renée, enseigne familiale guadeloupéenne de...",
-    "published": "2026-09-29T07:19:02+00:00",
-    "first_seen": "2026-09-29T09:52:15.294945+00:00",
-    "uid": "818e28aeb8f8755eb17f92b4914bb0d52872513f92ca895a91b450bc248ed483"
-  },
-  "090f5eacda5d7ef3f79e9d95b65494cd752966eca77f8a2b742143523d2a0dd4": {
-    "source": "Outre-Mer 360°",
-    "title": "Aérien : Air Oceania renforce ses liaisons vers Ouvéa et Maré, la desserte de Lifou abandonnée",
-    "link": "https://outremers360.com/bassin-pacifique-appli/aerien-air-oceania-renforce-ses-liaisons-vers-ouvea-et-mare-la-desserte-de-lifou-abandonnee",
-    "description": "Le gouvernement a approuvé le nouveau programme de vols de la compagnie jusqu’en février 2027. Il réoriente ses moyens sur la desserte de Maré et d’Ouvéa, toujours concernées par le blocage total ou partiel des vols d’Air Calédonie par les comités coutumiers....",
-    "published": "2026-09-29T07:08:52+00:00",
-    "first_seen": "2026-09-29T09:52:15.294945+00:00",
-    "uid": "090f5eacda5d7ef3f79e9d95b65494cd752966eca77f8a2b742143523d2a0dd4"
-  },
-  "9977f3dcd2572e4b514d17b0b659a99e88c400dee4d2d4874e87ddcd720299d2": {
-    "source": "ANAP - Actualités",
-    "title": "EHPAD autosuffisant en énergie : guide et simulateur",
-    "link": "https://www.anap.fr/s/article/ehpad-autosuffisant-en-energie-guide-et-simulateur",
-    "description": "Face au réchauffement climatique, les EHPAD sont de plus en plus vulnérables. L’Anap propose un guide qui modélise un EHPAD capable de produire, stocker et piloter son énergie de façon autonome. Un simulateur est disponible pour évaluer les scénarios de rénovation, estimer les investissements et coûts associés.",
-    "published": "2026-09-28T14:07:20+00:00",
-    "first_seen": "2026-09-29T01:02:14.037472+00:00",
-    "uid": "9977f3dcd2572e4b514d17b0b659a99e88c400dee4d2d4874e87ddcd720299d2",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "5ab28ead887b45392b20189d61659c9a74484a82f1e90d0bc14e5a0496f8ad83": {
-    "source": "ANAP - Actualités",
-    "title": "Mon Simulateur Ambulatoire",
-    "link": "https://www.anap.fr/s/article/mon-simulateur-ambulatoire",
-    "description": "Découvrez notre outil en ligne pour simuler une journée type en ambulatoire, visualiser les flux patients, tester différents scénarios et ajuster le dimensionnement en ressources. Une aide rapide pour optimiser l’organisation et améliorer la fluidité du parcours.",
-    "published": "2026-09-28T14:05:48+00:00",
-    "first_seen": "2026-09-29T01:02:14.037472+00:00",
-    "uid": "5ab28ead887b45392b20189d61659c9a74484a82f1e90d0bc14e5a0496f8ad83",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
   }
 }
