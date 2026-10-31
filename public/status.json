@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-10-31T12:35:30.389574+00:00",
+  "generated_at": "2026-10-31T19:19:29.716201+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
   "sites_warning": 2,
-  "new_items": 7,
-  "merged_items": 569,
+  "new_items": 1,
+  "merged_items": 564,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -109,7 +109,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 18,
+      "items": 13,
       "feed": "observatoire-culture.xml",
       "source_feed": "https://www.observatoire-culture.net/feed/",
       "warnings": []
