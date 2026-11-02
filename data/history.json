@@ -1,4 +1,70 @@
 {
+  "2dc9d256247110e3f2cadb17ac0e451d584559585150cd399f9be2f4bda8dcc3": {
+    "source": "ANAP - Actualités",
+    "title": "Appel à projets : Achats innovants dans les établissements de santé",
+    "link": "https://www.anap.fr/s/article/appel-a-projets-achats-innovants",
+    "description": "En partenariat avec l'Agence de l'innovation en santé (AIS) et la Direction générale de l'offre de soins (DGOS), l’Anap lance un appel à projets pour accélérer l'adoption d’innovations matures dans les établissements sanitaires et structures médico-sociales via la commande publique.",
+    "published": "2026-10-21T10:08:36+00:00",
+    "first_seen": "2026-11-02T21:44:02.748296+00:00",
+    "uid": "2dc9d256247110e3f2cadb17ac0e451d584559585150cd399f9be2f4bda8dcc3",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "5812bc3f6c3dce4bd5d001e232274eede4ce3caa4377ac9e9ed1d4750e059dc2": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Abus sexuels dans le périscolaire : un rapport pour traiter un mal national",
+    "link": "https://www.banquedesterritoires.fr/abus-sexuels-dans-le-periscolaire-un-rapport-pour-traiter-un-mal-national",
+    "description": "La mission sénatoriale sur la prévention et le traitement des violences dans les accueils périscolaires pointe les raisons qui ont conduit à plusieurs enquêtes pénales à Paris, ainsi qu'une situation préoccupante partout en France. Les réponses qu'elle appelle sont souvent législatives, mais relèvent aussi de l'action des collectivités employeuses.",
+    "published": "2026-11-02T14:43:39+00:00",
+    "first_seen": "2026-11-02T21:43:56.287344+00:00",
+    "uid": "5812bc3f6c3dce4bd5d001e232274eede4ce3caa4377ac9e9ed1d4750e059dc2"
+  },
+  "e4d1670994d518cc92eac31127b215e885a452d1f773429e9c94e54086b51d66": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Démographie : la grande \"bascule\" est perçue différemment selon les générations",
+    "link": "https://www.banquedesterritoires.fr/demographie-la-grande-bascule-est-percue-differemment-selon-les-generations",
+    "description": "Pour une majorité des moins de 35 ans, la baisse de la natalité est autant un problème pour l'économie qu'une \"bonne nouvelle pour l'environnement\", là où les plus âgés sont davantage concentrés sur l'équation économique, selon le sondage Cese-Ipsos sur l'état de la France publié le 28 octobre. Dans son rapport annuel, le Conseil économique, social et environnemental (Cese) analyse les conséquences de la \"bascule démographique\" sur l'économie, l'emploi, l'environnement et la cohésion sociale, appelant les autorités à planifier davantage et à utiliser les \"dividendes\" de cette transition en faveur notamment de l'éducation.",
+    "published": "2026-11-02T14:29:10+00:00",
+    "first_seen": "2026-11-02T21:43:56.287344+00:00",
+    "uid": "e4d1670994d518cc92eac31127b215e885a452d1f773429e9c94e54086b51d66"
+  },
+  "6b9c5a950ecd77ea7ea4543967ecac9b6ec355cc949ecdd7707b5362827572a5": {
+    "source": "Outre-Mer 360°",
+    "title": "La Réunion manque de places en Ehpad, alerte la Chambre régionale des comptes",
+    "link": "https://outremers360.com/bassin-indien-appli/la-reunion-manque-de-places-en-ehpad-alerte-la-chambre-regionale-des-comptes",
+    "description": "Le département de La Réunion accuse un important retard dans l'accueil en établissement des personnes âgées dépendantes et gère ses aides à domicile sans cadre réglementaire actualisé face au vieillissement rapide de sa population, relève lundi la Chambre régionale...",
+    "published": "2026-11-02T13:39:41+00:00",
+    "first_seen": "2026-11-02T21:43:42.684760+00:00",
+    "uid": "6b9c5a950ecd77ea7ea4543967ecac9b6ec355cc949ecdd7707b5362827572a5"
+  },
+  "5c46ba246eb27d8c62a6e81f1a274c0b15cfe438ae385f14d91796187975797b": {
+    "source": "Outre-Mer 360°",
+    "title": "Demain, Festival International du Film documentaire Outre-mer 2026 : Le Festival des festivals qui rassemble à Paris des histoires et des récits du réel des territoires ultramarins",
+    "link": "https://outremers360.com/bassin-atlantique-appli/demain-festival-international-du-film-documentaire-outre-mer-2026-le-festival-des-festivals-qui-rassemble-a-paris-des-histoires-et-des-recits-du-reel-des-territoires-ultramarins",
+    "description": "Du 4 au 8 novembre 2026, le Pôle Outre-mer de France Télévisions propose, en partenariat avec le Forum Images, la 2ème édition de « Demain, Festival International du Film documentaire Outre-mer » à Paris. Documentaires, conférences, exposition photos, concerts,...",
+    "published": "2026-11-02T12:19:54+00:00",
+    "first_seen": "2026-11-02T21:43:42.684760+00:00",
+    "uid": "5c46ba246eb27d8c62a6e81f1a274c0b15cfe438ae385f14d91796187975797b"
+  },
+  "ed63036664ca978a0bd69ed17dc1c801a7bfa80f726f07ea96ec6f82d05f4cac": {
+    "source": "Outre-Mer 360°",
+    "title": "La Réunion : 15 porteurs de projet formés à la création d'entreprise et à l'IA par Orange, le projet Lumi distingué",
+    "link": "https://outremers360.com/bassin-indien-appli/la-reunion-15-porteurs-de-projet-formes-a-la-creation-dentreprise-et-a-lia-par-orange-le-projet-lumi-distingue",
+    "description": "Quinze demandeurs d'emploi réunionnais porteurs d'un projet de création d'entreprise ont participé, du 19 au 30 octobre, à la deuxième édition du programme Orange Entrepreneur&IA, organisé par Orange Réunion Mayotte. Raniyah Lala, porteuse du projet Lumi, a reçu le...",
+    "published": "2026-11-02T11:39:20+00:00",
+    "first_seen": "2026-11-02T21:43:42.684760+00:00",
+    "uid": "ed63036664ca978a0bd69ed17dc1c801a7bfa80f726f07ea96ec6f82d05f4cac"
+  },
+  "c9776955e36e3d3994bafd752b20b9303fb2948efe1baa4cc1cfd76eecfe8a9d": {
+    "source": "Outre-Mer 360°",
+    "title": "En Guyane, le RSMA ouvre une filière de formation de sapeurs-pompiers volontaires pour renforcer la résilience du territoire",
+    "link": "https://outremers360.com/bassin-atlantique-appli/en-guyane-le-rsma-ouvre-une-filiere-de-formation-de-sapeurs-pompiers-volontaires-pour-renforcer-la-resilience-du-territoire",
+    "description": "Le régiment du service militaire adapté (RSMA) de la Guyane lance en novembre 2026, avec le Service départemental d'incendie et de secours (SDIS), une filière destinée à former chaque année douze jeunes au métier de sapeur-pompier volontaire, principalement pour l'Ouest...",
+    "published": "2026-11-02T11:18:01+00:00",
+    "first_seen": "2026-11-02T21:43:42.684760+00:00",
+    "uid": "c9776955e36e3d3994bafd752b20b9303fb2948efe1baa4cc1cfd76eecfe8a9d"
+  },
   "287482601cf226dc29c6bf694f245dd01ba422248856b5789116010b8126d759": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Garde d’enfants à domicile : les salaires minima augmentent au 1er novembre",
@@ -9322,74 +9388,5 @@
     "published": "2026-09-30T09:58:44+00:00",
     "first_seen": "2026-09-30T12:38:03.584076+00:00",
     "uid": "221ad62000a50ab71b616a4a78abd235e0b3efcb15076b3919ffebd78c52ef0e"
-  },
-  "f09ec4d261857a1de39f6c3e004fc0f0638619821eec80b581af70a21e461b87": {
-    "source": "Outre-Mer 360°",
-    "title": "Aérien : Aircalin choisit Airbus Flight Hour pour accompagner l’exploitation de ses futurs A350-900",
-    "link": "https://outremers360.com/bassin-pacifique-appli/aerien-aircalin-choisit-airbus-flight-hour-pour-accompagner-lexploitation-de-ses-futurs-a350-900",
-    "description": "La compagnie aérienne calédonienne a signé à Singapour un contrat avec Airbus Flight Hour Services (FHS) pour accompagner sa future flotte d'A350-900, couvrant « des services intégrés d'équipements, notamment le stock sur site, l'accès aux pièces et services de...",
-    "published": "2026-09-30T09:20:01+00:00",
-    "first_seen": "2026-09-30T12:38:03.584076+00:00",
-    "uid": "f09ec4d261857a1de39f6c3e004fc0f0638619821eec80b581af70a21e461b87"
-  },
-  "079104ad0b9a6d1cb270f1af78482f95b6930f1548906a826b77ca6fb65187d3": {
-    "source": "Outre-Mer 360°",
-    "title": "Nouvelle-Calédonie : Le directeur général de l’Aviation civile en visite sur le territoire",
-    "link": "https://outremers360.com/bassin-pacifique-appli/nouvelle-caledonie-le-directeur-general-de-laviation-civile-en-visite-sur-le-territoire",
-    "description": "Le directeur général de l’Aviation civile, Chems Chkioua, était en Nouvelle-Calédonie mardi 29 septembre 2026. Il a notamment échangé avec le président du gouvernement, Milakulo Tukumuli, sur les enjeux liés au transport aérien et aux infrastructures aéroportuaires du...",
-    "published": "2026-09-30T08:51:19+00:00",
-    "first_seen": "2026-09-30T12:38:03.584076+00:00",
-    "uid": "079104ad0b9a6d1cb270f1af78482f95b6930f1548906a826b77ca6fb65187d3"
-  },
-  "95ef5efc20f4f6630e6b39f59640e730d78d8601d12a983112b8e083b870a063": {
-    "source": "Outre-Mer 360°",
-    "title": "TRIBUNE. Ni statu quo ni indépendance, la troisième voie pour les Outre-mer, par Patrick Lingibé",
-    "link": "https://outremers360.com/bassin-atlantique-appli/tribune-ni-statu-quo-ni-independance-la-troisieme-voie-pour-les-outre-mer-par-patrick-lingibe",
-    "description": "Quatre-vingts ans après la départementalisation, les outre-mer restent gouvernés par un droit écrit ailleurs. Pour l’avocat guyanais et représentant au CESE, Patrick Lingibé, la République doit en tirer la conséquence qu’elle n’a jamais voulu tirer, et les...",
-    "published": "2026-09-30T07:57:38+00:00",
-    "first_seen": "2026-09-30T12:38:03.584076+00:00",
-    "uid": "95ef5efc20f4f6630e6b39f59640e730d78d8601d12a983112b8e083b870a063"
-  },
-  "d6ea70efd2b1d02af8579759b3225c4080bbf462a5d76c19cb08dc28126adcc9": {
-    "source": "Outre-Mer 360°",
-    "title": "Défiscalisation outre-mer : Ecofip, Infi, Inter Invest Outre-Mer et Sintorin créent l’OMDOM, organisation rassemblant les monteurs en défiscalisation",
-    "link": "https://outremers360.com/bassin-atlantique-appli/defiscalisation-outre-mer-ecofip-infi-inter-invest-outre-mer-et-sintorin-creent-lomdom",
-    "description": "Ecofip, Infi, Inter Invest Outre-Mer et Sintorin annoncent la création de l’Organisation des monteurs en défiscalisation outre-mer (OMDOM), qui a pour but de rassembler la profession autour d’exigences professionnelles communes et vérifiables, rendre plus...",
-    "published": "2026-09-30T07:30:49+00:00",
-    "first_seen": "2026-09-30T12:38:03.584076+00:00",
-    "uid": "d6ea70efd2b1d02af8579759b3225c4080bbf462a5d76c19cb08dc28126adcc9"
-  },
-  "392b197581906dc2553b8be166fb05983b9be86c4593fa6232d92592e148870a": {
-    "source": "Outre-Mer 360°",
-    "title": "En Nouvelle-Calédonie et en Polynésie, les policiers municipaux désormais autorisés à porter des armes de poing",
-    "link": "https://outremers360.com/bassin-pacifique-appli/en-nouvelle-caledonie-et-en-polynesie-les-policiers-municipaux-desormais-autorises-a-porter-des-armes-de-poing",
-    "description": "Un décret adopté le lundi 28 septembre modifie, à compter du 9 octobre, l’armement des agents de police municipale en Polynésie française et en Nouvelle-Calédonie. Les communes pourront désormais doter ces derniers d’armes de poing, comme c’est déjà le...",
-    "published": "2026-09-30T06:54:58+00:00",
-    "first_seen": "2026-09-30T12:38:03.584076+00:00",
-    "uid": "392b197581906dc2553b8be166fb05983b9be86c4593fa6232d92592e148870a"
-  },
-  "e4019719228490839060f222cc1154eda2e5ccfc273bf3700406cf9ea4b0780d": {
-    "source": "ANAP - Actualités",
-    "title": "Réforme des SAD : la convention de successeur",
-    "link": "https://www.anap.fr/s/article/reforme-sad-convention-successeur",
-    "description": "La réforme des SAD implique pour les gestionnaires de services à domicile d’opérer des rapprochements pour proposer une réponse coordonnée entre l’aide et le soin. Pour connaître l'essentiel sur la convention de successeur et les enjeux lors d'une opération de rapprochement, téléchargez nos fiches pratiques.",
-    "published": "2026-09-29T15:47:35+00:00",
-    "first_seen": "2026-09-30T05:35:35.631100+00:00",
-    "uid": "e4019719228490839060f222cc1154eda2e5ccfc273bf3700406cf9ea4b0780d",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "17858c3736773b7b698109ae3d3bfe41d4c346d1fee4c1c7e1229065e8c9f545": {
-    "source": "ANAP - Actualités",
-    "title": "Réforme des SAD : l’apport partiel d’actifs entre associations ou fondations",
-    "link": "https://www.anap.fr/s/article/reforme-sad-apport-partiel-actifs-entre-associations-ou-fondations",
-    "description": "La réforme des SAD implique pour les gestionnaires de services à domicile d’opérer des rapprochements pour proposer une réponse coordonnée entre l’aide et le soin. Pour connaître l'essentiel sur l’apport partiel d’actifs entre associations et les enjeux incontournables, téléchargez nos fiches pratiques.",
-    "published": "2026-09-29T15:37:16+00:00",
-    "first_seen": "2026-09-30T05:35:35.631100+00:00",
-    "uid": "17858c3736773b7b698109ae3d3bfe41d4c346d1fee4c1c7e1229065e8c9f545",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
   }
 }

@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Fri, 30 Oct 2026 15:16:52 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 14:43:39 +0000</lastBuildDate>
+    <item>
+      <title>Abus sexuels dans le périscolaire : un rapport pour traiter un mal national</title>
+      <link>https://www.banquedesterritoires.fr/abus-sexuels-dans-le-periscolaire-un-rapport-pour-traiter-un-mal-national</link>
+      <description>La mission sénatoriale sur la prévention et le traitement des violences dans les accueils périscolaires pointe les raisons qui ont conduit à plusieurs enquêtes pénales à Paris, ainsi qu'une situation préoccupante partout en France. Les réponses qu'elle appelle sont souvent législatives, mais relèvent aussi de l'action des collectivités employeuses.</description>
+      <guid isPermaLink="false">5812bc3f6c3dce4bd5d001e232274eede4ce3caa4377ac9e9ed1d4750e059dc2</guid>
+      <pubDate>Mon, 02 Nov 2026 14:43:39 +0000</pubDate>
+    </item>
+    <item>
+      <title>Démographie : la grande "bascule" est perçue différemment selon les générations</title>
+      <link>https://www.banquedesterritoires.fr/demographie-la-grande-bascule-est-percue-differemment-selon-les-generations</link>
+      <description>Pour une majorité des moins de 35 ans, la baisse de la natalité est autant un problème pour l'économie qu'une "bonne nouvelle pour l'environnement", là où les plus âgés sont davantage concentrés sur l'équation économique, selon le sondage Cese-Ipsos sur l'état de la France publié le 28 octobre. Dans son rapport annuel, le Conseil économique, social et environnemental (Cese) analyse les conséquences de la "bascule démographique" sur l'économie, l'emploi, l'environnement et la cohésion sociale, appelant les autorités à planifier davantage et à utiliser les "dividendes" de cette transition en faveur notamment de l'éducation.</description>
+      <guid isPermaLink="false">e4d1670994d518cc92eac31127b215e885a452d1f773429e9c94e54086b51d66</guid>
+      <pubDate>Mon, 02 Nov 2026 14:29:10 +0000</pubDate>
+    </item>
     <item>
       <title>Amaury Fievez : "On n'est pas obligé de faire des millions d'euros de travaux pour adapter une école à la canicule"</title>
       <link>https://www.banquedesterritoires.fr/amaury-fievez-nest-pas-oblige-de-faire-des-millions-deuros-de-travaux-pour-adapter-une-ecole-la</link>
@@ -204,20 +218,6 @@
       <description>Le mouvement de blocage des lycéens, rejoint par les étudiants pour demander davantage de moyens, a dégénéré ce jeudi 1er octobre dans plusieurs grandes villes de France, contraignant le Premier ministre à convoquer une cellule de crise. Les lycéens revendiquent plus de moyens humains et financiers pour l'Éducation nationale, se plaignent de la pression de Parcoursup, de professeurs non remplacés, de bâtiments délabrés ou encore d'emplois du temps trop chargés.</description>
       <guid isPermaLink="false">9b6176c0a79f4e7ce47000da325485e2495787ee2d2e40d92bd050751ab20788</guid>
       <pubDate>Thu, 01 Oct 2026 12:58:30 +0000</pubDate>
-    </item>
-    <item>
-      <title>Dépenses d'éducation : la France a flirté avec les 200 milliards d'euros en 2025</title>
-      <link>https://www.banquedesterritoires.fr/depenses-deducation-la-france-flirte-avec-les-200-milliards-deuros-en-2025</link>
-      <description>La France a atteint en 2025 un record de 199 milliards d'euros de dépenses d'éducation. L'État en prend plus de la moitié à sa charge et les collectivités un peu moins d'un quart. Chez ces dernières, les dépenses d'éducation marquent le pas, à l'exception de l'investissement des communes dans le bâti scolaire.</description>
-      <guid isPermaLink="false">208fd9991dc50c3cea53a8a74985fbe1f409ca052f41c90550c721eadf6b531b</guid>
-      <pubDate>Tue, 29 Sep 2026 11:20:32 +0000</pubDate>
-    </item>
-    <item>
-      <title>Au Plie d’Argenteuil, des femmes éloignées de l’emploi en besoin de formation</title>
-      <link>https://www.banquedesterritoires.fr/au-plie-dargenteuil-des-femmes-eloignees-de-lemploi-en-besoin-de-formation</link>
-      <description>Le plan local pour l’insertion et l’emploi d’Argenteuil (Val-d’Oise) finance sur ses propres deniers des formations en français langue étrangère ainsi que dans la restauration pour des publics éloignés de l’emploi. Reportage.</description>
-      <guid isPermaLink="false">49eb958955008b4ecebe11c57e47f8304696f23df2c7566b5536c01d508b2154</guid>
-      <pubDate>Tue, 29 Sep 2026 10:37:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
