@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 28 Oct 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Datacenters IT &amp; IA Anticiper l'impact à horizon 2035</title>
+      <link>https://librairie.ademe.fr/energies/9739-datacenters-it-ia-anticiper-l-impact-a-horizon-2035.html</link>
+      <description>Cartographier et anticiper projets de data centers IA à horizon 2035 :et évaluer les besoins techniques associés (foncier, puissance électrique, refroidissement avancé. Analyser les besoins de renouvellement des infrastructures existantes (refroidissement, ASI, groupes électrogènes) pour gagner en performance et en résilience. Actualiser les économies d’énergie mobilisables à l’échelle nationale et identifier les nouvelles solutions technologiques au service de l’efficience. Étudier la consommation réelle des serveurs, en particulier IA, et proposer des indicateurs pertinents pour mesurer l’efficacité énergétique de la partie IT.</description>
+      <guid isPermaLink="false">25e60850d11b24d0acb3f9a4fd9836eb3f4cf1c9a0942fb2c456e5970cb929a0</guid>
+      <pubDate>Sun, 01 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Sobriété : Comprendre et Agir</title>
       <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9730-sobriete-comprendre-et-agir.html</link>
@@ -421,13 +428,6 @@
       <description>Ce guide sectoriel a pour vocation d’accompagner les entreprises de travaux publics dans la réalisation de leur Bilan des Émissions de Gaz à Effet de Serre (BEGES), conformément à la méthodologie de l’ADEME et aux exigences réglementaires en vigueur. Élaboré par la Fédération Nationale des Travaux Publics (FNTP) en partenariat avec l’ADEME, il propose une méthode de calcul des différents postes d’émission prenant en compte les spécificités des métiers des travaux publics. Il apporte des recommandations pratiques pour identifier les postes d’émission, collecter les données d’activité, choisir les facteurs d’émission appropriés, évaluer les incertitudes et construire un plan de transition. Ce guide couvre l’ensemble des émissions directes (catégorie 1), des émissions indirectes liées à l’énergie (catégorie 2) ainsi que des émissions indirectes significatives (catégories 3 à 6), dont la prise en compte est devenue obligatoire dans le cadre du BEGES réglementaire. Conçu comme un document de référence pour la profession, il a pour objectif d’harmoniser les pratiques, de renforcer la robustesse et la qualité des bilans des émissions de gaz à effet de serre et de fournir aux entreprises une méthode fiable, accessible et opérationnelle pour construire et piloter leur stratégie de décarbonation. Cette édition a vocation à évoluer afin d’intégrer les futures évolutions méthodologiques, réglementaires et les retours d’expérience des entreprises de travaux publics.</description>
       <guid isPermaLink="false">3c19ab96a37d5f1b2039fa652837d54e51f14be5bcc82e14b62ebabe32196566</guid>
       <pubDate>Sun, 05 Jul 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>ADEME Magazine n°181 juillet 2026</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9473-ademe-magazine-n181-juillet-2026.html</link>
-      <description>Les épisodes de canicule nous l’ont encore rappelé. Aujourd’hui, le changement climatique est l'un des plus grands défis de notre époque. Pourtant, alors que le consensus scientifique n’a jamais été aussi fort sur la réalité du changement climatique et ses causes, les fake news et les discours de désinformation continuent de circuler massivement, notamment sur les réseaux sociaux et certaines plateformes médiatiques. La désinformation ne se contente pas de semer le doute : elle ralentit les décisions politiques, freine les changements de comportements et compromet les actions nécessaires face à l'urgence climatique. À travers ce magazine, notre objectif est de décrypter les mécanismes de la désinformation climatique, de distinguer les faits des idées reçues et de donner aux lecteurs des clés pour s'informer de manière plus éclairée. Décryptages, témoignages, exemples, le magazine donne la parole à celles et ceux qui luttent contre la désinformation climatique. Journalistes et scientifiques : en première ligne face à la désinformation climatique Alors que la désinformation climatique gagne du terrain, nous sommes partis à la rencontre de journalistes et de scientifiques qui tentent, chacun à leur manière, de rétablir les faits. Audrey Garric du Monde, Christophe Cassou du CNRS, Célia Gautier d’Expertises Climat… entre travail de terrain, vérification des sources et bataille contre les récits trompeurs, ils nous racontent les coulisses d’une information climatique sous pression. À découvrir également dans le magazine : Les mécanismes de la désinformation expliqués Elle n’a rien de nouveau. Elle servait déjà dans l’Antiquité à manipuler l’opinion. Le problème, aujourd’hui, c’est que les fake news se propagent plus vite. Et, quand elles s’attaquent au climat, elles menacent</description>
-      <guid isPermaLink="false">8f977ee468981a4f256d34a01bc2234de3a2508e4b549c5db2f4d135e69ba16b</guid>
-      <pubDate>Thu, 02 Jul 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

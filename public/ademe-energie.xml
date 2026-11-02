@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 28 Oct 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Sun, 01 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Datacenters IT &amp; IA Anticiper l'impact à horizon 2035</title>
+      <link>https://librairie.ademe.fr/energies/9739-datacenters-it-ia-anticiper-l-impact-a-horizon-2035.html</link>
+      <description>Cartographier et anticiper projets de data centers IA à horizon 2035 :et évaluer les besoins techniques associés (foncier, puissance électrique, refroidissement avancé. Analyser les besoins de renouvellement des infrastructures existantes (refroidissement, ASI, groupes électrogènes) pour gagner en performance et en résilience. Actualiser les économies d’énergie mobilisables à l’échelle nationale et identifier les nouvelles solutions technologiques au service de l’efficience. Étudier la consommation réelle des serveurs, en particulier IA, et proposer des indicateurs pertinents pour mesurer l’efficacité énergétique de la partie IT.</description>
+      <guid isPermaLink="false">7111e8c5a57f46ac907bd0c054faf7706fdede095513aa7ff84b7fa7917227e1</guid>
+      <pubDate>Sun, 01 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Géothermie : comprendre et agir</title>
       <link>https://librairie.ademe.fr/energies/9727-geothermie-comprendre-et-agir.html</link>
@@ -421,13 +428,6 @@
       <description>L'objectif du projet est de mettre en place un outil DTAm, il représente une technologie de monitoring par jumeaux numérique pour la surveillance des unités flottantes d’une ferme d’éoliennes.</description>
       <guid isPermaLink="false">ecf73f5d06bf7d701004df479b8d41bfc5b4dec41b6037b9d830b609b1c1cee1</guid>
       <pubDate>Mon, 27 Apr 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Elus pour Agir, Avec le bon réseau, c'est plus facile d'agir en Ile-de-France</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9309-elus-pour-agir-avec-le-bon-reseau-c-est-plus-facile-d-agir-en-ile-de-france.html</link>
-      <description>Lancé en 2023, le réseau Elus pour Agir crée un lieu de rencontre des élus locaux sur les sujets de la transition écologique. Grâce à une programmation événementielle mensuelle et une articulation avec d'autres réseaux d'élus, les élus ont pu : Mieux comprendre les enjeux écologiques et énergétique ; Trouver des réponses de terrain adaptées à leurs besoin ; Rencontrer, échanger et s'inspirer auprès d'autres élus engagés.</description>
-      <guid isPermaLink="false">4d166eda42897cfb092b4e1c4c793f7e4e7c3ae797309f7c4317918cd9fb3b24</guid>
-      <pubDate>Wed, 22 Apr 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
