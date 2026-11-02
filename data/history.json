@@ -1,4 +1,14 @@
 {
+  "4b840927b0b05db3055b6456151a7384ffccb885830b2e388a2deab9b7b957ca": {
+    "source": "IGAS",
+    "title": "Dix ans de rapports de l’Igas sur l’apprentissage",
+    "link": "https://igas.gouv.fr/dix-ans-de-rapports-de-ligas-sur-lapprentissage",
+    "description": "Au cours de ces dix dernières années, l’Inspection générale des affaires sociales a suivi de près la politique publique de l’apprentissage. A travers plusieurs missions de contrôle et d’évaluation, elle en a analysé les effets, avant et après la réforme majeure issue de la loi du 5 septembre 2018 pour la liberté de choisir son avenir professionnel. Retour sur cette décennie de rapports qui éclaire les enjeux d’une voie de formation devenue incontournable, mais encore perfectible.",
+    "published": "2026-09-29T08:28:00+00:00",
+    "first_seen": "2026-11-02T00:46:59.368131+00:00",
+    "uid": "4b840927b0b05db3055b6456151a7384ffccb885830b2e388a2deab9b7b957ca",
+    "description_checked": true
+  },
   "cb78d1e4104907a10496902fbfdf8e8fd6fd998e75da08bce55deaa159064591": {
     "source": "Outre-Mer 360°",
     "title": "En voyage officiel dans la Caraïbe, Charles III va parler au Commonwealth avec \"franchise\" du passé esclavagiste du Royaume-Uni",
@@ -9401,14 +9411,5 @@
     "published": "2026-09-29T14:48:05+00:00",
     "first_seen": "2026-09-29T18:06:05.202999+00:00",
     "uid": "6c2813c41b7f01b023dc57375c45f2362ad874e34fcb13c50b74d4d0ab0efa36"
-  },
-  "d5280aed382bd8d67271ce16ea42eaa50296602578da65fbaa62e2cf98b6b702": {
-    "source": "Outre-Mer 360°",
-    "title": "25ème concours Talents des Cités Bpifrance : trois entrepreneurs issus de quartiers prioritaires de la Guyane, de la Guadeloupe et de La Réunion distingués",
-    "link": "https://outremers360.com/bassin-atlantique-appli/25eme-concours-talents-des-cites-bpifrance-guyane-guadeloupe-reunion-trois-entrepreneurs-issus-de-quartiers-prioritaires-distingues",
-    "description": "Trois entrepreneurs installés ou issus de quartiers prioritaires de la politique de la ville (QPV) en Guyane, en Guadeloupe et à La Réunion figurent parmi les lauréats régionaux de la 25e édition du concours Talents des Cités. Les projets récompensés portent notamment...",
-    "published": "2026-09-29T09:02:38+00:00",
-    "first_seen": "2026-09-29T18:06:05.202999+00:00",
-    "uid": "d5280aed382bd8d67271ce16ea42eaa50296602578da65fbaa62e2cf98b6b702"
   }
 }
