@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 01 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Méthodologie ACT Pas-à-Pas - Version 2.1</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9743-methodologie-act-pas-a-pas-version-21.html</link>
+      <description>La méthodologie ACT Pas-à-Pas Climat , dans sa seconde version, accompagne les organisations dans la construction d’un plan de transition climatique combinant décarbonation et adaptation au changement climatique . Elle propose une démarche structurée, progressive et modulable : à partir d’un inventaire des émissions de gaz à effet de serre et d’un diagnostic des risques climatiques physiques, les organisations identifient leurs enjeux, définissent une vision climatique de long terme, élaborent leur stratégie, puis construisent un plan d’action pilotable et financé. Destinée aux consultant·es accompagnant les organisations, cette nouvelle version d'ACT Pas-à-Pas intègre, entre autres, enjeux d’adaptation, risques de transition, gouvernance, financement et suivi dans le temps. Elle permet ainsi de bâtir un plan de transition robuste, cohérent et adapté aux spécificités de chaque organisation.</description>
+      <guid isPermaLink="false">037dd60a6a098c4c9c7fc4cc9f27e4497dbc9bdf8417a223f5dfe37be73d501d</guid>
+      <pubDate>Mon, 02 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Rapport d'activité 2025 du Réseau Bâtiment Durable</title>
       <link>https://librairie.ademe.fr/batiment/9738-rapport-d-activite-2025-du-reseau-batiment-durable.html</link>
@@ -38,17 +45,17 @@
       <pubDate>Thu, 15 Oct 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Carbone et gaz à effet de serre en zones humides</title>
-      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9695-carbone-et-gaz-a-effet-de-serre-en-zones-humides.html</link>
-      <description>En dépit des surfaces restreintes qu’elles occupent, les zones humides jouent un rôle déterminant dans la régulation du climat au niveau mondial. Les processus à l’œuvre influençant l’effet réchauffant ou refroidissant des zones humides sur le climat sont fortement dépendant de l’état de conservation. De manière générale, les zones humides en bonne santé seraient des puits nets de GES. Les zones humides, milieux hybrides entre terre et eau, présentent une grande diversité en termes d’habitats et de fonctionnement, ce qui impacte nécessairement les processus et nécessite de raisonner de manière nuancée selon la typologie considérée. L’étude vise à approfondir la connaissance sur le rôle des zones humides dans le cycle du carbone et des gaz à effet de serre, en mobilisant à la fois la littérature scientifique et grise. Il s’agit de centraliser et structurer les savoirs existants, tout en identifiant les lacunes de connaissances et les incertitudes actuelles, afin d’orienter la recherche appliquée future. Parallèlement, un accent est mis sur le transfert de ces connaissances (production de documents, organisation d’évènements) vers les acteurs des territoires, afin qu’elles soient directement mobilisables dans leurs actions. Cela passe notamment par la prise en compte des besoins, attentes et perceptions de ces acteurs, au travers d’une enquête. Des pistes pour les prochaines années ont été esquissées pour préfigurer ou améliorer des outils opérationnels permettant une meilleure valorisation de la fonction climatique des zones humides dans les politiques publiques.</description>
-      <guid isPermaLink="false">dec8ac07bcd663c6d761f297076e1b17f0a5571ea67b46208ac5fa5fc72a3b7c</guid>
-      <pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>QUAD : Quantification d'émissions diffuses de méthane par capteurs embarqués sur drone</title>
       <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9694-quad-quantification-d-emissions-diffuses-de-methane-par-capteurs-embarques-sur-drone.html</link>
       <description>Les caméras infrarouges à détection de gaz (OGI), sont utilisées pour détecter les fuites localisées de méthane mais ne sont pas adaptées à la détection des émissions diffuses provenant de milieux ouverts, comme les fosses de post-stockage de digestats sur les sites de méthanisation. Le projet QUAD (QUAntification des émissions Diffuses de méthane) a permis de développer et valider une méthode fondée sur une approche mobile, pour quantifier ces émissions diffuses à l’aide d’une méthode émergente basée sur l’utilisation d’un drone équipé d’un capteur de méthane , d’un anémomètre, ainsi que de capteurs de pression et de température. Elle permet de constituer une grille verticale de points sous le vent de la source étudiée, à partir de laquelle le flux dans le panache est estimé par un bilan de matière. Le projet a permis de valider cette méthode de quantification, de définir un protocole opératoire et d’identifier les conditions limites garantissant la fiabilité des mesures. La méthode a été testée en conditions semi-contrôlées, par le biais de relargages maîtrisés de méthane. Ensuite, des campagnes de mesure sur des sites de méthanisation ont permis de l’évaluer en conditions réelles. Les résultats soulignent l’importance de certains paramètres critiques (vent) et de l’évaluation de sources amont (méthane atmosphérique, émissions de bâtiments…). Cette méthode offre des perspectives prometteuses pour compléter les approches classiques par chambres dynamiques et ouvre la voie à l’évaluation d’autres gaz, comme le protoxyde d’azote (N₂O) et l’ammoniac (NH₃).</description>
       <guid isPermaLink="false">f9cf41f43e4ab50205e25a268997c7e75436735ec06cb24a5abd32b0e2866b0d</guid>
+      <pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Carbone et gaz à effet de serre en zones humides</title>
+      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9695-carbone-et-gaz-a-effet-de-serre-en-zones-humides.html</link>
+      <description>En dépit des surfaces restreintes qu’elles occupent, les zones humides jouent un rôle déterminant dans la régulation du climat au niveau mondial. Les processus à l’œuvre influençant l’effet réchauffant ou refroidissant des zones humides sur le climat sont fortement dépendant de l’état de conservation. De manière générale, les zones humides en bonne santé seraient des puits nets de GES. Les zones humides, milieux hybrides entre terre et eau, présentent une grande diversité en termes d’habitats et de fonctionnement, ce qui impacte nécessairement les processus et nécessite de raisonner de manière nuancée selon la typologie considérée. L’étude vise à approfondir la connaissance sur le rôle des zones humides dans le cycle du carbone et des gaz à effet de serre, en mobilisant à la fois la littérature scientifique et grise. Il s’agit de centraliser et structurer les savoirs existants, tout en identifiant les lacunes de connaissances et les incertitudes actuelles, afin d’orienter la recherche appliquée future. Parallèlement, un accent est mis sur le transfert de ces connaissances (production de documents, organisation d’évènements) vers les acteurs des territoires, afin qu’elles soient directement mobilisables dans leurs actions. Cela passe notamment par la prise en compte des besoins, attentes et perceptions de ces acteurs, au travers d’une enquête. Des pistes pour les prochaines années ont été esquissées pour préfigurer ou améliorer des outils opérationnels permettant une meilleure valorisation de la fonction climatique des zones humides dans les politiques publiques.</description>
+      <guid isPermaLink="false">dec8ac07bcd663c6d761f297076e1b17f0a5571ea67b46208ac5fa5fc72a3b7c</guid>
       <pubDate>Wed, 14 Oct 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -66,17 +73,10 @@
       <pubDate>Thu, 24 Sep 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Structurer l'adaptation territoriale en incertitude profonde : analyse méthodologique de la démarche TACCT</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9614-structurer-l-adaptation-territoriale-en-incertitude-profonde-analyse-methodologique-de-la-demarche-tacct.html</link>
-      <description>Réalisé dans le cadre de la thèse ADEME Agir pour le climat en incertitude profonde , ce rapport porte sur la démarche TACCT (Trajectoires d’adaptation au changement climatique des territoires), conçue pour accompagner les collectivités territoriales dans l’élaboration de stratégies d’adaptation face au changement climatique. Il vise à expliciter les choix méthodologiques qui structurent cette démarche et à en mettre au jour l’architecture interne. À cette fin, TACCT est appréhendée comme une méthode d’aide à la décision appliquée à l’adaptation territoriale, puis mise en perspective avec le cadre du Decision Making under Deep Uncertainty (DMDU), qui regroupe des approches destinées à organiser la décision publique en situation d’incertitude profonde. L’analyse montre d’abord que TACCT peut être caractérisée comme une méthode d’aide à la décision en incertitude profonde, dont la réponse repose principalement sur une logique de robustesse dynamique fondée sur la construction de trajectoires d’action. Cette spécificité conduit enfin à mettre en évidence la fonction structurante de la notion d’impact dans TACCT : celle-ci contribue à cadrer la situation d’adaptation territoriale au changement climatique, puis à la décomposer en problèmes de décision circonscrits et organisés.</description>
-      <guid isPermaLink="false">d489f97fec939bc183801e9b9ec3650eca5a7f08b605b05408455ecab7ff982f</guid>
-      <pubDate>Mon, 21 Sep 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Acteurs de la gestion des déchets : S'adapter pour faire face au changement climatique</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9613-acteurs-de-la-gestion-des-dechets-s-adapter-pour-faire-face-au-changement-climatique-9791029726729.html</link>
-      <description>Afin d’accompagner les acteurs de la gestion des déchets à construire leur stratégie d’adaptation au changement climatique, l’association RECORD a développé un guide méthodologique dédié, avec l’accompagnement méthodologique et le soutien financier de l’ADEME, le soutien opérationnel du Citepa et le soutien de la Direction générale des entreprises (DGE). Ce guide a également été construit en s’appuyant sur des retours d’expérience d’entreprises du secteur qui permettent d’enrichir les propos avec des retours terrains. Le premier chapitre rappelle les enjeux clés d’adaptation au changement climatique du secteur des déchets. Le second chapitre présente une méthode en 4 étapes pour déployer une démarche d’adaptation : définir le périmètre technique de sa démarche, identifier les risques climatiques, guider l’élaboration d’une stratégie et d’un plan d’actions, fournir des outils et informations pour évaluer la stratégie dans le temps. Enfin, un troisième chapitre réunit des exemples d’actions concrètes illustrant les différents aléas climatiques à travers des fiches explicatives.</description>
-      <guid isPermaLink="false">7b7c42de8426d985deab7676484c25e9a4aea080311115e97aa082aa20b8a4af</guid>
+      <title>Présentation des offres ADEME aux entreprises en Centre-Val de Loire</title>
+      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9609-presentation-des-offres-ademe-aux-entreprises-en-centre-val-de-loire.html</link>
+      <description>Présentation des différentes offres ADEME à destination des entreprises</description>
+      <guid isPermaLink="false">543d2024e953194a397ba214a9dc20fd3f2fc8421198e95b297c6c82f6b2813e</guid>
       <pubDate>Mon, 21 Sep 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -87,10 +87,17 @@
       <pubDate>Mon, 21 Sep 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Présentation des offres ADEME aux entreprises en Centre-Val de Loire</title>
-      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9609-presentation-des-offres-ademe-aux-entreprises-en-centre-val-de-loire.html</link>
-      <description>Présentation des différentes offres ADEME à destination des entreprises</description>
-      <guid isPermaLink="false">543d2024e953194a397ba214a9dc20fd3f2fc8421198e95b297c6c82f6b2813e</guid>
+      <title>Acteurs de la gestion des déchets : S'adapter pour faire face au changement climatique</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9613-acteurs-de-la-gestion-des-dechets-s-adapter-pour-faire-face-au-changement-climatique-9791029726729.html</link>
+      <description>Afin d’accompagner les acteurs de la gestion des déchets à construire leur stratégie d’adaptation au changement climatique, l’association RECORD a développé un guide méthodologique dédié, avec l’accompagnement méthodologique et le soutien financier de l’ADEME, le soutien opérationnel du Citepa et le soutien de la Direction générale des entreprises (DGE). Ce guide a également été construit en s’appuyant sur des retours d’expérience d’entreprises du secteur qui permettent d’enrichir les propos avec des retours terrains. Le premier chapitre rappelle les enjeux clés d’adaptation au changement climatique du secteur des déchets. Le second chapitre présente une méthode en 4 étapes pour déployer une démarche d’adaptation : définir le périmètre technique de sa démarche, identifier les risques climatiques, guider l’élaboration d’une stratégie et d’un plan d’actions, fournir des outils et informations pour évaluer la stratégie dans le temps. Enfin, un troisième chapitre réunit des exemples d’actions concrètes illustrant les différents aléas climatiques à travers des fiches explicatives.</description>
+      <guid isPermaLink="false">7b7c42de8426d985deab7676484c25e9a4aea080311115e97aa082aa20b8a4af</guid>
+      <pubDate>Mon, 21 Sep 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Structurer l'adaptation territoriale en incertitude profonde : analyse méthodologique de la démarche TACCT</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9614-structurer-l-adaptation-territoriale-en-incertitude-profonde-analyse-methodologique-de-la-demarche-tacct.html</link>
+      <description>Réalisé dans le cadre de la thèse ADEME Agir pour le climat en incertitude profonde , ce rapport porte sur la démarche TACCT (Trajectoires d’adaptation au changement climatique des territoires), conçue pour accompagner les collectivités territoriales dans l’élaboration de stratégies d’adaptation face au changement climatique. Il vise à expliciter les choix méthodologiques qui structurent cette démarche et à en mettre au jour l’architecture interne. À cette fin, TACCT est appréhendée comme une méthode d’aide à la décision appliquée à l’adaptation territoriale, puis mise en perspective avec le cadre du Decision Making under Deep Uncertainty (DMDU), qui regroupe des approches destinées à organiser la décision publique en situation d’incertitude profonde. L’analyse montre d’abord que TACCT peut être caractérisée comme une méthode d’aide à la décision en incertitude profonde, dont la réponse repose principalement sur une logique de robustesse dynamique fondée sur la construction de trajectoires d’action. Cette spécificité conduit enfin à mettre en évidence la fonction structurante de la notion d’impact dans TACCT : celle-ci contribue à cadrer la situation d’adaptation territoriale au changement climatique, puis à la décomposer en problèmes de décision circonscrits et organisés.</description>
+      <guid isPermaLink="false">d489f97fec939bc183801e9b9ec3650eca5a7f08b605b05408455ecab7ff982f</guid>
       <pubDate>Mon, 21 Sep 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -136,10 +143,10 @@
       <pubDate>Thu, 09 Jul 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Evaluation France 2030 - Evaluation du ciblage du plan France 2030 en faveur de la décarbonation de l'économie</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9485-evaluation-france-2030-evaluation-du-ciblage-du-plan-france-2030-en-faveur-de-la-decarbonation-de-l-economie.html</link>
-      <description>En 2021, le gouvernement français lançait le plan d’investissement France 2030, une initiative dotée de 54 milliards d’euros visant à soutenir les technologies innovantes pour renforcer la compétitivité industrielle et technologique du pays, tout en accélérant la transition écologique. Ces investissements visent à répondre aux grands défis de la France – souveraineté, relance industrielle et décarbonation - à travers le développement de technologies innovantes dans des secteurs clés comme l’énergie, la santé, les transports, le spatial et l’agriculture. France 2030 consacre un volet important à la décarbonation de l’économie avec l’objectif d’y allouer 50 % de ses crédits, afin de répondre aux besoins massifs d’investissements nécessaires à la décarbonation de l’économie française. France 2030 applique par ailleurs le principe du DNSH (Do No Significant Harm), selon lequel aucune dépense ne doit avoir d’impact négatif significatif sur les différents axes de la taxonomie européenne. Dans ce cadre, le Comité de surveillance des investissements d’avenir (CSIA), le Secrétariat général pour l’investissement (SGPI) et l’ADEME ont mandaté les bureaux Edater et Icare pour évaluer la contribution du soutien apporté par France 2030 à la décarbonation de l’économie. Une étude de faisabilité de cet exercice transverse a été lancée dans un premier temps, qui se concentre sur la question évaluative principale du ciblage de France 2030 et prépare un futur exercice transverse de caractérisation et quantification des impacts du plan en matière de décarbonation, en lien avec les exercices nationaux de budget vert et de planification écologique. Le présent rapport synthétise donc les premiers travaux de cadrage et d'analyse de faisabilité : 1 - Reconstitution de la logique d’intervention</description>
-      <guid isPermaLink="false">e0eae4c98d77cad2ade00a3510558a131796d14345d9667589f02094c1c9522f</guid>
+      <title>Evaluation France 2030 - Innovations technologiques clés pour la décarbonation du secteur de l'énergie</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9483-evaluation-france-2030-innovations-technologiques-cles-pour-la-decarbonation-du-secteur-de-l-energie.html</link>
+      <description>En 2021, le gouvernement français lançait le plan d’investissement France 2030, une initiative dotée de 54 milliards d’euros visant à soutenir les technologies innovantes pour renforcer la compétitivité industrielle et technologique du pays, tout en accélérant la transition écologique. Ces investissements visent à répondre aux grands défis de la France – souveraineté, relance industrielle et décarbonation - à travers le développement de technologies innovantes dans des secteurs clés comme l’énergie, la santé, les transports, le spatial et l’agriculture entre autres secteurs. France 2030 consacre un volet important à la décarbonation avec l’objectif d’y flécher 50 % de ses crédits, afin de répondre aux besoins massifs d’investissements nécessaires pour décarboner l’économie française. Ce plan constitue un des leviers stratégiques pour aligner la France avec ses objectifs climatiques nationaux (SNBC 3) et européens (Fit for 55). France 2030 applique également le principe du DNSH (Do No Significant Harm) selon lequel aucune dépense ne doit avoir d’impact négatif significatif sur l’environnement. Plus généralement, France 2030 s’inscrit dans un contexte européen marqué par une attention accrue à la compétitivité des entreprises européennes, dans la lignée des recommandations du rapport Draghi et de la boussole de compétitivité de la Commission européenne. Dans ce cadre, le Comité de surveillance des investissements d’avenir, le Secrétariat général pour l’investissement (SGPI) et l’ADEME ont mandaté le consortium Deloitte Finance et GAC Group pour réaliser une évaluation in itinere du soutien apporté par France 2030 à la production d’énergie décarbonée. Plus précisément, France 2030 étant principalement une politique de soutien à l’off re, il s’agit ici d’évaluer le soutien</description>
+      <guid isPermaLink="false">a93ced309e22dca095471d3233559fa0fdf8a8e8e573fd0e1f769fbba016af2c</guid>
       <pubDate>Wed, 08 Jul 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -150,24 +157,24 @@
       <pubDate>Wed, 08 Jul 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Evaluation France 2030 - Innovations technologiques clés pour la décarbonation du secteur de l'énergie</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9483-evaluation-france-2030-innovations-technologiques-cles-pour-la-decarbonation-du-secteur-de-l-energie.html</link>
-      <description>En 2021, le gouvernement français lançait le plan d’investissement France 2030, une initiative dotée de 54 milliards d’euros visant à soutenir les technologies innovantes pour renforcer la compétitivité industrielle et technologique du pays, tout en accélérant la transition écologique. Ces investissements visent à répondre aux grands défis de la France – souveraineté, relance industrielle et décarbonation - à travers le développement de technologies innovantes dans des secteurs clés comme l’énergie, la santé, les transports, le spatial et l’agriculture entre autres secteurs. France 2030 consacre un volet important à la décarbonation avec l’objectif d’y flécher 50 % de ses crédits, afin de répondre aux besoins massifs d’investissements nécessaires pour décarboner l’économie française. Ce plan constitue un des leviers stratégiques pour aligner la France avec ses objectifs climatiques nationaux (SNBC 3) et européens (Fit for 55). France 2030 applique également le principe du DNSH (Do No Significant Harm) selon lequel aucune dépense ne doit avoir d’impact négatif significatif sur l’environnement. Plus généralement, France 2030 s’inscrit dans un contexte européen marqué par une attention accrue à la compétitivité des entreprises européennes, dans la lignée des recommandations du rapport Draghi et de la boussole de compétitivité de la Commission européenne. Dans ce cadre, le Comité de surveillance des investissements d’avenir, le Secrétariat général pour l’investissement (SGPI) et l’ADEME ont mandaté le consortium Deloitte Finance et GAC Group pour réaliser une évaluation in itinere du soutien apporté par France 2030 à la production d’énergie décarbonée. Plus précisément, France 2030 étant principalement une politique de soutien à l’off re, il s’agit ici d’évaluer le soutien</description>
-      <guid isPermaLink="false">a93ced309e22dca095471d3233559fa0fdf8a8e8e573fd0e1f769fbba016af2c</guid>
+      <title>Evaluation France 2030 - Evaluation du ciblage du plan France 2030 en faveur de la décarbonation de l'économie</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9485-evaluation-france-2030-evaluation-du-ciblage-du-plan-france-2030-en-faveur-de-la-decarbonation-de-l-economie.html</link>
+      <description>En 2021, le gouvernement français lançait le plan d’investissement France 2030, une initiative dotée de 54 milliards d’euros visant à soutenir les technologies innovantes pour renforcer la compétitivité industrielle et technologique du pays, tout en accélérant la transition écologique. Ces investissements visent à répondre aux grands défis de la France – souveraineté, relance industrielle et décarbonation - à travers le développement de technologies innovantes dans des secteurs clés comme l’énergie, la santé, les transports, le spatial et l’agriculture. France 2030 consacre un volet important à la décarbonation de l’économie avec l’objectif d’y allouer 50 % de ses crédits, afin de répondre aux besoins massifs d’investissements nécessaires à la décarbonation de l’économie française. France 2030 applique par ailleurs le principe du DNSH (Do No Significant Harm), selon lequel aucune dépense ne doit avoir d’impact négatif significatif sur les différents axes de la taxonomie européenne. Dans ce cadre, le Comité de surveillance des investissements d’avenir (CSIA), le Secrétariat général pour l’investissement (SGPI) et l’ADEME ont mandaté les bureaux Edater et Icare pour évaluer la contribution du soutien apporté par France 2030 à la décarbonation de l’économie. Une étude de faisabilité de cet exercice transverse a été lancée dans un premier temps, qui se concentre sur la question évaluative principale du ciblage de France 2030 et prépare un futur exercice transverse de caractérisation et quantification des impacts du plan en matière de décarbonation, en lien avec les exercices nationaux de budget vert et de planification écologique. Le présent rapport synthétise donc les premiers travaux de cadrage et d'analyse de faisabilité : 1 - Reconstitution de la logique d’intervention</description>
+      <guid isPermaLink="false">e0eae4c98d77cad2ade00a3510558a131796d14345d9667589f02094c1c9522f</guid>
       <pubDate>Wed, 08 Jul 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Recommandations pour la réalisation d'un bilan des émissions de gaz à effet de serre dans les travaux publics</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9476-recommandations-pour-la-realisation-d-un-bilan-des-emissions-de-gaz-a-effet-de-serre-dans-les-travaux-publics-9791029727306.html</link>
-      <description>Ce guide sectoriel a pour vocation d’accompagner les entreprises de travaux publics dans la réalisation de leur Bilan des Émissions de Gaz à Effet de Serre (BEGES), conformément à la méthodologie de l’ADEME et aux exigences réglementaires en vigueur. Élaboré par la Fédération Nationale des Travaux Publics (FNTP) en partenariat avec l’ADEME, il propose une méthode de calcul des différents postes d’émission prenant en compte les spécificités des métiers des travaux publics. Il apporte des recommandations pratiques pour identifier les postes d’émission, collecter les données d’activité, choisir les facteurs d’émission appropriés, évaluer les incertitudes et construire un plan de transition. Ce guide couvre l’ensemble des émissions directes (catégorie 1), des émissions indirectes liées à l’énergie (catégorie 2) ainsi que des émissions indirectes significatives (catégories 3 à 6), dont la prise en compte est devenue obligatoire dans le cadre du BEGES réglementaire. Conçu comme un document de référence pour la profession, il a pour objectif d’harmoniser les pratiques, de renforcer la robustesse et la qualité des bilans des émissions de gaz à effet de serre et de fournir aux entreprises une méthode fiable, accessible et opérationnelle pour construire et piloter leur stratégie de décarbonation. Cette édition a vocation à évoluer afin d’intégrer les futures évolutions méthodologiques, réglementaires et les retours d’expérience des entreprises de travaux publics.</description>
-      <guid isPermaLink="false">3842e4c32ca9e8a5cf17b37e22c63c2df07b2b8f7b643c19e8fa31e996fcc554</guid>
-      <pubDate>Sun, 05 Jul 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
       <title>Scénarisation et modélisation de mesures de sobriété et de post-croissance avec le modèle MatMat</title>
       <link>https://librairie.ademe.fr/changement-climatique/9475-scenarisation-et-modelisation-de-mesures-de-sobriete-et-de-post-croissance-avec-le-modele-matmat.html</link>
       <description>La sobriété s’impose aujourd’hui comme un levier incontournable pour atteindre les objectifs climatiques et environnementaux. Du côté du consommateur, elle renvoie à une modération des usages et des consommations afin de limiter les pressions exercées par la production sur l’environnement. La sobriété constitue également une composante clef d’une transition plus large vers un modèle économique de « post-croissance », cherchant à réinscrire l’économie dans des contraintes environnementales, tout en poursuivant des objectifs de plein-emploi, de qualité de vie, de justice sociale et de réduction des inégalités, indépendamment de la croissance économique. Si la littérature académique propose des évaluations environnementales de mesures de sobriété – notamment à partir de modèles entrées-sorties avec extensions environnementales (EE-MRIO) – celles-ci se concentrent en général sur trois secteurs : alimentation, bâtiments, transports. De même, les caractéristiques du changement structurel d’une économie de post-croissance et les transformations sectorielles nécessaires pour répondre aux besoins individuels et au bien-être restent encore largement à explorer. Le présent projet vise à répondre à deux questions centrales : Quels sont les impacts environnementaux et socio-économiques d’une sobriété étendue à l’ensemble des secteurs d’activité ? Quelles transformations structurelles et économiques (transferts de consommation, de la production et de l’emploi, notamment de l’industrie vers les services) sont associées à une économie de post-croissance ? Nous proposons d’abord une clarification conceptuelle de la sobriété « étendue », envisagée à la fois du point de vue des comportements individuels, des modes de production et de la satisfaction des besoins. Ce travail permet d’établi</description>
       <guid isPermaLink="false">af4897e58fef091b4a2d873b11ae5b735185210a6cb3541f8f5e871751f453a9</guid>
+      <pubDate>Sun, 05 Jul 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Recommandations pour la réalisation d'un bilan des émissions de gaz à effet de serre dans les travaux publics</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9476-recommandations-pour-la-realisation-d-un-bilan-des-emissions-de-gaz-a-effet-de-serre-dans-les-travaux-publics-9791029727306.html</link>
+      <description>Ce guide sectoriel a pour vocation d’accompagner les entreprises de travaux publics dans la réalisation de leur Bilan des Émissions de Gaz à Effet de Serre (BEGES), conformément à la méthodologie de l’ADEME et aux exigences réglementaires en vigueur. Élaboré par la Fédération Nationale des Travaux Publics (FNTP) en partenariat avec l’ADEME, il propose une méthode de calcul des différents postes d’émission prenant en compte les spécificités des métiers des travaux publics. Il apporte des recommandations pratiques pour identifier les postes d’émission, collecter les données d’activité, choisir les facteurs d’émission appropriés, évaluer les incertitudes et construire un plan de transition. Ce guide couvre l’ensemble des émissions directes (catégorie 1), des émissions indirectes liées à l’énergie (catégorie 2) ainsi que des émissions indirectes significatives (catégories 3 à 6), dont la prise en compte est devenue obligatoire dans le cadre du BEGES réglementaire. Conçu comme un document de référence pour la profession, il a pour objectif d’harmoniser les pratiques, de renforcer la robustesse et la qualité des bilans des émissions de gaz à effet de serre et de fournir aux entreprises une méthode fiable, accessible et opérationnelle pour construire et piloter leur stratégie de décarbonation. Cette édition a vocation à évoluer afin d’intégrer les futures évolutions méthodologiques, réglementaires et les retours d’expérience des entreprises de travaux publics.</description>
+      <guid isPermaLink="false">3842e4c32ca9e8a5cf17b37e22c63c2df07b2b8f7b643c19e8fa31e996fcc554</guid>
       <pubDate>Sun, 05 Jul 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -192,17 +199,10 @@
       <pubDate>Mon, 22 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cartographie participative des refuges climatiques : infographie</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9442-cartographie-participative-des-refuges-climatiques-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est une cartographie numérique participative, pour que les collectivités et les citoyens puissent identifier, qualifier et rendre visibles les espaces refuges climatiques en ville.</description>
-      <guid isPermaLink="false">7566db8f2f1b9f9821e36e267677e29e3f753ee21cf72dd94526a30b83c37d95</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Référentiel par catégorie de produit (RCP) des applicatifs numériques</title>
-      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9434-referentiel-par-categorie-de-produit-rcp-des-applicatifs-numeriques.html</link>
-      <description>Ce référentiel méthodologique pour l’évaluation environnemental fournit la méthode à respecter pour réaliser l’analyse du cycle de vie d’un applicatif numérique.</description>
-      <guid isPermaLink="false">57de8dfa5fa1978412b397cfc76b965156128d7b9ebec676eb183dcd0b43eb1c</guid>
+      <title>La Forge d'Adaptations : infographie</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9429-la-forge-d-adaptations-infographie.html</link>
+      <description>Du sud au nord, produire et documenter des prototypes de solutions face aux effets du changement climatique. Les nombreux fablabs à travers le monde, en tant que lieux de conception et de fabrication, développent des prototypes pour répondre aux défis locaux soulevés par le changement climatique. Ces prototypes sont souvent méconnus des populations, car ils ne sont pas documentés d’une façon permettant un transfert aisé des connaissances.</description>
+      <guid isPermaLink="false">33014a19e19d95857277ad9a761eefbc30780c5af371d7369fb6a47bc91a4d23</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -213,10 +213,17 @@
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>La Forge d'Adaptations : infographie</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9429-la-forge-d-adaptations-infographie.html</link>
-      <description>Du sud au nord, produire et documenter des prototypes de solutions face aux effets du changement climatique. Les nombreux fablabs à travers le monde, en tant que lieux de conception et de fabrication, développent des prototypes pour répondre aux défis locaux soulevés par le changement climatique. Ces prototypes sont souvent méconnus des populations, car ils ne sont pas documentés d’une façon permettant un transfert aisé des connaissances.</description>
-      <guid isPermaLink="false">33014a19e19d95857277ad9a761eefbc30780c5af371d7369fb6a47bc91a4d23</guid>
+      <title>Référentiel par catégorie de produit (RCP) des applicatifs numériques</title>
+      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9434-referentiel-par-categorie-de-produit-rcp-des-applicatifs-numeriques.html</link>
+      <description>Ce référentiel méthodologique pour l’évaluation environnemental fournit la méthode à respecter pour réaliser l’analyse du cycle de vie d’un applicatif numérique.</description>
+      <guid isPermaLink="false">57de8dfa5fa1978412b397cfc76b965156128d7b9ebec676eb183dcd0b43eb1c</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Cartographie participative des refuges climatiques : infographie</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9442-cartographie-participative-des-refuges-climatiques-infographie.html</link>
+      <description>Ce commun lauréat à l'appel à communs est une cartographie numérique participative, pour que les collectivités et les citoyens puissent identifier, qualifier et rendre visibles les espaces refuges climatiques en ville.</description>
+      <guid isPermaLink="false">7566db8f2f1b9f9821e36e267677e29e3f753ee21cf72dd94526a30b83c37d95</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -241,17 +248,10 @@
       <pubDate>Wed, 10 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Carte métiers de l'hygiène et propreté des locaux : missions et évolutions (2025-2050)</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9385-carte-metiers-de-l-hygiene-et-proprete-des-locaux-missions-et-evolutions-2025-2050.html</link>
-      <description>Ce document présente la carte métier prospective dédiée à l'évolution du rôle de l’agent de propreté et d’hygiène des locaux entre 2025 et 2050 . Issu de la démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, ce projet vise à anticiper les mutations des pratiques professionnelles face aux défis écologiques . Le document cartographie les missions actuelles, les enjeux majeurs et les impacts environnementaux du métier , avant de projeter sa transformation à l'horizon 2050 selon deux trajectoires de l'ADEME : le scénario 2 "Coopérations Territoriales" d'une part, et le scénario 3 "Technologies vertes" d'autre part. Il détaille les compétences clés futures (savoirs, savoir-faire, savoir-être) indispensables pour accompagner cette transition et présente le parcours de formation associé. Ce guide constitue ainsi un outil d'orientation stratégique pour préparer dès aujourd'hui les agents aux pratiques de demain .</description>
-      <guid isPermaLink="false">26937859cac02891eeeecbfd78133f6d328b3f7ed1bbd7bc2284ffd332eccd78</guid>
-      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Référentiel de compétences : Transition Écologique et Énergétique pour les métiers des espaces verts</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9373-referentiel-de-competences-transition-ecologique-et-energetique-pour-les-metiers-des-espaces-verts.html</link>
-      <description>Ce document présente le référentiel de compétences en Transition Écologique et Énergétique (TEE) dédié aux métiers des espaces verts. La démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le référentiel de compétences sert d'outil d'évaluation et de base pour structurer des parcours de formation adaptés, en comparant les pratiques actuelles aux exigences imposées par le changement climatiques. Il cartographie les besoins de montée en compétences à travers cinq grands axes : la sensibilisation/posture, l'acquisition de connaissances techniques, le développement de compétences transversales, l'expérimentation, la valorisation/transmission. Pour chaque compétence, un niveau attendu (allant de 1 "Notions" à 3 "Avancé") est précisément défini pour les profils clés du secteur, ici le chargé de travaux espaces verts, le jardinier et l'agent d'entretien. Ce guide constitue ainsi un cadre normalisé pour accompagner le changement et transformer les pratiques métiers face aux défis écologiques.</description>
-      <guid isPermaLink="false">05648cc1942bf46e9341210f7f365b833c9066d2a32f077f6a00c636d762dd0e</guid>
+      <title>GRAINE 2019 - TreCEffiQuaS</title>
+      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9239-graine-2019-treceffiquas.html</link>
+      <description>Le projet TreCEffiQuaS s’appuyant sur des recherches menées sur le chêne français démontre qu’une immense majorité du bois dit de qualité secondaire peut effectivement être transformée en matériau bois beaucoup plus performant. Grâce à de nouvelles méthodes de classement à l’aide de scanners industriels plus efficaces que les méthodes visuelles et à des outils d’optimisation innovants, les chercheurs de l’ENSAM de Cluny ouvrent la voie à une application du bois de chêne en matériaux de construction de façon plus durable et plus efficace de nos ressources forestières.</description>
+      <guid isPermaLink="false">1365884c0853681b97ec687966a403ad5c39347ba10c83ad3ddb1e9cabb2f51c</guid>
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -262,10 +262,10 @@
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>GRAINE 2019 - TreCEffiQuaS</title>
-      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9239-graine-2019-treceffiquas.html</link>
-      <description>Le projet TreCEffiQuaS s’appuyant sur des recherches menées sur le chêne français démontre qu’une immense majorité du bois dit de qualité secondaire peut effectivement être transformée en matériau bois beaucoup plus performant. Grâce à de nouvelles méthodes de classement à l’aide de scanners industriels plus efficaces que les méthodes visuelles et à des outils d’optimisation innovants, les chercheurs de l’ENSAM de Cluny ouvrent la voie à une application du bois de chêne en matériaux de construction de façon plus durable et plus efficace de nos ressources forestières.</description>
-      <guid isPermaLink="false">1365884c0853681b97ec687966a403ad5c39347ba10c83ad3ddb1e9cabb2f51c</guid>
+      <title>Référentiel de compétences : Transition Écologique et Énergétique pour les métiers des espaces verts</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9373-referentiel-de-competences-transition-ecologique-et-energetique-pour-les-metiers-des-espaces-verts.html</link>
+      <description>Ce document présente le référentiel de compétences en Transition Écologique et Énergétique (TEE) dédié aux métiers des espaces verts. La démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, vise à ancrer durablement la TEE dans les cultures professionnelles des organisations publiques. Le référentiel de compétences sert d'outil d'évaluation et de base pour structurer des parcours de formation adaptés, en comparant les pratiques actuelles aux exigences imposées par le changement climatiques. Il cartographie les besoins de montée en compétences à travers cinq grands axes : la sensibilisation/posture, l'acquisition de connaissances techniques, le développement de compétences transversales, l'expérimentation, la valorisation/transmission. Pour chaque compétence, un niveau attendu (allant de 1 "Notions" à 3 "Avancé") est précisément défini pour les profils clés du secteur, ici le chargé de travaux espaces verts, le jardinier et l'agent d'entretien. Ce guide constitue ainsi un cadre normalisé pour accompagner le changement et transformer les pratiques métiers face aux défis écologiques.</description>
+      <guid isPermaLink="false">05648cc1942bf46e9341210f7f365b833c9066d2a32f077f6a00c636d762dd0e</guid>
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -332,6 +332,13 @@
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Carte métiers de l'hygiène et propreté des locaux : missions et évolutions (2025-2050)</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9385-carte-metiers-de-l-hygiene-et-proprete-des-locaux-missions-et-evolutions-2025-2050.html</link>
+      <description>Ce document présente la carte métier prospective dédiée à l'évolution du rôle de l’agent de propreté et d’hygiène des locaux entre 2025 et 2050 . Issu de la démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, ce projet vise à anticiper les mutations des pratiques professionnelles face aux défis écologiques . Le document cartographie les missions actuelles, les enjeux majeurs et les impacts environnementaux du métier , avant de projeter sa transformation à l'horizon 2050 selon deux trajectoires de l'ADEME : le scénario 2 "Coopérations Territoriales" d'une part, et le scénario 3 "Technologies vertes" d'autre part. Il détaille les compétences clés futures (savoirs, savoir-faire, savoir-être) indispensables pour accompagner cette transition et présente le parcours de formation associé. Ce guide constitue ainsi un outil d'orientation stratégique pour préparer dès aujourd'hui les agents aux pratiques de demain .</description>
+      <guid isPermaLink="false">26937859cac02891eeeecbfd78133f6d328b3f7ed1bbd7bc2284ffd332eccd78</guid>
+      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Guide pratique Sobriété du SCOT du Grand Douaisis, à destination des collectivités</title>
       <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9363-guide-pratique-sobriete-du-scot-du-grand-douaisis-a-destination-des-collectivites.html</link>
       <description>Le guide Pratique Sobriété s'inscrit dans le cadre du partenariat entre l'ADEME et le Syndicat Mixte du SCOT du Grand Douaisis. Le territoire est reconnu comme un démonstrateur national à la transition écologique et plus précisément sur les sobriétés. La sobriété constitue un enjeu majeur de la transition écologique, qui s’est imposée au cœur de l’ensemble des scénarios prospectifs des futurs énergétiques 2050 de RTE aux scénarios Transition(s) 2050 de l’ADEME. Elle est donc identifiée comme pierre angulaire de ces trajectoires climatiques nationales comme locales : c’est le parti pris que le SCOT Grand Douaisis a adopté pour définir sa feuille de route territoriale. L'objectif de ce Guide Pratique Sobriété à destination des collectivités est de proposer un ensemble de fiche action simple et appropriable qui traite de la sobriété. Ces fiches s'articulent autour de quatre axes thématiques : Aménagement &amp; bâtiment, Mobilité, Agriculture &amp; alimentation, Biens de consommation &amp; déchet. Chaque fiche action propose une description détaillée du principe de l'action et des co-bénéfices engendrés, des retours d'expérience de communes du territoire du Grand Douaisis, les étapes de la mise en oeuvre de l'action et des ressources et références.</description>
@@ -353,13 +360,6 @@
       <pubDate>Wed, 06 May 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Guide 2026 des aides aux entreprises pour la transition écologique en Guadeloupe, à Saint-Barthélemy et à Saint-Martin.</title>
-      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9338-guide-2026-des-aides-aux-entreprises-pour-la-transition-ecologique-en-guadeloupe-a-saint-barthelemy-et-a-saint-martin-9791029726880.html</link>
-      <description>Découvrez nos aides ADEME à destination des entreprises pour l'année 2026 !</description>
-      <guid isPermaLink="false">187d1c6b105bfebeb1a32b961c991df760a3189db831b303876aa90636fb8a27</guid>
-      <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>AGRICULTURES ET TERRITOIRES 2050</title>
       <link>https://librairie.ademe.fr/changement-climatique/9335-agricultures-et-territoires-2050.html</link>
       <description>Le projet TERRITOIRES 2050 , porté par la SCOP MAELAB et soutenu par l'ADEME, s'inscrit dans l'ambition nationale d'atteindre la neutralité carbone en 2050. TERRITOIRES 2050 part du constat que si des stratégies ou scénarios nationaux existent, notamment en matière de neutralité carbone (ex. SNBC), leur déclinaison à l'échelle locale est indispensable pour adapter les transitions aux spécificités géographiques, agricoles et socio-économiques de chaque territoire. L'objectif de ce guide est de présenter la démarche générique T2050 qui a été développée pour territorialiser le volet agricole des quatre scénarios nationaux « TRANSITIONS 2050 » de l'ADEME. Les enjeux résident dans la capacité à mobiliser les acteurs locaux pour co-construire des trajectoires désirables et réalistes, tout en évaluant de manière intégrée leurs impacts environnementaux (eau, biodiversité, carbone) et socio-économiques. Ce guide présente la démarche T2050, structurée en six étapes, allant du diagnostic initial à la simulation prospective, testée avec succès sur deux territoires pilotes contrastés, les bassins de l'Aveyron aval et de la Seille. L'utilisation de la plateforme de modélisation MAELIA permet de quantifier précisément des indicateurs tels que les flux d’eau et d’azote, le stockage de carbone, les émissions de gaz à effet de serre, la consommation d'eau ou la production de biomasse à l'horizon 2050. Ce guide a vocation à outiller les acteurs des territoires (ex. EPCI, Département) pour qu'ils puissent analyser et construire leurs propres stratégies de transition en cohérence avec les objectifs nationaux.</description>
@@ -371,6 +371,13 @@
       <link>https://librairie.ademe.fr/changement-climatique/9336-methanisation-et-emissions-de-gaz-a-effet-de-serre-bilans-diges-pour-100-unites-de-methanisation.html</link>
       <description>L’ADEME a publié en 2024 le calculateur DIGES 3, destiné aux acteurs de la filière méthanisation, afin de les aider à mieux appréhender l’impact environnemental des unités de méthanisation françaises en projet ou en fonctionnement. Cette étude a réalisé son déploiement sur 100 unités en exploitation. Le panel représente la diversité des installations de la filière de méthanisation française. L’impact de la filière méthanisation sur l’indicateur réchauffement climatique est globalement très favorable en injection et favorable en cogénération, pour un PRG du méthane à 100 ans. Ce bilan environnemental peut encore s’améliorer en incitant les exploitants d’unité à optimiser leurs pratiques d’exploitation. Ce travail a permis également d’éprouver la méthodologie DIGES 3, et de cibler des axes d’amélioration complémentaires, qui aboutiront à une nouvelle version de cet outil. Il a permis également de produire deux fiches "références", pour que les porteurs de projets qui réaliseront de futurs bilans puissent se situer par rapport à la moyenne nationale de leur typologie (méthanisation territoriale ou agricole en co-génération ou en injection) et puissent cibler des axes d’amélioration de leurs pratiques.</description>
       <guid isPermaLink="false">8b0d300cd1993271d7c426837a0baf497bd9dd2604e3e8e6ea5a0faa4e54c6cb</guid>
+      <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide 2026 des aides aux entreprises pour la transition écologique en Guadeloupe, à Saint-Barthélemy et à Saint-Martin.</title>
+      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9338-guide-2026-des-aides-aux-entreprises-pour-la-transition-ecologique-en-guadeloupe-a-saint-barthelemy-et-a-saint-martin-9791029726880.html</link>
+      <description>Découvrez nos aides ADEME à destination des entreprises pour l'année 2026 !</description>
+      <guid isPermaLink="false">187d1c6b105bfebeb1a32b961c991df760a3189db831b303876aa90636fb8a27</guid>
       <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -421,13 +428,6 @@
       <description>Lauréat de l’Appel à Projets de Recherche PACT2e de l’ADEME, le projet Trajectoire 4 A (T4A) est une recherche-action qui a une double finalité : aider une collectivité territoriale à concevoir sa propre trajectoire d’adaptation au changement climatique par des actions menées à différentes temporalités, et la guider, par des outils d’aide à la réflexion/décision novateurs, à réévaluer sa stratégie et à réajuster sa planification environnementale et territoriale. T4A est construit autour de méthodes de géoprospective axées sur la modélisation et les simulations, visant à projeter l’aménagement du territoire d’étude sur le temps long et à susciter chez les acteurs locaux de nouvelles réflexions sur les formes d’adaptation au changement climatique appropriées à la diversité de leur contexte géographique. Le territoire de la Communauté d’Agglomération du Pays de Grasse (Alpes-Maritimes, France) a constitué le laboratoire d’expérimentation de cette démarche.</description>
       <guid isPermaLink="false">fa272fb5324f3ac173ed0f47621da9e7f1de821398f486b97d89caed208e9055</guid>
       <pubDate>Wed, 25 Mar 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>4 outils d'animation sur l'Urbanisme Favorable à la Santé (UFS)</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9196-4-outils-d-animation-sur-l-urbanisme-favorable-a-la-sante-ufs.html</link>
-      <description>4 outils sur l'Urbanisme Favorable à la Santé (UFS) pour des projets coconçus. Dans le cadre de l’appel à communs de l’ADEME, l’agence de design Itinéraire Bis et le cabinet Hippocrate Développement ont développé 4 outils d’animation portant sur l’UFS : un poster de sensibilisation, des cartes de projets inspirants (« photolangage »), un kit pour organiser une balade sensible et un jeu de plateaux « générateur d’idées ». Ces outils ont été testés auprès de 150 personnes à travers la France, et dans des configurations variées. Ils sont mis à disposition sur la librairie de l’ADEME, accompagnés de leur mode d’emploi.</description>
-      <guid isPermaLink="false">cb0b72ae40c762a855ebc5563b221e922462702e2b13e77e6fc5cd62f8c4db23</guid>
-      <pubDate>Tue, 24 Mar 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
