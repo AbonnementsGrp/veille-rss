@@ -1,4 +1,40 @@
 {
+  "0e9af53db0a8e266f0e92c16546f7be55ed02ce91d48896b7dfdf285327ac223": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire : Développement durable et Certification HAS : les outils de l’Anap pour vous aider",
+    "link": "https://www.anap.fr/s/article/Webinaire-D%C3%A9veloppement-durable-et-Certification-HAS-les-outils-de-l-Anap-pour-vous-aider",
+    "description": "Le manuel de certification HAS des établissements sanitaires intègre de nombreux critères et éléments liés au développement durable. Préparez-vous à ces critères grâce aux outils de l’Anap !",
+    "published": "2026-11-02T16:56:15+00:00",
+    "first_seen": "2026-11-03T06:51:09.481299+00:00",
+    "uid": "0e9af53db0a8e266f0e92c16546f7be55ed02ce91d48896b7dfdf285327ac223",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "35cc4bc8bbed5dabe2a35f881f341a807e088f12f222198f1b70fc0789a2a03c": {
+    "source": "ANAP - Actualités",
+    "title": "Observatoire des surfaces et coûts immobiliers en établissements de santé OSCIMES®",
+    "link": "https://www.anap.fr/s/article/immobilier-oscimes",
+    "description": "L’Observatoire Immobilier de la Santé OSCIMES®, refondu en 2023, est le seul outil public permettant de partager les coûts de différents projets immobiliers en santé. Un outil unique et ouvert à tous pour appuyer vos simulations de coûts prévisionnels et d’évolution des prix.",
+    "published": "2026-11-02T15:51:24+00:00",
+    "first_seen": "2026-11-03T06:51:09.481299+00:00",
+    "uid": "35cc4bc8bbed5dabe2a35f881f341a807e088f12f222198f1b70fc0789a2a03c",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "f98c8185fed327b132a5217749eeb2d3b3083054d4f4c2f313f4cf2fd9650937": {
+    "source": "ANAP - Actualités",
+    "title": "Canicule : les réflexes à adopter",
+    "link": "https://www.anap.fr/s/article/canicule-reflexes-adopter",
+    "description": "En période de canicule, adoptez des gestes simples pour limiter l’impact de la chaleur dans votre établissement sanitaire ou médico-social.",
+    "published": "2026-11-02T15:09:34+00:00",
+    "first_seen": "2026-11-03T06:51:09.481299+00:00",
+    "uid": "f98c8185fed327b132a5217749eeb2d3b3083054d4f4c2f313f4cf2fd9650937",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "2dc9d256247110e3f2cadb17ac0e451d584559585150cd399f9be2f4bda8dcc3": {
     "source": "ANAP - Actualités",
     "title": "Appel à projets : Achats innovants dans les établissements de santé",
@@ -9361,32 +9397,5 @@
     "published": "2026-09-30T07:36:57+00:00",
     "first_seen": "2026-09-30T12:38:07.990203+00:00",
     "uid": "fb6a317df659f3f6e04bb441f1cc0df7ffd305427e1d97f79c414a6be2512dfe"
-  },
-  "8afa32c1139ee40aedcc463763dbbefb4572d9c197de17544f4401bb5947ceae": {
-    "source": "Outre-Mer 360°",
-    "title": "« Les Outre-mer regorgent de talents : notre rôle est de leur ouvrir de nouveaux marchés » : Gérard Gillet, le fondateur et dirigeant de Perspect’îles veut ouvrir le marché hexagonal aux entreprises ultramarines",
-    "link": "https://outremers360.com/bassin-indien-appli/les-outre-mer-regorgent-de-talents-notre-role-est-de-leur-ouvrir-de-nouveaux-marches-gerard-gillet-le-fondateur-et-dirigeant-de-perspectiles-veut-ouvrir-le-marche-hexagonal-aux-entreprises-ultramarines",
-    "description": "Faciliter l’accès des entreprises ultramarines aux marchés hexagonal puis européen, c’est l’ambition de Perspect’îles. Créée par Gérard Gillet en 2025, la structure réunionnaise propose un accompagnement qui associe la logistique, le stockage, mais également la...",
-    "published": "2026-09-30T10:43:35+00:00",
-    "first_seen": "2026-09-30T12:38:03.584076+00:00",
-    "uid": "8afa32c1139ee40aedcc463763dbbefb4572d9c197de17544f4401bb5947ceae"
-  },
-  "12dc5f9badc8017bafe26b08536de9bf4e4342a4e8e153ba9a3abe9d2a8221ca": {
-    "source": "Outre-Mer 360°",
-    "title": "Un premier « Choose Outre-mer » pour « accélérer l'investissement et l'emploi dans les territoires ultramarins »",
-    "link": "https://outremers360.com/bassin-atlantique-appli/un-premier-choose-outre-mer-pour-accelerer-linvestissement-et-lemploi-dans-les-territoires-ultramarins",
-    "description": "À l'initiative Naïma Moutchou, ministre des Outre-mer, la première édition de Choose Outre-mer se tiendra ce jeudi 1er octobre à la Banque de France. Entrepreneurs, investisseurs, acteurs économiques, dirigeants et talents, seront rassemblés pour « renforcer...",
-    "published": "2026-09-30T10:18:05+00:00",
-    "first_seen": "2026-09-30T12:38:03.584076+00:00",
-    "uid": "12dc5f9badc8017bafe26b08536de9bf4e4342a4e8e153ba9a3abe9d2a8221ca"
-  },
-  "221ad62000a50ab71b616a4a78abd235e0b3efcb15076b3919ffebd78c52ef0e": {
-    "source": "Outre-Mer 360°",
-    "title": "Guyane : Un anti-venin brésilien désormais autorisé pour traiter les morsures de serpent",
-    "link": "https://outremers360.com/bassin-atlantique-appli/guyane-un-anti-venin-bresilien-desormais-autorise-pour-traiter-les-morsures-de-serpent",
-    "description": "Environ 80 personnes sont envenimées chaque année en Guyane après une morsure de serpent. Jusqu’à présent, les établissements de santé utilisaient un antivenin importé du Mexique. L’Agence nationale de sécurité du médicament (ANSM) vient d’autoriser...",
-    "published": "2026-09-30T09:58:44+00:00",
-    "first_seen": "2026-09-30T12:38:03.584076+00:00",
-    "uid": "221ad62000a50ab71b616a4a78abd235e0b3efcb15076b3919ffebd78c52ef0e"
   }
 }

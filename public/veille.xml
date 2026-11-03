@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 02 Nov 2026 14:43:39 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 02 Nov 2026 16:56:15 +0000</lastBuildDate>
+    <item>
+      <title>Webinaire : Développement durable et Certification HAS : les outils de l’Anap pour vous aider</title>
+      <link>https://www.anap.fr/s/article/Webinaire-D%C3%A9veloppement-durable-et-Certification-HAS-les-outils-de-l-Anap-pour-vous-aider</link>
+      <description>Le manuel de certification HAS des établissements sanitaires intègre de nombreux critères et éléments liés au développement durable. Préparez-vous à ces critères grâce aux outils de l’Anap !</description>
+      <guid isPermaLink="false">0e9af53db0a8e266f0e92c16546f7be55ed02ce91d48896b7dfdf285327ac223</guid>
+      <pubDate>Mon, 02 Nov 2026 16:56:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observatoire des surfaces et coûts immobiliers en établissements de santé OSCIMES®</title>
+      <link>https://www.anap.fr/s/article/immobilier-oscimes</link>
+      <description>L’Observatoire Immobilier de la Santé OSCIMES®, refondu en 2023, est le seul outil public permettant de partager les coûts de différents projets immobiliers en santé. Un outil unique et ouvert à tous pour appuyer vos simulations de coûts prévisionnels et d’évolution des prix.</description>
+      <guid isPermaLink="false">35cc4bc8bbed5dabe2a35f881f341a807e088f12f222198f1b70fc0789a2a03c</guid>
+      <pubDate>Mon, 02 Nov 2026 15:51:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canicule : les réflexes à adopter</title>
+      <link>https://www.anap.fr/s/article/canicule-reflexes-adopter</link>
+      <description>En période de canicule, adoptez des gestes simples pour limiter l’impact de la chaleur dans votre établissement sanitaire ou médico-social.</description>
+      <guid isPermaLink="false">f98c8185fed327b132a5217749eeb2d3b3083054d4f4c2f313f4cf2fd9650937</guid>
+      <pubDate>Mon, 02 Nov 2026 15:09:34 +0000</pubDate>
+    </item>
     <item>
       <title>Abus sexuels dans le périscolaire : un rapport pour traiter un mal national</title>
       <link>https://www.banquedesterritoires.fr/abus-sexuels-dans-le-periscolaire-un-rapport-pour-traiter-un-mal-national</link>
@@ -820,13 +841,6 @@
       <description>L’Anap conçoit le première modèle d’Ehpad autonome en énergie et un simulateur pour s’adapter aux canicules.</description>
       <guid isPermaLink="false">cee6ca8707f2cbc8456448e7c6f1768cd699e048520dfe40001c580d8a28efd5</guid>
       <pubDate>Wed, 21 Oct 2026 10:16:38 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canicule : les réflexes à adopter</title>
-      <link>https://www.anap.fr/s/article/canicule-les-reflexes-a-adopter</link>
-      <description>La canicule s'abat de nouveau sur la France : quels réflexes adopter au sein de vos établissements sanitaires et médico-sociaux ? L’Anap récapitule des mesures concrètes pour protéger les personnes prises en charge, vos équipes et votre établissement à court et long termes.</description>
-      <guid isPermaLink="false">a2c3c4fcd53867a2bf91803c390a8bfdb10095e19a2c0537c8da01a2a4073ebe</guid>
-      <pubDate>Wed, 21 Oct 2026 10:14:18 +0000</pubDate>
     </item>
     <item>
       <title>Votre Cockpit DATA Blocs</title>
@@ -1667,27 +1681,6 @@
       <description>L’Anap formule des propositions afin d’accélérer les coopérations dans le secteur médico-social public (offre pour personnes âgées).</description>
       <guid isPermaLink="false">46268cdae343acabf627d9f2506e2df07242a188a23074a8f33f2fadb73d4c80</guid>
       <pubDate>Tue, 06 Oct 2026 08:01:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autodiagnostic Attractivité et fidélisation</title>
-      <link>https://www.anap.fr/s/article/autodiag-attractivite-et-fidelisation</link>
-      <description>Cet autodiagnostic en ligne permet de cartographier la situation d'un établissement (besoins RH, concurrence, climat social ..) et d’identifier les attentes des professionnels. Vous y trouverez également des pistes d’actions pour élaborer votre marque employeur, attirer et fidéliser les talents.</description>
-      <guid isPermaLink="false">c5c3dec57940b8752b575ec0f6194f0c5bffcc41edb81a894b99440e870544ce</guid>
-      <pubDate>Tue, 06 Oct 2026 08:01:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autodiagnostic Projet immobilier Ehpad</title>
-      <link>https://www.anap.fr/s/article/autodiagnostic-projet-immobilier-ehpad</link>
-      <description>Cet autodiagnostic en ligne permet de qualifier les points clés d’un projet immobilier d’Ehpad tout au long de sa conceptualisation. Vous pourrez évaluer son positionnement territorial, analyser le caractère innovant du projet (dimensions immobilière et environnementale) et sa soutenabilité financière.</description>
-      <guid isPermaLink="false">29c0685b8302c22d915160c000cd8c83e5fa1f79bce2edf59db79a3afd32f9b3</guid>
-      <pubDate>Tue, 06 Oct 2026 08:00:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autodiagnostic Gestion de projet</title>
-      <link>https://www.anap.fr/s/article/autodiagnostic-gestion-de-projet</link>
-      <description>Cadrage, planification, conception, mise en œuvre et clôture : cet autodiagnostic en ligne permet d'évaluer vos connaissances de la gestion de projet. Vous aurez ensuite accès à une méthodologie et à des outils opérationnels clés en main pour mener à bien votre projet.</description>
-      <guid isPermaLink="false">2fd5d2061d4bc7fa23451848637b6310ca30d5cdf5ade49fdf6b4ece562ad057</guid>
-      <pubDate>Tue, 06 Oct 2026 08:00:18 +0000</pubDate>
     </item>
     <item>
       <title>La CNSA mobilise la branche Autonomie et ses partenaires pour accélérer et renforcer le soutien aux aidants dans les territoires</title>
