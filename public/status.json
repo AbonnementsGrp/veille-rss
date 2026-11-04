@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-04T06:26:37.794899+00:00",
+  "generated_at": "2026-11-04T17:16:49.636086+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
   "sites_warning": 2,
-  "new_items": 1,
-  "merged_items": 563,
+  "new_items": 15,
+  "merged_items": 567,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -95,7 +95,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 29,
+      "items": 30,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
@@ -123,7 +123,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 18,
+      "items": 19,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
@@ -185,7 +185,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 259 jours (seuil : 60)"
+        "rien de neuf depuis 260 jours (seuil : 60)"
       ]
     },
     {
@@ -244,7 +244,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 943 jours (seuil : 60)"
+        "rien de neuf depuis 944 jours (seuil : 60)"
       ]
     },
     {
