@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 02 Nov 2026 16:56:15 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 03 Nov 2026 08:20:59 +0000</lastBuildDate>
+    <item>
+      <title>Chirurgie 360 : 1ère journée nationale de la performance chirurgicale</title>
+      <link>https://www.anap.fr/s/article/chirurgie-360-1ere-journee-nationale-de-la-performance-chirurgicale</link>
+      <description>Chirurgie 360 aura lieu le 29 juin 2027 à Montrouge. Cette journée nationale réunira chirurgiens, anesthésistes, directions, cadres et professionnels du bloc opératoire pour partager des retours d’expérience, découvrir des modèles d’organisation éprouvés et repartir avec des solutions concrètes : mieux programmer les interventions, fluidifier les parcours chirurgicaux et piloter la performance du bloc.</description>
+      <guid isPermaLink="false">511075cc3c96b80414f5c34992e3745b2f6ce9c28e273efec062aaea13ab5ba4</guid>
+      <pubDate>Tue, 03 Nov 2026 08:20:59 +0000</pubDate>
+    </item>
     <item>
       <title>Webinaire : Développement durable et Certification HAS : les outils de l’Anap pour vous aider</title>
       <link>https://www.anap.fr/s/article/Webinaire-D%C3%A9veloppement-durable-et-Certification-HAS-les-outils-de-l-Anap-pour-vous-aider</link>
@@ -407,13 +414,6 @@
       <description>MELOG est un outil logiciel d'aide à l'exploration de solutions organisationnelles différentes de la fonction stérilisation, plus particulièrement dans le contexte de projets de coopération</description>
       <guid isPermaLink="false">9b78846019b980451496479fb5e86a853fac07fd145589c9435937b0cd07df40</guid>
       <pubDate>Tue, 06 Oct 2026 08:02:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Renforcer le GCSMS pour accélérer l'évolution de l'offre d'EHPAD publique</title>
-      <link>https://www.anap.fr/s/article/renforcer-GCSMS-pour-accelerer-l-evolution-de-l-offre-EHPAD-publique</link>
-      <description>L’Anap formule des propositions afin d’accélérer les coopérations dans le secteur médico-social public (offre pour personnes âgées).</description>
-      <guid isPermaLink="false">46268cdae343acabf627d9f2506e2df07242a188a23074a8f33f2fadb73d4c80</guid>
-      <pubDate>Tue, 06 Oct 2026 08:01:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

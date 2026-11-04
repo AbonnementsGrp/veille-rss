@@ -1,4 +1,16 @@
 {
+  "511075cc3c96b80414f5c34992e3745b2f6ce9c28e273efec062aaea13ab5ba4": {
+    "source": "ANAP - Actualités",
+    "title": "Chirurgie 360 : 1ère journée nationale de la performance chirurgicale",
+    "link": "https://www.anap.fr/s/article/chirurgie-360-1ere-journee-nationale-de-la-performance-chirurgicale",
+    "description": "Chirurgie 360 aura lieu le 29 juin 2027 à Montrouge. Cette journée nationale réunira chirurgiens, anesthésistes, directions, cadres et professionnels du bloc opératoire pour partager des retours d’expérience, découvrir des modèles d’organisation éprouvés et repartir avec des solutions concrètes : mieux programmer les interventions, fluidifier les parcours chirurgicaux et piloter la performance du bloc.",
+    "published": "2026-11-03T08:20:59+00:00",
+    "first_seen": "2026-11-04T06:26:26.750514+00:00",
+    "uid": "511075cc3c96b80414f5c34992e3745b2f6ce9c28e273efec062aaea13ab5ba4",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "af27ca12080846acd5078214e7717c710d95ac167fbb41cd1fb25b28f17fb2e1": {
     "source": "ANAP - Actualités",
     "title": "Mesures ou Directives anticipées en psychiatrie",
@@ -9376,14 +9388,5 @@
     "published": "2026-10-02T05:22:59+00:00",
     "first_seen": "2026-10-02T09:49:00.319551+00:00",
     "uid": "fecfc8f7577f2be35854b96e696a161cc2488584034956c85e4e350c0f39f1a0"
-  },
-  "64d731ea3541599a482038766ddfc948e00c5c1d0dfee19cb361d6e2f8fcb953": {
-    "source": "Outre-Mer 360°",
-    "title": "Choose Outre-mer - Thierry Déau, Président-directeur général de Méridiam, sur le plateau d'Outremers360",
-    "link": "https://outremers360.com/bassin-atlantique-appli/choose-outre-mer-thierry-deau-president-directeur-general-de-meridiam",
-    "description": "Ce jeudi 1er octobre, à l'occasion de Choose Outre-mer, Thierry Déau, président-directeur général de Meridiam, et parmi les investisseurs du fonds à impact “Outre-mer One”, a répondu aux questions d'Outremers360.",
-    "published": "2026-10-01T13:22:13+00:00",
-    "first_seen": "2026-10-02T09:49:00.319551+00:00",
-    "uid": "64d731ea3541599a482038766ddfc948e00c5c1d0dfee19cb361d6e2f8fcb953"
   }
 }
