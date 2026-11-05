@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 01 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Enquête sur les prix des combustibles bois en 2025</title>
+      <link>https://librairie.ademe.fr/energies/9748-enquete-sur-les-prix-des-combustibles-bois-en-2025.html</link>
+      <description>L'étude présente les prix des combustibles bois en 2025. Un premier rapport évalue le niveau des prix en 2025 des combustibles bois pour les particuliers (chauffage domestique au bois), pour les combustibles couramment consommés (bois bûches, granulés, bûches et bûchettes reconstituées.). Différents facteurs de variation des prix (impact de la région de commercialisation, période de commercialisation, qualité et essences des bois, certification...) sont étudiés. Le second rapport est consacré à la présentation et à l'analyse des prix des combustibles pour les marchés collectif et industriel (plaquettes forestières, plaquettes de scierie, sciures, broyats de recyclage, écorces, granulés..) Dans chacun des rapports, les prix des combustibles bois sont comparés à ceux des autres énergies couramment utilisées.</description>
+      <guid isPermaLink="false">58350dc50749b9ae7cd1cd39489a08c71b308d7c01027951d9e06bbd5823702f</guid>
+      <pubDate>Wed, 04 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Datacenters IT &amp; IA Anticiper l'impact à horizon 2035</title>
       <link>https://librairie.ademe.fr/energies/9739-datacenters-it-ia-anticiper-l-impact-a-horizon-2035.html</link>
@@ -420,13 +427,6 @@
       <link>https://librairie.ademe.fr/energies/9327-soflocean-demonstrateur-de-technologie-de-solaire-flottant-en-mer.html</link>
       <description>AREMA-Energies a développé une technologie innovante d'énergie solaire flottante en mer. Pour concrétiser son potentiel, des prototypes initiaux sont essentiels. C'est dans ce contexte que le projet SOFLOCEAN-FRANCE, abréviation de "Solaire Flottant sur l'Océan en France", a été conçu pour évaluer la viabilité de l'énergie solaire flottante en mer, mise au point par Arema Energies.</description>
       <guid isPermaLink="false">b1fdf623db9080baccd95aaa97e5c24c488a32c48076d078d708ebee1d957f7e</guid>
-      <pubDate>Mon, 27 Apr 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>TIMSEF - DTAm outil de monitoring indirect d'une ferme d'éoliennes</title>
-      <link>https://librairie.ademe.fr/energies/9328-timsef-dtam-outil-de-monitoring-indirect-d-une-ferme-d-eoliennes.html</link>
-      <description>L'objectif du projet est de mettre en place un outil DTAm, il représente une technologie de monitoring par jumeaux numérique pour la surveillance des unités flottantes d’une ferme d’éoliennes.</description>
-      <guid isPermaLink="false">ecf73f5d06bf7d701004df479b8d41bfc5b4dec41b6037b9d830b609b1c1cee1</guid>
       <pubDate>Mon, 27 Apr 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
