@@ -1,4 +1,31 @@
 {
+  "ebad04042910b06e10b17805cc990cab9eaf63be6454165b778ff35db785acf7": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Liste des 200 lycées à rénover : Régions de France dénonce une \"méthode inacceptable\"",
+    "link": "https://www.banquedesterritoires.fr/liste-des-200-lycees-renover-regions-de-france-denonce-une-methode-inacceptable",
+    "description": "Dans un courrier à l’attention du ministre de l'Éducation nationale en cours de signature ce jeudi 5 novembre après-midi, les présidents de région fustigent la publication par le ministère de l'Éducation nationale d'une liste de 200 lycées \"prioritaires\" pour des travaux, établie à partir de la plateforme Agora et sans consultation préalable des régions. Ils rejettent tout observatoire national du bâti scolaire et dénoncent, encore une fois, les ponctions budgétaires de l'État.",
+    "published": "2026-11-05T14:57:33+00:00",
+    "first_seen": "2026-11-05T23:51:59.381198+00:00",
+    "uid": "ebad04042910b06e10b17805cc990cab9eaf63be6454165b778ff35db785acf7"
+  },
+  "4c791dfe43e54e01a8148702eb5dc069a5f8021693ea9849691550181e7065a6": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Sport-santé : une nouvelle certification d'État pour mieux collaborer avec l'écosystème local",
+    "link": "https://www.banquedesterritoires.fr/sport-sante-une-nouvelle-certification-detat-pour-mieux-collaborer-avec-lecosysteme-local",
+    "description": "Un arrêté publié au Journal officiel du 1er novembre porte création du certificat complémentaire \"Sport-Santé\" au BPJEPS (brevet professionnel de la jeunesse, de l'éducation populaire et du sport) spécialité \"éducateur sportif\", au Dejeps (diplôme d'État de la jeunesse, de l'éducation populaire…",
+    "published": "2026-11-05T13:31:45+00:00",
+    "first_seen": "2026-11-05T23:51:59.381198+00:00",
+    "uid": "4c791dfe43e54e01a8148702eb5dc069a5f8021693ea9849691550181e7065a6"
+  },
+  "c967cf3020a5fe07d3b5dbaf098e66d4ffd3a6cb6751553b3ca2df8415ac9bfa": {
+    "source": "Outre-Mer 360°",
+    "title": "CPRUP 2026 : les acteurs économiques des RUP interpellent les institutions sur l’accès aux fonds européens, l’avenir du POSEI et l’octroi de mer",
+    "link": "https://outremers360.com/bassin-atlantique-appli/cprup-2026-les-acteurs-economiques-des-rup-interpellent-les-institutions-sur-lacces-aux-fonds-europeens-lavenir-du-posei-et-loctroi-de-mer",
+    "description": "En marge de la Conférence des Présidents des régions ultrapériphériques (CPRUP), organisée sous présidence guadeloupéenne, des députés européens, la Direction générale des Outre-mer (DGOM) et l’unité RUP de la DG REGIO de la Commission européenne ont rencontré...",
+    "published": "2026-11-05T19:40:10+00:00",
+    "first_seen": "2026-11-05T23:51:45.569294+00:00",
+    "uid": "c967cf3020a5fe07d3b5dbaf098e66d4ffd3a6cb6751553b3ca2df8415ac9bfa"
+  },
   "866f56db1ca9e9fe65571e6b91931ab6fa0f7e6e3084026b4d6092676b11cfc5": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Attractivité des métiers d’assistante maternelle et d’assistant familial : une étude bientôt finalisée",
@@ -9366,32 +9393,5 @@
     "published": "2026-04-12T22:00:00+00:00",
     "first_seen": "2026-10-02T12:55:19.023321+00:00",
     "uid": "75b46287b50c13d6e8c87b0d0305b559aed9586d0fb88909a05be61af37bc9f0"
-  },
-  "3a40f5a6b40a969b42641452e7b0206e05dcc222654a1e4a0b067f52f764761a": {
-    "source": "ADEME_Energie",
-    "title": "Plateforme de stockage de plaquettes bois énergie. Plateforme de Saramon (32)",
-    "link": "https://librairie.ademe.fr/energies/9286-plateforme-de-stockage-de-plaquettes-bois-energie-plateforme-de-saramon-32.html",
-    "description": "Le Département du Gers a mis en place en 2019 une plateforme de stockage de plaquettes bois énergie sur la commune de Saramon. Cette unité permet d’une part, le stockage et le séchage de plaquettes bois à destination des chaufferies bois des collèges, et d’autre part, de produire de l’électricité à partir de panneaux solaires photovoltaïques positionnés sur la toiture de la plateforme. Cette fiche détaille les caractéristiques techniques et financières de l’installation et apporte le témoignage de la collectivité.",
-    "published": "2026-04-08T22:00:00+00:00",
-    "first_seen": "2026-10-02T12:55:19.023321+00:00",
-    "uid": "3a40f5a6b40a969b42641452e7b0206e05dcc222654a1e4a0b067f52f764761a"
-  },
-  "8ad1a63311d06271ff150343123eef79236de7cb2456766911308da37422f143": {
-    "source": "ADEME_Energie",
-    "title": "Observatoire des batteries stationnaires",
-    "link": "https://librairie.ademe.fr/energies/9279-observatoire-des-batteries-stationnaires.html",
-    "description": "L’observatoire des batteries stationnaires a consisté à récolter des informations sur les caractéristiques des stockages existants et futurs en France hexagonale et à analyser les données de leur fonctionnement sur l’année 2024. La filière des batteries stationnaires est relativement nouvelle sur le territoire mais se développe très rapidement, en lien avec les besoins du système électrique. Dans ce contexte, la DGEC, la CRE, les gestionnaires de réseaux (RTE et Enedis), l’ATEE et l’ADEME se sont associés pour conduire une collecte de données auprès du parc existant et en projet, dans le but d’avoir une meilleure connaissance opérationnelle de cette filière émergente mais dont la croissance est rapide. Cette restitution publique est l’occasion de présenter une partie agrégée de l’observatoire, sous forme de huit indicateurs détaillant le parc de batteries lithium-ion stationnaires raccordées en moyenne et haute tension. Le jeu d’acteur 2025 des développeurs batterie est également mis en lumière. L’édition 2025 de l’observatoire est la première occurrence et a vocation à être réitérée pour suivre le développement de la filière par le biais d’indicateurs spécifiques.",
-    "published": "2026-04-02T22:00:00+00:00",
-    "first_seen": "2026-10-02T12:55:19.023321+00:00",
-    "uid": "8ad1a63311d06271ff150343123eef79236de7cb2456766911308da37422f143"
-  },
-  "4c07c795f2383e9ff281094a5152fb2a4bc9764c8590c3e40c3d1b010babcfc3": {
-    "source": "ADEME_Energie",
-    "title": "Etat des lieux de la filière de petite méthanisation agricole autonome en effluents d'élevage",
-    "link": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9195-etat-des-lieux-de-la-filiere-de-petite-methanisation-agricole-autonome-en-effluents-d-elevage.html",
-    "description": "29 unités de petite méthanisation ont été enquêtées. Une petite unité de méthanisation a été définie comme une unité en cogénération d’une puissance installée inférieure à 100 kWé, ou en valorisation de chaleur seule. Toutes les unités enquêtées ont au moins 85 % d’effluents d’élevage dans leur ration d’approvisionnement, et ont été mises en service entre 2012 et 2023. Les enquêtes ont eu lieu au cours de l’année 2025. Parmi les unités enquêtées, 12 sont en chaudière et 17 en cogénération. L’échantillon est principalement représenté par deux fournisseurs de solution : Nenufar pour les couvertures récupératrices de biogaz (11 unités) et Biolectric pour des systèmes en cogénération (13 unités), dont une partie des unités ont été construites en partenariat avec Agripower. Les couvertures de fosse à lisier sont en digestion anaérobie psychrophile, alors que les autres unités sont en mésophile.",
-    "published": "2026-03-24T23:00:00+00:00",
-    "first_seen": "2026-10-02T12:55:19.023321+00:00",
-    "uid": "4c07c795f2383e9ff281094a5152fb2a4bc9764c8590c3e40c3d1b010babcfc3"
   }
 }
