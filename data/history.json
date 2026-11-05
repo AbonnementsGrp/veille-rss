@@ -1,4 +1,16 @@
 {
+  "a984d0f92894421f2687fa21c9f5cd21119298680c5875e4cd9fc7ef7aea125c": {
+    "source": "ANAP - Actualités",
+    "title": "L’Ehpad Vert : un rapport de l’Anap et Matières Grises",
+    "link": "https://www.anap.fr/s/article/l-ehpad-vert-un-rapport-de-l-anap-et-matieres-grises",
+    "description": "Face au vieillissement de la population et à l’intensification des épisodes climatiques extrêmes, les Ehpad doivent accélérer leur transition écologique. Pour vous aider à passer de l’intention à l’action, l’Anap et le Think Tank Matières Grises publient un rapport inédit, accompagné de 19 fiches pratiques, de bonnes pratiques inspirantes.",
+    "published": "2026-11-04T09:49:21+00:00",
+    "first_seen": "2026-11-05T06:50:40.428125+00:00",
+    "uid": "a984d0f92894421f2687fa21c9f5cd21119298680c5875e4cd9fc7ef7aea125c",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "7e9913b309fc6d1c90851939bf13206c32da3e39ebb2db2297c26b4c800a11d8": {
     "source": "Localtis - Jeunesse, éducation et formation",
     "title": "Rénovation énergétique : les associations d'élus demandent au Premier ministre de revenir sur l'abandon du programme ACTEE",
@@ -3378,7 +3390,7 @@
     "title": "Journée nationale de la transfo - Handicap : des intentions à l'action !",
     "link": "https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap",
     "description": "La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.",
-    "published": "2026-10-28T16:11:52+00:00",
+    "published": "2026-11-04T13:19:53+00:00",
     "first_seen": "2026-10-15T21:25:27.195033+00:00",
     "uid": "f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5",
     "description_checked": true,
@@ -9378,14 +9390,5 @@
     "published": "2026-10-02T10:14:00+00:00",
     "first_seen": "2026-10-02T12:51:14.322406+00:00",
     "uid": "2dc7c7c9f47c3574cded7a4b5871aee297ad74d51952886a63933b04caeb8c36"
-  },
-  "06275941a784158f16a829bedf203017293b782e45357f44dd73fa117b51c4a3": {
-    "source": "Outre-Mer 360°",
-    "title": "Choose Outre-mer : Valérie de Saint-Père, présidente et co-fondatrice de l'École 2600, sur le plateau d'Outremers360",
-    "link": "https://outremers360.com/bassin-atlantique-appli/choose-outre-mer-valerie-de-saint-pere-presidente-et-co-fondatrice-de-lecole-2600-sur-le-plateau-doutremers360",
-    "description": "Interview de Valérie de Saint-Père, présidente et co-fondatrice de l'École 2600, à l'occasion de la première édition de Choose Outre-mer, ce jeudi 1er octobre à la Banque de France.Valérie de Saint-Père a répondu aux questions d'Outremers360 dans l’émission...",
-    "published": "2026-10-02T10:10:32+00:00",
-    "first_seen": "2026-10-02T12:51:14.322406+00:00",
-    "uid": "06275941a784158f16a829bedf203017293b782e45357f44dd73fa117b51c4a3"
   }
 }

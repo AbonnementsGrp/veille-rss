@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 03 Nov 2026 08:20:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 04 Nov 2026 13:19:53 +0000</lastBuildDate>
+    <item>
+      <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
+      <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
+      <description>La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.</description>
+      <guid isPermaLink="false">f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5</guid>
+      <pubDate>Wed, 04 Nov 2026 13:19:53 +0000</pubDate>
+    </item>
+    <item>
+      <title>L’Ehpad Vert : un rapport de l’Anap et Matières Grises</title>
+      <link>https://www.anap.fr/s/article/l-ehpad-vert-un-rapport-de-l-anap-et-matieres-grises</link>
+      <description>Face au vieillissement de la population et à l’intensification des épisodes climatiques extrêmes, les Ehpad doivent accélérer leur transition écologique. Pour vous aider à passer de l’intention à l’action, l’Anap et le Think Tank Matières Grises publient un rapport inédit, accompagné de 19 fiches pratiques, de bonnes pratiques inspirantes.</description>
+      <guid isPermaLink="false">a984d0f92894421f2687fa21c9f5cd21119298680c5875e4cd9fc7ef7aea125c</guid>
+      <pubDate>Wed, 04 Nov 2026 09:49:21 +0000</pubDate>
+    </item>
     <item>
       <title>Chirurgie 360 : 1ère journée nationale de la performance chirurgicale</title>
       <link>https://www.anap.fr/s/article/chirurgie-360-1ere-journee-nationale-de-la-performance-chirurgicale</link>
@@ -50,13 +64,6 @@
       <description>Mandatée par la DITND, l'Anap a conduit une évaluation nationale du fonctionnement des PCO. Elle en publie les résultats et met à disposition une boîte à outils concrète pour aider les plateformes à harmoniser leurs pratiques et améliorer l'accompagnement des enfants présentant des troubles du neurodéveloppement.</description>
       <guid isPermaLink="false">d901569c9be82585d843d7a071eeca4deaab6348ae3a05fefc3eb19e0fba5bab</guid>
       <pubDate>Wed, 28 Oct 2026 16:42:04 +0000</pubDate>
-    </item>
-    <item>
-      <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
-      <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
-      <description>La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.</description>
-      <guid isPermaLink="false">f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5</guid>
-      <pubDate>Wed, 28 Oct 2026 16:11:52 +0000</pubDate>
     </item>
     <item>
       <title>Matrice des risques d'un projet immobilier</title>
@@ -407,13 +414,6 @@
       <description>Cette bibliothèque numérique propose 100 modèles de cycles de travail "prêts à l’emploi" ou s’approchant des besoins des utilisateurs. Ce dispositif de partage, au service de la simplification des organisations, vous permettra de faciliter la gestion du temps de travail.</description>
       <guid isPermaLink="false">8949f27c1657b0fecbe5e79f562ae9412db7c7d31696a8b6b3c8c569246fac10</guid>
       <pubDate>Tue, 06 Oct 2026 08:02:49 +0000</pubDate>
-    </item>
-    <item>
-      <title>MELOG-Stérilisation : outil d'aide à la décision pour les projets de coopération entre établissements sur la fonction stérilisation</title>
-      <link>https://www.anap.fr/s/article/pharma-bio-ste-publication-2506</link>
-      <description>MELOG est un outil logiciel d'aide à l'exploration de solutions organisationnelles différentes de la fonction stérilisation, plus particulièrement dans le contexte de projets de coopération</description>
-      <guid isPermaLink="false">9b78846019b980451496479fb5e86a853fac07fd145589c9435937b0cd07df40</guid>
-      <pubDate>Tue, 06 Oct 2026 08:02:21 +0000</pubDate>
     </item>
   </channel>
 </rss>
