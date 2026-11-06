@@ -1,4 +1,76 @@
 {
+  "53788d6c3f45266401df1a02333a254a67985e6996deb9a46398cd873d03cd63": {
+    "source": "ANAP - Actualités",
+    "title": "Ehpad et ESMS : faites des économies sur vos travaux grâce au webinaire de l’Anap",
+    "link": "https://www.anap.fr/s/article/ehpad-esms-faites-des-economies-sur-vos-travaux-grace-au-webinaire-anap",
+    "description": "La livraison à soi-même, ça vous parle ? Participez à notre webinaire, organisé avec la CNSA, pour en savoir plus sur ce dispositif fiscal qui permet d’appliquer une TVA à 5,5 % pour vos travaux.",
+    "published": "2026-11-05T13:04:02+00:00",
+    "first_seen": "2026-11-06T06:51:11.528355+00:00",
+    "uid": "53788d6c3f45266401df1a02333a254a67985e6996deb9a46398cd873d03cd63",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "19c511e9c77060872467c243702f652d1ab6a0858d5ca1fbfa3775a0c883323a": {
+    "source": "ANAP - Actualités",
+    "title": "Masterclass immobilier : sécurisez vos investissements",
+    "link": "https://www.anap.fr/s/article/masterclass-immobilier-securisez-vos-investissements",
+    "description": "Masterclass dédiée à l’investissement immobilier sanitaire : concevoir, piloter et maitriser les coûts d’un projet immobilier hospitalier ! À tous les directeurs d’établissements sanitaires et présidents de CME : inscrivez-vous à notre formation pour vous accompagner dans la maîtrise des étapes d’un projet immobilier.",
+    "published": "2026-11-05T09:56:50+00:00",
+    "first_seen": "2026-11-06T06:51:11.528355+00:00",
+    "uid": "19c511e9c77060872467c243702f652d1ab6a0858d5ca1fbfa3775a0c883323a",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "b9b00498aaef7629b8f766126934f655b685aaa7adea322b1d143db2adaf4431": {
+    "source": "ANAP - Actualités",
+    "title": "Repères dimensionnels pour EHPAD",
+    "link": "https://www.anap.fr/s/article/reperes-organisationnels-surfaciques-pour-ehpad",
+    "description": "L’Anap, en collaboration avec la CNSA, propose un nouveau référentiel surfacique pour Ehpad. Ce module numérique, simple d’accès et totalement paramétrable, permet de définir et visualiser en direct le dimensionnement surfacique de son projet immobilier de manière modulable.",
+    "published": "2026-11-05T09:53:06+00:00",
+    "first_seen": "2026-11-06T06:51:11.528355+00:00",
+    "uid": "b9b00498aaef7629b8f766126934f655b685aaa7adea322b1d143db2adaf4431",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "0381aa4177b4e7c2b2284caa5cf71c7262742bcca9028c51e4902c6e3b081387": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire Immobilier - Réussir une opération de travaux de A à Z",
+    "link": "https://www.anap.fr/s/article/webinaire-immobilier-travaux-maitrise-ouvrage",
+    "description": "Vous pilotez une opération de travaux ? Découvrez comment maîtriser votre projet de A à Z. Ce webinaire pratique vous donnera les clés pour respecter vos budgets, éviter les dérapages et porter efficacement votre projet.",
+    "published": "2026-11-05T09:50:21+00:00",
+    "first_seen": "2026-11-06T06:51:11.528355+00:00",
+    "uid": "0381aa4177b4e7c2b2284caa5cf71c7262742bcca9028c51e4902c6e3b081387",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "ea912b2d7b74e067ead91431de6483bafbd07df55a4d305e9f248ce4370ca1ec": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire : repères organisationnels et surfaciques pour EHPAD",
+    "link": "https://www.anap.fr/s/article/webinaires-reperes-organisationnels-et-surfaciques-pour-ehpad",
+    "description": "Évaluez les besoins surfaciques de votre EHPAD ! Pour maîtriser les bases d’une estimation surfacique et vous inspirer de cas concrets, participez à notre webinaire.",
+    "published": "2026-11-05T09:46:25+00:00",
+    "first_seen": "2026-11-06T06:51:11.528355+00:00",
+    "uid": "ea912b2d7b74e067ead91431de6483bafbd07df55a4d305e9f248ce4370ca1ec",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "ad06d4603ecf27a0aa913a36304f3b3f130a90fb01dcc05e03deac0167584da7": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire « Repères dimensionnels des établissements sanitaires »",
+    "link": "https://www.anap.fr/s/article/webinaire-immobilier-reperes-dimensionnels-etablissements-sanitaires",
+    "description": "Imagerie, services techniques, consultations ou encore soins externes… Vous souhaitez dimensionner au plus juste votre projet immobilier ? Participez à notre webinaire et maîtrisez les 46 repères dimensionnels élaborés par l’Anap et le ministère de la Santé.",
+    "published": "2026-11-05T09:40:09+00:00",
+    "first_seen": "2026-11-06T06:51:11.528355+00:00",
+    "uid": "ad06d4603ecf27a0aa913a36304f3b3f130a90fb01dcc05e03deac0167584da7",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "ebad04042910b06e10b17805cc990cab9eaf63be6454165b778ff35db785acf7": {
     "source": "Localtis - Jeunesse, éducation et formation",
     "title": "Liste des 200 lycées à rénover : Régions de France dénonce une \"méthode inacceptable\"",
@@ -1652,7 +1724,7 @@
     "title": "Masterclass IA : Révélez le potentiel de l’IA pour votre établissement",
     "link": "https://www.anap.fr/s/article/masterclass-ia-etablissements-sanitaires-medico-sociaux",
     "description": "Simplifier les plannings, fluidifier les parcours, soulager les fonctions supports : l'Intelligence Artificielle transforme le quotidien des établissements de santé. Et pour vous ? Cette masterclass vous guide pour comprendre l'IA, identifier les usages pertinents pour votre établissement, s'inspirer de bonnes pratiques et déployer.",
-    "published": "2026-10-26T14:13:16+00:00",
+    "published": "2026-11-05T16:16:52+00:00",
     "first_seen": "2026-10-26T20:32:19.584217+00:00",
     "uid": "aea94c0a15d800f38c1ad9028078b7131e273418057888901fd722fbc1b8a27e",
     "description_checked": true,
@@ -2556,7 +2628,7 @@
     "title": "Webconférence - IA en santé : découvrir des usages réels, obtenir des résultats concrets",
     "link": "https://www.anap.fr/s/article/webconference-ia-en-sante",
     "description": "L’IA en santé, concrètement, ça donne quoi ? Découvrez des usages issus du terrain et des ressources pour vous aider à passer à l’action.",
-    "published": "2026-10-20T09:25:50+00:00",
+    "published": "2026-11-05T08:39:19+00:00",
     "first_seen": "2026-10-21T04:51:49.942825+00:00",
     "uid": "35ee4feb15baada071c79f52b2d7f577e12d43895f5a19a215fafdbaff01fb0f",
     "description_checked": true,
@@ -4731,7 +4803,7 @@
     "title": "Masterclass DATA - Piloter par la DATA : décider vite, agir juste.",
     "link": "https://www.anap.fr/s/article/masterclass-data-piloter-decider-agir",
     "description": "Vos systèmes d'information hospitaliers regorgent de données patients, RH, financières et logistiques. Les exploitez-vous vraiment ? Avec notre Masterclass DATA, transformez vos données hospitalières en leviers de pilotage : aide à la décision médicale, optimisation des organisations et anticipation des besoins.",
-    "published": "2026-10-26T14:16:37+00:00",
+    "published": "2026-11-05T16:22:11+00:00",
     "first_seen": "2026-10-13T02:37:49.202437+00:00",
     "uid": "10b2cad10fa2432daed110007745f833c2983cf340e2e978d9af2cdb751cf238",
     "description_checked": true,
@@ -9339,59 +9411,5 @@
     "published": "2026-04-27T22:00:00+00:00",
     "first_seen": "2026-10-02T12:55:19.023321+00:00",
     "uid": "ecf73f5d06bf7d701004df479b8d41bfc5b4dec41b6037b9d830b609b1c1cee1"
-  },
-  "4d166eda42897cfb092b4e1c4c793f7e4e7c3ae797309f7c4317918cd9fb3b24": {
-    "source": "ADEME_Energie",
-    "title": "Elus pour Agir, Avec le bon réseau, c'est plus facile d'agir en Ile-de-France",
-    "link": "https://librairie.ademe.fr/changement-climatique/9309-elus-pour-agir-avec-le-bon-reseau-c-est-plus-facile-d-agir-en-ile-de-france.html",
-    "description": "Lancé en 2023, le réseau Elus pour Agir crée un lieu de rencontre des élus locaux sur les sujets de la transition écologique. Grâce à une programmation événementielle mensuelle et une articulation avec d'autres réseaux d'élus, les élus ont pu : Mieux comprendre les enjeux écologiques et énergétique ; Trouver des réponses de terrain adaptées à leurs besoin ; Rencontrer, échanger et s'inspirer auprès d'autres élus engagés.",
-    "published": "2026-04-22T22:00:00+00:00",
-    "first_seen": "2026-10-02T12:55:19.023321+00:00",
-    "uid": "4d166eda42897cfb092b4e1c4c793f7e4e7c3ae797309f7c4317918cd9fb3b24"
-  },
-  "387c13505eb8dc0850499e3c6bf04ea19d21e235eb6b2429d08bfa49996f5411": {
-    "source": "ADEME_Energie",
-    "title": "Enquête annuelle 2025 du réseau Les Générateurs",
-    "link": "https://librairie.ademe.fr/energies/9310-enquete-annuelle-2025-du-reseau-les-generateurs.html",
-    "description": "Lancé début 2022, Les Générateurs est un réseau de conseillers co-financé par l'ADEME et des Régions. Présents en France métropolitaine et dans les outre-mer, les Générateurs ont vocation à apporter un conseil de premier niveau neutre et objectif aux collectivités pour les sensibiliser aux énergies renouvelables éolien et photovoltaïque. L'enquête annuelle 2025 présente les actions d'accompagnement et de sensibilisation réalisées par les conseillers partout en France, sous des angles à la fois qualitatif et quantitatif.",
-    "published": "2026-04-22T22:00:00+00:00",
-    "first_seen": "2026-10-02T12:55:19.023321+00:00",
-    "uid": "387c13505eb8dc0850499e3c6bf04ea19d21e235eb6b2429d08bfa49996f5411"
-  },
-  "d402e95765782392843baa79786803eff0af300cf65cd9bef91229087238d554": {
-    "source": "ADEME_Energie",
-    "title": "Protocole et certification en sortie d'usine pour les systèmes de détection arrêt (SDA)",
-    "link": "https://librairie.ademe.fr/energies/9304-protocole-et-certification-en-sortie-d-usine-pour-les-systemes-de-detection-arret-sda.html",
-    "description": "Ce rapport s’inscrit dans le cadre du projet SDA+ initié début 2025 par l’ADEME (Agence de la transition écologique) et l’OFB (Office Français de la Biodiversité) dans le cadre de l’Observatoire des Énergies Renouvelables et de la Biodiversité. SDA+ vise à établir un processus opérationnel pour caractériser la performance des SDA (Système Détection-Arrêt) en sortie d’usine et une fois installés sur les parcs éoliens, afin de permettre aux industriels d’apporter des éléments d’évaluation comparables et homogènes, et afin d’assister les opérateurs éoliens dans leurs choix de ces systèmes. Le programme est composé des missions suivantes : Co-construction avec les professionnels d’un processus d’évaluation et de certification volontaire de la performance des SDA « sortie d’usine », indépendamment du contexte environnemental de l’installation finale (mission 1) ; Préfiguration d’une expérimentation de ce processus d’évaluation et de certification sur plusieurs sites test ; Comparaison des meilleures modalités possibles d’évaluation de la performance des SDA une fois installés dans les parcs éoliens et accord des parties prenantes autour d’une proposition d’un protocole standardisé. Le présent rapport supporte la mission 1 : il propose un processus de certification de la performance des Systèmes Détection-Arrêt (SDA) en sortie d’usine. La performance d’un SDA est définie comme la probabilité combinée que le système détecte un individu d’une espèce ou d’une classe d’oiseau cible avant une certaine distance. Ce processus inclut : La définition des objectifs de l’évaluation ; Les conditions des tests permettant l ’évaluation d’un SDA en sortie d’usine ; Le protocole opératoire permettant l’évaluation d’un ou plusieurs SDA sur le terrain ; Le mode de bancarisation et de traitemen",
-    "published": "2026-04-16T22:00:00+00:00",
-    "first_seen": "2026-10-02T12:55:19.023321+00:00",
-    "uid": "d402e95765782392843baa79786803eff0af300cf65cd9bef91229087238d554"
-  },
-  "9193c7ab5aac09de2a616f8d3c72d0d2aba13d4724b24f8766c656737bafd5b8": {
-    "source": "ADEME_Energie",
-    "title": "Élus pour agir - 2026",
-    "link": "https://librairie.ademe.fr/changement-climatique/9293-elus-pour-agir-2026.html",
-    "description": "Sous l’égide des ministères chargés de la Transition écologique et de l’Énergie, l’ADEME anime un réseau unique d’élus qui agissent en faveur de la transition écologique dans chaque commune, chaque intercommunalité de France et à l’échelle de chaque région. Rejoignez-nous pour mieux décrypter la transition écologique, mieux connaître les acteurs et les outils et accéder aux meilleurs experts.",
-    "published": "2026-04-14T22:00:00+00:00",
-    "first_seen": "2026-10-02T12:55:19.023321+00:00",
-    "uid": "9193c7ab5aac09de2a616f8d3c72d0d2aba13d4724b24f8766c656737bafd5b8"
-  },
-  "b23bca5888d9dc5c26e0fb9c449a8e1fe8d09a2ade75b203f0c09b7eeb46abbf": {
-    "source": "ADEME_Energie",
-    "title": "Géothermie de surface : une énergie performante et durable pour les entreprises",
-    "link": "https://librairie.ademe.fr/energies/9294-geothermie-de-surface-une-energie-performante-et-durable-pour-les-entreprises-9782715927865.html",
-    "description": "Dans la collection \"5 bonnes raisons de choisir la géothermie de surface\", l’ADEME, le BRGM et leurs partenaires (l’AFPG, Association française des professionnels de la géothermie, le SER, Syndicat des énergies renouvelables, la CPME, Confédération des PME et l’EPE, Entreprises pour l’Environnement) proposent la brochure \"Géothermie de surface : une énergie performante et durable pour les entreprises\". L’augmentation des prix de l’énergie et la prise de conscience d’un besoin d’indépendance énergétique accru changent aujourd’hui la donne. La transition énergétique ne constitue pas seulement une nécessité écologique, elle est également un impératif économique et stratégique. Les entreprises, quelle que soit leur taille ou secteur d’activité, sont au cœur de ces réalités qui les impactent et sur lesquelles elles disposent également de leviers. La géothermie, énergie performante, durable, locale, disponible 24h/24, quelles que soient les conditions météorologiques, sur presque tout le territoire, peut répondre à ces enjeux. Ainsi choisir la géothermie pour une entreprise, c’est : 1. Maîtriser sa facture énergétique 2. Améliorer son bilan carbone 3. Faire du chaud et du froid avec un même équipement 4. Choisir une énergie qui s’intègre harmonieusement 5. S'offrir la possibilité d'une installation nouvelle génération Cette brochure a donc pour objectif de partager les expériences des acteurs de ce secteur et d'en inspirer d’autres.",
-    "published": "2026-04-14T22:00:00+00:00",
-    "first_seen": "2026-10-02T12:55:19.023321+00:00",
-    "uid": "b23bca5888d9dc5c26e0fb9c449a8e1fe8d09a2ade75b203f0c09b7eeb46abbf"
-  },
-  "75b46287b50c13d6e8c87b0d0305b559aed9586d0fb88909a05be61af37bc9f0": {
-    "source": "ADEME_Energie",
-    "title": "Démarches paysagères et transition des filières forêt, bois et bocage – revue de littérature et analyse de retours d'expériences",
-    "link": "https://librairie.ademe.fr/energies/9288-demarches-paysageres-et-transition-des-filieres-foret-bois-et-bocage-revue-de-litterature-et-analyse-de-retours-d-experiences.html",
-    "description": "L’étude vise à comprendre comment les démarches paysagères peuvent accompagner la transition des forêts, des bocages et de la filière bois, dans un contexte de crises écologiques, de tensions d’usage et d’attentes sociétales croissantes. Elle cherche à évaluer leur plus-value opérationnelle, leur rôle de médiation et leur capacité à structurer une dynamique territoriale. L’analyse s’appuie sur une revue de littérature préalable et l’analyse comparative de 9 retours d’expérience (REX) ayant fait l’objet d’une monographie et couvrant un ensemble diversifié de territoires (Bruche, Morvan, Chartreuse, Mézenc, Sainte Baume, Bocage boulonnais, Landes, Marais Poitevin, démarches mises en œuvre par l’Office National des Forêts). Il en ressort que les démarches paysagères interviennent principalement en situation de crise, de mutation ou de controverses (ex : controverses sur les modalités de coupes, déprise agricole, crise sanitaire, incendies). Elles permettent d’améliorer l’acceptabilité des pratiques forestières et de gestion du bocage, d’ouvrir un espace de médiation entre acteurs, et de produire une lecture transversale et spatialisée des territoires en dépassant les approches sectorielles et en croisant les aspects sociaux et écologiques. Elles contribuent également à établir des constats partagés et à construire un langage commun entre les parties prenantes. Ces démarches favorisent par ailleurs la diversification des pratiques sylvicoles et soutiennent une reterritorialisation des usages du bois via des projets connexes (chaufferies, filières de bois d’œuvre locales, actions pédagogiques). Toutefois, elles interviennent peu sur l’aval économique de la filière (transformation, marchés). Les retours d’expérience montrent que les démarches paysagères peuvent constituent un",
-    "published": "2026-04-12T22:00:00+00:00",
-    "first_seen": "2026-10-02T12:55:19.023321+00:00",
-    "uid": "75b46287b50c13d6e8c87b0d0305b559aed9586d0fb88909a05be61af37bc9f0"
   }
 }

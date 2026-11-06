@@ -8,7 +8,70 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 04 Nov 2026 13:19:53 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 05 Nov 2026 16:22:11 +0000</lastBuildDate>
+    <item>
+      <title>Masterclass DATA - Piloter par la DATA : décider vite, agir juste.</title>
+      <link>https://www.anap.fr/s/article/masterclass-data-piloter-decider-agir</link>
+      <description>Vos systèmes d'information hospitaliers regorgent de données patients, RH, financières et logistiques. Les exploitez-vous vraiment ? Avec notre Masterclass DATA, transformez vos données hospitalières en leviers de pilotage : aide à la décision médicale, optimisation des organisations et anticipation des besoins.</description>
+      <guid isPermaLink="false">10b2cad10fa2432daed110007745f833c2983cf340e2e978d9af2cdb751cf238</guid>
+      <pubDate>Thu, 05 Nov 2026 16:22:11 +0000</pubDate>
+    </item>
+    <item>
+      <title>Masterclass IA : Révélez le potentiel de l’IA pour votre établissement</title>
+      <link>https://www.anap.fr/s/article/masterclass-ia-etablissements-sanitaires-medico-sociaux</link>
+      <description>Simplifier les plannings, fluidifier les parcours, soulager les fonctions supports : l'Intelligence Artificielle transforme le quotidien des établissements de santé. Et pour vous ? Cette masterclass vous guide pour comprendre l'IA, identifier les usages pertinents pour votre établissement, s'inspirer de bonnes pratiques et déployer.</description>
+      <guid isPermaLink="false">aea94c0a15d800f38c1ad9028078b7131e273418057888901fd722fbc1b8a27e</guid>
+      <pubDate>Thu, 05 Nov 2026 16:16:52 +0000</pubDate>
+    </item>
+    <item>
+      <title>Ehpad et ESMS : faites des économies sur vos travaux grâce au webinaire de l’Anap</title>
+      <link>https://www.anap.fr/s/article/ehpad-esms-faites-des-economies-sur-vos-travaux-grace-au-webinaire-anap</link>
+      <description>La livraison à soi-même, ça vous parle ? Participez à notre webinaire, organisé avec la CNSA, pour en savoir plus sur ce dispositif fiscal qui permet d’appliquer une TVA à 5,5 % pour vos travaux.</description>
+      <guid isPermaLink="false">53788d6c3f45266401df1a02333a254a67985e6996deb9a46398cd873d03cd63</guid>
+      <pubDate>Thu, 05 Nov 2026 13:04:02 +0000</pubDate>
+    </item>
+    <item>
+      <title>Masterclass immobilier : sécurisez vos investissements</title>
+      <link>https://www.anap.fr/s/article/masterclass-immobilier-securisez-vos-investissements</link>
+      <description>Masterclass dédiée à l’investissement immobilier sanitaire : concevoir, piloter et maitriser les coûts d’un projet immobilier hospitalier ! À tous les directeurs d’établissements sanitaires et présidents de CME : inscrivez-vous à notre formation pour vous accompagner dans la maîtrise des étapes d’un projet immobilier.</description>
+      <guid isPermaLink="false">19c511e9c77060872467c243702f652d1ab6a0858d5ca1fbfa3775a0c883323a</guid>
+      <pubDate>Thu, 05 Nov 2026 09:56:50 +0000</pubDate>
+    </item>
+    <item>
+      <title>Repères dimensionnels pour EHPAD</title>
+      <link>https://www.anap.fr/s/article/reperes-organisationnels-surfaciques-pour-ehpad</link>
+      <description>L’Anap, en collaboration avec la CNSA, propose un nouveau référentiel surfacique pour Ehpad. Ce module numérique, simple d’accès et totalement paramétrable, permet de définir et visualiser en direct le dimensionnement surfacique de son projet immobilier de manière modulable.</description>
+      <guid isPermaLink="false">b9b00498aaef7629b8f766126934f655b685aaa7adea322b1d143db2adaf4431</guid>
+      <pubDate>Thu, 05 Nov 2026 09:53:06 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire Immobilier - Réussir une opération de travaux de A à Z</title>
+      <link>https://www.anap.fr/s/article/webinaire-immobilier-travaux-maitrise-ouvrage</link>
+      <description>Vous pilotez une opération de travaux ? Découvrez comment maîtriser votre projet de A à Z. Ce webinaire pratique vous donnera les clés pour respecter vos budgets, éviter les dérapages et porter efficacement votre projet.</description>
+      <guid isPermaLink="false">0381aa4177b4e7c2b2284caa5cf71c7262742bcca9028c51e4902c6e3b081387</guid>
+      <pubDate>Thu, 05 Nov 2026 09:50:21 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire : repères organisationnels et surfaciques pour EHPAD</title>
+      <link>https://www.anap.fr/s/article/webinaires-reperes-organisationnels-et-surfaciques-pour-ehpad</link>
+      <description>Évaluez les besoins surfaciques de votre EHPAD ! Pour maîtriser les bases d’une estimation surfacique et vous inspirer de cas concrets, participez à notre webinaire.</description>
+      <guid isPermaLink="false">ea912b2d7b74e067ead91431de6483bafbd07df55a4d305e9f248ce4370ca1ec</guid>
+      <pubDate>Thu, 05 Nov 2026 09:46:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire « Repères dimensionnels des établissements sanitaires »</title>
+      <link>https://www.anap.fr/s/article/webinaire-immobilier-reperes-dimensionnels-etablissements-sanitaires</link>
+      <description>Imagerie, services techniques, consultations ou encore soins externes… Vous souhaitez dimensionner au plus juste votre projet immobilier ? Participez à notre webinaire et maîtrisez les 46 repères dimensionnels élaborés par l’Anap et le ministère de la Santé.</description>
+      <guid isPermaLink="false">ad06d4603ecf27a0aa913a36304f3b3f130a90fb01dcc05e03deac0167584da7</guid>
+      <pubDate>Thu, 05 Nov 2026 09:40:09 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webconférence - IA en santé : découvrir des usages réels, obtenir des résultats concrets</title>
+      <link>https://www.anap.fr/s/article/webconference-ia-en-sante</link>
+      <description>L’IA en santé, concrètement, ça donne quoi ? Découvrez des usages issus du terrain et des ressources pour vous aider à passer à l’action.</description>
+      <guid isPermaLink="false">35ee4feb15baada071c79f52b2d7f577e12d43895f5a19a215fafdbaff01fb0f</guid>
+      <pubDate>Thu, 05 Nov 2026 08:39:19 +0000</pubDate>
+    </item>
     <item>
       <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
       <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
@@ -94,25 +157,11 @@
       <pubDate>Tue, 27 Oct 2026 12:46:44 +0000</pubDate>
     </item>
     <item>
-      <title>Masterclass DATA - Piloter par la DATA : décider vite, agir juste.</title>
-      <link>https://www.anap.fr/s/article/masterclass-data-piloter-decider-agir</link>
-      <description>Vos systèmes d'information hospitaliers regorgent de données patients, RH, financières et logistiques. Les exploitez-vous vraiment ? Avec notre Masterclass DATA, transformez vos données hospitalières en leviers de pilotage : aide à la décision médicale, optimisation des organisations et anticipation des besoins.</description>
-      <guid isPermaLink="false">10b2cad10fa2432daed110007745f833c2983cf340e2e978d9af2cdb751cf238</guid>
-      <pubDate>Mon, 26 Oct 2026 14:16:37 +0000</pubDate>
-    </item>
-    <item>
       <title>Masterclass Bloc opératoire : tout savoir sur le pilotage rapproché du bloc</title>
       <link>https://www.anap.fr/s/article/masterclass-pilotage-bloc-operatoire</link>
       <description>Vous souhaitez transformer le bloc opératoire en moteur de performance hospitalière, alliant excellence des soins et viabilité économique ? Grâce à notre masterclass destinée aux équipes dirigeantes et de pilotage des blocs opératoires, développez une vision stratégique et opérationnelle du bloc opératoire : décryptez ses mécanismes de pilotage, appropriez vous les indicateurs clés et optimisez vos décisions.</description>
       <guid isPermaLink="false">3467f4104fad6dea198605e92527f077abaccdbd12271747f5833d6a2a9a4e76</guid>
       <pubDate>Mon, 26 Oct 2026 14:15:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Masterclass IA : Révélez le potentiel de l’IA pour votre établissement</title>
-      <link>https://www.anap.fr/s/article/masterclass-ia-etablissements-sanitaires-medico-sociaux</link>
-      <description>Simplifier les plannings, fluidifier les parcours, soulager les fonctions supports : l'Intelligence Artificielle transforme le quotidien des établissements de santé. Et pour vous ? Cette masterclass vous guide pour comprendre l'IA, identifier les usages pertinents pour votre établissement, s'inspirer de bonnes pratiques et déployer.</description>
-      <guid isPermaLink="false">aea94c0a15d800f38c1ad9028078b7131e273418057888901fd722fbc1b8a27e</guid>
-      <pubDate>Mon, 26 Oct 2026 14:13:16 +0000</pubDate>
     </item>
     <item>
       <title>Financer sa transition écologique : les appels à projets par région</title>
@@ -183,13 +232,6 @@
       <description>Économies estimées, investissements, retour sur investissement : 17 actions chiffrées pour concilier transition écologique et équilibre budgétaire.</description>
       <guid isPermaLink="false">6d43a285d5fbf47f61fe006644a5a2f89915ac9109065daad4cfe2607d3bd965</guid>
       <pubDate>Wed, 21 Oct 2026 08:17:11 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webconférence - IA en santé : découvrir des usages réels, obtenir des résultats concrets</title>
-      <link>https://www.anap.fr/s/article/webconference-ia-en-sante</link>
-      <description>L’IA en santé, concrètement, ça donne quoi ? Découvrez des usages issus du terrain et des ressources pour vous aider à passer à l’action.</description>
-      <guid isPermaLink="false">35ee4feb15baada071c79f52b2d7f577e12d43895f5a19a215fafdbaff01fb0f</guid>
-      <pubDate>Tue, 20 Oct 2026 09:25:50 +0000</pubDate>
     </item>
     <item>
       <title>Webinaire - La Data au Bloc opératoire : des données aux indicateurs de performance</title>
@@ -372,48 +414,6 @@
       <description>L'outil d'Autodiagnostic des parcours en psychiatrie et en santé mentale est un outil de dialogue interne et externe qui permet de vérifier le niveau d'acceptation et d'engagement à s'inscrire comme intervenant actif dans le parcours de vie des personnes vivant avec des troubles psychiques chroniques.</description>
       <guid isPermaLink="false">68af75f8f01d6042a2d8ea8b4d4836b3b2387d999e293adea34b8a98d3dbdcc5</guid>
       <pubDate>Tue, 06 Oct 2026 08:06:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autodiagnostic d'aide à la décision pour s'engager dans la réalisation d'un secteur interventionnel avec guidage par imagerie</title>
-      <link>https://www.anap.fr/s/article/bloc-operatoire-publication-2821</link>
-      <description>L'Anap propose un autodiagnostic permettant d'évaluer la maturité des établissements sur 5 axes de questionnement avant de s'engager dans la réalisation d'un secteur interventionnel avec guidage par imagerie.</description>
-      <guid isPermaLink="false">f356529e9b4de52dd921a095159ec6042216c897f009a5dd9f46efd05f3411b3</guid>
-      <pubDate>Tue, 06 Oct 2026 08:05:52 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autodiagnostic des consultations externes</title>
-      <link>https://www.anap.fr/s/article/consultation-secretariat-publication-2070</link>
-      <description>Cet autodiagnostic permet de réaliser un diagnostic qualitatif de votre organisation et du fonctionnement de votre service. Vous pourrez identifier vos points forts et vos axes d'amélioration, vous situer par rapport aux bonnes pratiques organisationnelles et passer à l'action.</description>
-      <guid isPermaLink="false">9557b5a4c56040e6b4e5b3b48c847938cd47a9a97d4427555a9bbfdaf887cbcb</guid>
-      <pubDate>Tue, 06 Oct 2026 08:04:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diagnostiquer sa démarche de dialogue de gestion</title>
-      <link>https://www.anap.fr/s/article/pilotage-publication-2724</link>
-      <description>Cet autodiagnostic permet d'évaluer la maturité d'un établissement de santé dans sa démarche de dialogue de gestion.</description>
-      <guid isPermaLink="false">709d9b4a11bda850eecefa5d33a2797a7bf37d2de3f26e2e61f87d9c4ae4692d</guid>
-      <pubDate>Tue, 06 Oct 2026 08:04:09 +0000</pubDate>
-    </item>
-    <item>
-      <title>Autodiagnostic Gouvernance des dispositifs d'appui à la coordination</title>
-      <link>https://www.anap.fr/s/article/pilotage-publication-2752</link>
-      <description>Cet autodiagnostic permet aux dispositifs d'appui à la coordination (DAC) d'objectiver l'efficacité de l'organisation de leur gouvernance, leur fonctionnement et leur capacité à inscrire cette gouvernance dans une logique de coordination du parcours de santé complexe.</description>
-      <guid isPermaLink="false">111557c9a30e5c7a95bd332a218b8a42f06bb92c6098cc74d477d49a1b2ef0a4</guid>
-      <pubDate>Tue, 06 Oct 2026 08:03:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Définir le niveau de gestion SI d'un organisme gestionnaire médico-social</title>
-      <link>https://www.anap.fr/s/article/numerique-publication-2836</link>
-      <description>Responsable ou directeur du système d'information exerçant dans le secteur médico-social, cet autodiagnostic vous permet d'évaluer le niveau gestion SI de votre OG : management, adéquation fonctionnelle et de l'infrastructure, qualité de service, sécurité, éthique, performance.</description>
-      <guid isPermaLink="false">429d5f0cc585cdb0d6f66d41b908d1b624ee02e84d4cf82677e2bfb9bdf89819</guid>
-      <pubDate>Tue, 06 Oct 2026 08:03:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Bibliothèque des cycles de travail</title>
-      <link>https://www.anap.fr/s/article/Biblioth%C3%A8que-des-cycles-de-travail</link>
-      <description>Cette bibliothèque numérique propose 100 modèles de cycles de travail "prêts à l’emploi" ou s’approchant des besoins des utilisateurs. Ce dispositif de partage, au service de la simplification des organisations, vous permettra de faciliter la gestion du temps de travail.</description>
-      <guid isPermaLink="false">8949f27c1657b0fecbe5e79f562ae9412db7c7d31696a8b6b3c8c569246fac10</guid>
-      <pubDate>Tue, 06 Oct 2026 08:02:49 +0000</pubDate>
     </item>
   </channel>
 </rss>
