@@ -1,4 +1,220 @@
 {
+  "543d2024e953194a397ba214a9dc20fd3f2fc8421198e95b297c6c82f6b2813e": {
+    "source": "ADEME_Changement climatique",
+    "title": "Présentation des offres ADEME aux entreprises en Centre-Val de Loire",
+    "link": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9609-presentation-des-offres-ademe-aux-entreprises-en-centre-val-de-loire.html",
+    "description": "Présentation des différentes offres ADEME à destination des entreprises",
+    "published": "2026-09-21T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "543d2024e953194a397ba214a9dc20fd3f2fc8421198e95b297c6c82f6b2813e"
+  },
+  "7221b82e198c0631200e4e5fd4b4733dfddf13c1a59f166e067a5d21a49920b7": {
+    "source": "ADEME_Changement climatique",
+    "title": "Présentation des offres ADEME à destination des collectivités en Centre-Val de Loire",
+    "link": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9610-presentation-des-offres-ademe-a-destination-des-collectivites-en-centre-val-de-loire.html",
+    "description": "Présentation des offres ADEME dédiées aux collectivités",
+    "published": "2026-09-21T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "7221b82e198c0631200e4e5fd4b4733dfddf13c1a59f166e067a5d21a49920b7"
+  },
+  "12647f8015c8abff73dd5c84ea6c436507972f0ab3a318f411f10c0a2779d06e": {
+    "source": "ADEME_Changement climatique",
+    "title": "Journées Françaises de l'Evaluation 2025 : \"Evaluation et Transition(s)\"",
+    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9500-journees-francaises-de-l-evaluation-2025-evaluation-et-transitions.html",
+    "description": "Organisées tous les deux ans par la Société Française de l’Évaluation (SFE), les Journées Françaises de l’Évaluation réunissent près de 400 participants issus des collectivités, de la recherche, des institutions publiques et du monde de l’évaluation. Cet événement national vise à renforcer la place de l’évaluation dans la décision publique, à valoriser son utilité et à favoriser le partage de pratiques entre acteurs. À travers des conférences, des échanges scientifiques, des témoignages, des visites de terrain et des interventions de personnalités reconnues, les JFE permettent d’explorer les grands enjeux contemporains des politiques publiques, notamment ceux liés aux transitions. Elles contribuent également à lever les freins au développement de l’évaluation, à mieux outiller les collectivités et à rapprocher les acteurs territoriaux et nationaux de la recherche. Les interventions font enfin l’objet d’une valorisation scientifique à travers la publication d’actes, afin de prolonger les réflexions et de laisser un héritage durable.",
+    "published": "2026-09-10T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "12647f8015c8abff73dd5c84ea6c436507972f0ab3a318f411f10c0a2779d06e"
+  },
+  "212f2203923d93d378dcb68e182b6a9c3119f370628bdaf4541ab65767659e32": {
+    "source": "ADEME_Changement climatique",
+    "title": "Les agriculteurs et le changement climatique",
+    "link": "https://librairie.ademe.fr/changement-climatique/9070-les-agriculteurs-et-le-changement-climatique.html",
+    "description": "Depuis 2000, l’ADEME conduit une enquête administrée chaque année auprès d'échantillons représentatifs de la population française permettant de dresser un tableau des représentations sociales du changement climatique et de leurs évolutions. L'enquête est également réalisée auprès d’un sur-échantillon cible. Cette année il a porté sur les agriculteurs qui avaient été interrogés en 2017. Les résultats montrent que les attitudes des agriculteurs interrogés dans cette enquête sont assez similaires à celles de la population générale. L’environnement apparait toutefois comme leur priorité numéro un par rapport à d’autres enjeux pour la France (alors qu’il s’agit de la 5ème préoccupation pour les Français). Ils sont par ailleurs plus nombreux à déjà subir les conséquences du changement climatique, en nette augmentation depuis 2017. Les conséquences du changement climatique affectent fortement leur activité et les contraint à de nouvelles stratégies d’adaptation. Ils affirment davantage que le public leur capacité de s’adapter à ses conséquences, bien que cet optimisme recule.",
+    "published": "2026-09-10T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "212f2203923d93d378dcb68e182b6a9c3119f370628bdaf4541ab65767659e32"
+  },
+  "26593cec9d450ad0e730941f7afc978776544f7b9b68d163e4eec49577f6741d": {
+    "source": "ADEME_Changement climatique",
+    "title": "Evaluation environnementale d'options de valorisation du CO2 de méthanisation",
+    "link": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9561-evaluation-environnementale-d-options-de-valorisation-du-co2-de-methanisation.html",
+    "description": "Cette étude s’appuie sur l’Analyse de Cycle de Vie (ACV) pour évaluer la pertinence environnementale d’associer à des installations de méthanisation des procédés de capture et de valorisation du CO₂. Dans un contexte où la pratique émerge et certains acteurs commencent à structurer la filière, les impacts environnementaux (charges, bénéfices) associés à différentes options de valorisation de CO₂ de méthanisation sont quantifiés et comparés à des processus conventionnels. Trois types de filières sont évalués : utilisation brute (ex : gazéification de boisson, serres agricoles), transformation (ex : méthanation, production de méthanol) et séquestration (carbonatation des déchets béton, séquestration géologique). Les filières d’utilisation brute présentent des bénéfices climatiques faibles à modérés, avec peu de transferts d’impacts, et sont particulièrement pertinentes dans le cadre d’une valorisation locale limitant le transport du CO₂.Les filières de transformation et de séquestration offrent les meilleurs potentiels climatiques, mais peuvent générer des transferts d’impacts significatifs. Leurs performances dépendent fortement des choix technologiques, de la maturité des procédés, de la logistique, de la consommation d’énergie et des produits substitués, ce qui justifie une évaluation au cas par cas.",
+    "published": "2026-09-03T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "26593cec9d450ad0e730941f7afc978776544f7b9b68d163e4eec49577f6741d"
+  },
+  "15ed0796e95260835d4a70b0ecbeb2a9caa3828eda159a6ce7da4702e53d94a5": {
+    "source": "ADEME_Changement climatique",
+    "title": "Environmental assessment methodology based on Life Cycle Assessment (LCA)",
+    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9511-environmental-assessment-methodology-based-on-life-cycle-assessment-lca.html",
+    "description": "This environmental assessment methodology sets out the steps to be followed when assessing the life cycle of a digital service",
+    "published": "2026-08-05T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "15ed0796e95260835d4a70b0ecbeb2a9caa3828eda159a6ce7da4702e53d94a5"
+  },
+  "d60bdd3d1c1d3080b24ad943c8508f5e0a345e6963411080f25d63e8ff9a50f2": {
+    "source": "ADEME_Changement climatique",
+    "title": "ClimAgri® : Un outil et une démarche sur l'agriculture et le climat pour les territoires",
+    "link": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9490-climagriR-un-outil-et-une-demarche-sur-l-agriculture-et-le-climat-pour-les-territoires.html",
+    "description": "ClimAgri ® est à la fois un outil de diagnostic et une démarche d'animation des acteurs locaux sur les enjeux climatiques (en particulier émissions de gaz à effet de serre et stockage de carbone) du secteur agricole à l'échelle territoriale. Ce document présente la démarche ClimAgri dans ses différentes composantes (diagnostic, animation des acteurs). Il est à destination des territoires, en particulier les collectivités, dont les enjeux agricoles sont importants, et des experts utilisateurs de ClimAgri. Il permet de comprendre le périmètre de ClimAgri, ses objectifs, les différentes étapes de sa mise en oeuvre et sa complémentarité avec d'autres démarches à l'échelle territoriale.",
+    "published": "2026-07-15T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "d60bdd3d1c1d3080b24ad943c8508f5e0a345e6963411080f25d63e8ff9a50f2"
+  },
+  "baaf2c2c0b0a2864cd1fa4cb773974e34468f98b78ed84e8afb273b037a25bc9": {
+    "source": "ADEME_Changement climatique",
+    "title": "MisTigation : le miscanthus pour ses services écosystémiques à destination des collectivités locales",
+    "link": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9488-mistigation-le-miscanthus-pour-ses-services-ecosystemiques-a-destination-des-collectivites-locales.html",
+    "description": "Le projet MisTigation a permis de caractériser le fonctionnement du miscanthus et guider la filière dans la recherche de débouchés permettant de résoudre des problèmes environnementaux identifiés sur le territoire. En prenant la région Hauts-de-France comme cas d’étude, il a permis d’identifier les services écosystémiques rendus par une culture de Miscanthus x giganteus et des zones préférentielles d’implantation y ont été cartographiées. Il a généré un guide pour aider les collectivités à fédérer des acteurs sur le territoire afin de valoriser le miscanthus en bioéconomie locale et en services écosystémiques. Des génotypes de Miscanthus sinensis absorbant beaucoup d’azote ont été mis en évidence, offrant des perspectives pour réguler la qualité de l’eau en zones vulnérables. Les simulations avec STICS et une expérience en écotron ont permis d’évaluer les impacts du climat futur. Pour mener à bien nos objectifs, des mises au point méthodologiques ont concerné l’évaluation du devenir de l’azote issu de la plante et le phénotypage des caractères complexes de gestion de l’azote par la plante.",
+    "published": "2026-07-09T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "baaf2c2c0b0a2864cd1fa4cb773974e34468f98b78ed84e8afb273b037a25bc9"
+  },
+  "e0eae4c98d77cad2ade00a3510558a131796d14345d9667589f02094c1c9522f": {
+    "source": "ADEME_Changement climatique",
+    "title": "Evaluation France 2030 - Evaluation du ciblage du plan France 2030 en faveur de la décarbonation de l'économie",
+    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9485-evaluation-france-2030-evaluation-du-ciblage-du-plan-france-2030-en-faveur-de-la-decarbonation-de-l-economie.html",
+    "description": "En 2021, le gouvernement français lançait le plan d’investissement France 2030, une initiative dotée de 54 milliards d’euros visant à soutenir les technologies innovantes pour renforcer la compétitivité industrielle et technologique du pays, tout en accélérant la transition écologique. Ces investissements visent à répondre aux grands défis de la France – souveraineté, relance industrielle et décarbonation - à travers le développement de technologies innovantes dans des secteurs clés comme l’énergie, la santé, les transports, le spatial et l’agriculture. France 2030 consacre un volet important à la décarbonation de l’économie avec l’objectif d’y allouer 50 % de ses crédits, afin de répondre aux besoins massifs d’investissements nécessaires à la décarbonation de l’économie française. France 2030 applique par ailleurs le principe du DNSH (Do No Significant Harm), selon lequel aucune dépense ne doit avoir d’impact négatif significatif sur les différents axes de la taxonomie européenne. Dans ce cadre, le Comité de surveillance des investissements d’avenir (CSIA), le Secrétariat général pour l’investissement (SGPI) et l’ADEME ont mandaté les bureaux Edater et Icare pour évaluer la contribution du soutien apporté par France 2030 à la décarbonation de l’économie. Une étude de faisabilité de cet exercice transverse a été lancée dans un premier temps, qui se concentre sur la question évaluative principale du ciblage de France 2030 et prépare un futur exercice transverse de caractérisation et quantification des impacts du plan en matière de décarbonation, en lien avec les exercices nationaux de budget vert et de planification écologique. Le présent rapport synthétise donc les premiers travaux de cadrage et d'analyse de faisabilité : 1 - Reconstitution de la logique d’intervention",
+    "published": "2026-07-08T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "e0eae4c98d77cad2ade00a3510558a131796d14345d9667589f02094c1c9522f"
+  },
+  "371c03124318ea62b0df72b54a04aa21364e20d7406f1379067787b7a909c506": {
+    "source": "ADEME_Changement climatique",
+    "title": "Evaluation France 2030 - Evaluation quantitative des impacts des innovations vertes - étude de faisabilité",
+    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9484-evaluation-france-2030-evaluation-quantitative-des-impacts-des-innovations-vertes-etude-de-faisabilite.html",
+    "description": "La présente étude de faisabilité s’inscrit dans le cadre des travaux d’évaluation du Plan France 2030 en faveur de la décarbonation et de la transition écologique. Elle vise à apprécier les conditions de réalisation d’évaluations quantitatives ex post des aides à l’innovation verte. À partir d’une revue de la littérature académique et institutionnelle, l’étude combine une analyse exploratoire des données disponibles sur les dispositifs des PIA et de France 2030 opérés par l’ADEME, des échanges avec la communauté académique et institutionnelle, ainsi que la réalisation d’un projet pilote visant à documenter les trajectoires d’innovation sur la durée, avec un focus sur les projets de démonstrateurs. Cette démarche éclaire la faisabilité méthodologique d’une quantification des impacts environnementaux des dispositifs de soutien à l’innovation, compte tenu de la longueur des chaînes de causalité et des délais de matérialisation des effets, tout en évaluant l’état, la qualité et les limites des données mobilisables. L’étude met en évidence une richesse des données administratives disponibles, en particulier sur les lauréats et non-lauréats, mais souligne des contraintes en matière d’hétérogénéité, d’historisation et d’appariement avec des sources externes, qui conditionnent la robustesse des analyses causales. Les résultats mettent aussi en évidence les limites des évaluations causales directes des impacts environnementaux finaux, tout en relevant la pertinence d’approches alternatives basées sur la comparaison entre lauréats et non-lauréats, l’analyse des trajectoires d’innovation et l’exploitation d’indicateurs tels que les brevets, sous réserve d’un renforcement de la qualité et de la structuration des données. L’étude propose, en conclusion, le lancement prioritaire de q",
+    "published": "2026-07-08T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "371c03124318ea62b0df72b54a04aa21364e20d7406f1379067787b7a909c506"
+  },
+  "a93ced309e22dca095471d3233559fa0fdf8a8e8e573fd0e1f769fbba016af2c": {
+    "source": "ADEME_Changement climatique",
+    "title": "Evaluation France 2030 - Innovations technologiques clés pour la décarbonation du secteur de l'énergie",
+    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9483-evaluation-france-2030-innovations-technologiques-cles-pour-la-decarbonation-du-secteur-de-l-energie.html",
+    "description": "En 2021, le gouvernement français lançait le plan d’investissement France 2030, une initiative dotée de 54 milliards d’euros visant à soutenir les technologies innovantes pour renforcer la compétitivité industrielle et technologique du pays, tout en accélérant la transition écologique. Ces investissements visent à répondre aux grands défis de la France – souveraineté, relance industrielle et décarbonation - à travers le développement de technologies innovantes dans des secteurs clés comme l’énergie, la santé, les transports, le spatial et l’agriculture entre autres secteurs. France 2030 consacre un volet important à la décarbonation avec l’objectif d’y flécher 50 % de ses crédits, afin de répondre aux besoins massifs d’investissements nécessaires pour décarboner l’économie française. Ce plan constitue un des leviers stratégiques pour aligner la France avec ses objectifs climatiques nationaux (SNBC 3) et européens (Fit for 55). France 2030 applique également le principe du DNSH (Do No Significant Harm) selon lequel aucune dépense ne doit avoir d’impact négatif significatif sur l’environnement. Plus généralement, France 2030 s’inscrit dans un contexte européen marqué par une attention accrue à la compétitivité des entreprises européennes, dans la lignée des recommandations du rapport Draghi et de la boussole de compétitivité de la Commission européenne. Dans ce cadre, le Comité de surveillance des investissements d’avenir, le Secrétariat général pour l’investissement (SGPI) et l’ADEME ont mandaté le consortium Deloitte Finance et GAC Group pour réaliser une évaluation in itinere du soutien apporté par France 2030 à la production d’énergie décarbonée. Plus précisément, France 2030 étant principalement une politique de soutien à l’off re, il s’agit ici d’évaluer le soutien",
+    "published": "2026-07-08T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "a93ced309e22dca095471d3233559fa0fdf8a8e8e573fd0e1f769fbba016af2c"
+  },
+  "3842e4c32ca9e8a5cf17b37e22c63c2df07b2b8f7b643c19e8fa31e996fcc554": {
+    "source": "ADEME_Changement climatique",
+    "title": "Recommandations pour la réalisation d'un bilan des émissions de gaz à effet de serre dans les travaux publics",
+    "link": "https://librairie.ademe.fr/changement-climatique/9476-recommandations-pour-la-realisation-d-un-bilan-des-emissions-de-gaz-a-effet-de-serre-dans-les-travaux-publics-9791029727306.html",
+    "description": "Ce guide sectoriel a pour vocation d’accompagner les entreprises de travaux publics dans la réalisation de leur Bilan des Émissions de Gaz à Effet de Serre (BEGES), conformément à la méthodologie de l’ADEME et aux exigences réglementaires en vigueur. Élaboré par la Fédération Nationale des Travaux Publics (FNTP) en partenariat avec l’ADEME, il propose une méthode de calcul des différents postes d’émission prenant en compte les spécificités des métiers des travaux publics. Il apporte des recommandations pratiques pour identifier les postes d’émission, collecter les données d’activité, choisir les facteurs d’émission appropriés, évaluer les incertitudes et construire un plan de transition. Ce guide couvre l’ensemble des émissions directes (catégorie 1), des émissions indirectes liées à l’énergie (catégorie 2) ainsi que des émissions indirectes significatives (catégories 3 à 6), dont la prise en compte est devenue obligatoire dans le cadre du BEGES réglementaire. Conçu comme un document de référence pour la profession, il a pour objectif d’harmoniser les pratiques, de renforcer la robustesse et la qualité des bilans des émissions de gaz à effet de serre et de fournir aux entreprises une méthode fiable, accessible et opérationnelle pour construire et piloter leur stratégie de décarbonation. Cette édition a vocation à évoluer afin d’intégrer les futures évolutions méthodologiques, réglementaires et les retours d’expérience des entreprises de travaux publics.",
+    "published": "2026-07-05T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "3842e4c32ca9e8a5cf17b37e22c63c2df07b2b8f7b643c19e8fa31e996fcc554"
+  },
+  "af4897e58fef091b4a2d873b11ae5b735185210a6cb3541f8f5e871751f453a9": {
+    "source": "ADEME_Changement climatique",
+    "title": "Scénarisation et modélisation de mesures de sobriété et de post-croissance avec le modèle MatMat",
+    "link": "https://librairie.ademe.fr/changement-climatique/9475-scenarisation-et-modelisation-de-mesures-de-sobriete-et-de-post-croissance-avec-le-modele-matmat.html",
+    "description": "La sobriété s’impose aujourd’hui comme un levier incontournable pour atteindre les objectifs climatiques et environnementaux. Du côté du consommateur, elle renvoie à une modération des usages et des consommations afin de limiter les pressions exercées par la production sur l’environnement. La sobriété constitue également une composante clef d’une transition plus large vers un modèle économique de « post-croissance », cherchant à réinscrire l’économie dans des contraintes environnementales, tout en poursuivant des objectifs de plein-emploi, de qualité de vie, de justice sociale et de réduction des inégalités, indépendamment de la croissance économique. Si la littérature académique propose des évaluations environnementales de mesures de sobriété – notamment à partir de modèles entrées-sorties avec extensions environnementales (EE-MRIO) – celles-ci se concentrent en général sur trois secteurs : alimentation, bâtiments, transports. De même, les caractéristiques du changement structurel d’une économie de post-croissance et les transformations sectorielles nécessaires pour répondre aux besoins individuels et au bien-être restent encore largement à explorer. Le présent projet vise à répondre à deux questions centrales : Quels sont les impacts environnementaux et socio-économiques d’une sobriété étendue à l’ensemble des secteurs d’activité ? Quelles transformations structurelles et économiques (transferts de consommation, de la production et de l’emploi, notamment de l’industrie vers les services) sont associées à une économie de post-croissance ? Nous proposons d’abord une clarification conceptuelle de la sobriété « étendue », envisagée à la fois du point de vue des comportements individuels, des modes de production et de la satisfaction des besoins. Ce travail permet d’établi",
+    "published": "2026-07-05T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "af4897e58fef091b4a2d873b11ae5b735185210a6cb3541f8f5e871751f453a9"
+  },
+  "0d8549319dd77f357d3fce4e4906ca32f759c60dfa600d87b36e2dd99da9f255": {
+    "source": "ADEME_Changement climatique",
+    "title": "ADEME Magazine n°181 juillet 2026",
+    "link": "https://librairie.ademe.fr/changement-climatique/9473-ademe-magazine-n181-juillet-2026.html",
+    "description": "Les épisodes de canicule nous l’ont encore rappelé. Aujourd’hui, le changement climatique est l'un des plus grands défis de notre époque. Pourtant, alors que le consensus scientifique n’a jamais été aussi fort sur la réalité du changement climatique et ses causes, les fake news et les discours de désinformation continuent de circuler massivement, notamment sur les réseaux sociaux et certaines plateformes médiatiques. La désinformation ne se contente pas de semer le doute : elle ralentit les décisions politiques, freine les changements de comportements et compromet les actions nécessaires face à l'urgence climatique. À travers ce magazine, notre objectif est de décrypter les mécanismes de la désinformation climatique, de distinguer les faits des idées reçues et de donner aux lecteurs des clés pour s'informer de manière plus éclairée. Décryptages, témoignages, exemples, le magazine donne la parole à celles et ceux qui luttent contre la désinformation climatique. Journalistes et scientifiques : en première ligne face à la désinformation climatique Alors que la désinformation climatique gagne du terrain, nous sommes partis à la rencontre de journalistes et de scientifiques qui tentent, chacun à leur manière, de rétablir les faits. Audrey Garric du Monde, Christophe Cassou du CNRS, Célia Gautier d’Expertises Climat… entre travail de terrain, vérification des sources et bataille contre les récits trompeurs, ils nous racontent les coulisses d’une information climatique sous pression. À découvrir également dans le magazine : Les mécanismes de la désinformation expliqués Elle n’a rien de nouveau. Elle servait déjà dans l’Antiquité à manipuler l’opinion. Le problème, aujourd’hui, c’est que les fake news se propagent plus vite. Et, quand elles s’attaquent au climat, elles menacent",
+    "published": "2026-07-02T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "0d8549319dd77f357d3fce4e4906ca32f759c60dfa600d87b36e2dd99da9f255"
+  },
+  "8e423ef4c0540a8570fadb713e9ad141de4e77a5c02deea08215c090e611358f": {
+    "source": "ADEME_Changement climatique",
+    "title": "ACT Biodiversité : méthodologie",
+    "link": "https://librairie.ademe.fr/changement-climatique/9451-act-biodiversite-methodologie.html",
+    "description": "Chaque année, les écosystèmes fournissent des services dont la valeur est estimée à plus de 41 000 milliards d’euros (environ la moitié du PIB mondial) (WEF, 2020) alors même que le nombre total de mammifères sauvages, mesurés en biomasse, a diminué de 82 % par rapport aux données historiques (IPBES, 2019). Prévue dans la Stratégie Nationale Biodiversité adoptée en 2023, l’ADEME et l’OFB ont publié en juin 2026 ACT Biodiversité : une méthodologie d’évaluation de l’efficacité de la stratégie des entreprises en faveur de la biodiversité pour enrayer le déclin de celle-ci. Voici le lien vers les annexes méthodologiques : https://actinitiative.org/fr/act-biodiversity/",
+    "published": "2026-06-23T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "8e423ef4c0540a8570fadb713e9ad141de4e77a5c02deea08215c090e611358f"
+  },
+  "659d804b7560f774fc6c42068690332d340eb4b749c72fe452ea15c6374b5a44": {
+    "source": "ADEME_Changement climatique",
+    "title": "Animation d'une démarche ClimAgri®",
+    "link": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9449-animation-d-une-demarche-climagriR.html",
+    "description": "ClimAgri ® est à la fois un outil de diagnostic et une démarche d'animation auprès des acteurs sur les enjeux climatiques (en particulier émissions de gaz à effet de serre et stockage de carbone) du secteur agricole, à l'échelle territoriale. Ce guide d'accompagnement à la démarche propose des clés aux experts ClimAgri® pour réaliser une démarche ClimAgri®, sur la base du diagnostic jusqu'au passage à l'action, en passant par l'indispensable mobilisation des acteurs.",
+    "published": "2026-06-22T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "659d804b7560f774fc6c42068690332d340eb4b749c72fe452ea15c6374b5a44"
+  },
+  "7566db8f2f1b9f9821e36e267677e29e3f753ee21cf72dd94526a30b83c37d95": {
+    "source": "ADEME_Changement climatique",
+    "title": "Cartographie participative des refuges climatiques : infographie",
+    "link": "https://librairie.ademe.fr/changement-climatique/9442-cartographie-participative-des-refuges-climatiques-infographie.html",
+    "description": "Ce commun lauréat à l'appel à communs est une cartographie numérique participative, pour que les collectivités et les citoyens puissent identifier, qualifier et rendre visibles les espaces refuges climatiques en ville.",
+    "published": "2026-06-21T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "7566db8f2f1b9f9821e36e267677e29e3f753ee21cf72dd94526a30b83c37d95"
+  },
+  "57de8dfa5fa1978412b397cfc76b965156128d7b9ebec676eb183dcd0b43eb1c": {
+    "source": "ADEME_Changement climatique",
+    "title": "Référentiel par catégorie de produit (RCP) des applicatifs numériques",
+    "link": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9434-referentiel-par-categorie-de-produit-rcp-des-applicatifs-numeriques.html",
+    "description": "Ce référentiel méthodologique pour l’évaluation environnemental fournit la méthode à respecter pour réaliser l’analyse du cycle de vie d’un applicatif numérique.",
+    "published": "2026-06-21T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "57de8dfa5fa1978412b397cfc76b965156128d7b9ebec676eb183dcd0b43eb1c"
+  },
+  "33014a19e19d95857277ad9a761eefbc30780c5af371d7369fb6a47bc91a4d23": {
+    "source": "ADEME_Changement climatique",
+    "title": "La Forge d'Adaptations : infographie",
+    "link": "https://librairie.ademe.fr/changement-climatique/9429-la-forge-d-adaptations-infographie.html",
+    "description": "Du sud au nord, produire et documenter des prototypes de solutions face aux effets du changement climatique. Les nombreux fablabs à travers le monde, en tant que lieux de conception et de fabrication, développent des prototypes pour répondre aux défis locaux soulevés par le changement climatique. Ces prototypes sont souvent méconnus des populations, car ils ne sont pas documentés d’une façon permettant un transfert aisé des connaissances.",
+    "published": "2026-06-21T22:00:00+00:00",
+    "first_seen": "2026-11-08T10:25:49.492777+00:00",
+    "uid": "33014a19e19d95857277ad9a761eefbc30780c5af371d7369fb6a47bc91a4d23"
+  },
+  "5c6aeb2c83aa0306dd9b56670696e159665cbedc072ec0bc378d19d3351548ef": {
+    "source": "Outre-Mer 360°",
+    "title": "Nouvelle-Calédonie : Au Médipôle, une vingtaine de patients opérés du cœur lors d’une mission de chirurgie cardiaque",
+    "link": "https://outremers360.com/bassin-pacifique-appli/nouvelle-caledonie-au-medipole-une-vingtaine-de-patients-operes-du-coeur-lors-dune-mission-de-chirurgie-cardiaque",
+    "description": "Le centre hospitalier a fait venir une équipe de spécialistes des hôpitaux de Paris, dans le cadre d’une mission de deux semaines, pour réaliser aux côtés des soignants du Médipôle des interventions cardiaques habituellement pas pratiquées sur le territoire. Une prise...",
+    "published": "2026-11-08T09:12:57+00:00",
+    "first_seen": "2026-11-08T10:25:48.507489+00:00",
+    "uid": "5c6aeb2c83aa0306dd9b56670696e159665cbedc072ec0bc378d19d3351548ef"
+  },
+  "4e7fee634c23c6795ef8d7bb2ac5880384fe821b9c8bb79a5d91f4459a2558f3": {
+    "source": "Outre-Mer 360°",
+    "title": "Narcotrafic : deux intercepteurs ultra-rapides renforcent la flotte des douanes aux Antilles-Guyane",
+    "link": "https://outremers360.com/bassin-atlantique-appli/narcotrafic-deux-intercepteurs-ultra-rapides-renforcent-la-flotte-des-douanes-aux-antilles-guyane",
+    "description": "Les douanes Antilles-Guyane renforcent leurs moyens de lutte contre le narcotrafic avec deux bateaux intercepteurs ultrarapides commandés l’an dernier et réceptionnés ces jours-ci chez nous. Selon le journal spécialisé Le Marin, ces embarcations très puissantes peuvent...",
+    "published": "2026-11-08T08:52:24+00:00",
+    "first_seen": "2026-11-08T10:25:48.507489+00:00",
+    "uid": "4e7fee634c23c6795ef8d7bb2ac5880384fe821b9c8bb79a5d91f4459a2558f3"
+  },
+  "6265b6398dd65847ee950d4bd5b7a56f37457f1e3d3336511461860778cc7864": {
+    "source": "Outre-Mer 360°",
+    "title": "Tennis : néo-retraité, Gaël Monfils rebondit déjà comme capitaine des Bleus en Coupe Davis",
+    "link": "https://outremers360.com/bassin-atlantique-appli/tennis-neo-retraite-gael-monfils-rebondit-deja-comme-capitaine-des-bleus-en-coupe-davis",
+    "description": "Gaël Monfils n'aura pas longtemps traîné son statut de néo-retraité : l'ex numéro 6 mondial a été nommé samedi capitaine de l'équipe de France de Coupe Davis, quatre jours seulement après l'hommage rendu au showman français en marge du Masters 1000 de Paris.L'annonce,...",
+    "published": "2026-11-08T08:29:47+00:00",
+    "first_seen": "2026-11-08T10:25:48.507489+00:00",
+    "uid": "6265b6398dd65847ee950d4bd5b7a56f37457f1e3d3336511461860778cc7864"
+  },
+  "cddbf8214e5ff1d4a24fd516b31cd37e335b237d6b73e564dddc632c12d7e0e8": {
+    "source": "Outre-Mer 360°",
+    "title": "Histoires et cultures d’Océanie. En Polynésie française, quand un lever d'étoiles devient un jour férié, par Alexandre Juster",
+    "link": "https://outremers360.com/bassin-pacifique-appli/histoires-et-cultures-doceanie-en-polynesie-francaise-quand-un-lever-detoiles-devient-un-jour-ferie-par-alexandre-juster",
+    "description": "À Pape'ete, le 20 novembre prochain, à l'heure où le soleil disparaitra derrière l'île de Mo'orea, un petit groupe d'étoiles se lèvera à l'est. Six ou sept points de lumière serrés comme les pépins d'un fruit de la passion que les Grecs ont dénommés « les Pléiades...",
+    "published": "2026-11-08T07:48:28+00:00",
+    "first_seen": "2026-11-08T10:25:48.507489+00:00",
+    "uid": "cddbf8214e5ff1d4a24fd516b31cd37e335b237d6b73e564dddc632c12d7e0e8"
+  },
+  "b98630348c6e99b4d09779e2dfcbff871e2bce7842293e992a5e634a58ffb016": {
+    "source": "Outre-Mer 360°",
+    "title": "Route du Rhum : Tom Laperche triomphe et signe un record à Pointe-à-Pitre",
+    "link": "https://outremers360.com/bassin-atlantique-appli/route-du-rhum-tom-laperche-triomphe-et-signe-un-record-a-pointe-a-pitre",
+    "description": "Magistral depuis le coup de canon à Saint-Malo, Tom Laperche (SVR Lazartigue) a remporté samedi soir en Guadeloupe la prestigieuse Route du Rhum, dès sa première participation et en un temps record.Le skipper de 29 ans a passé la ligne à Pointe-à-Pitre à 22h31 locales,...",
+    "published": "2026-11-08T07:12:58+00:00",
+    "first_seen": "2026-11-08T10:25:48.507489+00:00",
+    "uid": "b98630348c6e99b4d09779e2dfcbff871e2bce7842293e992a5e634a58ffb016"
+  },
   "2b4daf2d8e6fbe6e1909db7481e524f3230fc5de1fe3584dab966dc432b6f554": {
     "source": "ADEME_Changement climatique",
     "title": "TerriSTORY : infographie",
@@ -9202,221 +9418,5 @@
     "published": "2026-08-26T22:00:00+00:00",
     "first_seen": "2026-10-02T13:08:11.262431+00:00",
     "uid": "0364f72318dbf3822aaadae72d585913ed84ec671a958d9bd0df16f4819aecbb"
-  },
-  "b49591d4a58dc3412a0b9c8f06849aee742fa989626964026bd910ddc4f1d4d3": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Environmental assessment methodology based on Life Cycle Assessment (LCA)",
-    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9511-environmental-assessment-methodology-based-on-life-cycle-assessment-lca.html",
-    "description": "This environmental assessment methodology sets out the steps to be followed when assessing the life cycle of a digital service",
-    "published": "2026-08-05T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "b49591d4a58dc3412a0b9c8f06849aee742fa989626964026bd910ddc4f1d4d3"
-  },
-  "dff730d61244b871d29d6ad74153f62f745d39dfa3fc315e9dafad1dd54d6967": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Demain mon territoire",
-    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9105-demain-mon-territoire-9791029725425.html",
-    "description": "L’urgence environnementale figure parmi les principales sources de préoccupation des Français. À leur échelle, tous œuvrent à faire mieux en matière de protection de l’environnement et préservation des ressources et de la biodiversité. Mais on le sait, sans action volontariste au plus près des territoires, le défi est plus compliqué à relever. Avec ce recueil « Demain mon territoire », l’ADEME et l’OFB souhaitent partager des clés pour que les élus puissent intégrer cette dimension environnementale lors des nouveaux mandats et proposer des actions concrètes pour leur territoire. Chacune des 23 fiches de ce recueil valorise des solutions mises en place dans des communes et intercommunalités de différentes tailles où elles ont donné des résultats. Elles montrent qu’il est possible d’envisager une ville plus sobre en carbone, avec des gains en matière de lien social, de qualité de vie et de dynamisme économique. Ce pari d’un avenir meilleur, nous pouvons tous le tenir. Plus encore, avec vous.",
-    "published": "2026-07-15T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "dff730d61244b871d29d6ad74153f62f745d39dfa3fc315e9dafad1dd54d6967"
-  },
-  "59c70cb3ad44ecfd15d4c7e5be796a73ce9fd060ccf7bbb45434b5a6f9e72601": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Evaluation France 2030 - Innovations technologiques clés pour la décarbonation du secteur de l'énergie",
-    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9483-evaluation-france-2030-innovations-technologiques-cles-pour-la-decarbonation-du-secteur-de-l-energie.html",
-    "description": "En 2021, le gouvernement français lançait le plan d’investissement France 2030, une initiative dotée de 54 milliards d’euros visant à soutenir les technologies innovantes pour renforcer la compétitivité industrielle et technologique du pays, tout en accélérant la transition écologique. Ces investissements visent à répondre aux grands défis de la France – souveraineté, relance industrielle et décarbonation - à travers le développement de technologies innovantes dans des secteurs clés comme l’énergie, la santé, les transports, le spatial et l’agriculture entre autres secteurs. France 2030 consacre un volet important à la décarbonation avec l’objectif d’y flécher 50 % de ses crédits, afin de répondre aux besoins massifs d’investissements nécessaires pour décarboner l’économie française. Ce plan constitue un des leviers stratégiques pour aligner la France avec ses objectifs climatiques nationaux (SNBC 3) et européens (Fit for 55). France 2030 applique également le principe du DNSH (Do No Significant Harm) selon lequel aucune dépense ne doit avoir d’impact négatif significatif sur l’environnement. Plus généralement, France 2030 s’inscrit dans un contexte européen marqué par une attention accrue à la compétitivité des entreprises européennes, dans la lignée des recommandations du rapport Draghi et de la boussole de compétitivité de la Commission européenne. Dans ce cadre, le Comité de surveillance des investissements d’avenir, le Secrétariat général pour l’investissement (SGPI) et l’ADEME ont mandaté le consortium Deloitte Finance et GAC Group pour réaliser une évaluation in itinere du soutien apporté par France 2030 à la production d’énergie décarbonée. Plus précisément, France 2030 étant principalement une politique de soutien à l’off re, il s’agit ici d’évaluer le soutien",
-    "published": "2026-07-08T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "59c70cb3ad44ecfd15d4c7e5be796a73ce9fd060ccf7bbb45434b5a6f9e72601"
-  },
-  "a04cc731a8fc492d1765f2e0ff571525d5b9e9f405c14bca91b0f3ad4f8c8668": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Evaluation France 2030 - Evaluation quantitative des impacts des innovations vertes - étude de faisabilité",
-    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9484-evaluation-france-2030-evaluation-quantitative-des-impacts-des-innovations-vertes-etude-de-faisabilite.html",
-    "description": "La présente étude de faisabilité s’inscrit dans le cadre des travaux d’évaluation du Plan France 2030 en faveur de la décarbonation et de la transition écologique. Elle vise à apprécier les conditions de réalisation d’évaluations quantitatives ex post des aides à l’innovation verte. À partir d’une revue de la littérature académique et institutionnelle, l’étude combine une analyse exploratoire des données disponibles sur les dispositifs des PIA et de France 2030 opérés par l’ADEME, des échanges avec la communauté académique et institutionnelle, ainsi que la réalisation d’un projet pilote visant à documenter les trajectoires d’innovation sur la durée, avec un focus sur les projets de démonstrateurs. Cette démarche éclaire la faisabilité méthodologique d’une quantification des impacts environnementaux des dispositifs de soutien à l’innovation, compte tenu de la longueur des chaînes de causalité et des délais de matérialisation des effets, tout en évaluant l’état, la qualité et les limites des données mobilisables. L’étude met en évidence une richesse des données administratives disponibles, en particulier sur les lauréats et non-lauréats, mais souligne des contraintes en matière d’hétérogénéité, d’historisation et d’appariement avec des sources externes, qui conditionnent la robustesse des analyses causales. Les résultats mettent aussi en évidence les limites des évaluations causales directes des impacts environnementaux finaux, tout en relevant la pertinence d’approches alternatives basées sur la comparaison entre lauréats et non-lauréats, l’analyse des trajectoires d’innovation et l’exploitation d’indicateurs tels que les brevets, sous réserve d’un renforcement de la qualité et de la structuration des données. L’étude propose, en conclusion, le lancement prioritaire de q",
-    "published": "2026-07-08T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "a04cc731a8fc492d1765f2e0ff571525d5b9e9f405c14bca91b0f3ad4f8c8668"
-  },
-  "5b43b36363b0cadf16bb236f0f0b5aa0d980201af31997d6ea5cdbec207eabdf": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Evaluation France 2030 - Evaluation du ciblage du plan France 2030 en faveur de la décarbonation de l'économie",
-    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9485-evaluation-france-2030-evaluation-du-ciblage-du-plan-france-2030-en-faveur-de-la-decarbonation-de-l-economie.html",
-    "description": "En 2021, le gouvernement français lançait le plan d’investissement France 2030, une initiative dotée de 54 milliards d’euros visant à soutenir les technologies innovantes pour renforcer la compétitivité industrielle et technologique du pays, tout en accélérant la transition écologique. Ces investissements visent à répondre aux grands défis de la France – souveraineté, relance industrielle et décarbonation - à travers le développement de technologies innovantes dans des secteurs clés comme l’énergie, la santé, les transports, le spatial et l’agriculture. France 2030 consacre un volet important à la décarbonation de l’économie avec l’objectif d’y allouer 50 % de ses crédits, afin de répondre aux besoins massifs d’investissements nécessaires à la décarbonation de l’économie française. France 2030 applique par ailleurs le principe du DNSH (Do No Significant Harm), selon lequel aucune dépense ne doit avoir d’impact négatif significatif sur les différents axes de la taxonomie européenne. Dans ce cadre, le Comité de surveillance des investissements d’avenir (CSIA), le Secrétariat général pour l’investissement (SGPI) et l’ADEME ont mandaté les bureaux Edater et Icare pour évaluer la contribution du soutien apporté par France 2030 à la décarbonation de l’économie. Une étude de faisabilité de cet exercice transverse a été lancée dans un premier temps, qui se concentre sur la question évaluative principale du ciblage de France 2030 et prépare un futur exercice transverse de caractérisation et quantification des impacts du plan en matière de décarbonation, en lien avec les exercices nationaux de budget vert et de planification écologique. Le présent rapport synthétise donc les premiers travaux de cadrage et d'analyse de faisabilité : 1 - Reconstitution de la logique d’intervention",
-    "published": "2026-07-08T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "5b43b36363b0cadf16bb236f0f0b5aa0d980201af31997d6ea5cdbec207eabdf"
-  },
-  "81fdd74d5a00ccb0bb6586f2b204f5f27d6e63f339f6a5615738914253a01d2f": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Rapport de gestion et de performance 2025",
-    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9312-rapport-de-gestion-et-de-performance-2025.html",
-    "description": "Le rapport de gestion et de performance présente l’exécution budgétaire de l’ADEME, en analysant l’évolution des recettes et des dépenses, en autorisations d’engagement (AE) et en crédits de paiement (CP). Il met en perspective le solde budgétaire et la trésorerie, au regard des performances de l’agence dans le cadre de son contrat d’objectif et de performance avec l’Etat. Le rapport analyse les dépenses selon plusieurs segments budgétaires, notamment : Le budget incitatif, destiné au financement des missions et activités techniques de l’agence, et ayant pour impact direct le développement, l’investissement et l’adoption de comportements plus vertueux, Le budget Fonds vert, fonds d’accélération de la transition écologique dans les territoires, Le budget des ressources externes, qui regroupe les financements issus de partenaires extérieurs, Le budget de moyens, destiné à couvrir les dépenses de fonctionnement de l’agence, Le budget annexe dédié à l’instance de supervision des filières à responsabilité élargie des producteurs - dites filières REP, Les projets financés pour compte de tiers, notamment dans le cadre du plan France 2030, le fonds décarbonation de l’industrie (FDI), le fonds Agriculture et Forêt (MASA), les Grands Projets Industriels de Décarbonation (GPID), et de Soutien à la production d'hydrogène électrolytique renouvelable ou bas-carbone (H2). Structuré en quatre parties, le rapport présente : Une synthèse des faits marquants, des recettes budgétaires, des interventions de l'ADEME, et des crédits de paiement. Les programmes mis en œuvre dans le cadre des interventions de l'ADEME. Les grands agrégats budgétaires et financiers, incluant le solde budgétaire, le solde de trésorerie, et le résultat patrimonial comptable. Les annexes, rassemblant un point sur le",
-    "published": "2026-07-05T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "81fdd74d5a00ccb0bb6586f2b204f5f27d6e63f339f6a5615738914253a01d2f"
-  },
-  "8a239376b1b2bc257e768607a84578bc4de26d9eb197c7b20c85d63035101721": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Scénarisation et modélisation de mesures de sobriété et de post-croissance avec le modèle MatMat",
-    "link": "https://librairie.ademe.fr/changement-climatique/9475-scenarisation-et-modelisation-de-mesures-de-sobriete-et-de-post-croissance-avec-le-modele-matmat.html",
-    "description": "La sobriété s’impose aujourd’hui comme un levier incontournable pour atteindre les objectifs climatiques et environnementaux. Du côté du consommateur, elle renvoie à une modération des usages et des consommations afin de limiter les pressions exercées par la production sur l’environnement. La sobriété constitue également une composante clef d’une transition plus large vers un modèle économique de « post-croissance », cherchant à réinscrire l’économie dans des contraintes environnementales, tout en poursuivant des objectifs de plein-emploi, de qualité de vie, de justice sociale et de réduction des inégalités, indépendamment de la croissance économique. Si la littérature académique propose des évaluations environnementales de mesures de sobriété – notamment à partir de modèles entrées-sorties avec extensions environnementales (EE-MRIO) – celles-ci se concentrent en général sur trois secteurs : alimentation, bâtiments, transports. De même, les caractéristiques du changement structurel d’une économie de post-croissance et les transformations sectorielles nécessaires pour répondre aux besoins individuels et au bien-être restent encore largement à explorer. Le présent projet vise à répondre à deux questions centrales : Quels sont les impacts environnementaux et socio-économiques d’une sobriété étendue à l’ensemble des secteurs d’activité ? Quelles transformations structurelles et économiques (transferts de consommation, de la production et de l’emploi, notamment de l’industrie vers les services) sont associées à une économie de post-croissance ? Nous proposons d’abord une clarification conceptuelle de la sobriété « étendue », envisagée à la fois du point de vue des comportements individuels, des modes de production et de la satisfaction des besoins. Ce travail permet d’établi",
-    "published": "2026-07-05T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "8a239376b1b2bc257e768607a84578bc4de26d9eb197c7b20c85d63035101721"
-  },
-  "3c19ab96a37d5f1b2039fa652837d54e51f14be5bcc82e14b62ebabe32196566": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Recommandations pour la réalisation d'un bilan des émissions de gaz à effet de serre dans les travaux publics",
-    "link": "https://librairie.ademe.fr/changement-climatique/9476-recommandations-pour-la-realisation-d-un-bilan-des-emissions-de-gaz-a-effet-de-serre-dans-les-travaux-publics-9791029727306.html",
-    "description": "Ce guide sectoriel a pour vocation d’accompagner les entreprises de travaux publics dans la réalisation de leur Bilan des Émissions de Gaz à Effet de Serre (BEGES), conformément à la méthodologie de l’ADEME et aux exigences réglementaires en vigueur. Élaboré par la Fédération Nationale des Travaux Publics (FNTP) en partenariat avec l’ADEME, il propose une méthode de calcul des différents postes d’émission prenant en compte les spécificités des métiers des travaux publics. Il apporte des recommandations pratiques pour identifier les postes d’émission, collecter les données d’activité, choisir les facteurs d’émission appropriés, évaluer les incertitudes et construire un plan de transition. Ce guide couvre l’ensemble des émissions directes (catégorie 1), des émissions indirectes liées à l’énergie (catégorie 2) ainsi que des émissions indirectes significatives (catégories 3 à 6), dont la prise en compte est devenue obligatoire dans le cadre du BEGES réglementaire. Conçu comme un document de référence pour la profession, il a pour objectif d’harmoniser les pratiques, de renforcer la robustesse et la qualité des bilans des émissions de gaz à effet de serre et de fournir aux entreprises une méthode fiable, accessible et opérationnelle pour construire et piloter leur stratégie de décarbonation. Cette édition a vocation à évoluer afin d’intégrer les futures évolutions méthodologiques, réglementaires et les retours d’expérience des entreprises de travaux publics.",
-    "published": "2026-07-05T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "3c19ab96a37d5f1b2039fa652837d54e51f14be5bcc82e14b62ebabe32196566"
-  },
-  "8f977ee468981a4f256d34a01bc2234de3a2508e4b549c5db2f4d135e69ba16b": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "ADEME Magazine n°181 juillet 2026",
-    "link": "https://librairie.ademe.fr/changement-climatique/9473-ademe-magazine-n181-juillet-2026.html",
-    "description": "Les épisodes de canicule nous l’ont encore rappelé. Aujourd’hui, le changement climatique est l'un des plus grands défis de notre époque. Pourtant, alors que le consensus scientifique n’a jamais été aussi fort sur la réalité du changement climatique et ses causes, les fake news et les discours de désinformation continuent de circuler massivement, notamment sur les réseaux sociaux et certaines plateformes médiatiques. La désinformation ne se contente pas de semer le doute : elle ralentit les décisions politiques, freine les changements de comportements et compromet les actions nécessaires face à l'urgence climatique. À travers ce magazine, notre objectif est de décrypter les mécanismes de la désinformation climatique, de distinguer les faits des idées reçues et de donner aux lecteurs des clés pour s'informer de manière plus éclairée. Décryptages, témoignages, exemples, le magazine donne la parole à celles et ceux qui luttent contre la désinformation climatique. Journalistes et scientifiques : en première ligne face à la désinformation climatique Alors que la désinformation climatique gagne du terrain, nous sommes partis à la rencontre de journalistes et de scientifiques qui tentent, chacun à leur manière, de rétablir les faits. Audrey Garric du Monde, Christophe Cassou du CNRS, Célia Gautier d’Expertises Climat… entre travail de terrain, vérification des sources et bataille contre les récits trompeurs, ils nous racontent les coulisses d’une information climatique sous pression. À découvrir également dans le magazine : Les mécanismes de la désinformation expliqués Elle n’a rien de nouveau. Elle servait déjà dans l’Antiquité à manipuler l’opinion. Le problème, aujourd’hui, c’est que les fake news se propagent plus vite. Et, quand elles s’attaquent au climat, elles menacent",
-    "published": "2026-07-02T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "8f977ee468981a4f256d34a01bc2234de3a2508e4b549c5db2f4d135e69ba16b"
-  },
-  "35d48cbc70d2c953e2d239a401e4a3fcbe411f0b4a4fab70e40683def1728bf1": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Synthèse d'activité ADEME Guadeloupe 2025",
-    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9456-synthese-d-activite-ademe-guadeloupe-2025.html",
-    "description": "Ce rapport présente les évènements phares et le bilan des actions réalisées par l'ADEME Guadeloupe sur l'année 2025.",
-    "published": "2026-06-25T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "35d48cbc70d2c953e2d239a401e4a3fcbe411f0b4a4fab70e40683def1728bf1"
-  },
-  "3691fb8a445cf192ff7657f9cf79e4a908e74ccc917473de91895fd86aae50fc": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "ACT Biodiversité : méthodologie",
-    "link": "https://librairie.ademe.fr/changement-climatique/9451-act-biodiversite-methodologie.html",
-    "description": "Chaque année, les écosystèmes fournissent des services dont la valeur est estimée à plus de 41 000 milliards d’euros (environ la moitié du PIB mondial) (WEF, 2020) alors même que le nombre total de mammifères sauvages, mesurés en biomasse, a diminué de 82 % par rapport aux données historiques (IPBES, 2019). Prévue dans la Stratégie Nationale Biodiversité adoptée en 2023, l’ADEME et l’OFB ont publié en juin 2026 ACT Biodiversité : une méthodologie d’évaluation de l’efficacité de la stratégie des entreprises en faveur de la biodiversité pour enrayer le déclin de celle-ci. Voici le lien vers les annexes méthodologiques : https://actinitiative.org/fr/act-biodiversity/",
-    "published": "2026-06-23T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "3691fb8a445cf192ff7657f9cf79e4a908e74ccc917473de91895fd86aae50fc"
-  },
-  "d08b5f8d9791b4368de20ab1f73b99ae12f6163098d57ab2c81fd37290a54aff": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "PREFIGS : Préfigurer une transition écologique juste.",
-    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9452-prefigs-prefigurer-une-transition-ecologique-juste.html",
-    "description": "Le projet Prefigs (PRécarité Écologie Futur Imaginaires orGanisations Savoirs) est un programme de recherche-action participative visant à intégrer les expériences de vie précaires dans la construction, par le bas, d’une transition écologique juste, entendue comme une transformation radicale, démocratique et socialement émancipatrice de la société. Pendant deux ans, quatre collectifs socialement mixtes ont enquêté sur des problématiques concrètes (mobilité rurale bas carbone, alimentation durable accessible, habitabilité des quartiers populaires) et conçu des solutions locales (covoiturage, caisse alimentaire, jardins partagés, animations et œuvre collective), soutenues par des partenariats institutionnels. Ces expérimentations ont permis d’explorer les tensions sociales relatives à l’écologie et les manières de les contourner en vue de faire de la transition écologique juste un référentiel d’action publique.",
-    "published": "2026-06-23T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "d08b5f8d9791b4368de20ab1f73b99ae12f6163098d57ab2c81fd37290a54aff"
-  },
-  "4b86980b15bbe6216e81a4f162d55db022c63cb00cd90e620b36425e14dc387f": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Localiser les transitions écologiques, démocratiques et sociales",
-    "link": "https://librairie.ademe.fr/recherche-et-innovation/9425-localiser-les-transitions-ecologiques-democratiques-et-sociales.html",
-    "description": "Le projet TecDem vise à questionner les modalités de localisation des transitions écologiques, démocratiques et sociales au sens d’ancrage dans des lieux et des territoires mais aussi d’actualisation dans des situations concrètes et des contextes sociaux particuliers. Comment les centres sociaux, les acteurs du réemploi et les collectifs citoyens articulent ils aujourd’hui les dimensions écologique, sociale et démocratique dans leurs actions ? Le projet analyse la diffusion des transitions dans des quartiers populaires et dans différents contextes socio-spatiaux de la région Centre-Val de Loire. Une enquête a été menée à l’échelle de la région à deux niveaux. D’abord, avec la fédération régionale des centres sociaux et le réseau régional des acteurs du réemploi et de la réutilisation sur les expériences de groupes qui portent des actions intégrant transition écologique et transitions démocratique et sociale. Ensuite, a été étudié la place des enjeux de justice sociale et environnementale au sein des dispositifs de participation et d’implication citoyenne mis en oeuvre par la Région. Puis deux études de cas territorialisées ont été mises en oeuvre : au sein de Bourges Plus et du PETR Pays Loire Beauce.",
-    "published": "2026-06-21T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "4b86980b15bbe6216e81a4f162d55db022c63cb00cd90e620b36425e14dc387f"
-  },
-  "a11d5420fbfaab5ecfb42d890f02feba3c00a3cb6204a2552427ce7d72892df7": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Pas de vacances pour la vacance : infographie",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9428-pas-de-vacances-pour-la-vacance-infographie.html",
-    "description": "Visualiser la vacance des logements pour mieux valoriser la ressource. La vacance des logements est un levier sous-exploité pour répondre aux besoins de logements.",
-    "published": "2026-06-21T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "a11d5420fbfaab5ecfb42d890f02feba3c00a3cb6204a2552427ce7d72892df7"
-  },
-  "8283fd213e976ec2a7ff5aa541cb31d7200d0dd59938e114216c38da35d8051a": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Bilan mi‑2026 du programme France 2030 – ADEME",
-    "link": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9430-bilan-mi-2026-du-programme-france-2030-ademe-9791029727214.html",
-    "description": "Le présent bilan s’inscrit dans une démarche d’état des lieux à mi - parcours du programme France 2030 pour les AAP op é r és par l ’ ADEME, permettant d ’ appr é cier les premiers r é sultats et dynamiques engag é es. À ce titre, il couvre un périmètre large incluant l’ensemble des dispositifs déployés, qu’ils soient clos, en cours ou encore en instruction, afin de refléter de manière exhaustive l’avancement du programme. Le bilan porte sur les 10 stratégies thématiques opérées par l’ADEME (ville et bâtiment, mobilités, industrie, hydrogène, numérique, bois ‑ for ê t, syst è mes é nerg é tiques, recyclage, eau, produits biosourc é s et carburants durables), traduisant une approche transversale et syst é mique de la transition é cologique. Sur chacune des stratégies un détail est fait suivant ce déroulé : Introduction Objectif de la stratégie – des AAP Chiffres clés – couverture géographique des projets financés Enseignements Zoom sur 2-3 projets pépites À mi - 2026, 4,78 Md € ont é t é engag é s pour accompagner 1 497 projets laur é ats et plus de 1650 entreprises, repr é sentant un budget total de projets de 18,20 Md € , ce qui traduit une mise en œ uvre op é rationnelle à grande é chelle. Les dispositifs interviennent sur l’ensemble du continuum d’innovation, de la R&D à l’industrialisation et au déploiement, avec un objectif de mise sur le marché de solutions bas carbone. La typologie des bénéficiaires démontre que les aides sont accessibles à toutes les tailles d’entreprises et couvre l’ensemble du territoire. Ces aides sont majoritairement octroyées à la décarbonation de l’industrie et aux systèmes énergétiques.",
-    "published": "2026-06-21T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "8283fd213e976ec2a7ff5aa541cb31d7200d0dd59938e114216c38da35d8051a"
-  },
-  "f109c39981f8f11199c1c954e9c34953259f37a27b8e715bc325bb10e2e1fa12": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Observatoire des Médias sur l'Écologie : infographie",
-    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9432-observatoire-des-medias-sur-l-ecologie-infographie.html",
-    "description": "Le faible traitement médiatique de la crise écologique induit un faible taux d’information des Français (seulement 11 % d’entre eux se déclarent tout à fait informés sur la crise écologique).",
-    "published": "2026-06-21T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "f109c39981f8f11199c1c954e9c34953259f37a27b8e715bc325bb10e2e1fa12"
-  },
-  "f5cbcddcdaaff20615b9363a5a2dde19a9abb4a964f67b03d16e0d07e240da4d": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Entreprenariat coopératif territorial, 3 ans de recherche",
-    "link": "https://librairie.ademe.fr/recherche-et-innovation/9433-entreprenariat-cooperatif-territorial-3-ans-de-recherche.html",
-    "description": "L’Entrepreneuriat Coopératif Territorial (ECT) est au centre d’un programme de recherche piloté par Clus’Ter Jura avec le laboratoire Ruralités de l’université de Poitiers. Ce concept vise à répondre à un enjeu majeur de développement local : créer de nouvelles activités supports d’emplois, dans des territoires ruraux où les opportunités économiques sont limitées. Après plusieurs années de recherche, une thèse CIFRE puis un programme de recherche et développement, mené de 2023 à 2025, ont permis d’analyser les conditions de réussite de cette forme d’entrepreneuriat fondée sur la coopération territoriale. L’objectif principal du projet était d’identifier les freins au développement de l’ECT et de mettre en évidence les facteurs favorisant son émergence, son accompagnement et son financement. Sept terrains d’étude ont été observés afin de comprendre comment des acteurs publics, privés, associatifs et citoyens peuvent construire collectivement des réponses à des besoins territoriaux. Les travaux montrent que l’ECT ne repose pas sur l’initiative d’un entrepreneur isolé mais sur des cadres collectifs permettant d’identifier, de qualifier et de légitimer des besoins partagés. L’émergence des projets dépend fortement de la qualité du dialogue entre les acteurs du territoire et de leur capacité à expérimenter ensemble. La recherche souligne également que les méthodes classiques d’accompagnement entrepreneurial sont insuffisantes. Les accompagnateurs doivent jouer un rôle d’animation territoriale, de facilitation de la coopération et de développement des compétences collectives. Les résultats mettent aussi en évidence la création d’une valeur multiple – économique, sociale et environnementale – souvent mal reconnue par les dispositifs traditionnels de financement. Les projets d’",
-    "published": "2026-06-21T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "f5cbcddcdaaff20615b9363a5a2dde19a9abb4a964f67b03d16e0d07e240da4d"
-  },
-  "1a7b81d3cd0026a87d963b2d64f22626a183257313f0edd231eda7889a74f0cd": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Feuille de route 2026 de l'Observatoire national du réemploi et de la réutilisation",
-    "link": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9435-feuille-de-route-2026-de-l-observatoire-national-du-reemploi-et-de-la-reutilisation.html",
-    "description": "L'ADEME présente à travers ce document, la feuille de route 2026 de l'Observatoire national du réemploi-réutilisation des produits et emballages soumis au principe de responsabilité élargie du producteur (REP). Pour ces filières REP, des objectifs de réemploi et de réutilisation sont fixés dans les cahiers des charges d'agrément des éco-organismes et systèmes individuels. Cet Observatoire est prévu par la Loi Anti-gaspillage pour une économie circulaire et la Loi Climat et résilience.",
-    "published": "2026-06-21T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "1a7b81d3cd0026a87d963b2d64f22626a183257313f0edd231eda7889a74f0cd"
-  },
-  "45037249b1eac83a47d336979ae80cdbcb0af144faa8b059f81b66c8232fcc88": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Coloc'auto : infographie",
-    "link": "https://librairie.ademe.fr/mobilite-et-transports/9440-coloc-auto-infographie.html",
-    "description": "Ce commun lauréat à l'appel à communs est une application de gestion de l’auto-partage entre voisin·e·s, de la documentation pour faciliter l’animation et l’organisation de collectifs d’auto-partage et un produit d’assurance adapté à la pratique de l’auto-partage proposé par la MACIF. La solution s’adresse particulièrement aux territoires ruraux. Une attention est portée à ce que la solution n’exclue pas des personnes non équipées de téléphones intelligents en permettant la connexion pour autrui. En 2025, le projet est en phase de test auprès de plusieurs collectifs citoyens et alimente en parallèle une étude sur l’impact de la pratique de l’auto-partage entre particuliers.",
-    "published": "2026-06-21T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "45037249b1eac83a47d336979ae80cdbcb0af144faa8b059f81b66c8232fcc88"
-  },
-  "413862b5a8258605533a1cafd958bee0965ae3d47fa0b6b7b1ca2eaa4f1c5f51": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Faire tilt : infographie",
-    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9444-faire-tilt-infographie.html",
-    "description": "Ce commun lauréat à l'appel à communs est une plateforme numérique qui permet de se former en ligne pour progresser en matière de postures et techniques d'animations.",
-    "published": "2026-06-21T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:08:11.262431+00:00",
-    "uid": "413862b5a8258605533a1cafd958bee0965ae3d47fa0b6b7b1ca2eaa4f1c5f51"
-  },
-  "292620eb6118ded3b34027c689c6983c01f76186c7764673e54df3e6c067e122": {
-    "source": "ADEME_Changement climatique",
-    "title": "Réalisation d'un bilan des émissions de gaz à effet de serre dans le secteur nautique",
-    "link": "https://librairie.ademe.fr/changement-climatique/9630-realisation-d-un-bilan-des-emissions-de-gaz-a-effet-de-serre-dans-le-secteur-nautique-9791029727511.html",
-    "description": "Face à l’évolution des exigences réglementaires et à l’accélération des enjeux climatiques, les entreprises de la filière nautique sont amenées à mieux connaître et piloter leurs émissions de gaz à effet de serre. Réaliser un bilan d’émissions de gaz à effet de serre (BEGES-R) constitue une première étape pour comprendre les principaux postes d’émission, identifier les leviers d’action et préparer la transition vers un modèle plus résilient. Ce guide sectoriel a été conçu pour accompagner les professionnels de la filière, qu’ils réalisent leur premier BEGES-R ou souhaitent consolider une démarche déjà engagée. Il s’adresse plus particulièrement aux constructeurs de bateaux, équipementiers nautiques, loueurs maritimes et fluviaux ainsi qu’aux chantiers de maintenance, en proposant une approche adaptée aux spécificités de leurs activités et de leurs enjeux. Illustré par des exemples, des conseils méthodologiques et des points de vigilance, ce document constitue un référentiel commun destiné aux dirigeants, responsables QHSE, bureaux d’études, consultants et partenaires de la filière. Cette première édition a vocation à s’enrichir au fil des retours d’expérience, des évolutions réglementaires et des contributions des acteurs de la filière, afin d’accompagner durablement la montée en compétence collective sur les enjeux de décarbonation. Initié par la Fédération des Industries Nautiques, ce guide s’inscrit dans une démarche collective visant à accompagner la filière face aux enjeux du changement climatique. S’il fournit les recommandations nécessaires à la réalisation d’un BEGES-R, il a également pour vocation de développer une compréhension plus large des enjeux de transition, d’éclairer les choix stratégiques des entreprises et de favoriser l’émergence d’une culture commu",
-    "published": "2026-09-28T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:05:07.924854+00:00",
-    "uid": "292620eb6118ded3b34027c689c6983c01f76186c7764673e54df3e6c067e122"
-  },
-  "0e022a484fc6215071fb8a780ae8c768fc87e8e32bd63795969ae1029e76f431": {
-    "source": "ADEME_Changement climatique",
-    "title": "Comment partir en vacances en prenant soin de la planète ?",
-    "link": "https://librairie.ademe.fr/consommer-autrement/9617-comment-partir-en-vacances-en-prenant-soin-de-la-planete-.html",
-    "description": "Transport, hébergement, shopping, restauration... l'industrie touristique représente 11 % des émissions de gaz à effet de serre de la France. Pour concilier nos envies d'ailleurs et la préservation de l'environnement, cette infographie explique les impacts d'un voyage, propose des idées pour des vacances plus écologiques et rappelle les bons reflexes à conserver sur place.",
-    "published": "2026-09-24T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:05:07.924854+00:00",
-    "uid": "0e022a484fc6215071fb8a780ae8c768fc87e8e32bd63795969ae1029e76f431"
-  },
-  "d489f97fec939bc183801e9b9ec3650eca5a7f08b605b05408455ecab7ff982f": {
-    "source": "ADEME_Changement climatique",
-    "title": "Structurer l'adaptation territoriale en incertitude profonde : analyse méthodologique de la démarche TACCT",
-    "link": "https://librairie.ademe.fr/changement-climatique/9614-structurer-l-adaptation-territoriale-en-incertitude-profonde-analyse-methodologique-de-la-demarche-tacct.html",
-    "description": "Réalisé dans le cadre de la thèse ADEME Agir pour le climat en incertitude profonde , ce rapport porte sur la démarche TACCT (Trajectoires d’adaptation au changement climatique des territoires), conçue pour accompagner les collectivités territoriales dans l’élaboration de stratégies d’adaptation face au changement climatique. Il vise à expliciter les choix méthodologiques qui structurent cette démarche et à en mettre au jour l’architecture interne. À cette fin, TACCT est appréhendée comme une méthode d’aide à la décision appliquée à l’adaptation territoriale, puis mise en perspective avec le cadre du Decision Making under Deep Uncertainty (DMDU), qui regroupe des approches destinées à organiser la décision publique en situation d’incertitude profonde. L’analyse montre d’abord que TACCT peut être caractérisée comme une méthode d’aide à la décision en incertitude profonde, dont la réponse repose principalement sur une logique de robustesse dynamique fondée sur la construction de trajectoires d’action. Cette spécificité conduit enfin à mettre en évidence la fonction structurante de la notion d’impact dans TACCT : celle-ci contribue à cadrer la situation d’adaptation territoriale au changement climatique, puis à la décomposer en problèmes de décision circonscrits et organisés.",
-    "published": "2026-09-21T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:05:07.924854+00:00",
-    "uid": "d489f97fec939bc183801e9b9ec3650eca5a7f08b605b05408455ecab7ff982f"
-  },
-  "7b7c42de8426d985deab7676484c25e9a4aea080311115e97aa082aa20b8a4af": {
-    "source": "ADEME_Changement climatique",
-    "title": "Acteurs de la gestion des déchets : S'adapter pour faire face au changement climatique",
-    "link": "https://librairie.ademe.fr/changement-climatique/9613-acteurs-de-la-gestion-des-dechets-s-adapter-pour-faire-face-au-changement-climatique-9791029726729.html",
-    "description": "Afin d’accompagner les acteurs de la gestion des déchets à construire leur stratégie d’adaptation au changement climatique, l’association RECORD a développé un guide méthodologique dédié, avec l’accompagnement méthodologique et le soutien financier de l’ADEME, le soutien opérationnel du Citepa et le soutien de la Direction générale des entreprises (DGE). Ce guide a également été construit en s’appuyant sur des retours d’expérience d’entreprises du secteur qui permettent d’enrichir les propos avec des retours terrains. Le premier chapitre rappelle les enjeux clés d’adaptation au changement climatique du secteur des déchets. Le second chapitre présente une méthode en 4 étapes pour déployer une démarche d’adaptation : définir le périmètre technique de sa démarche, identifier les risques climatiques, guider l’élaboration d’une stratégie et d’un plan d’actions, fournir des outils et informations pour évaluer la stratégie dans le temps. Enfin, un troisième chapitre réunit des exemples d’actions concrètes illustrant les différents aléas climatiques à travers des fiches explicatives.",
-    "published": "2026-09-21T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:05:07.924854+00:00",
-    "uid": "7b7c42de8426d985deab7676484c25e9a4aea080311115e97aa082aa20b8a4af"
   }
 }
