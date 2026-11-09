@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T06:35:26.748330+00:00",
+  "generated_at": "2026-11-09T19:51:36.584161+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
   "sites_warning": 2,
-  "new_items": 14,
-  "merged_items": 578,
+  "new_items": 37,
+  "merged_items": 582,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -95,7 +95,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 30,
+      "items": 31,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
@@ -137,7 +137,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 36,
+      "items": 37,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
@@ -185,7 +185,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 264 jours (seuil : 60)"
+        "rien de neuf depuis 265 jours (seuil : 60)"
       ]
     },
     {
@@ -244,7 +244,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 948 jours (seuil : 60)"
+        "rien de neuf depuis 949 jours (seuil : 60)"
       ]
     },
     {
@@ -256,7 +256,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 13,
+      "items": 14,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []

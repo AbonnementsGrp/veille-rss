@@ -1,4 +1,338 @@
 {
+  "bc7c5aa46bdede895de9b170a50e494ddfaee46acc4896c7388d87a7d47c158c": {
+    "source": "ADN Tourisme",
+    "title": "Retour d’expérience : comment l’Office de Tourisme s’est mobilisé pour la venue du Pape Léon XIV ?",
+    "link": "https://www.adn-tourisme.fr/lourdes-pape-leon/",
+    "description": "Gestion des flux, relais d’information, accueil des visiteurs… En septembre 2026, à l’occasion de la venue du pape Léon XIV, l’Office de Tourisme s’est mobilisé aux côtés de la Ville pour mettre son expertise au service de la réussite de l’évènement et de l’accueil des visiteurs sur l’ensemble de la destination.",
+    "published": "2026-11-09T14:40:07+00:00",
+    "first_seen": "2026-11-09T19:51:35.707358+00:00",
+    "uid": "bc7c5aa46bdede895de9b170a50e494ddfaee46acc4896c7388d87a7d47c158c",
+    "description_checked": true
+  },
+  "72e45f7d362086ce857aabd557a2d2b3b4e8a08ba674e25fae06db23067a385a": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "En pleine crise étudiante, un guide de l'enseignement supérieur pour les élus locaux",
+    "link": "https://www.banquedesterritoires.fr/en-plein-crise-etudiante-un-guide-de-lenseignement-superieur-pour-les-elus-locaux",
+    "description": "Intercommunalités de France vient de mettre en ligne une nouvelle édition du \"Guide b.a.-ba de l'enseignement supérieur et de la recherche\" coréalisé avec, entre autres, l'Avuf (Association des villes universitaires de France), France urbaine, Villes de France, Régions de France et France universités.…",
+    "published": "2026-11-09T10:55:29+00:00",
+    "first_seen": "2026-11-09T19:51:23.834393+00:00",
+    "uid": "72e45f7d362086ce857aabd557a2d2b3b4e8a08ba674e25fae06db23067a385a"
+  },
+  "4fe8002ff80dc33ea0b0771da57efaba251e9efb4bbfc86f91af4f176b890028": {
+    "source": "Office français de la biodiversité",
+    "title": "Le troisième appel à projets BESTLIFE2030 est lancé !",
+    "link": "https://ofb.gouv.fr/presse/le-troisieme-appel-a-projets-bestlife2030-est-lance",
+    "description": "Le troisième appel à projets BESTLIFE2030 est lancé ! Océan Indien A la une Activé Ressources associées document Appel à projets n°3 du programme BESTLIFE 2030 PDF - 1.7 Mo Appel à projets n°3 du programme BESTLIFE 2030 Ressources associées liens Des priorités de l’UE en matière de biodiversité à l’action locale : BESTLIFE20… Type de contenu Communiqué de presse Résumé Le programme BESTLIFE2030 ouvre son troisième appel à projets à compter du 7 octobre 2026. Ce mécanisme de petites subventions européennes soutient les acteurs des régions ultrapériphériques de l’Union européenne et des pays et territoires d’outre-mer associés, engagés dans la préservation de la biodiversité. 9,6 millions d’euros restent à attribuer dans le cadre des appels à projets n°3 et n°4.",
+    "published": "2026-11-09T07:05:19+00:00",
+    "first_seen": "2026-11-09T19:51:17.720943+00:00",
+    "uid": "4fe8002ff80dc33ea0b0771da57efaba251e9efb4bbfc86f91af4f176b890028"
+  },
+  "9b07dfc2ee5b1f1ae2bb8aafaa35162e85f1f13db3700bb15042781cfd605a50": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Les Français et le changement climatique. Etat de l'opinion en 2026",
+    "link": "https://librairie.ademe.fr/changement-climatique/9742-les-francais-et-le-changement-climatique-etat-de-l-opinion-en-2026.html",
+    "description": "Depuis 2000, l’ADEME conduit une enquête administrée chaque année auprès d'échantillons représentatifs de la population Française permettant de dresser un tableau l'opinion sur le changement climatique et des évolutions. Chaque année, l’enquête est également réalisée auprès d’un sur-échantillon cible. Cette année il a porté sur les jeunes âgés de 15 à 29 ans. Cette édition 2026 est marquée par un renforcement de la perception des effets du changement climatique au sein de la population Française. Les Français se montrent plus inquiets face à ce phénomène, et sont plus nombreux à avoir observé ses conséquences. Cette expérience s’accompagne d’un pessimiste accru. Ces évolutions s’accompagnent d’une attente à l’égard de l’action publique pour faire face au changement climatique notamment en terme d'adaptation.",
+    "published": "2026-11-08T23:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "9b07dfc2ee5b1f1ae2bb8aafaa35162e85f1f13db3700bb15042781cfd605a50"
+  },
+  "94a73fca6e0f4ca9ad3c036db7a6c424eef8bed338bcd1fe840449da14b42e2a": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Analyse de cycle de vie (ACV) d'un système d'internet par satellite",
+    "link": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9752-analyse-de-cycle-de-vie-acv-d-un-systeme-d-internet-par-satellite.html",
+    "description": "Face à l’essor récent des constellations de satellites en orbite basse (LEO), comptabilisant aujourd’hui plus de 10 millions d’utilisateurs, cette étude vise à combler le manque critique de données environnementales concernant cette technologie. Elle applique une approche d’Analyse du Cycle de Vie (ACV) multicritère, centrée sur quatre éléments de l’infrastructure d’Internet par satellite : le satellite de communication, son lanceur, l’antenne réceptrice (si existante) ainsi que le modem côté utilisateur. Les résultats indiquent que pour le segment spatial (lanceur et satellite), les impacts sont dominés par la fabrication des structures et la production des carburants, la phase de lancement contribuant majoritairement à la déplétion de la couche d’ozone (ODP) et au changement climatique (GWP) via les émissions en haute atmosphère. Pour les équipements utilisateurs (modem et antenne), l’analyse révèle une prépondérance classique de la phase de fabrication des composants électroniques et des matériaux structurants.",
+    "published": "2026-11-08T23:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "94a73fca6e0f4ca9ad3c036db7a6c424eef8bed338bcd1fe840449da14b42e2a"
+  },
+  "3152128342468b95bb0b74168af1432b9df06a9e797fc25801dcef8086adfd06": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Enquête de perception des Français sur les sites et sols pollués",
+    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9631-enquete-de-perception-des-francais-sur-les-sites-et-sols-pollues.html",
+    "description": "La pollution des sols liée aux activités industrielles et de services est au cœur des enjeux de recyclage foncier, de transition écologique et de santé environnementale. Alors que les politiques publiques en la matière se renforcent (loi climat et résilience et directive européenne relative à la surveillance et à la résilience des sols), la manière dont les Français perçoivent ces enjeux restait jusqu'ici peu documentée. Forte de son expérience dans le domaine des sites et sols pollués, l'ADEME, en lien avec les acteurs nationaux du secteur, a confié à l'institut Viavoice la première enquête de perception des Français sur la question de la pollution des sols par des activités industrielles ou de services. Les résultats mettent en évidence une sensibilité environnementale largement partagée et une préoccupation marquée à l'égard de la pollution des sols, dont les activités industrielles sont perçues comme la principale cause. La proximité d'un site pollué renforce systématiquement l'intensité de ces perceptions, sans produire pour autant des effets homogènes : elle peut nourrir l'inquiétude comme conduire à une forme de relativisation des risques. La connaissance des situations locales de pollution demeure toutefois inégale, l'information circulant d'abord par les médias locaux et les échanges de proximité. Une partie des riverains adapte néanmoins ses pratiques quotidiennes face aux risques perçus, souvent en dehors des cadres institutionnels. La confiance se porte d'abord vers les acteurs perçus comme indépendants — scientifiques, professionnels de santé, associations — loin devant les pouvoirs publics et les entreprises responsables des pollutions, tandis que le principe « pollueur-payeur » fait largement consensus pour le financement des actions de dépollution. Ces e",
+    "published": "2026-09-29T22:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "3152128342468b95bb0b74168af1432b9df06a9e797fc25801dcef8086adfd06"
+  },
+  "f9b695a0cec68cd7200df59f46df09a1bc82ddebe5cd65fd710e74aa1ff276bd": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Guide sobriété et collectivités : méthodes, exemples et outils",
+    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9527-guide-sobriete-et-collectivites-methodes-exemples-et-outils.html",
+    "description": "Qu’est-ce que la sobriété ? En quoi est-elle indispensable ? Comment réaliser un état des lieux de la sobriété dans les politiques publiques de la collectivité ? Comment élaborer des actions de sobriété ? Quelle est la place de la mise en récit ? Ce guide méthodologique, résultant du travail mené par l’ADEME, des collectivités pionnières et d’autres acteurs, présente une méthode, des outils et des retours d’expériences pour aider à mettre en place des actions de sobriété dans les collectivités. Ce guide s’adresse prioritairement aux agents des collectivités. Toutefois, tout acteur public ou privé peut trouver dans ce guide des éléments utiles pour engager une démarche de sobriété.",
+    "published": "2026-09-28T22:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "f9b695a0cec68cd7200df59f46df09a1bc82ddebe5cd65fd710e74aa1ff276bd"
+  },
+  "e8bc433a4b09db663d242cdebc534c1c7fdb6d3645119de47c45011a49a4fd37": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Réalisation d'un bilan des émissions de gaz à effet de serre dans le secteur nautique",
+    "link": "https://librairie.ademe.fr/changement-climatique/9630-realisation-d-un-bilan-des-emissions-de-gaz-a-effet-de-serre-dans-le-secteur-nautique-9791029727511.html",
+    "description": "Face à l’évolution des exigences réglementaires et à l’accélération des enjeux climatiques, les entreprises de la filière nautique sont amenées à mieux connaître et piloter leurs émissions de gaz à effet de serre. Réaliser un bilan d’émissions de gaz à effet de serre (BEGES-R) constitue une première étape pour comprendre les principaux postes d’émission, identifier les leviers d’action et préparer la transition vers un modèle plus résilient. Ce guide sectoriel a été conçu pour accompagner les professionnels de la filière, qu’ils réalisent leur premier BEGES-R ou souhaitent consolider une démarche déjà engagée. Il s’adresse plus particulièrement aux constructeurs de bateaux, équipementiers nautiques, loueurs maritimes et fluviaux ainsi qu’aux chantiers de maintenance, en proposant une approche adaptée aux spécificités de leurs activités et de leurs enjeux. Illustré par des exemples, des conseils méthodologiques et des points de vigilance, ce document constitue un référentiel commun destiné aux dirigeants, responsables QHSE, bureaux d’études, consultants et partenaires de la filière. Cette première édition a vocation à s’enrichir au fil des retours d’expérience, des évolutions réglementaires et des contributions des acteurs de la filière, afin d’accompagner durablement la montée en compétence collective sur les enjeux de décarbonation. Initié par la Fédération des Industries Nautiques, ce guide s’inscrit dans une démarche collective visant à accompagner la filière face aux enjeux du changement climatique. S’il fournit les recommandations nécessaires à la réalisation d’un BEGES-R, il a également pour vocation de développer une compréhension plus large des enjeux de transition, d’éclairer les choix stratégiques des entreprises et de favoriser l’émergence d’une culture commu",
+    "published": "2026-09-28T22:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "e8bc433a4b09db663d242cdebc534c1c7fdb6d3645119de47c45011a49a4fd37"
+  },
+  "11da4bb4955e44777ea2aa42b07d165514561d3df5d0e08f6ebe545dede16d4c": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Panorama du réemploi et de la réutilisation en France - Actualisation 2024",
+    "link": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9552-panorama-du-reemploi-et-de-la-reutilisation-en-france-actualisation-2024-9791029727450.html",
+    "description": "Le panorama du réemploi dresse un état des lieux qualitatif et quantitatif des filières de réemploi et réutilisation pour l’année 2024 . Il apporte également une analyse de leurs dynamiques et tendances pour dix-sept typologies de produits, matériaux et emballages regroupées en cinq grands secteurs : les produits de grande consommation et biens d’équipement, les emballages, le bâtiment, l’automobile et les bateaux. L’analyse s’appuie sur quatre indicateurs : les structures, les emplois, les flux et les valeurs de marché. Objectif : suivre l’évolution des filières de réemploi au cours des dernières années et mieux comprendre la diversité des filières et des écosystèmes du réemploi. Des filières à des niveaux de maturité différents Les résultats montrent de fortes différences selon les secteurs et au sein de ces secteurs. Certaines filières de réemploi sont déjà structurées et dynamiques , comme celles des cycles, des véhicules ou des équipements électroniques. D’autres sont encore émergentes et se structurent, notamment dans les secteurs des emballages, des aides techniques, des batteries ou du bâtiment. Un marché du réemploi en progression Dans l’ensemble, l es filières de réemploi se sont fortement développées ces dernières années . Cette dynamique est portée par : un cadre réglementaire renforcé et le déploiement de politiques publiques plus favorables au réemploi (loi AGEC notamment) ; une expansion des marchés de réemploi (volumes, chiffres d’affaires), avec une augmentation des pratiques des ménages , portée par le développement des plateformes numériques (en particulier pour les produits de grande consommation) ; une multiplication des acteurs impliqués et une diversification des modèles économiques ; Cette progression s’accompagne également d’un enjeu croissant p",
+    "published": "2026-09-27T22:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "11da4bb4955e44777ea2aa42b07d165514561d3df5d0e08f6ebe545dede16d4c"
+  },
+  "e656beab79434b22804d363c6c88587a1c878e53b2138144dea1301a970360fb": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Adapter la sobriété aux territoires ultra-marins : enjeux, pratiques et leviers d'action",
+    "link": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9619-adapter-la-sobriete-aux-territoires-ultra-marins-enjeux-pratiques-et-leviers-d-action.html",
+    "description": "Ce rapport et sa synthèse questionne la notion de sobriété, développée par l'ADEME notamment dans son avis \"Vers une économie de la sobriété\", à l'aune de quatre territoires ultramarins français : Guyane, Martinique, Réunion et Guadeloupe. Par leurs spécificités liées à leurs histoires, leurs cultures, les caractéristiques socio-économiques et géographiques, chaque territoire étudié révèle ses particularités et ses rapports avec la notion de sobriété. Après avoir interrogé des entreprises, collectivités, associations, universitaires, l'étude établit des enjeux particuliers et des leviers pour déployer la sobriété sur ces territoires, bien qu'en troisième partie, les travaux montrent que les écosystèmes ultramarins étudiés n'ont pas attendu ce rapport pour expérimenter et lancer des initiatives sobres sur leur territoire respectif.",
+    "published": "2026-09-27T22:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "e656beab79434b22804d363c6c88587a1c878e53b2138144dea1301a970360fb"
+  },
+  "5e516273d19ddfa28fa098516ff86b8e94d27940c15f8aec2e628b1d26401100": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "L'eau, ressource pour la filière hydrogène : état des lieux des enjeux",
+    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9618-l-eau-ressource-pour-la-filiere-hydrogene-etat-des-lieux-des-enjeux.html",
+    "description": "Cet état des lieux analyse l'importance stratégique de la ressource en eau comme composante essentielle de la production d'hydrogène. Il apporte des éléments sur : les besoins en eau des technologies existantes en distinguant les prélèvements bruts de la consommation nette (rejets déduits) ; les principaux postes de consommations et les leviers pour les limiter ; les éléments à prendre en compte pour évaluer la criticité de la ressource en eau à l’échelle du projet ou de territoires.",
+    "published": "2026-09-24T22:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "5e516273d19ddfa28fa098516ff86b8e94d27940c15f8aec2e628b1d26401100"
+  },
+  "9b44728e6d1fad859491abac89509c4f8620e0d3fe43b5ca7faefd1198ae35c6": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Présentation des offres ADEME à destination des collectivités en Centre-Val de Loire",
+    "link": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9610-presentation-des-offres-ademe-a-destination-des-collectivites-en-centre-val-de-loire.html",
+    "description": "Présentation des offres ADEME dédiées aux collectivités",
+    "published": "2026-09-21T22:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "9b44728e6d1fad859491abac89509c4f8620e0d3fe43b5ca7faefd1198ae35c6"
+  },
+  "6687e0a43de85a73b95bc76ac8e609bc7e90c48755467206952e24a8cbfd50a9": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Politiques de sobriété en Europe : où en est-on ?",
+    "link": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9611-politiques-de-sobriete-en-europe-ou-en-est-on-.html",
+    "description": "La sobriété apparaît aujourd’hui comme une nécessité stratégique pour l’Union européenne dans un contexte de tensions accrues autour des ressources naturelles et de l’énergie et face aux conséquences majeures des bouleversements climatiques qui impactent les territoires. Cette note décrypte à la fois la stratégie actuelle de l’Union Européenne et présente les opportunités pour intégrer la sobriété dans les textes législatifs à venir. Elle présente aussi des exemples d’actions de politiques publiques menées par des membres et non membres d’Energy Cities dans plusieurs domaines : multithématique, bâtiments, urbanisme et aménagement, pratiques de consommation et sensibilisation.",
+    "published": "2026-09-21T22:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "6687e0a43de85a73b95bc76ac8e609bc7e90c48755467206952e24a8cbfd50a9"
+  },
+  "0477b3603f36967a41df3ae0b152f0ce9092f1caba385fdc573440194f3c312e": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Baromètre des transitions : écouter les habitants pour mieux agir",
+    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9612-barometre-des-transitions-ecouter-les-habitants-pour-mieux-agir.html",
+    "description": "Les collectivités définissent des stratégies territoriales et multiplient les actions en faveur de la transition écologique : rénovation énergétique, mobilités alternatives, réduction des déchets, évolution des pratiques alimentaires... Pourtant, l'efficacité de ces dispositifs dépend notamment de leur appropriation par les habitants. Grenoble Alpes Métropole et Grenoble École de Management (GEM), avec le soutien d'Etat via l'ADEME ont créé le Baromètre des transitions. Depuis 2022, ce dispositif inédit a permis d'interroger régulièrement plus de 2000 habitants du territoire pour comprendre leurs pratiques, leurs représentations et leurs capacités à s'engager dans les transitions environnementales. L'objectif : produire des données locales pour éclairer les décisions publiques et adapter les actions aux réalités vécues sur le terrain par les usagers.",
+    "published": "2026-09-21T22:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "0477b3603f36967a41df3ae0b152f0ce9092f1caba385fdc573440194f3c312e"
+  },
+  "be871f835a8bfe413e57c291d62a8259ec531cb38a39987de82884c7eaa81cd5": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Eolien terrestre et Cigogne noire",
+    "link": "https://librairie.ademe.fr/energies/9606-eolien-terrestre-et-cigogne-noire.html",
+    "description": "Cette synthèse bibliographique a été réalisée en appui aux réflexions du groupe de travail national (GT) « Cigogne noire ( Ciconia nigra (L.)) et éolien terrestre » mis en place fin 2025 par les Ministères chargés de la biodiversité, de la prévention des risques et de l’énergie. Elle dresse un état des lieux de la connaissance issue de la littérature scientifique à date et de retours d'expériences sur : la biologie, l'écologie et l'état de conservation en Europe de l'espèce ; ses interactions potentielles avec l'éolien terrestre et impacts pouvant en résulter ; et les pistes de solutions pour y remédier.",
+    "published": "2026-09-20T22:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "be871f835a8bfe413e57c291d62a8259ec531cb38a39987de82884c7eaa81cd5"
+  },
+  "21f9b8a12a34d3df85e38c145c9751d98df1af1520b51919457255c9c317779e": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Synthèse d'activité 2025 ADEME Nouvelle-Calédonie Wallis et Futuna",
+    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9604-synthese-d-activite-2025-ademe-nouvelle-caledonie-wallis-et-futuna.html",
+    "description": "Cette synthèse présente les évènements phares et le bilan des actions réalisées par la Représentation territoriale de l'ADEME en Nouvelle-Calédonie et à Wallis et Futuna en 2025.",
+    "published": "2026-09-17T22:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "21f9b8a12a34d3df85e38c145c9751d98df1af1520b51919457255c9c317779e"
+  },
+  "164d7bf0e2089a62a2d64a158e74d747ac6281668877d4b87773ff2958d65ea5": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Analyse technique et économique de filières industrielles low-tech en Méditerranée occidentale",
+    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9580-analyse-technique-et-economique-de-filieres-industrielles-low-tech-en-mediterranee-occidentale.html",
+    "description": "La Méditerranée est confrontée à des défis climatiques et environnementaux majeurs : réchauffement accéléré, raréfaction des ressources en eau, pollution plastique, dépendance aux énergies fossiles et aux importations. Dans ce contexte, cette étude explore des alternatives industrielles durables à travers des initiatives dites low-tech . Parmi plus de cent projets pouvant entrer dans cette catégorisation d’industrie low-tech, identifiés dans les neuf pays considérés (Algérie, Croatie, Espagne, France, Italie, Malte, Maroc, Slovénie, Tunisie), cette étude analyse six projets emblématiques respectant les principes de durabilité, d’accessibilité et d’utilité sociale et couvrant des secteurs clés comme la gestion de l’eau, l’énergie, le textile, l’agroalimentaire ou la construction. Elle évalue leur capacité à répondre aux enjeux de transition écologique, de résilience territoriale et d’autonomie économique. Les 6 projets sont : APOC - Réutilisation des eaux usées traitées pour l'agriculture dans une démarche low-tech - Tunisie FAREDEIC - Équipements solaires - Analyse technique et économique de filières industrielles low-tech - Maroc FOODTOPIA - Économie de la coopération alimentaire dans une démarche low-tech - Espagne KNOF - Économie circulaire dans une démarche low-tech - Slovénie KSAR TAFILELT - Aménagement urbain dans une démarche low-tech - Algérie VIRGOCOOP - Coopérative citoyenne de production de fibres textiles durables - France",
+    "published": "2026-09-15T22:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "164d7bf0e2089a62a2d64a158e74d747ac6281668877d4b87773ff2958d65ea5"
+  },
+  "4974b7843d947e90817deaf09a3e7920c321a1e9250929aedb141a760f1a23fa": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Les agriculteurs et le changement climatique",
+    "link": "https://librairie.ademe.fr/changement-climatique/9070-les-agriculteurs-et-le-changement-climatique.html",
+    "description": "Depuis 2000, l’ADEME conduit une enquête administrée chaque année auprès d'échantillons représentatifs de la population française permettant de dresser un tableau des représentations sociales du changement climatique et de leurs évolutions. L'enquête est également réalisée auprès d’un sur-échantillon cible. Cette année il a porté sur les agriculteurs qui avaient été interrogés en 2017. Les résultats montrent que les attitudes des agriculteurs interrogés dans cette enquête sont assez similaires à celles de la population générale. L’environnement apparait toutefois comme leur priorité numéro un par rapport à d’autres enjeux pour la France (alors qu’il s’agit de la 5ème préoccupation pour les Français). Ils sont par ailleurs plus nombreux à déjà subir les conséquences du changement climatique, en nette augmentation depuis 2017. Les conséquences du changement climatique affectent fortement leur activité et les contraint à de nouvelles stratégies d’adaptation. Ils affirment davantage que le public leur capacité de s’adapter à ses conséquences, bien que cet optimisme recule.",
+    "published": "2026-09-10T22:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "4974b7843d947e90817deaf09a3e7920c321a1e9250929aedb141a760f1a23fa"
+  },
+  "d5de97ab23583a7d2cc1bfa408b490bc15cdaa72f7e5fcb92eca941875fbaac2": {
+    "source": "ADEME_Société et politiques publiques",
+    "title": "Journées Françaises de l'Evaluation 2025 : \"Evaluation et Transition(s)\"",
+    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9500-journees-francaises-de-l-evaluation-2025-evaluation-et-transitions.html",
+    "description": "Organisées tous les deux ans par la Société Française de l’Évaluation (SFE), les Journées Françaises de l’Évaluation réunissent près de 400 participants issus des collectivités, de la recherche, des institutions publiques et du monde de l’évaluation. Cet événement national vise à renforcer la place de l’évaluation dans la décision publique, à valoriser son utilité et à favoriser le partage de pratiques entre acteurs. À travers des conférences, des échanges scientifiques, des témoignages, des visites de terrain et des interventions de personnalités reconnues, les JFE permettent d’explorer les grands enjeux contemporains des politiques publiques, notamment ceux liés aux transitions. Elles contribuent également à lever les freins au développement de l’évaluation, à mieux outiller les collectivités et à rapprocher les acteurs territoriaux et nationaux de la recherche. Les interventions font enfin l’objet d’une valorisation scientifique à travers la publication d’actes, afin de prolonger les réflexions et de laisser un héritage durable.",
+    "published": "2026-09-10T22:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:16.636541+00:00",
+    "uid": "d5de97ab23583a7d2cc1bfa408b490bc15cdaa72f7e5fcb92eca941875fbaac2"
+  },
+  "fe431f18957c3e2d690febbb82f823b4184b31e66dfe9b87fc9e20099b457b28": {
+    "source": "ADEME_Energie",
+    "title": "Remplacement du four à énergie fossile par un four 100 % électrique",
+    "link": "https://librairie.ademe.fr/energies/9749-remplacement-du-four-a-energie-fossile-par-un-four-100-electrique.html",
+    "description": "VERALLIA est le leader Européen de l’emballage en verre pour les boissons et les produits alimentaires. L e groupe a engagé, en 2021, un plan de décarbonation ambitieux pour réduire de 46 % ses émissions de CO2 en 2030. Le verre est obtenu par la fusion de matière première par de l’énergie fossile (gaz et fioul) principalement avant la mise en place des nouvelles technologies. Le four électrique développé pour le verre d’emballage permet une consommation 100 % électrique pour la fusion. VERALLIA France exploite, sur son site de Cognac, des fours verriers conçus pour être chauffés au gaz, au fioul et à l’électricité, destinés à la production de bouteilles en verre. Dans le cadre de son programme ambitieux de réduction de ses émissions de CO2, VERALLIA France a décidé de remplacer l'un de ses fours par un four 100 % électrique. VERALLIA a développé cette technologie avec l’aide d’une société d’ingénierie spécialisée. Il s’agit d’une première en France car ce type de four n’existe pas pour de telles capacités. Cette évolution a modifié de façon radicale les profils de consommation d’énergie et d’émissions de CO2 du site. De fait, la consommation spécifique d’un four électrique est de l'ordre de 38 % inférieure à celle d’un four traditionnel. Le site de Cognac a vu ainsi ses consommations d’énergies fossiles réduites, ce qui impacte directement ses émissions de CO2.",
+    "published": "2026-11-08T23:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:15.982082+00:00",
+    "uid": "fe431f18957c3e2d690febbb82f823b4184b31e66dfe9b87fc9e20099b457b28"
+  },
+  "ba94ba67965f2535f2bac3a3e15ff471afb83d1cbc8c8f58246cf6403e9f7240": {
+    "source": "ADEME_Energie",
+    "title": "Batteries résidentielles - Etat des lieux et enjeux de leur développement chez les particuliers de l'Hexagone",
+    "link": "https://librairie.ademe.fr/energies/9750-batteries-residentielles-etat-des-lieux-et-enjeux-de-leur-developpement-chez-les-particuliers-de-l-hexagone.html",
+    "description": "La croissance du photovoltaïque en autoconsommation installé chez les particuliers est en ralentissement, avec la réduction progressive du soutien public. En parallèle, les batteries lithium-ion stationnaires se sont imposées comme solution économique de stockage dans différents secteurs. Dans ce cadre, la dynamique d’installation de batteries chez les particuliers disposant de photovoltaïque en autoconsommation est en forte hausse depuis fin 2025 dans l’Hexagone, et définit une nouvelle catégorie de développement du stockage de l’énergie, appelée « batteries résidentielles ». La rentabilité d’installer ces batteries semble dorénavant être possible pour le consommateur, avec la chute du prix des batteries lithium-ion et les opportunités de valorisations sur différents marchés et mécanismes. A ce titre, les agrégateurs et fournisseurs d’électricité se positionnent progressivement sur des offres spécifiques auprès des autoconsommateurs avec batterie, pour piloter et optimiser les batteries résidentielles. Même si les batteries résidentielles sont de faible capacité, elles représentent un nombre croissant d’installations et commencent à devenir un gisement de flexibilité. Les entretiens menés par l’ADEME auprès de fabricants, distributeurs, installateurs, fournisseurs, agrégateurs et fédérations, ont permis de répertorier le jeu d’acteurs impliqués dans le développement et la valorisation des batteries résidentielles. Etant donné que leur développement reste récent en France, certains enjeux sont encore naissants, comme la valorisation des batteries sur les mécanismes de marché. D’autres enjeux sont en cours de discussion au sein de la filière, comme la réforme du cadre normatif ou la fiscalité des opérations d’installation de photovoltaïque et de batterie. Enfin, une sous",
+    "published": "2026-11-08T23:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:15.982082+00:00",
+    "uid": "ba94ba67965f2535f2bac3a3e15ff471afb83d1cbc8c8f58246cf6403e9f7240"
+  },
+  "5f905ce66298d5cd2de520fa8bbd9d7c8599de7f3fa746e53f57ad25239615d5": {
+    "source": "ADEME_Energie",
+    "title": "Accompagnement des projets agrivoltaïques - Travaux nationaux",
+    "link": "https://librairie.ademe.fr/energies/9751-accompagnement-des-projets-agrivoltaiques-travaux-nationaux.html",
+    "description": "En 2022, l’ADEME a publié une première étude sur le photovoltaïque en terrains agricoles en proposant une définition de l’agrivoltaïsme, une méthodologie de qualification de ces projets et un guide de recommandations pour la filière et les pouvoirs publics. Depuis, le secteur a continué de se développer avec de nouvelles technologies, l’élaboration de chartes locales ou de guides de bonnes pratiques, et à partir de 2023, la mise en application de textes législatifs et réglementaires. En réponse à ce développement et à la structuration réglementaire du secteur, l’ADEME a souhaité donner suite à cette première étude pour mettre à jour l’état des lieux et opérationnaliser une méthodologie afin de guider la filière vers des projets agrivoltaïques qualitatifs, tenant compte de tous les enjeux et permettant ainsi une meilleure appropriation territoriale. Pour cela, un travail conséquent de collecte et d’analyses de données a été réalisé dans 5 régions (Nouvelle Aquitaine, l’Occitanie, la Provence-Alpes-Côte d’Azur, la Bourgogne Franche-Comté et La Réunion) afin d’éclairer les dynamiques locales du photovoltaïque sur terrains agricoles : voir la page de la librairie ADEME dédiée à ces travaux régionaux. Les présents rapports concernent les travaux nationaux qui s'en sont suivis avec le bilan des 5 panoramas régionaux, la modélisation statistique de ces résultats au territoire national, la synthèse de l'étude complète et une fiche recto-verso illustrant les principaux résultats de cette étude d'envergure. En parallèle, l’étude a produit une méthode d'accompagnement , dénommée méthode PALIER, conçue pour guider les acteurs de l’agrivoltaïsme vers des projets exemplaires. Cette méthode propose une trajectoire de progrès volontaire et un cadre de dialogue bienveillant pour guider",
+    "published": "2026-11-08T23:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:15.982082+00:00",
+    "uid": "5f905ce66298d5cd2de520fa8bbd9d7c8599de7f3fa746e53f57ad25239615d5"
+  },
+  "e29e38865f8808efcf9c17af8823f981ffcf4d71a0941e3ec534a21f6b04d826": {
+    "source": "ADEME_Changement climatique",
+    "title": "Les Français et le changement climatique. Etat de l'opinion en 2026",
+    "link": "https://librairie.ademe.fr/changement-climatique/9742-les-francais-et-le-changement-climatique-etat-de-l-opinion-en-2026.html",
+    "description": "Depuis 2000, l’ADEME conduit une enquête administrée chaque année auprès d'échantillons représentatifs de la population Française permettant de dresser un tableau l'opinion sur le changement climatique et des évolutions. Chaque année, l’enquête est également réalisée auprès d’un sur-échantillon cible. Cette année il a porté sur les jeunes âgés de 15 à 29 ans. Cette édition 2026 est marquée par un renforcement de la perception des effets du changement climatique au sein de la population Française. Les Français se montrent plus inquiets face à ce phénomène, et sont plus nombreux à avoir observé ses conséquences. Cette expérience s’accompagne d’un pessimiste accru. Ces évolutions s’accompagnent d’une attente à l’égard de l’action publique pour faire face au changement climatique notamment en terme d'adaptation.",
+    "published": "2026-11-08T23:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:14.060705+00:00",
+    "uid": "e29e38865f8808efcf9c17af8823f981ffcf4d71a0941e3ec534a21f6b04d826"
+  },
+  "5df5cd3f695aa475a4e4d2de2afa011df5388792a996f66dd6c573d774105347": {
+    "source": "ADEME_Changement climatique",
+    "title": "Comment partir en vacances en prenant soin de la planète ?",
+    "link": "https://librairie.ademe.fr/economie-circulaire-et-dechets/9617-comment-partir-en-vacances-en-prenant-soin-de-la-planete-.html",
+    "description": "Transport, hébergement, shopping, restauration... l'industrie touristique représente 11 % des émissions de gaz à effet de serre de la France. Pour concilier nos envies d'ailleurs et la préservation de l'environnement, cette infographie explique les impacts d'un voyage, propose des idées pour des vacances plus écologiques et rappelle les bons reflexes à conserver sur place.",
+    "published": "2026-09-24T22:00:00+00:00",
+    "first_seen": "2026-11-09T19:51:14.060705+00:00",
+    "uid": "5df5cd3f695aa475a4e4d2de2afa011df5388792a996f66dd6c573d774105347"
+  },
+  "742bec2fd0ad34012dcca2feaa1f739f315858b9c00fcd3c736a70128d1f0971": {
+    "source": "Outre-Mer 360°",
+    "title": "Guadeloupe : Jocelyn Sapotille quitte la présidence de l’Association des maires pour se consacrer aux régionales de 2028",
+    "link": "https://outremers360.com/bassin-atlantique-appli/guadeloupe-jocelyn-sapotille-quitte-la-presidence-de-lassociation-des-maires-pour-se-consacrer-aux-regionales-de-2028",
+    "description": "Après six années à la tête de l’Association des maires de Guadeloupe, Jocelyn Sapotille ne sollicitera pas de nouveau mandat. Le maire de Lamentin assume un choix politique : il veut désormais se consacrer pleinement à la préparation des élections régionales de 2028....",
+    "published": "2026-11-09T16:27:16+00:00",
+    "first_seen": "2026-11-09T19:51:12.801157+00:00",
+    "uid": "742bec2fd0ad34012dcca2feaa1f739f315858b9c00fcd3c736a70128d1f0971"
+  },
+  "2f3d95a9cb595f77a6857fa091d4b868175ae70fabaac1cb61fdf03cc1d75d2b": {
+    "source": "Outre-Mer 360°",
+    "title": "Les entreprises réunionnaises Torskal et Laboratoire Bourbon invitées au Global Passport de J.P. Morgan à New York",
+    "link": "https://outremers360.com/bassin-atlantique-appli/les-entreprises-reunionnaises-torskal-et-laboratoire-bourbon-invitees-au-global-passport-de-j-p-morgan-a-new-york",
+    "description": "Les deux entreprises réunionnaises, co-sponsors de l'étude clinique SOLAR 001 soutenue par l'Union européenne et la Région Réunion, ont pris part au Global Passport de J.P. Morgan à New York. Représentées par Anne-Laure Morel (CEO) et Rafael Alva (CFO), elles préparent...",
+    "published": "2026-11-09T16:06:12+00:00",
+    "first_seen": "2026-11-09T19:51:12.801157+00:00",
+    "uid": "2f3d95a9cb595f77a6857fa091d4b868175ae70fabaac1cb61fdf03cc1d75d2b"
+  },
+  "e87dedb31d11cbb182ee69ee78d769473a777e487d8d86183602911306398579": {
+    "source": "Outre-Mer 360°",
+    "title": "La COP31 s'ouvre avec un appel à « se montrer à la hauteur » face à l'urgence climatique",
+    "link": "https://outremers360.com/bassin-atlantique-appli/la-cop31-souvre-avec-un-appel-a-se-montrer-a-la-hauteur-face-a-lurgence-climatique",
+    "description": "La conférence annuelle sur le climat COP31 a débuté lundi en Turquie avec de premiers contentieux sur l'argent à débourser face au changement climatique, le chef de l'ONU exhortant les Etats à se montrer à la hauteur après une année marquée par des inondations et...",
+    "published": "2026-11-09T16:03:48+00:00",
+    "first_seen": "2026-11-09T19:51:12.801157+00:00",
+    "uid": "e87dedb31d11cbb182ee69ee78d769473a777e487d8d86183602911306398579"
+  },
+  "92cb215c30c073150c9f93856c8be4b2d55edf69bdf493d778030f2545a2f7ee": {
+    "source": "Outre-Mer 360°",
+    "title": "Vie chère : Défendue par Christian Baptiste, la PPL sur « la transparence des prix » en Outre-mer arrive à l'Assemblée nationale",
+    "link": "https://outremers360.com/bassin-atlantique-appli/vie-chere-defendue-par-christian-baptiste-la-ppl-sur-la-transparence-des-prix-en-outre-mer-arrive-a-lassemblee-nationale",
+    "description": "Adoptée en mars dernier au Sénat, la proposition de loi visant à lutter contre la vie chère en renforçant le droit de la concurrence et de la régulation économique outre-mer sera débattue à l'Assemblée nationale le 19 novembre prochain, lors de la niche parlementaire...",
+    "published": "2026-11-09T14:11:14+00:00",
+    "first_seen": "2026-11-09T19:51:12.801157+00:00",
+    "uid": "92cb215c30c073150c9f93856c8be4b2d55edf69bdf493d778030f2545a2f7ee"
+  },
+  "cd010fa02b27637062ea20258a225937101d71599dae3629d0009c66c651c1cf": {
+    "source": "Outre-Mer 360°",
+    "title": "Route du Rhum-Destination Guadeloupe 2026 : Le Guadeloupéen Rodolphe Sepho contraint à une escale technique aux Açores",
+    "link": "https://outremers360.com/bassin-atlantique-appli/route-du-rhum-destination-guadeloupe-2026-le-guadeloupeen-rodolphe-sepho-contraint-a-une-escale-technique-aux-acores",
+    "description": "Rodolphe Sepho est contraint de faire escale aux Açores sur la Route du Rhum – Destination Guadeloupe. Le skipper guadeloupéen vient de traverser 48 heures particulièrement difficiles, marquées par une violente dépression, des avaries et une importante fatigue physique....",
+    "published": "2026-11-09T11:32:00+00:00",
+    "first_seen": "2026-11-09T19:51:12.801157+00:00",
+    "uid": "cd010fa02b27637062ea20258a225937101d71599dae3629d0009c66c651c1cf"
+  },
+  "71e2ac9e578da6ea11a0f7a8daf7cc44db30aa00e9c37a8c84580d7d04d9e2fe": {
+    "source": "Outre-Mer 360°",
+    "title": "France : le champion de judo Teddy Riner annonce sa candidature à l'élection présidentielle",
+    "link": "https://outremers360.com/bassin-atlantique-appli/france-le-champion-de-judo-teddy-riner-annonce-sa-candidature-a-lelection-presidentielle",
+    "description": "Le quintuple champion olympique de judo Teddy Riner, icône du sport français, a annoncé lundi sa candidature à l'élection présidentielle de 2027, dans une vidéo postée sur ses réseaux sociaux.\"Je m'appelle Teddy Riner et, aujourd'hui, je vous le dis les yeux dans les...",
+    "published": "2026-11-09T11:07:24+00:00",
+    "first_seen": "2026-11-09T19:51:12.801157+00:00",
+    "uid": "71e2ac9e578da6ea11a0f7a8daf7cc44db30aa00e9c37a8c84580d7d04d9e2fe"
+  },
+  "73a154b06d901a948261866b26f2c518bcaebfc2f9f6b9fe007facb22e06e48a": {
+    "source": "Outre-Mer 360°",
+    "title": "L'AFD et l'Iris lancent une conférence-débat intitulée « La résilience des Outre-mer : des territoires laboratoires de solutions pour penser le monde de demain» ce lundi",
+    "link": "https://outremers360.com/bassin-atlantique-appli/lafd-et-liris-lancent-une-conference-debat-intitulee-la-resilience-des-outre-mer-des-territoires-laboratoires-de-solutions-pour-penser-le-monde-de-demain-ce-lundi",
+    "description": "Ce lundi 9 novembre 2026, jour d'ouverture de la COP31, l'Agence française de développement (AFD) et l'Institut de relations internationales et stratégiques (Iris) organisent à 18h30, dans les locaux parisiens de l'Iris, une conférence-débat consacrée à la résilience des...",
+    "published": "2026-11-09T10:14:02+00:00",
+    "first_seen": "2026-11-09T19:51:12.801157+00:00",
+    "uid": "73a154b06d901a948261866b26f2c518bcaebfc2f9f6b9fe007facb22e06e48a"
+  },
+  "b3cfad09592647fd046413ba222ac13a23f1092bf26c89e77f40b9933240286f": {
+    "source": "Outre-Mer 360°",
+    "title": "La surfeuse Réunionnaise Johanne Defay remporte sa première série aux World Surfing Games",
+    "link": "https://outremers360.com/bassin-indien-appli/la-surfeuse-reunionnaise-johanne-defay-remporte-sa-premiere-serie-aux-world-surfing-games",
+    "description": "Seule Française en lice dimanche 8 novembre 2026, Johanne Defay a remporté sa série du premier tour des World Surfing Games, disputés à Punta Rocas, au Pérou. La Réunionnaise, médaillée de bronze aux Jeux olympiques de Paris 2024, s'est imposée avec un total de 11,33...",
+    "published": "2026-11-09T09:52:27+00:00",
+    "first_seen": "2026-11-09T19:51:12.801157+00:00",
+    "uid": "b3cfad09592647fd046413ba222ac13a23f1092bf26c89e77f40b9933240286f"
+  },
+  "14b7d4194051b5b1f07138ee6bd10a750c0269b1fa2023c43735ad0cbc55787e": {
+    "source": "Outre-Mer 360°",
+    "title": "Des plantations aux stands de Coconi, la vanille majorais se raconte, se cultive et se fête durant tout un mois à Mayotte",
+    "link": "https://outremers360.com/bassin-indien-appli/des-plantations-aux-stands-de-coconi-la-vanille-majorais-se-raconte-se-cultive-et-se-fete-durant-tout-un-moisis-a-mayotte",
+    "description": "À Mayotte, la traditionnelle fête de la vanille s’étend cette année sur un mois. L’association Saveurs et Senteurs invite chacun à rencontrer les producteurs, à visiter leurs plantations et à découvrir l’histoire de la vanille avec l’écrivaine réunionnaise...",
+    "published": "2026-11-09T09:34:38+00:00",
+    "first_seen": "2026-11-09T19:51:12.801157+00:00",
+    "uid": "14b7d4194051b5b1f07138ee6bd10a750c0269b1fa2023c43735ad0cbc55787e"
+  },
+  "89060debc7de7cd6c3914c6cf83c846eec6767aae571323035f3011fb56c41fc": {
+    "source": "Outre-Mer 360°",
+    "title": "Aéroport Roland-Garros- La Réunion : trois agents agressés par un passager sans billet, Air Austral ouvre une cellule psychologique",
+    "link": "https://outremers360.com/bassin-atlantique-appli/aeroport-roland-garros-trois-agents-agresses-par-un-passager-sans-billet-air-austral-ouvre-une-cellule-psychologique",
+    "description": "Lundi 9 novembre 2026, à l'aéroport Roland-Garros de La Réunion, un homme sans domicile fixe s'en est pris à trois agents lors de l'enregistrement du vol UU272 à destination de Mayotte, après s'être vu refuser l'embarquement faute de billet. Deux agents de Réunion Air...",
+    "published": "2026-11-09T09:24:59+00:00",
+    "first_seen": "2026-11-09T19:51:12.801157+00:00",
+    "uid": "89060debc7de7cd6c3914c6cf83c846eec6767aae571323035f3011fb56c41fc"
+  },
+  "9dc1ccb52aea600e569a6f9505cbb82aeb3b114d2f9213d88feef01c237dbd09": {
+    "source": "Outre-Mer 360°",
+    "title": "Route du Rhum -Destination Guadeloupe: Thomas Coville 2eme et Louis Burton 3eme sur le podium après un duel haletant",
+    "link": "https://outremers360.com/bassin-atlantique-appli/route-du-rhum-destination-guadeloupe-thomas-coville-2eme-et-louis-burton-3eme-sur-le-podium-apres-un-duel-haletant",
+    "description": "Diminué par la casse de ses foils sur le tracé, Thomas Coville (Sodebo) a tenu jusqu'au bout pour conserver dimanche sa deuxième place à l'arrivée de la Route du Rhum en Guadeloupe, devant le courageux malouin Louis Burton (Armand Thiery).Au lendemain du sacre du jeune Tom...",
+    "published": "2026-11-09T08:25:31+00:00",
+    "first_seen": "2026-11-09T19:51:12.801157+00:00",
+    "uid": "9dc1ccb52aea600e569a6f9505cbb82aeb3b114d2f9213d88feef01c237dbd09"
+  },
+  "5bab78edea103d2c501d28777bf71533764e7dfc353c2c9d172f8de52ee8f28d": {
+    "source": "Outre-Mer 360°",
+    "title": "Le patrimoine historique calédonien prend du relief",
+    "link": "https://outremers360.com/bassin-pacifique-appli/le-patrimoine-historique-caledonien-prend-du-relief",
+    "description": "Depuis fin octobre, la mairie de Nouméa et l’Université de la Nouvelle-Calédonie numérisent en 3D des œuvres réalisées par les forçats du bagne, à la Maison Higginson. Cette première campagne du programme PatrinumNC vise à faciliter l’étude de ces objets fragiles...",
+    "published": "2026-11-09T08:22:07+00:00",
+    "first_seen": "2026-11-09T19:51:12.801157+00:00",
+    "uid": "5bab78edea103d2c501d28777bf71533764e7dfc353c2c9d172f8de52ee8f28d"
+  },
+  "7ae32320584bbb05524dca2a55d92a1a4815dc7308b1bf1cd2d094831b639e97": {
+    "source": "Outre-Mer 360°",
+    "title": "Tourisme, innovation, investissements : Yannick Cadet, président du MEDEF de Polynésie française dessine les nouveaux moteurs de croissance du territoire",
+    "link": "https://outremers360.com/bassin-pacifique-appli/tourisme-innovation-investissements-yannick-cadet-president-du-medef-de-polynesie-francaise-dessine-les-nouveaux-moteurs-de-croissance-de-la-polynesie",
+    "description": "Après la première Rencontre des entrepreneurs de Polynésie (REP), organisée fin octobre à Papeete, Yannick Cadet, président du MEDEF Polynésie française, appelle à repenser le modèle économique du territoire pour retrouver une croissance durable. Dans un entretien...",
+    "published": "2026-11-09T07:50:50+00:00",
+    "first_seen": "2026-11-09T19:51:12.801157+00:00",
+    "uid": "7ae32320584bbb05524dca2a55d92a1a4815dc7308b1bf1cd2d094831b639e97"
+  },
   "2c16bd39a8657e6c35b72e03a6096763142faeb15f794aa14e943b5cab04a2ca": {
     "source": "ANAP - Actualités",
     "title": "Appropriation des usages des services de coordination - Retour d'expériences TSN",
@@ -5770,8 +6104,8 @@
     "source": "Office français de la biodiversité",
     "title": "Situation des écoulements des petits cours d'eau",
     "link": "https://ofb.gouv.fr/actualites/situation-des-ecoulements-des-petits-cours-eau",
-    "description": "Situation des écoulements des petits cours d'eau Chaque mois, l'Office français de la biodiversité publie la carte des écoulements des petits cours d'eau établie grâce au réseau ONDE. Fin septembre, 1 594 cours d'eau sont touchés par des ruptures d'écoulement ou des assecs. La dégradation se poursuit Fin septembre, 1 594 cours d’eau de tête de bassin versant sont concernés par des ruptures d’écoulement ou des assecs. Jamais un nombre aussi élevé de ruptures d’écoulement ou d’assecs n’avait été observé à cette période de l’année. Par ailleurs, la persistance des ruptures d’écoulement et des assecs depuis plus de quatre mois sur les mêmes secteurs constitue une situation inédite depuis le début du suivi. Toutes les régions sont concernées avec les situations les plus critiques situées le long d’un axe allant de la Vendée à la région Grand Est, où la dégradation se poursuit. Une aggravation est également observée en Occitanie et en Auvergne-Rhône-Alpes. Aucune amélioration n’est observée dans les départements déjà les plus touchés fin août, certains connaissant même une nouvelle dégradation. C’est notamment le cas de la Creuse, de l’Aveyron, de la Côte-d’Or, de la Vendée, des Ardennes, de la Charente, de la Loire, de la Loire-Atlantique, de la Haute-Marne et de la Nièvre. Près de la moitié des cours d’eau observés (49,6 %) sont en rupture d’écoulement ou en assec. L’ampleur, la précocité et la persistance de ces phénomènes témoignent d’un niveau de dégradation particulièrement élevé, susceptible d’entraîner des conséquences importantes sur les écosystèmes aquatiques. Le réseau ONDE L'Observatoire national des étiages (ONDE) assure le suivi de l'état des écoulements des petits cours d'eau. Sur l'ensemble de l'Hexagone, environ 3 230 stations réparties dans chaque départemen",
-    "published": "2026-10-13T10:09:01+00:00",
+    "description": "Situation des écoulements des petits cours d'eau Chaque mois, l'Office français de la biodiversité publie la carte des écoulements des petits cours d'eau établie grâce au réseau ONDE. Fin octobre, 880 cours d'eau sont touchés par des ruptures d'écoulement ou des assecs. Une dégradation élevée mais en amélioration par rapport au mois précédent Face à l’ampleur de la situation observée fin septembre et aux conditions hydroclimatiques inhabituelles pour un mois d’octobre, l’OFB a procédé à la mise en place d’une campagne exceptionnelle du 21 au 30 octobre. La prolongation du dispositif vise notamment à documenter techniquement cet épisode, à acquérir de la donnée nécessaire aux gestionnaires de la ressource et à l’appréciation des effets sur les milieux aquatiques. L’acquisition de ces données complémentaires fin octobre met en évidence : Des ruptures d’écoulement ou des assecs sur 880 cours d’eau de tête de bassin versant. Une amélioration des modalités d’écoulement par rapport au pic de fin septembre : la proportion de cours d’eau en rupture d’écoulement ou en assec est désormais de 28 %, contre 49,6 % le mois précédent. Un niveau de dégradation qui reste élevé : le nombre de stations encore touchées fin octobre dépasse celui de fin août 2018 (765) et reste quasi identique à celui relevé fin septembre 2023 (878 sites). Cela souligne l’importance des difficultés encore constatées sur de nombreux cours d’eau, malgré l'avancement de la saison automnale. Les secteurs les plus concernés par des ruptures d’écoulement ou des assecs sont situées principalement le long d’un axe allant de la Charente-Maritime à la région Grand Est. D’autres sont identifiés dans le sud de la Bretagne et le sud-ouest de l’Occitanie. Les départements les plus touchés fin octobre sont la Côte-d'Or, le",
+    "published": "2026-11-09T11:09:01+00:00",
     "first_seen": "2026-10-14T14:31:51.040212+00:00",
     "uid": "33c33bb6a1ccd07dbae41719ec1be55ed4ab65e7160d8f74d5bb30f884b2b696"
   },
@@ -9088,338 +9422,5 @@
     "published": "2026-04-16T22:00:00+00:00",
     "first_seen": "2026-10-02T13:15:58.608173+00:00",
     "uid": "5852aead018cd22679642734b5383de61875c24d9eab57599e9267f1ad3b909d"
-  },
-  "c4a65873916c290eb266fb3ede841a801c34ad0e90fb74621f4993821b578c66": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "Choix alimentaires - Ce que disent les Français",
-    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9306-choix-alimentaires-ce-que-disent-les-francais.html",
-    "description": "Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet alimentation.",
-    "published": "2026-04-16T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "c4a65873916c290eb266fb3ede841a801c34ad0e90fb74621f4993821b578c66"
-  },
-  "2eadc6c888be366274d7b642224287242512af7c99d7725d1032bdbbb69e84f1": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "Un logement plus sobre ? Ce que disent les Français",
-    "link": "https://librairie.ademe.fr/societe-et-politiques-publiques/9305-un-logement-plus-sobre-ce-que-disent-les-francais.html",
-    "description": "Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet logement: superficie, pratiques de chauffage et de la climatisation.",
-    "published": "2026-04-16T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "2eadc6c888be366274d7b642224287242512af7c99d7725d1032bdbbb69e84f1"
-  },
-  "03739dd6be2a1d81ccdff279d3613f111bdad9c98b653629ade4d958995fd5ac": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "Cartographie participative des refuges climatiques",
-    "link": "https://librairie.ademe.fr/changement-climatique/9287-cartographie-participative-des-refuges-climatiques.html",
-    "description": "L'objectif du commun \"cartographie participative des refuges climatiques\" est de développer une méthodologie reproductible et un outil numérique de cartographie participative permettant d'identifier, caractériser et partager les espaces refuges climatiques pratiqués par les habitants en période de forte chaleur. Ce travail s'appuie sur une collaboration interdisciplinaire entre TRIBU, les équipes de CIEU-LISST et du LMDC, ainsi que le Service Transition Ecologique de Toulouse Métropole. Le commun s'inscrit dans une dynamique toulousaine de recherche-action déjà engagée.",
-    "published": "2026-04-09T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "03739dd6be2a1d81ccdff279d3613f111bdad9c98b653629ade4d958995fd5ac"
-  },
-  "5749f08813c746687a4a3f6121572fb9189c8bb96eaf5d23c41399b545a407c7": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "Etude Observatoire des usages et représentations des territoires : \"Transition écologique? entre backslash et urgence d'agir\"",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9171-etude-observatoire-des-usages-et-representations-des-territoires-transition-ecologique-entre-backslash-et-urgence-d-agir.html",
-    "description": "Pour sa 5ème vague de l'observatoire des usages et représentations des territoires, l'Obsoco a cherché à creuser les questions du cadre de vie, de la santé et du changement climatique. L'ADEME, RTE et Paris Aménagement étaient partenaires sur cette étude. Un enquête auto-administrée en ligne (panel Bilendi) a été organisée entre le 31/10/2025 et le 14/11/2025 auprès d'un échantillon de 4000 personnes représentatif de la population de France. Les résultats sont détaillés dans ce document. On peut les résumer de la manière suivante : Le climat n’est plus un débat idéologique ou un enjeu abstrait. C’est une réalité qui reconfigure déjà la vie quotidienne, la santé et les inégalités territoriales. Pour cette raison et contrairement aux discours dominants, les Français ne refusent pas le changement et sont même prêts à accepter des contraintes, si elles sont justes et efficaces.",
-    "published": "2026-03-30T22:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "5749f08813c746687a4a3f6121572fb9189c8bb96eaf5d23c41399b545a407c7"
-  },
-  "684de8dbab04a07f9d109474dad1bde1a5e4b8cec7a8fea14d4e84d096431ea5": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "TRAJECTOIRE 4A : Trajectoire territoriale d'adaptation des collectivités : Adapter - Anticiper - Articuler - Ajuster",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9225-trajectoire-4a-trajectoire-territoriale-d-adaptation-des-collectivites-adapter-anticiper-articuler-ajuster.html",
-    "description": "Lauréat de l’Appel à Projets de Recherche PACT2e de l’ADEME, le projet Trajectoire 4 A (T4A) est une recherche-action qui a une double finalité : aider une collectivité territoriale à concevoir sa propre trajectoire d’adaptation au changement climatique par des actions menées à différentes temporalités, et la guider, par des outils d’aide à la réflexion/décision novateurs, à réévaluer sa stratégie et à réajuster sa planification environnementale et territoriale. T4A est construit autour de méthodes de géoprospective axées sur la modélisation et les simulations, visant à projeter l’aménagement du territoire d’étude sur le temps long et à susciter chez les acteurs locaux de nouvelles réflexions sur les formes d’adaptation au changement climatique appropriées à la diversité de leur contexte géographique. Le territoire de la Communauté d’Agglomération du Pays de Grasse (Alpes-Maritimes, France) a constitué le laboratoire d’expérimentation de cette démarche.",
-    "published": "2026-03-25T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "684de8dbab04a07f9d109474dad1bde1a5e4b8cec7a8fea14d4e84d096431ea5"
-  },
-  "5bdc99f7db566b65fd00584297fc17a24fb4b90d400d4047613f8f01b3f7847b": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "4 outils d'animation sur l'Urbanisme Favorable à la Santé (UFS)",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9196-4-outils-d-animation-sur-l-urbanisme-favorable-a-la-sante-ufs.html",
-    "description": "4 outils sur l'Urbanisme Favorable à la Santé (UFS) pour des projets coconçus. Dans le cadre de l’appel à communs de l’ADEME, l’agence de design Itinéraire Bis et le cabinet Hippocrate Développement ont développé 4 outils d’animation portant sur l’UFS : un poster de sensibilisation, des cartes de projets inspirants (« photolangage »), un kit pour organiser une balade sensible et un jeu de plateaux « générateur d’idées ». Ces outils ont été testés auprès de 150 personnes à travers la France, et dans des configurations variées. Ils sont mis à disposition sur la librairie de l’ADEME, accompagnés de leur mode d’emploi.",
-    "published": "2026-03-24T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "5bdc99f7db566b65fd00584297fc17a24fb4b90d400d4047613f8f01b3f7847b"
-  },
-  "148a1599346c733e160ce05566e37803fe4a978384669d4a522a0f8f1faf2675": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "Quel éclairage public en Guyane ?",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9168-quel-eclairage-public-en-guyane-.html",
-    "description": "L’éclairage public désigne l’ensemble des installations lumineuses destinées à assurer l’éclairage nocturne des espaces publics, tels que les routes, les trottoirs, les parcs ou les parkings. Il constitue un service essentiel au fonctionnement des territoires, en contribuant à la sécurité des déplacements, à la visibilité et au confort des usagers. Au-delà des enjeux économiques, l’éclairage public doit aussi répondre à des enjeux environnementaux, portant notamment sur la maîtrise des consommations d’énergie, la réduction des nuisances lumineuses et l’impact environnemental des équipements d’éclairage. Enfin, dans le contexte spécifique de la Guyane, les enjeux liés à l’éclairage public sont amplifiés par d’autres aspects, tels que la présence de zones isolées non raccordées au réseau électrique, ainsi que des problèmes de fiabilité du réseau, qui est soumis à d’importantes variations de tension.",
-    "published": "2026-03-22T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "148a1599346c733e160ce05566e37803fe4a978384669d4a522a0f8f1faf2675"
-  },
-  "22d85a4106c63fed67419cc1db8b2f30c7bf87001f44e2d4992a3517b0f460e4": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "ARG VIP - Développer un outil d'aide à la décision pour améliorer la prévention RGA et inciter le secteur immobilier à s'adapter",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9158-arg-vip-developper-un-outil-d-aide-a-la-decision-pour-ameliorer-la-prevention-rga-et-inciter-le-secteur-immobilier-a-s-adapter.html",
-    "description": "L’application ARG VIP intègre un catalogue de solutions permettant de réduire les vulnérabilités du bâtiment mis en regard avec la perte de valeur potentielle, à différents horizons temporels.",
-    "published": "2026-03-19T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "22d85a4106c63fed67419cc1db8b2f30c7bf87001f44e2d4992a3517b0f460e4"
-  },
-  "8ea59f10e44007a4da7ca92f32581fd4d12abe636a0a7ed17622427f14148466": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "GEOFEEL - Monitorer votre ouvrage pour mieux le renforcer",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9159-geofeel-monitorer-votre-ouvrage-pour-mieux-le-renforcer.html",
-    "description": "L’objectif du système est de disposer de données pertinentes, fiables et complètes pour choisir le type d’action de renforcement mais aussi pour être alerté d’un danger imminent pour la sécurité des occupants en cas d’évolution rapide de la structure.",
-    "published": "2026-03-19T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "8ea59f10e44007a4da7ca92f32581fd4d12abe636a0a7ed17622427f14148466"
-  },
-  "462fd2934ea5338b6ad1c3387cebc04d609c84f22c20655b39ad922330f5eae8": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "INITIATIVE SECHERESSE - Créer un laboratoire afin de mesurer l'efficacité de solutions prévention/remédiation des sinistres RGA",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9160-initiative-secheresse-creer-un-laboratoire-afin-de-mesurer-l-efficacite-de-solutions-prevention-remediation-des-sinistres-rga.html",
-    "description": "Le projet vise à tester et mesurer l’efficacité in situ de l’ensemble des solutions de prévention et remédiation des sinistres RGA à destination des particuliers, à en définir les conditions optimales de mise en œuvre ainsi que la capacité d’industrialisation.",
-    "published": "2026-03-19T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "462fd2934ea5338b6ad1c3387cebc04d609c84f22c20655b39ad922330f5eae8"
-  },
-  "3fd2cb1c8b0ea051b468aff568403c675b57c43e047292e42ae956b8f8a7f209": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "IRGAK - Développement d'une solution reposant sur l'inhibition du RGA par fixation d'ions potassium",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9161-irgak-developpement-d-une-solution-reposant-sur-l-inhibition-du-rga-par-fixation-d-ions-potassium.html",
-    "description": "L’objectif du projet est le développement d’une solution de traitement de sol à base d’eau et sulfate de potassium dissous, une source de potassium disponible, peu coûteuse, utilisée comme fertilisant en agriculture biologique.",
-    "published": "2026-03-19T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "3fd2cb1c8b0ea051b468aff568403c675b57c43e047292e42ae956b8f8a7f209"
-  },
-  "95c4e9f78a32e7b8b90a1cc8622c5c6e6964d8a8e61db8642cbc872a6657eb50": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "RAM2S - Analyses pour étudier l'impact des infrastructures sur l'environnement, avec des terrains d'expérimentation prévus",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9162-ram2s-analyses-pour-etudier-l-impact-des-infrastructures-sur-l-environnement-avec-des-terrains-d-experimentation-prevus.html",
-    "description": "Devant les défis complexes associant les aspects socio-économiques, environnementaux et techniques, le projet RAM2S (Risques Associés aux Mouvements de Sols et Solutions) vise à approfondir l'analyse de la vulnérabilité des constructions. L’objectif est de cibler les bâtiments à risque tout en élaborant des stratégies appropriées de remédiation et/ou de prévention, permettant ainsi d’anticiper de manière optimale les solutions nécessaires.",
-    "published": "2026-03-19T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "95c4e9f78a32e7b8b90a1cc8622c5c6e6964d8a8e61db8642cbc872a6657eb50"
-  },
-  "50cb2944efaa57fa8b58d41eaa558b5b1fc8b48aeb66edeecdfebd7b71fa9c9a": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "REMED RGA - Développement d'outil d'aide à la décision pour choisir les meilleures solutions de prévention/remédiation du RGA",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9163-remed-rga-developpement-d-outil-d-aide-a-la-decision-pour-choisir-les-meilleures-solutions-de-prevention-remediation-du-rga.html",
-    "description": "Le projet a pour objectif de réduire les dégradations sur les constructions avec des structures/fondations vieillissantes et une multiplication/intensification des sollicitations liées aux variations hydriques du sol support.",
-    "published": "2026-03-19T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "50cb2944efaa57fa8b58d41eaa558b5b1fc8b48aeb66edeecdfebd7b71fa9c9a"
-  },
-  "c5cb24f6c167460ce14f2cb8662ed21cd8da77b1fe2b7fcfef98c4310c5ff682": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "SAFE RGA - Solutions innovantes d'Adaptation du bâti exposé à la sécheresse Face à l'Expansion du phénomène de RGA",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9164-safe-rga-solutions-innovantes-d-adaptation-du-bati-expose-a-la-secheresse-face-a-l-expansion-du-phenomene-de-rga.html",
-    "description": "Le projet vise à développer de nouvelles solutions innovantes pour l’adaptation des maisons exposées au RGA face au sécheresses de plus en plus intenses, longues et récurrentes sous l’effet du changement climatique.",
-    "published": "2026-03-19T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "c5cb24f6c167460ce14f2cb8662ed21cd8da77b1fe2b7fcfef98c4310c5ff682"
-  },
-  "dadeced2ca2606c301c4b41edb6e6dc9f7f075be232d8ba3261f7d5f65be85d5": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "SEHSAR - Surveillance Etendue du niveau d'Humidité des Sols argileux pour l'Adaptation et la Résilience du bâti",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9165-sehsar-surveillance-etendue-du-niveau-d-humidite-des-sols-argileux-pour-l-adaptation-et-la-resilience-du-bati.html",
-    "description": "Le projet SEHSAR a pour objectif de développer un outil de veille et d’anticipation du niveau de la sécheresse des sols argileux en France par la mesure in situ combinée aux algorithmes de l’intelligence artificielle pour une meilleure prise de décision et des applications comme l’humidification automatique et connectée du procédé MACH « MAison Confortée par Humidification ».",
-    "published": "2026-03-19T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "dadeced2ca2606c301c4b41edb6e6dc9f7f075be232d8ba3261f7d5f65be85d5"
-  },
-  "4733f9b15a23b20711cbafdeee0d851f3a420409e1b8bd79ff0102b3d2272527": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "CASSANDRE : CaniculeS, SANté et Densité de REseaux météorologiques sur le territoire grenoblois",
-    "link": "https://librairie.ademe.fr/changement-climatique/9139-cassandre-canicules-sante-et-densite-de-reseaux-meteorologiques-sur-le-territoire-grenoblois.html",
-    "description": "Lauréat de l’Appel à Projets de Recherche PACT2e de l’ADEME, le projet CASSANDRE visait à caractériser les extrêmes de chaleur (îlot de chaleur urbain, vagues de chaleur, canicules) aux échelles spatio-temporelles fines, et leurs impacts sanitaires associés, en particulier sur les populations vulnérables et/ou sensibles, à l’échelle du territoire grenoblois. Il a permis d’ identifier clairement des phénomènes d’ICU dans les villes de Grenoble et d’Echirolles, et notamment dans les centres-villes où le bâti est très dense. En parallèle, plusieurs cartes de vulnérabilité ont été réalisées, prenant notamment en compte des critères d’âge, de revenu et d’isolement. L’analyse croisée des îlots de chaleur urbaine et des indicateurs de vulnérabilité socio-sanitaire n’a pas démontré de corrélation directe : les quartiers favorisés du centre-ville de Grenoble correspondent aux îlots de chaleur les plus intenses, tandis que les quartiers défavorisés, bien que plus vulnérables à la chaleur sur le plan sanitaire, y sont moins exposés du fait de leur moindre densité bâtie.",
-    "published": "2026-03-18T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "4733f9b15a23b20711cbafdeee0d851f3a420409e1b8bd79ff0102b3d2272527"
-  },
-  "021e189ca0de132bb446e63b1ff9121a50bc059d5e6e1ef08a3994d382d0f9dd": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "Utilisation des traits fonctionnels des bactéries et invertébrés pour diagnostiquer les sols contaminés en métaux",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9113-utilisation-des-traits-fonctionnels-des-bacteries-et-invertebres-pour-diagnostiquer-les-sols-contamines-en-metaux.html",
-    "description": "L’outil d’évaluation de l’impact écologique a été conçu à partir d’échantillons prélevés sur des sites pollués de la région Grand Est, fortement marquée par son passé industriel. De nombreuses friches issues d’anciennes activités sidérurgiques présentent des sols contaminés par des éléments traces métalliques, parfois à des concentrations très élevées. L’un des principaux enjeux est d’évaluer l’impact de ces polluants sur le fonctionnement biologique des sols. Les invertébrés et les bactéries jouent un rôle essentiel dans les services écosystémiques tels que la biodiversité, les cycles biogéochimiques et la qualité de l’eau. Leur altération pourrait entraîner une perte significative des fonctions écologiques des sols. L’outil développé repose sur l’analyse de données taxonomiques et fonctionnelles afin d’évaluer l’impact réel de la pollution métallique sur les communautés du sol. Il vise à être opérationnel et utilisable par les gestionnaires de sites pollués et les acteurs territoriaux. Le projet s’inscrit dans un partenariat entre le LIEC et le GISFI, spécialisé dans l’étude et la gestion des friches industrielles. Il intègre également l’étude de l’ADN environnemental, une méthode non invasive permettant d’identifier les organismes du sol avec précision malgré certaines limites techniques. Enfin, trois méthodes d’identification des invertébrés (morphologique, ADN environnemental et ADN de « bulks ») ont été comparées afin d’en présenter les avantages et les limites pour guider les futurs utilisateurs.",
-    "published": "2026-03-11T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "021e189ca0de132bb446e63b1ff9121a50bc059d5e6e1ef08a3994d382d0f9dd"
-  },
-  "4d4bb244d755fff5aeb7645a61ca329d5c4e38b288437ee2f282e2838bb08ddb": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "Impact de traitements par Oxydations chimiques de sols contaminés aux composés aromatiques polycycliques",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9100-impact-de-traitements-par-oxydations-chimiques-de-sols-contamines-aux-composes-aromatiques-polycycliques.html",
-    "description": "Dans un contexte de nombreux sites contaminés par des composés aromatiques polycycliques (CAP) en France et en Europe, le but principal du projet ImOTEP est de mieux appréhender la contamination par les CAP, qui n'est actuellement prise en compte que par le seul suivi des substances réglementaires (16 HAP). Une caractérisation chimique et écotoxicologique des fractions de la contamination, en intégrant la disponibilité de la pollution et l'impact de traitements de remédiation sur la nature de la contamination résiduelle sont nécessaires pour promouvoir une méthodologie de suivi de sites contaminés plus réaliste que celle actuelle. Les objectifs opérationnels du projet ImOTEP sont d’identifier l’implication des fractions de contamination (fractions hydrocarbonées, polaires et macromoléculaires) sur la réponse toxique, l’impact des traitements d’oxydation sur la chimie et la toxicité de la contamination résiduelle, l’effet des traitements d'oxydation sur la mobilisation des composés organiques dans l’eau et la toxicité associée et le mode d'action des composés toxiques. Les résultats obtenus ont confirmé le rôle crucial de la disponibilité de la contamination dans les réponses écotoxiques et dans le transfert de la contamination. En outre, ils ont mis en évidence la formation de CAP-O (cétones aromatiques) lors de l’application de traitement d’oxydation (KMnO4) avec des doses faibles. Les traitements d’oxydation ont également eu pour conséquence une très nette augmentation des transferts en phase aqueuse de CAP et d’éléments métalliques ayant pour conséquence une augmentation de la toxicité des lixiviats vis-à-vis des organismes aquatiques. La démarche utilisée dans le projet ImOTEP a permis de conclure quant à la moindre toxicité de la fraction macromoléculaire comparati",
-    "published": "2026-03-02T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "4d4bb244d755fff5aeb7645a61ca329d5c4e38b288437ee2f282e2838bb08ddb"
-  },
-  "8dad117489da33ba80774d8e8fe7e146a223e4e250e6d3e262be5b5b730033ed": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "Expé Urba SanTé : relever les défis de l'urbanisme favorable à la santé.",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9042-expe-urba-sante-relever-les-defis-de-l-urbanisme-favorable-a-la-sante-9791029726408.html",
-    "description": "L'ADEME et l'Ecolab du CGDD (Ministère de la Transition écologique) ont accompagné entre 2024 et 2025, 8 territoires pour se lancer dans l’Urbanisme Favorable à la Santé (UFS). L’UFS est une démarche dont le fil rouge est l’amélioration de la santé et du bienêtre des usagers. De par ses nombreux co-bénéfices sur la société et l'environnement, elle s’inscrit complètement dans une stratégie de transition écologique. Les sujets abordés par les projets sont tout aussi variés que les villes et villages accueillant ces initiatives. Grâce aux Expé URBA SanTé, les lauréats ont notamment bénéficié d’une dizaine de jours de coaching et de conseils par des experts aux disciplines complémentaires. La volonté d’évaluer les impacts des projets, notamment par la donnée, a été un aspect important du dispositif. Vous trouverez dans ce document le détail des projets des 8 lauréats qui sont allés jusqu’au bout de l’aventure. Les grandes leçons collectives sont aussi abordées au travers de 3 « fiches Défis » et de 5 « fiches Experts ».",
-    "published": "2026-02-09T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "8dad117489da33ba80774d8e8fe7e146a223e4e250e6d3e262be5b5b730033ed"
-  },
-  "ad361f1531661b3205df8f2f1ea02781e7436d44659219445e3b3ef1b32008e0": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "Etablissement d'un fond pédogéochimique urbain et industriel",
-    "link": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9039-etablissement-d-un-fond-pedogeochimique-urbain-et-industriel.html",
-    "description": "Le projet a pour objectif la détermination de fonds pédogéochimiques anthropisés sur le territoire national, en particulier en milieu urbain. Ces référentiels, dont les lignes de base des fonds pédogéochimiques, sont au coeur des démarches de gestion des sites et sols (potentiellement) pollués, en particulier pour mener à bien les diagnostics de sols et valoriser les terres excavées. Pour atteindre cet objectif, les différentes conventions ont entrepris de construire une base de données des analyses de sols urbains (BDSolU), d’y bancariser les résultats d’analyses de divers projets relatifs à des aménagements urbains ou à la détermination de fonds locaux ou régionaux, de mettre au point la méthode de sélection et de traitement statistique et géostatistique propre à déterminer les lignes de base des fonds et les représenter cartographiquement, de développer un outil de restitution des référentiels de fond pédogéochimique obtenus. Et pour cela, Quels référentiels utiliser pour le diagnostic des sols potentiellement pollués ou la recherche d’un site de valorisation de terres excavées ? Quelles informations recueillir ? Comment les conserver et les interpréter pour mettre au point ces références ? A l’échelle nationale, le développement d’une base de données des analyses de sols et la mise au point de la méthode permettant leur traitement sont les réponses apportées à ces questions, pour appuyer les acteurs de l’aménagement, essentiellement en milieu urbain.",
-    "published": "2026-02-05T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "ad361f1531661b3205df8f2f1ea02781e7436d44659219445e3b3ef1b32008e0"
-  },
-  "8d5bf068eb35838112bdb06356b4e50db0fe827141a468237933f95012002b7e": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "Zéro Artificialisation Nette : comprendre et agir",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/8982-zero-artificialisation-nette-comprendre-et-agir.html",
-    "description": "Infographie sur la sobriété foncière et la réhabilitation des friches qui répond aux 3 questions suivantes : Que constate t-on ? Pourquoi agir ? Comment agir",
-    "published": "2026-02-04T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "8d5bf068eb35838112bdb06356b4e50db0fe827141a468237933f95012002b7e"
-  },
-  "883bda4f4575a1ba1dbfc384d960048e30222fbb0cd314ce14b213d2df2ac5fd": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "Evaluer la mutabilité des friches – Outil MUTAFRICHES – Brique numérique interopérable",
-    "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9013-evaluer-la-mutabilite-des-friches-outil-mutafriches-brique-numerique-interoperable.html",
-    "description": "MUTAFRICHES est un outil d’aide à la décision visant à définir les usages potentiels les plus adaptés à une friche donnée. En affichant la mutabilité d’un site en friche, il contribue à la réflexion concernant un projet de reconversion, de manière factuelle et objective, sur la base de caractéristiques (qualitatives ou chiffrées) du site et de son environnement. La brique numérique Mutafriches à été développée sur la base des travaux réalisés par l’ADEME en 2024. Le fichier Excel d’origine, a été transformé en solution numérique, interopérable sur d’autres outils de l’écosystème. Accès à l'outil : https://benefriches.incubateur.ademe.dev/commencer-avec-mutabilite",
-    "published": "2026-01-22T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "883bda4f4575a1ba1dbfc384d960048e30222fbb0cd314ce14b213d2df2ac5fd"
-  },
-  "04d22219d83ecf53f48814c587f9277e4eaec8900a832cfb782aa63f591a7afd": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "Prospective d'évolution des consommations des data centers à court, moyen et long terme de 2024 à 2060",
-    "link": "https://librairie.ademe.fr/energies/8910-prospective-d-evolution-des-consommations-des-data-centers-a-court-moyen-et-long-terme-de-2024-a-2060.html",
-    "description": "Cette étude de l’ADEME répond à 3 objectifs : 1. Dresser l’état des lieux de la consommation électrique actuelle des centres de données en France ; 2. Proposer un modèle prospectif détaillé permettant de modéliser des scénarios d’évolution des consommations des centres de données dans le temps ; 3. Modéliser et analyser 5 scénarios prospectifs jusqu’à 2060 : un scénario tendanciel et 4 scénarios envisageant les 4 chemins possibles de transition écologique. Cette étude a considéré les émissions de gaz à effet de serre engendrées, la pression sur les ressources en eau, l’artificialisation des sols, la concurrence avec les d’autres usages de l’électricité, ou encore les enjeux de souveraineté numérique et distingue les consommations en France des consommations à l’étranger pour un usage français.",
-    "published": "2026-01-05T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "04d22219d83ecf53f48814c587f9277e4eaec8900a832cfb782aa63f591a7afd"
-  },
-  "c6528cf44e2f15454c4a4a77c55851846a0f6d92a202284eb7566923ff2df9af": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "BRASSERIE REGIONALE DE L'OUEST - Amélioration de la performance énergétique, revalorisation matière et consigne",
-    "link": "https://librairie.ademe.fr/economie-circulaire-et-dechets/8942-brasserie-regionale-de-l-ouest-amelioration-de-la-performance-energetique-revalorisation-matiere-et-consigne.html",
-    "description": "Le Brasserie Régionale de l'Ouest, entreprise familiale spécialisée dans la production de bières, initie un projet de développement sur une friche industrielle. Elle réhabilite un site abandonné et met en place un des plus vastes programmes de réemploi des bouteilles en verre en France.",
-    "published": "2025-12-22T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "c6528cf44e2f15454c4a4a77c55851846a0f6d92a202284eb7566923ff2df9af"
-  },
-  "3e09757b54d6e1059f87455d82e5476e29acd242fa7ed76878721082ba039820": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "SOFID ALEGINA - Réhabilitation d'une friche industrielle et investissements productifs pour le recyclage de coquilles d'huîtres",
-    "link": "https://librairie.ademe.fr/industrie-et-production-durable/8916-sofid-alegina-rehabilitation-d-une-friche-industrielle-et-investissements-productifs-pour-le-recyclage-de-coquilles-d-huitres.html",
-    "description": "Le projet en co-portage de SOFID et ALEGINA porte sur la réhabilitation d'une ancienne friche industrielle par SOFID, sur laquelle ALEGINA fabriquera des matériaux et produits innovants à base d'huîtres (produits céramiques, pavés drainants et substrats pour toitures végétalisées).",
-    "published": "2025-12-22T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "3e09757b54d6e1059f87455d82e5476e29acd242fa7ed76878721082ba039820"
-  },
-  "3ad31c3bae27634f38ef5f3354336d35b1721f6c1bd7ef76269b2499935159a2": {
-    "source": "ADEME_Urbanisme, territoires et sols",
-    "title": "BRETAGNE LIN - Modèle innovant de bioéconomie durable pour la création d'une filière d'excellence de lin textile en Bretagne",
-    "link": "https://librairie.ademe.fr/industrie-et-production-durable/8941-bretagne-lin-modele-innovant-de-bioeconomie-durable-pour-la-creation-d-une-filiere-d-excellence-de-lin-textile-en-bretagne.html",
-    "description": "BRETAGNE LIN vise à développer une filière linicole durable et locale en Bretagne, en favorisant les circuits courts et la valorisation du lin textile. Le projet s'appuie sur la réhabilitation d'une friche industrielle.",
-    "published": "2025-12-22T23:00:00+00:00",
-    "first_seen": "2026-10-02T13:15:58.608173+00:00",
-    "uid": "3ad31c3bae27634f38ef5f3354336d35b1721f6c1bd7ef76269b2499935159a2"
-  },
-  "d14dbb5a8d146398cc649aac4905b12b72c18414bf75b95f3b60417facbc67fb": {
-    "source": "CNSA - Actualités",
-    "title": "Le Conseil de la CNSA appelle le Gouvernement à préparer le choc démographique",
-    "link": "https://www.cnsa.fr/actualites/le-conseil-de-la-cnsa-appelle-le-gouvernement-preparer-le-choc-demographique",
-    "description": "À l'approche des arbitrages du Projet de loi de financement de la sécurité sociale (PLFSS) pour 2027, les membres du Conseil de la CNSA appellent le Gouvernement à conforter durablement les moyens de la branche Autonomie. Dans un courrier adressé au Premier ministre, son président, Paul Christophe, défend une politique d'investissement social à la hauteur du vieillissement de la population, des besoins des personnes âgées et des personnes en situation de handicap, et des enjeux d'équité entre les territoires.",
-    "published": "2026-07-09T10:23:10+00:00",
-    "first_seen": "2026-10-02T13:14:36.343768+00:00",
-    "uid": "d14dbb5a8d146398cc649aac4905b12b72c18414bf75b95f3b60417facbc67fb"
-  },
-  "dc485203250fcebce7949c74aabaac1e56f48840ef148e8f7d4ef693b0675a37": {
-    "source": "CNSA - Actualités",
-    "title": "Transformation de l’offre handicap : le fonds d’appui accélère le passage à une offre de services coordonnés",
-    "link": "https://www.cnsa.fr/actualites/transformation-de-loffre-handicap-le-fonds-dappui-accelere-le-passage-une-offre-de",
-    "description": "Prévu par la Conférence nationale du handicap de 2023, le fonds d’appui à la transformation de l’offre pour les personnes en situation de handicap poursuit son déploiement en 2026. Pensé comme un levier d’ingénierie, et d’investissement immobilier, il accompagne dans les territoires le passage d’une logique de places à une logique de services coordonnés, plus souple, plus lisible et davantage centrée sur les besoins et les choix de vie des personnes.",
-    "published": "2026-07-07T08:39:04+00:00",
-    "first_seen": "2026-10-02T13:14:36.343768+00:00",
-    "uid": "dc485203250fcebce7949c74aabaac1e56f48840ef148e8f7d4ef693b0675a37"
-  },
-  "674f38a6c5156c2d135a6b5214d5025316d9b2d5c845013e5719b622b5bb8261": {
-    "source": "CNSA - Actualités",
-    "title": "Canicule : la CNSA s’associe à la plateforme JeVeuxAider.gouv.fr pour mobiliser des bénévoles",
-    "link": "https://www.cnsa.fr/actualites/canicule-la-cnsa-sassocie-la-plateforme-jeveuxaidergouvfr-pour-mobiliser-des-benevoles",
-    "description": "En étroite collaboration avec JeVeuxAider.gouv.fr, la CNSA invite les acteurs de ses réseaux à publier leurs missions de bénévolat afin de renforcer l'accompagnement des personnes âgées et des personnes en situation de handicap, particulièrement vulnérables durant les fortes chaleurs.",
-    "published": "2026-07-03T06:42:52+00:00",
-    "first_seen": "2026-10-02T13:14:36.343768+00:00",
-    "uid": "674f38a6c5156c2d135a6b5214d5025316d9b2d5c845013e5719b622b5bb8261"
-  },
-  "d983a32d0adeca0e115d68b855bc1ad1ddebaf95159ec95ab68d9a91bff89664": {
-    "source": "CNSA - Actualités",
-    "title": "2025, une année de consolidation de la branche Autonomie",
-    "link": "https://www.cnsa.fr/actualites/2025-une-annee-de-consolidation-de-la-branche-autonomie",
-    "description": "En 2025, la branche Autonomie a franchi une étape décisive dans sa structuration et son ancrage territorial. Face à une population vieillissante, à la hausse continue des demandes adressées aux maisons départementales des personnes handicapées (MDPH) et aux attentes des aidants, l’accès effectif aux droits reste une priorité.",
-    "published": "2026-06-30T08:42:44+00:00",
-    "first_seen": "2026-10-02T13:14:36.343768+00:00",
-    "uid": "d983a32d0adeca0e115d68b855bc1ad1ddebaf95159ec95ab68d9a91bff89664"
-  },
-  "e2dc16eee93f758fca21effe0f50e9426395545327e0016bae8af75e48dfde55": {
-    "source": "CNSA - Actualités",
-    "title": "La CNSA signe deux conventions pour soutenir la formation des professionnels de l’autonomie",
-    "link": "https://www.cnsa.fr/actualites/la-cnsa-signe-deux-conventions-pour-soutenir-la-formation-des-professionnels-de",
-    "description": "La formation des professionnels du secteur de l’autonomie se voit renforcée par deux nouvelles conventions, l’une avec OPCO Santé, l’autre avec Uniformation. Elles visent à soutenir le développement des compétences des professionnels exerçant dans les établissements et services accompagnant les personnes âgées dépendantes et les personnes en situation de handicap.",
-    "published": "2026-06-11T13:37:08+00:00",
-    "first_seen": "2026-10-02T13:14:36.343768+00:00",
-    "uid": "e2dc16eee93f758fca21effe0f50e9426395545327e0016bae8af75e48dfde55"
-  },
-  "1b625a41483a0fb9df80ad09c81b3eb8e9539868b8f754e24d3b8da9df9f302b": {
-    "source": "CNSA - Actualités",
-    "title": "Autisme : La CNSA mobilisée aux côtés de la DITND pour améliorer l’accompagnement des adultes autistes en situation très complexe",
-    "link": "https://www.cnsa.fr/actualites/autisme-la-cnsa-mobilisee-aux-cotes-de-la-ditnd-pour-ameliorer-laccompagnement-des",
-    "description": "En 2024, la CNSA a lancé une étude évaluative des premières unités résidentielles pour adultes autistes en situation très complexe (URTSA) afin de soutenir le déploiement de cette offre spécifique et d’éclairer les travaux de révision de son cahier des charges, conduits par la Délégation interministérielle à la stratégie pour les troubles du neurodéveloppement (DITND).",
-    "published": "2026-06-11T10:24:38+00:00",
-    "first_seen": "2026-10-02T13:14:36.343768+00:00",
-    "uid": "1b625a41483a0fb9df80ad09c81b3eb8e9539868b8f754e24d3b8da9df9f302b"
-  },
-  "bb0f4e9b9c2e618715735419c68b4d8a5d5669d42da1dd1b0d753e9eefe3cdbd": {
-    "source": "CNSA - Actualités",
-    "title": "Publication de l’étude sur la préfiguration des pôles d’appui à la scolarité",
-    "link": "https://www.cnsa.fr/actualites/publication-de-letude-sur-la-prefiguration-des-poles-dappui-la-scolarite",
-    "description": "La CNSA publie l’étude consacrée à l’analyse des pratiques professionnelles mises en œuvre dans les 4 départements engagés dans la phase de préfiguration des pôles d’appui à la scolarité (PAS) : Aisne, Côte-d’Or, Eure-et-Loir et Var.",
-    "published": "2026-06-10T14:00:47+00:00",
-    "first_seen": "2026-10-02T13:14:36.343768+00:00",
-    "uid": "bb0f4e9b9c2e618715735419c68b4d8a5d5669d42da1dd1b0d753e9eefe3cdbd"
-  },
-  "5c732624d8d4256721d793444803705c88fc6441db66b5cb3c14448578eb8cfa": {
-    "source": "CNSA - Actualités",
-    "title": "En 2024, les CMPP ont accompagné plus de 141 000 enfants et adolescents",
-    "link": "https://www.cnsa.fr/actualites/en-2024-les-cmpp-ont-accompagne-plus-de-141-000-enfants-et-adolescents",
-    "description": "Le n° 28 des Repères statistiques présente un bilan de l’activité des 482 centres médico-psychopédagogiques (CMPP) recensés en France en 2024. Si le nombre d’enfants et d’adolescents accompagnés diminue de 2 % par rapport à 2023, dans la continuité du recul progressif observé depuis 2017, cette baisse ne traduit toutefois pas une réduction de l’activité des CMPP.",
-    "published": "2026-06-02T12:51:03+00:00",
-    "first_seen": "2026-10-02T13:14:36.343768+00:00",
-    "uid": "5c732624d8d4256721d793444803705c88fc6441db66b5cb3c14448578eb8cfa"
-  },
-  "9784d04c4412215c7f97cd63536b573dba18280707421cf58b555d5328f51946": {
-    "source": "CNSA - Actualités",
-    "title": "Comptes 2025 : la Cour des comptes certifie la branche Autonomie",
-    "link": "https://www.cnsa.fr/actualites/comptes-2025-la-cour-des-comptes-certifie-la-branche-autonomie",
-    "description": "Réuni le 19 mai, le Conseil de la CNSA a examiné le rapport de certification des comptes 2025 présenté par la Cour des comptes, en présence de ses membres. Les comptes ont ensuite été présentés puis approuvés. La Cour les a certifiés, à l’instar de ceux des branches du régime général de la Sécurité sociale et du Conseil de la protection sociale des travailleurs indépendants. Elle a salué les progrès accomplis par la CNSA dans la sécurisation de ses procédures comptables et financiers. Créée en 2020, la branche Autonomie confirme ainsi la fiabilité croissante de sa gestion.",
-    "published": "2026-05-19T09:56:12+00:00",
-    "first_seen": "2026-10-02T13:14:36.343768+00:00",
-    "uid": "9784d04c4412215c7f97cd63536b573dba18280707421cf58b555d5328f51946"
-  },
-  "e63ccc9b229e20e8b5cb89d0e2b085ecad39f8057730edfe7b02a37818413523": {
-    "source": "CNSA - Actualités",
-    "title": "La CNSA à SantExpo : trois conférences emblématiques à ne pas manquer",
-    "link": "https://www.cnsa.fr/actualites/la-cnsa-santexpo-trois-conferences-emblematiques-ne-pas-manquer",
-    "description": "La Caisse nationale de solidarité pour l’autonomie sera présente au salon SantExpo, organisé du 19 au 21 mai 2026 à Paris Expo Porte de Versailles. À cette occasion, la CNSA participera à trois conférences : les apports du service public de l’autonomie (SPDA) pour faciliter les sorties d’hospitalisation, les enjeux de la donnée avec Data Autonomie, et la réforme tarifaire SERAFIN PH.",
-    "published": "2026-05-18T08:51:22+00:00",
-    "first_seen": "2026-10-02T13:14:36.343768+00:00",
-    "uid": "e63ccc9b229e20e8b5cb89d0e2b085ecad39f8057730edfe7b02a37818413523"
-  },
-  "737d5ed1573196aa68d51224dde15bef659bae23b66defa53f37a5bb4e8fae62": {
-    "source": "CNSA - Actualités",
-    "title": "La CNSA renforce son soutien auprès des fédérations du domicile avec un nouveau programme de conventionnement",
-    "link": "https://www.cnsa.fr/actualites/la-cnsa-renforce-son-soutien-aupres-des-federations-du-domicile-avec-un-nouveau",
-    "description": "En 2026, la CNSA fait évoluer son programme de conventionnement, qu’elle conduit auprès des fédérations et têtes de réseau du secteur du domicile depuis 2008. Dans ce cadre renouvelé, elle a signé en début d’année deux nouvelles conventions d’accompagnement avec la FEHAP et NEXEM.",
-    "published": "2026-04-28T10:00:00+00:00",
-    "first_seen": "2026-10-02T13:14:36.343768+00:00",
-    "uid": "737d5ed1573196aa68d51224dde15bef659bae23b66defa53f37a5bb4e8fae62"
   }
 }
