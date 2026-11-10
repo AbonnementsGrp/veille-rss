@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-10T14:56:19.249206+00:00",
+  "generated_at": "2026-11-10T21:19:14.518470+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
   "sites_warning": 2,
-  "new_items": 30,
-  "merged_items": 573,
+  "new_items": 20,
+  "merged_items": 563,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -95,7 +95,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 31,
+      "items": 19,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
@@ -137,7 +137,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 37,
+      "items": 38,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
@@ -226,7 +226,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 46,
+      "items": 47,
       "feed": "igas.xml",
       "source_feed": "https://igas.gouv.fr/rss.xml",
       "warnings": []

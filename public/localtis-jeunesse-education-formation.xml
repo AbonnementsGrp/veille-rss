@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 09 Nov 2026 10:55:29 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 14:49:46 +0000</lastBuildDate>
+    <item>
+      <title>Quand l'origine sociale et géographique pèse sur la scolarité</title>
+      <link>https://www.banquedesterritoires.fr/quand-lorigine-sociale-et-geographique-pese-sur-la-scolarite</link>
+      <description>Les dernières statistiques de la Depp mettent en avant les facteurs socio-économiques et géographiques des résultats scolaires et de l'orientation des élèves... et démontrent que résultats et orientation ne vont pas toujours de pair.</description>
+      <guid isPermaLink="false">a3f8d29ccec474cec0f8d249acf4db4c6b197484846773cd6dbe28e999e616b4</guid>
+      <pubDate>Tue, 10 Nov 2026 14:49:46 +0000</pubDate>
+    </item>
+    <item>
+      <title>Le Conseil de la famille du HCFEA préconise d'ouvrir le RSA aux 18-25 ans ayant "rompu avec le foyer parental"</title>
+      <link>https://www.banquedesterritoires.fr/le-conseil-de-la-famille-du-hcfea-preconise-douvrir-le-rsa-aux-18-25-ans-ayant-rompu-avec-le-foyer</link>
+      <description>Dans un rapport soulignant les limites du système socio-fiscal français par rapport à la diversité de situations que connaissent les jeunes adultes d'aujourd'hui, le Conseil de la famille du HCFEA formule des propositions pour ouvrir davantage le bénéfice de certaines aides aux jeunes qui en auraient le plus besoin.</description>
+      <guid isPermaLink="false">c56fab39cd7e024b0873a00f7a5774ba4650655ae7348e7c50cae982539e48ac</guid>
+      <pubDate>Tue, 10 Nov 2026 14:35:11 +0000</pubDate>
+    </item>
     <item>
       <title>En pleine crise étudiante, un guide de l'enseignement supérieur pour les élus locaux</title>
       <link>https://www.banquedesterritoires.fr/en-plein-crise-etudiante-un-guide-de-lenseignement-superieur-pour-les-elus-locaux</link>
@@ -260,13 +274,6 @@
       <description>Le Premier ministre Sébastien Lecornu entend répondre aux actuels blocages de lycées en proposant cinq chantiers, dont celui de la rénovation des lycées en lien avec les conseils régionaux. Les premières décisions et les premiers chiffrages des réformes à venir sont attendus d'ici la fin octobre 2026.</description>
       <guid isPermaLink="false">9ff4a71c96b0006d7bd5bea6cadfd8ba1a842a87da764cd43d1f933def6c8edb</guid>
       <pubDate>Mon, 05 Oct 2026 11:51:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>L'Éducation nationale préservée par le projet de loi de finances pour 2027</title>
-      <link>https://www.banquedesterritoires.fr/leducation-nationale-preservee-par-le-projet-de-loi-de-finances-pour-2027</link>
-      <description>Le budget du ministère de l'Éducation nationale inscrit dans le projet de loi de finances pour 2027 présente une légère hausse par rapport à 2026, une quasi-exception dans un climat de forte austérité budgétaire. La baisse du nombre d'élèves par classe et la hausse du nombre d'accompagnants d'élèves en situation de handicap figurent parmi les objectifs du texte.</description>
-      <guid isPermaLink="false">9a144893b59eba947eae0a76631593af1dcc91e4d7caf72c8f062682de4e8d00</guid>
-      <pubDate>Fri, 02 Oct 2026 12:08:18 +0000</pubDate>
     </item>
   </channel>
 </rss>
