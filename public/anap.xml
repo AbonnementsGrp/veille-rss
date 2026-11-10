@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 08 Nov 2026 07:43:05 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 09 Nov 2026 11:09:13 +0000</lastBuildDate>
+    <item>
+      <title>Webinaire : « Les rendez-vous des HProx »</title>
+      <link>https://www.anap.fr/s/article/webinaire-rendez-vous-hprox-hopital-de-proximite</link>
+      <description>Vous êtes professionnel dans un hôpital de proximité (HProx) ? La Fédération Nationale des Etablissements de Santé de Proximité (FNESP) et l’Anap vous proposent une série de webinaires faite pour vous : échanges avec d’autres professionnels, solutions concrètes, conseils d’experts. Un rendez-vous régulier pour obtenir des outils concrets pour développer votre activité.</description>
+      <guid isPermaLink="false">d6dfcfd055e94005f094fdbc97213b8168bbf497a556f1c839156b44548b7f51</guid>
+      <pubDate>Mon, 09 Nov 2026 11:09:13 +0000</pubDate>
+    </item>
+    <item>
+      <title>Webinaire « Repères dimensionnels des établissements sanitaires »</title>
+      <link>https://www.anap.fr/s/article/webinaire-immobilier-reperes-dimensionnels-etablissements-sanitaires</link>
+      <description>Imagerie, services techniques, consultations ou encore soins externes… Vous souhaitez dimensionner au plus juste votre projet immobilier ? Participez à notre webinaire et maîtrisez les 46 repères dimensionnels élaborés par l’Anap et le ministère de la Santé.</description>
+      <guid isPermaLink="false">ad06d4603ecf27a0aa913a36304f3b3f130a90fb01dcc05e03deac0167584da7</guid>
+      <pubDate>Mon, 09 Nov 2026 09:44:18 +0000</pubDate>
+    </item>
     <item>
       <title>Appropriation des usages des services de coordination - Retour d'expériences TSN</title>
       <link>https://www.anap.fr/s/article/numerique-publication-2434</link>
@@ -85,13 +99,6 @@
       <description>Évaluez les besoins surfaciques de votre EHPAD ! Pour maîtriser les bases d’une estimation surfacique et vous inspirer de cas concrets, participez à notre webinaire.</description>
       <guid isPermaLink="false">ea912b2d7b74e067ead91431de6483bafbd07df55a4d305e9f248ce4370ca1ec</guid>
       <pubDate>Thu, 05 Nov 2026 09:46:25 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webinaire « Repères dimensionnels des établissements sanitaires »</title>
-      <link>https://www.anap.fr/s/article/webinaire-immobilier-reperes-dimensionnels-etablissements-sanitaires</link>
-      <description>Imagerie, services techniques, consultations ou encore soins externes… Vous souhaitez dimensionner au plus juste votre projet immobilier ? Participez à notre webinaire et maîtrisez les 46 repères dimensionnels élaborés par l’Anap et le ministère de la Santé.</description>
-      <guid isPermaLink="false">ad06d4603ecf27a0aa913a36304f3b3f130a90fb01dcc05e03deac0167584da7</guid>
-      <pubDate>Thu, 05 Nov 2026 09:40:09 +0000</pubDate>
     </item>
     <item>
       <title>Webconférence - IA en santé : découvrir des usages réels, obtenir des résultats concrets</title>
@@ -269,13 +276,6 @@
       <pubDate>Fri, 16 Oct 2026 15:00:07 +0000</pubDate>
     </item>
     <item>
-      <title>Webinaire : « Les rendez-vous des HProx »</title>
-      <link>https://www.anap.fr/s/article/webinaire-rendez-vous-hprox-hopital-de-proximite</link>
-      <description>Vous êtes professionnel dans un hôpital de proximité (HProx) ? La Fédération Nationale des Etablissements de Santé de Proximité (FNESP) et l’Anap vous proposent une série de webinaires faite pour vous : échanges avec d’autres professionnels, solutions concrètes, conseils d’experts. Un rendez-vous régulier pour obtenir des outils concrets pour développer votre activité.</description>
-      <guid isPermaLink="false">d6dfcfd055e94005f094fdbc97213b8168bbf497a556f1c839156b44548b7f51</guid>
-      <pubDate>Fri, 16 Oct 2026 12:52:25 +0000</pubDate>
-    </item>
-    <item>
       <title>Mesures ou Directives anticipées en psychiatrie</title>
       <link>https://www.anap.fr/s/article/mesures-directives-anticipees-psychiatrie-guide</link>
       <description>Découvrez notre guide sur la mise en place des mesures ou directives anticipées en psychiatrie au sein de son établissement. Trois retours d'expérience concrets pour passer de l'intention à l'action.</description>
@@ -414,6 +414,13 @@
       <description>Responsable ou directeur du système d'information exerçant dans le secteur médico-social, cet outil d'autodiagnostic vous permet d'évaluer votre besoin en formation.</description>
       <guid isPermaLink="false">5060cf5adee9fd551a0ff228a8bc66ac2c1d3f4b26e8b8b111f27e5e5ae59e87</guid>
       <pubDate>Tue, 06 Oct 2026 08:07:34 +0000</pubDate>
+    </item>
+    <item>
+      <title>Diagnostiquer sa conformité avec le RGPD</title>
+      <link>https://www.anap.fr/s/article/numerique-publication-2728</link>
+      <description>Cet autodiagnostic permet à un responsable de traitement d'évaluer l'avancement de la mise en conformité de sa structure avec les exigences du RGPD.</description>
+      <guid isPermaLink="false">c204f318ed6764c5f18bcb3e267907932d08f10999c811b8b83c4f11d8505400</guid>
+      <pubDate>Tue, 06 Oct 2026 08:07:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

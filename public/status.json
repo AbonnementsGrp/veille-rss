@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-09T19:51:36.584161+00:00",
+  "generated_at": "2026-11-10T03:35:47.197545+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
   "sites_warning": 2,
-  "new_items": 37,
-  "merged_items": 582,
+  "new_items": 20,
+  "merged_items": 572,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -197,7 +197,7 @@
       "render": true,
       "status": "ok",
       "method": "plan de site",
-      "items": 58,
+      "items": 59,
       "feed": "anap.xml",
       "source_feed": "",
       "warnings": []
@@ -211,7 +211,7 @@
       "render": false,
       "status": "error",
       "method": "historique conservé",
-      "items": 25,
+      "items": 14,
       "feed": "cnsa.xml",
       "error": "HTTPSConnectionPool(host='www.cnsa.fr', port=443): Max retries exceeded with url: /actualites (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)')))",
       "source_feed": "https://www.cnsa.fr/flux-rss.xml/article",
