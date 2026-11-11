@@ -8,7 +8,56 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 09 Nov 2026 11:09:13 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 10 Nov 2026 16:30:18 +0000</lastBuildDate>
+    <item>
+      <title>Mon Simulateur Ambulatoire</title>
+      <link>https://www.anap.fr/s/article/mon-simulateur-ambulatoire</link>
+      <description>Découvrez notre outil en ligne pour simuler une journée type en ambulatoire, visualiser les flux patients, tester différents scénarios et ajuster le dimensionnement en ressources. Une aide rapide pour optimiser l’organisation et améliorer la fluidité du parcours.</description>
+      <guid isPermaLink="false">5ab28ead887b45392b20189d61659c9a74484a82f1e90d0bc14e5a0496f8ad83</guid>
+      <pubDate>Tue, 10 Nov 2026 16:30:18 +0000</pubDate>
+    </item>
+    <item>
+      <title>Appui terrain : Développer l’hospitalisation de jour en SMR</title>
+      <link>https://www.anap.fr/s/article/appui-terrain-hospitalisation-jour-smr-reforme</link>
+      <description>Obligatoire dans le cadre de la réforme, l’Anap vous accompagne pour développer une offre d’hospitalisation partielle en SMR. L’Anap vous propose un appui terrain pour structurer votre projet, intégrer les normes et obligations légales liées à la réforme.</description>
+      <guid isPermaLink="false">ad774e00f540c187b421b2ba818a2134d271ecc9ab540261cb31502aff9da6b7</guid>
+      <pubDate>Tue, 10 Nov 2026 16:16:37 +0000</pubDate>
+    </item>
+    <item>
+      <title>Renforcer l'activité physique et sportive en ESSMS</title>
+      <link>https://www.anap.fr/s/article/R%C3%A9f%C3%A9rent-activit%C3%A9-sportive-et-physique-en-ESSMS</link>
+      <description>Découvrez une boîte à outils et deux livrets co-construits avec plus de 300 référents APS pour accompagner le déploiement de l’activité physique dans les établissements : affiches, modèles, fiches pratiques, FAQ interactive et ressources partenaires à découvrir.</description>
+      <guid isPermaLink="false">e10b1ca694b9e809a44a73add019658079da4ed6e253fe66fb79fe338afd7866</guid>
+      <pubDate>Tue, 10 Nov 2026 13:17:24 +0000</pubDate>
+    </item>
+    <item>
+      <title>Activité physique et sportive (APS) : des ressources pour accompagner les ESSMS</title>
+      <link>https://www.anap.fr/s/article/Activit%C3%A9-physique-et-sportive-APS-des-ressources-pour-accompagner-les-ESSMS</link>
+      <description>Sous le pilotage de la direction générale de la cohésion sociale (DGCS) et de la direction des sports, l’Anap accompagne le déploiement de l’APS dans l’ensemble des ESSMS avec des ressources, un webinaire et la création d’une communauté nationale des référents sport.</description>
+      <guid isPermaLink="false">5a5326f98be9cf77c5f713f77edbbaad31266c53f2436b2851037c2ec663e6aa</guid>
+      <pubDate>Tue, 10 Nov 2026 13:14:57 +0000</pubDate>
+    </item>
+    <item>
+      <title>Canicule : les réflexes à adopter</title>
+      <link>https://www.anap.fr/s/article/canicule-les-reflexes-a-adopter</link>
+      <description>La canicule s'abat de nouveau sur la France : quels réflexes adopter au sein de vos établissements sanitaires et médico-sociaux ? L’Anap récapitule des mesures concrètes pour protéger les personnes prises en charge, vos équipes et votre établissement à court et long termes.</description>
+      <guid isPermaLink="false">a2c3c4fcd53867a2bf91803c390a8bfdb10095e19a2c0537c8da01a2a4073ebe</guid>
+      <pubDate>Tue, 10 Nov 2026 11:23:27 +0000</pubDate>
+    </item>
+    <item>
+      <title>Trophées nationaux de la logistique durable en santé : découvrez les lauréats !</title>
+      <link>https://www.anap.fr/s/article/trophees-logistique-durable-sante-gagnants</link>
+      <description>À l'occasion des 38ᵉ Journées d'études et de formation de l'ARTLH à Bordeaux, l'Anap et l'ARTLH ont dévoilé les lauréats de la première édition des Trophées nationaux de la logistique durable en santé. Une édition qui a mobilisé 22 établissements candidats.</description>
+      <guid isPermaLink="false">8ed25860ebe53675ee5377b07e529a0f7b4683174baf893357e050ced26d0d24</guid>
+      <pubDate>Tue, 10 Nov 2026 11:21:30 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pensées prospectives #10 : nos dépendances en cas de crise internationale</title>
+      <link>https://www.anap.fr/s/article/pensees-prospectives-10-dependances-en-cas-de-crise-internationale</link>
+      <description>Dédiés aux différents volets de la performance, pour accompagner la transformation des établissements sanitaires et médico-sociales.</description>
+      <guid isPermaLink="false">c129d54b502624759f21d11ae4c48d87558435420333429747eb3363ac684388</guid>
+      <pubDate>Tue, 10 Nov 2026 10:22:05 +0000</pubDate>
+    </item>
     <item>
       <title>Webinaire : « Les rendez-vous des HProx »</title>
       <link>https://www.anap.fr/s/article/webinaire-rendez-vous-hprox-hopital-de-proximite</link>
@@ -141,13 +190,6 @@
       <description>L’Observatoire Immobilier de la Santé OSCIMES®, refondu en 2023, est le seul outil public permettant de partager les coûts de différents projets immobiliers en santé. Un outil unique et ouvert à tous pour appuyer vos simulations de coûts prévisionnels et d’évolution des prix.</description>
       <guid isPermaLink="false">35cc4bc8bbed5dabe2a35f881f341a807e088f12f222198f1b70fc0789a2a03c</guid>
       <pubDate>Mon, 02 Nov 2026 15:51:24 +0000</pubDate>
-    </item>
-    <item>
-      <title>Canicule : les réflexes à adopter</title>
-      <link>https://www.anap.fr/s/article/canicule-reflexes-adopter</link>
-      <description>En période de canicule, adoptez des gestes simples pour limiter l’impact de la chaleur dans votre établissement sanitaire ou médico-social.</description>
-      <guid isPermaLink="false">f98c8185fed327b132a5217749eeb2d3b3083054d4f4c2f313f4cf2fd9650937</guid>
-      <pubDate>Mon, 02 Nov 2026 15:09:34 +0000</pubDate>
     </item>
     <item>
       <title>Performance sans frontière : les voyages d’études de l’Anap</title>
@@ -346,13 +388,6 @@
       <pubDate>Wed, 14 Oct 2026 08:22:25 +0000</pubDate>
     </item>
     <item>
-      <title>Appui terrain : Développer l’hospitalisation de jour en SMR</title>
-      <link>https://www.anap.fr/s/article/appui-terrain-hospitalisation-jour-smr-reforme</link>
-      <description>Obligatoire dans le cadre de la réforme, l’Anap vous accompagne pour développer une offre d’hospitalisation partielle en SMR. L’Anap vous propose un appui terrain pour structurer votre projet, intégrer les normes et obligations légales liées à la réforme.</description>
-      <guid isPermaLink="false">ad774e00f540c187b421b2ba818a2134d271ecc9ab540261cb31502aff9da6b7</guid>
-      <pubDate>Tue, 13 Oct 2026 14:56:04 +0000</pubDate>
-    </item>
-    <item>
       <title>Blocs chirurgicaux : 3 jours pour gagner du temps opératoire</title>
       <link>https://www.anap.fr/s/article/blocs-chirurgicaux-3-jours-pour-gagner-du-temps-operatoire</link>
       <description>Une opportunité unique d’améliorer l’organisation et la performance de vos blocs. Bénéficiez d’un accompagnement par des experts et repartez avec des leviers opérationnels pour optimiser votre activité et fidéliser vos équipes.</description>
@@ -386,41 +421,6 @@
       <description>La boîte à outils "innovation collaborative" propose des outils pratiques pour mobiliser les démarches de design et d'innovation au service de vos projets. Conçue pour être utilisée tout au long d’une démarche collaborative, vous y trouverez une méthodologie, des conseils et des canevas prêts à l’emploi.</description>
       <guid isPermaLink="false">77dda2d59e428d7cbb11c11b60fe43e5642d35c84f9a4ce490421528b5f10fed</guid>
       <pubDate>Thu, 08 Oct 2026 08:35:17 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webinaire Urgences : mieux orienter, s’appuyer sur le territoire</title>
-      <link>https://www.anap.fr/s/article/webinaire-urgences-mieux-orienter-s-appuyer-sur-le-territoire</link>
-      <description>À l’occasion de la publication de son guide, l’Anap propose une série de webinaires consacrés à la réorientation depuis les services d’urgences. Ces rendez-vous ont pour objectif d’accompagner la mise en place d’une dynamique territoriale, afin d’améliorer l’orientation des patients et la coordination entre les différents acteurs.</description>
-      <guid isPermaLink="false">8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c</guid>
-      <pubDate>Wed, 07 Oct 2026 13:24:39 +0000</pubDate>
-    </item>
-    <item>
-      <title>Des « salles hybrides » aux secteurs interventionnels avec guidage par imagerie - Opportunité et faisabilité</title>
-      <link>https://www.anap.fr/s/article/bloc-operatoire-publication-2676</link>
-      <description>Ce guide d'aide à la décision propose un éclairage sur la définition des salles dites « hybrides ». Il expose les points déterminants à anticiper avant de s'engager dans la réalisation d'un secteur interventionnel avec guidage par imagerie. Il propose une démarche permettant d'élaborer une stratégie de pratique inte...</description>
-      <guid isPermaLink="false">7617c760e49e3c9d1477731e2f6eda32a6fc9ae3b34da7b796cd1907bc69f536</guid>
-      <pubDate>Tue, 06 Oct 2026 08:08:27 +0000</pubDate>
-    </item>
-    <item>
-      <title>Managers : évaluez vos pratiques pour les améliorer</title>
-      <link>https://www.anap.fr/s/article/ressourceshumaines-publication-2860</link>
-      <description>Evaluez en 15 minutes votre pratique managériale et identifiez vos axes de progrès. Cet autodiagnostic en ligne, structuré en 9 chapitres, vous permettra de faire le point et vous donne des clés et conseils pour aller plus loin, conforter vos pratiques, les faire évoluer.</description>
-      <guid isPermaLink="false">3619e94c07a531033b489d82774608eda5abfbbd174733f71227b7d0b5c76784</guid>
-      <pubDate>Tue, 06 Oct 2026 08:07:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Évaluer ses compétences SI : autodiagnostic pour le RSI</title>
-      <link>https://www.anap.fr/s/article/numerique-publication-2841</link>
-      <description>Responsable ou directeur du système d'information exerçant dans le secteur médico-social, cet outil d'autodiagnostic vous permet d'évaluer votre besoin en formation.</description>
-      <guid isPermaLink="false">5060cf5adee9fd551a0ff228a8bc66ac2c1d3f4b26e8b8b111f27e5e5ae59e87</guid>
-      <pubDate>Tue, 06 Oct 2026 08:07:34 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diagnostiquer sa conformité avec le RGPD</title>
-      <link>https://www.anap.fr/s/article/numerique-publication-2728</link>
-      <description>Cet autodiagnostic permet à un responsable de traitement d'évaluer l'avancement de la mise en conformité de sa structure avec les exigences du RGPD.</description>
-      <guid isPermaLink="false">c204f318ed6764c5f18bcb3e267907932d08f10999c811b8b83c4f11d8505400</guid>
-      <pubDate>Tue, 06 Oct 2026 08:07:08 +0000</pubDate>
     </item>
   </channel>
 </rss>

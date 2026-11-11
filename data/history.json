@@ -1,4 +1,64 @@
 {
+  "5ab28ead887b45392b20189d61659c9a74484a82f1e90d0bc14e5a0496f8ad83": {
+    "source": "ANAP - Actualités",
+    "title": "Mon Simulateur Ambulatoire",
+    "link": "https://www.anap.fr/s/article/mon-simulateur-ambulatoire",
+    "description": "Découvrez notre outil en ligne pour simuler une journée type en ambulatoire, visualiser les flux patients, tester différents scénarios et ajuster le dimensionnement en ressources. Une aide rapide pour optimiser l’organisation et améliorer la fluidité du parcours.",
+    "published": "2026-11-10T16:30:18+00:00",
+    "first_seen": "2026-11-11T06:26:49.525306+00:00",
+    "uid": "5ab28ead887b45392b20189d61659c9a74484a82f1e90d0bc14e5a0496f8ad83",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "e10b1ca694b9e809a44a73add019658079da4ed6e253fe66fb79fe338afd7866": {
+    "source": "ANAP - Actualités",
+    "title": "Renforcer l'activité physique et sportive en ESSMS",
+    "link": "https://www.anap.fr/s/article/R%C3%A9f%C3%A9rent-activit%C3%A9-sportive-et-physique-en-ESSMS",
+    "description": "Découvrez une boîte à outils et deux livrets co-construits avec plus de 300 référents APS pour accompagner le déploiement de l’activité physique dans les établissements : affiches, modèles, fiches pratiques, FAQ interactive et ressources partenaires à découvrir.",
+    "published": "2026-11-10T13:17:24+00:00",
+    "first_seen": "2026-11-11T06:26:49.525306+00:00",
+    "uid": "e10b1ca694b9e809a44a73add019658079da4ed6e253fe66fb79fe338afd7866",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "5a5326f98be9cf77c5f713f77edbbaad31266c53f2436b2851037c2ec663e6aa": {
+    "source": "ANAP - Actualités",
+    "title": "Activité physique et sportive (APS) : des ressources pour accompagner les ESSMS",
+    "link": "https://www.anap.fr/s/article/Activit%C3%A9-physique-et-sportive-APS-des-ressources-pour-accompagner-les-ESSMS",
+    "description": "Sous le pilotage de la direction générale de la cohésion sociale (DGCS) et de la direction des sports, l’Anap accompagne le déploiement de l’APS dans l’ensemble des ESSMS avec des ressources, un webinaire et la création d’une communauté nationale des référents sport.",
+    "published": "2026-11-10T13:14:57+00:00",
+    "first_seen": "2026-11-11T06:26:49.525306+00:00",
+    "uid": "5a5326f98be9cf77c5f713f77edbbaad31266c53f2436b2851037c2ec663e6aa",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "8ed25860ebe53675ee5377b07e529a0f7b4683174baf893357e050ced26d0d24": {
+    "source": "ANAP - Actualités",
+    "title": "Trophées nationaux de la logistique durable en santé : découvrez les lauréats !",
+    "link": "https://www.anap.fr/s/article/trophees-logistique-durable-sante-gagnants",
+    "description": "À l'occasion des 38ᵉ Journées d'études et de formation de l'ARTLH à Bordeaux, l'Anap et l'ARTLH ont dévoilé les lauréats de la première édition des Trophées nationaux de la logistique durable en santé. Une édition qui a mobilisé 22 établissements candidats.",
+    "published": "2026-11-10T11:21:30+00:00",
+    "first_seen": "2026-11-11T06:26:49.525306+00:00",
+    "uid": "8ed25860ebe53675ee5377b07e529a0f7b4683174baf893357e050ced26d0d24",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "c129d54b502624759f21d11ae4c48d87558435420333429747eb3363ac684388": {
+    "source": "ANAP - Actualités",
+    "title": "Pensées prospectives #10 : nos dépendances en cas de crise internationale",
+    "link": "https://www.anap.fr/s/article/pensees-prospectives-10-dependances-en-cas-de-crise-internationale",
+    "description": "Dédiés aux différents volets de la performance, pour accompagner la transformation des établissements sanitaires et médico-sociales.",
+    "published": "2026-11-10T10:22:05+00:00",
+    "first_seen": "2026-11-11T06:26:49.525306+00:00",
+    "uid": "c129d54b502624759f21d11ae4c48d87558435420333429747eb3363ac684388",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "a8bd7336c4121e6f96372b251954f4748a68f20da86d270bdeff950c014bc453": {
     "source": "IGAS",
     "title": "Placement des enfants confiés à l’aide sociale à l’enfance en dehors de leur département d’origine",
@@ -4561,7 +4621,7 @@
     "title": "Appui terrain : Développer l’hospitalisation de jour en SMR",
     "link": "https://www.anap.fr/s/article/appui-terrain-hospitalisation-jour-smr-reforme",
     "description": "Obligatoire dans le cadre de la réforme, l’Anap vous accompagne pour développer une offre d’hospitalisation partielle en SMR. L’Anap vous propose un appui terrain pour structurer votre projet, intégrer les normes et obligations légales liées à la réforme.",
-    "published": "2026-10-13T14:56:04+00:00",
+    "published": "2026-11-10T16:16:37+00:00",
     "first_seen": "2026-10-23T21:26:25.219596+00:00",
     "uid": "ad774e00f540c187b421b2ba818a2134d271ecc9ab540261cb31502aff9da6b7",
     "description_checked": true,
@@ -4921,7 +4981,7 @@
     "title": "Canicule : les réflexes à adopter",
     "link": "https://www.anap.fr/s/article/canicule-les-reflexes-a-adopter",
     "description": "La canicule s'abat de nouveau sur la France : quels réflexes adopter au sein de vos établissements sanitaires et médico-sociaux ? L’Anap récapitule des mesures concrètes pour protéger les personnes prises en charge, vos équipes et votre établissement à court et long termes.",
-    "published": "2026-10-21T10:14:18+00:00",
+    "published": "2026-11-10T11:23:27+00:00",
     "first_seen": "2026-10-22T04:51:09.745596+00:00",
     "uid": "a2c3c4fcd53867a2bf91803c390a8bfdb10095e19a2c0537c8da01a2a4073ebe",
     "description_checked": true,
@@ -9376,52 +9436,5 @@
     "first_seen": "2026-10-05T14:44:24.624605+00:00",
     "uid": "d3a960c2b7fd16a5d53cda84021ddb873649bc73ced7f5fe507551fc2d479670",
     "description_checked": true
-  },
-  "63012ef9ea69d537ea5869526c72d192ca32d17b0f4a0ffcbacd83aa41d3819a": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Budget 2027 : derrière l’effet d’annonce, la FFEC pointe un manque de moyens",
-    "link": "https://www.lesprosdelapetiteenfance.fr/budget-2027-derriere-leffet-dannonce-la-ffec-pointe-un-manque-de-moyens/",
-    "description": "La FFEC a fait l’analyse des projets de loi de finances (PLF) et du financement de la sécurité sociale (PLFSS) pour 2027, déposés à l’Assemblée nationale la semaine dernière. Dans...",
-    "published": "2026-10-05T14:38:13+00:00",
-    "first_seen": "2026-10-05T14:44:14.172000+00:00",
-    "uid": "63012ef9ea69d537ea5869526c72d192ca32d17b0f4a0ffcbacd83aa41d3819a",
-    "description_checked": true
-  },
-  "abf0154c24091b97bd9ae6c0797f1e766e568cc1b2b591ed5a2d8d3b1ec3e6ba": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Crèches associatives : l’ACEPP dénonce une mise en concurrence qui menace leur modèle",
-    "link": "https://www.lesprosdelapetiteenfance.fr/creches-associatives-lacepp-denonce-une-mise-en-concurrence-qui-menace-leur-modele/",
-    "description": "Dans un communiqué du 2 octobre, l’ACEPP alerte sur une rentrée difficile pour les crèches associatives. Financements insuffisants, inquiétudes sur la qualification des équipes et remise en cause des subventions par certaines collectivités : le réseau appelle les élus à préserver le modèle associatif.",
-    "published": "2026-10-05T09:21:12+00:00",
-    "first_seen": "2026-10-05T14:44:14.172000+00:00",
-    "uid": "abf0154c24091b97bd9ae6c0797f1e766e568cc1b2b591ed5a2d8d3b1ec3e6ba",
-    "description_checked": true
-  },
-  "d3f42d55fbcaa23b07566ae03df75a09b13cdcf5885022ef9e4ba5060fdfb5cb": {
-    "source": "Outre-Mer 360°",
-    "title": "Cadres d'avenir : la promotion 2026 accueillie à Paris",
-    "link": "https://outremers360.com/bassin-atlantique-appli/cadres-davenir-la-promotion-2026-accueillie-a-paris",
-    "description": "Les bénéficiaires de la promotion 2026 du dispositif Cadres d'avenir Antilles-Guyane ont été accueillis ce samedi 3 octobre à Paris à l'occasion d'une journée d'échanges organisée par LADOM.Cet événement a permis aux étudiants originaires de Guadeloupe, de Guyane, de...",
-    "published": "2026-10-05T12:45:14+00:00",
-    "first_seen": "2026-10-05T14:43:58.452151+00:00",
-    "uid": "d3f42d55fbcaa23b07566ae03df75a09b13cdcf5885022ef9e4ba5060fdfb5cb"
-  },
-  "2dc0920fc91c889c943b19c2caf48611a580ed83113190a496325caac966ee2d": {
-    "source": "Outre-Mer 360°",
-    "title": "Transition énergétique aux Antilles-Guyane : So Watt accélère le déploiement du solaire avec l’appui de l’Agence Française de développement",
-    "link": "https://outremers360.com/bassin-atlantique-appli/transition-energetique-aux-antilles-guyane-so-watt-accelere-le-deploiement-du-solaire-avec-lappui-de-lagence-francaise-de-developpement",
-    "description": "Le groupe Athena/So Watt développe des projets photovoltaïques en Martinique, en Guadeloupe et en Guyane avec un cofinancement de l’Agence française de développement. Le programme porte actuellement sur 87 installations, pour une puissance cumulée de 12.625 kWc et une...",
-    "published": "2026-10-05T12:07:32+00:00",
-    "first_seen": "2026-10-05T14:43:58.452151+00:00",
-    "uid": "2dc0920fc91c889c943b19c2caf48611a580ed83113190a496325caac966ee2d"
-  },
-  "6fd3bf1b9f5b9724783a1f164724d0832398c460c99132e7077a8e79a149ceeb": {
-    "source": "Outre-Mer 360°",
-    "title": "La Réunion : le taux de chômage augmente et atteint 19% de la population active au deuxième trimestre 2026, selon l’Insee",
-    "link": "https://outremers360.com/bassin-indien-appli/la-reunion-le-taux-de-chomage-augmente-et-atteint-19-de-la-population-active-au-deuxieme-trimestre-2026-selon-linsee",
-    "description": "D’après une note de conjoncture régionale publiée par l'Institut national de la statistique et des études économiques (Insee) le 30 septembre, l’activité économique de La Réunion reste mieux orientée qu’au niveau national au deuxième trimestre 2026. Cette...",
-    "published": "2026-10-05T11:55:59+00:00",
-    "first_seen": "2026-10-05T14:43:58.452151+00:00",
-    "uid": "6fd3bf1b9f5b9724783a1f164724d0832398c460c99132e7077a8e79a149ceeb"
   }
 }
