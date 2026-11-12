@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 10 Nov 2026 11:09:05 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 16:00:25 +0000</lastBuildDate>
+    <item>
+      <title>Modes d’accueil des jeunes enfants : de fortes inégalités selon le niveau de vie des familles, montre une étude de la Drees</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/modes-daccueil-des-jeunes-enfants-de-fortes-inegalites-selon-le-niveau-de-vie-des-familles-montre-une-etude-de-la-drees/</link>
+      <description>La Drees vient de publier une nouvelle étude sur les modes d’accueil des jeunes enfants et les inégalités sociales. En croisant les données de l’enquête Modes de garde (2021) avec...</description>
+      <guid isPermaLink="false">e26fd1d7e5116c2e6dba67b15148abd01172ec5af1b88e4ca459cf0c4300efe6</guid>
+      <pubDate>Thu, 12 Nov 2026 16:00:25 +0000</pubDate>
+    </item>
+    <item>
+      <title>Accompagnement à la parentalité : une nouvelle mission parlementaire lancée</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/accompagnement-a-la-parentalite-une-nouvelle-mission-parlementaire-lancee/</link>
+      <description>Les députées Laure Miller et Nicole Dubré-Chirat ont été nommées rapporteures d’une mission d’information sur l’accompagnement à la parentalité, menée dans le cadre de la délégation aux droits des enfants de l’Assemblée nationale.</description>
+      <guid isPermaLink="false">a710a4d8d55a2e1dcc0c0f15c873cc8ac7ff67c3916cc6e943b5e0a0c3d48536</guid>
+      <pubDate>Thu, 12 Nov 2026 09:48:10 +0000</pubDate>
+    </item>
     <item>
       <title>Assistantes maternelles : ce qui change avec la réforme du cumul emploi-retraite</title>
       <link>https://www.lesprosdelapetiteenfance.fr/assistantes-maternelles-ce-qui-change-avec-la-reforme-du-cumul-emploi-retraite/</link>
@@ -112,13 +126,6 @@
       <link>https://www.lesprosdelapetiteenfance.fr/fondation-oeuvre-de-la-croix-saint-simon-46-etablissements-repris-mais-450-licencies/</link>
       <description>Le tribunal des activités économiques vient de rendre sa décision concernant la cession des activités de la Fondation Œuvre de la Croix Saint-Simon. 46 établissements seront repris mais 17 structures...</description>
       <guid isPermaLink="false">11c32350d8c6966e77f50280ccb9972420b54dfa97d0d9d120dfc93e0a77858c</guid>
-      <pubDate>Tue, 20 Oct 2026 16:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Fondation Œuvre de la Croix Saint- Simon : 46 établissements repris mais 450 professionnels licenciés</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/fondation-oeuvre-de-la-croix-saint-simon-46-etablissements-repris-mais-450-licencies/</link>
-      <description>Le tribunal des activités économiques vient de rendre sa décision concernant la cession des activités de la Fondation Œuvre de la crois Saint-Simon. Seuls 46 établissements seront repris, 17 structures...</description>
-      <guid isPermaLink="false">6a30758b0b2b61631b5825b8b821f0bac2b07a5e1bca1e1e34a2a69e33ca19ea</guid>
       <pubDate>Tue, 20 Oct 2026 16:37:00 +0000</pubDate>
     </item>
     <item>
@@ -246,13 +253,6 @@
       <description>À l’appel du collectif Pas de bébés à la consigne, une journée nationale de grève et de manifestations est organisée jeudi 8 octobre dans plusieurs villes de France.</description>
       <guid isPermaLink="false">48641e24c25ad9e67ad0c3269e18260a53ff0030141394ed34e18437212ac907</guid>
       <pubDate>Wed, 07 Oct 2026 08:32:47 +0000</pubDate>
-    </item>
-    <item>
-      <title>Alerte budgétaire : le syndicat des particuliers employeurs met en garde contre une baisse des aides</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/emploi-a-domicile-le-syndicat-des-particuliers-employeurs-met-en-garde-contre-une-baisse-des-aides/</link>
-      <description>Moins d’heures de travail, un recours accru à l’emploi non déclaré, voire l’arrêt de certains contrats : le Syndicat des particuliers employeurs (S.P.E) alerte sur l'impact d’une réduction potentielle des aides à l’emploi à domicile alors que se prépare l’examen du budget 2027.</description>
-      <guid isPermaLink="false">b1d983c6a0e4abf2528280b372dd43078be86629a103f6e7e3f47e4710e01bbe</guid>
-      <pubDate>Tue, 06 Oct 2026 12:42:43 +0000</pubDate>
     </item>
   </channel>
 </rss>
