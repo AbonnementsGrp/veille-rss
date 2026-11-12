@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 02 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 11 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Le ZAN, exécutoire d'une crise structurelle de l'aménagement ?</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9762-le-zan-executoire-d-une-crise-structurelle-de-l-amenagement-.html</link>
+      <description>Ce projet de recherche vise à analyser l’intégration de l’objectif « Zéro Artificialisation Nette » (ZAN) dans les politiques de planification et d’urbanisme des territoires ruraux « ordinaires » et touristiques. À partir d’une analyse pluridisciplinaire (droit, urbanisme, sociologie politique et économie), ce projet offre l’opportunité d’étudier les conditions concrètes de mise en œuvre de cette nouvelle trajectoire de lutte contre la consommation d’espaces naturels, agricoles et forestiers, les tensions qu’elle suscite et les transformations qu’elle produit dans les pratiques locales de planification. Alors que le ZAN suscite de fortes controverses, cette recherche cherche à dépasser les lectures opposant simplement contrainte nationale et libre administration territoriale, en analysant concrètement la manière dont les acteurs territoriaux s’approprient, négocient et traduisent cette nouvelle exigence écologique dans leurs pratiques.</description>
+      <guid isPermaLink="false">3184b264e63766a5adc4162a9bcdae3f7889795e4d5db3e5661dfb961791a6d1</guid>
+      <pubDate>Wed, 11 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Le sol dans les stratégies territoriales : de la planification au projet d'aménagement - Pourquoi et comment ?</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9744-le-sol-dans-les-strategies-territoriales-de-la-planification-au-projet-d-amenagement-pourquoi-et-comment--9791029727887.html</link>
@@ -164,17 +171,17 @@
       <pubDate>Wed, 24 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Pas de vacances pour la vacance : infographie</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9428-pas-de-vacances-pour-la-vacance-infographie.html</link>
-      <description>Visualiser la vacance des logements pour mieux valoriser la ressource. La vacance des logements est un levier sous-exploité pour répondre aux besoins de logements.</description>
-      <guid isPermaLink="false">6700015b6c5bf7c251b1eda6f049e8e8a94cc46a0d62931819b687b36f68adc0</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>TerriSTORY : infographie</title>
       <link>https://librairie.ademe.fr/changement-climatique/9431-terristory-infographie.html</link>
       <description>Aider le pilotage de la transition écologique des territoires via une plateforme partenariale. Remédier à la dispersion des données du territoire et des outils de pilotage nécessaires aux collectivités pour organiser leur transition écologique</description>
       <guid isPermaLink="false">ed1c41bfe121d3da6ef9b4325fe2327fb2ad5c5926fb39c24c71c0c50a2331b4</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Pas de vacances pour la vacance : infographie</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9428-pas-de-vacances-pour-la-vacance-infographie.html</link>
+      <description>Visualiser la vacance des logements pour mieux valoriser la ressource. La vacance des logements est un levier sous-exploité pour répondre aux besoins de logements.</description>
+      <guid isPermaLink="false">6700015b6c5bf7c251b1eda6f049e8e8a94cc46a0d62931819b687b36f68adc0</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -339,10 +346,10 @@
       <pubDate>Sun, 22 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SAFE RGA - Solutions innovantes d'Adaptation du bâti exposé à la sécheresse Face à l'Expansion du phénomène de RGA</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9164-safe-rga-solutions-innovantes-d-adaptation-du-bati-expose-a-la-secheresse-face-a-l-expansion-du-phenomene-de-rga.html</link>
-      <description>Le projet vise à développer de nouvelles solutions innovantes pour l’adaptation des maisons exposées au RGA face au sécheresses de plus en plus intenses, longues et récurrentes sous l’effet du changement climatique.</description>
-      <guid isPermaLink="false">c5cb24f6c167460ce14f2cb8662ed21cd8da77b1fe2b7fcfef98c4310c5ff682</guid>
+      <title>SEHSAR - Surveillance Etendue du niveau d'Humidité des Sols argileux pour l'Adaptation et la Résilience du bâti</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9165-sehsar-surveillance-etendue-du-niveau-d-humidite-des-sols-argileux-pour-l-adaptation-et-la-resilience-du-bati.html</link>
+      <description>Le projet SEHSAR a pour objectif de développer un outil de veille et d’anticipation du niveau de la sécheresse des sols argileux en France par la mesure in situ combinée aux algorithmes de l’intelligence artificielle pour une meilleure prise de décision et des applications comme l’humidification automatique et connectée du procédé MACH « MAison Confortée par Humidification ».</description>
+      <guid isPermaLink="false">dadeced2ca2606c301c4b41edb6e6dc9f7f075be232d8ba3261f7d5f65be85d5</guid>
       <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
@@ -388,10 +395,10 @@
       <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SEHSAR - Surveillance Etendue du niveau d'Humidité des Sols argileux pour l'Adaptation et la Résilience du bâti</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9165-sehsar-surveillance-etendue-du-niveau-d-humidite-des-sols-argileux-pour-l-adaptation-et-la-resilience-du-bati.html</link>
-      <description>Le projet SEHSAR a pour objectif de développer un outil de veille et d’anticipation du niveau de la sécheresse des sols argileux en France par la mesure in situ combinée aux algorithmes de l’intelligence artificielle pour une meilleure prise de décision et des applications comme l’humidification automatique et connectée du procédé MACH « MAison Confortée par Humidification ».</description>
-      <guid isPermaLink="false">dadeced2ca2606c301c4b41edb6e6dc9f7f075be232d8ba3261f7d5f65be85d5</guid>
+      <title>SAFE RGA - Solutions innovantes d'Adaptation du bâti exposé à la sécheresse Face à l'Expansion du phénomène de RGA</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9164-safe-rga-solutions-innovantes-d-adaptation-du-bati-expose-a-la-secheresse-face-a-l-expansion-du-phenomene-de-rga.html</link>
+      <description>Le projet vise à développer de nouvelles solutions innovantes pour l’adaptation des maisons exposées au RGA face au sécheresses de plus en plus intenses, longues et récurrentes sous l’effet du changement climatique.</description>
+      <guid isPermaLink="false">c5cb24f6c167460ce14f2cb8662ed21cd8da77b1fe2b7fcfef98c4310c5ff682</guid>
       <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
@@ -421,13 +428,6 @@
       <description>L'ADEME et l'Ecolab du CGDD (Ministère de la Transition écologique) ont accompagné entre 2024 et 2025, 8 territoires pour se lancer dans l’Urbanisme Favorable à la Santé (UFS). L’UFS est une démarche dont le fil rouge est l’amélioration de la santé et du bienêtre des usagers. De par ses nombreux co-bénéfices sur la société et l'environnement, elle s’inscrit complètement dans une stratégie de transition écologique. Les sujets abordés par les projets sont tout aussi variés que les villes et villages accueillant ces initiatives. Grâce aux Expé URBA SanTé, les lauréats ont notamment bénéficié d’une dizaine de jours de coaching et de conseils par des experts aux disciplines complémentaires. La volonté d’évaluer les impacts des projets, notamment par la donnée, a été un aspect important du dispositif. Vous trouverez dans ce document le détail des projets des 8 lauréats qui sont allés jusqu’au bout de l’aventure. Les grandes leçons collectives sont aussi abordées au travers de 3 « fiches Défis » et de 5 « fiches Experts ».</description>
       <guid isPermaLink="false">8dad117489da33ba80774d8e8fe7e146a223e4e250e6d3e262be5b5b730033ed</guid>
       <pubDate>Mon, 09 Feb 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Etablissement d'un fond pédogéochimique urbain et industriel</title>
-      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9039-etablissement-d-un-fond-pedogeochimique-urbain-et-industriel.html</link>
-      <description>Le projet a pour objectif la détermination de fonds pédogéochimiques anthropisés sur le territoire national, en particulier en milieu urbain. Ces référentiels, dont les lignes de base des fonds pédogéochimiques, sont au coeur des démarches de gestion des sites et sols (potentiellement) pollués, en particulier pour mener à bien les diagnostics de sols et valoriser les terres excavées. Pour atteindre cet objectif, les différentes conventions ont entrepris de construire une base de données des analyses de sols urbains (BDSolU), d’y bancariser les résultats d’analyses de divers projets relatifs à des aménagements urbains ou à la détermination de fonds locaux ou régionaux, de mettre au point la méthode de sélection et de traitement statistique et géostatistique propre à déterminer les lignes de base des fonds et les représenter cartographiquement, de développer un outil de restitution des référentiels de fond pédogéochimique obtenus. Et pour cela, Quels référentiels utiliser pour le diagnostic des sols potentiellement pollués ou la recherche d’un site de valorisation de terres excavées ? Quelles informations recueillir ? Comment les conserver et les interpréter pour mettre au point ces références ? A l’échelle nationale, le développement d’une base de données des analyses de sols et la mise au point de la méthode permettant leur traitement sont les réponses apportées à ces questions, pour appuyer les acteurs de l’aménagement, essentiellement en milieu urbain.</description>
-      <guid isPermaLink="false">ad361f1531661b3205df8f2f1ea02781e7436d44659219445e3b3ef1b32008e0</guid>
-      <pubDate>Thu, 05 Feb 2026 23:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

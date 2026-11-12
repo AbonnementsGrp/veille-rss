@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-12T00:46:24.302459+00:00",
+  "generated_at": "2026-11-12T11:16:47.737387+00:00",
   "sites_total": 17,
-  "sites_ok": 16,
-  "sites_error": 1,
+  "sites_ok": 15,
+  "sites_error": 2,
   "sites_warning": 2,
-  "new_items": 3,
-  "merged_items": 553,
+  "new_items": 7,
+  "merged_items": 555,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -109,7 +109,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 10,
+      "items": 11,
       "feed": "observatoire-culture.xml",
       "source_feed": "https://www.observatoire-culture.net/feed/",
       "warnings": []
@@ -123,7 +123,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 21,
+      "items": 22,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
@@ -149,11 +149,12 @@
       "url": "https://www.lesprosdelapetiteenfance.fr/actualites/",
       "feed_categories": [],
       "render": false,
-      "status": "ok",
-      "method": "flux détecté",
-      "items": 34,
+      "status": "error",
+      "method": "historique conservé",
+      "items": 35,
       "feed": "pros-petite-enfance.xml",
-      "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
+      "error": "HTTPSConnectionPool(host='www.lesprosdelapetiteenfance.fr', port=443): Max retries exceeded with url: /actualites/ (Caused by SSLError(SSLError(1, '[SSL: TLSV1_ALERT_INTERNAL_ERROR] tlsv1 alert internal error (_ssl.c:1011)')))",
+      "source_feed": "",
       "warnings": []
     },
     {
@@ -185,7 +186,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 267 jours (seuil : 60)"
+        "rien de neuf depuis 268 jours (seuil : 60)"
       ]
     },
     {
@@ -244,7 +245,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 951 jours (seuil : 60)"
+        "rien de neuf depuis 952 jours (seuil : 60)"
       ]
     },
     {
