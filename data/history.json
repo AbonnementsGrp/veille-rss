@@ -1,4 +1,38 @@
 {
+  "d3a960c2b7fd16a5d53cda84021ddb873649bc73ced7f5fe507551fc2d479670": {
+    "source": "ADN Tourisme",
+    "title": "Un accueil itinérant au service de la proximité et du territoire",
+    "link": "https://www.adn-tourisme.fr/un-accueil-itinerant-au-service-de-la-proximite-et-du-territoire/",
+    "description": "Depuis 2026, l’Office de Tourisme Intercommunal de Saint-Dié-des-Vosges innove avec un accueil itinérant conçu pour aller à la rencontre des visiteurs, directement sur les sites touristiques, les événements et les lieux de séjour.",
+    "published": "2026-10-05T09:29:36+00:00",
+    "first_seen": "2026-11-12T00:46:23.155529+00:00",
+    "uid": "d3a960c2b7fd16a5d53cda84021ddb873649bc73ced7f5fe507551fc2d479670",
+    "description_checked": true
+  },
+  "cee6ca8707f2cbc8456448e7c6f1768cd699e048520dfe40001c580d8a28efd5": {
+    "source": "ANAP - Actualités",
+    "title": "Ehpad vert : autonomie énergétique, adaptation climatique, performance économique",
+    "link": "https://www.anap.fr/s/article/ehpad-vert-autonomie-energetique-adaptation-climatique-performance-economique",
+    "description": "L’Anap conçoit le première modèle d’Ehpad autonome en énergie et un simulateur pour s’adapter aux canicules.",
+    "published": "2026-10-21T10:16:38+00:00",
+    "first_seen": "2026-11-12T00:46:01.333913+00:00",
+    "uid": "cee6ca8707f2cbc8456448e7c6f1768cd699e048520dfe40001c580d8a28efd5",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "2a861a0a3fe5e4dd14017ba0790ed16655f274d0f9efb4470c873b886feaa24a": {
+    "source": "ANAP - Actualités",
+    "title": "Webinaire : Les Rendez-Vous des PCO",
+    "link": "https://www.anap.fr/s/article/webinaire-les-rendez-vous-des-pco",
+    "description": "A la demande de la DITND, l'Anap a formulé des recommandations et construit une boîte à outils concrète pour renforcer l’organisation des plateformes de coordination et d'orientation (PCO). Participez à notre webinaire pour découvrir ces outils et les prendre en main.",
+    "published": "2026-10-12T14:29:45+00:00",
+    "first_seen": "2026-11-12T00:46:01.333913+00:00",
+    "uid": "2a861a0a3fe5e4dd14017ba0790ed16655f274d0f9efb4470c873b886feaa24a",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
   "ca12d612505f1b9c2b94ab33c931c82e460671e825b070bb2ed810adb103c8ca": {
     "source": "Office français de la biodiversité",
     "title": "Appel à projets Mission Nature",
@@ -9402,32 +9436,5 @@
     "published": "2026-10-06T10:12:22+00:00",
     "first_seen": "2026-10-06T15:58:31.909884+00:00",
     "uid": "cbfb2cb8a1bc6f79d964bcaad7168ce065914f2492026ae96d19838cfacaf89c"
-  },
-  "a1d301a469407427401996e757da1e3602d2ac8175fbacc83f220c97d4f1b351": {
-    "source": "Outre-Mer 360°",
-    "title": "La PrépaTalents de l’École Nationale de la Magistrature fait sa première rentrée à l’Université des Antilles, la première promotion des Outre-mer",
-    "link": "https://outremers360.com/bassin-atlantique-appli/la-prepatalents-de-lecole-nationale-de-la-magistrature-fait-sa-premiere-rentree-a-luniversite-des-antilles-la-premiere-promotion-des-outre-mer",
-    "description": "L’Université des Antilles a organisé, lundi 5 octobre 2026, la rentrée solennelle de la PrépaTalents de l’École nationale de la magistrature (ENM). Cette formation, installée au sein de l’UFR des Sciences juridiques et économiques, constitue la première classe...",
-    "published": "2026-10-06T09:37:27+00:00",
-    "first_seen": "2026-10-06T15:58:31.909884+00:00",
-    "uid": "a1d301a469407427401996e757da1e3602d2ac8175fbacc83f220c97d4f1b351"
-  },
-  "471183b8fccfae6959dd2131f98df7a5ddb0d3539b0bcd584a6e3b72b43621c4": {
-    "source": "Outre-Mer 360°",
-    "title": "Une vingtaine d’artistes guadeloupéens et sept artistes internationales à l’affiche des instants musicaux et des concerts au Jardin botanique de Valombreuse, à l’occasion de la 3ème édition du Festival Signature",
-    "link": "https://outremers360.com/bassin-atlantique-appli/une-vingtaine-dartistes-guadeloupeens-et-sept-artistes-internationales-a-laffiche-des-instants-musicaux-et-des-concerts-au-jardin-botanique-de-valombreuse-a-loccasion-de-la-3eme-edition-du-festival-signature",
-    "description": "Sous la houlette de la Fondation Signature et en partenariat avec le ministère de la Culture, une vingtaine d’artistes guadeloupéens et sept artistes internationales seront réunis les 10 et 11 octobre 2026 au Jardin botanique de Valombreuse, en Guadeloupe, dans le cadre de...",
-    "published": "2026-10-06T09:36:03+00:00",
-    "first_seen": "2026-10-06T15:58:31.909884+00:00",
-    "uid": "471183b8fccfae6959dd2131f98df7a5ddb0d3539b0bcd584a6e3b72b43621c4"
-  },
-  "bbdaa84f2da636d7310e3046bff3757e59e4b1c782ae3ac3c403cbff4feb33df": {
-    "source": "Outre-Mer 360°",
-    "title": "Nouvelle-Calédonie : Le sénateur Georges Naturel quitte Les Républicains et rejoint le groupe Union centriste et indépendants",
-    "link": "https://outremers360.com/bassin-pacifique-appli/nouvelle-caledonie-le-senateur-georges-naturel-quitte-les-republicains-et-rejoint-le-groupe-union-centriste-et-independants",
-    "description": "Membre des Républicains au Sénat depuis son élection en 2023, le sénateur Georges Naturel a décidé, pour la rentrée parlementaire, de changer de groupe, estimant que l’Union centriste et indépendants « porte mieux les valeurs que je défends ». Un sujet de...",
-    "published": "2026-10-06T07:30:27+00:00",
-    "first_seen": "2026-10-06T15:58:31.909884+00:00",
-    "uid": "bbdaa84f2da636d7310e3046bff3757e59e4b1c782ae3ac3c403cbff4feb33df"
   }
 }
