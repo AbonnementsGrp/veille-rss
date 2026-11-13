@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-12T19:56:52.827846+00:00",
+  "generated_at": "2026-11-13T01:51:16.694915+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
   "sites_warning": 2,
-  "new_items": 11,
-  "merged_items": 557,
+  "new_items": 0,
+  "merged_items": 554,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -95,7 +95,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 17,
+      "items": 16,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
@@ -109,7 +109,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 11,
+      "items": 10,
       "feed": "observatoire-culture.xml",
       "source_feed": "https://www.observatoire-culture.net/feed/",
       "warnings": []
@@ -211,7 +211,7 @@
       "render": false,
       "status": "error",
       "method": "historique conservé",
-      "items": 12,
+      "items": 11,
       "feed": "cnsa.xml",
       "error": "HTTPSConnectionPool(host='www.cnsa.fr', port=443): Max retries exceeded with url: /actualites (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)')))",
       "source_feed": "https://www.cnsa.fr/flux-rss.xml/article",
