@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 08 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 12 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>SAS Regain. Entreprise de tricotage et de confection textile. Labruguière (81)</title>
+      <link>https://librairie.ademe.fr/energies/9767-sas-regain-entreprise-de-tricotage-et-de-confection-textile-labruguiere-81.html</link>
+      <description>La Société Regain est spécialisée dans le tricotage et la confection de façon responsable de vêtements professionnels techniques et de mode. Entreprise de 42 salariés, implantée dans le Tarn depuis 2 générations, elle exploite un bâtiment industriel de 1800 m2. Elle a fait le choix d’une installation géothermique qui couvre les besoins thermiques en chaud et en froid des ateliers de production et a remplacé une solution vieillissante de 4 groupes de climatisation à absorption réversible fonctionnant au gaz naturel. La production de froid a constitué un enjeu dans le dimensionnement de l’installation en raison des dégagements de chaleur diffuse des machines de production. Cette fiche est un retour d'expérience sur le projet. Elle présente les principales données techniques et financières du projet et propose un témoignage du dirigeant de l'entreprise.</description>
+      <guid isPermaLink="false">8b2dd4e023e0133120e96ce6c88eb8b0cf3aa2e23553b0e4a09678cf2187f78c</guid>
+      <pubDate>Thu, 12 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Remplacement du four à énergie fossile par un four 100 % électrique</title>
       <link>https://librairie.ademe.fr/energies/9749-remplacement-du-four-a-energie-fossile-par-un-four-100-electrique.html</link>
@@ -421,13 +428,6 @@
       <description>La directive relative à l’efficacité énergétique révisée, entrée en vigueur le 10 octobre 2023, a fixé de nouveaux objectifs européens pour 2030 : la consommation d’énergie primaire et finale de l’Union européenne ne devra pas dépasser respectivement 992,5 Mtep et 763 Mtep. Pour la France, cela correspond à une réduction de l’ordre de 29 % de la consommation d’énergie finale par rapport à 2012. En particulier, la directive prévoit, dans son article 28-6, que les États membres évaluent régulièrement les systèmes de qualification, d’agrément et de certification des professionnels concernés, ainsi que l’écart entre le nombre de professionnels disponibles et les besoins estimés. Ce rapport en trois parties présente des orientations méthodologiques, une sélection de connaissances directement utiles pour l’art 28-6, ainsi que des recommandations pour mieux garantir le niveau de compétence nécessaires tout en veillant au principe de non-discrimination.</description>
       <guid isPermaLink="false">05b2a16db233e2a1f16f91bbfa28a0e30670b9d7182805b89d16932ac547a307</guid>
       <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CETHI POUR LE COLLECTIF - Développement de chauffe-eau thermodynamiques (CETHI) bas carbone pour le collectif</title>
-      <link>https://librairie.ademe.fr/energies/9323-cethi-pour-le-collectif-developpement-de-chauffe-eau-thermodynamiques-cethi-bas-carbone-pour-le-collectif.html</link>
-      <description>Le projet de ATLANTIC INDUSTRIE vise à développer une nouvelle génération de Chauffe-Eau Thermodynamiques (CETHI) utilisant du propane comme fluide réfrigérant pour réduire leur empreinte environnementale.</description>
-      <guid isPermaLink="false">11e59be84678ffb7ae9f6047173480281b3cf81890b4b18bd22fdfaff20d7f54</guid>
-      <pubDate>Mon, 27 Apr 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
