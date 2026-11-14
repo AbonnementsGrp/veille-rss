@@ -1,4 +1,31 @@
 {
+  "ab2120a3f9cf31841e3b7adecff2f5b545a03eb5880daad448e345efadd9db4b": {
+    "source": "Outre-Mer 360°",
+    "title": "Christiane Taubira et le cinéaste guadeloupéen Jean-Claude Barny invités d’honneur de la 10ème édition du Festival International du Film Documentaire de Martinique « Les Révoltés du Monde »",
+    "link": "https://outremers360.com/bassin-atlantique-appli/christiane-taubira-et-le-cineaste-guadeloupeen-jean-claude-barny-invites-dhonneur-de-la-10eme-edition-du-festival-international-du-film-documentaire-de-martinique-les-revoltes-du-monde",
+    "description": "Porté par l’association Protéa, le Festival International du Film Documentaire de Martinique « Les Révoltés du Monde » revient pour une 10ème édition du 19 au 28 novembre 2026 avec pour invités d’honneur l’ex Garde des Sceaux Christiane Taubira et le...",
+    "published": "2026-11-14T12:26:11+00:00",
+    "first_seen": "2026-11-14T18:05:32.511580+00:00",
+    "uid": "ab2120a3f9cf31841e3b7adecff2f5b545a03eb5880daad448e345efadd9db4b"
+  },
+  "b5ee5c535d678b225d8627ca2412b3a8c8524c26f20b7d710c3d24d6d7914f9a": {
+    "source": "Outre-Mer 360°",
+    "title": "Handicap en Outre-mer : le Sénat adopte à l'unanimité un amendement de la sénatrice Audrey Bélim pour un financement de la prestation de compensation du handicap plus juste",
+    "link": "https://outremers360.com/bassin-atlantique-appli/handicap-en-outre-mer-le-senat-adopte-a-lunanimite-un-amendement-de-la-senatrice-audrey-belim-pour-un-financement-de-la-prestation-de-compensation-du-handicap-plus-juste",
+    "description": "Vendredi 13 novembre 2026, à l'occasion de l'examen du projet de loi de financement de la sécurité sociale (PLFSS) pour 2027, le Sénat a adopté à l'unanimité, malgré l'avis défavorable du gouvernement ,un amendement porté par la sénatrice de La Réunion Audrey Bélim....",
+    "published": "2026-11-14T11:54:11+00:00",
+    "first_seen": "2026-11-14T18:05:32.511580+00:00",
+    "uid": "b5ee5c535d678b225d8627ca2412b3a8c8524c26f20b7d710c3d24d6d7914f9a"
+  },
+  "64ef5991e9e7b303212e79557ba11cef11dc11f0c3562cd387058cdb8650343f": {
+    "source": "Outre-Mer 360°",
+    "title": "Le RSMA de la Guadeloupe inaugure sa crèche, un nouveau levier pour l’insertion professionnelle des jeunes parents",
+    "link": "https://outremers360.com/bassin-atlantique-appli/le-rsma-de-la-guadeloupe-inaugure-sa-creche-un-nouveau-levier-pour-linsertion-professionnelle-des-jeunes-parents",
+    "description": "Le 12 novembre 2026, la crèche du Régiment du Service Militaire Adapté de la Guadeloupe a officiellement été inaugurée par le général de brigade Frédéric Bos, commandant le Service militaire adapté.Dotée d’une capacité d’accueil de 60 berceaux, cette...",
+    "published": "2026-11-14T10:38:10+00:00",
+    "first_seen": "2026-11-14T18:05:32.511580+00:00",
+    "uid": "64ef5991e9e7b303212e79557ba11cef11dc11f0c3562cd387058cdb8650343f"
+  },
   "b946fd097eded2f421838ce54b32f4ac367fc99a594c00946a50cb2888acd2a5": {
     "source": "Outre-Mer 360°",
     "title": "Violences armées en Martinique : Serge Letchimy écrit à Emmanuel Macron et réclame un « plan Vigipirate contre la drogue aux Antilles »",
@@ -9312,42 +9339,6 @@
     "published": "2026-10-06T07:58:56+00:00",
     "first_seen": "2026-10-07T06:03:54.084743+00:00",
     "uid": "f0652e57e8fe56c8b577290e7e74fe36e811727dbc7d1aa66bde3952b6c81f30",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "5aab493e375a2f6b1b3ee0c255e00bb648577ef219ac1a8be3d9bd299a767a75": {
-    "source": "ANAP - Actualités",
-    "title": "Autodiagnostics Psychiatrie et santé mentale : hôpital de jour",
-    "link": "https://www.anap.fr/s/article/autodiagnostic-psychiatrie-sante-mentale-hopital-de-jour",
-    "description": "5 autodiagnostics pour réaliser un état des lieux, identifier les points forts et axes d'amélioration de l'organisation d'un HDJ, selon les publics accueillis, de la psychiatrie périnatale à celle de la personne âgée. Avec, en plus, un outil de synthèse pour une vision consolidée de plusieurs HDJ.",
-    "published": "2026-10-06T07:58:23+00:00",
-    "first_seen": "2026-10-07T06:03:54.084743+00:00",
-    "uid": "5aab493e375a2f6b1b3ee0c255e00bb648577ef219ac1a8be3d9bd299a767a75",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "613ff0a290d5857ea02416bb246ad85b33f84ffefcf2c04971a6a957ea88707b": {
-    "source": "ANAP - Actualités",
-    "title": "Autodiagnostic Psychiatrie et santé mentale : séjours longs",
-    "link": "https://www.anap.fr/s/article/autodiagnostic-psychiatrie-sante-mentale-sejours-longs",
-    "description": "Cet outil a été conçu pour réaliser un état des lieux des séjours de plus de 90 jours en continu sur un an, et pour mesurer le niveau d’organisation de votre structure. Vous pourrez, à partir de la situation des personnes hospitalisées, leur proposer des solutions de sortie adaptées à leurs besoins.",
-    "published": "2026-10-06T07:57:59+00:00",
-    "first_seen": "2026-10-07T06:03:54.084743+00:00",
-    "uid": "613ff0a290d5857ea02416bb246ad85b33f84ffefcf2c04971a6a957ea88707b",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "854d98e1a9e13d7239ce760dc180c9d732e932d2cf61fe7003800ba81eb08591": {
-    "source": "ANAP - Actualités",
-    "title": "Autodiagnostics Psychiatrie et santé mentale : CMP",
-    "link": "https://www.anap.fr/s/article/autodiagnostic-psychiatrie-sante-mentale-cmp",
-    "description": "2 autodiagnostics pour réaliser un premier état des lieux, identifier les points forts et axes d'amélioration de l'organisation d'un CMP, selon les publics accueillis : psychiatrie de l'enfant et de l'adolescent, et psychiatrie de l'adulte. Avec, en plus, un outil de synthèse pour une vision consolidée de plusieurs CMP.",
-    "published": "2026-10-06T07:57:28+00:00",
-    "first_seen": "2026-10-07T06:03:54.084743+00:00",
-    "uid": "854d98e1a9e13d7239ce760dc180c9d732e932d2cf61fe7003800ba81eb08591",
     "description_checked": true,
     "title_checked": true,
     "title_enriched": true
