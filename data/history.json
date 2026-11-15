@@ -1,4 +1,23 @@
 {
+  "52edf577bd695640c8944e7e2ba5a32eafb7b0951d3dce17bd839b3866656832": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "Nomination de Nathalie Roret, Défenseure des enfants",
+    "link": "https://www.lesprosdelapetiteenfance.fr/nomination-de-nathalie-roret-defenseure-des-enfants/",
+    "description": "Sur proposition du Défenseur des droits, l'avocate Nathalie Roret a été nommée par décret du Premier ministre, Défenseure des enfants.",
+    "published": "2026-11-15T16:40:25+00:00",
+    "first_seen": "2026-11-15T22:50:44.551610+00:00",
+    "uid": "52edf577bd695640c8944e7e2ba5a32eafb7b0951d3dce17bd839b3866656832",
+    "description_checked": true
+  },
+  "c587000e438f68a4950ff34d408a485c5a4b92dbc5cfd78c39ff495f9f886d75": {
+    "source": "Outre-Mer 360°",
+    "title": "Trafic de drogue : la Marine française intercepte un semi-submersible transportant plusieurs tonnes de cocaïne près de la Martinique",
+    "link": "https://outremers360.com/bassin-atlantique-appli/trafic-de-drogue-la-marine-francaise-intercepte-un-semi-submersible-transportant-plusieurs-tonnes-de-cocaine-pres-de-la-martinique",
+    "description": "La Marine nationale française a intercepté une embarcation qui n’arborait aucun pavillon, au large de la Martinique. 146kg de cocaïne ont été repêchés en mer.Une embarcation semi-submersible qui contenait plusieurs tonnes de cocaïne a été interceptée jeudi par...",
+    "published": "2026-11-15T17:14:44+00:00",
+    "first_seen": "2026-11-15T22:50:30.277734+00:00",
+    "uid": "c587000e438f68a4950ff34d408a485c5a4b92dbc5cfd78c39ff495f9f886d75"
+  },
   "64412b1065a3bf322ba458a1c68153ead8c77dcb5222b6a47e97824bc73060a3": {
     "source": "Outre-Mer 360°",
     "title": "Livre : le fervent plaidoyer de la sénatrice réunionnaise Corinne Narassiguin en faveur de l’universalisme républicain",
@@ -9294,30 +9313,6 @@
     "published": "2026-10-06T08:03:21+00:00",
     "first_seen": "2026-10-07T06:03:54.084743+00:00",
     "uid": "429d5f0cc585cdb0d6f66d41b908d1b624ee02e84d4cf82677e2bfb9bdf89819",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "8949f27c1657b0fecbe5e79f562ae9412db7c7d31696a8b6b3c8c569246fac10": {
-    "source": "ANAP - Actualités",
-    "title": "Bibliothèque des cycles de travail",
-    "link": "https://www.anap.fr/s/article/Biblioth%C3%A8que-des-cycles-de-travail",
-    "description": "Cette bibliothèque numérique propose 100 modèles de cycles de travail \"prêts à l’emploi\" ou s’approchant des besoins des utilisateurs. Ce dispositif de partage, au service de la simplification des organisations, vous permettra de faciliter la gestion du temps de travail.",
-    "published": "2026-10-06T08:02:49+00:00",
-    "first_seen": "2026-10-07T06:03:54.084743+00:00",
-    "uid": "8949f27c1657b0fecbe5e79f562ae9412db7c7d31696a8b6b3c8c569246fac10",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "9b78846019b980451496479fb5e86a853fac07fd145589c9435937b0cd07df40": {
-    "source": "ANAP - Actualités",
-    "title": "MELOG-Stérilisation : outil d'aide à la décision pour les projets de coopération entre établissements sur la fonction stérilisation",
-    "link": "https://www.anap.fr/s/article/pharma-bio-ste-publication-2506",
-    "description": "MELOG est un outil logiciel d'aide à l'exploration de solutions organisationnelles différentes de la fonction stérilisation, plus particulièrement dans le contexte de projets de coopération",
-    "published": "2026-10-06T08:02:21+00:00",
-    "first_seen": "2026-10-07T06:03:54.084743+00:00",
-    "uid": "9b78846019b980451496479fb5e86a853fac07fd145589c9435937b0cd07df40",
     "description_checked": true,
     "title_checked": true,
     "title_enriched": true
