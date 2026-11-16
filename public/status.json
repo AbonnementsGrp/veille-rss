@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-15T22:50:53.927185+00:00",
+  "generated_at": "2026-11-16T19:38:25.290092+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
   "sites_warning": 2,
-  "new_items": 2,
-  "merged_items": 558,
+  "new_items": 25,
+  "merged_items": 564,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -137,7 +137,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 40,
+      "items": 43,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
@@ -185,7 +185,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 271 jours (seuil : 60)"
+        "rien de neuf depuis 272 jours (seuil : 60)"
       ]
     },
     {
@@ -244,7 +244,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 955 jours (seuil : 60)"
+        "rien de neuf depuis 956 jours (seuil : 60)"
       ]
     },
     {
@@ -256,7 +256,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 14,
+      "items": 15,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []
