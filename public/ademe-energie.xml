@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 15 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Retours d'expérience de porteurs de projets engagés dans une démarche de transition écologique en Guyane</title>
+      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9776-retours-d-experience-de-porteurs-de-projets-engages-dans-une-demarche-de-transition-ecologique-en-guyane-9791029727382.html</link>
+      <description>Face aux défis climatiques, énergétiques, environnementaux et sociaux, les communes ont un rôle essentiel à jouer dans la transition écologique. À travers ce livret, l’ADEME et l’OFB souhaitent accompagner les élus dans leurs nouveaux mandats en leur proposant des exemples concrets de projets pour intégrer la transition écologique dans leurs politiques publiques. Ces 12 fiches valorisent des retours d’expérience portés par des communes guyanaises. Elles mettent en lumière des solutions déjà mises en oeuvre sur le territoire, leurs bénéfices ainsi que les ressources disponibles pour accompagner de nouvelles initiatives. Son ambition : inspirer les élus avec des projets adaptés aux réalités de la Guyane et leur donner envie de passer à l’action.</description>
+      <guid isPermaLink="false">1eafae04a34c2588270062d2915aa5d9984e2f18cb5051b1b5b880f9063a51a2</guid>
+      <pubDate>Mon, 16 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Foyer de vie, ADPEP du Gers, Le Houga (32)</title>
       <link>https://librairie.ademe.fr/energies/9769-foyer-de-vie-adpep-du-gers-le-houga-32.html</link>
@@ -421,13 +428,6 @@
       <description>Cette synthèse présente les évènements phares et le bilan des actions réalisées par la Représentation de l'ADEME en Polynésie française en 2025.</description>
       <guid isPermaLink="false">a50925bcc4a163ed5a49c88192df0b38771a8fc1cc542e3d199195046c8fd9cd</guid>
       <pubDate>Wed, 06 May 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Chiffres clés du parc d'unités de méthanisation en France 2021-2025</title>
-      <link>https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9332-chiffres-cles-du-parc-d-unites-de-methanisation-en-france-2021-2025.html</link>
-      <description>En 2021, Observ’ER a accompagné l’ADEME dans son action de mise à jour de l’outil SINOE® su les données relatives aux sites de méthanisation en France. Les chiffres de ce document sont issus de l’analyse de la base de données SINOE®. La base a été mise à jour par Observ’ER à partir de données fournies par les Directions Régionales de l’ADEME et de recherches complémentaires. Cette synthèse présente l’état des sites de méthanisation en France au 1er janvier 2021.</description>
-      <guid isPermaLink="false">cc7f97b1a4f3c5867c056bc335a15bc20a79b381e92555719037a5550cdb72e0</guid>
-      <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

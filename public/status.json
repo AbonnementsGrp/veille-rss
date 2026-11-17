@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-17T03:56:23.650387+00:00",
+  "generated_at": "2026-11-17T16:02:56.971605+00:00",
   "sites_total": 17,
-  "sites_ok": 16,
-  "sites_error": 1,
+  "sites_ok": 15,
+  "sites_error": 2,
   "sites_warning": 2,
-  "new_items": 5,
-  "merged_items": 562,
+  "new_items": 23,
+  "merged_items": 555,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -25,7 +25,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 60,
+      "items": 59,
       "feed": "outre-mer-360.xml",
       "source_feed": "https://api.outremers360.com/rss/fil-info.xml",
       "warnings": []
@@ -165,10 +165,11 @@
         "La restauration collective"
       ],
       "render": false,
-      "status": "ok",
-      "method": "flux officiel",
+      "status": "error",
+      "method": "historique conservé",
       "items": 7,
       "feed": "c2l-restauration-collective.xml",
+      "error": "403 Client Error: Forbidden for url: https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/",
       "source_feed": "https://c2lsolutions.fr/feed/?post_type=post",
       "warnings": []
     },
@@ -185,7 +186,7 @@
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": [
-        "rien de neuf depuis 272 jours (seuil : 60)"
+        "rien de neuf depuis 273 jours (seuil : 60)"
       ]
     },
     {
@@ -211,7 +212,7 @@
       "render": false,
       "status": "error",
       "method": "historique conservé",
-      "items": 10,
+      "items": 6,
       "feed": "cnsa.xml",
       "error": "HTTPSConnectionPool(host='www.cnsa.fr', port=443): Max retries exceeded with url: /actualites (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)')))",
       "source_feed": "https://www.cnsa.fr/flux-rss.xml/article",
@@ -244,7 +245,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 956 jours (seuil : 60)"
+        "rien de neuf depuis 957 jours (seuil : 60)"
       ]
     },
     {

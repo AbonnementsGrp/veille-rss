@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 15 Nov 2026 16:40:25 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 10:19:43 +0000</lastBuildDate>
+    <item>
+      <title>Places en crèche : près de neuf Français sur dix attendent un soutien des employeurs</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/places-en-creche-pres-de-neuf-francais-sur-dix-attendent-un-soutien-des-employeurs/</link>
+      <description>Préserver la petite enfance et renforcer le soutien des employeurs aux salariés parents : ces deux attentes fortes ressortent du deuxième baromètre Ifop pour la Fondation Grandir intitulé« Le rapport des Français à la natalité », dont les résultats ont été dévoilés le 16 novembre.</description>
+      <guid isPermaLink="false">1245fee6a06654eb8dfd3d9bca74b545948d3fc4ed69015f563070980ba35319</guid>
+      <pubDate>Tue, 17 Nov 2026 10:19:43 +0000</pubDate>
+    </item>
     <item>
       <title>Nomination de Nathalie Roret, Défenseure des enfants</title>
       <link>https://www.lesprosdelapetiteenfance.fr/nomination-de-nathalie-roret-defenseure-des-enfants/</link>
@@ -260,13 +267,6 @@
       <description>Dans une lettre commune adressée le 2 octobre à Stéphanie Rist, l’UFNAFAAM, le SPAMAF et l’ANAMAAF demandent une stratégie nationale en faveur des assistantes maternelles.</description>
       <guid isPermaLink="false">095c0bd48ccec9c521fe9bfed476e64ac30800f6a9aef2aa2d120f53705481ba</guid>
       <pubDate>Thu, 08 Oct 2026 13:09:07 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grève du 8 octobre : la petite enfance se mobilise, des actions annoncées dans une vingtaine de villes</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/greve-du-8-octobre-la-petite-enfance-se-mobilise-des-actions-annoncees-dans-une-vingtaine-de-villes/</link>
-      <description>À l’appel du collectif Pas de bébés à la consigne, une journée nationale de grève et de manifestations est organisée jeudi 8 octobre dans plusieurs villes de France.</description>
-      <guid isPermaLink="false">48641e24c25ad9e67ad0c3269e18260a53ff0030141394ed34e18437212ac907</guid>
-      <pubDate>Wed, 07 Oct 2026 08:32:47 +0000</pubDate>
     </item>
   </channel>
 </rss>

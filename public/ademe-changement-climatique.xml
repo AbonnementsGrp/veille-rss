@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 15 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Retours d'expérience de porteurs de projets engagés dans une démarche de transition écologique en Guyane</title>
+      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9776-retours-d-experience-de-porteurs-de-projets-engages-dans-une-demarche-de-transition-ecologique-en-guyane-9791029727382.html</link>
+      <description>Face aux défis climatiques, énergétiques, environnementaux et sociaux, les communes ont un rôle essentiel à jouer dans la transition écologique. À travers ce livret, l’ADEME et l’OFB souhaitent accompagner les élus dans leurs nouveaux mandats en leur proposant des exemples concrets de projets pour intégrer la transition écologique dans leurs politiques publiques. Ces 12 fiches valorisent des retours d’expérience portés par des communes guyanaises. Elles mettent en lumière des solutions déjà mises en oeuvre sur le territoire, leurs bénéfices ainsi que les ressources disponibles pour accompagner de nouvelles initiatives. Son ambition : inspirer les élus avec des projets adaptés aux réalités de la Guyane et leur donner envie de passer à l’action.</description>
+      <guid isPermaLink="false">d2ec183900af97bef1495ba8e45265113a66310f661f52d35df129e745a7ac04</guid>
+      <pubDate>Mon, 16 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Entreprise robuste</title>
       <link>https://librairie.ademe.fr/batiment/9770-entreprise-robuste.html</link>
@@ -421,13 +428,6 @@
       <description>Sous l’égide des ministères chargés de la Transition écologique et de l’Énergie, l’ADEME anime un réseau unique d’élus qui agissent en faveur de la transition écologique dans chaque commune, chaque intercommunalité de France et à l’échelle de chaque région. Rejoignez-nous pour mieux décrypter la transition écologique, mieux connaître les acteurs et les outils et accéder aux meilleurs experts.</description>
       <guid isPermaLink="false">748f148ee2e85842b95aa28ed622e14c5f8512bdd6237dee9025bc75733f87c2</guid>
       <pubDate>Tue, 14 Apr 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Décryptage 16 PACA : Coopération et adaptation au changement climatique</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9285-decryptage-16-paca-cooperation-et-adaptation-au-changement-climatique.html</link>
-      <description>Le format – Les Décryptages de l'ADEME en Provence-Alpes-Côte d'Azur sont des webinaires d'une heure et s'adressent aux acteurs et aux actrices de la région. Objectif de ce Décryptage – Canicules, inondations, sécheresses… le changement climatique est une réalité. Ses impacts sont sanitaires, économiques et touchent directement nos activités, nos filières et nos territoires. Plus nous tardons à nous adapter, plus le coût sera élevé. L’adaptation est désormais une priorité nationale. Des stratégies et des dispositifs concrets ont été définis et sont mis en place – trajectoire d’adaptation traduite à travers 52 fiches mesures (TRACC), Plan National d’Adaptation, Mission Adaptation… – ainsi que des accompagnements techniques, financiers et thématiques. De nombreuses ressources et des formations existent également. Pour en savoir plus découvrez cette présentation et son replay .</description>
-      <guid isPermaLink="false">9540129513aee4a60cd9ca0f97e623332159ea98dfd5e834f4b0eec752018728</guid>
-      <pubDate>Sun, 12 Apr 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
