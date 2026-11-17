@@ -1,4 +1,58 @@
 {
+  "7db71e7e9e1ebcfb1cb7d4448139aa5d4d5c9c59f53e91f18f6be452cd135a48": {
+    "source": "ANAP - Actualités",
+    "title": "La Communication Alternative et Améliorée (CAA)",
+    "link": "https://www.anap.fr/s/article/communication-alternative-adaptee-caa",
+    "description": "Depuis juin 2025, la communication alternative et améliorée (CAA) est obligatoire dans tous les ESMS. Pour accompagner les établissements à structurer et déployer cette démarche, l'Anap publie un guide pratique accompagné d’un autodiagnostic, d'outils concrets, et de bonnes pratiques.",
+    "published": "2026-11-16T15:24:26+00:00",
+    "first_seen": "2026-11-17T03:56:00.611491+00:00",
+    "uid": "7db71e7e9e1ebcfb1cb7d4448139aa5d4d5c9c59f53e91f18f6be452cd135a48",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "dcd2b9f2aaa9364fa0acffe7b69331927ebcab452df3656a44d4eaa3914f2bc7": {
+    "source": "ANAP - Actualités",
+    "title": "Conférence Soins critiques et crise sanitaire : quels enseignements organisationnels au niveau européen ?",
+    "link": "https://www.anap.fr/s/article/conference-soins-critiques-et-crise-sanitaire-quels-enseignements-organisationnels-au-niveau-europeen",
+    "description": "Le 16 juin 2022 a eu lieu la conférence Soins critiques et crise sanitaire : quels enseignements organisationnels au niveau européen ?. Professionnels et experts ont confronté leurs expériences de la gestion de la crise sanitaire. Une belle façon d’initier une communauté européenne des soins critiques !",
+    "published": "2026-11-16T14:36:08+00:00",
+    "first_seen": "2026-11-17T03:56:00.611491+00:00",
+    "uid": "dcd2b9f2aaa9364fa0acffe7b69331927ebcab452df3656a44d4eaa3914f2bc7",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "7622693ac9455094e188851280754463b40f67e10f5b72b72e7169f9f8c703db": {
+    "source": "ANAP - Actualités",
+    "title": "Imagerie : autodiagnostic",
+    "link": "https://www.anap.fr/s/article/imagerie-publication-1543",
+    "description": "L'autodiagnostic permet aux professionnels des services d'imagerie médicale de réaliser un diagnostic qualitatif de l'organisation et du fonctionnement de leur service d'imagerie médicale.",
+    "published": "2026-10-14T09:50:12+00:00",
+    "first_seen": "2026-11-17T03:56:00.611491+00:00",
+    "uid": "7622693ac9455094e188851280754463b40f67e10f5b72b72e7169f9f8c703db",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "f4cdbd456da1e93f7a02aa796cf9ccc75a65db541b55c70165effd163fbb7184": {
+    "source": "ADEME_Energie",
+    "title": "Chaufferie géothermique sur sondes. Ecole Marcel Pagnol. Commune de Pamiers (09)",
+    "link": "https://librairie.ademe.fr/energies/9658-chaufferie-geothermique-sur-sondes-ecole-marcel-pagnol-commune-de-pamiers-09.html",
+    "description": "Situé sur un îlot entouré par des canaux de l’Ariège, le projet « île aux enfants », porté par la commune de Pamiers, a transformé une ancienne friche commerciale en un jardin d’enfant et une école maternelle de 1 737 m2 . Le projet associe nature et urbanité, avec une attention portée à la performance énergétique et au choix de matériaux à impact réduit. Le bois et les isolants en fibres naturelles ont ainsi été privilégiés. Pour assurer le confort en été comme en hiver, un système géothermique a également été installé. Un champ de forages verticaux permet d’échanger de la chaleur avec le sous-sol afin de chauffer ou de refroidir le bâtiment. Ce système permet ainsi de réduire fortement la consommation électrique. Cette fiche présente le projet, ses caractéristiques techniques, des données de consommation et le témoignage de la directrice du programme ANRU de la collectivité.",
+    "published": "2026-10-06T22:00:00+00:00",
+    "first_seen": "2026-11-17T03:55:43.326311+00:00",
+    "uid": "f4cdbd456da1e93f7a02aa796cf9ccc75a65db541b55c70165effd163fbb7184"
+  },
+  "7637ed64833f4b7f24432cf014866ff99c5bee1b50d8f747fad1c811ef91deef": {
+    "source": "Outre-Mer 360°",
+    "title": "À Montpellier, à l’ouverture du congrès de l’ACCD’OM les élus revendiquent des politiques publiques adaptées à leurs réalités",
+    "link": "https://outremers360.com/bassin-atlantique-appli/a-montpellier-a-louverture-du-congres-de-laccdom-les-elus-revendiquent-des-politiques-publiques-adaptees-a-leurs-realites",
+    "description": "Le congrès de l’Association des communes et collectivités d’Outre-mer (ACCD’OM) s’est ouvert ce lundi 16 novembre à Montpellier. À cette occasion, son président Joseph Kaiha, également maire de Ua Pou en Polynésie française, a plaidé pour une meilleure prise en...",
+    "published": "2026-11-16T21:03:11+00:00",
+    "first_seen": "2026-11-17T03:55:39.320671+00:00",
+    "uid": "7637ed64833f4b7f24432cf014866ff99c5bee1b50d8f747fad1c811ef91deef"
+  },
   "eb04479b8f65359d4212b6f4c6c2839845184e6488b4ed149eed13266a0cb7b0": {
     "source": "ADN Tourisme",
     "title": "Les visages d’ADN Tourisme : Mathieu Bruc",
@@ -4425,7 +4479,7 @@
     "title": "Réformer l'offre de soins : ce que l'Europe nous dit",
     "link": "https://www.anap.fr/s/article/reformer-l-offre-de-soins-ce-que-l-europe-nous-dit",
     "description": "Au cours des vingt dernières années, de nombreux pays européens ont engagé des réformes d’ampleur de leur système de santé. L’Anap a étudié les réformes menées dans 6 pays européens pour en comprendre les tenants et aboutissants",
-    "published": "2026-10-15T13:46:57+00:00",
+    "published": "2026-11-16T14:35:59+00:00",
     "first_seen": "2026-10-30T22:23:32.907085+00:00",
     "uid": "4a41941a2245b158758c575dff8ed523f0e6933fd33f04fb37ce6ecf0a06a4eb",
     "description_checked": true,
@@ -9235,51 +9289,5 @@
     "published": "2026-10-07T10:16:19+00:00",
     "first_seen": "2026-10-07T13:29:45.185572+00:00",
     "uid": "8c914e5201228741a6b8bfb8d36bd7255ae93e0f368797f7c1eb3b666b0d1ad9"
-  },
-  "32dd1b2b98acb9d8551776d355d3b8cd13d40285d393a8eb63c177ba9aca0d1c": {
-    "source": "CNSA - Actualités",
-    "title": "Offre médico-sociale : la CNSA soutient 5 nouveaux projets innovants en 2026",
-    "link": "https://www.cnsa.fr/actualites/offre-medico-sociale-la-cnsa-soutient-5-nouveaux-projets-innovants-en-2026",
-    "description": "Cette année 2026, 152 projets ont été soumis dans le cadre de l’appel à projets annuel « Expérimenter pour accompagner l’évolution de l’offre médico-sociale ». À l’issue de la sélection par le comité des subventions de la CNSA, 5 projets ont été retenus, pour un montant total de soutien de plus d'un million d'euros.",
-    "published": "2026-08-25T08:02:53+00:00",
-    "first_seen": "2026-10-07T13:29:45.185572+00:00",
-    "uid": "32dd1b2b98acb9d8551776d355d3b8cd13d40285d393a8eb63c177ba9aca0d1c"
-  },
-  "42ab173b7576b3d1f350262a5ed232f3ced26a030fb120de1456c9959bd51f6d": {
-    "source": "CNSA - Actualités",
-    "title": "Sonia Pires est nommée directrice de l’accès aux droits et aux parcours de la CNSA",
-    "link": "https://www.cnsa.fr/actualites/sonia-pires-est-nommee-directrice-de-lacces-aux-droits-et-aux-parcours-de-la-cnsa",
-    "description": "Depuis le 6 août 2026, Sonia Pires est nommée directrice de l’accès aux droits et aux parcours de la CNSA.",
-    "published": "2026-08-17T08:10:02+00:00",
-    "first_seen": "2026-10-07T13:29:45.185572+00:00",
-    "uid": "42ab173b7576b3d1f350262a5ed232f3ced26a030fb120de1456c9959bd51f6d"
-  },
-  "a9e2c7a0f5036b197d936a975e75ebf9893053d74acc799019d75d103b977d48": {
-    "source": "CNSA - Actualités",
-    "title": "Décès de M. Dominique Libault",
-    "link": "https://www.cnsa.fr/actualites/deces-de-m-dominique-libault",
-    "description": "C’est avec émotion que les équipes de la CNSA ont appris le décès de Dominique Libault, survenu samedi 8 août. Il incarnait la Sécurité sociale à laquelle il avait voué toute sa carrière. Il en portait les valeurs de rigueur, de solidarité et de service public.",
-    "published": "2026-08-11T10:15:36+00:00",
-    "first_seen": "2026-10-07T13:29:45.185572+00:00",
-    "uid": "a9e2c7a0f5036b197d936a975e75ebf9893053d74acc799019d75d103b977d48"
-  },
-  "ed00e079873134518d228d21232c05b04b99f5efa33b7540c1fc5ea7bd11cb18": {
-    "source": "CNSA - Actualités",
-    "title": "8 facteurs de réussite d’un programme de lutte contre l’isolement et la solitude des plus de 60 ans",
-    "link": "https://www.cnsa.fr/actualites/8-facteurs-de-reussite-dun-programme-de-lutte-contre-lisolement-et-la-solitude-des-plus",
-    "description": "Dans le prolongement de ses précédentes publications, le Centre de ressources et de preuves (CRP) sur la prévention de la perte d'autonomie de la CNSA publie une synthèse de bonnes pratiques dédiée à la lutte contre l'isolement social et à la solitude, avec l'appui de l'Union des gérontopôles de France.",
-    "published": "2026-07-08T07:00:00+00:00",
-    "first_seen": "2026-10-07T13:29:45.185572+00:00",
-    "uid": "ed00e079873134518d228d21232c05b04b99f5efa33b7540c1fc5ea7bd11cb18"
-  },
-  "48641e24c25ad9e67ad0c3269e18260a53ff0030141394ed34e18437212ac907": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Grève du 8 octobre : la petite enfance se mobilise, des actions annoncées dans une vingtaine de villes",
-    "link": "https://www.lesprosdelapetiteenfance.fr/greve-du-8-octobre-la-petite-enfance-se-mobilise-des-actions-annoncees-dans-une-vingtaine-de-villes/",
-    "description": "À l’appel du collectif Pas de bébés à la consigne, une journée nationale de grève et de manifestations est organisée jeudi 8 octobre dans plusieurs villes de France.",
-    "published": "2026-10-07T08:32:47+00:00",
-    "first_seen": "2026-10-07T13:27:53.337811+00:00",
-    "uid": "48641e24c25ad9e67ad0c3269e18260a53ff0030141394ed34e18437212ac907",
-    "description_checked": true
   }
 }

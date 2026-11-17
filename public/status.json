@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-16T19:38:25.290092+00:00",
+  "generated_at": "2026-11-17T03:56:23.650387+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
   "sites_warning": 2,
-  "new_items": 25,
-  "merged_items": 564,
+  "new_items": 5,
+  "merged_items": 562,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -123,7 +123,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 22,
+      "items": 21,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
@@ -211,7 +211,7 @@
       "render": false,
       "status": "error",
       "method": "historique conservé",
-      "items": 11,
+      "items": 10,
       "feed": "cnsa.xml",
       "error": "HTTPSConnectionPool(host='www.cnsa.fr', port=443): Max retries exceeded with url: /actualites (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)')))",
       "source_feed": "https://www.cnsa.fr/flux-rss.xml/article",

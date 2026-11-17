@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 12 Nov 2026 13:16:43 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 16 Nov 2026 15:24:26 +0000</lastBuildDate>
+    <item>
+      <title>La Communication Alternative et Améliorée (CAA)</title>
+      <link>https://www.anap.fr/s/article/communication-alternative-adaptee-caa</link>
+      <description>Depuis juin 2025, la communication alternative et améliorée (CAA) est obligatoire dans tous les ESMS. Pour accompagner les établissements à structurer et déployer cette démarche, l'Anap publie un guide pratique accompagné d’un autodiagnostic, d'outils concrets, et de bonnes pratiques.</description>
+      <guid isPermaLink="false">7db71e7e9e1ebcfb1cb7d4448139aa5d4d5c9c59f53e91f18f6be452cd135a48</guid>
+      <pubDate>Mon, 16 Nov 2026 15:24:26 +0000</pubDate>
+    </item>
+    <item>
+      <title>Conférence Soins critiques et crise sanitaire : quels enseignements organisationnels au niveau européen ?</title>
+      <link>https://www.anap.fr/s/article/conference-soins-critiques-et-crise-sanitaire-quels-enseignements-organisationnels-au-niveau-europeen</link>
+      <description>Le 16 juin 2022 a eu lieu la conférence Soins critiques et crise sanitaire : quels enseignements organisationnels au niveau européen ?. Professionnels et experts ont confronté leurs expériences de la gestion de la crise sanitaire. Une belle façon d’initier une communauté européenne des soins critiques !</description>
+      <guid isPermaLink="false">dcd2b9f2aaa9364fa0acffe7b69331927ebcab452df3656a44d4eaa3914f2bc7</guid>
+      <pubDate>Mon, 16 Nov 2026 14:36:08 +0000</pubDate>
+    </item>
+    <item>
+      <title>Réformer l'offre de soins : ce que l'Europe nous dit</title>
+      <link>https://www.anap.fr/s/article/reformer-l-offre-de-soins-ce-que-l-europe-nous-dit</link>
+      <description>Au cours des vingt dernières années, de nombreux pays européens ont engagé des réformes d’ampleur de leur système de santé. L’Anap a étudié les réformes menées dans 6 pays européens pour en comprendre les tenants et aboutissants</description>
+      <guid isPermaLink="false">4a41941a2245b158758c575dff8ed523f0e6933fd33f04fb37ce6ecf0a06a4eb</guid>
+      <pubDate>Mon, 16 Nov 2026 14:35:59 +0000</pubDate>
+    </item>
     <item>
       <title>Appui terrain – Moins de carbone, plus d’économies</title>
       <link>https://www.anap.fr/s/article/appui-terrain-moins-de-carbone-plus-d-economies</link>
@@ -367,13 +388,6 @@
       <pubDate>Fri, 16 Oct 2026 08:09:33 +0000</pubDate>
     </item>
     <item>
-      <title>Réformer l'offre de soins : ce que l'Europe nous dit</title>
-      <link>https://www.anap.fr/s/article/reformer-l-offre-de-soins-ce-que-l-europe-nous-dit</link>
-      <description>Au cours des vingt dernières années, de nombreux pays européens ont engagé des réformes d’ampleur de leur système de santé. L’Anap a étudié les réformes menées dans 6 pays européens pour en comprendre les tenants et aboutissants</description>
-      <guid isPermaLink="false">4a41941a2245b158758c575dff8ed523f0e6933fd33f04fb37ce6ecf0a06a4eb</guid>
-      <pubDate>Thu, 15 Oct 2026 13:46:57 +0000</pubDate>
-    </item>
-    <item>
       <title>Performance des SMR : Plateaux techniques, ambulatoire, réadaptation à domicile</title>
       <link>https://www.anap.fr/s/article/performance-des-smr-plateaux-techniques-ambulatoire-readaptation-a-domicile</link>
       <description>L’Anap renforce son action avec trois nouveaux guides, un autodiagnostic et un appui terrain.</description>
@@ -407,20 +421,6 @@
       <description>Actualités règlementaires, bonnes pratiques, conseils d’experts : face aux enjeux de la transition écologique, l’Anap vous propose une série de webinaires dédiés.</description>
       <guid isPermaLink="false">b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245</guid>
       <pubDate>Tue, 13 Oct 2026 11:35:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Webinaire : Les Rendez-Vous des PCO</title>
-      <link>https://www.anap.fr/s/article/webinaire-les-rendez-vous-des-pco</link>
-      <description>A la demande de la DITND, l'Anap a formulé des recommandations et construit une boîte à outils concrète pour renforcer l’organisation des plateformes de coordination et d'orientation (PCO). Participez à notre webinaire pour découvrir ces outils et les prendre en main.</description>
-      <guid isPermaLink="false">2a861a0a3fe5e4dd14017ba0790ed16655f274d0f9efb4470c873b886feaa24a</guid>
-      <pubDate>Mon, 12 Oct 2026 14:29:45 +0000</pubDate>
-    </item>
-    <item>
-      <title>Boîte à outils Innovation collaborative</title>
-      <link>https://www.anap.fr/s/article/boite-a-outil-innovation-collaborative</link>
-      <description>La boîte à outils "innovation collaborative" propose des outils pratiques pour mobiliser les démarches de design et d'innovation au service de vos projets. Conçue pour être utilisée tout au long d’une démarche collaborative, vous y trouverez une méthodologie, des conseils et des canevas prêts à l’emploi.</description>
-      <guid isPermaLink="false">77dda2d59e428d7cbb11c11b60fe43e5642d35c84f9a4ce490421528b5f10fed</guid>
-      <pubDate>Thu, 08 Oct 2026 08:35:17 +0000</pubDate>
     </item>
   </channel>
 </rss>
