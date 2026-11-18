@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-18T11:46:00.600477+00:00",
+  "generated_at": "2026-11-18T20:34:54.742023+00:00",
   "sites_total": 17,
-  "sites_ok": 16,
-  "sites_error": 1,
-  "sites_warning": 1,
-  "new_items": 23,
-  "merged_items": 549,
+  "sites_ok": 12,
+  "sites_error": 5,
+  "sites_warning": 0,
+  "new_items": 10,
+  "merged_items": 540,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -93,10 +93,11 @@
       "url": "https://ofb.gouv.fr/actualites",
       "feed_categories": [],
       "render": false,
-      "status": "ok",
-      "method": "flux officiel",
+      "status": "error",
+      "method": "historique conservé",
       "items": 15,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
+      "error": "403 Client Error: Forbidden for url: https://ofb.gouv.fr/actualites",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
     },
@@ -135,10 +136,11 @@
       "url": "https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation",
       "feed_categories": [],
       "render": false,
-      "status": "ok",
-      "method": "flux officiel",
+      "status": "error",
+      "method": "historique conservé",
       "items": 41,
       "feed": "localtis-jeunesse-education-formation.xml",
+      "error": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml ne sert pas un flux (contenu text/html) ; aucun article détecté sur la page",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
     },
@@ -167,7 +169,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 7,
+      "items": 6,
       "feed": "c2l-restauration-collective.xml",
       "source_feed": "https://c2lsolutions.fr/feed/?post_type=post",
       "warnings": []
@@ -222,10 +224,11 @@
       "url": "https://igas.gouv.fr/actualites",
       "feed_categories": [],
       "render": false,
-      "status": "ok",
-      "method": "flux officiel",
-      "items": 47,
+      "status": "error",
+      "method": "historique conservé",
+      "items": 51,
       "feed": "igas.xml",
+      "error": "503 Server Error: Service Unavailable for url: https://igas.gouv.fr/actualites",
       "source_feed": "https://igas.gouv.fr/rss.xml",
       "warnings": []
     },
@@ -236,14 +239,13 @@
       "url": "https://www.banquedesterritoires.fr/thematiques/publics-fragiles",
       "feed_categories": [],
       "render": false,
-      "status": "ok",
-      "method": "flux officiel",
-      "items": 20,
+      "status": "error",
+      "method": "historique conservé",
+      "items": 13,
       "feed": "localtis-publics-fragiles.xml",
+      "error": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml ne sert pas un flux (contenu text/html) ; aucun article détecté sur la page",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
-      "warnings": [
-        "rien de neuf depuis 958 jours (seuil : 60)"
-      ]
+      "warnings": []
     },
     {
       "site": "ADN Tourisme",
@@ -254,7 +256,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 15,
+      "items": 14,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []

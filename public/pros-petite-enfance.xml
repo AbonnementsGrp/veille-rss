@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 17 Nov 2026 10:19:43 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 12:56:00 +0000</lastBuildDate>
+    <item>
+      <title>EGAlim : un suivi des achats allégé pour les crèches de moins de 30 berceaux</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/egalim-un-suivi-des-achats-allege-pour-certaines-creches/</link>
+      <description>La plateforme publique Ma cantine lance une expérimentation pour simplifier le suivi des achats et la télédéclaration des petites structures de restauration collective, dont certaines crèches. L’objectif : permettre de réduire une charge administrative difficile à absorber pour les équipes.</description>
+      <guid isPermaLink="false">acd7c8509adb8a00448a40cbd3aa55e2c6467f62a3ac741aea24f1893bf0c4c0</guid>
+      <pubDate>Wed, 18 Nov 2026 12:56:00 +0000</pubDate>
+    </item>
     <item>
       <title>Places en crèche : près de neuf Français sur dix attendent un soutien des employeurs</title>
       <link>https://www.lesprosdelapetiteenfance.fr/places-en-creche-pres-de-neuf-francais-sur-dix-attendent-un-soutien-des-employeurs/</link>
@@ -239,13 +246,6 @@
       <description>Dans un communiqué publié ce 10 octobre, onze organisations du secteur privé non lucratif alerte alerte sur plan d’urgence de 90 millions d’euros annoncé par Stéphanie Rist le 21 septembre,...</description>
       <guid isPermaLink="false">ce30d03159931c59e577e3bd27d339b9deb2a01def0067a99d7ade06e2e8afa1</guid>
       <pubDate>Fri, 09 Oct 2026 12:35:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grève du 8 octobre : Pas de bébés à la consigne annonce une nouvelle rencontre au ministère</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/greve-du-8-octobre-pas-de-bebes-a-la-consigne-annonce-une-nouvelle-rencontre-au-ministere/</link>
-      <description>Des manifestations et rassemblements ont eu lieu dans une trentaine de villes, mais, pour l’heure, pas encore de réponses immédiates aux revendications.</description>
-      <guid isPermaLink="false">1794d633203860df7c65a5f64eb3b7752cc22820148dbd6c2dc03499e3b83c1e</guid>
-      <pubDate>Fri, 09 Oct 2026 08:49:54 +0000</pubDate>
     </item>
   </channel>
 </rss>
