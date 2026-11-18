@@ -8,12 +8,19 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 16 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 23:00:00 +0000</lastBuildDate>
     <item>
-      <title>Retours d'expérience de porteurs de projets engagés dans une démarche de transition écologique en Guyane</title>
-      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9776-retours-d-experience-de-porteurs-de-projets-engages-dans-une-demarche-de-transition-ecologique-en-guyane-9791029727382.html</link>
+      <title>Concevoir et mettre en oeuvre le rafraîchissement urbain de votre territoire avec la Mission Adaptation</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9778-concevoir-et-mettre-en-oeuvre-le-rafraichissement-urbain-de-votre-territoire-avec-la-mission-adaptation.html</link>
+      <description>Face à l’intensification des vagues de chaleur, la Mission Adaptation – pilotée par le ministère de la Transition écologique et coordonnée par l’ADEME et le Cerema – propose aux collectivités un parcours guidé pour agir contre la surchauffe urbaine et mettre en place des projets de rafraîchissement urbain durables et pérennes, de l’échelle du territoire à celle du bâtiment. Ce parcours "Concevoir et mettre en œuvre le rafraîchissement urbain de votre territoire avec la Mission Adaptation” présente l'articulation des outils des opérateurs publics (ADEME, Cerema, Météo-France, Agences de l’eau, CSTB, OFB, ANCT, Banque des Territoires et ANAP) sous la forme d’une plaquette opérationnelle. Structuré en 4 étapes clés, ce parcours facilite la mise en œuvre de solutions durables : Étape 1 : Diagnostiquer la surchauffe urbaine et cibler les vulnérabilités du territoire Étape 2 : Planifier et définir une stratégie d’adaptation Étape 3 : Choisir ses solutions au moment de concevoir son projet Étape 4 : Passer à l’action Ce parcours vise à faciliter la prise en main de ces outils simples et gratuits, pour ainsi accélérer le passage à l’action avec la mise en œuvre de projets de rafraîchissement urbain durables et efficaces.</description>
+      <guid isPermaLink="false">0eaa0a6e5432d3376627a683ecab9fc2a1d26bce13e337a6eacfcffe8ddf947c</guid>
+      <pubDate>Tue, 17 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>DES COMMUNES QUI AGISSENT : 12 projets inspirants pour la transition écologique en Guyane</title>
+      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9776-des-communes-qui-agissent-12-projets-inspirants-pour-la-transition-ecologique-en-guyane-9791029727382.html</link>
       <description>Face aux défis climatiques, énergétiques, environnementaux et sociaux, les communes ont un rôle essentiel à jouer dans la transition écologique. À travers ce livret, l’ADEME et l’OFB souhaitent accompagner les élus dans leurs nouveaux mandats en leur proposant des exemples concrets de projets pour intégrer la transition écologique dans leurs politiques publiques. Ces 12 fiches valorisent des retours d’expérience portés par des communes guyanaises. Elles mettent en lumière des solutions déjà mises en oeuvre sur le territoire, leurs bénéfices ainsi que les ressources disponibles pour accompagner de nouvelles initiatives. Son ambition : inspirer les élus avec des projets adaptés aux réalités de la Guyane et leur donner envie de passer à l’action.</description>
-      <guid isPermaLink="false">d2ec183900af97bef1495ba8e45265113a66310f661f52d35df129e745a7ac04</guid>
+      <guid isPermaLink="false">30734a3afdeb9db8aac0003e548451be8a5886336358fdcf02f479cede6fe7d5</guid>
       <pubDate>Mon, 16 Nov 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
@@ -421,13 +428,6 @@
       <description>Lancé en 2023, le réseau Elus pour Agir crée un lieu de rencontre des élus locaux sur les sujets de la transition écologique. Grâce à une programmation événementielle mensuelle et une articulation avec d'autres réseaux d'élus, les élus ont pu : Mieux comprendre les enjeux écologiques et énergétique ; Trouver des réponses de terrain adaptées à leurs besoin ; Rencontrer, échanger et s'inspirer auprès d'autres élus engagés.</description>
       <guid isPermaLink="false">f4b50f704df7768c17fea09e1cae95c713590ee34c8308026a804d518592df4f</guid>
       <pubDate>Wed, 22 Apr 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Élus pour agir - 2026</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9293-elus-pour-agir-2026.html</link>
-      <description>Sous l’égide des ministères chargés de la Transition écologique et de l’Énergie, l’ADEME anime un réseau unique d’élus qui agissent en faveur de la transition écologique dans chaque commune, chaque intercommunalité de France et à l’échelle de chaque région. Rejoignez-nous pour mieux décrypter la transition écologique, mieux connaître les acteurs et les outils et accéder aux meilleurs experts.</description>
-      <guid isPermaLink="false">748f148ee2e85842b95aa28ed622e14c5f8512bdd6237dee9025bc75733f87c2</guid>
-      <pubDate>Tue, 14 Apr 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

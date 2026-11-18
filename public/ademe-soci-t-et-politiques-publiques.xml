@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 16 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 17 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Atelier défis de la construction : infographie</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9779-atelier-defis-de-la-construction-infographie.html</link>
+      <description>Comprendre les impacts environnementaux d’un projet de construction ou de rénovation. Un jeu sérieux collaboratif dans lequel les participants conçoivent un projet de bâtiment et prennent successivement des décisions : (1) terrain, maîtrise d’oeuvre et densité ; (2) programme, logements ou bureaux ; (3) matériaux et modes constructifs ; (4) lots techniques, énergie, eau et biodiversité. Chaque étape invite à comparer les impacts et à débattre des arbitrages. Le jeu se réalise en 2 h environ, en présentiel ou en ligne.</description>
+      <guid isPermaLink="false">f4ed4cf5937eced0e305760b55c4d99813c6ef102e23b49ee16eb25814658e7c</guid>
+      <pubDate>Tue, 17 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>HABIT&amp;R : infographie</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9780-habitr-infographie.html</link>
+      <description>Une plateforme à destination des acteurs de l’habitat participatifs, structurée en 5 espaces : (1) un centre de ressource (ex. modèle de montage juridique, REX de vie en collectif…) ; (2) un observatoire des travaux de recherche sur l’habitat participatif ; (3) une cartographie des projets d’habitat participatif en France triés selon différents critères (état d’avancement, type d’architecture, etc.); (4) des parcours pédagogiques (ex. module « rejoindre un habitat participatif) ; et (5) une rubrique de petites annonces (ex. recherche de nouveaux habitants).</description>
+      <guid isPermaLink="false">b221dda5b1ec0ad13738f81cb46b2ce98d0b13ebca497244158f6a1e4cf00490</guid>
+      <pubDate>Tue, 17 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Changement de comportement tri des biodéchets - Guide</title>
       <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9650-changement-de-comportement-tri-des-biodechets-guide.html</link>
@@ -38,10 +52,10 @@
       <pubDate>Mon, 16 Nov 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Retours d'expérience de porteurs de projets engagés dans une démarche de transition écologique en Guyane</title>
-      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9776-retours-d-experience-de-porteurs-de-projets-engages-dans-une-demarche-de-transition-ecologique-en-guyane-9791029727382.html</link>
+      <title>DES COMMUNES QUI AGISSENT : 12 projets inspirants pour la transition écologique en Guyane</title>
+      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9776-des-communes-qui-agissent-12-projets-inspirants-pour-la-transition-ecologique-en-guyane-9791029727382.html</link>
       <description>Face aux défis climatiques, énergétiques, environnementaux et sociaux, les communes ont un rôle essentiel à jouer dans la transition écologique. À travers ce livret, l’ADEME et l’OFB souhaitent accompagner les élus dans leurs nouveaux mandats en leur proposant des exemples concrets de projets pour intégrer la transition écologique dans leurs politiques publiques. Ces 12 fiches valorisent des retours d’expérience portés par des communes guyanaises. Elles mettent en lumière des solutions déjà mises en oeuvre sur le territoire, leurs bénéfices ainsi que les ressources disponibles pour accompagner de nouvelles initiatives. Son ambition : inspirer les élus avec des projets adaptés aux réalités de la Guyane et leur donner envie de passer à l’action.</description>
-      <guid isPermaLink="false">a178c0d612771ba81a1b0809d340d20e2b5e7e24071d1a3807762f41fda55b2e</guid>
+      <guid isPermaLink="false">12b765c5d4727200f7a2a009e9499fc00ff06fc668c04450273c8ae84598b01f</guid>
       <pubDate>Mon, 16 Nov 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
@@ -413,20 +427,6 @@
       <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9533-communaute-de-communes-coeur-de-savoie-la-sobriete-au-coeur-de-la-gestion-patrimoniale.html</link>
       <description>La Communauté de Communes Cœur de Savoie est engagée depuis plusieurs années dans la transition écologique, via notamment les démarches TEPOS (2015), TEPCV (2016), Territoire Engagé (2020) et la réalisation d’un Plan Climat en 2020. La collectivité mobilise de longue date le triptyque NégaWatt « Sobriété / Efficacité / Énergies renouvelables ».</description>
       <guid isPermaLink="false">5189ad9d12ea867f36eb1d8f83f31d227429e0aeb27204c84d313739c10af8e5</guid>
-      <pubDate>Wed, 26 Aug 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Communauté d'Agglomération du Sicoval: du questionnement des achats en interne aux actions territoriales de sobriété</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9534-communaute-d-agglomeration-du-sicoval-du-questionnement-des-achats-en-interne-aux-actions-territoriales-de-sobriete.html</link>
-      <description>La Communauté d’Agglomération du Sicoval, en Haute-Garonne, a formalisé ses ambitions de sobriété, principalement autour de la fonction achat, qui a abouti à la réalisation d’un SPASER volontaire, dans lequel la sobriété a toute sa place.</description>
-      <guid isPermaLink="false">e76afaed54aa9626df477211ce7364b4299d20f7fef7eb4deb59f5caad3e3f14</guid>
-      <pubDate>Wed, 26 Aug 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Communauté d'Agglomération du Centre Littoral: les journées 4R</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9535-communaute-d-agglomeration-du-centre-littoral-les-journees-4r.html</link>
-      <description>En 2023, la Communauté d'agglomération du Centre Littoral (CACL) a lancé l’organisation de journées événements à destination des habitants afin de favoriser le réemploi, la réutilisation, la réparation et le reconditionnement (les 4R). Ces journées, organisées par le Service Environnement-déchets de la CACL, permettent de favoriser une culture du réemploi et de la réparation, et ainsi de limiter la consommation de nouveaux produits.</description>
-      <guid isPermaLink="false">f637623608c278c794130e6cec22dbd6643c5d800937725cdb4ab9fd73e0f1f5</guid>
       <pubDate>Wed, 26 Aug 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>

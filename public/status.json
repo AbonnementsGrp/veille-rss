@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-18T00:58:59.174924+00:00",
+  "generated_at": "2026-11-18T11:46:00.600477+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
-  "sites_warning": 2,
-  "new_items": 16,
-  "merged_items": 555,
+  "sites_warning": 1,
+  "new_items": 23,
+  "merged_items": 549,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -95,7 +95,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 16,
+      "items": 15,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
@@ -137,7 +137,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 44,
+      "items": 41,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
@@ -151,7 +151,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 37,
+      "items": 34,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -181,12 +181,10 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 10,
+      "items": 11,
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
-      "warnings": [
-        "rien de neuf depuis 273 jours (seuil : 60)"
-      ]
+      "warnings": []
     },
     {
       "site": "ANAP - Actualités",
@@ -244,7 +242,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 957 jours (seuil : 60)"
+        "rien de neuf depuis 958 jours (seuil : 60)"
       ]
     },
     {
