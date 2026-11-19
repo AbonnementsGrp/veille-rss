@@ -1,4 +1,167 @@
 {
+  "72d505affd97bef50c31a58217fe90ce1ae97c647e5083a18c458fc281eec77d": {
+    "source": "ANAP - Actualités",
+    "title": "3 minutes Planning : automatisez la production de vos plannings !",
+    "link": "https://www.anap.fr/s/article/3-minutes-planning-automatisez-la-production-de-vos-plannings",
+    "description": "3 minutes Planning, l'outil gratuit de l'Anap qui génère des cycles de travail conformes pour libérer du temps d'encadrement.",
+    "published": "2026-10-28T08:45:55+00:00",
+    "first_seen": "2026-11-19T11:43:19.854403+00:00",
+    "uid": "72d505affd97bef50c31a58217fe90ce1ae97c647e5083a18c458fc281eec77d",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "6924a49f21ac0822dad1d5f94cbe8ce1cab2b7af4a331cc474cc72e8eff94875": {
+    "source": "ANAP - Actualités",
+    "title": "La Fabrique RH Anap : la nouvelle génération d’outils RH à découvrir et enrichir",
+    "link": "https://www.anap.fr/s/article/la-fabrique-rh-anap-la-nouvelle-generation-d-outils-rh-a-decouvrir-et-enrichir",
+    "description": "La Fabrique RH Anap, rendez-vous digital régulier : prenez en main 3 minutes Planning, posez vos questions et faites évoluer l’outil.",
+    "published": "2026-10-28T08:43:57+00:00",
+    "first_seen": "2026-11-19T11:43:19.854403+00:00",
+    "uid": "6924a49f21ac0822dad1d5f94cbe8ce1cab2b7af4a331cc474cc72e8eff94875",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "21dcf84394b7c950cbd009572ed422d1b84c010dc539aa0670e1604b60a7f451": {
+    "source": "ANAP - Actualités",
+    "title": "Blocs chirurgicaux : 3 jours pour gagner du temps opératoire",
+    "link": "https://www.anap.fr/s/article/blocs-chirurgicaux-3-jours-pour-gagner-du-temps-operatoire",
+    "description": "Une opportunité unique d’améliorer l’organisation et la performance de vos blocs. Bénéficiez d’un accompagnement par des experts et repartez avec des leviers opérationnels pour optimiser votre activité et fidéliser vos équipes.",
+    "published": "2026-10-13T12:59:15+00:00",
+    "first_seen": "2026-11-19T11:43:19.854403+00:00",
+    "uid": "21dcf84394b7c950cbd009572ed422d1b84c010dc539aa0670e1604b60a7f451",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "4475b280f4fb6199b471b99dace4b1cf82ea8e0b3990f56755ee400ac65d1a54": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "MAM de Yerres : sept et neuf mois de prison requis contre les deux assistantes maternelles",
+    "link": "https://www.lesprosdelapetiteenfance.fr/mam-de-yerres-sept-et-neuf-mois-de-prison-requis-contre-les-deux-assistantes-maternelles/",
+    "description": "Quatre mois après la découverte de douze enfants dans une voiture au sous-sol de la MAM L’Atelier des petits, à Yerres (Essonne), les deux assistantes maternelles ont comparu le 18 novembre devant le tribunal correctionnel d’Évry-Courcouronnes.",
+    "published": "2026-11-19T08:39:02+00:00",
+    "first_seen": "2026-11-19T11:43:13.498299+00:00",
+    "uid": "4475b280f4fb6199b471b99dace4b1cf82ea8e0b3990f56755ee400ac65d1a54",
+    "description_checked": true
+  },
+  "d57eee325f31fa946d78b9fc1b4ab49469a249e1189bee3a677a47e180c692fb": {
+    "source": "Enfance & Jeunesse Infos - Veille juridique",
+    "title": "« Aucune formalité administrative ne doit freiner l'accès » : les Maisons des 1000 premiers jours ont enfin leur cahier des charges",
+    "link": "https://www.enfancejeunesseinfos.fr/aucune-formalite-administrative-ne-doit-freiner-lacces-les-maisons-des-1000-premiers-jours-ont-enfin-leur-cahier-des-charges-2/",
+    "description": "Gratuité, accès sans condition, intervenants contrôlés : l’État fixe les règles des Maisons des 1000 premiers jours, dédiées aux jeunes parents. Mais il ne les financera pas seul : les territoires devront contribuer.",
+    "published": "2026-11-17T09:22:51+00:00",
+    "first_seen": "2026-11-19T11:43:10.340289+00:00",
+    "uid": "d57eee325f31fa946d78b9fc1b4ab49469a249e1189bee3a677a47e180c692fb"
+  },
+  "5ad1c8578449bfab568d534f5f4aae4d5fa7b82f42527d828e92b6ce49e0d11d": {
+    "source": "Enfance & Jeunesse Infos - Veille juridique",
+    "title": "Justice des mineurs : un verrou contre des « peines plus sévères » que pour les majeurs",
+    "link": "https://www.enfancejeunesseinfos.fr/justice-des-mineurs-un-verrou-contre-des-peines-plus-severes-que-pour-les-majeurs/",
+    "description": "Devant le tribunal pour enfants, des faits jugés comme un délit peuvent-ils basculer vers une accusation criminelle ? Pour les majeurs, la loi limite cette possibilité dans certains cas. Le Conseil constitutionnel vient de se prononcer pour les mineurs.",
+    "published": "2026-11-17T09:21:00+00:00",
+    "first_seen": "2026-11-19T11:43:10.340289+00:00",
+    "uid": "5ad1c8578449bfab568d534f5f4aae4d5fa7b82f42527d828e92b6ce49e0d11d"
+  },
+  "9c7a085996ec9fb3bc2b76e2ff52b06b145c91759f6a98adce6ba08f180135f3": {
+    "source": "Observatoire de la culture",
+    "title": "Dissolution de France Tiers-lieux : le déclin d’une politique publique de soutien aux tiers-lieux ?",
+    "link": "https://www.observatoire-culture.net/dissolution-france-tiers-lieux-declin-politique-publique-soutien-tiers-lieux/",
+    "description": "En août, le gouvernement a mis fin au groupement d’intérêt public (GIP) France Tiers-Lieux, qui coordonnait la politique nationale de soutien aux tiers-lieux. Un coup de frein à une politique volontariste, lancée en 2022, que commente Raphaël Besson dans cet entretien. Si l’engagement des territoires auprès des tiers-lieux demeure significatif, cette dissolution risque néanmoins de […]",
+    "published": "2026-11-19T08:55:44+00:00",
+    "first_seen": "2026-11-19T11:43:09.614180+00:00",
+    "uid": "9c7a085996ec9fb3bc2b76e2ff52b06b145c91759f6a98adce6ba08f180135f3"
+  },
+  "b6aec3fc49c82342cc983a0089cb85c83ea20c392be12c7fb2e5998f83af9b30": {
+    "source": "Outre-Mer 360°",
+    "title": "Martinique : La SIMAR, premier bailleur social, installe son Agence Sud dans des locaux réhabilités à Rivière-Salée",
+    "link": "https://outremers360.com/bassin-atlantique-appli/martinique-la-simar-premier-bailleur-social-installe-son-agence-sud-dans-des-locaux-rehabilites-a-riviere-salee",
+    "description": "La SIMAR, premier bailleur social de Martinique et filiale du groupe CDC Habitat, a inauguré mercredi 18 novembre 2026 les nouveaux locaux de son Agence Sud à Rivière-Salée. Installées dans un immeuble communal entièrement réhabilité, les équipes de l'agence assurent le...",
+    "published": "2026-11-19T11:30:15+00:00",
+    "first_seen": "2026-11-19T11:43:04.400190+00:00",
+    "uid": "b6aec3fc49c82342cc983a0089cb85c83ea20c392be12c7fb2e5998f83af9b30"
+  },
+  "75d29b34c3c54992cbd0b851b286cacd752e0cbf0d34a4c288c480afb203f439": {
+    "source": "Outre-Mer 360°",
+    "title": "Microcrédit : Lancement de la 8ème édition du Prix Banque de France, les cinq départements et régions d’Outre-mer rejoignent pour la première fois ce concours sous l’égide de l’IEDOM",
+    "link": "https://outremers360.com/bassin-atlantique-appli/microcredit-lancement-de-la-8eme-edition-du-prix-banque-de-france-pour-la-premiere-fois-les-cinq-departements-et-regions-doutre-mer-rejoignent-ce-concours-sous-legide-de-liedom",
+    "description": "La Banque de France réédite à partir de ce mois de novembre 2026 l’organisation des Prix du microcrédit accompagné et des rencontres régionales du microcrédit. Habituellement déployé dans les treize régions de l’Hexagone, ce concours est dorénavant ouvert aux...",
+    "published": "2026-11-19T10:44:55+00:00",
+    "first_seen": "2026-11-19T11:43:04.400190+00:00",
+    "uid": "75d29b34c3c54992cbd0b851b286cacd752e0cbf0d34a4c288c480afb203f439"
+  },
+  "87785f60f134cb0b244f6fac0122dc6b3b28983849e82e532b00290931f3209d": {
+    "source": "Outre-Mer 360°",
+    "title": "Souveraineté alimentaire en Nouvelle-Calédonie : À La Foa, l'unité Maison Terra vise 300 tonnes de fruits et légumes transformés dès sa première année",
+    "link": "https://outremers360.com/bassin-pacifique-appli/souverainete-alimentaire-en-nouvelle-caledonie-a-la-foa-lunite-maison-terra-vise-300-tonnes-de-fruits-et-legumes-transformes-des-sa-premiere-annee",
+    "description": "Christopher Gygès, membre du gouvernement de la Nouvelle-Calédonie chargé de l'économie, de la fiscalité et de la souveraineté alimentaire, a visité jeudi 19 novembre 2026 à La Foa le site de la SARL Maison Terra, une future unité de transformation de fruits, de légumes...",
+    "published": "2026-11-19T09:35:39+00:00",
+    "first_seen": "2026-11-19T11:43:04.400190+00:00",
+    "uid": "87785f60f134cb0b244f6fac0122dc6b3b28983849e82e532b00290931f3209d"
+  },
+  "45cb4163d6a78c7c0fd8143eff82b5aab3411df8289fb7e5ccb9dbda4fe9a856": {
+    "source": "Outre-Mer 360°",
+    "title": "Mayotte : Une nouvelle liaison maritime voit le jour entre Majunga à Madagascar et le port de Longoni",
+    "link": "https://outremers360.com/bassin-indien-appli/mayotte-une-nouvelle-liaison-maritime-voit-le-jour-entre-majunga-a-madagascar-et-le-port-de-longoni",
+    "description": "Le port de Longoni a accueilli mercredi 18 novembre le premier bateau d’une liaison maritime avec Majunga, à Madagascar. Environ six tonnes de denrées destinées aux supermarchés Carrefour ont traversé le canal du Mozambique en une journée. Cette rotation d’essai...",
+    "published": "2026-11-19T09:01:26+00:00",
+    "first_seen": "2026-11-19T11:43:04.400190+00:00",
+    "uid": "45cb4163d6a78c7c0fd8143eff82b5aab3411df8289fb7e5ccb9dbda4fe9a856"
+  },
+  "c35671b4ee75396dd6a19f7d52c12debfb4d565087a5d8c745c2233af1aebac6": {
+    "source": "Outre-Mer 360°",
+    "title": "En 2025, seuls 60 % de la population de la Polynésie française avaient accès à l’eau potable",
+    "link": "https://outremers360.com/bassin-pacifique-appli/en-2025-seuls-60-de-la-population-de-la-polynesie-francaise-avaient-acces-a-leau-potable",
+    "description": "En 2025, 60 % de la population polynésienne avait accès à une eau potable, contre 62 % un an plus tôt. Selon le bilan présenté ce mercredi en Conseil des ministres, seules huit communes distribuent une eau potable sur l’ensemble de leur territoire. Les disparités restent...",
+    "published": "2026-11-19T08:43:54+00:00",
+    "first_seen": "2026-11-19T11:43:04.400190+00:00",
+    "uid": "c35671b4ee75396dd6a19f7d52c12debfb4d565087a5d8c745c2233af1aebac6"
+  },
+  "b8388cb88ce4042d3996c627e0f98e265e773e83e8a909d88e7c7467796019bf": {
+    "source": "Outre-Mer 360°",
+    "title": "Wing Foil : la Guadeloupéenne Vaïna Picot décroche le trophée Rolex World Sailing Young Sailor of the Year 2026",
+    "link": "https://outremers360.com/bassin-atlantique-appli/wing-foil-la-guadeloupeenne-vaina-picot-decroche-le-trophee-rolex-world-sailing-young-sailor-of-the-year-2026",
+    "description": "À seulement 17 ans, la Guadeloupéenne Vaïna Picot a remporté le trophée Rolex World Sailing Young Sailor of the Year 2026, couronnant ainsi son année exceptionnelle après ses titres mondial et européen en wingfoil. Un sujet de notre partenaire RCI Guadeloupe.À 17 ans, la...",
+    "published": "2026-11-19T08:18:49+00:00",
+    "first_seen": "2026-11-19T11:43:04.400190+00:00",
+    "uid": "b8388cb88ce4042d3996c627e0f98e265e773e83e8a909d88e7c7467796019bf"
+  },
+  "770371557276d26033361a2c479a787e4b9264ee7ce446e607e10e091fbaa518": {
+    "source": "Outre-Mer 360°",
+    "title": "Outre-mer : le «passeport retour» prêt début 2027 sous condition d'un budget",
+    "link": "https://outremers360.com/bassin-atlantique-appli/outre-mer-le-passeport-retour-pret-debut-2027-sous-condition-dun-budget",
+    "description": "La ministre des Outre-mer Naïma Moutchou a annoncé mercredi que l'aide au retour des jeunes ultramarins depuis l'Hexagone serait opérationnelle au tout début de 2027 sous réserve d'un vote de la loi de finances, lors des questions au gouvernement au Sénat.«Nous touchons au...",
+    "published": "2026-11-19T08:08:32+00:00",
+    "first_seen": "2026-11-19T11:43:04.400190+00:00",
+    "uid": "770371557276d26033361a2c479a787e4b9264ee7ce446e607e10e091fbaa518"
+  },
+  "9507652de98879f3b5d81768858f35ed811fbf4aa362c6cf217d85e265c74eba": {
+    "source": "Outre-Mer 360°",
+    "title": "Route du Rhum - Destination Guadeloupe 2026 : Ulysse Pozzoli devient le 4ème Guadeloupéen à franchir la ligne",
+    "link": "https://outremers360.com/bassin-atlantique-appli/route-du-rhum-2026-ulysse-pozzoli-devient-le-4eme-guadeloupeen-a-franchir-la-ligne",
+    "description": "Le skipper guadeloupéen Ulysse Pozzoli (Renovatec Sailing Team) a franchi la ligne d'arrivée de la Route du Rhum ce mercredi 18 novembre. Pour sa première participation, le marin de 36 ans termine 28e en Class40 et devient le quatrième représentant de l'archipel à boucler...",
+    "published": "2026-11-19T07:58:51+00:00",
+    "first_seen": "2026-11-19T11:43:04.400190+00:00",
+    "uid": "9507652de98879f3b5d81768858f35ed811fbf4aa362c6cf217d85e265c74eba"
+  },
+  "4c64fe1dab858d3995423c7455d297d1370c256e27300ab14a05b4b739b6dd04": {
+    "source": "Outre-Mer 360°",
+    "title": "Guyane : l'orpaillage illégal atteint un niveau record dans le Parc amazonien",
+    "link": "https://outremers360.com/bassin-atlantique-appli/guyane-lorpaillage-illegal-atteint-un-niveau-record-dans-le-parc-amazonien",
+    "description": "Des survols effectués début août ont dénombré 239 sites aurifères illégaux dans le Parc amazonien de Guyane (PAG), où la hausse des cours de l'or et l'inaction du Suriname voisin dopent l'exploitation, a appris mardi la direction du parc.Révélé mardi lors du conseil...",
+    "published": "2026-11-19T07:55:38+00:00",
+    "first_seen": "2026-11-19T11:43:04.400190+00:00",
+    "uid": "4c64fe1dab858d3995423c7455d297d1370c256e27300ab14a05b4b739b6dd04"
+  },
+  "900b1d3b2fa19ce5304a05ef952de82f450fa6b5c4b2124b12112f758b38fceb": {
+    "source": "Outre-Mer 360°",
+    "title": "Route du Rhum - Destination Guadeloupe 2026 : Kéni Piperol ramène Drépavoile en Guadeloupe, «ma plus grande fierté aujourd'hui»",
+    "link": "https://outremers360.com/bassin-atlantique-appli/route-du-rhum-2026-keni-piperol-ramene-drepa-voile-en-guadeloupe-ma-plus-grande-fierte-aujourdhui",
+    "description": "Le skipper guadeloupéen Kéni Piperol, engagé dans la catégorie des Class40 à bord de Drépavoile a franchi la ligne d'arrivée de la Route du Rhum 2026 à Pointe-à-Pitre ce mercredi 18 novembre à l'aube. Reçu sur le ponton par une foule venue nombreuse, il a exprimé sa...",
+    "published": "2026-11-18T14:41:00+00:00",
+    "first_seen": "2026-11-19T11:43:04.400190+00:00",
+    "uid": "900b1d3b2fa19ce5304a05ef952de82f450fa6b5c4b2124b12112f758b38fceb"
+  },
   "f742972cae095604f3e1314677b8f812a2a652a96c6c20dab5ed7a1985963c15": {
     "source": "Localtis - Publics fragiles",
     "title": "Prise en charge par l'Etat des AESH sur le temps méridien : adoption à l'unanimité de la proposition de loi en commission mais...",
@@ -9117,161 +9280,5 @@
     "published": "2026-10-12T12:03:09+00:00",
     "first_seen": "2026-10-12T21:17:27.758129+00:00",
     "uid": "38fba01b8b5b26d4daf6a2b9128296f00f99e320c52b242d3ba26176c088c63e"
-  },
-  "80ed7bf923a2892ebbd2162a641a52ec761fd51dfba7f58caaa85bd74bf704bb": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "Justice des mineurs : le TIG s’ouvre aux structures de l’économie sociale et solidaire",
-    "link": "https://www.enfancejeunesseinfos.fr/justice-des-mineurs-le-tig-souvre-aux-structures-de-leconomie-sociale-et-solidaire/",
-    "description": "Certaines structures de l’économie sociale et solidaire peuvent désormais accueillir des mineurs condamnés à un travail d’intérêt général. Un décret élargit les lieux d’accueil possibles et crée une habilitation nationale pour les réseaux présents sur tout le territoire.",
-    "published": "2026-10-09T07:10:14+00:00",
-    "first_seen": "2026-10-12T10:53:46.866656+00:00",
-    "uid": "80ed7bf923a2892ebbd2162a641a52ec761fd51dfba7f58caaa85bd74bf704bb"
-  },
-  "3478e99d7c6f08b371cd37db3d2721283de031798c577588ca9d6cdb5c6bbd51": {
-    "source": "ADEME_Energie",
-    "title": "Leviers pour accélérer les énergies renouvelables en Bretagne",
-    "link": "https://librairie.ademe.fr/energies/9680-leviers-pour-accelerer-les-energies-renouvelables-en-bretagne.html",
-    "description": "La transition énergétique interroge les conditions territoriales, sociales, et paysagères dans lesquelles ces infrastructures sont développées. Elle n'implique pas seulement un transfert technologique (des énergies fossiles vers les énergies renouvelables), mais également un changement profond de la relation aux infrastructures énergétiques, à leur architecture et à leur visibilité.",
-    "published": "2026-10-11T22:00:00+00:00",
-    "first_seen": "2026-10-12T10:53:39.477139+00:00",
-    "uid": "3478e99d7c6f08b371cd37db3d2721283de031798c577588ca9d6cdb5c6bbd51"
-  },
-  "4412128000b0f56c815fef3ee4697fff9740972ad6d6698fa4ee4520a0ecdd14": {
-    "source": "Outre-Mer 360°",
-    "title": "Concours et Business Networking, la grande soirée IOM 2026 revient en force le 27 novembre à Paris",
-    "link": "https://outremers360.com/bassin-atlantique-appli/concours-et-business-networking-la-grande-soiree-iom-2026-revient-en-force-le-27-novembre-a-paris",
-    "description": "Comme chaque année, la semaine de l’innovation ultramarine revient avec un programme dense. La soirée des résultats du concours aura lieu le 27 novembre sous une formule renouvelée où les start-up sélectionnées pourront continuer à rencontrer les acteurs de...",
-    "published": "2026-10-12T10:08:18+00:00",
-    "first_seen": "2026-10-12T10:53:35.451466+00:00",
-    "uid": "4412128000b0f56c815fef3ee4697fff9740972ad6d6698fa4ee4520a0ecdd14"
-  },
-  "17d2a4c536281ad06ab6adf12eb8302c6d754518c32bfe085ea70af8259a554d": {
-    "source": "Outre-Mer 360°",
-    "title": "Outre-mer : Le sénateur Dominique Théophile veut remplacer les articles 73 et 74 par un article unique",
-    "link": "https://outremers360.com/bassin-atlantique-appli/outre-mer-le-senateur-dominique-theophile-veut-remplacer-les-articles-73-et-74-par-un-article-unique",
-    "description": "Le sénateur RDSE de Guadeloupe Dominique Théophile a déposé, le 1er octobre, une proposition de loi constitutionnelle visant à « refonder le statut des collectivités ultramarines » en remplaçant les articles 73 et 74 de la Constitution par un article unique.Cet...",
-    "published": "2026-10-12T09:44:57+00:00",
-    "first_seen": "2026-10-12T10:53:35.451466+00:00",
-    "uid": "17d2a4c536281ad06ab6adf12eb8302c6d754518c32bfe085ea70af8259a554d"
-  },
-  "7679e87b8d9f9146380a0afa0fb8814f017728be224d06b79764fca977c94127": {
-    "source": "Outre-Mer 360°",
-    "title": "INTERVIEW. Intelligence artificielle, formation, insertion : le général Frédéric Bos poursuit l’adaptation du SMA aux nouveaux défis de la jeunesse ultramarine",
-    "link": "https://outremers360.com/bassin-atlantique-appli/interview-intelligence-artificielle-formation-insertion-le-general-frederic-bos-poursuit-ladaptation-du-sma-aux-nouveaux-defis-de-la-jeunesse-ultramarine",
-    "description": "Lorsqu’il prend la tête du Service militaire adapté (SMA), le 1er août 2026, le général Frédéric Bos renoue avec un dispositif militaire qui a profondément marqué son parcours. En effet, il y a vingt-cinq ans, il commandait une compagnie du SMA en Martinique. Une...",
-    "published": "2026-10-12T09:33:52+00:00",
-    "first_seen": "2026-10-12T10:53:35.451466+00:00",
-    "uid": "7679e87b8d9f9146380a0afa0fb8814f017728be224d06b79764fca977c94127"
-  },
-  "c4529ba1f2526bad022eea611ee751e0a29f6131cdbb94ea3213cda0a26d35c5": {
-    "source": "Outre-Mer 360°",
-    "title": "Va’a : Les équipages tahitiens dominent la Moloka’i Hoe à Hawaii",
-    "link": "https://outremers360.com/bassin-pacifique-appli/vaa-les-equipages-tahitiens-dominent-la-molokai-hoe-a-hawaii",
-    "description": "Nouveau podium 100 % tahitien sur la course mythique reliant Moloka’i à Oahu, et sur laquelle la team OPT a conservé son titre ce dimanche en 4 heures, 34 minutes et 9 secondes. L’équipe en noir et jaune, qui avait signé sa toute première victoire en 2025, a de nouveau...",
-    "published": "2026-10-12T08:46:33+00:00",
-    "first_seen": "2026-10-12T10:53:35.451466+00:00",
-    "uid": "c4529ba1f2526bad022eea611ee751e0a29f6131cdbb94ea3213cda0a26d35c5"
-  },
-  "68a6e83cdc0c9e7701b512550c3fa0b25358bea4153a5778dfb6172fd0ca56d4": {
-    "source": "Outre-Mer 360°",
-    "title": "Fête de la Lentille de Cilaos 2026 : Cinq jours de festivités pour mettre à l’honneur les traditions et le savoir-faire autour de la lentille, fleuron du terroir réunionnais",
-    "link": "https://outremers360.com/bassin-indien-appli/fete-de-la-lentille-de-cilaos-2026-cinq-jours-de-festivites-pour-mettre-a-lhonneur-les-traditions-et-le-savoir-faire-autour-de-la-lentille-fleuron-du-terroir-reunionnais",
-    "description": "Du 14 au 18 octobre 2026, la Fête de la Lentille de Cilaos revient pour cinq jours de festivités qui mettent à l’honneur les traditions et le savoir-faire de ce produit emblématique de Cilaos. Au programme, animations culturelles, fête foraine, spectacles, découvertes...",
-    "published": "2026-10-12T07:25:42+00:00",
-    "first_seen": "2026-10-12T10:53:35.451466+00:00",
-    "uid": "68a6e83cdc0c9e7701b512550c3fa0b25358bea4153a5778dfb6172fd0ca56d4"
-  },
-  "b2f077749b2c23ff74699c5554b0594d7ee2c1ec1e5168fb71dbb6f85ab66d81": {
-    "source": "Outre-Mer 360°",
-    "title": "Valérie Verdier, Présidente-directrice générale de l’IRD, attendue en Polynésie française et en Nouvelle-Calédonie à partir du 17 octobre",
-    "link": "https://outremers360.com/bassin-pacifique-appli/valerie-verdier-presidente-directrice-generale-de-lird-attendue-en-polynesie-francaise-et-en-nouvelle-caledonie-a-partir-du-17-octobre",
-    "description": "Valérie Verdier, présidente-directrice générale de l’Institut de recherche pour le développement (IRD), effectuera du 17 au 30 octobre un déplacement en Polynésie française et en Nouvelle-Calédonie, aux côtés de son homologue de l’Ifremer, le Président directeur...",
-    "published": "2026-10-12T07:00:59+00:00",
-    "first_seen": "2026-10-12T10:53:35.451466+00:00",
-    "uid": "b2f077749b2c23ff74699c5554b0594d7ee2c1ec1e5168fb71dbb6f85ab66d81"
-  },
-  "3f2e832fe84eb6c7acf7e89959e4e3dce33bc58af37ee44a6e69679984207b0f": {
-    "source": "Outre-Mer 360°",
-    "title": "Une opération tourne mal en Guadeloupe : deux gendarmes du GIGN grièvement blessés",
-    "link": "https://outremers360.com/bassin-atlantique-appli/une-operation-tourne-mal-en-guadeloupe-deux-gendarmes-du-gign-grievement-blesses",
-    "description": "Une opération contre des braqueurs qui a mal tourné. Deux membres du GIGN, le groupe d'intervention de la gendarmerie, ont été grièvement blessés par balles samedi en Guadeloupe, ont annoncé dimanche les autorités, inquiètes de l'intensification des attaques contre les...",
-    "published": "2026-10-12T06:50:34+00:00",
-    "first_seen": "2026-10-12T10:53:35.451466+00:00",
-    "uid": "3f2e832fe84eb6c7acf7e89959e4e3dce33bc58af37ee44a6e69679984207b0f"
-  },
-  "968330a2d382e141f9a1de17b2d76de8f55da748d20452be894eaea8a6219967": {
-    "source": "Outre-Mer 360°",
-    "title": "Le Musée maritime de Nouvelle-Calédonie rouvre ses portes au public",
-    "link": "https://outremers360.com/bassin-pacifique-appli/le-musee-maritime-de-nouvelle-caledonie-rouvre-ses-portes-au-public",
-    "description": "Après six semaines de fermeture, qui ont permis de rénover le parquet ravagé par les termites, à l’étage du Musée maritime, l’établissement rouvre ses portes au public à compter de ce mardi 13 octobre, avec en prime une nouvelle exposition et une soirée...",
-    "published": "2026-10-12T06:50:21+00:00",
-    "first_seen": "2026-10-12T10:53:35.451466+00:00",
-    "uid": "968330a2d382e141f9a1de17b2d76de8f55da748d20452be894eaea8a6219967"
-  },
-  "77dda2d59e428d7cbb11c11b60fe43e5642d35c84f9a4ce490421528b5f10fed": {
-    "source": "ANAP - Actualités",
-    "title": "Boîte à outils Innovation collaborative",
-    "link": "https://www.anap.fr/s/article/boite-a-outil-innovation-collaborative",
-    "description": "La boîte à outils \"innovation collaborative\" propose des outils pratiques pour mobiliser les démarches de design et d'innovation au service de vos projets. Conçue pour être utilisée tout au long d’une démarche collaborative, vous y trouverez une méthodologie, des conseils et des canevas prêts à l’emploi.",
-    "published": "2026-10-08T08:35:17+00:00",
-    "first_seen": "2026-10-11T19:34:59.867271+00:00",
-    "uid": "77dda2d59e428d7cbb11c11b60fe43e5642d35c84f9a4ce490421528b5f10fed",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "d99cd0c0babce5bd10ed3813f5dc0771ff7d0dc676efb2db7157fd4947484d5e": {
-    "source": "Outre-Mer 360°",
-    "title": "Le jazz réunionnais représenté pour la première fois au MaMa Music & Convention à Paris",
-    "link": "https://outremers360.com/bassin-indien-appli/le-jazz-reunionnais-represente-pour-la-premiere-fois-au-mama-music-convention-a-paris",
-    "description": "Sous l’impulsion de l’association JazzRenyon, deux formations de jazz réunionnais seront présentes le 15 octobre 2026 au MaMa Music & Convention à Paris, salon professionnel de référence de l’industrie musicale en France. Les deux groupes se produiront en show case...",
-    "published": "2026-10-11T10:50:01+00:00",
-    "first_seen": "2026-10-11T12:53:27.200135+00:00",
-    "uid": "d99cd0c0babce5bd10ed3813f5dc0771ff7d0dc676efb2db7157fd4947484d5e"
-  },
-  "68a426d798d95b02d0719813ee0c19d3893ca44c3b4575e51753b6cb2e97379a": {
-    "source": "Outre-Mer 360°",
-    "title": "Appel aux dons pour la finalisation de « L’Archipel Refuge », le premier long-métrage naturaliste tourné à Saint-Pierre-et-Miquelon",
-    "link": "https://outremers360.com/bassin-atlantique-appli/appel-aux-dons-pour-la-finalisation-de-larchipel-refuge-le-premier-long-metrage-naturaliste-tourne-a-saint-pierre-et-miquelon",
-    "description": "Premier long-métrage naturaliste réalisé à Saint-Pierre-et-Miquelon, « L’Archipel Refuge », actuellement en phase de post-production, a besoin d’un coup de pouce financier à son achèvement et pour favoriser sa rencontre avec le public au cinéma. Pour ce faire,...",
-    "published": "2026-10-11T10:24:43+00:00",
-    "first_seen": "2026-10-11T12:53:27.200135+00:00",
-    "uid": "68a426d798d95b02d0719813ee0c19d3893ca44c3b4575e51753b6cb2e97379a"
-  },
-  "3e9d37ea4c3de67e94601a2030e83e58cc711a2152fcb4e4f6d26f1b81c7a9eb": {
-    "source": "Outre-Mer 360°",
-    "title": "La corruption en Guadeloupe « quatre fois plus importante » qu'au niveau national selon l'Agence Française Anticorruption",
-    "link": "https://outremers360.com/bassin-atlantique-appli/la-corruption-en-guadeloupe-quatre-fois-plus-importante-quau-niveau-national-selon-lagence-francaise-anticorruption",
-    "description": "« Le nombre d'atteintes à la probité est quatre fois supérieur en Guadeloupe par rapport au niveau national », a indiqué vendredi devant la presse Isabelle Jegouzo, directrice de l'Agence française anticorruption, en visite en Guadeloupe.« En Guadeloupe on...",
-    "published": "2026-10-11T10:14:34+00:00",
-    "first_seen": "2026-10-11T12:53:27.200135+00:00",
-    "uid": "3e9d37ea4c3de67e94601a2030e83e58cc711a2152fcb4e4f6d26f1b81c7a9eb"
-  },
-  "27d398e40714da1de078992ed201cd22c7db6a3be42a5c5faee215584bd919dc": {
-    "source": "Outre-Mer 360°",
-    "title": "Histoires et cultures d'Océanie. La saga de la canne à sucre : quand cette plante du Pacifique fait basculer l'histoire, par Alexandre Juster",
-    "link": "https://outremers360.com/bassin-pacifique-appli/histoires-et-cultures-doceanie-la-saga-de-la-canne-a-sucre-quand-cette-plante-du-pacifique-fait-basculer-lhistoire-par-alexandre-juster",
-    "description": "La canne à sucre… il faut bien reconnaître qu'elle ne paie pas de mine ! une tige sucrée que l'on mâche, au bord des vallées, pour calmer sa soif… Originaire de Nouvelle-Guinée puis transportée d'archipel en archipel au gré du peuplement du Pacifique, cette frêle...",
-    "published": "2026-10-11T09:52:44+00:00",
-    "first_seen": "2026-10-11T12:53:27.200135+00:00",
-    "uid": "27d398e40714da1de078992ed201cd22c7db6a3be42a5c5faee215584bd919dc"
-  },
-  "e04abd3fcfd3015d0b8d6c9042610d474ad901c3bad7bc7bc8dcc301dfe3cabf": {
-    "source": "Outre-Mer 360°",
-    "title": "Pacifique : Intervention du Coss calédonien dans une opération de sauvetage d’un bateau au large de Vanikoro, aux Îles Salomon",
-    "link": "https://outremers360.com/bassin-pacifique-appli/pacifique-intervention-du-coss-caledonien-dans-une-operation-de-sauvetage-dun-bateau-au-large-de-vanikoro-aux-iles-salomon",
-    "description": "À la demande du MRCC Honiara, le Centre opérationnel de surveillance et de sauvetage de Nouvelle-Calédonie est intervenu, ce samedi 10 octobre au matin, sur une opération d’assistance en mer d’un ferry avec 88 personnes à son bord, au large de Vanikoro, aux Îles...",
-    "published": "2026-10-11T08:32:17+00:00",
-    "first_seen": "2026-10-11T12:53:27.200135+00:00",
-    "uid": "e04abd3fcfd3015d0b8d6c9042610d474ad901c3bad7bc7bc8dcc301dfe3cabf"
-  },
-  "e0fbace9111bcb296c8646d72ad8304b7aa454ed3bc229ebae1f7b9c8ed5f183": {
-    "source": "Outre-Mer 360°",
-    "title": "En Guadeloupe, le dispositif Bouclier Qualité Prix s'étend aux prestations de services avec l'automobile",
-    "link": "https://outremers360.com/bassin-atlantique-appli/en-guadeloupe-le-dispositif-bouclier-qualite-prix-setend-aux-prestations-de-services-avec-lautomobile",
-    "description": "Le Bouclier Qualité Prix (BQP) s'étend pour la première fois aux services en plafonnant les frais de vidange et de révision automobile en Guadeloupe. Un dispositif salué face à la vie chère, mais que les associations de consommateurs prévoient déjà de surveiller sur le...",
-    "published": "2026-10-11T07:38:01+00:00",
-    "first_seen": "2026-10-11T12:53:27.200135+00:00",
-    "uid": "e0fbace9111bcb296c8646d72ad8304b7aa454ed3bc229ebae1f7b9c8ed5f183"
   }
 }
