@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 17 Nov 2026 14:25:59 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 13:05:31 +0000</lastBuildDate>
+    <item>
+      <title>Transports scolaires : les temps de trajet défavorisent souvent les élèves des territoires ruraux</title>
+      <link>https://www.banquedesterritoires.fr/transports-scolaires-les-temps-de-trajet-defavorisent-souvent-les-eleves-des-territoires-ruraux</link>
+      <description>Les élèves habitant des territoires ruraux passent plus de temps que les autres dans leurs trajets quotidiens vers l'école, tout comme les plus âgés par rapport aux plus jeunes. Une situation qui pèse, in fine, sur l'orientation.</description>
+      <guid isPermaLink="false">383ec3dbd028345b8a473eb489328c2f7c94e408c038dc31f7e889e491490fff</guid>
+      <pubDate>Wed, 18 Nov 2026 13:05:31 +0000</pubDate>
+    </item>
     <item>
       <title>Santé mentale des enfants : l'Unicef alerte sur l'impact de la précarité et des violences</title>
       <link>https://www.banquedesterritoires.fr/sante-mentale-des-enfants-lunicef-alerte-sur-limpact-de-la-precarite-et-des-violences</link>
@@ -281,20 +288,6 @@
       <description>À peine une semaine après son ouverture, la plateforme de consultation lancée par le gouvernement à destination des lycéens a déjà recueilli plus de 76.000 contributions. Les premiers résultats, dévoilés sur X par le Premier ministre, Sébastien Lecornu, le 11 octobre 2026, mettent en avant une critique de l'organisation du temps scolaire. Ce qui fait écho aux travaux de la Convention citoyenne sur les temps de l'enfant, dont les propositions remettaient en cause dès 2025 l'organisation traditionnelle de la journée et de l'année scolaires.</description>
       <guid isPermaLink="false">51178c971d5dcdb3542f51d5fb8902eba2ecfc704669c7fe8bf010319fec2b70</guid>
       <pubDate>Mon, 12 Oct 2026 13:04:58 +0000</pubDate>
-    </item>
-    <item>
-      <title>Josiane Corneloup : "L'instruction en famille est devenue une liberté conditionnelle"</title>
-      <link>https://www.banquedesterritoires.fr/josiane-corneloup-linstruction-en-famille-est-devenue-une-liberte-conditionnelle</link>
-      <description>Cinq ans après le vote de la loi du 24 août 2021 confortant le respect des principes de la République, deux députés se sont penchés sur le sort réservé dans ce texte à l'instruction en famille, passée d'un régime de déclaration à un régime d'autorisation. Co-auteure d'un rapport d'information avec Vincent Trébuchet, Josiane Corneloup en détaille le contenu et les enjeux à Localtis.</description>
-      <guid isPermaLink="false">79fd17e0545f564292a0a8360a89b3d29263b19376c0b3602fd972effd536e3e</guid>
-      <pubDate>Fri, 09 Oct 2026 10:50:48 +0000</pubDate>
-    </item>
-    <item>
-      <title>PIA, France 2030 : des outils efficaces d’adaptation des formations aux besoins des territoires ?</title>
-      <link>https://www.banquedesterritoires.fr/pia-france-2030-des-outils-efficaces-dadaptation-des-formations-aux-besoins-des-territoires</link>
-      <description>Le centre d’études et de recherches sur les qualifications (Cereq) s’est penché sur les programmes d’investissements d’avenir (PIA) et sur France 2030 afin de jauger si l’objectif d’une meilleure adaptation de l’offre de formation aux métiers de demain était rempli.</description>
-      <guid isPermaLink="false">4f11dbd5b993c188ef2ee32318a017908e874256d394096c989c17fe7ca8504e</guid>
-      <pubDate>Fri, 09 Oct 2026 08:38:30 +0000</pubDate>
     </item>
   </channel>
 </rss>

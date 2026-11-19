@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 17 Nov 2026 16:51:03 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 18 Nov 2026 10:36:22 +0000</lastBuildDate>
+    <item>
+      <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
+      <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
+      <description>La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.</description>
+      <guid isPermaLink="false">f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5</guid>
+      <pubDate>Wed, 18 Nov 2026 10:36:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Observatoire des surfaces et coûts immobiliers en établissements de santé OSCIMES®</title>
+      <link>https://www.anap.fr/s/article/immobilier-oscimes</link>
+      <description>L’Observatoire Immobilier de la Santé OSCIMES®, refondu en 2023, est le seul outil public permettant de partager les coûts de différents projets immobiliers en santé. Un outil unique et ouvert à tous pour appuyer vos simulations de coûts prévisionnels et d’évolution des prix.</description>
+      <guid isPermaLink="false">35cc4bc8bbed5dabe2a35f881f341a807e088f12f222198f1b70fc0789a2a03c</guid>
+      <pubDate>Wed, 18 Nov 2026 10:29:18 +0000</pubDate>
+    </item>
     <item>
       <title>Webinaire : Activité et territoires d'intervention HAD : maîtrisez les outils nationaux</title>
       <link>https://www.anap.fr/s/article/webinaire-activite-et-territoires-d-intervention</link>
@@ -199,13 +213,6 @@
       <pubDate>Thu, 05 Nov 2026 08:39:19 +0000</pubDate>
     </item>
     <item>
-      <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
-      <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
-      <description>La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.</description>
-      <guid isPermaLink="false">f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5</guid>
-      <pubDate>Wed, 04 Nov 2026 13:19:53 +0000</pubDate>
-    </item>
-    <item>
       <title>L’Ehpad Vert : un rapport de l’Anap et Matières Grises</title>
       <link>https://www.anap.fr/s/article/l-ehpad-vert-un-rapport-de-l-anap-et-matieres-grises</link>
       <description>Face au vieillissement de la population et à l’intensification des épisodes climatiques extrêmes, les Ehpad doivent accélérer leur transition écologique. Pour vous aider à passer de l’intention à l’action, l’Anap et le Think Tank Matières Grises publient un rapport inédit, accompagné de 19 fiches pratiques, de bonnes pratiques inspirantes.</description>
@@ -225,13 +232,6 @@
       <description>Le manuel de certification HAS des établissements sanitaires intègre de nombreux critères et éléments liés au développement durable. Préparez-vous à ces critères grâce aux outils de l’Anap !</description>
       <guid isPermaLink="false">0e9af53db0a8e266f0e92c16546f7be55ed02ce91d48896b7dfdf285327ac223</guid>
       <pubDate>Mon, 02 Nov 2026 16:56:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Observatoire des surfaces et coûts immobiliers en établissements de santé OSCIMES®</title>
-      <link>https://www.anap.fr/s/article/immobilier-oscimes</link>
-      <description>L’Observatoire Immobilier de la Santé OSCIMES®, refondu en 2023, est le seul outil public permettant de partager les coûts de différents projets immobiliers en santé. Un outil unique et ouvert à tous pour appuyer vos simulations de coûts prévisionnels et d’évolution des prix.</description>
-      <guid isPermaLink="false">35cc4bc8bbed5dabe2a35f881f341a807e088f12f222198f1b70fc0789a2a03c</guid>
-      <pubDate>Mon, 02 Nov 2026 15:51:24 +0000</pubDate>
     </item>
     <item>
       <title>Performance sans frontière : les voyages d’études de l’Anap</title>

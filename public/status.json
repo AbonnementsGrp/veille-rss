@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-18T20:34:54.742023+00:00",
+  "generated_at": "2026-11-19T02:35:53.838705+00:00",
   "sites_total": 17,
-  "sites_ok": 12,
-  "sites_error": 5,
-  "sites_warning": 0,
-  "new_items": 10,
-  "merged_items": 540,
+  "sites_ok": 14,
+  "sites_error": 3,
+  "sites_warning": 1,
+  "new_items": 9,
+  "merged_items": 544,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -136,11 +136,10 @@
       "url": "https://www.banquedesterritoires.fr/thematiques/jeunesse-education-et-formation",
       "feed_categories": [],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
-      "items": 41,
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 40,
       "feed": "localtis-jeunesse-education-formation.xml",
-      "error": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml ne sert pas un flux (contenu text/html) ; aucun article détecté sur la page",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
     },
@@ -153,7 +152,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 34,
+      "items": 33,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -226,7 +225,7 @@
       "render": false,
       "status": "error",
       "method": "historique conservé",
-      "items": 51,
+      "items": 48,
       "feed": "igas.xml",
       "error": "503 Server Error: Service Unavailable for url: https://igas.gouv.fr/actualites",
       "source_feed": "https://igas.gouv.fr/rss.xml",
@@ -239,13 +238,14 @@
       "url": "https://www.banquedesterritoires.fr/thematiques/publics-fragiles",
       "feed_categories": [],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
-      "items": 13,
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 20,
       "feed": "localtis-publics-fragiles.xml",
-      "error": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml ne sert pas un flux (contenu text/html) ; aucun article détecté sur la page",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
-      "warnings": []
+      "warnings": [
+        "rien de neuf depuis 958 jours (seuil : 60)"
+      ]
     },
     {
       "site": "ADN Tourisme",
