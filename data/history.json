@@ -1,4 +1,13 @@
 {
+  "8e69b0e3d9af2e5dc30423c151a1c3a0f71ea59aff25858b90b53e5a69f76a8e": {
+    "source": "Enfance & Jeunesse Infos - Veille juridique",
+    "title": "Violences en marge des blocus lycéens : une circulaire associe la PJJ et les parents à la réponse pénale",
+    "link": "https://www.enfancejeunesseinfos.fr/violences-en-marge-des-blocus-lyceens-une-circulaire-associe-la-pjj-et-les-parents-a-la-reponse-penale/",
+    "description": "Le garde des Sceaux, Gérald Darmanin, détaille la réponse judiciaire attendue face aux infractions commises en marge du blocus des lycées. Pour les mineurs mis en cause, la PJJ et les parents doivent être associés à chaque étape de la procédure.",
+    "published": "2026-10-09T13:12:00+00:00",
+    "first_seen": "2026-11-20T02:20:51.598306+00:00",
+    "uid": "8e69b0e3d9af2e5dc30423c151a1c3a0f71ea59aff25858b90b53e5a69f76a8e"
+  },
   "362038b68a60e8a829fefa952fabdb30e4ab0335d350c903f19222fe73c93928": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Hausse du SMIC : le SNPPE appelle à revoir les grilles salariales de la petite enfance",
@@ -9264,18 +9273,6 @@
     "published": "2026-11-05T16:22:11+00:00",
     "first_seen": "2026-10-13T02:37:49.202437+00:00",
     "uid": "10b2cad10fa2432daed110007745f833c2983cf340e2e978d9af2cdb751cf238",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c": {
-    "source": "ANAP - Actualités",
-    "title": "Webinaire Urgences : mieux orienter, s’appuyer sur le territoire",
-    "link": "https://www.anap.fr/s/article/webinaire-urgences-mieux-orienter-s-appuyer-sur-le-territoire",
-    "description": "À l’occasion de la publication de son guide, l’Anap propose une série de webinaires consacrés à la réorientation depuis les services d’urgences. Ces rendez-vous ont pour objectif d’accompagner la mise en place d’une dynamique territoriale, afin d’améliorer l’orientation des patients et la coordination entre les différents acteurs.",
-    "published": "2026-10-07T13:24:39+00:00",
-    "first_seen": "2026-10-12T21:17:45.072768+00:00",
-    "uid": "8621904ecbb013130a9acd7e1761a835b89b03f1755b7bcc79104a4cbdf24f6c",
     "description_checked": true,
     "title_checked": true,
     "title_enriched": true
