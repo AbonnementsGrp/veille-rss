@@ -1,4 +1,83 @@
 {
+  "10b2cad10fa2432daed110007745f833c2983cf340e2e978d9af2cdb751cf238": {
+    "source": "ANAP - Actualités",
+    "title": "Masterclass DATA - Piloter par la DATA : décider vite, agir juste.",
+    "link": "https://www.anap.fr/s/article/masterclass-data-piloter-decider-agir",
+    "description": "Vos systèmes d'information hospitaliers regorgent de données patients, RH, financières et logistiques. Les exploitez-vous vraiment ? Avec notre Masterclass DATA, transformez vos données hospitalières en leviers de pilotage : aide à la décision médicale, optimisation des organisations et anticipation des besoins.",
+    "published": "2026-11-05T16:22:11+00:00",
+    "first_seen": "2026-11-20T20:28:24.076597+00:00",
+    "uid": "10b2cad10fa2432daed110007745f833c2983cf340e2e978d9af2cdb751cf238",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "8b9b44786ae0b5331a03c0f4da68d78beed539677e660bdcb361ba598806ee52": {
+    "source": "ANAP - Actualités",
+    "title": "Appui terrain - Renforcer l’attractivité et la fidélisation dans votre établissement",
+    "link": "https://www.anap.fr/s/article/appui-terrain-renforcer-l-attractivite-et-la-fidelisation-dans-votre--etablissement",
+    "description": "Établissements sanitaires et médico-sociaux : l’Anap vous accompagne pour renforcer l’attractivité et fidéliser vos équipes. Candidatez !",
+    "published": "2026-10-13T12:36:19+00:00",
+    "first_seen": "2026-11-20T20:28:24.076597+00:00",
+    "uid": "8b9b44786ae0b5331a03c0f4da68d78beed539677e660bdcb361ba598806ee52",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "3032113465eca291e5524896c89db688264e71c59af85603cb7ffed97bf5ec2e": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "Droit des enfants à faire du bruit : la FFEC relance son appel à légiférer",
+    "link": "https://www.lesprosdelapetiteenfance.fr/droit-des-enfants-a-faire-du-bruit-la-ffec-relance-son-appel-a-legiferer/",
+    "description": "Elle plaide pour que les bruits des enfants qui jouent en crèche ou sur une aire de jeux soient exclus des troubles anormaux du voisinage.",
+    "published": "2026-11-20T15:50:06+00:00",
+    "first_seen": "2026-11-20T20:28:17.355779+00:00",
+    "uid": "3032113465eca291e5524896c89db688264e71c59af85603cb7ffed97bf5ec2e",
+    "description_checked": true
+  },
+  "35d109620fae3182c17f306c92ae4892cd6b588171aa28a2b98a752439d86826": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Erasmus+ : 5,3 milliards d'euros pour l’appel à propositions de 2027",
+    "link": "https://www.banquedesterritoires.fr/erasmus-53-milliards-deuros-pour-lappel-propositions-de-2027",
+    "description": "La Commission européenne a lancé le 18 novembre le dernier appel à propositions Erasmus+ de la programmation actuelle (2021-2027). Pour 2027, il sera doté d'un budget de plus de 5,3 milliards d'euros, dont 434 millions d’euros pour la France. Selon Bruxelles, le programme devrait bénéficier…",
+    "published": "2026-11-20T12:28:08+00:00",
+    "first_seen": "2026-11-20T20:28:14.707543+00:00",
+    "uid": "35d109620fae3182c17f306c92ae4892cd6b588171aa28a2b98a752439d86826"
+  },
+  "d71c058059898045b51de7944e27462ecd9731b1a7641f9148dafe8e9f2ee193": {
+    "source": "Outre-Mer 360°",
+    "title": "L'État efface une créance de 80 millions d'euros pour Corsair",
+    "link": "https://outremers360.com/bassin-atlantique-appli/letat-efface-une-creance-de-80-millions-deuros-pour-corsair",
+    "description": "L’État a définitivement effacé vendredi une créance de 80 millions d'euros de la compagnie aérienne Corsair, conformément à un plan d'aide public lancé en 2020 et amendé en 2023.\"Les créances détenues sur la société Corsair\" au titre de ce plan d'aide \"sont...",
+    "published": "2026-11-20T15:32:31+00:00",
+    "first_seen": "2026-11-20T20:28:02.781957+00:00",
+    "uid": "d71c058059898045b51de7944e27462ecd9731b1a7641f9148dafe8e9f2ee193"
+  },
+  "62f4b072ee53c7547cadd7b78cf8b2b74a9aaa6107e73024c045d7f81f7f97da": {
+    "source": "Outre-Mer 360°",
+    "title": "Polynésie : très présent aux assises, l’inceste sur enfants reste souvent caché",
+    "link": "https://outremers360.com/bassin-pacifique-appli/polynesie-tres-present-aux-assises-linceste-sur-enfants-reste-souvent-cache",
+    "description": "Les viols représentent huit affaires sur dix jugées aux assises en Polynésie française et visent majoritairement des enfants dans leur famille, d'après des chiffres présentés jeudi par un observatoire local.La honte et la dépendance économique envers l'auteur freinent...",
+    "published": "2026-11-20T15:01:23+00:00",
+    "first_seen": "2026-11-20T20:28:02.781957+00:00",
+    "uid": "62f4b072ee53c7547cadd7b78cf8b2b74a9aaa6107e73024c045d7f81f7f97da"
+  },
+  "4f75b1e6fbab551704cacff961bf0b1f289063034a75cc2943a2dd6b1b2284a0": {
+    "source": "Outre-Mer 360°",
+    "title": "Les Trophées de l’Excellence Associative Ultramarine donnent rendez-vous le 27 novembre à Paris",
+    "link": "https://outremers360.com/bassin-atlantique-appli/les-trophees-de-lexcellence-associative-ultramarine-donnent-rendez-vous-le-27-novembre-a-paris",
+    "description": "La 4e édition des Trophées de l’Excellence Associative Ultramarine (TEAUM) se tiendra le vendredi 27 novembre 2026 au Ministère des Outre-mer, à Paris. Une cérémonie consacrée aux associations et aux femmes et hommes qui font vivre la solidarité, la transmission et...",
+    "published": "2026-11-20T14:02:12+00:00",
+    "first_seen": "2026-11-20T20:28:02.781957+00:00",
+    "uid": "4f75b1e6fbab551704cacff961bf0b1f289063034a75cc2943a2dd6b1b2284a0"
+  },
+  "7363f47aa37b229ecc737f7272c77dd479a4c63daecdc6e3ee76b0a927a12cf2": {
+    "source": "Outre-Mer 360°",
+    "title": "Agriculture en Outre-mer: le Guadeloupéen Bernard Sinitambirivoutin élu nouveau président de l'ODEADOM",
+    "link": "https://outremers360.com/bassin-atlantique-appli/agriculture-en-outre-mer-le-guadeloupeen-bernard-sinitambirivoutin-elu-nouveau-president-de-lodeadom",
+    "description": "Au terme d'un vote « clair » tenu en séance hier jeudi 19 novembre par le conseil d'administration de l'ODEADOM, le producteur guadeloupéen Bernard Sinitambirivoutin a été élu président de l'Office de développement de l'économie agricole d'outre-mer pour les cinq...",
+    "published": "2026-11-20T13:12:00+00:00",
+    "first_seen": "2026-11-20T20:28:02.781957+00:00",
+    "uid": "7363f47aa37b229ecc737f7272c77dd479a4c63daecdc6e3ee76b0a927a12cf2"
+  },
   "d94d6596af2c704f587be74a04204fea5a6e0910b13c4e71426f962e92bc35af": {
     "source": "Les Pros de la Petite Enfance",
     "title": "Assistantes maternelles et 2 250 heures annuelles : un sondage pour clarifier la situation",
@@ -9195,81 +9274,5 @@
     "published": "2026-10-13T17:52:56+00:00",
     "first_seen": "2026-10-13T19:18:59.668759+00:00",
     "uid": "3f2fbd130427d09e466a77dedc76d39d1a9c8e6e15b53508225ee12ae30350b3"
-  },
-  "42a762db970182fb3adf25808bcd7aa3246f266feba1563b92a85aad4598fe81": {
-    "source": "Outre-Mer 360°",
-    "title": "Mobilisation lycéenne : Les députés Steevy Gustave et Jean-Victor Castor dénoncent des conditions d'étude indignes et des réponses insuffisantes pour les Outre-mer",
-    "link": "https://outremers360.com/bassin-atlantique-appli/mobilisation-lyceenne-les-deputes-steevy-gustave-et-jean-victor-castor-denoncent-des-conditions-detude-indignes-et-des-reponses-insuffisantes-pour-les-outre-mer",
-    "description": "La mobilisation des lycéens ultramarins a fait irruption à l'Assemblée nationale lors de la séance de questions au Gouvernement. Deux députés de l'Essonne Steevy Gustave (groupe écologiste et social) et de Guyane Jean-Victor Castor (GDR), ont interpellé le...",
-    "published": "2026-10-13T15:41:08+00:00",
-    "first_seen": "2026-10-13T19:18:59.668759+00:00",
-    "uid": "42a762db970182fb3adf25808bcd7aa3246f266feba1563b92a85aad4598fe81"
-  },
-  "8c2f4b1da127aeb80067dfe63a15f6b651c9ab88637f6111993058e1703daae8": {
-    "source": "Outre-Mer 360°",
-    "title": "Une plaque en hommage à Aimé Césaire apposée sur le siège 607 de l’Assemblée nationale",
-    "link": "https://outremers360.com/bassin-atlantique-appli/une-plaque-en-hommage-a-aime-cesaire-apposee-sur-le-siege-607-de-lassemblee-nationale",
-    "description": "Une plaque en hommage à Aimé Césaire a été apposée, ce mardi à l’Assemblée nationale, là où l’ancien député de Martinique siégeait pendant son long mandat de parlementaire. La cérémonie, présidée par Yaël Braun-Pivet, a eu lieu en présence de la députée...",
-    "published": "2026-10-13T15:30:48+00:00",
-    "first_seen": "2026-10-13T19:18:59.668759+00:00",
-    "uid": "8c2f4b1da127aeb80067dfe63a15f6b651c9ab88637f6111993058e1703daae8"
-  },
-  "6e2c315c22fa27b68427e80b62d1e14579a0c0154010c0b710d4db54f2bfe55c": {
-    "source": "Outre-Mer 360°",
-    "title": "Flotte fantôme : enquête ouverte à La Réunion contre le capitaine d'un pétrolier suspect",
-    "link": "https://outremers360.com/bassin-indien-appli/flotte-fantome-enquete-ouverte-a-la-reunion-contre-le-capitaine-dun-petrolier-suspect",
-    "description": "Le parquet de Saint-Denis a annoncé mardi l'ouverture d'une enquête judiciaire à l'encontre du capitaine du pétrolier «DF Peak», un navire soupçonné d'appartenir à la «flotte fantôme» russe et dérouté vers La Réunion.Cette procédure vise le délit de...",
-    "published": "2026-10-13T13:51:09+00:00",
-    "first_seen": "2026-10-13T19:18:59.668759+00:00",
-    "uid": "6e2c315c22fa27b68427e80b62d1e14579a0c0154010c0b710d4db54f2bfe55c"
-  },
-  "b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245": {
-    "source": "ANAP - Actualités",
-    "title": "Les Rendez-Vous juridiques de la Transition écologique",
-    "link": "https://www.anap.fr/s/article/les-rendez-vous-juridiques-de-la-transition-ecologique",
-    "description": "Actualités règlementaires, bonnes pratiques, conseils d’experts : face aux enjeux de la transition écologique, l’Anap vous propose une série de webinaires dédiés.",
-    "published": "2026-10-13T11:35:54+00:00",
-    "first_seen": "2026-10-13T10:39:28.048578+00:00",
-    "uid": "b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "762db46b384f4b6af593ef985185d3b2334e222e0cb1e5e4ccdfe6dfba32318b": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Jouets d’occasion : Rejouons Solidaire lance un label qualité",
-    "link": "https://www.lesprosdelapetiteenfance.fr/jouets-doccasion-rejouons-solidaire-lance-un-label-qualite/",
-    "description": "Le réseau Rejouons solidaire lance un label indépendant certifié par Ecocert. Une belle initiative pour encourager la professionnalisation des acteurs de la filière du réemploi du jouet et rassurer les parents et professionnels qui en font l’usage.",
-    "published": "2026-10-13T09:07:23+00:00",
-    "first_seen": "2026-10-13T10:39:23.408978+00:00",
-    "uid": "762db46b384f4b6af593ef985185d3b2334e222e0cb1e5e4ccdfe6dfba32318b",
-    "description_checked": true
-  },
-  "fdbb9db0693bddc3bda5a58b0e11e8477fdef97dc6df029e677812dc81af19e1": {
-    "source": "Observatoire de la culture",
-    "title": "Chronique de la répression culturelle en Serbie",
-    "link": "https://www.observatoire-culture.net/chronique-de-la-repression-culturelle-en-serbie/",
-    "description": "Depuis 2024, avec l’effondrement meurtrier d’un auvent en béton dans la gare de Novi Sad, le mouvement de contestation lancé par les étudiants secoue désormais l’entièreté de la Serbie. Face à la corruption, au contrôle des médias et à la répression dans le domaine culturel, tous réclament le respect de l’État de droit. Nous republions ici la tribune rédigée par des artistes et acteurs culturels en 2025 dans laquelle ils témoignent et documentent les entraves aux libertés de pensée, d’expression et de création qu’ils subissent.",
-    "published": "2026-10-13T08:58:55+00:00",
-    "first_seen": "2026-10-13T10:39:19.010153+00:00",
-    "uid": "fdbb9db0693bddc3bda5a58b0e11e8477fdef97dc6df029e677812dc81af19e1"
-  },
-  "294f3affdfd0cd36cb5c72ea147c3e1a29a431622eb72e7d5200c5529c301037": {
-    "source": "Outre-Mer 360°",
-    "title": "Benoît Lombrière devient le nouveau délégué général d’EURODOM",
-    "link": "https://outremers360.com/bassin-atlantique-appli/benoit-lombriere-devient-le-nouveau-delegue-general-deurodom",
-    "description": "Benoît Lombrière a été élu à l’unanimité nouveau délégué général d’EURODOM, à l’issue de l’assemblée générale de l’organisation, réunie ce mardi 13 octobre à Bruxelles. Il succède à Gérard Bally, qui occupait cette fonction depuis près de 40...",
-    "published": "2026-10-13T09:52:01+00:00",
-    "first_seen": "2026-10-13T10:39:07.990584+00:00",
-    "uid": "294f3affdfd0cd36cb5c72ea147c3e1a29a431622eb72e7d5200c5529c301037"
-  },
-  "fa33aeb1a9c209578b39582df9284a08645be0f4378bbb5a129688472f11eb07": {
-    "source": "Outre-Mer 360°",
-    "title": "Cyclisme : La Réunionnaise Léa Grondin s’impose au KM de Paris-Tours",
-    "link": "https://outremers360.com/bassin-atlantique-appli/cyclisme-la-reunionnaise-lea-grondin-simpose-au-km-de-paris-tours",
-    "description": "La Réunionnaise Léa Grondin a remporté, dimanche 11 octobre 2026, le KM de Paris-Tours dans la catégorie U19. Cette épreuve de sprint se déroule en marge de la course cycliste Paris-Tours. La jeune cycliste réunionnaise s’est imposée face aux autres espoirs de sa...",
-    "published": "2026-10-13T09:09:41+00:00",
-    "first_seen": "2026-10-13T10:39:07.990584+00:00",
-    "uid": "fa33aeb1a9c209578b39582df9284a08645be0f4378bbb5a129688472f11eb07"
   }
 }
