@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 16 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 19 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Électrifier mon territoire : enjeux et solutions</title>
+      <link>https://librairie.ademe.fr/energies/9745-electrifier-mon-territoire-enjeux-et-solutions.html</link>
+      <description>L’énergie conditionne le budget des collectivités, le fonctionnement des services publics, l’activité économique du territoire et la qualité de vie des habitants. Réduire notre dépendance aux énergies fossiles est à la fois un enjeu climatique, économique et stratégique. La France dispose d'un atout majeur : une électricité abondante, compétitive et parmi les moins carbonées d’Europe. Un avantage qu’il nous appartient de transformer en opportunité pour tous nos territoires.</description>
+      <guid isPermaLink="false">aec760528160f3a020e5556e0a76123ee9ba9a467fdb84da92e5792348379b69</guid>
+      <pubDate>Thu, 19 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>DES COMMUNES QUI AGISSENT : 12 projets inspirants pour la transition écologique en Guyane</title>
       <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9776-des-communes-qui-agissent-12-projets-inspirants-pour-la-transition-ecologique-en-guyane-9791029727382.html</link>
@@ -420,13 +427,6 @@
       <link>https://librairie.ademe.fr/batiment/9343-performance-des-systemes-de-refroidissement-des-centres-de-donnees-et-recuperation-de-chaleur-fatale.html</link>
       <description>Le webinaire « Performance des systèmes de refroidissement des centres de données et valorisation de la chaleur fatale », organisé par l’ ADEME et France Datacenter , a présenté les résultats d’une étude comparative des technologies de refroidissement et leur performance en termes de chaleur fatale valorisable. Ces travaux montrent que cette chaleur, disponible toute l’année, peut contribuer à différents usages dans les territoires, notamment pour des réseaux de chaleur, des procédés industriels ou des applications agricoles.</description>
       <guid isPermaLink="false">744db039bc523679e91a056671e51c183b86fcd3106dbd3c7d74a95d91afd599</guid>
-      <pubDate>Wed, 06 May 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Rapport d'activité 2025 - Représentation territoriale de l'ADEME en Polynésie française</title>
-      <link>https://librairie.ademe.fr/economie-circulaire-et-dechets/9347-rapport-d-activite-2025-representation-territoriale-de-l-ademe-en-polynesie-francaise.html</link>
-      <description>Cette synthèse présente les évènements phares et le bilan des actions réalisées par la Représentation de l'ADEME en Polynésie française en 2025.</description>
-      <guid isPermaLink="false">a50925bcc4a163ed5a49c88192df0b38771a8fc1cc542e3d199195046c8fd9cd</guid>
       <pubDate>Wed, 06 May 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>

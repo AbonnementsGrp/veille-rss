@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-20T02:21:05.294662+00:00",
+  "generated_at": "2026-11-20T11:48:13.762101+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
   "sites_warning": 1,
-  "new_items": 1,
-  "merged_items": 546,
+  "new_items": 9,
+  "merged_items": 549,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -123,7 +123,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 23,
+      "items": 24,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
@@ -151,7 +151,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 33,
+      "items": 34,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -242,7 +242,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 959 jours (seuil : 60)"
+        "rien de neuf depuis 960 jours (seuil : 60)"
       ]
     },
     {
