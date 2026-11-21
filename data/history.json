@@ -1,4 +1,25 @@
 {
+  "b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245": {
+    "source": "ANAP - Actualités",
+    "title": "Les Rendez-Vous juridiques de la Transition écologique",
+    "link": "https://www.anap.fr/s/article/les-rendez-vous-juridiques-de-la-transition-ecologique",
+    "description": "Actualités règlementaires, bonnes pratiques, conseils d’experts : face aux enjeux de la transition écologique, l’Anap vous propose une série de webinaires dédiés.",
+    "published": "2026-10-13T11:35:54+00:00",
+    "first_seen": "2026-11-21T02:18:33.283954+00:00",
+    "uid": "b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "fdbb9db0693bddc3bda5a58b0e11e8477fdef97dc6df029e677812dc81af19e1": {
+    "source": "Observatoire de la culture",
+    "title": "Chronique de la répression culturelle en Serbie",
+    "link": "https://www.observatoire-culture.net/chronique-de-la-repression-culturelle-en-serbie/",
+    "description": "Depuis 2024, avec l’effondrement meurtrier d’un auvent en béton dans la gare de Novi Sad, le mouvement de contestation lancé par les étudiants secoue désormais l’entièreté de la Serbie. Face à la corruption, au contrôle des médias et à la répression dans le domaine culturel, tous réclament le respect de l’État de droit. Nous republions ici la tribune rédigée par des artistes et acteurs culturels en 2025 dans laquelle ils témoignent et documentent les entraves aux libertés de pensée, d’expression et de création qu’ils subissent.",
+    "published": "2026-10-13T08:58:55+00:00",
+    "first_seen": "2026-11-21T02:18:20.566153+00:00",
+    "uid": "fdbb9db0693bddc3bda5a58b0e11e8477fdef97dc6df029e677812dc81af19e1"
+  },
   "10b2cad10fa2432daed110007745f833c2983cf340e2e978d9af2cdb751cf238": {
     "source": "ANAP - Actualités",
     "title": "Masterclass DATA - Piloter par la DATA : décider vite, agir juste.",
@@ -9256,23 +9277,5 @@
     "published": "2026-10-06T22:00:00+00:00",
     "first_seen": "2026-10-13T19:19:05.052507+00:00",
     "uid": "b9cfa1e7a7c219ec77c0d164ffd0205f5788866ea50aec8dcb295dab0047ea8c"
-  },
-  "3422adf165da0b0128b07644ade135eeb9016c5d6eaa0076ecf2790030b7d693": {
-    "source": "ADEME_Société et politiques publiques",
-    "title": "Etude des enjeux énergétiques liés à l'immobilier logistique",
-    "link": "https://librairie.ademe.fr/mobilite-et-transports/9657-etude-des-enjeux-energetiques-lies-a-l-immobilier-logistique.html",
-    "description": "Les entrepôts logistiques de plus de 1 000 m² représentent un parc immobilier de 93,4 millions de m² en France, caractérisé par d’importantes surfaces de toitures et de parkings déjà artificialisés. L’étude met en évidence leur potentiel significatif de production d’énergies renouvelables, notamment photovoltaïque et géothermique. À l’horizon 2028, le productible photovoltaïque est estimé entre 6,4 et 8,1 TWh, ouvrant des perspectives d’autoconsommation, de couplage bâtiment-véhicule et d’intégration dans les stratégies énergétiques territoriales.",
-    "published": "2026-10-06T22:00:00+00:00",
-    "first_seen": "2026-10-13T19:19:04.584927+00:00",
-    "uid": "3422adf165da0b0128b07644ade135eeb9016c5d6eaa0076ecf2790030b7d693"
-  },
-  "3f2fbd130427d09e466a77dedc76d39d1a9c8e6e15b53508225ee12ae30350b3": {
-    "source": "Outre-Mer 360°",
-    "title": "L’Assemblée nationale adopte à l’unanimité des votants la proposition de loi «intégrale» contre les violences sexistes et sexuelles",
-    "link": "https://outremers360.com/bassin-atlantique-appli/lassemblee-nationale-adopte-a-lunanimite-des-votants-la-proposition-de-loi-integrale-contre-les-violences-sexistes-et-sexuelles",
-    "description": "L’Assemblée nationale a adopté mardi à l’unanimité des votants la proposition de loi dite intégrale contre les violences sexistes et sexuelles, dont l’examen doit désormais se poursuivre au Sénat, avec l’objectif pour ses défenseurs une...",
-    "published": "2026-10-13T17:52:56+00:00",
-    "first_seen": "2026-10-13T19:18:59.668759+00:00",
-    "uid": "3f2fbd130427d09e466a77dedc76d39d1a9c8e6e15b53508225ee12ae30350b3"
   }
 }
