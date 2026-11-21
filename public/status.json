@@ -1,10 +1,10 @@
 {
-  "generated_at": "2026-11-21T02:18:46.236314+00:00",
+  "generated_at": "2026-11-21T11:06:49.886388+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
   "sites_warning": 1,
-  "new_items": 2,
+  "new_items": 4,
   "merged_items": 550,
   "themes": [
     "ANTIGUA",
@@ -242,7 +242,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 960 jours (seuil : 60)"
+        "rien de neuf depuis 961 jours (seuil : 60)"
       ]
     },
     {
