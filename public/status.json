@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-21T11:06:49.886388+00:00",
+  "generated_at": "2026-11-21T19:18:38.457386+00:00",
   "sites_total": 17,
-  "sites_ok": 16,
-  "sites_error": 1,
+  "sites_ok": 15,
+  "sites_error": 2,
   "sites_warning": 1,
   "new_items": 4,
-  "merged_items": 550,
+  "merged_items": 548,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -25,7 +25,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 58,
+      "items": 59,
       "feed": "outre-mer-360.xml",
       "source_feed": "https://api.outremers360.com/rss/fil-info.xml",
       "warnings": []
@@ -95,7 +95,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 16,
+      "items": 15,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
@@ -137,7 +137,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 40,
+      "items": 39,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
@@ -151,7 +151,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 34,
+      "items": 33,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -165,10 +165,11 @@
         "La restauration collective"
       ],
       "render": false,
-      "status": "ok",
-      "method": "flux officiel",
+      "status": "error",
+      "method": "historique conservé",
       "items": 6,
       "feed": "c2l-restauration-collective.xml",
+      "error": "403 Client Error: Forbidden for url: https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/",
       "source_feed": "https://c2lsolutions.fr/feed/?post_type=post",
       "warnings": []
     },
