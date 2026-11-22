@@ -1,4 +1,24 @@
 {
+  "fa91c5562a34c8552c2039727cfd8232d073b85fbbe315ef4f404f2308f76c68": {
+    "source": "IGAS",
+    "title": "Mieux prévenir, mieux dépister et mieux prendre en charge la maladie rénale chronique",
+    "link": "https://igas.gouv.fr/mieux-prevenir-mieux-depister-et-mieux-prendre-en-charge-la-maladie-renale-chronique-0",
+    "description": "Le rapport de l’Igas dresse un état des lieux de l’ensemble des étapes du parcours de la maladie rénale chronique, de la prévention primaire jusqu’à la prise en charge de l’insuffisance rénale terminale. Il met en lumière la nécessité d’un renforcement de la prévention, du dépistage précoce et d’une adaptation de l’offre. Ces conditions sont essentielles pour améliorer la prise en charge des patients et limiter les évolutions les plus graves de la maladie. Elles répondent à un autre enjeu majeur",
+    "published": "2026-06-11T16:22:20+00:00",
+    "first_seen": "2026-11-22T19:43:23.802293+00:00",
+    "uid": "fa91c5562a34c8552c2039727cfd8232d073b85fbbe315ef4f404f2308f76c68",
+    "description_checked": true
+  },
+  "f4fc07b2e8708894bc90d7ee6cebe2074258f054eacc355caae19750c6deda0f": {
+    "source": "IGAS",
+    "title": "Revue de dépenses sur les prescriptions en ville et à l’hôpital",
+    "link": "https://igas.gouv.fr/revue-de-depenses-sur-les-prescriptions-en-ville-et-lhopital-0",
+    "description": "Depuis 2019, la France connaît, comme la plupart des pays développés, un rebond de la croissance des dépenses de santé. Cette hausse devrait se poursuivre en raison des évolutions de la démographie, de l’épidémiologie et du progrès technique. Cette dynamique, comme le niveau de déficit de l’Assurance maladie, impliquent de rechercher des économies, tout en poursuivant l’amélioration des conditions de prise en charge des patients.",
+    "published": "2026-06-11T16:12:27+00:00",
+    "first_seen": "2026-11-22T19:43:23.802293+00:00",
+    "uid": "f4fc07b2e8708894bc90d7ee6cebe2074258f054eacc355caae19750c6deda0f",
+    "description_checked": true
+  },
   "d902161087b1f2f54a481e7286155897b470ff521cce38d258e13ad0539a399b": {
     "source": "Outre-Mer 360°",
     "title": "Parcours renouvelé, nouvelles épreuves surprises et casting médiatique pour célébrer le dixième anniversaire du Raid des Alizés-Martinique",
@@ -9249,23 +9269,5 @@
     "published": "2026-10-14T07:19:09+00:00",
     "first_seen": "2026-10-14T08:45:37.015748+00:00",
     "uid": "eabdcf20b34dade6263b04dbab3f7197fba73eab90db959245f7fb731fa2c3ad"
-  },
-  "4230d020e6b78391bd3e0ce5ca4a83b32f7b7efbad1103b97f6caa2d531d1dcd": {
-    "source": "Outre-Mer 360°",
-    "title": "360 ÉCO. Ariane Vuilloud, directrice régionale Outre-mer chez TotalEnergies, détaille la stratégie d’innovation et d’insertion du groupe dans les territoires",
-    "link": "https://outremers360.com/bassin-atlantique-appli/360-eco-ariane-vuilloud-directrice-regionale-outre-mer-chez-totalenergies-detaille-la-strategie-dinnovation-et-dinsertion-du-groupe-dans-les-territoires",
-    "description": "Et si la culture de la vanille ou du café pouvait aussi contribuer à produire de l'électricité ? Invitée de 360 ÉCO, l'émission d'Outremers 360 réalisée en partenariat avec la Bred Banque Populaire, Ariane Vuilloud, directrice régionale Outre-mer chez TotalEnergies,...",
-    "published": "2026-10-14T06:56:07+00:00",
-    "first_seen": "2026-10-14T08:45:37.015748+00:00",
-    "uid": "4230d020e6b78391bd3e0ce5ca4a83b32f7b7efbad1103b97f6caa2d531d1dcd"
-  },
-  "646fdd0e0c62f704e09d3129b3a4763e5c0538570776b51e121bc55d2e674e74": {
-    "source": "Outre-Mer 360°",
-    "title": "Aérien : En Nouvelle-Calédonie, Que choisir ensemble demande un audit sur les pannes à répétition d’Aircalin",
-    "link": "https://outremers360.com/bassin-pacifique-appli/aerien-en-nouvelle-caledonie-que-choisir-ensemble-demande-un-audit-sur-les-pannes-a-repetition-daircalin",
-    "description": "L’association de défense des consommateurs a sollicité le président du gouvernement pour la mise en œuvre d’un audit indépendant afin de faire toute la lumière sur les incidents techniques qui se multiplient ces derniers mois sur la flotte d’Aircalin et d’analyser...",
-    "published": "2026-10-14T06:51:37+00:00",
-    "first_seen": "2026-10-14T08:45:37.015748+00:00",
-    "uid": "646fdd0e0c62f704e09d3129b3a4763e5c0538570776b51e121bc55d2e674e74"
   }
 }

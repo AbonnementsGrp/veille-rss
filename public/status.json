@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T11:29:24.637439+00:00",
+  "generated_at": "2026-11-22T19:43:28.436603+00:00",
   "sites_total": 17,
-  "sites_ok": 15,
-  "sites_error": 2,
+  "sites_ok": 16,
+  "sites_error": 1,
   "sites_warning": 1,
-  "new_items": 7,
-  "merged_items": 544,
+  "new_items": 2,
+  "merged_items": 539,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -165,11 +165,10 @@
         "La restauration collective"
       ],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
+      "status": "ok",
+      "method": "flux officiel",
       "items": 6,
       "feed": "c2l-restauration-collective.xml",
-      "error": "403 Client Error: Forbidden for url: https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/",
       "source_feed": "https://c2lsolutions.fr/feed/?post_type=post",
       "warnings": []
     },
@@ -225,7 +224,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 43,
+      "items": 38,
       "feed": "igas.xml",
       "source_feed": "https://igas.gouv.fr/rss.xml",
       "warnings": []
