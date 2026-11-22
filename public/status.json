@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-21T19:18:38.457386+00:00",
+  "generated_at": "2026-11-22T01:22:01.347325+00:00",
   "sites_total": 17,
   "sites_ok": 15,
   "sites_error": 2,
   "sites_warning": 1,
-  "new_items": 4,
-  "merged_items": 548,
+  "new_items": 0,
+  "merged_items": 544,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -151,7 +151,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 33,
+      "items": 32,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -225,7 +225,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 46,
+      "items": 43,
       "feed": "igas.xml",
       "source_feed": "https://igas.gouv.fr/rss.xml",
       "warnings": []

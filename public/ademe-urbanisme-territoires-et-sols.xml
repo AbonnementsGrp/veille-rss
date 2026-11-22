@@ -52,17 +52,17 @@
       <pubDate>Tue, 20 Oct 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Energie et immobilier logistique : Quelles synergies ?</title>
-      <link>https://librairie.ademe.fr/mobilite-et-transports/9657-energie-et-immobilier-logistique-quelles-synergies-.html</link>
-      <description>Les entrepôts logistiques de plus de 1 000 m² représentent un parc immobilier de 93,4 millions de m² en France, caractérisé par d’importantes surfaces de toitures et de parkings déjà artificialisés. L’étude met en évidence leur potentiel significatif de production d’énergies renouvelables, notamment photovoltaïque et géothermique. À l’horizon 2028, le productible photovoltaïque est estimé entre 6,4 et 8,1 TWh, ouvrant des perspectives d’autoconsommation, de couplage bâtiment-véhicule et d’intégration dans les stratégies énergétiques territoriales.</description>
-      <guid isPermaLink="false">9567b6afa18b9cbe5a233566ab1cfad19f90e7c39b62d2625854511754705946</guid>
-      <pubDate>Tue, 06 Oct 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Le sol dans les stratégies territoriales : de la planification au projet d'aménagement</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9640-le-sol-dans-les-strategies-territoriales-de-la-planification-au-projet-d-amenagement.html</link>
       <description>Ce guide méthodologique vise à sensibiliser les acteurs de l’aménagement (collectivités, aménageurs, urbanistes, bureaux d’études etc.) à l’importance des sols et à fournir un cadre harmonisé pour évaluer leurs fonctions écologiques quel que soit l’échelle spatiale considérée. Il accompagne les démarches de sobriété foncière et de résilience des territoires à travers la préservation de la santé des sols. Il offre des leviers pour mieux identifier le besoin, mieux définir l’échelle spatiale à investiguer et adapter la méthode aux ressources documentaires disponibles et enfin pour la mise en pratique. Ce guide expose une méthode unique, la méthode « 4 fonctions » qui peut se décliner selon les enjeux et la taille du territoire, et suivant les données disponibles (sources documentaires, données de terrain etc.). Des fiches d'exemples illustrent les rendus cartographiques de la fonctionnalité des sols, l’interprétation des résultats et leurs utilisations pour répondre à des besoins opérationnels. Le guide est composé de deux documents, le guide méthodologique à proprement parlé et les référentiels des indicateurs sols (annexe 7)</description>
       <guid isPermaLink="false">edd7d00f282d333138326c4d67e885d60dd6d8189e28eae733a1e59d0e8325b0</guid>
+      <pubDate>Tue, 06 Oct 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Energie et immobilier logistique : Quelles synergies ?</title>
+      <link>https://librairie.ademe.fr/mobilite-et-transports/9657-energie-et-immobilier-logistique-quelles-synergies-.html</link>
+      <description>Les entrepôts logistiques de plus de 1 000 m² représentent un parc immobilier de 93,4 millions de m² en France, caractérisé par d’importantes surfaces de toitures et de parkings déjà artificialisés. L’étude met en évidence leur potentiel significatif de production d’énergies renouvelables, notamment photovoltaïque et géothermique. À l’horizon 2028, le productible photovoltaïque est estimé entre 6,4 et 8,1 TWh, ouvrant des perspectives d’autoconsommation, de couplage bâtiment-véhicule et d’intégration dans les stratégies énergétiques territoriales.</description>
+      <guid isPermaLink="false">9567b6afa18b9cbe5a233566ab1cfad19f90e7c39b62d2625854511754705946</guid>
       <pubDate>Tue, 06 Oct 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -185,10 +185,10 @@
       <pubDate>Wed, 24 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>TerriSTORY : infographie</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9431-terristory-infographie.html</link>
-      <description>Aider le pilotage de la transition écologique des territoires via une plateforme partenariale. Remédier à la dispersion des données du territoire et des outils de pilotage nécessaires aux collectivités pour organiser leur transition écologique</description>
-      <guid isPermaLink="false">ed1c41bfe121d3da6ef9b4325fe2327fb2ad5c5926fb39c24c71c0c50a2331b4</guid>
+      <title>Diagnostic Mobilité : infographie</title>
+      <link>https://librairie.ademe.fr/mobilite-et-transports/9441-diagnostic-mobilite-infographie.html</link>
+      <description>Ce commun lauréat à l'appel à communs est une application web qui permet de sélectionner un territoire et d’obtenir des données variées pour comprendre : • L’organisation géographique du territoire et le profil de la population : identifier les besoins spécifiques à la population et localiser les lieux qui génèrent des déplacements • L’offre de transport à disposition : mettre en regard les solutions actuelles de mobilité avec les besoins du territoire • Les pratiques de déplacement : quantifier les modes, les motifs, les flux afin d’identifier un potentiel de report modal Par son accès libre à tout public, l’outil constitue ainsi un support de travail commun pour les acteurs qui oeuvrent pour une mobilité durable des territoires : collectivités, bureaux d’études, opérateurs de solutions de mobilité, associations et initiatives citoyennes. Il permet alors de : • Présenter rapidement et sensibiliser • Identifier des actions pertinentes • Alimenter le diagnostic d’un plan de mobilité</description>
+      <guid isPermaLink="false">857dbe8b6792f4560744d727b1c8074aec00bc12880e34b5b4818c9c23c07712</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -196,6 +196,13 @@
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9428-pas-de-vacances-pour-la-vacance-infographie.html</link>
       <description>Visualiser la vacance des logements pour mieux valoriser la ressource. La vacance des logements est un levier sous-exploité pour répondre aux besoins de logements.</description>
       <guid isPermaLink="false">6700015b6c5bf7c251b1eda6f049e8e8a94cc46a0d62931819b687b36f68adc0</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>TerriSTORY : infographie</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9431-terristory-infographie.html</link>
+      <description>Aider le pilotage de la transition écologique des territoires via une plateforme partenariale. Remédier à la dispersion des données du territoire et des outils de pilotage nécessaires aux collectivités pour organiser leur transition écologique</description>
+      <guid isPermaLink="false">ed1c41bfe121d3da6ef9b4325fe2327fb2ad5c5926fb39c24c71c0c50a2331b4</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -210,13 +217,6 @@
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9438-la-rue-commune-infographie.html</link>
       <description>Ce commun lauréat à l'appel à communs est une méthodologie présentée dans un guide qui met l’accent sur la rue en tant que premier bien commun urbain, et sa transformation pour amorcer la transition écologique et sociale des villes. La méthodologie permet de réaliser un diagnostic de la rue pour la faire évoluer vers l’organisation et la mise en oeuvre d’une rue commune selon 5 principes : le lien social ; la priorité au piéton pour favoriser la santé et le bien-être ; la biodiversité ; le rafraîchissement urbain ; et la valorisation des eaux pluviales. Le diagnostic de la rue intègre des analyses incluant l’insertion de la rue dans son contexte local (mobilités, climat, continuités écologiques), ainsi qu’un diagnostic matériel (sols, façades, toitures) et immatériel (usages). Le guide propose les critères pour qu’une rue soit éligible à cette transformation (constituer un axe secondaire, présence des transports en commun, possibilité de décision d’engagement de la collectivité) et présente 4 études de cas permettant d’illustrer une diversité de situations de projet, dans une perspective de mise en oeuvre.</description>
       <guid isPermaLink="false">987584263cd3f5c5e8ac8136080a28bd9983c5d03ed0ab7f1171a57eb5008698</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Diagnostic Mobilité : infographie</title>
-      <link>https://librairie.ademe.fr/mobilite-et-transports/9441-diagnostic-mobilite-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est une application web qui permet de sélectionner un territoire et d’obtenir des données variées pour comprendre : • L’organisation géographique du territoire et le profil de la population : identifier les besoins spécifiques à la population et localiser les lieux qui génèrent des déplacements • L’offre de transport à disposition : mettre en regard les solutions actuelles de mobilité avec les besoins du territoire • Les pratiques de déplacement : quantifier les modes, les motifs, les flux afin d’identifier un potentiel de report modal Par son accès libre à tout public, l’outil constitue ainsi un support de travail commun pour les acteurs qui oeuvrent pour une mobilité durable des territoires : collectivités, bureaux d’études, opérateurs de solutions de mobilité, associations et initiatives citoyennes. Il permet alors de : • Présenter rapidement et sensibiliser • Identifier des actions pertinentes • Alimenter le diagnostic d’un plan de mobilité</description>
-      <guid isPermaLink="false">857dbe8b6792f4560744d727b1c8074aec00bc12880e34b5b4818c9c23c07712</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
