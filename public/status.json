@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-22T19:43:28.436603+00:00",
+  "generated_at": "2026-11-23T12:49:16.037228+00:00",
   "sites_total": 17,
-  "sites_ok": 16,
-  "sites_error": 1,
+  "sites_ok": 17,
+  "sites_error": 0,
   "sites_warning": 1,
-  "new_items": 2,
-  "merged_items": 539,
+  "new_items": 24,
+  "merged_items": 556,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -151,7 +151,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 32,
+      "items": 34,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -207,11 +207,10 @@
       "url": "https://www.cnsa.fr/actualites",
       "feed_categories": [],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
-      "items": 5,
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 20,
       "feed": "cnsa.xml",
-      "error": "HTTPSConnectionPool(host='www.cnsa.fr', port=443): Max retries exceeded with url: /actualites (Caused by SSLError(SSLCertVerificationError(1, '[SSL: CERTIFICATE_VERIFY_FAILED] certificate verify failed: unable to get local issuer certificate (_ssl.c:1011)')))",
       "source_feed": "https://www.cnsa.fr/flux-rss.xml/article",
       "warnings": []
     },
@@ -242,7 +241,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 962 jours (seuil : 60)"
+        "rien de neuf depuis 963 jours (seuil : 60)"
       ]
     },
     {
