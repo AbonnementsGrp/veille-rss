@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Wed, 18 Nov 2026 10:36:22 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 13:29:32 +0000</lastBuildDate>
+    <item>
+      <title>Comprendre le cadre juridique du Développement Durable en quelques minutes</title>
+      <link>https://www.anap.fr/s/article/comprendre-le-cadre-juridique-rse-en-quelques-minutes</link>
+      <description>Ces fiches rappellent le cadre juridique des principales réglementations Développement durable, actuelles et à venir, autour de 8 enjeux pour le secteur public et le secteur privé : les déchets, la restauration, l'énergie, la qualité de l’air intérieur, la mobilité, l'eau, la stratégie RSE, et les achats durables.</description>
+      <guid isPermaLink="false">095869384337e45ac36a0c5cb2709f1c6e385e3e260d8f0c0bc864e16e59a103</guid>
+      <pubDate>Mon, 23 Nov 2026 13:29:32 +0000</pubDate>
+    </item>
+    <item>
+      <title>Systèmes d’information des ressources humaines : panorama des solutions du marché</title>
+      <link>https://www.anap.fr/s/article/sirh-panorama-solutions</link>
+      <description>Ayez une vision d’ensemble des solutions SIRH disponibles sur le marché avec la nouvelle édition de notre panorama. 20 solutions, 50 fonctionnalités, 10 domaines : de quoi repérer rapidement les offres adaptées à vos besoins et préparer votre projet SIRH.</description>
+      <guid isPermaLink="false">a3d1a8f434beaffc2ef143d3df7734cefd5839fbdf920b8de5ab01a09e30ddad</guid>
+      <pubDate>Mon, 23 Nov 2026 09:11:29 +0000</pubDate>
+    </item>
     <item>
       <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
       <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
@@ -407,20 +421,6 @@
       <description>Une opportunité unique d’améliorer l’organisation et la performance de vos blocs. Bénéficiez d’un accompagnement par des experts et repartez avec des leviers opérationnels pour optimiser votre activité et fidéliser vos équipes.</description>
       <guid isPermaLink="false">21dcf84394b7c950cbd009572ed422d1b84c010dc539aa0670e1604b60a7f451</guid>
       <pubDate>Tue, 13 Oct 2026 12:59:15 +0000</pubDate>
-    </item>
-    <item>
-      <title>Appui terrain - Renforcer l’attractivité et la fidélisation dans votre établissement</title>
-      <link>https://www.anap.fr/s/article/appui-terrain-renforcer-l-attractivite-et-la-fidelisation-dans-votre--etablissement</link>
-      <description>Établissements sanitaires et médico-sociaux : l’Anap vous accompagne pour renforcer l’attractivité et fidéliser vos équipes. Candidatez !</description>
-      <guid isPermaLink="false">8b9b44786ae0b5331a03c0f4da68d78beed539677e660bdcb361ba598806ee52</guid>
-      <pubDate>Tue, 13 Oct 2026 12:36:19 +0000</pubDate>
-    </item>
-    <item>
-      <title>Les Rendez-Vous juridiques de la Transition écologique</title>
-      <link>https://www.anap.fr/s/article/les-rendez-vous-juridiques-de-la-transition-ecologique</link>
-      <description>Actualités règlementaires, bonnes pratiques, conseils d’experts : face aux enjeux de la transition écologique, l’Anap vous propose une série de webinaires dédiés.</description>
-      <guid isPermaLink="false">b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245</guid>
-      <pubDate>Tue, 13 Oct 2026 11:35:54 +0000</pubDate>
     </item>
   </channel>
 </rss>

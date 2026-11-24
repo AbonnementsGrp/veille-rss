@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 23 Nov 2026 12:29:21 +0000</lastBuildDate>
+    <lastBuildDate>Mon, 23 Nov 2026 20:18:20 +0000</lastBuildDate>
+    <item>
+      <title>Outre-mer: entre déclin et essor, les maires face au grand écart démographique</title>
+      <link>https://outremers360.com/bassin-atlantique-appli/outre-mer-entre-declin-et-essor-les-maires-face-au-grand-ecart-demographique</link>
+      <description>Exode des jeunes aux Antilles mais forte croissance à Mayotte et en Guyane: réunis lundi à Issy-les-Moulineaux (Hauts-de-Seine) lors de la Rencontre des élus d'Outre-mer, en ouverture du congrès des maires de France, les élus ultramarins ont alerté sur des trajectoires...</description>
+      <guid isPermaLink="false">4ac72b2d2ddb0e728813cae0b4f3e2931a3486f242a19d14a4b47f1aa596f022</guid>
+      <pubDate>Mon, 23 Nov 2026 20:18:20 +0000</pubDate>
+    </item>
     <item>
       <title>Outre-mer : La Ministre Naïma Moutchou promet aux maires de «maintenir l'essentiel des moyens» en 2027</title>
       <link>https://outremers360.com/bassin-atlantique-appli/outre-mer-la-ministre-des-outre-mer-naima-moutchou-promet-aux-maires-de-maintenir-lessentiel-des-moyens-en-2027</link>
@@ -414,13 +421,6 @@
       <description>Le gouvernement haïtien a annoncé mardi avoir entériné un accord de coopération avec le Salvador, plusieurs semaines après le déploiement de plus de 2000 soldats salvadoriens pour lutter contre les gangs.Le gouvernement d'Haïti a annoncé mardi avoir officialisé un...</description>
       <guid isPermaLink="false">cfaf4b1f598a48c3bb6326076394f8a466fb243494c302ef5212092524adf089</guid>
       <pubDate>Wed, 18 Nov 2026 08:10:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>La Guyane accueille la 14ème Conférence Interco'Outre-mer, dédiée à « la puissance du collectif au service des territoires »</title>
-      <link>https://outremers360.com/bassin-atlantique-appli/la-guyane-accueille-la-14eme-conference-intercooutre-mer-dediee-a-la-puissance-du-collectif-au-service-des-territoires</link>
-      <description>Du 7 au 11 décembre 2026, les intercommunalités de Guyane accueillent la 14e Conférence d’Interco’ Outre-mer, la première du mandat, sur le thème « Intercommunalités en Outre-mer : la puissance du collectif au service des territoires ». Cette conférence...</description>
-      <guid isPermaLink="false">9284a31d7ee318f4f9030438c415e1efa950dafc070cd0149938429c9b080974</guid>
-      <pubDate>Wed, 18 Nov 2026 07:45:06 +0000</pubDate>
     </item>
   </channel>
 </rss>
