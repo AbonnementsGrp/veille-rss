@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 23 Nov 2026 14:30:42 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 14:09:11 +0000</lastBuildDate>
+    <item>
+      <title>Salon des maires 2026 – "La situation de la jeunesse se dégrade à tous les niveaux", alerte l’Union nationale des missions locales</title>
+      <link>https://www.banquedesterritoires.fr/la-situation-de-la-jeunesse-se-degrade-tous-les-niveaux-alerte-lunion-nationale-des-missions</link>
+      <description>En marge du Congrès des maires et présidents d’intercommunalités de France, le président de l’Union nationale des missions locales, Stéphane Valli, a rappelé la hausse alarmante du chômage des jeunes et les difficultés aggravées qu’ils subissent sur fond d’inflation et d’une conjoncture économique dégradée.</description>
+      <guid isPermaLink="false">afc1e6822b707e42b63f6250a9a47555e1b102d5108e2cb0480820c007af39c8</guid>
+      <pubDate>Tue, 24 Nov 2026 14:09:11 +0000</pubDate>
+    </item>
     <item>
       <title>Politique familiale : la Cour des comptes plaide pour un congé parental plus long et mieux rémunéré pour alléger la pression sur les modes de garde</title>
       <link>https://www.banquedesterritoires.fr/politique-familiale-la-cour-des-comptes-plaide-pour-un-conge-parental-plus-long-et-mieux-remunere</link>
@@ -288,13 +295,6 @@
       <description>On en sait désormais plus à propos du questionnaire sur les violences sexistes et sexuelles (VSS) annoncé fin août par Édouard Geffray, ministre de l'Éducation nationale, et auquel quelque 10 millions d’élèves devront répondre à partir du mois de novembre.Un décret du 14 octobre 2026…</description>
       <guid isPermaLink="false">71a17a3d178590853b607b33107cad71b9a29d7c7978f83bf974ca643eb7f368</guid>
       <pubDate>Thu, 15 Oct 2026 11:01:54 +0000</pubDate>
-    </item>
-    <item>
-      <title>Parcoursup : révélateur d'inégalités territoriales de l'orientation</title>
-      <link>https://www.banquedesterritoires.fr/parcoursup-revelateur-dinegalites-territoriales-de-lorientation</link>
-      <description>Alors que la suppression de Parcoursup figure parmi les revendications du mouvement lycéen qui a débuté le 18 septembre, les ministres promettent des "améliorations" d'ici fin octobre 2026. Un rapport parlementaire de février, qui juge la plateforme "techniquement réussie mais politiquement ratée", met en cause l'inégale qualité de l'accompagnement à l'orientation, compétence que revendiquent les régions.</description>
-      <guid isPermaLink="false">ee2457c2209c2e4d0bb55519b5a6f897adc9019f609b5f68472bb4b4a1726530</guid>
-      <pubDate>Wed, 14 Oct 2026 12:18:35 +0000</pubDate>
     </item>
   </channel>
 </rss>

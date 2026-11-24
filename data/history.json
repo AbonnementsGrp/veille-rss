@@ -1,4 +1,268 @@
 {
+  "4fdc4045248ac3bd28527ca11919de3336835ee05115bc017231c913bd589db4": {
+    "source": "ADN Tourisme",
+    "title": "Présidentielle 2027 : le tourisme veut peser dans le débat",
+    "link": "https://www.adn-tourisme.fr/presidentielle-2027-le-tourisme-veut-peser-dans-le-debat/",
+    "description": "Sept candidats à l’élection présidentielle attendus le 1er décembre prochain au Grand Oral Tourisme pour présenter leur vision et leurs engagements pour le prochain quinquennat.",
+    "published": "2026-11-24T17:08:49+00:00",
+    "first_seen": "2026-11-24T23:55:32.298796+00:00",
+    "uid": "4fdc4045248ac3bd28527ca11919de3336835ee05115bc017231c913bd589db4",
+    "description_checked": true
+  },
+  "17c8842b944ad7d4c6ce3ab841ee14c28f6d1fcfab13bcffd1ec81a484bb31e4": {
+    "source": "IGAS",
+    "title": "Évaluation du régime des micro-entrepreneurs",
+    "link": "https://igas.gouv.fr/evaluation-du-regime-des-micro-entrepreneurs-0",
+    "description": "",
+    "published": "2026-10-14T15:01:09+00:00",
+    "first_seen": "2026-11-24T23:55:27.006476+00:00",
+    "uid": "17c8842b944ad7d4c6ce3ab841ee14c28f6d1fcfab13bcffd1ec81a484bb31e4",
+    "description_checked": true
+  },
+  "7c514d0ef9649da2eacafd9498e781487b0ce587cc7dd73754b50eeb845e2b6a": {
+    "source": "IGAS",
+    "title": "Mieux accompagner les personnes précaires vieillissantes : état des lieux et propositions",
+    "link": "https://igas.gouv.fr/mieux-accompagner-les-personnes-precaires-vieillissantes-etat-des-lieux-et-propositions-0",
+    "description": "L’IGAS publie un rapport consacré aux personnes précaires vieillissantes, dont le profil particulier et le nombre croissant constituent un défi pour les secteurs de l’hébergement et du grand âge. Sur tous les territoires visités, la mission a constaté l'engagement exceptionnel des associations et de leurs bénévoles au service de ces populations particulièrement vulnérables.",
+    "published": "2026-10-14T14:56:38+00:00",
+    "first_seen": "2026-11-24T23:55:27.006476+00:00",
+    "uid": "7c514d0ef9649da2eacafd9498e781487b0ce587cc7dd73754b50eeb845e2b6a",
+    "description_checked": true
+  },
+  "5b3cbb6538a6943da381eb718a80d6a30019ee80f1533f780c6e3a205d47ab9d": {
+    "source": "IGAS",
+    "title": "Les engagements volontaires des entreprises : un levier d’action pour les politiques sociales",
+    "link": "https://igas.gouv.fr/les-engagements-volontaires-des-entreprises-un-levier-daction-pour-les-politiques-sociales-0",
+    "description": "",
+    "published": "2026-10-14T14:54:41+00:00",
+    "first_seen": "2026-11-24T23:55:27.006476+00:00",
+    "uid": "5b3cbb6538a6943da381eb718a80d6a30019ee80f1533f780c6e3a205d47ab9d",
+    "description_checked": true
+  },
+  "1aa411bfb57ec12249c240a03607609742ed49de2e7e3cde3f22e91e1766ca99": {
+    "source": "IGAS",
+    "title": "Addictions : améliorer les parcours de prise en charge",
+    "link": "https://igas.gouv.fr/addictions-ameliorer-les-parcours-de-prise-en-charge",
+    "description": "Pour la première fois depuis la réforme de 2007-2008, l’Inspection générale des affaires sociales dresse un état des lieux du dispositif français de prise en charge des addictions. Toutes addictions et tous publics confondus, avec une attention particulière portée aux jeunes, aux femmes et aux publics en situation de précarité, la mission fait le constat d’un système aux fondamentaux solides mais sous forte tension, malgré l’engagement des professionnels. Elle formule des recommandations pour en",
+    "published": "2026-09-02T07:49:32+00:00",
+    "first_seen": "2026-11-24T23:55:27.006476+00:00",
+    "uid": "1aa411bfb57ec12249c240a03607609742ed49de2e7e3cde3f22e91e1766ca99",
+    "description_checked": true
+  },
+  "3f5a3e97f1e7bd65dffbdf180652fb03f641ae70bf0159b55cd4fbfa6f39c58e": {
+    "source": "CNSA - Actualités",
+    "title": "Intelligence artificielle dans la branche Autonomie : un an après son lancement, 80 % de la feuille de route déjà déployée",
+    "link": "https://www.cnsa.fr/actualites/intelligence-artificielle-dans-la-branche-autonomie-un-apres-son-lancement-80-de-la",
+    "description": "Recensement de plus de 100 cas d’usage, expérimentations en MDPH, outillage des médecins évaluateurs en EHPAD, acculturation des équipes… Un an après le lancement de sa feuille de route IA 2025-2026, la CNSA dresse un premier bilan des actions engagées au sein de la branche Autonomie.",
+    "published": "2026-10-15T08:41:53+00:00",
+    "first_seen": "2026-11-24T23:55:26.393898+00:00",
+    "uid": "3f5a3e97f1e7bd65dffbdf180652fb03f641ae70bf0159b55cd4fbfa6f39c58e"
+  },
+  "749377298411119dc49e20783e26cf5b73ab93de04e71ee0e99190a3c0a2617d": {
+    "source": "CNSA - Actualités",
+    "title": "La CNSA sélectionne 5 nouveaux doctorants pour son programme de recherche « Autonomie, grand âge et handicap »",
+    "link": "https://www.cnsa.fr/actualites/la-cnsa-selectionne-5-nouveaux-doctorants-pour-son-programme-de-recherche-autonomie",
+    "description": "Leurs recherches portent sur les violences vécues par les femmes sourdes, les conséquences de la maladie de Huntington sur les familles, le travail des femmes migrantes auprès des personnes âgées, les transformations des établissements et services d’aide par le travail (ESAT), ainsi que les parcours professionnels des aides-soignantes.",
+    "published": "2026-09-07T09:02:04+00:00",
+    "first_seen": "2026-11-24T23:55:26.393898+00:00",
+    "uid": "749377298411119dc49e20783e26cf5b73ab93de04e71ee0e99190a3c0a2617d"
+  },
+  "3d748f259b0cf9af18e853a983625962a6490242fca5bc5a45bdbc2a62629ff8": {
+    "source": "ANAP - Actualités",
+    "title": "Appui terrain – Moins de carbone, plus d’économies",
+    "link": "https://www.anap.fr/s/article/appui-terrain-moins-de-carbone-plus-d-economies",
+    "description": "Et si la transition écologique devenait un levier d’économies pour votre établissement ? L’Anap vous accompagne pendant environ deux mois pour bâtir une feuille de route chiffrée et priorisée, qui conjugue gains financiers et bénéfices environnementaux.",
+    "published": "2026-11-12T13:16:43+00:00",
+    "first_seen": "2026-11-24T23:55:11.258149+00:00",
+    "uid": "3d748f259b0cf9af18e853a983625962a6490242fca5bc5a45bdbc2a62629ff8",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "4b7b45ed008cf445ec90ab6d4d8a6afb7f712472567ec6ff0f8df242c15927b3": {
+    "source": "ANAP - Actualités",
+    "title": "Votre Cockpit DATA Blocs",
+    "link": "https://www.anap.fr/s/article/votre-cockpit-data-blocs-le-nouvel-outil-de-l-anap",
+    "description": "Le nouvel outil de l’Anap qui calcule automatiquement les indicateurs clés de votre bloc opératoire.",
+    "published": "2026-10-21T10:13:31+00:00",
+    "first_seen": "2026-11-24T23:55:11.258149+00:00",
+    "uid": "4b7b45ed008cf445ec90ab6d4d8a6afb7f712472567ec6ff0f8df242c15927b3",
+    "description_checked": true,
+    "title_checked": true,
+    "title_enriched": true
+  },
+  "433844efa299b4e9fcde5927434bb52515b1b471675310f71fe51c8142eef302": {
+    "source": "SNRC",
+    "title": "Découvrez le dossier de presse du sondage exclusif IPSOS « Les Français et les entreprises de la restauration collective »",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/decouvrez-le-dossier-de-presse-du-sondage-exclusif-ipsos-les-francais-et-les-entreprises-de-la-restauration-collective/",
+    "description": "",
+    "published": "2026-02-16T09:02:00+00:00",
+    "first_seen": "2026-11-24T23:55:09.482721+00:00",
+    "uid": "433844efa299b4e9fcde5927434bb52515b1b471675310f71fe51c8142eef302",
+    "description_checked": true
+  },
+  "7ceb501bcb7f6cb6617dee3de5738c8209e47fd3da82913b27926f62f9788c8d": {
+    "source": "SNRC",
+    "title": "La cantine nourrit l’avenir – Investissons ensemble au service d’un modèle d’intérêt général",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/la-cantine-nourrit-lavenir-investissons-ensemble-au-service-dune-modele-dinteret-general/",
+    "description": "À l’approche du Congrès des Maires, les entreprises de la restauration collective prennent la parole pour rappeler les impacts positifs de la cantine et réaffirmer leur rôle de partenaires de confiance aux côtés des maires, pour nos enfants.",
+    "published": "2025-11-16T05:00:44+00:00",
+    "first_seen": "2026-11-24T23:55:09.482721+00:00",
+    "uid": "7ceb501bcb7f6cb6617dee3de5738c8209e47fd3da82913b27926f62f9788c8d"
+  },
+  "9c514efb014dd9c52d754d69baa924bb5982b879c1ca1891189ca47679829271": {
+    "source": "SNRC",
+    "title": "« Mieux manger ensemble pour mieux vivre ensemble ». Les entreprises de la restauration collective entrent en campagne!",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/mieux-manger-ensemble-pour-mieux-vivre-ensemble-les-entreprises-de-la-restauration-collective-entrent-en-campagne/",
+    "description": "À l’occasion de la Journée internationale de la Terre nourricière promue par l’ONU, le Syndicat National de la Restauration Collective (SNRC) lance une campagne de communication inédite, engagée et pédagogique pour rappeler l’utilité publique du modèle de la restauration collective concédée. Une initiative qui porte une conviction forte : investir collectivement dans l’alimentation …",
+    "published": "2025-04-21T06:00:09+00:00",
+    "first_seen": "2026-11-24T23:55:09.482721+00:00",
+    "uid": "9c514efb014dd9c52d754d69baa924bb5982b879c1ca1891189ca47679829271"
+  },
+  "884c4761b1c3a81fc4d56ece1194e66c0b0cde8879c5846b9b2306346f4b8816": {
+    "source": "SNRC",
+    "title": "[Communiqué de presse] – Que feraient des millions de Français sans cantines scolaires ?",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/communique-de-presse-que-feraient-des-millions-de-francais-sans-cantines-scolaires/",
+    "description": "Le Syndicat national de la restauration collective (SNRC) appelle les pouvoirs publics à agir de toute urgence pour préserver un modèle en danger bien qu’au service des Français.",
+    "published": "2024-11-20T15:15:28+00:00",
+    "first_seen": "2026-11-24T23:55:09.482721+00:00",
+    "uid": "884c4761b1c3a81fc4d56ece1194e66c0b0cde8879c5846b9b2306346f4b8816"
+  },
+  "200360c5ea5f8a9c95f2386635b8ad7a75a48e9e7cacdbc06776167060998666": {
+    "source": "SNRC",
+    "title": "[Infographie] – Rentrée des classes: découvrez par le menu le fonctionnement des cantines scolaires",
+    "link": "https://www.snrc.fr/le-snrc/actualites-snrc/infographie-rentree-des-classes-decouvrez-par-le-menu-le-fonctionnement-des-cantines-scolaires/",
+    "description": "En France, des millions d’écoliers, collégiens et lycéens ont fait leur rentrée des classes la semaine dernière. L’occasion pour les entreprises de restauration collective de rappeler l’importance et le mode d’emploi de la restauration scolaire au service des jeunes Français.",
+    "published": "2024-09-11T06:37:07+00:00",
+    "first_seen": "2026-11-24T23:55:09.482721+00:00",
+    "uid": "200360c5ea5f8a9c95f2386635b8ad7a75a48e9e7cacdbc06776167060998666"
+  },
+  "db803dd57ea591c270c97999a8cc5905c681eec531135391c3d5c098a5fed855": {
+    "source": "C2L Solutions - Restauration collective",
+    "title": "Journée mondiale de l’alimentation 2026",
+    "link": "https://c2lsolutions.fr/journee-mondiale-alimentation-2026/",
+    "description": "Journée mondiale de l’alimentation 2026 : « Innover aujourd’hui pour nourrir demain » Le 16 octobre 2026, la Journée mondiale de l’alimentation 2026 mettra à l’honneur le thème « Innover aujourd’hui pour nourrir demain ». Portée par l’Organisation des Nations unies pour l’alimentation et l’agriculture (FAO), cette mobilisation internationale invite à repenser la production, l’approvisionnement et l’accès à une alimentation saine. Pour les collectivités et les acteurs de la restauration collective, elle offre aussi l’occasion de transformer cette ambition en actions concrètes : achats mieux adaptés, lutte contre le gaspillage et coopération avec les filières alimentaires. Journée mondiale de l’alimentation 2026 : quel est le thème choisi par la FAO ? La FAO a retenu « Innover aujourd’hui pour nourrir demain » pour l’édition 2026. Le message associe la recherche, la technologie, les savoir-faire traditionnels et les initiatives locales. L’objectif est d’améliorer l’accès de tous à des aliments suffisants, sûrs, diversifiés et nutritifs, sans compromettre les ressources naturelles. L’innovation ne se résume donc pas à l’intelligence artificielle ou à l’agriculture de précision. Elle peut aussi concerner le stockage, le partage des connaissances, la réduction des pertes, l’organisation d’une coopérative ou la logistique des denrées. La question n’est pas seulement de produire davantage. Elle consiste également à mieux utiliser les ressources, à rendre l’alimentation accessible et à soutenir des systèmes agroalimentaires capables de faire face aux crises. Pour découvrir le message de cette édition et les événements associés, consultez la page officielle de la Journée mondiale de l’alimentation de la FAO. Pourquoi cette journée reste-t-elle nécessaire en 2026 ? Les progrès ob",
+    "published": "2026-10-14T14:13:03+00:00",
+    "first_seen": "2026-11-24T23:55:07.767571+00:00",
+    "uid": "db803dd57ea591c270c97999a8cc5905c681eec531135391c3d5c098a5fed855"
+  },
+  "121616a138bf2c40aa06dad6613361d4b1c7de8fef6c34fa6b788cc6a4e48cf4": {
+    "source": "Les Pros de la Petite Enfance",
+    "title": "Présidentielle 2027 : les dix propositions de la FNEJE pour que l’enfant soit une priorité nationale",
+    "link": "https://www.lesprosdelapetiteenfance.fr/presidentielle-2027-les-dix-propositions-de-la-fneje-pour-que-lenfant-soit-une-priorite-nationale/",
+    "description": "eje",
+    "published": "2026-11-24T13:55:08+00:00",
+    "first_seen": "2026-11-24T23:55:05.775370+00:00",
+    "uid": "121616a138bf2c40aa06dad6613361d4b1c7de8fef6c34fa6b788cc6a4e48cf4"
+  },
+  "afc1e6822b707e42b63f6250a9a47555e1b102d5108e2cb0480820c007af39c8": {
+    "source": "Localtis - Jeunesse, éducation et formation",
+    "title": "Salon des maires 2026 – \"La situation de la jeunesse se dégrade à tous les niveaux\", alerte l’Union nationale des missions locales",
+    "link": "https://www.banquedesterritoires.fr/la-situation-de-la-jeunesse-se-degrade-tous-les-niveaux-alerte-lunion-nationale-des-missions",
+    "description": "En marge du Congrès des maires et présidents d’intercommunalités de France, le président de l’Union nationale des missions locales, Stéphane Valli, a rappelé la hausse alarmante du chômage des jeunes et les difficultés aggravées qu’ils subissent sur fond d’inflation et d’une conjoncture économique dégradée.",
+    "published": "2026-11-24T14:09:11+00:00",
+    "first_seen": "2026-11-24T23:55:03.437587+00:00",
+    "uid": "afc1e6822b707e42b63f6250a9a47555e1b102d5108e2cb0480820c007af39c8"
+  },
+  "1df67c916836611366df49997feb11d130cb1a2caf517c7251d44580911fdffa": {
+    "source": "Observatoire de la culture",
+    "title": "Archives et mémoires queers françaises : les collectifs d’archives issus du réseau Big Tata",
+    "link": "https://www.observatoire-culture.net/archives-memoires-queers-francaises-collectifs-archives-big-tata/",
+    "description": "Comment transmettre les mémoires et cultures LGBTQIA+ en l’absence d’archives institutionnelles ? Depuis 2021, le réseau Big Tata réunit dix-huit associations qui tentent de répondre à cette question en développant une « archive vivante » : une mémoire queer collectée, indexée et réactivée par et pour les communautés concernées sur les territoires.",
+    "published": "2026-10-15T07:58:49+00:00",
+    "first_seen": "2026-11-24T23:55:01.623164+00:00",
+    "uid": "1df67c916836611366df49997feb11d130cb1a2caf517c7251d44580911fdffa"
+  },
+  "eb010dee2512009c99803e953f3e1f8341f175760545f246b61222af645d5b4e": {
+    "source": "Office français de la biodiversité",
+    "title": "Les rivières à l’épreuve du changement climatique - Agir pour l’adaptation et la résilience",
+    "link": "https://ofb.gouv.fr/doc/les-rivieres-a-epreuve-du-changement-climatique-agir-pour-adaptation-et-la-resilience",
+    "description": "Les rivières à l’épreuve du changement climatique - Agir pour l’adaptation et la résilience Aller plus loin Hydromorphologie et continuité écologique, suivre et restaurer les fonctions des écosystèmes aquatiques Agriculture & activités forestières Connaissances, données & diagnostics Près de 60 000 barrages, écluses, seuils ou anciens moulins barrent les cours d’eau en France. La restauration de la continuité écologique des cours d’eau est un défi majeur et implique une action coordonnée de l’ensemble des acteurs de l’eau. Mise à jour : 06 juillet 2026 France entière Accompagner les changements et les politiques publiques Connaissances, données & diagnostics Gouvernance & planification Pour faire face aux crises environnementales et sociales, l’Office français de la biodiversité (OFB) et ses partenaires produisent des connaissances scientifiques et techniques, appuyant l’élaboration et la mise en œuvre des politiques publiques et les acteurs, du local au national. Mise à jour : 14 décembre 2018 France entière Les centres de ressources L’Office français de la biodiversité pilote et anime plusieurs centres de ressources (CDR) thématiques. Ces dispositifs collaboratifs visent à outiller et accompagner les acteurs de terrain dans la préservation et la restauration de la biodiversité, en facilitant l’accès aux connaissances, aux outils et aux retours d’expériences. Mise à jour : 31 octobre 2018 France entière Contenu précédent Contenu suivant D’ici 2050, la réduction annoncée des précipitations annuelles s’accompagnera d’une hausse des besoins en eau pour les usages humains. Les prochaines décennies pourraient mettre les rivières françaises à l’épreuve d’un réchauffement des eaux et d’un stress hydrique sans précédent dans l’histoire récente. Cette synthèse porte sur la jour",
+    "published": "2026-11-24T10:00:50+00:00",
+    "first_seen": "2026-11-24T23:54:58.425458+00:00",
+    "uid": "eb010dee2512009c99803e953f3e1f8341f175760545f246b61222af645d5b4e"
+  },
+  "24cc580a1176e05b4550f7acc6a99966bda264a3a9893f3446aeeecd9f649cba": {
+    "source": "Office français de la biodiversité",
+    "title": "Valoriser l’engagement des acteurs économiques dans les aires protégées",
+    "link": "https://ofb.gouv.fr/doc/valoriser-engagement-des-acteurs-economiques-dans-les-aires-protegees",
+    "description": "Valoriser l’engagement des acteurs économiques dans les aires protégées Aller plus loin Pour bénéficier d'un label ou d'une reconnaissance Au sommaire Deux grands types de dispositifs Les marques et labels Les marques Les labels Les chartes d’engagement Les démarches portées par les aires protégées Deux marques collectives simples : Esprit parc national et Valeurs parc naturel régional Les chartes d’engagement La Charte de la plongée, de l’apnée et de la randonnée subaquatique du Parc national des Calanques Les chartes des parcs naturels marins Les ambassadeurs dans les réserves naturelles de France Les séjours Nature et Sauvage des réserves naturelles de France La Charte européenne du tourisme durable Coexistence de différents dispositifs au service de la protection du patrimoine naturel Dans le secteur agricole : le label Agriculture biologique et la marque Esprit parc national Dans le secteur touristique : le label Qualinat et la marque Valeurs Parc naturel régional Choisir un dispositif adapté Approfondir : le rapport détaillé Engagement des acteurs économiques dans les aires protégées - Marques, labels et autres dispositifs de valorisation Rapport d'étude & expertise Pour valoriser les acteurs économiques au sein des aires protégées, divers moyens existent : labels, marques, chartes de bonnes pratiques et démarches de progrès. Mais quelles sont leurs caractéristiques ? Vers lequel se tourner ? Ce document technique est conçu pour guider les professionnels dans la découverte et le choix d'un dispositif adapté. Date d'édition : Octobre 2026 Contenu S&T Activé Découvrir aussi Accompagner les changements et les politiques publiques Activités humaines, des connaissances à l'évolution des pratiques Les espèces Notice Date d’édition : novembre 2026 Auteur(s) : Lydia Beune",
+    "published": "2026-11-24T08:00:35+00:00",
+    "first_seen": "2026-11-24T23:54:58.425458+00:00",
+    "uid": "24cc580a1176e05b4550f7acc6a99966bda264a3a9893f3446aeeecd9f649cba"
+  },
+  "3a6759d300b0a057226bf63c276f7c6c1a7358b48f9f20d750bb3ea0208ca922": {
+    "source": "ADEME_Energie",
+    "title": "Récupération de chaleur fatale chez un industriel de l'agroalimentaire en Maine-et-Loire",
+    "link": "https://librairie.ademe.fr/energies/9696-recuperation-de-chaleur-fatale-chez-un-industriel-de-l-agroalimentaire-en-maine-et-loire.html",
+    "description": "Bahier est une entreprise de l’agroalimentaire qui fabrique des produits de charcuterie (boudins/rillettes/produits de tête/salaisons diverses). L’entreprise a souhaité centraliser sa production de froid pour pouvoir en récupérer la chaleur fatale, initialement dispersée sur l’ensemble du site.",
+    "published": "2026-10-14T22:00:00+00:00",
+    "first_seen": "2026-11-24T23:54:55.528549+00:00",
+    "uid": "3a6759d300b0a057226bf63c276f7c6c1a7358b48f9f20d750bb3ea0208ca922"
+  },
+  "fe1d952e3349a675b2da7567ce86f55cc05039bd8a362ec464eb5247fa946ece": {
+    "source": "ADEME_Energie",
+    "title": "Analyse du potentiel d'électrification des procédés thermiques industriels",
+    "link": "https://librairie.ademe.fr/industrie-et-production-durable/9697-analyse-du-potentiel-d-electrification-des-procedes-thermiques-industriels.html",
+    "description": "L’électrification des procédés industriels représente un levier essentiel pour atteindre les objectifs de décarbonation fixés par la Stratégie française énergie‑climat. Alors qu’aujourd’hui près des deux tiers de l’énergie utilisée par l’industrie reposent encore sur des combustibles fossiles, la plupart des trajectoires vers la neutralité carbone envisagent une domination de l’électricité dans le mix énergétique industriel d’ici 2050. Cette étude propose une analyse prospective des potentiels techniques d’électrification. Elle identifie, par secteur et par technologie, les combustibles pouvant être remplacés ainsi que les nouveaux besoins électriques associés. En mettant en lumière ces réalités à l’échelle des procédés et des filières, la publication a pour ambition d’aider les industriels à intégrer pleinement l’électrification comme un outil majeur de décarbonation de leurs activités.",
+    "published": "2026-10-14T22:00:00+00:00",
+    "first_seen": "2026-11-24T23:54:55.528549+00:00",
+    "uid": "fe1d952e3349a675b2da7567ce86f55cc05039bd8a362ec464eb5247fa946ece"
+  },
+  "f9cf41f43e4ab50205e25a268997c7e75436735ec06cb24a5abd32b0e2866b0d": {
+    "source": "ADEME_Changement climatique",
+    "title": "QUAD : Quantification d'émissions diffuses de méthane par capteurs embarqués sur drone",
+    "link": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9694-quad-quantification-d-emissions-diffuses-de-methane-par-capteurs-embarques-sur-drone.html",
+    "description": "Les caméras infrarouges à détection de gaz (OGI), sont utilisées pour détecter les fuites localisées de méthane mais ne sont pas adaptées à la détection des émissions diffuses provenant de milieux ouverts, comme les fosses de post-stockage de digestats sur les sites de méthanisation. Le projet QUAD (QUAntification des émissions Diffuses de méthane) a permis de développer et valider une méthode fondée sur une approche mobile, pour quantifier ces émissions diffuses à l’aide d’une méthode émergente basée sur l’utilisation d’un drone équipé d’un capteur de méthane , d’un anémomètre, ainsi que de capteurs de pression et de température. Elle permet de constituer une grille verticale de points sous le vent de la source étudiée, à partir de laquelle le flux dans le panache est estimé par un bilan de matière. Le projet a permis de valider cette méthode de quantification, de définir un protocole opératoire et d’identifier les conditions limites garantissant la fiabilité des mesures. La méthode a été testée en conditions semi-contrôlées, par le biais de relargages maîtrisés de méthane. Ensuite, des campagnes de mesure sur des sites de méthanisation ont permis de l’évaluer en conditions réelles. Les résultats soulignent l’importance de certains paramètres critiques (vent) et de l’évaluation de sources amont (méthane atmosphérique, émissions de bâtiments…). Cette méthode offre des perspectives prometteuses pour compléter les approches classiques par chambres dynamiques et ouvre la voie à l’évaluation d’autres gaz, comme le protoxyde d’azote (N₂O) et l’ammoniac (NH₃).",
+    "published": "2026-10-14T22:00:00+00:00",
+    "first_seen": "2026-11-24T23:54:52.656295+00:00",
+    "uid": "f9cf41f43e4ab50205e25a268997c7e75436735ec06cb24a5abd32b0e2866b0d"
+  },
+  "dec8ac07bcd663c6d761f297076e1b17f0a5571ea67b46208ac5fa5fc72a3b7c": {
+    "source": "ADEME_Changement climatique",
+    "title": "Carbone et gaz à effet de serre en zones humides",
+    "link": "https://librairie.ademe.fr/agriculture-alimentation-foret-bioeconomie/9695-carbone-et-gaz-a-effet-de-serre-en-zones-humides.html",
+    "description": "En dépit des surfaces restreintes qu’elles occupent, les zones humides jouent un rôle déterminant dans la régulation du climat au niveau mondial. Les processus à l’œuvre influençant l’effet réchauffant ou refroidissant des zones humides sur le climat sont fortement dépendant de l’état de conservation. De manière générale, les zones humides en bonne santé seraient des puits nets de GES. Les zones humides, milieux hybrides entre terre et eau, présentent une grande diversité en termes d’habitats et de fonctionnement, ce qui impacte nécessairement les processus et nécessite de raisonner de manière nuancée selon la typologie considérée. L’étude vise à approfondir la connaissance sur le rôle des zones humides dans le cycle du carbone et des gaz à effet de serre, en mobilisant à la fois la littérature scientifique et grise. Il s’agit de centraliser et structurer les savoirs existants, tout en identifiant les lacunes de connaissances et les incertitudes actuelles, afin d’orienter la recherche appliquée future. Parallèlement, un accent est mis sur le transfert de ces connaissances (production de documents, organisation d’évènements) vers les acteurs des territoires, afin qu’elles soient directement mobilisables dans leurs actions. Cela passe notamment par la prise en compte des besoins, attentes et perceptions de ces acteurs, au travers d’une enquête. Des pistes pour les prochaines années ont été esquissées pour préfigurer ou améliorer des outils opérationnels permettant une meilleure valorisation de la fonction climatique des zones humides dans les politiques publiques.",
+    "published": "2026-10-14T22:00:00+00:00",
+    "first_seen": "2026-11-24T23:54:52.656295+00:00",
+    "uid": "dec8ac07bcd663c6d761f297076e1b17f0a5571ea67b46208ac5fa5fc72a3b7c"
+  },
+  "a711e582d42846c789ac013a67bf3255fb73d2d487d7122564cacc52f48e3e35": {
+    "source": "Outre-Mer 360°",
+    "title": "Guyane : Ariane 6 réussit son dixième vol en déployant 36 satellites Amazon Leo",
+    "link": "https://outremers360.com/bassin-atlantique-appli/guyane-ariane-6-reussit-son-dixieme-vol-en-deployant-36-satellites-amazon-leo",
+    "description": "Le lanceur lourd européen Ariane 6 a placé mardi en orbite basse 36 satellites supplémentaires depuis le port spatial de Kourou, en Guyane française, au profit du réseau internet Amazon Leo, enregistrant un dixième lancement réussi sur dix, a annoncé Arianespace dans un...",
+    "published": "2026-11-24T17:20:03+00:00",
+    "first_seen": "2026-11-24T23:54:51.521935+00:00",
+    "uid": "a711e582d42846c789ac013a67bf3255fb73d2d487d7122564cacc52f48e3e35"
+  },
+  "9e594d12531a9c6a4a32d91049b2bf7a789d5344b1fa95d973677b4e32abd800": {
+    "source": "Outre-Mer 360°",
+    "title": "Restes humains Kalina et Arawak : le Président de la République recevra la délégation Kalina et Arawak à l'Élysée le 3 décembre avant une cérémonie prévue au Musée de l'Homme",
+    "link": "https://outremers360.com/bassin-atlantique-appli/restes-humains-kalina-et-arawak-le-president-de-la-republique-recevra-la-delegation-kalina-et-arawak-a-lelysee-le-3-decembre-avant-une-ceremonie-prevue-au-musee-de-lhomme",
+    "description": "Le 3 décembre 2026 marquera l'aboutissement d'un long combat mémoriel pour les peuples autochtones de Guyane. Six squelettes seront rapatriés en Guyane pour y être inhumés dans un mausolée en cours de construction à Iracoubo. A cette occasion, le président de la...",
+    "published": "2026-11-24T16:42:08+00:00",
+    "first_seen": "2026-11-24T23:54:51.521935+00:00",
+    "uid": "9e594d12531a9c6a4a32d91049b2bf7a789d5344b1fa95d973677b4e32abd800"
+  },
+  "35d8fb8a55d46ea5c1ce8011037aba4a34c1b06056b4bc05ada7261e356a6bbd": {
+    "source": "Outre-Mer 360°",
+    "title": "« Flotte fantôme » russe : le pétrolier DF Peak pourra quitter La Réunion, son propriétaire condamné",
+    "link": "https://outremers360.com/bassin-indien-appli/flotte-fantome-russe-le-petrolier-df-peak-pourra-quitter-la-reunion-son-proprietaire-condamne",
+    "description": "Le pétrolier « DF Peak », soupçonné d'appartenir à la « flotte fantôme » russe, pourra quitter les eaux territoriales françaises après la condamnation mardi de sa société propriétaire pour défaut de pavillon par le tribunal judiciaire de...",
+    "published": "2026-11-24T15:54:08+00:00",
+    "first_seen": "2026-11-24T23:54:51.521935+00:00",
+    "uid": "35d8fb8a55d46ea5c1ce8011037aba4a34c1b06056b4bc05ada7261e356a6bbd"
+  },
+  "cb578a9ae3db121ee5d8dad60b0c70c567188144b6de6e1a430786b274d46e34": {
+    "source": "Outre-Mer 360°",
+    "title": "La Martinique pourrait perdre 86.000 habitants d'ici 2070, selon l'Insee",
+    "link": "https://outremers360.com/bassin-atlantique-appli/la-martinique-pourrait-perdre-86-000-habitants-dici-2070-selon-linsee",
+    "description": "Si les tendances démographiques récentes se prolongeaient, la Martinique compterait 275.000 habitants en 2070, soit 86.000 de moins qu'en 2023, selon des projections publiées mardi 24 novembre 2026 par l'Institut National de la Statistique et des Etudes Economiques (Insee)....",
+    "published": "2026-11-24T14:27:19+00:00",
+    "first_seen": "2026-11-24T23:54:51.521935+00:00",
+    "uid": "cb578a9ae3db121ee5d8dad60b0c70c567188144b6de6e1a430786b274d46e34"
+  },
   "28c24929c3981c26fc812a893bbf0fae776cc0a918f2df3b2c72314650cde6df": {
     "source": "IGAS",
     "title": "Le temps de travail des médecins",
@@ -91,7 +355,7 @@
     "title": "Les activités physiques et sportives (APS) au défi du changement climatique",
     "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9795-les-activites-physiques-et-sportives-aps-au-defi-du-changement-climatique.html",
     "description": "Les activités physiques et sportives sont essentielles pour la santé physique et mentale. Mais les pratiquer va devenir de plus en plus difficile : canicule, crise énergétique, sécheresse, fonte des glaces ou encore déclin de la biodiversité, sont de nouveaux freins. Comment continuer à marcher ou courir sous 40 °C ? Comment adapter les infrastructures et les lieux de pratiques au changement climatique ? Comment limiter les impacts du sport et des activités physiques sur l’environnement et le climat ? Ce guide méthodologique résulte d’un travail mené par l’ADEME avec des acteurs de terrain. Il permet de repenser les façons de faire, d’identifier des pistes d’action, tout en s’appuyant sur des retours d’expériences concrets. Sous format de fiches thématiques, ce guide explore plusieurs enjeux, de la forme de l’espace urbain à la rénovation des infrastructures, en passant par l’économie circulaire ou la préservation des espaces naturels. Ce guide s’adresse prioritairement aux élus et agents des collectivités. Toutefois, tout acteur public ou privé peut trouver dans ce guide des éléments utiles.",
-    "published": "2026-11-22T23:00:00+00:00",
+    "published": "2026-11-23T23:00:00+00:00",
     "first_seen": "2026-11-24T13:46:49.591702+00:00",
     "uid": "0b2386dd66711f6f352adb35374c3ac454b61b2e088afaa5d4ef40a75f7b62b5"
   },
@@ -109,7 +373,7 @@
     "title": "Les activités physiques et sportives (APS) au défi du changement climatique",
     "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9795-les-activites-physiques-et-sportives-aps-au-defi-du-changement-climatique.html",
     "description": "Les activités physiques et sportives sont essentielles pour la santé physique et mentale. Mais les pratiquer va devenir de plus en plus difficile : canicule, crise énergétique, sécheresse, fonte des glaces ou encore déclin de la biodiversité, sont de nouveaux freins. Comment continuer à marcher ou courir sous 40 °C ? Comment adapter les infrastructures et les lieux de pratiques au changement climatique ? Comment limiter les impacts du sport et des activités physiques sur l’environnement et le climat ? Ce guide méthodologique résulte d’un travail mené par l’ADEME avec des acteurs de terrain. Il permet de repenser les façons de faire, d’identifier des pistes d’action, tout en s’appuyant sur des retours d’expériences concrets. Sous format de fiches thématiques, ce guide explore plusieurs enjeux, de la forme de l’espace urbain à la rénovation des infrastructures, en passant par l’économie circulaire ou la préservation des espaces naturels. Ce guide s’adresse prioritairement aux élus et agents des collectivités. Toutefois, tout acteur public ou privé peut trouver dans ce guide des éléments utiles.",
-    "published": "2026-11-22T23:00:00+00:00",
+    "published": "2026-11-23T23:00:00+00:00",
     "first_seen": "2026-11-24T13:46:49.062583+00:00",
     "uid": "2dc6e6044eba88f17a17b4c28bddccc987a093da92fda42c9eb11dfa78c749a8"
   },
@@ -208,7 +472,7 @@
     "title": "Les activités physiques et sportives (APS) au défi du changement climatique",
     "link": "https://librairie.ademe.fr/urbanisme-territoires-et-sols/9795-les-activites-physiques-et-sportives-aps-au-defi-du-changement-climatique.html",
     "description": "Les activités physiques et sportives sont essentielles pour la santé physique et mentale. Mais les pratiquer va devenir de plus en plus difficile : canicule, crise énergétique, sécheresse, fonte des glaces ou encore déclin de la biodiversité, sont de nouveaux freins. Comment continuer à marcher ou courir sous 40 °C ? Comment adapter les infrastructures et les lieux de pratiques au changement climatique ? Comment limiter les impacts du sport et des activités physiques sur l’environnement et le climat ? Ce guide méthodologique résulte d’un travail mené par l’ADEME avec des acteurs de terrain. Il permet de repenser les façons de faire, d’identifier des pistes d’action, tout en s’appuyant sur des retours d’expériences concrets. Sous format de fiches thématiques, ce guide explore plusieurs enjeux, de la forme de l’espace urbain à la rénovation des infrastructures, en passant par l’économie circulaire ou la préservation des espaces naturels. Ce guide s’adresse prioritairement aux élus et agents des collectivités. Toutefois, tout acteur public ou privé peut trouver dans ce guide des éléments utiles.",
-    "published": "2026-11-22T23:00:00+00:00",
+    "published": "2026-11-23T23:00:00+00:00",
     "first_seen": "2026-11-24T13:46:45.275737+00:00",
     "uid": "4ea3c40b3703485cb6397e3c45e09c5f5e721b356fc277e06667468f8b1099fa"
   },
@@ -8994,276 +9258,5 @@
     "published": "2026-10-16T09:03:00+00:00",
     "first_seen": "2026-10-16T11:27:31.534577+00:00",
     "uid": "7b3def3eff28c473c6f7c018d21c75af38e98df767ad94b8efddb475a8aa2255"
-  },
-  "7b424943e192120261261a6682a160a1f2510d157496043ba6e2a3eb6129d7fd": {
-    "source": "Outre-Mer 360°",
-    "title": "La Saint-Pierraise Philippine Dunan nommée cheffe du cabinet du ministre Philippe Baptiste",
-    "link": "https://outremers360.com/bassin-atlantique-appli/la-saint-pierraise-philippine-dunand-nommee-cheffe-du-cabinet-du-ministre-philippe-baptiste",
-    "description": "Philippine Dunan a été nommée cheffe du cabinet du ministre de l’Enseignement supérieur et de la Recherche. Elle était jusqu’ici cheffe du cabinet du président du Medef, Patrick Martin.Nouveau tournant professionnel pour Philippine Dunan, née à Tahiti et originaire de...",
-    "published": "2026-10-16T08:35:19+00:00",
-    "first_seen": "2026-10-16T11:27:31.534577+00:00",
-    "uid": "7b424943e192120261261a6682a160a1f2510d157496043ba6e2a3eb6129d7fd"
-  },
-  "f351d02397b1ee8a10e69d3e9173beab2790b6e99552dc5d2f8edf5b1ac90e8e": {
-    "source": "Outre-Mer 360°",
-    "title": "Pacifique : Les Fidji vont déployer des drones australiens contre le trafic de drogues",
-    "link": "https://outremers360.com/bassin-pacifique-appli/pacifique-les-fidji-vont-deployer-des-drones-australiens-contre-le-trafic-de-drogues",
-    "description": "Des drones militaires marins à énergie solaire capables de rester en mer pendant des mois vont patrouiller l’an prochain dans les eaux fidjiennes pour lutter contre les trafiquants de drogue et autres activités illégales, dans le cadre d’un accord avec l’Australie...",
-    "published": "2026-10-16T08:15:29+00:00",
-    "first_seen": "2026-10-16T11:27:31.534577+00:00",
-    "uid": "f351d02397b1ee8a10e69d3e9173beab2790b6e99552dc5d2f8edf5b1ac90e8e"
-  },
-  "95891e72986ad2548e800fb011659f8be1529a1c84241f20407fc9b6b2f82945": {
-    "source": "Outre-Mer 360°",
-    "title": "« Deux fois plus d'affaires de corruption en Martinique que la moyenne nationale » selon la directrice de de l’Agence française anticorruption Isabelle Jegouzo, de passage aux Antilles",
-    "link": "https://outremers360.com/bassin-atlantique-appli/deux-fois-plus-daffaires-de-corruption-en-martinique-que-la-moyenne-nationale-la-directrice-de-de-lagence-francaise-anticorruption-isabelle-jegouzo-de-passage-aux-antilles",
-    "description": "La directrice de l’Agence française anticorruption (AFA), Isabelle Jégouzo, est en Martinique depuis le 13 octobre afin de sensibiliser les élus, les agents publics, et renforcer la prévention contre les détournements de fonds, dans un contexte où le trafic de drogue...",
-    "published": "2026-10-16T08:12:54+00:00",
-    "first_seen": "2026-10-16T11:27:31.534577+00:00",
-    "uid": "95891e72986ad2548e800fb011659f8be1529a1c84241f20407fc9b6b2f82945"
-  },
-  "e0e589e429ccc68d600071588ef3b175986d193856c5d971feded7a5ea889fef": {
-    "source": "Outre-Mer 360°",
-    "title": "Aurore Klepper, directrice de la French Tech Nouvelle-Calédonie, veut connecter les start-ups calédoniennes au Pacifique et à l’international",
-    "link": "https://outremers360.com/bassin-pacifique-appli/aurore-klepper-directrice-de-la-french-tech-nouvelle-caledonie-veut-connecter-les-start-ups-caledoniennes-au-pacifique-et-a-linternational",
-    "description": "À la tête de la French Tech Nouvelle-Calédonie, qui rassemble aujourd’hui 52 start-ups membres actives et anime un écosystème d’environ 100 start-up et scale-up à l’échelle du territoire, Aurore Klepper défend une conviction : dans un territoire marqué par...",
-    "published": "2026-10-16T07:54:05+00:00",
-    "first_seen": "2026-10-16T11:27:31.534577+00:00",
-    "uid": "e0e589e429ccc68d600071588ef3b175986d193856c5d971feded7a5ea889fef"
-  },
-  "76cdb558ddff8a4661e31495aa7719d4c17354fb2830e6db089eeee2fe1c3136": {
-    "source": "Outre-Mer 360°",
-    "title": "Guadeloupe : le manque de médecins entrave la prise en charge des cancers",
-    "link": "https://outremers360.com/bassin-atlantique-appli/guadeloupe-le-manque-de-medecins-entrave-la-prise-en-charge-des-cancers",
-    "description": "En Guadeloupe, les hôpitaux bénéficient d'équipements de pointe pour traiter les cancers mais un manque criant de médecins allonge dangereusement les délais de prise en charge, au point que certains malades partent se faire soigner dans l'Hexagone.Dans l'archipel antillais,...",
-    "published": "2026-10-16T07:45:50+00:00",
-    "first_seen": "2026-10-16T11:27:31.534577+00:00",
-    "uid": "76cdb558ddff8a4661e31495aa7719d4c17354fb2830e6db089eeee2fe1c3136"
-  },
-  "75166df879cf4ccc92b3ade07a02b51c313d82392029731bc19637ba69f649bb": {
-    "source": "Outre-Mer 360°",
-    "title": "Des collégiens de Mayotte et de Cannes à l’assaut des sommets réunionnais",
-    "link": "https://outremers360.com/bassin-indien-appli/des-collegiens-de-mayotte-et-de-cannes-a-lassaut-des-sommets-reunionnais",
-    "description": "Du 17 au 30 octobre, vingt-quatre collégiens, dont 14 originaires de Mayotte graviront les plus hauts sommets de La Réunion. Matériel sur le dos et accompagnés de plusieurs encadrants, les jeunes adolescents parcourront la Grande Traversée de l'Île de La Réunion, soit...",
-    "published": "2026-10-16T06:55:37+00:00",
-    "first_seen": "2026-10-16T11:27:31.534577+00:00",
-    "uid": "75166df879cf4ccc92b3ade07a02b51c313d82392029731bc19637ba69f649bb"
-  },
-  "82337642d883acdb4b567a1464be4977ab4b5bd77c413ed030cba696065585e5": {
-    "source": "Outre-Mer 360°",
-    "title": "Budget de l'UE : les eurodéputés des RUP exigent des garanties financières de \"sauvegarde\"",
-    "link": "https://outremers360.com/bassin-atlantique-appli/budget-de-lue-les-elus-doutre-mer-exigent-des-garanties-financieres-de-sauvegarde",
-    "description": "L'ensemble des eurodéputés des régions ultrapériphériques (RUP) a exigé des garanties budgétaires pour ces territoires dans le futur budget de l'Union européenne, dans un courrier adressé aux dirigeants européens, a annoncé jeudi le vice-président du Parlement...",
-    "published": "2026-10-15T15:00:40+00:00",
-    "first_seen": "2026-10-16T11:27:31.534577+00:00",
-    "uid": "82337642d883acdb4b567a1464be4977ab4b5bd77c413ed030cba696065585e5"
-  },
-  "43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446": {
-    "source": "ANAP - Actualités",
-    "title": "Performance sans frontière : les voyages d’études de l’Anap",
-    "link": "https://www.anap.fr/s/article/performance-sans-frontiere-voyages-etudes",
-    "description": "Espagne, Hollande, Belgique, Allemagne… Embarquez pour des séjours immersifs au sein des établissements européens les plus performants ! Échangez, inspirez-vous des systèmes de soins étrangers, découvrez les solutions de demain, explorez les enjeux de la performance sous un nouvel angle.",
-    "published": "2026-10-28T16:54:11+00:00",
-    "first_seen": "2026-10-16T04:35:15.847762+00:00",
-    "uid": "43f66d20f79c426c9f1782a151decb24d25f1539253500cebb40d4872fdf1446",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "ffb2062ac52e6ae290cef21d9eabd69be369a6cca4aaf4b9339ae457f125462a": {
-    "source": "ANAP - Actualités",
-    "title": "Transition écologique : jusqu’à 1,5 million d’euros d’économies par an pour un hôpital",
-    "link": "https://www.anap.fr/s/article/transition-ecologique-jusqu-a-1-5-million-d-euros-d-economies-par-an-pour-un-hopital",
-    "description": "L’Anap lance un accompagnement collectif et met à disposition une infographie et une plateforme de financements pour aider les établissements à réduire leurs dépenses et leurs émissions.",
-    "published": "2026-11-12T13:13:23+00:00",
-    "first_seen": "2026-10-16T04:35:15.847762+00:00",
-    "uid": "ffb2062ac52e6ae290cef21d9eabd69be369a6cca4aaf4b9339ae457f125462a",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "dafc3330d685d30e5480cbb7fe5f49ec75195c23e6b58ae71f56a5994cfdcd1f": {
-    "source": "ANAP - Actualités",
-    "title": "Performance des SMR : Plateaux techniques, ambulatoire, réadaptation à domicile",
-    "link": "https://www.anap.fr/s/article/performance-des-smr-plateaux-techniques-ambulatoire-readaptation-a-domicile",
-    "description": "L’Anap renforce son action avec trois nouveaux guides, un autodiagnostic et un appui terrain.",
-    "published": "2026-10-15T13:42:21+00:00",
-    "first_seen": "2026-10-16T04:35:15.847762+00:00",
-    "uid": "dafc3330d685d30e5480cbb7fe5f49ec75195c23e6b58ae71f56a5994cfdcd1f",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "12b6839766629e6f66f390cdb88fe1cd7d5c747ee4f8b3af33f5167a59e14cc7": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "Prévenir avant de protéger : les priorités des prochains schémas départementaux des services aux familles",
-    "link": "https://www.enfancejeunesseinfos.fr/prevenir-avant-de-proteger-les-priorites-des-prochains-schemas-departementaux-des-services-aux-familles/",
-    "description": "L'instruction du 31 août 2026 place la prévention au premier rang des schémas départementaux des services aux familles renouvelés en 2026 et 2027. Sa cible : repérer et accompagner les familles bien avant qu'une mesure de protection de l'enfance ne s'impose.",
-    "published": "2026-09-11T09:14:21+00:00",
-    "first_seen": "2026-10-16T04:35:06.734651+00:00",
-    "uid": "12b6839766629e6f66f390cdb88fe1cd7d5c747ee4f8b3af33f5167a59e14cc7"
-  },
-  "894d8d622f358332f7d6f6c56cb1cf26aa60952054f6386d51928a114e541f32": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "Résidence alternée : la CAF ne peut réserver le CMG à un seul parent",
-    "link": "https://www.enfancejeunesseinfos.fr/residence-alternee-la-caf-ne-peut-reserver-le-cmg-a-un-seul-parent/",
-    "description": "Quand l’enfant partage réellement son temps entre deux foyers, chacun peut avoir des frais de garde. La Cour de cassation juge que la CAF doit étudier les droits des deux parents, même si le CMG est déjà versé à l’un d’eux.",
-    "published": "2026-09-10T17:22:02+00:00",
-    "first_seen": "2026-10-16T04:35:06.734651+00:00",
-    "uid": "894d8d622f358332f7d6f6c56cb1cf26aa60952054f6386d51928a114e541f32"
-  },
-  "fdf5f506d41401e2a6a66819d42c0786094201fd91ebaf1a00623116042f9dab": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "Détention provisoire d'un mineur accusé de crime : la Cour de cassation précise les effets de l'abrogation",
-    "link": "https://www.enfancejeunesseinfos.fr/detention-provisoire-dun-mineur-accuse-de-crime-la-cour-de-cassation-precise-les-effets-de-labrogation/",
-    "description": "Un mineur d'au moins 16 ans, maintenu en détention avant le 1ᵉʳ juillet 2026 après son renvoi devant une cour d'assises des mineurs, doit-il être libéré après l'abrogation du texte qui fondait cette mesure ? La Cour de cassation répond non.",
-    "published": "2026-09-02T06:29:59+00:00",
-    "first_seen": "2026-10-16T04:35:06.734651+00:00",
-    "uid": "fdf5f506d41401e2a6a66819d42c0786094201fd91ebaf1a00623116042f9dab"
-  },
-  "f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5": {
-    "source": "ANAP - Actualités",
-    "title": "Journée nationale de la transfo - Handicap : des intentions à l'action !",
-    "link": "https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap",
-    "description": "La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.",
-    "published": "2026-11-18T10:36:22+00:00",
-    "first_seen": "2026-10-15T21:25:27.195033+00:00",
-    "uid": "f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5",
-    "description_checked": true,
-    "title_checked": true,
-    "title_enriched": true
-  },
-  "57201da160a9791e518178a80ec171ab718cee6b9e88d2acf48f01cdffd7371a": {
-    "source": "Enfance & Jeunesse Infos - Veille juridique",
-    "title": "Mineur isolé en zone d'attente : sans administrateur ad hoc, la procédure est viciée",
-    "link": "https://www.enfancejeunesseinfos.fr/mineur-isole-en-zone-dattente-sans-administrateur-ad-hoc-la-procedure-est-viciee/",
-    "description": "Un mineur isolé maintenu à la frontière peut-il rester sans administrateur ad hoc au seul motif qu'aucun n'est disponible ? La Cour de cassation se prononce sur cette question très concrète et précise jusqu'où s'impose cette garantie de protection.",
-    "published": "2026-09-09T08:17:41+00:00",
-    "first_seen": "2026-10-15T21:25:19.551868+00:00",
-    "uid": "57201da160a9791e518178a80ec171ab718cee6b9e88d2acf48f01cdffd7371a"
-  },
-  "b64d9b1ccd25afcb64b320a72b779b95a3e03b23ae0d0198614ce4e24f2d53a2": {
-    "source": "Observatoire de la culture",
-    "title": "Radios associatives : faire média, faire territoire, faire commun",
-    "link": "https://www.observatoire-culture.net/radios-associatives-media-territoire-commun/",
-    "description": "Médias de « proximité », les radios associatives ne se résument pas à leur ancrage territorial : elles donnent voix à des paroles peu représentées, invitent chacun à participer à la fabrication de l’information et font se rencontrer culture, éducation et vie associative. Une contribution à la démocratie locale qui contraste avec la fragilité économique du secteur et des libertés associatives sous pression.",
-    "published": "2026-09-10T08:42:23+00:00",
-    "first_seen": "2026-10-15T21:25:19.059414+00:00",
-    "uid": "b64d9b1ccd25afcb64b320a72b779b95a3e03b23ae0d0198614ce4e24f2d53a2"
-  },
-  "db7eba4c04063988205ac5645595da42c812c27e5bffc996e53e3f957b868bda": {
-    "source": "ADN Tourisme",
-    "title": "Les visages d’ADN Tourisme : Solène Forest",
-    "link": "https://www.adn-tourisme.fr/les-visages-dadn-tourisme-solene-forest/",
-    "description": "Nous vous proposons de rencontrer ceux qui font les visages d’ADN Tourisme. Aujourd’hui, rencontre avec Solène Forest, Présidente de l’Office de Tourisme Intercommunal Gap Tallard Vallées et Trésorière adjointe d’ADN Tourisme.",
-    "published": "2026-08-24T08:00:21+00:00",
-    "first_seen": "2026-10-15T17:03:57.556991+00:00",
-    "uid": "db7eba4c04063988205ac5645595da42c812c27e5bffc996e53e3f957b868bda",
-    "description_checked": true
-  },
-  "98cacd6d9706d5af83a85ee8f41bd13bb4d2c6973efd9ddc32bd1ea268c28aaf": {
-    "source": "IGAS",
-    "title": "Organisation de la périnatalité dans les territoires : affirmer une logique de santé publique",
-    "link": "https://igas.gouv.fr/organisation-de-la-perinatalite-dans-les-territoires-affirmer-une-logique-de-sante-publique",
-    "description": "Publié le 04/08/2026 Mis à jour le 09/09/2026 | Temps de lecture : 2 minutes",
-    "published": "2026-09-09T10:22:42+00:00",
-    "first_seen": "2026-10-15T17:03:53.208510+00:00",
-    "uid": "98cacd6d9706d5af83a85ee8f41bd13bb4d2c6973efd9ddc32bd1ea268c28aaf",
-    "description_checked": true
-  },
-  "2cc59ff629c5e37c2b57dd3ec52fad0037f645b1c86eaeb4787575e83cc42512": {
-    "source": "IGAS",
-    "title": "Le déploiement de l’intelligence artificielle dans les administrations publiques : analyse comparée, enjeux et conditions de réussite",
-    "link": "https://igas.gouv.fr/le-deploiement-de-lintelligence-artificielle-dans-les-administrations-publiques-analyse-comparee-enjeux-et-conditions-de-reussite",
-    "description": "Publié le 02/07/2026 Mis à jour le 09/09/2026 | Temps de lecture : 2 minutes",
-    "published": "2026-09-09T05:26:30+00:00",
-    "first_seen": "2026-10-15T17:03:53.208510+00:00",
-    "uid": "2cc59ff629c5e37c2b57dd3ec52fad0037f645b1c86eaeb4787575e83cc42512",
-    "description_checked": true
-  },
-  "0b96f983fc1d80fbb2d7ab09dbbbf45898c49024df691593d68523240be8c29e": {
-    "source": "IGAS",
-    "title": "The roll-out of artificial intelligence in public administrations: comparative analysis, challenges and success factors",
-    "link": "https://igas.gouv.fr/roll-out-artificial-intelligence-public-administrations-comparative-analysis-challenges-and-success-factors",
-    "description": "The joint report by the General Inspectorate of Social Affairs (IGAS), the General Inspectorate of Finance (IGF) and the General Inspectorate of Administration (IGA) analyses the conditions under which artificial intelligence (AI) can bring about lasting improvements to public services, the quality of civil servants’ work and the effectiveness of public policies.",
-    "published": "2026-09-09T05:19:16+00:00",
-    "first_seen": "2026-10-15T17:03:53.208510+00:00",
-    "uid": "0b96f983fc1d80fbb2d7ab09dbbbf45898c49024df691593d68523240be8c29e",
-    "description_checked": true
-  },
-  "9443ba0b1671c8c858e90cbfb885e774ac31d57e7ebd7b8c1b1d9874144b2069": {
-    "source": "IGAS",
-    "title": "Addictions: Improving Care Pathways (in France)",
-    "link": "https://igas.gouv.fr/addictions-improving-care-pathways-france",
-    "description": "For the first time since the 2007–2008 reform, the General Inspectorate of Social Affairs has carried out a review of the French system for the treatment of addictions. Covering all types of addiction and all sections of the population – with a particular focus on young people, women and those in vulnerable circumstances – the review finds that the system has solid foundations but is under considerable strain, despite the commitment of professionals. It sets out recommendations to strengthen its",
-    "published": "2026-09-09T04:58:33+00:00",
-    "first_seen": "2026-10-15T17:03:53.208510+00:00",
-    "uid": "9443ba0b1671c8c858e90cbfb885e774ac31d57e7ebd7b8c1b1d9874144b2069",
-    "description_checked": true
-  },
-  "5a5351507d8bcb31fcaefee9807295029e0184e64298b79b8d30866fe8cf3550": {
-    "source": "CNSA - Actualités",
-    "title": "Résidences autonomie : 30 millions d’euros mobilisés en 2026 pour renforcer l’offre dans les territoires",
-    "link": "https://www.cnsa.fr/actualites/residences-autonomie-30-millions-deuros-mobilises-en-2026-pour-renforcer-loffre-dans-les",
-    "description": "Face au vieillissement de la population et à l’évolution des aspirations des personnes âgées, les résidences autonomie apportent une réponse adaptée en proposant des logements individuels, sécurisés et ouverts sur leur environnement, qui contribuent à prévenir la perte d’autonomie et à lutter contre l’isolement. Pour soutenir la création de nouvelles places, la CNSA et l’Assurance retraite lancent une nouvelle édition de l’Initiative pour le développement des résidences autonomie (IDRA).",
-    "published": "2026-10-15T14:31:08+00:00",
-    "first_seen": "2026-10-15T17:03:52.739983+00:00",
-    "uid": "5a5351507d8bcb31fcaefee9807295029e0184e64298b79b8d30866fe8cf3550"
-  },
-  "df10bce3a14eb6fdc9a6ca2b0f74f316852a6bdd7d398be519082d5e2da1df54": {
-    "source": "CNSA - Actualités",
-    "title": "CNH 2026 : école inclusive, habitat partagé, formulaire simplifié et système d’information, plusieurs chantiers majeurs pour la CNSA",
-    "link": "https://www.cnsa.fr/actualites/cnh-2026-ecole-inclusive-habitat-partage-formulaire-simplifie-et-systeme-dinformation",
-    "description": "Réunie le 4 septembre 2026 à Bobigny, la 7e Conférence nationale du handicap (CNH) a fixé de nouvelles orientations pour améliorer les réponses apportées aux personnes en situation de handicap. Plusieurs chantiers concernent directement la CNSA et les acteurs de la branche Autonomie : école inclusive, transformation de l’offre, habitat partagé, simplification de l’accès aux droits ou encore création d’un système d’information national unifié pour les MDPH.",
-    "published": "2026-09-09T13:24:27+00:00",
-    "first_seen": "2026-10-15T17:03:52.739983+00:00",
-    "uid": "df10bce3a14eb6fdc9a6ca2b0f74f316852a6bdd7d398be519082d5e2da1df54"
-  },
-  "1bc190a396fa2fcf2a216d8c387685b0f2ebdbd4791d9382134deed1f5158314": {
-    "source": "C2L Solutions - Restauration collective",
-    "title": "Restauration collective : nouvelle obligation d’origine UE en 2026",
-    "link": "https://c2lsolutions.fr/restauration-collective-loi-2026-796-origine-denrees/",
-    "description": "Restauration collective publique : ce que change la loi n° 2026-796 sur l’origine des denrées La loi n° 2026-796 du 18 août 2026 d’urgence pour la protection et la souveraineté agricoles marque une évolution importante pour la restauration collective publique. Promulguée le 18 août 2026, publiée au Journal officiel le 19 août et intégrée dans les dispositions en vigueur à compter du 20 août 2026, elle introduit notamment une nouvelle obligation concernant l’origine des produits composant les repas servis dans les restaurants collectifs relevant de personnes publiques. Pour les acheteurs publics, cette réforme aura des conséquences très concrètes sur les prochains marchés de fournitures alimentaires et de restauration collective : rédaction des CCTP, cadres de réponse des candidats, traçabilité des produits, gestion des substitutions, contrôle de l’exécution et justification des dérogations. Et contrairement à ce que pourrait laisser penser une lecture rapide de la loi, il ne s’agit pas d’une obligation d’acheter français. Table des matières Une nouvelle règle d’origine pour les restaurants collectifs publics Le nouvel article L. 230-5-1, II bis du Code rural et de la pêche maritime prévoit désormais que les repas servis dans les restaurants collectifs dont les personnes morales de droit public ont la charge doivent comprendre uniquement des produits originaires de l’Union européenne, de l’Espace économique européen ou des pays et territoires d’outre-mer relevant des articles 198 à 204 du traité sur le fonctionnement de l’Union européenne. Une dérogation est prévue lorsqu’il n’existe pas d’offre suffisante pour un produit particulier et non substituable dans les quantités demandées. Le ministère de l’Agriculture résume cette évolution comme l’obligation, pour les cantine",
-    "published": "2026-09-09T11:00:17+00:00",
-    "first_seen": "2026-10-15T17:03:49.230101+00:00",
-    "uid": "1bc190a396fa2fcf2a216d8c387685b0f2ebdbd4791d9382134deed1f5158314"
-  },
-  "feb4c85b2d67f557e704954f27b474eb13efdbaa14404a4bae35fa1a9a09080f": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "« Nous demandons urgemment un moyen pour recouvrir nos salaires impayés » : des assistantes maternelles interpellent la ministre",
-    "link": "https://www.lesprosdelapetiteenfance.fr/nous-demandons-urgemment-un-moyen-pour-recouvrir-nos-salaires-impayes-des-assistantes-maternelles-interpellent-la-ministre/",
-    "description": "Obtenir gain de cause aux prud’hommes sans parvenir à récupérer les créances : c’est la situation dénoncée par un collectif d’assistantes maternelles dans une lettre envoyée lundi à la ministre de la Santé et des Familles.",
-    "published": "2026-10-15T15:50:10+00:00",
-    "first_seen": "2026-10-15T17:03:47.781703+00:00",
-    "uid": "feb4c85b2d67f557e704954f27b474eb13efdbaa14404a4bae35fa1a9a09080f",
-    "description_checked": true
-  },
-  "4157f48b95b8121bb8fca0abc421ab118fd977d5eeb71a70b129ce250c4cd341": {
-    "source": "Les Pros de la Petite Enfance",
-    "title": "Jeux, lecture, échanges : quel impact sur le cerveau des tout-petits ?",
-    "link": "https://www.lesprosdelapetiteenfance.fr/jeux-lecture-echanges-quel-impact-sur-le-cerveau-des-tout-petits/",
-    "description": "Une récente étude met en évidence l'importance des interactions adultes/ enfants notamment dans la lecture ou le jeu partagés.",
-    "published": "2026-10-15T15:32:14+00:00",
-    "first_seen": "2026-10-15T17:03:47.781703+00:00",
-    "uid": "4157f48b95b8121bb8fca0abc421ab118fd977d5eeb71a70b129ce250c4cd341",
-    "description_checked": true
-  },
-  "71a17a3d178590853b607b33107cad71b9a29d7c7978f83bf974ca643eb7f368": {
-    "source": "Localtis - Jeunesse, éducation et formation",
-    "title": "Le décret instaurant un questionnaire sur les violences sexistes et sexuelles à l'école est paru",
-    "link": "https://www.banquedesterritoires.fr/le-decret-instaurant-un-questionnaire-sur-les-violences-sexistes-et-sexuelles-lecole-est-paru",
-    "description": "On en sait désormais plus à propos du questionnaire sur les violences sexistes et sexuelles (VSS) annoncé fin août par Édouard Geffray, ministre de l'Éducation nationale, et auquel quelque 10 millions d’élèves devront répondre à partir du mois de novembre.Un décret du 14 octobre 2026…",
-    "published": "2026-10-15T11:01:54+00:00",
-    "first_seen": "2026-10-15T17:03:45.032606+00:00",
-    "uid": "71a17a3d178590853b607b33107cad71b9a29d7c7978f83bf974ca643eb7f368"
-  },
-  "71065d32a2b4c6830aebbba75b0e2ef2afdbd2d1d5e442a21c4599158f046e76": {
-    "source": "ADEME_Energie",
-    "title": "Etude de l'appropriation de l'agrivoltaïsme par les territoires",
-    "link": "https://librairie.ademe.fr/energies/9703-etude-de-l-appropriation-de-l-agrivoltaisme-par-les-territoires.html",
-    "description": "Une tribune publiée sur le site de Médiapart en septembre 2023, intitulée : “Photovoltaïque sur des terres naturelles, agricoles ou forestières : nous ne tomberons pas dans le panneau !” a recueilli plus de 350 signatures d’organisations opposées à l’agrivoltaïsme. Les différentes organisations s’opposent au concept même d’agrivoltaïsme et réfutent l’idée d’une synergie entre les activités énergétiques et agricoles. Cette position forte à l’encontre de l’agrivoltaïsme questionne les raisons de l’opposition ainsi que l’argumentaire porté. Ces différentes observations, couplées au développement rapide de la filière, a poussé France Agrivoltaïsme à conduire une étude visant à mettre en évidence les divers facteurs influant sur l’appropriation de l’agrivoltaïsme dans les territoires. Il s'agit d’en conclure une série de recommandations susceptibles de favoriser l’appropriation des projets agrivoltaïques à l’échelle locale. L'étude s’est déroulée en plusieurs étapes : une revue de la littérature scientifique existante relative à l’acceptabilité des ENR, complétée d’entretiens avec deux chercheurs spécialisés en sociologie des ENR afin d'approfondir les connaissances et d’élargir les perspectives de l’étude. Puis, trois départements français ont été sélectionnés pour sa conduite (Calvados, Moselle, Pyrénées-Orientales), avec des profils et contextes agricoles différents. La méthode reposait sur l’identification, dans chacun d’entre-eux, de quatre cas emblématiques dont l’ensemble des acteurs ont été sollicités : collectivités, organisations agricoles, associations locales, développeurs, agriculteurs, etc. Plus de 70 personnes ont ainsi été interrogées. À partir de ces entretiens, les principaux critères d'appropriation de l'agrivoltaïsme par les acteurs territoriaux ont été i",
-    "published": "2026-10-14T22:00:00+00:00",
-    "first_seen": "2026-10-15T17:03:36.318662+00:00",
-    "uid": "71065d32a2b4c6830aebbba75b0e2ef2afdbd2d1d5e442a21c4599158f046e76"
   }
 }

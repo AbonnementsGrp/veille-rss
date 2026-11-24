@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T13:47:07.533100+00:00",
+  "generated_at": "2026-11-24T23:55:33.299374+00:00",
   "sites_total": 17,
-  "sites_ok": 16,
-  "sites_error": 1,
+  "sites_ok": 17,
+  "sites_error": 0,
   "sites_warning": 1,
-  "new_items": 34,
-  "merged_items": 551,
+  "new_items": 28,
+  "merged_items": 553,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -95,7 +95,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 13,
+      "items": 15,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
@@ -123,7 +123,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 24,
+      "items": 23,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
@@ -165,11 +165,10 @@
         "La restauration collective"
       ],
       "render": false,
-      "status": "error",
-      "method": "historique conservé",
-      "items": 5,
+      "status": "ok",
+      "method": "flux officiel",
+      "items": 6,
       "feed": "c2l-restauration-collective.xml",
-      "error": "403 Client Error: Forbidden for url: https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/",
       "source_feed": "https://c2lsolutions.fr/feed/?post_type=post",
       "warnings": []
     },
@@ -182,7 +181,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 11,
+      "items": 10,
       "feed": "snrc.xml",
       "source_feed": "https://www.snrc.fr/feed/?post_type=actualites",
       "warnings": []
@@ -196,7 +195,7 @@
       "render": true,
       "status": "ok",
       "method": "plan de site",
-      "items": 59,
+      "items": 60,
       "feed": "anap.xml",
       "source_feed": "",
       "warnings": []
@@ -254,7 +253,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 14,
+      "items": 15,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []
