@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 19 Nov 2026 08:55:44 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 13:27:24 +0000</lastBuildDate>
+    <item>
+      <title>Des appels à la pelle ! Stratégies des porteurs face aux appels à projets</title>
+      <link>https://www.observatoire-culture.net/appels-pelle-strategies-porteurs-appels-projets/</link>
+      <description>À force d’adapter leur projet aux attentes des financeurs, les organisations risquent-elles de perdre de vue ce qui les anime au départ ? Devenus incontournables dans le financement de l’action publique, les appels à projets imposent aux acteurs culturels et sociaux de jongler avec des injonctions contradictoires : coopérer tout en se faisant concurrence, innover tout en rentrant dans les cases. Joseph Petit décrypte les stratégies déployées pour décrocher des financements et interroge ce que ces dispositifs font aux projets, aux collectifs et à leur autonomie.</description>
+      <guid isPermaLink="false">6f4ac166c368fcb13ac8df7d45641e401caf6a8636e4d3bc4cc9177efd300282</guid>
+      <pubDate>Tue, 24 Nov 2026 13:27:24 +0000</pubDate>
+    </item>
     <item>
       <title>Dissolution de France Tiers-lieux : le déclin d’une politique publique de soutien aux tiers-lieux ?</title>
       <link>https://www.observatoire-culture.net/dissolution-france-tiers-lieux-declin-politique-publique-soutien-tiers-lieux/</link>
@@ -78,13 +85,6 @@
       <description>Médias de « proximité », les radios associatives ne se résument pas à leur ancrage territorial : elles donnent voix à des paroles peu représentées, invitent chacun à participer à la fabrication de l’information et font se rencontrer culture, éducation et vie associative. Une contribution à la démocratie locale qui contraste avec la fragilité économique du secteur et des libertés associatives sous pression.</description>
       <guid isPermaLink="false">b64d9b1ccd25afcb64b320a72b779b95a3e03b23ae0d0198614ce4e24f2d53a2</guid>
       <pubDate>Thu, 10 Sep 2026 08:42:23 +0000</pubDate>
-    </item>
-    <item>
-      <title>Pour une éducation retournée par l’art</title>
-      <link>https://www.observatoire-culture.net/education-retournee-art/</link>
-      <description>Face à des priorités éducatives centrées sur la transmission de connaissances et la réussite professionnelle, l’anthropologue britannique Tim Ingold oppose une éducation fondée sur l’attention. À rebours des postures académiques, il invite à un compagnonnage dans lequel enseignants et élèves chemineraient ensemble dans l’expérience. Un renversement de tendance où l’art prendrait toute sa place : nous apprendre à correspondre avec le monde.</description>
-      <guid isPermaLink="false">70aa99b69fbd6e9a621904d7fcc19c5ed19a3207a83b69cfd3d5bf4e513c673f</guid>
-      <pubDate>Thu, 03 Sep 2026 07:15:10 +0000</pubDate>
     </item>
   </channel>
 </rss>

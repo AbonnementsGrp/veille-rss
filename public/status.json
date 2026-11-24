@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T02:19:59.571887+00:00",
+  "generated_at": "2026-11-24T13:47:07.533100+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
   "sites_warning": 1,
-  "new_items": 16,
-  "merged_items": 558,
+  "new_items": 34,
+  "merged_items": 551,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -25,7 +25,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 59,
+      "items": 60,
       "feed": "outre-mer-360.xml",
       "source_feed": "https://api.outremers360.com/rss/fil-info.xml",
       "warnings": []
@@ -95,7 +95,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 15,
+      "items": 13,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
@@ -167,7 +167,7 @@
       "render": false,
       "status": "error",
       "method": "historique conservé",
-      "items": 6,
+      "items": 5,
       "feed": "c2l-restauration-collective.xml",
       "error": "403 Client Error: Forbidden for url: https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/",
       "source_feed": "https://c2lsolutions.fr/feed/?post_type=post",
@@ -242,7 +242,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 963 jours (seuil : 60)"
+        "rien de neuf depuis 964 jours (seuil : 60)"
       ]
     },
     {
