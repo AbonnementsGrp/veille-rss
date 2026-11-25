@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Sun, 22 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>État des lieux du solaire thermique en Provence-Alpes-Côte d'Azur</title>
+      <link>https://librairie.ademe.fr/changement-climatique/8466-etat-des-lieux-du-solaire-thermique-en-provence-alpes-cote-d-azur.html</link>
+      <description>Le potentiel solaire en région Provence-Alpes-Côte d’Azur est le plus élevé de France continentale. Pourtant, le marché solaire thermique peine encore à décoller, malgré tous les avantages de la technologie. Un groupe de travail impliquant les acteurs régionaux pour la relance de la filière a été initié par l’État, à travers l’ADEME et la DREAL. Dans ce cadre, le présent rapport (2ème édition en 2026) vise à faire l’état des lieux de la filière en région, en prenant en compte les relations avec l’écosystème national. Il est assorti d’une cartographie des acteurs régionaux du solaire thermique. Ce document confirme la présence d’atouts sur le territoire régional propice au développement du solaire thermique : ensoleillement, gisement de chaleur, écosystème économique, dispositifs d’aides publiques. En particulier, une approche de développement de la filière ciblant certains secteurs prioritaires est privilégiée pour les actions futures. Le présent document pourra déboucher sur un plan d’action régional partagé par les acteurs de la filière.</description>
+      <guid isPermaLink="false">054d27c9acda3ce682faca354a776b08f6418494bf081121570e712369ddd1e4</guid>
+      <pubDate>Tue, 24 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>Fiches Rex PPTE Nord (HDF, Normandie, IdF)</title>
       <link>https://librairie.ademe.fr/changement-climatique/9787-fiches-rex-ppte-nord-hdf-normandie-idf.html</link>
@@ -421,13 +428,6 @@
       <description>Les transitions écologiques, économiques et sociales transforment profondément les territoires, les modes de vie et les politiques publiques. Pour mieux comprendre ces dynamiques, l’ADEME a réuni chercheurs en sciences humaines et sociales, collectivités, acteurs socio-économiques et professionnels lors du colloque TEES 2023. Au travers de sessions thématiques et d’ateliers, cet événement a exploré les nouvelles approches de la valeur, les enjeux d’échelle des transitions, l’évolution des modèles économiques, les coopérations logistiques, la reterritorialisation de l’alimentation, le rôle des innovations sociales ou encore les transformations du travail. Les projets présentés - menés dans des territoires variés, apportent des éclairages concrets sur les pratiques locales, les freins rencontrés, les leviers d’action et les effets des transitions sur l’organisation des acteurs. Cette synthèse rassemble les principaux enseignements du colloque : apports scientifiques, retours d’expérience, analyses croisées et perspectives de recherche. Elle contribue à renforcer la compréhension collective des transitions et fournit des repères utiles pour orienter l’action publique et accompagner les acteurs dans la transformation de leurs territoires.</description>
       <guid isPermaLink="false">1fed7031b8fb22a8154175816ebea80ad620988e3391a5ba9fd2110c9e53d325</guid>
       <pubDate>Wed, 10 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Grande centrale solaire thermique de la ville de Narbonne (11)</title>
-      <link>https://librairie.ademe.fr/energies/9395-grande-centrale-solaire-thermique-de-la-ville-de-narbonne-11.html</link>
-      <description>La ville de Narbonne a engagé dès 2018 une réflexion sur l’évolution de son réseau de chaleur, long de 3 km et construit dans les années 1970. Celui-ci était alimenté depuis 2008 par une chaufferie biomasse de 2,5 MW, complétée et secourue par une chaufferie gaz de 6,4 MW. Dans ce contexte, la collectivité a souhaité augmenter la part d’énergies renouvelables du réseau, alors d’environ 60 %. Compte tenu des spécificités géographiques du territoire, les réflexions se sont orientées vers la mise en place d’une installation solaire thermique directement raccordée au réseau de chaleur. En accord avec la Ville de Narbonne et la Société narbonnaise de chauffage (SNDC), délégataire du réseau de chaleur de la ville, Newheat (énergéticien) a élaboré une proposition technique et financière permettant de porter à 76 % la part d’énergies renouvelables sur le réseau en ajoutant 17 % de solaire thermique. Cette fiche présente l'opération, les données techniques et économiques, les résultats actualisés en 2026 et les conditions de reproductibilité d'une telle opération.</description>
-      <guid isPermaLink="false">03062be2686326ea35536648aa4c174e73dbd9d0c1ba357c5d5a0d1e928ace6b</guid>
-      <pubDate>Thu, 04 Jun 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>

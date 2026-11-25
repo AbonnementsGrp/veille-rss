@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 23 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>État des lieux du solaire thermique en Provence-Alpes-Côte d'Azur</title>
+      <link>https://librairie.ademe.fr/changement-climatique/8466-etat-des-lieux-du-solaire-thermique-en-provence-alpes-cote-d-azur.html</link>
+      <description>Le potentiel solaire en région Provence-Alpes-Côte d’Azur est le plus élevé de France continentale. Pourtant, le marché solaire thermique peine encore à décoller, malgré tous les avantages de la technologie. Un groupe de travail impliquant les acteurs régionaux pour la relance de la filière a été initié par l’État, à travers l’ADEME et la DREAL. Dans ce cadre, le présent rapport (2ème édition en 2026) vise à faire l’état des lieux de la filière en région, en prenant en compte les relations avec l’écosystème national. Il est assorti d’une cartographie des acteurs régionaux du solaire thermique. Ce document confirme la présence d’atouts sur le territoire régional propice au développement du solaire thermique : ensoleillement, gisement de chaleur, écosystème économique, dispositifs d’aides publiques. En particulier, une approche de développement de la filière ciblant certains secteurs prioritaires est privilégiée pour les actions futures. Le présent document pourra déboucher sur un plan d’action régional partagé par les acteurs de la filière.</description>
+      <guid isPermaLink="false">83a9ca9aeb308d00a24e1520940f6abc4d2b4f760b87c46fe719e2f9256703b9</guid>
+      <pubDate>Tue, 24 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>La Mission Adaptation</title>
       <link>https://librairie.ademe.fr/changement-climatique/9794-la-mission-adaptation.html</link>
@@ -421,13 +428,6 @@
       <description>Ce document présente la carte métier prospective dédiée à l'évolution du rôle de l’agent de propreté et d’hygiène des locaux entre 2025 et 2050 . Issu de la démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, ce projet vise à anticiper les mutations des pratiques professionnelles face aux défis écologiques . Le document cartographie les missions actuelles, les enjeux majeurs et les impacts environnementaux du métier , avant de projeter sa transformation à l'horizon 2050 selon deux trajectoires de l'ADEME : le scénario 2 "Coopérations Territoriales" d'une part, et le scénario 3 "Technologies vertes" d'autre part. Il détaille les compétences clés futures (savoirs, savoir-faire, savoir-être) indispensables pour accompagner cette transition et présente le parcours de formation associé. Ce guide constitue ainsi un outil d'orientation stratégique pour préparer dès aujourd'hui les agents aux pratiques de demain .</description>
       <guid isPermaLink="false">26937859cac02891eeeecbfd78133f6d328b3f7ed1bbd7bc2284ffd332eccd78</guid>
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Guide pratique Sobriété du SCOT du Grand Douaisis, à destination des collectivités</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9363-guide-pratique-sobriete-du-scot-du-grand-douaisis-a-destination-des-collectivites.html</link>
-      <description>Le guide Pratique Sobriété s'inscrit dans le cadre du partenariat entre l'ADEME et le Syndicat Mixte du SCOT du Grand Douaisis. Le territoire est reconnu comme un démonstrateur national à la transition écologique et plus précisément sur les sobriétés. La sobriété constitue un enjeu majeur de la transition écologique, qui s’est imposée au cœur de l’ensemble des scénarios prospectifs des futurs énergétiques 2050 de RTE aux scénarios Transition(s) 2050 de l’ADEME. Elle est donc identifiée comme pierre angulaire de ces trajectoires climatiques nationales comme locales : c’est le parti pris que le SCOT Grand Douaisis a adopté pour définir sa feuille de route territoriale. L'objectif de ce Guide Pratique Sobriété à destination des collectivités est de proposer un ensemble de fiche action simple et appropriable qui traite de la sobriété. Ces fiches s'articulent autour de quatre axes thématiques : Aménagement &amp; bâtiment, Mobilité, Agriculture &amp; alimentation, Biens de consommation &amp; déchet. Chaque fiche action propose une description détaillée du principe de l'action et des co-bénéfices engendrés, des retours d'expérience de communes du territoire du Grand Douaisis, les étapes de la mise en oeuvre de l'action et des ressources et références.</description>
-      <guid isPermaLink="false">2a2622781c3919da38fde0911bf5556530f7bb0da686d249f46c35c33ec0d942</guid>
-      <pubDate>Tue, 26 May 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
 </rss>
