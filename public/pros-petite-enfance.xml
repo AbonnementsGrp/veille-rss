@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 24 Nov 2026 13:55:08 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 08:32:33 +0000</lastBuildDate>
+    <item>
+      <title>Caries du jeune enfant : la HAS associe les crèches à la prévention</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/caries-du-jeune-enfant-la-has-associe-les-creches-a-la-prevention/</link>
+      <description>Dans un communiqué publié le 23 novembre 2026, la Haute Autorité de santé (HAS) rappelle que la prévention des caries doit commencer dès l’apparition des premières dents.</description>
+      <guid isPermaLink="false">db70678f75e1c75f622c96a4d04753899a71d626429d4d17e63d583c19c261d7</guid>
+      <pubDate>Wed, 25 Nov 2026 08:32:33 +0000</pubDate>
+    </item>
     <item>
       <title>Présidentielle 2027 : les dix propositions de la FNEJE pour que l’enfant soit une priorité nationale</title>
       <link>https://www.lesprosdelapetiteenfance.fr/presidentielle-2027-les-dix-propositions-de-la-fneje-pour-que-lenfant-soit-une-priorite-nationale/</link>
@@ -232,20 +239,6 @@
       <description>Destiné aux professionnels qui accompagnent les enfants, notamment dans la petite enfance, il propose des repères pour identifier les situations préoccupantes, accueillir les paroles et passer le relais aux bon interlocuteurs.</description>
       <guid isPermaLink="false">8a9eb466a299b19741227d2f9d543361199dd6a92988f493a1e7650cf1f69c06</guid>
       <pubDate>Fri, 16 Oct 2026 08:28:43 +0000</pubDate>
-    </item>
-    <item>
-      <title>« Nous demandons urgemment un moyen pour recouvrir nos salaires impayés » : des assistantes maternelles interpellent la ministre</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/nous-demandons-urgemment-un-moyen-pour-recouvrir-nos-salaires-impayes-des-assistantes-maternelles-interpellent-la-ministre/</link>
-      <description>Obtenir gain de cause aux prud’hommes sans parvenir à récupérer les créances : c’est la situation dénoncée par un collectif d’assistantes maternelles dans une lettre envoyée lundi à la ministre de la Santé et des Familles.</description>
-      <guid isPermaLink="false">feb4c85b2d67f557e704954f27b474eb13efdbaa14404a4bae35fa1a9a09080f</guid>
-      <pubDate>Thu, 15 Oct 2026 15:50:10 +0000</pubDate>
-    </item>
-    <item>
-      <title>Jeux, lecture, échanges : quel impact sur le cerveau des tout-petits ?</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/jeux-lecture-echanges-quel-impact-sur-le-cerveau-des-tout-petits/</link>
-      <description>Une récente étude met en évidence l'importance des interactions adultes/ enfants notamment dans la lecture ou le jeu partagés.</description>
-      <guid isPermaLink="false">4157f48b95b8121bb8fca0abc421ab118fd977d5eeb71a70b129ce250c4cd341</guid>
-      <pubDate>Thu, 15 Oct 2026 15:32:14 +0000</pubDate>
     </item>
   </channel>
 </rss>

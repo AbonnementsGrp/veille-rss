@@ -8,7 +8,28 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Mon, 23 Nov 2026 13:29:32 +0000</lastBuildDate>
+    <lastBuildDate>Tue, 24 Nov 2026 17:00:42 +0000</lastBuildDate>
+    <item>
+      <title>Équipes mobiles en psychiatrie : 9 modèles, trouvez le vôtre</title>
+      <link>https://www.anap.fr/s/article/equipes-mobiles-en-psychiatrie-9-modeles-trouvez-le-votre</link>
+      <description>Quel modèle d’équipe mobile choisir ? Comment la dimensionner ? Comment l’articuler avec le CMP ? Pour aider les établissements qui créent ou restructurent une équipe mobile en psychiatrie, l’Anap publie un guide qui présente 9 modèles éprouvés, chacun illustré par un retour d’expérience de terrain.</description>
+      <guid isPermaLink="false">34f5fd0532c9e4ae122364992830d902e004ddc8d46e2d228fadb7406ab39eaf</guid>
+      <pubDate>Tue, 24 Nov 2026 17:00:42 +0000</pubDate>
+    </item>
+    <item>
+      <title>Les Rendez-Vous juridiques de la Transition écologique</title>
+      <link>https://www.anap.fr/s/article/les-rendez-vous-juridiques-de-la-transition-ecologique</link>
+      <description>Actualités règlementaires, bonnes pratiques, conseils d’experts : face aux enjeux de la transition écologique, l’Anap vous propose une série de webinaires dédiés.</description>
+      <guid isPermaLink="false">b5f65da271c5aec1d66d271762c275b186fe4d684f243c1e539aeda92f509245</guid>
+      <pubDate>Tue, 24 Nov 2026 14:32:41 +0000</pubDate>
+    </item>
+    <item>
+      <title>Mon Simulateur Ambulatoire</title>
+      <link>https://www.anap.fr/s/article/mon-simulateur-ambulatoire</link>
+      <description>Découvrez notre outil en ligne pour simuler une journée type en ambulatoire, visualiser les flux patients, tester différents scénarios et ajuster le dimensionnement en ressources. Une aide rapide pour optimiser l’organisation et améliorer la fluidité du parcours.</description>
+      <guid isPermaLink="false">5ab28ead887b45392b20189d61659c9a74484a82f1e90d0bc14e5a0496f8ad83</guid>
+      <pubDate>Tue, 24 Nov 2026 10:22:09 +0000</pubDate>
+    </item>
     <item>
       <title>Comprendre le cadre juridique du Développement Durable en quelques minutes</title>
       <link>https://www.anap.fr/s/article/comprendre-le-cadre-juridique-rse-en-quelques-minutes</link>
@@ -87,13 +108,6 @@
       <pubDate>Thu, 12 Nov 2026 13:13:23 +0000</pubDate>
     </item>
     <item>
-      <title>Mon Simulateur Ambulatoire</title>
-      <link>https://www.anap.fr/s/article/mon-simulateur-ambulatoire</link>
-      <description>Découvrez notre outil en ligne pour simuler une journée type en ambulatoire, visualiser les flux patients, tester différents scénarios et ajuster le dimensionnement en ressources. Une aide rapide pour optimiser l’organisation et améliorer la fluidité du parcours.</description>
-      <guid isPermaLink="false">5ab28ead887b45392b20189d61659c9a74484a82f1e90d0bc14e5a0496f8ad83</guid>
-      <pubDate>Tue, 10 Nov 2026 16:30:18 +0000</pubDate>
-    </item>
-    <item>
       <title>Appui terrain : Développer l’hospitalisation de jour en SMR</title>
       <link>https://www.anap.fr/s/article/appui-terrain-hospitalisation-jour-smr-reforme</link>
       <description>Obligatoire dans le cadre de la réforme, l’Anap vous accompagne pour développer une offre d’hospitalisation partielle en SMR. L’Anap vous propose un appui terrain pour structurer votre projet, intégrer les normes et obligations légales liées à la réforme.</description>
@@ -162,13 +176,6 @@
       <description>Depuis la loi « Bien vieillir » du 8 avril 2024, les résidents d’Ehpad peuvent être accueillis avec leur animal de compagnie, sous certaines conditions. Pour aider les établissements à appliquer cette réglementation au quotidien, l’Anap publie deux fiches pratiques inspirées du terrain : l’une pour accueillir l’animal d’un résident, l’autre pour adopter un animal d’établissement.</description>
       <guid isPermaLink="false">596185298830b05e4bed926ddaafd678ccca8c192dd5b55ca6cea43bb1d5095a</guid>
       <pubDate>Fri, 06 Nov 2026 13:11:06 +0000</pubDate>
-    </item>
-    <item>
-      <title>Équipes mobiles en psychiatrie : 9 modèles, trouvez le vôtre</title>
-      <link>https://www.anap.fr/s/article/equipes-mobiles-en-psychiatrie-9-modeles-trouvez-le-votre</link>
-      <description>Quel modèle d’équipe mobile choisir ? Comment la dimensionner ? Comment l’articuler avec le CMP ? Pour aider les établissements qui créent ou restructurent une équipe mobile en psychiatrie, l’Anap publie un guide qui présente 9 modèles éprouvés, chacun illustré par un retour d’expérience de terrain.</description>
-      <guid isPermaLink="false">34f5fd0532c9e4ae122364992830d902e004ddc8d46e2d228fadb7406ab39eaf</guid>
-      <pubDate>Fri, 06 Nov 2026 12:57:25 +0000</pubDate>
     </item>
     <item>
       <title>Masterclass DATA - Piloter par la DATA : décider vite, agir juste.</title>
@@ -381,13 +388,6 @@
       <pubDate>Fri, 16 Oct 2026 10:14:28 +0000</pubDate>
     </item>
     <item>
-      <title>Votre Cockpit Data Blocs</title>
-      <link>https://www.anap.fr/s/article/votre-cockpit-data-blocs</link>
-      <description>Dédiés aux différents volets de la performance, pour accompagner la transformation des établissements sanitaires et médico-sociales.</description>
-      <guid isPermaLink="false">40ef6d86effb247af8b2c3a54fb9e3933916c928ef159d5906bcabb383fd34dc</guid>
-      <pubDate>Fri, 16 Oct 2026 10:13:36 +0000</pubDate>
-    </item>
-    <item>
       <title>Sur les traces du Développement Durable » : support d’animation d’ateliers</title>
       <link>https://www.anap.fr/s/article/sur-les-traces-du-developpement-durable-support-d-animation-d-ateliers</link>
       <description>Dédiés aux différents volets de la performance, pour accompagner la transformation des établissements sanitaires et médico-sociales.</description>
@@ -421,13 +421,6 @@
       <description>L'autodiagnostic permet aux professionnels des services d'imagerie médicale de réaliser un diagnostic qualitatif de l'organisation et du fonctionnement de leur service d'imagerie médicale.</description>
       <guid isPermaLink="false">7622693ac9455094e188851280754463b40f67e10f5b72b72e7169f9f8c703db</guid>
       <pubDate>Wed, 14 Oct 2026 09:50:12 +0000</pubDate>
-    </item>
-    <item>
-      <title>Blocs chirurgicaux : 3 jours pour gagner du temps opératoire</title>
-      <link>https://www.anap.fr/s/article/blocs-chirurgicaux-3-jours-pour-gagner-du-temps-operatoire</link>
-      <description>Une opportunité unique d’améliorer l’organisation et la performance de vos blocs. Bénéficiez d’un accompagnement par des experts et repartez avec des leviers opérationnels pour optimiser votre activité et fidéliser vos équipes.</description>
-      <guid isPermaLink="false">21dcf84394b7c950cbd009572ed422d1b84c010dc539aa0670e1604b60a7f451</guid>
-      <pubDate>Tue, 13 Oct 2026 12:59:15 +0000</pubDate>
     </item>
   </channel>
 </rss>

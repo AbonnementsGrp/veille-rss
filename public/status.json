@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-24T23:55:33.299374+00:00",
+  "generated_at": "2026-11-25T08:39:13.185251+00:00",
   "sites_total": 17,
   "sites_ok": 17,
   "sites_error": 0,
   "sites_warning": 1,
-  "new_items": 28,
-  "merged_items": 553,
+  "new_items": 17,
+  "merged_items": 545,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -109,7 +109,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 11,
+      "items": 10,
       "feed": "observatoire-culture.xml",
       "source_feed": "https://www.observatoire-culture.net/feed/",
       "warnings": []
@@ -123,7 +123,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 23,
+      "items": 19,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
@@ -137,7 +137,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 41,
+      "items": 40,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
@@ -151,7 +151,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 34,
+      "items": 33,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -195,7 +195,7 @@
       "render": true,
       "status": "ok",
       "method": "plan de site",
-      "items": 60,
+      "items": 59,
       "feed": "anap.xml",
       "source_feed": "",
       "warnings": []
@@ -253,7 +253,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 15,
+      "items": 14,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []
