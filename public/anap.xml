@@ -8,13 +8,34 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 24 Nov 2026 17:00:42 +0000</lastBuildDate>
+    <lastBuildDate>Wed, 25 Nov 2026 16:29:19 +0000</lastBuildDate>
     <item>
       <title>Équipes mobiles en psychiatrie : 9 modèles, trouvez le vôtre</title>
       <link>https://www.anap.fr/s/article/equipes-mobiles-en-psychiatrie-9-modeles-trouvez-le-votre</link>
       <description>Quel modèle d’équipe mobile choisir ? Comment la dimensionner ? Comment l’articuler avec le CMP ? Pour aider les établissements qui créent ou restructurent une équipe mobile en psychiatrie, l’Anap publie un guide qui présente 9 modèles éprouvés, chacun illustré par un retour d’expérience de terrain.</description>
       <guid isPermaLink="false">34f5fd0532c9e4ae122364992830d902e004ddc8d46e2d228fadb7406ab39eaf</guid>
-      <pubDate>Tue, 24 Nov 2026 17:00:42 +0000</pubDate>
+      <pubDate>Wed, 25 Nov 2026 16:29:19 +0000</pubDate>
+    </item>
+    <item>
+      <title>Agir VSS Santé : l'application pour agir contre les violences sexistes et sexuelles au travail</title>
+      <link>https://www.anap.fr/s/article/agir-vss-sante-l-application-pour-agir-contre-les-violences-sexistes-et-sexuelles-au-travail</link>
+      <description>Gratuite et sans données personnelles, l'application mobile Agir VSS Santé donne à chaque professionnel des établissements sanitaires, sociaux et médico-sociaux les repères pour comprendre, réagir et orienter face aux violences sexistes et sexuelles au travail. Disponible sur iOS et Android.</description>
+      <guid isPermaLink="false">1e90dea57f11d0a564d6229c4c520707da275b0d1e11d787119c838d38a3b18d</guid>
+      <pubDate>Wed, 25 Nov 2026 16:23:05 +0000</pubDate>
+    </item>
+    <item>
+      <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
+      <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
+      <description>La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.</description>
+      <guid isPermaLink="false">f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5</guid>
+      <pubDate>Wed, 25 Nov 2026 16:22:22 +0000</pubDate>
+    </item>
+    <item>
+      <title>Comprendre le cadre juridique du Développement Durable en quelques minutes</title>
+      <link>https://www.anap.fr/s/article/comprendre-le-cadre-juridique-rse-en-quelques-minutes</link>
+      <description>Ces fiches rappellent le cadre juridique des principales réglementations Développement durable, actuelles et à venir, autour de 8 enjeux pour le secteur public et le secteur privé : les déchets, la restauration, l'énergie, la qualité de l’air intérieur, la mobilité, l'eau, la stratégie RSE, et les achats durables.</description>
+      <guid isPermaLink="false">095869384337e45ac36a0c5cb2709f1c6e385e3e260d8f0c0bc864e16e59a103</guid>
+      <pubDate>Wed, 25 Nov 2026 10:37:40 +0000</pubDate>
     </item>
     <item>
       <title>Les Rendez-Vous juridiques de la Transition écologique</title>
@@ -31,25 +52,11 @@
       <pubDate>Tue, 24 Nov 2026 10:22:09 +0000</pubDate>
     </item>
     <item>
-      <title>Comprendre le cadre juridique du Développement Durable en quelques minutes</title>
-      <link>https://www.anap.fr/s/article/comprendre-le-cadre-juridique-rse-en-quelques-minutes</link>
-      <description>Ces fiches rappellent le cadre juridique des principales réglementations Développement durable, actuelles et à venir, autour de 8 enjeux pour le secteur public et le secteur privé : les déchets, la restauration, l'énergie, la qualité de l’air intérieur, la mobilité, l'eau, la stratégie RSE, et les achats durables.</description>
-      <guid isPermaLink="false">095869384337e45ac36a0c5cb2709f1c6e385e3e260d8f0c0bc864e16e59a103</guid>
-      <pubDate>Mon, 23 Nov 2026 13:29:32 +0000</pubDate>
-    </item>
-    <item>
       <title>Systèmes d’information des ressources humaines : panorama des solutions du marché</title>
       <link>https://www.anap.fr/s/article/sirh-panorama-solutions</link>
       <description>Ayez une vision d’ensemble des solutions SIRH disponibles sur le marché avec la nouvelle édition de notre panorama. 20 solutions, 50 fonctionnalités, 10 domaines : de quoi repérer rapidement les offres adaptées à vos besoins et préparer votre projet SIRH.</description>
       <guid isPermaLink="false">a3d1a8f434beaffc2ef143d3df7734cefd5839fbdf920b8de5ab01a09e30ddad</guid>
       <pubDate>Mon, 23 Nov 2026 09:11:29 +0000</pubDate>
-    </item>
-    <item>
-      <title>Journée nationale de la transfo - Handicap : des intentions à l'action !</title>
-      <link>https://www.anap.fr/s/article/journee-nationale-de-la-transformation-du-handicap</link>
-      <description>La Journée nationale de la TRANSFO réunira le 4 février 2027 à Montrouge les acteurs du secteur médico-social pour partager des retours d’expériences concrets, des initiatives inspirantes et des outils opérationnels dédiés à la transformation de l’offre médico-sociale.</description>
-      <guid isPermaLink="false">f67d868b4fbc710f77281ea6aa5cbf7985f60c501851f15e17799281120b77a5</guid>
-      <pubDate>Wed, 18 Nov 2026 10:36:22 +0000</pubDate>
     </item>
     <item>
       <title>Observatoire des surfaces et coûts immobiliers en établissements de santé OSCIMES®</title>
@@ -414,13 +421,6 @@
       <description>L’Anap renforce son action avec trois nouveaux guides, un autodiagnostic et un appui terrain.</description>
       <guid isPermaLink="false">dafc3330d685d30e5480cbb7fe5f49ec75195c23e6b58ae71f56a5994cfdcd1f</guid>
       <pubDate>Thu, 15 Oct 2026 13:42:21 +0000</pubDate>
-    </item>
-    <item>
-      <title>Imagerie : autodiagnostic</title>
-      <link>https://www.anap.fr/s/article/imagerie-publication-1543</link>
-      <description>L'autodiagnostic permet aux professionnels des services d'imagerie médicale de réaliser un diagnostic qualitatif de l'organisation et du fonctionnement de leur service d'imagerie médicale.</description>
-      <guid isPermaLink="false">7622693ac9455094e188851280754463b40f67e10f5b72b72e7169f9f8c703db</guid>
-      <pubDate>Wed, 14 Oct 2026 09:50:12 +0000</pubDate>
     </item>
   </channel>
 </rss>
