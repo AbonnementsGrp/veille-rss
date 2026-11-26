@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-26T03:37:38.530734+00:00",
+  "generated_at": "2026-11-26T16:57:04.843385+00:00",
   "sites_total": 17,
-  "sites_ok": 17,
-  "sites_error": 0,
+  "sites_ok": 16,
+  "sites_error": 1,
   "sites_warning": 1,
-  "new_items": 8,
-  "merged_items": 545,
+  "new_items": 28,
+  "merged_items": 548,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -95,7 +95,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 14,
+      "items": 15,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
@@ -109,7 +109,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 10,
+      "items": 11,
       "feed": "observatoire-culture.xml",
       "source_feed": "https://www.observatoire-culture.net/feed/",
       "warnings": []
@@ -151,7 +151,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 32,
+      "items": 33,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -165,10 +165,11 @@
         "La restauration collective"
       ],
       "render": false,
-      "status": "ok",
-      "method": "flux officiel",
+      "status": "error",
+      "method": "historique conservé",
       "items": 6,
       "feed": "c2l-restauration-collective.xml",
+      "error": "403 Client Error: Forbidden for url: https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/",
       "source_feed": "https://c2lsolutions.fr/feed/?post_type=post",
       "warnings": []
     },
@@ -241,7 +242,7 @@
       "feed": "localtis-publics-fragiles.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/publics-fragiles/localtis.xml",
       "warnings": [
-        "rien de neuf depuis 965 jours (seuil : 60)"
+        "rien de neuf depuis 966 jours (seuil : 60)"
       ]
     },
     {
@@ -253,7 +254,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 13,
+      "items": 12,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []
