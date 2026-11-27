@@ -129,17 +129,17 @@
       <pubDate>Mon, 31 Aug 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Guide pour la constitution d'une base de données pour inventaires des sites potentiellement pollués (IHU)</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9525-guide-pour-la-constitution-d-une-base-de-donnees-pour-inventaires-des-sites-potentiellement-pollues-ihu.html</link>
-      <description>Le renouvellement urbain et la reconstruction de la ville sur la ville sont des enjeux majeurs de l’urbanisme pour l’ensemble des acteurs de l’aménagement du territoire et en particulier les collectivités territoriales depuis déjà plusieurs années. Ils s’inscrivent désormais pleinement dans la démarche ZAN (Zéro Artificialisation Nette), mise en place en 2021 par la Loi Climat et Résilience, qui fixe comme objectif d’atteindre, en 2050, l’absence de toute artificialisation nette des sols. Ces enjeux nécessitent la prise en compte des éventuels risques environnementaux et sanitaires liés à l’historique et au contexte environnemental de ces zones urbaines. La démarche d’Inventaire Historique Urbain (IHU) a pour vocation de permettre aux collectivités locales de développer leur connaissance des friches et des sites potentiellement pollués de leur territoire, d’anticiper les enjeux associés dans le cadre de leurs futurs projets d’aménagement, et, potentiellement, d’apporter aux porteurs de projet un premier niveau d’information relatif au risque de présence de pollution sur un site. L’ADEME accompagne les collectivités locales dans ces démarches par un dispositif d’Aides à la Décision, se traduisant d’une part par des aides financières, et d’autre part par la mise à disposition d’outils et de méthodes pour améliorer les pratiques. Dans ce cadre, l’ADEME met à disposition des collectivités, depuis 2021, un cahier des charges type pour l’élaboration d’un IHU. Dans cette continuité, elle a souhaité pouvoir proposer aux collectivités des outils complémentaires pour l’élaboration d’un IHU. Une base de données type et un modèle de saisie de données QGIS ont ainsi été créés. La création de ces outils s’est appuyée sur l’interview de collectivités ou d’agences d’urbanisme en vue de</description>
-      <guid isPermaLink="false">182e1c3b19b223455dd3027cdacab4896cd7e5953ce8069177e407a76f55d396</guid>
-      <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Etude faisabilité pour l'utilisation de scanners enterrés pour suivi biodiversité des sols après phytoremédiation</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9526-etude-faisabilite-pour-l-utilisation-de-scanners-enterres-pour-suivi-biodiversite-des-sols-apres-phytoremediation.html</link>
       <description>Dans le contexte des sites et sols pollués (SSP), l'évaluation des trajectoires de restauration repose encore largement sur des indicateurs physico-chimiques, qui ne permettent pas toujours d'apprécier la récupération du fonctionnement biologique des sols. L'intégration d'indicateurs biologiques robustes constitue ainsi un enjeu majeur pour l'évaluation écologique des sols restaurés. Le projet CASCA a pour objectif de développer une méthode automatisée et non invasive de suivi de l'activité biologique des sols fondée sur l'imagerie optique in situ couplée à des approches d'intelligence artificielle. Le dispositif repose sur l'utilisation de scanners optiques enterrés permettant l'acquisition répétée d'images haute résolution directement dans la matrice du sol. Les images sont ensuite traitées par un pipeline automatisé combinant détection des changements entre images successives, extraction d'imagettes candidates et classification supervisée par apprentissage profond afin d'identifier les organismes présents. Les développements méthodologiques se sont appuyés sur une base de données de plus de cent mille imagettes annotées couvrant plusieurs dizaines de classes d'invertébrés du sol. Cette approche permet de transformer des images brutes acquises à haute fréquence temporelle en occurrences biologiques exploitables pour l'analyse écologique. Elle ouvre ainsi la possibilité de documenter de manière continue les dynamiques d'activité des communautés édaphiques, leurs variations saisonnières et leur réponse aux conditions environnementales locales. L'application du dispositif sur le site de Saint-Laurent-le-Minier ayant fait l'objet d'une réhabilitation écologique en 2019 constitue un premier cas d'étude permettant d'explorer plusieurs dimensions de la trajectoire de restaur</description>
       <guid isPermaLink="false">eb338943cbdedd4be63ed5f7337dd8f33280696b1593af8707957e83e15cb5e7</guid>
+      <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Guide pour la constitution d'une base de données pour inventaires des sites potentiellement pollués (IHU)</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9525-guide-pour-la-constitution-d-une-base-de-donnees-pour-inventaires-des-sites-potentiellement-pollues-ihu.html</link>
+      <description>Le renouvellement urbain et la reconstruction de la ville sur la ville sont des enjeux majeurs de l’urbanisme pour l’ensemble des acteurs de l’aménagement du territoire et en particulier les collectivités territoriales depuis déjà plusieurs années. Ils s’inscrivent désormais pleinement dans la démarche ZAN (Zéro Artificialisation Nette), mise en place en 2021 par la Loi Climat et Résilience, qui fixe comme objectif d’atteindre, en 2050, l’absence de toute artificialisation nette des sols. Ces enjeux nécessitent la prise en compte des éventuels risques environnementaux et sanitaires liés à l’historique et au contexte environnemental de ces zones urbaines. La démarche d’Inventaire Historique Urbain (IHU) a pour vocation de permettre aux collectivités locales de développer leur connaissance des friches et des sites potentiellement pollués de leur territoire, d’anticiper les enjeux associés dans le cadre de leurs futurs projets d’aménagement, et, potentiellement, d’apporter aux porteurs de projet un premier niveau d’information relatif au risque de présence de pollution sur un site. L’ADEME accompagne les collectivités locales dans ces démarches par un dispositif d’Aides à la Décision, se traduisant d’une part par des aides financières, et d’autre part par la mise à disposition d’outils et de méthodes pour améliorer les pratiques. Dans ce cadre, l’ADEME met à disposition des collectivités, depuis 2021, un cahier des charges type pour l’élaboration d’un IHU. Dans cette continuité, elle a souhaité pouvoir proposer aux collectivités des outils complémentaires pour l’élaboration d’un IHU. Une base de données type et un modèle de saisie de données QGIS ont ainsi été créés. La création de ces outils s’est appuyée sur l’interview de collectivités ou d’agences d’urbanisme en vue de</description>
+      <guid isPermaLink="false">182e1c3b19b223455dd3027cdacab4896cd7e5953ce8069177e407a76f55d396</guid>
       <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -367,45 +367,17 @@
       <pubDate>Sun, 22 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SEHSAR - Surveillance Etendue du niveau d'Humidité des Sols argileux pour l'Adaptation et la Résilience du bâti</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9165-sehsar-surveillance-etendue-du-niveau-d-humidite-des-sols-argileux-pour-l-adaptation-et-la-resilience-du-bati.html</link>
-      <description>Le projet SEHSAR a pour objectif de développer un outil de veille et d’anticipation du niveau de la sécheresse des sols argileux en France par la mesure in situ combinée aux algorithmes de l’intelligence artificielle pour une meilleure prise de décision et des applications comme l’humidification automatique et connectée du procédé MACH « MAison Confortée par Humidification ».</description>
-      <guid isPermaLink="false">dadeced2ca2606c301c4b41edb6e6dc9f7f075be232d8ba3261f7d5f65be85d5</guid>
-      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>SAFE RGA - Solutions innovantes d'Adaptation du bâti exposé à la sécheresse Face à l'Expansion du phénomène de RGA</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9164-safe-rga-solutions-innovantes-d-adaptation-du-bati-expose-a-la-secheresse-face-a-l-expansion-du-phenomene-de-rga.html</link>
-      <description>Le projet vise à développer de nouvelles solutions innovantes pour l’adaptation des maisons exposées au RGA face au sécheresses de plus en plus intenses, longues et récurrentes sous l’effet du changement climatique.</description>
-      <guid isPermaLink="false">c5cb24f6c167460ce14f2cb8662ed21cd8da77b1fe2b7fcfef98c4310c5ff682</guid>
-      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>REMED RGA - Développement d'outil d'aide à la décision pour choisir les meilleures solutions de prévention/remédiation du RGA</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9163-remed-rga-developpement-d-outil-d-aide-a-la-decision-pour-choisir-les-meilleures-solutions-de-prevention-remediation-du-rga.html</link>
-      <description>Le projet a pour objectif de réduire les dégradations sur les constructions avec des structures/fondations vieillissantes et une multiplication/intensification des sollicitations liées aux variations hydriques du sol support.</description>
-      <guid isPermaLink="false">50cb2944efaa57fa8b58d41eaa558b5b1fc8b48aeb66edeecdfebd7b71fa9c9a</guid>
-      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RAM2S - Analyses pour étudier l'impact des infrastructures sur l'environnement, avec des terrains d'expérimentation prévus</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9162-ram2s-analyses-pour-etudier-l-impact-des-infrastructures-sur-l-environnement-avec-des-terrains-d-experimentation-prevus.html</link>
-      <description>Devant les défis complexes associant les aspects socio-économiques, environnementaux et techniques, le projet RAM2S (Risques Associés aux Mouvements de Sols et Solutions) vise à approfondir l'analyse de la vulnérabilité des constructions. L’objectif est de cibler les bâtiments à risque tout en élaborant des stratégies appropriées de remédiation et/ou de prévention, permettant ainsi d’anticiper de manière optimale les solutions nécessaires.</description>
-      <guid isPermaLink="false">95c4e9f78a32e7b8b90a1cc8622c5c6e6964d8a8e61db8642cbc872a6657eb50</guid>
-      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>IRGAK - Développement d'une solution reposant sur l'inhibition du RGA par fixation d'ions potassium</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9161-irgak-developpement-d-une-solution-reposant-sur-l-inhibition-du-rga-par-fixation-d-ions-potassium.html</link>
-      <description>L’objectif du projet est le développement d’une solution de traitement de sol à base d’eau et sulfate de potassium dissous, une source de potassium disponible, peu coûteuse, utilisée comme fertilisant en agriculture biologique.</description>
-      <guid isPermaLink="false">3fd2cb1c8b0ea051b468aff568403c675b57c43e047292e42ae956b8f8a7f209</guid>
-      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>INITIATIVE SECHERESSE - Créer un laboratoire afin de mesurer l'efficacité de solutions prévention/remédiation des sinistres RGA</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9160-initiative-secheresse-creer-un-laboratoire-afin-de-mesurer-l-efficacite-de-solutions-prevention-remediation-des-sinistres-rga.html</link>
       <description>Le projet vise à tester et mesurer l’efficacité in situ de l’ensemble des solutions de prévention et remédiation des sinistres RGA à destination des particuliers, à en définir les conditions optimales de mise en œuvre ainsi que la capacité d’industrialisation.</description>
       <guid isPermaLink="false">462fd2934ea5338b6ad1c3387cebc04d609c84f22c20655b39ad922330f5eae8</guid>
+      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>ARG VIP - Développer un outil d'aide à la décision pour améliorer la prévention RGA et inciter le secteur immobilier à s'adapter</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9158-arg-vip-developper-un-outil-d-aide-a-la-decision-pour-ameliorer-la-prevention-rga-et-inciter-le-secteur-immobilier-a-s-adapter.html</link>
+      <description>L’application ARG VIP intègre un catalogue de solutions permettant de réduire les vulnérabilités du bâtiment mis en regard avec la perte de valeur potentielle, à différents horizons temporels.</description>
+      <guid isPermaLink="false">22d85a4106c63fed67419cc1db8b2f30c7bf87001f44e2d4992a3517b0f460e4</guid>
       <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
@@ -416,10 +388,38 @@
       <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>ARG VIP - Développer un outil d'aide à la décision pour améliorer la prévention RGA et inciter le secteur immobilier à s'adapter</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9158-arg-vip-developper-un-outil-d-aide-a-la-decision-pour-ameliorer-la-prevention-rga-et-inciter-le-secteur-immobilier-a-s-adapter.html</link>
-      <description>L’application ARG VIP intègre un catalogue de solutions permettant de réduire les vulnérabilités du bâtiment mis en regard avec la perte de valeur potentielle, à différents horizons temporels.</description>
-      <guid isPermaLink="false">22d85a4106c63fed67419cc1db8b2f30c7bf87001f44e2d4992a3517b0f460e4</guid>
+      <title>IRGAK - Développement d'une solution reposant sur l'inhibition du RGA par fixation d'ions potassium</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9161-irgak-developpement-d-une-solution-reposant-sur-l-inhibition-du-rga-par-fixation-d-ions-potassium.html</link>
+      <description>L’objectif du projet est le développement d’une solution de traitement de sol à base d’eau et sulfate de potassium dissous, une source de potassium disponible, peu coûteuse, utilisée comme fertilisant en agriculture biologique.</description>
+      <guid isPermaLink="false">3fd2cb1c8b0ea051b468aff568403c675b57c43e047292e42ae956b8f8a7f209</guid>
+      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>REMED RGA - Développement d'outil d'aide à la décision pour choisir les meilleures solutions de prévention/remédiation du RGA</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9163-remed-rga-developpement-d-outil-d-aide-a-la-decision-pour-choisir-les-meilleures-solutions-de-prevention-remediation-du-rga.html</link>
+      <description>Le projet a pour objectif de réduire les dégradations sur les constructions avec des structures/fondations vieillissantes et une multiplication/intensification des sollicitations liées aux variations hydriques du sol support.</description>
+      <guid isPermaLink="false">50cb2944efaa57fa8b58d41eaa558b5b1fc8b48aeb66edeecdfebd7b71fa9c9a</guid>
+      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SAFE RGA - Solutions innovantes d'Adaptation du bâti exposé à la sécheresse Face à l'Expansion du phénomène de RGA</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9164-safe-rga-solutions-innovantes-d-adaptation-du-bati-expose-a-la-secheresse-face-a-l-expansion-du-phenomene-de-rga.html</link>
+      <description>Le projet vise à développer de nouvelles solutions innovantes pour l’adaptation des maisons exposées au RGA face au sécheresses de plus en plus intenses, longues et récurrentes sous l’effet du changement climatique.</description>
+      <guid isPermaLink="false">c5cb24f6c167460ce14f2cb8662ed21cd8da77b1fe2b7fcfef98c4310c5ff682</guid>
+      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>SEHSAR - Surveillance Etendue du niveau d'Humidité des Sols argileux pour l'Adaptation et la Résilience du bâti</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9165-sehsar-surveillance-etendue-du-niveau-d-humidite-des-sols-argileux-pour-l-adaptation-et-la-resilience-du-bati.html</link>
+      <description>Le projet SEHSAR a pour objectif de développer un outil de veille et d’anticipation du niveau de la sécheresse des sols argileux en France par la mesure in situ combinée aux algorithmes de l’intelligence artificielle pour une meilleure prise de décision et des applications comme l’humidification automatique et connectée du procédé MACH « MAison Confortée par Humidification ».</description>
+      <guid isPermaLink="false">dadeced2ca2606c301c4b41edb6e6dc9f7f075be232d8ba3261f7d5f65be85d5</guid>
+      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RAM2S - Analyses pour étudier l'impact des infrastructures sur l'environnement, avec des terrains d'expérimentation prévus</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9162-ram2s-analyses-pour-etudier-l-impact-des-infrastructures-sur-l-environnement-avec-des-terrains-d-experimentation-prevus.html</link>
+      <description>Devant les défis complexes associant les aspects socio-économiques, environnementaux et techniques, le projet RAM2S (Risques Associés aux Mouvements de Sols et Solutions) vise à approfondir l'analyse de la vulnérabilité des constructions. L’objectif est de cibler les bâtiments à risque tout en élaborant des stratégies appropriées de remédiation et/ou de prévention, permettant ainsi d’anticiper de manière optimale les solutions nécessaires.</description>
+      <guid isPermaLink="false">95c4e9f78a32e7b8b90a1cc8622c5c6e6964d8a8e61db8642cbc872a6657eb50</guid>
       <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>

@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-26T16:57:04.843385+00:00",
+  "generated_at": "2026-11-27T01:47:01.255643+00:00",
   "sites_total": 17,
   "sites_ok": 16,
   "sites_error": 1,
   "sites_warning": 1,
-  "new_items": 28,
-  "merged_items": 548,
+  "new_items": 20,
+  "merged_items": 545,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -95,7 +95,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 15,
+      "items": 14,
       "feed": "office-fran-ais-de-la-biodiversit.xml",
       "source_feed": "https://ofb.gouv.fr/rss.xml",
       "warnings": []
@@ -137,7 +137,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 43,
+      "items": 42,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
@@ -151,7 +151,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 33,
+      "items": 31,
       "feed": "pros-petite-enfance.xml",
       "source_feed": "https://www.lesprosdelapetiteenfance.fr/actualites/feed/",
       "warnings": []
@@ -196,7 +196,7 @@
       "render": true,
       "status": "ok",
       "method": "plan de site",
-      "items": 59,
+      "items": 60,
       "feed": "anap.xml",
       "source_feed": "",
       "warnings": []
