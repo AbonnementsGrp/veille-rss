@@ -8,7 +8,21 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Thu, 26 Nov 2026 14:33:24 +0000</lastBuildDate>
+    <lastBuildDate>Fri, 27 Nov 2026 09:34:15 +0000</lastBuildDate>
+    <item>
+      <title>Assistantes maternelles : les indemnités d’entretien augmentent au 1er décembre 2026</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/assistantes-maternelles-les-indemnites-dentretien-augmentent-au-1er-decembre-2026/</link>
+      <description>La revalorisation du Smic au 1er décembre 2026 s’accompagne d’une hausse du montant minimum des indemnités d’entretien des assistantes maternelles employées par des particuliers. Celui-ci passera de 3,92 € à 3,96 € pour une journée de neuf heures d’accueil.</description>
+      <guid isPermaLink="false">3380cfcc33bdaa75acebce8639f89252929a9599b12ce1571dc1f9d206d6a5b5</guid>
+      <pubDate>Fri, 27 Nov 2026 09:34:15 +0000</pubDate>
+    </item>
+    <item>
+      <title>Crèches : Label Vie propose un bonus-malus pour financer la qualité d’accueil</title>
+      <link>https://www.lesprosdelapetiteenfance.fr/creches-label-vie-propose-un-bonus-malus-pour-financer-la-qualite-daccueil/</link>
+      <description>Le 25 novembre, à l’occasion d’une rencontre organisée à l’Assemblée nationale avec Greenlobby, l’association Label Vie a présenté cinq propositions pour généraliser ce qu’elle appelle la « haute qualité d’accueil ».</description>
+      <guid isPermaLink="false">b18a8971611485038d4104959b149e5453e04a8d59eb51c1417b31094346a3f3</guid>
+      <pubDate>Fri, 27 Nov 2026 08:54:03 +0000</pubDate>
+    </item>
     <item>
       <title>Petite enfance : la Cour des comptes appelle à revoir les priorités de financement</title>
       <link>https://www.lesprosdelapetiteenfance.fr/petite-enfance-la-cour-des-comptes-appelle-a-revoir-les-priorites-de-financement/</link>
@@ -218,13 +232,6 @@
       <description>Le tribunal des activités économiques vient de rendre sa décision concernant la cession des activités de la Fondation Œuvre de la Croix Saint-Simon. 46 établissements seront repris mais 17 structures...</description>
       <guid isPermaLink="false">11c32350d8c6966e77f50280ccb9972420b54dfa97d0d9d120dfc93e0a77858c</guid>
       <pubDate>Tue, 20 Oct 2026 16:37:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Violences faites aux enfants : au moindre doute, appelez le 119</title>
-      <link>https://www.lesprosdelapetiteenfance.fr/violences-faites-aux-enfants-au-moindre-doute-appelez-le-119/</link>
-      <description>Depuis le 12 octobre et jusqu’au 8 novembre 2026, le ministère de la Santé, des Familles, de l’Autonomie et des Personnes handicapées mène avec le 119 Enfance en danger une...</description>
-      <guid isPermaLink="false">a14b2fe942b7d8b6e0fea9beea61e592fb04e5beb6e0527ad0d5beada4e8c0f6</guid>
-      <pubDate>Tue, 20 Oct 2026 13:17:29 +0000</pubDate>
     </item>
   </channel>
 </rss>

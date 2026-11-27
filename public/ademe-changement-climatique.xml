@@ -8,7 +8,14 @@
     <docs>http://www.rssboard.org/rss-specification</docs>
     <generator>python-feedgen</generator>
     <language>fr</language>
-    <lastBuildDate>Tue, 24 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <lastBuildDate>Thu, 26 Nov 2026 23:00:00 +0000</lastBuildDate>
+    <item>
+      <title>Vers un commun numérique de l'adaptation au changement climatique ?</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9796-vers-un-commun-numerique-de-l-adaptation-au-changement-climatique-.html</link>
+      <description>Afin d’accompagner la massification des diagnostics de risques climatiques tout en participant à la montée en qualité des analyses réalisées, l’ADEME a étudié le besoin et la faisabilité d’une base de données nationale et publique de seuils de vulnérabilité climatique qui permettrait de faciliter et objectiver les évaluations de la vulnérabilité nécessaires aux diagnostics de risques climatiques. L’étude s’est basée sur une série d’entretiens auprès d’experts, un état de l’art de la littérature et une monographie de la base Empreinte contenant les facteurs d’émissions alimentant les bilans de gaz à effet de serre. Le présent rapport propose une synthèse des principaux enseignements.</description>
+      <guid isPermaLink="false">11c1d24a5742de19d9e02867fbe9b75b47412edbd3e7bf38cf32286a2d034f19</guid>
+      <pubDate>Thu, 26 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
     <item>
       <title>État des lieux du solaire thermique en Provence-Alpes-Côte d'Azur</title>
       <link>https://librairie.ademe.fr/changement-climatique/8466-etat-des-lieux-du-solaire-thermique-en-provence-alpes-cote-d-azur.html</link>
@@ -420,13 +427,6 @@
       <link>https://librairie.ademe.fr/changement-climatique/9384-carte-metiers-de-la-commande-publique-et-achat-missions-et-evolutions-2025-2050.html</link>
       <description>Ce document présente la carte métier prospective dédiée à l'évolution du rôle de l'acheteur public / responsable achat entre 2025 et 2050 . Issu de la démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, ce projet vise à anticiper les mutations des pratiques professionnelles face aux défis écologiques . Le document cartographie les missions actuelles, les enjeux majeurs et les impacts environnementaux du métier , avant de projeter sa transformation à l'horizon 2050 selon deux trajectoires de l'ADEME : les "Coopérations Territoriales" d'une part, et les "Technologies vertes" d'autre part. Il détaille les compétences clés futures (savoirs, savoir-faire, savoir-être) indispensables pour accompagner cette transition et présente le parcours de formation associé. Ce guide constitue ainsi un outil d'orientation stratégique pour préparer dès aujourd'hui les agents aux pratiques de demain .</description>
       <guid isPermaLink="false">e515e61fa9af2b3f8a72bdf4728ac81bf62ad32b26b91bfa3177c59d6a95509e</guid>
-      <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>Carte métiers de l'hygiène et propreté des locaux : missions et évolutions (2025-2050)</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9385-carte-metiers-de-l-hygiene-et-proprete-des-locaux-missions-et-evolutions-2025-2050.html</link>
-      <description>Ce document présente la carte métier prospective dédiée à l'évolution du rôle de l’agent de propreté et d’hygiène des locaux entre 2025 et 2050 . Issu de la démarche globale de transformation systémique iTEEnéraire, portée par un consortium incluant l'ADEME, le CNFPT et la Région Centre-Val de Loire, ce projet vise à anticiper les mutations des pratiques professionnelles face aux défis écologiques . Le document cartographie les missions actuelles, les enjeux majeurs et les impacts environnementaux du métier , avant de projeter sa transformation à l'horizon 2050 selon deux trajectoires de l'ADEME : le scénario 2 "Coopérations Territoriales" d'une part, et le scénario 3 "Technologies vertes" d'autre part. Il détaille les compétences clés futures (savoirs, savoir-faire, savoir-être) indispensables pour accompagner cette transition et présente le parcours de formation associé. Ce guide constitue ainsi un outil d'orientation stratégique pour préparer dès aujourd'hui les agents aux pratiques de demain .</description>
-      <guid isPermaLink="false">26937859cac02891eeeecbfd78133f6d328b3f7ed1bbd7bc2284ffd332eccd78</guid>
       <pubDate>Mon, 01 Jun 2026 22:00:00 +0000</pubDate>
     </item>
   </channel>
