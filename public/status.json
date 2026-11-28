@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-11-27T23:29:04.153643+00:00",
+  "generated_at": "2026-11-28T07:53:52.007787+00:00",
   "sites_total": 17,
-  "sites_ok": 17,
-  "sites_error": 0,
+  "sites_ok": 16,
+  "sites_error": 1,
   "sites_warning": 1,
-  "new_items": 8,
-  "merged_items": 547,
+  "new_items": 18,
+  "merged_items": 540,
   "themes": [
     "ANTIGUA",
     "Club RCB",
@@ -123,7 +123,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 19,
+      "items": 18,
       "feed": "enfance-jeunesse-veille-juridique.xml",
       "source_feed": "https://www.enfancejeunesseinfos.fr/tag/veille-juridique/feed/",
       "warnings": []
@@ -137,7 +137,7 @@
       "render": false,
       "status": "ok",
       "method": "flux officiel",
-      "items": 44,
+      "items": 42,
       "feed": "localtis-jeunesse-education-formation.xml",
       "source_feed": "https://www.banquedesterritoires.fr/flux/jeunesse-education-et-formation/localtis.xml",
       "warnings": []
@@ -165,10 +165,11 @@
         "La restauration collective"
       ],
       "render": false,
-      "status": "ok",
-      "method": "flux officiel",
+      "status": "error",
+      "method": "historique conservé",
       "items": 6,
       "feed": "c2l-restauration-collective.xml",
+      "error": "403 Client Error: Forbidden for url: https://www.c2lsolutions.fr/category/la-restauration-collective-actualites/",
       "source_feed": "https://c2lsolutions.fr/feed/?post_type=post",
       "warnings": []
     },
@@ -195,7 +196,7 @@
       "render": true,
       "status": "ok",
       "method": "plan de site",
-      "items": 60,
+      "items": 58,
       "feed": "anap.xml",
       "source_feed": "",
       "warnings": []
@@ -253,7 +254,7 @@
       "render": false,
       "status": "ok",
       "method": "flux détecté",
-      "items": 11,
+      "items": 10,
       "feed": "adn-tourisme.xml",
       "source_feed": "https://www.adn-tourisme.fr/publications/actus/feed/",
       "warnings": []

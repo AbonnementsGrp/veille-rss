@@ -24,17 +24,17 @@
       <pubDate>Mon, 16 Nov 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Sols : Comprendre et Agir</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9764-sols-comprendre-et-agir.html</link>
-      <description>Infographie sur les sols qui répond aux 3 questions suivantes : Que constate t-on ? Pourquoi agir ? Comment agir ?</description>
-      <guid isPermaLink="false">68e3212775a3996ddd261bda3fbc3bf7d2b62c0193376e127b99b364dc92ad5d</guid>
-      <pubDate>Wed, 11 Nov 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Le ZAN, exutoire d'une crise structurelle de l'aménagement ?</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9762-le-zan-exutoire-d-une-crise-structurelle-de-l-amenagement-.html</link>
       <description>Ce projet de recherche vise à analyser l’intégration de l’objectif « Zéro Artificialisation Nette » (ZAN) dans les politiques de planification et d’urbanisme des territoires ruraux « ordinaires » et touristiques. À partir d’une analyse pluridisciplinaire (droit, urbanisme, sociologie politique et économie), ce projet offre l’opportunité d’étudier les conditions concrètes de mise en œuvre de cette nouvelle trajectoire de lutte contre la consommation d’espaces naturels, agricoles et forestiers, les tensions qu’elle suscite et les transformations qu’elle produit dans les pratiques locales de planification. Alors que le ZAN suscite de fortes controverses, cette recherche cherche à dépasser les lectures opposant simplement contrainte nationale et libre administration territoriale, en analysant concrètement la manière dont les acteurs territoriaux s’approprient, négocient et traduisent cette nouvelle exigence écologique dans leurs pratiques.</description>
       <guid isPermaLink="false">18b2c1197228697a0780f92ce9e5ac8c3d68c4e232a5882f50104d166c20d18d</guid>
+      <pubDate>Wed, 11 Nov 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Sols : Comprendre et Agir</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9764-sols-comprendre-et-agir.html</link>
+      <description>Infographie sur les sols qui répond aux 3 questions suivantes : Que constate t-on ? Pourquoi agir ? Comment agir ?</description>
+      <guid isPermaLink="false">68e3212775a3996ddd261bda3fbc3bf7d2b62c0193376e127b99b364dc92ad5d</guid>
       <pubDate>Wed, 11 Nov 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
@@ -129,17 +129,17 @@
       <pubDate>Mon, 31 Aug 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Etude faisabilité pour l'utilisation de scanners enterrés pour suivi biodiversité des sols après phytoremédiation</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9526-etude-faisabilite-pour-l-utilisation-de-scanners-enterres-pour-suivi-biodiversite-des-sols-apres-phytoremediation.html</link>
-      <description>Dans le contexte des sites et sols pollués (SSP), l'évaluation des trajectoires de restauration repose encore largement sur des indicateurs physico-chimiques, qui ne permettent pas toujours d'apprécier la récupération du fonctionnement biologique des sols. L'intégration d'indicateurs biologiques robustes constitue ainsi un enjeu majeur pour l'évaluation écologique des sols restaurés. Le projet CASCA a pour objectif de développer une méthode automatisée et non invasive de suivi de l'activité biologique des sols fondée sur l'imagerie optique in situ couplée à des approches d'intelligence artificielle. Le dispositif repose sur l'utilisation de scanners optiques enterrés permettant l'acquisition répétée d'images haute résolution directement dans la matrice du sol. Les images sont ensuite traitées par un pipeline automatisé combinant détection des changements entre images successives, extraction d'imagettes candidates et classification supervisée par apprentissage profond afin d'identifier les organismes présents. Les développements méthodologiques se sont appuyés sur une base de données de plus de cent mille imagettes annotées couvrant plusieurs dizaines de classes d'invertébrés du sol. Cette approche permet de transformer des images brutes acquises à haute fréquence temporelle en occurrences biologiques exploitables pour l'analyse écologique. Elle ouvre ainsi la possibilité de documenter de manière continue les dynamiques d'activité des communautés édaphiques, leurs variations saisonnières et leur réponse aux conditions environnementales locales. L'application du dispositif sur le site de Saint-Laurent-le-Minier ayant fait l'objet d'une réhabilitation écologique en 2019 constitue un premier cas d'étude permettant d'explorer plusieurs dimensions de la trajectoire de restaur</description>
-      <guid isPermaLink="false">eb338943cbdedd4be63ed5f7337dd8f33280696b1593af8707957e83e15cb5e7</guid>
-      <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Guide pour la constitution d'une base de données pour inventaires des sites potentiellement pollués (IHU)</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9525-guide-pour-la-constitution-d-une-base-de-donnees-pour-inventaires-des-sites-potentiellement-pollues-ihu.html</link>
       <description>Le renouvellement urbain et la reconstruction de la ville sur la ville sont des enjeux majeurs de l’urbanisme pour l’ensemble des acteurs de l’aménagement du territoire et en particulier les collectivités territoriales depuis déjà plusieurs années. Ils s’inscrivent désormais pleinement dans la démarche ZAN (Zéro Artificialisation Nette), mise en place en 2021 par la Loi Climat et Résilience, qui fixe comme objectif d’atteindre, en 2050, l’absence de toute artificialisation nette des sols. Ces enjeux nécessitent la prise en compte des éventuels risques environnementaux et sanitaires liés à l’historique et au contexte environnemental de ces zones urbaines. La démarche d’Inventaire Historique Urbain (IHU) a pour vocation de permettre aux collectivités locales de développer leur connaissance des friches et des sites potentiellement pollués de leur territoire, d’anticiper les enjeux associés dans le cadre de leurs futurs projets d’aménagement, et, potentiellement, d’apporter aux porteurs de projet un premier niveau d’information relatif au risque de présence de pollution sur un site. L’ADEME accompagne les collectivités locales dans ces démarches par un dispositif d’Aides à la Décision, se traduisant d’une part par des aides financières, et d’autre part par la mise à disposition d’outils et de méthodes pour améliorer les pratiques. Dans ce cadre, l’ADEME met à disposition des collectivités, depuis 2021, un cahier des charges type pour l’élaboration d’un IHU. Dans cette continuité, elle a souhaité pouvoir proposer aux collectivités des outils complémentaires pour l’élaboration d’un IHU. Une base de données type et un modèle de saisie de données QGIS ont ainsi été créés. La création de ces outils s’est appuyée sur l’interview de collectivités ou d’agences d’urbanisme en vue de</description>
       <guid isPermaLink="false">182e1c3b19b223455dd3027cdacab4896cd7e5953ce8069177e407a76f55d396</guid>
+      <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Etude faisabilité pour l'utilisation de scanners enterrés pour suivi biodiversité des sols après phytoremédiation</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9526-etude-faisabilite-pour-l-utilisation-de-scanners-enterres-pour-suivi-biodiversite-des-sols-apres-phytoremediation.html</link>
+      <description>Dans le contexte des sites et sols pollués (SSP), l'évaluation des trajectoires de restauration repose encore largement sur des indicateurs physico-chimiques, qui ne permettent pas toujours d'apprécier la récupération du fonctionnement biologique des sols. L'intégration d'indicateurs biologiques robustes constitue ainsi un enjeu majeur pour l'évaluation écologique des sols restaurés. Le projet CASCA a pour objectif de développer une méthode automatisée et non invasive de suivi de l'activité biologique des sols fondée sur l'imagerie optique in situ couplée à des approches d'intelligence artificielle. Le dispositif repose sur l'utilisation de scanners optiques enterrés permettant l'acquisition répétée d'images haute résolution directement dans la matrice du sol. Les images sont ensuite traitées par un pipeline automatisé combinant détection des changements entre images successives, extraction d'imagettes candidates et classification supervisée par apprentissage profond afin d'identifier les organismes présents. Les développements méthodologiques se sont appuyés sur une base de données de plus de cent mille imagettes annotées couvrant plusieurs dizaines de classes d'invertébrés du sol. Cette approche permet de transformer des images brutes acquises à haute fréquence temporelle en occurrences biologiques exploitables pour l'analyse écologique. Elle ouvre ainsi la possibilité de documenter de manière continue les dynamiques d'activité des communautés édaphiques, leurs variations saisonnières et leur réponse aux conditions environnementales locales. L'application du dispositif sur le site de Saint-Laurent-le-Minier ayant fait l'objet d'une réhabilitation écologique en 2019 constitue un premier cas d'étude permettant d'explorer plusieurs dimensions de la trajectoire de restaur</description>
+      <guid isPermaLink="false">eb338943cbdedd4be63ed5f7337dd8f33280696b1593af8707957e83e15cb5e7</guid>
       <pubDate>Tue, 25 Aug 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -150,17 +150,17 @@
       <pubDate>Thu, 06 Aug 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Optimiser la prise de décision en contexte d'incertitude dans le domaine de la réhabilitation des sites et sols pollués</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9504-optimiser-la-prise-de-decision-en-contexte-d-incertitude-dans-le-domaine-de-la-rehabilitation-des-sites-et-sols-pollues.html</link>
-      <description>Le projet Polival est né au sein du groupe de travail Incertitude Sites et Sols Pollués (SSP). À l’initiative de l'ADEME, les partenaires eOde, Phimeca et Cloud Spotting ont été réunis autour d’une question centrale : comment communiquer l’incertitude dans les projets de réhabilitation de sols pollués, en tenant compte des différents acteurs, de leurs enjeux et de leur maturité ? Si des méthodes mathématiques solides existent pour modéliser l’incertitude, elles restent principalement dans le champ scientifique et sont peu utilisées pour guider les décisions opérationnelles. Le projet a donc cherché un nouvel angle d’attaque, en croisant approches technico-scientifiques et design thinking. L’arrivée de la designer stratégique Charlotte Le Gavrian a introduit un cadre centré sur l’expérience des utilisateurs : compréhension des besoins, production d’hypothèses, prototypes et tests en boucle itérative. Une première phase d’étude a consisté en entretiens individuels, questionnaire et atelier de rôle. Elle a mis en lumière six « brèches » dans les pratiques actuelles : manque de référents, temporalités inadaptées, interprétations variables, difficultés dans la conduite de l’action, enjeux de coûts et sentiment de gâchis. Trois axes majeurs ont ensuite été isolés : le lien entre état des sols et usages, la dimension subjective du risque et de la responsabilité, et le rôle clé mais limité des bureaux d’étude. Le principe directeur issu de cette phase est clair : la gestion des sites pollués doit être repensée avant tout comme une gestion du risque, pilotée depuis le point de vue du maître d’ouvrage (MO). Il s’agit de créer un besoin de techniques d’incertitude plutôt que de tenter de les imposer. Les pratiques doivent évoluer vers des processus itératifs et collaboratifs, et n</description>
-      <guid isPermaLink="false">c37f9dc5751b76a68ac02a6fe144efb965c50b78515e02f2df706e81cf720307</guid>
-      <pubDate>Sun, 02 Aug 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Monitoring des gaz et des contaminants organiques de sites pollués en cours de remédiation</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9503-monitoring-des-gaz-et-des-contaminants-organiques-de-sites-pollues-en-cours-de-remediation.html</link>
       <description>Pour améliorer le diagnostic sur site et/ou le suivi et l’optimisation des procédés de dépollution in situ, il est essentiel de posséder des outils utilisables sur site ou in situ et une méthodologie adaptée. Le projet MONIC vise à développer une méthodologie pour faire des diagnostics sur site (analyse des gaz, des produits organiques dans les eaux, les sols et les phases pures) et/ou suivre la remédiation de sites contaminés par des polluants organiques volatils (abattement des contaminants cibles), suivi de la production potentielle de produits secondaires, dissémination des contaminants et sous-produits vers l’environnement (eaux de nappe, atmosphère). Cette méthodologie est basée sur l’utilisation combinée (i) d’outils d’analyse moléculaire (μGC et GCMS de terrain) pour la détermination quantitative (uniquement μGC) et qualitative de composés volatils et semi-volatils ciblés et (ii) d’outils spectroscopiques (Raman et Infrarouge) pour le suivi des gaz (notamment le CO2) et des composés organiques associés aux produits cibles via la détermination de groupements fonctionnels spécifiques (aliphatiques, aromatiques, polaires). Pour cela, le projet MONIC s’est appuyé sur des travaux réalisés à l’échelle du laboratoire (mise au point, calibration des outils et rédaction de modes opératoires) et sur des tests réalisés lors d’opérations de diagnostic et de dépollution sur des sites présentant des contaminations de natures variées (hydrocarbures pétroliers, BTEX, solvants chlorés). Cette diversité de natures de pollution et de contexte a permis d’éprouver et de valider les différents outils de monitoring sélectionnés (excepté l’outil spectroscopique Raman) dans différentes configurations dans un souci de forte opérationnalité et de démontrer la complémentarité des approches</description>
       <guid isPermaLink="false">8c9b33b49d2b56e3e5f3c24db7f1e88a2c751c76983a0e440f0a0781fa6c242a</guid>
+      <pubDate>Sun, 02 Aug 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Optimiser la prise de décision en contexte d'incertitude dans le domaine de la réhabilitation des sites et sols pollués</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9504-optimiser-la-prise-de-decision-en-contexte-d-incertitude-dans-le-domaine-de-la-rehabilitation-des-sites-et-sols-pollues.html</link>
+      <description>Le projet Polival est né au sein du groupe de travail Incertitude Sites et Sols Pollués (SSP). À l’initiative de l'ADEME, les partenaires eOde, Phimeca et Cloud Spotting ont été réunis autour d’une question centrale : comment communiquer l’incertitude dans les projets de réhabilitation de sols pollués, en tenant compte des différents acteurs, de leurs enjeux et de leur maturité ? Si des méthodes mathématiques solides existent pour modéliser l’incertitude, elles restent principalement dans le champ scientifique et sont peu utilisées pour guider les décisions opérationnelles. Le projet a donc cherché un nouvel angle d’attaque, en croisant approches technico-scientifiques et design thinking. L’arrivée de la designer stratégique Charlotte Le Gavrian a introduit un cadre centré sur l’expérience des utilisateurs : compréhension des besoins, production d’hypothèses, prototypes et tests en boucle itérative. Une première phase d’étude a consisté en entretiens individuels, questionnaire et atelier de rôle. Elle a mis en lumière six « brèches » dans les pratiques actuelles : manque de référents, temporalités inadaptées, interprétations variables, difficultés dans la conduite de l’action, enjeux de coûts et sentiment de gâchis. Trois axes majeurs ont ensuite été isolés : le lien entre état des sols et usages, la dimension subjective du risque et de la responsabilité, et le rôle clé mais limité des bureaux d’étude. Le principe directeur issu de cette phase est clair : la gestion des sites pollués doit être repensée avant tout comme une gestion du risque, pilotée depuis le point de vue du maître d’ouvrage (MO). Il s’agit de créer un besoin de techniques d’incertitude plutôt que de tenter de les imposer. Les pratiques doivent évoluer vers des processus itératifs et collaboratifs, et n</description>
+      <guid isPermaLink="false">c37f9dc5751b76a68ac02a6fe144efb965c50b78515e02f2df706e81cf720307</guid>
       <pubDate>Sun, 02 Aug 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -192,10 +192,10 @@
       <pubDate>Wed, 24 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Cartographie participative des refuges climatiques : infographie</title>
-      <link>https://librairie.ademe.fr/changement-climatique/9442-cartographie-participative-des-refuges-climatiques-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est une cartographie numérique participative, pour que les collectivités et les citoyens puissent identifier, qualifier et rendre visibles les espaces refuges climatiques en ville.</description>
-      <guid isPermaLink="false">a892fcb2a9f033af4bfd90603acd3cde3146cccec47dea0984ad80763a1f0e1d</guid>
+      <title>CycloDiag : infographie</title>
+      <link>https://librairie.ademe.fr/mobilite-et-transports/9445-cyclodiag-infographie.html</link>
+      <description>Ce commun lauréat à l'appel à communs est un outil d'auto-diagnostic à destination des collectivités, conçu pour évaluer le niveau d'engagement en matière de cyclologistique.</description>
+      <guid isPermaLink="false">1fb99d143b897dbe251d9b8d48dd0fe6e41f1aea277824bdb5f904ce1fd69088</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -234,17 +234,17 @@
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>Cartographie participative des refuges climatiques : infographie</title>
+      <link>https://librairie.ademe.fr/changement-climatique/9442-cartographie-participative-des-refuges-climatiques-infographie.html</link>
+      <description>Ce commun lauréat à l'appel à communs est une cartographie numérique participative, pour que les collectivités et les citoyens puissent identifier, qualifier et rendre visibles les espaces refuges climatiques en ville.</description>
+      <guid isPermaLink="false">a892fcb2a9f033af4bfd90603acd3cde3146cccec47dea0984ad80763a1f0e1d</guid>
+      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>Observatoire national Quartier Energie Carbone</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9443-observatoire-national-quartier-energie-carbone.html</link>
       <description>Ce commun lauréat à l'appel à communs est une plateforme numérique qui capitalise des évaluations réalisées grâce à la méthode Quartier Energie Carbone.</description>
       <guid isPermaLink="false">b972b6e8c1c28d06914ee3f9ba356ab28d7ff166f6d893e1fcb5223f14941ca6</guid>
-      <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>CycloDiag : infographie</title>
-      <link>https://librairie.ademe.fr/mobilite-et-transports/9445-cyclodiag-infographie.html</link>
-      <description>Ce commun lauréat à l'appel à communs est un outil d'auto-diagnostic à destination des collectivités, conçu pour évaluer le niveau d'engagement en matière de cyclologistique.</description>
-      <guid isPermaLink="false">1fb99d143b897dbe251d9b8d48dd0fe6e41f1aea277824bdb5f904ce1fd69088</guid>
       <pubDate>Sun, 21 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -262,17 +262,17 @@
       <pubDate>Wed, 17 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Producing housing differently: the economic models</title>
-      <link>https://librairie.ademe.fr/batiment/9411-producing-housing-differently-the-economic-models.html</link>
-      <description>How can we define sufficiency in the context of urban planning, construction and real estate? What obstacles do these more sufficient approaches face? How do successful real estate and land sufficiency initiatives manage to overcome these obstacles? This report analyses the economic models of 17 real estate and land sufficiency initiatives. The study also highlights the conditions for replicating these initiatives: training of ‘Swiss Army knife’ project managers, standardisation of bespoke solutions to limit additional costs, and the key role of local authorities, which need to be made more aware of these new economic models. It is also necessary to find ways in which these new methods of housing creation can contribute to the financing of public facilities. Finally, changes in the methods of public financing for real estate (aligning policies to support the production of new housing with those concerning new housing, financing based on a type of project rather than a type of structure, etc.) are also recommended.</description>
-      <guid isPermaLink="false">7cd5cd11857a8c1c2c479fce3dd143aae5f157a2b9c245f9580272f54f32c314</guid>
-      <pubDate>Wed, 10 Jun 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Synthèse multimédia du colloque TEES 2023</title>
       <link>https://librairie.ademe.fr/recherche-et-innovation/9410-synthese-multimedia-du-colloque-tees-2023-9791029726378.html</link>
       <description>Les transitions écologiques, économiques et sociales transforment profondément les territoires, les modes de vie et les politiques publiques. Pour mieux comprendre ces dynamiques, l’ADEME a réuni chercheurs en sciences humaines et sociales, collectivités, acteurs socio-économiques et professionnels lors du colloque TEES 2023. Au travers de sessions thématiques et d’ateliers, cet événement a exploré les nouvelles approches de la valeur, les enjeux d’échelle des transitions, l’évolution des modèles économiques, les coopérations logistiques, la reterritorialisation de l’alimentation, le rôle des innovations sociales ou encore les transformations du travail. Les projets présentés - menés dans des territoires variés, apportent des éclairages concrets sur les pratiques locales, les freins rencontrés, les leviers d’action et les effets des transitions sur l’organisation des acteurs. Cette synthèse rassemble les principaux enseignements du colloque : apports scientifiques, retours d’expérience, analyses croisées et perspectives de recherche. Elle contribue à renforcer la compréhension collective des transitions et fournit des repères utiles pour orienter l’action publique et accompagner les acteurs dans la transformation de leurs territoires.</description>
       <guid isPermaLink="false">6d59fe4ea0ce97f049c798fcaa8f57b3a880574e050f3b526d61bf1bedd0adf5</guid>
+      <pubDate>Wed, 10 Jun 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Producing housing differently: the economic models</title>
+      <link>https://librairie.ademe.fr/batiment/9411-producing-housing-differently-the-economic-models.html</link>
+      <description>How can we define sufficiency in the context of urban planning, construction and real estate? What obstacles do these more sufficient approaches face? How do successful real estate and land sufficiency initiatives manage to overcome these obstacles? This report analyses the economic models of 17 real estate and land sufficiency initiatives. The study also highlights the conditions for replicating these initiatives: training of ‘Swiss Army knife’ project managers, standardisation of bespoke solutions to limit additional costs, and the key role of local authorities, which need to be made more aware of these new economic models. It is also necessary to find ways in which these new methods of housing creation can contribute to the financing of public facilities. Finally, changes in the methods of public financing for real estate (aligning policies to support the production of new housing with those concerning new housing, financing based on a type of project rather than a type of structure, etc.) are also recommended.</description>
+      <guid isPermaLink="false">7cd5cd11857a8c1c2c479fce3dd143aae5f157a2b9c245f9580272f54f32c314</guid>
       <pubDate>Wed, 10 Jun 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -311,13 +311,6 @@
       <pubDate>Mon, 04 May 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>Se déplacer sobrement ? Ce que disent les Français</title>
-      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9307-se-deplacer-sobrement-ce-que-disent-les-francais.html</link>
-      <description>Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet mobilité: pratiques de déplacements quotidiens et tourisme.</description>
-      <guid isPermaLink="false">5852aead018cd22679642734b5383de61875c24d9eab57599e9267f1ad3b909d</guid>
-      <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>Choix alimentaires - Ce que disent les Français</title>
       <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9306-choix-alimentaires-ce-que-disent-les-francais.html</link>
       <description>Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet alimentation.</description>
@@ -329,6 +322,13 @@
       <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9305-un-logement-plus-sobre-ce-que-disent-les-francais.html</link>
       <description>Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet logement: superficie, pratiques de chauffage et de la climatisation.</description>
       <guid isPermaLink="false">2eadc6c888be366274d7b642224287242512af7c99d7725d1032bdbbb69e84f1</guid>
+      <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>Se déplacer sobrement ? Ce que disent les Français</title>
+      <link>https://librairie.ademe.fr/societe-et-politiques-publiques/9307-se-deplacer-sobrement-ce-que-disent-les-francais.html</link>
+      <description>Dans un contexte où des évolutions dans nos modes de vie, nos modes de consommation et de production s'imposent, l'ADEME a lancé un nouveau baromètre, avec l'aide de l'ObSoCo, sur les questions de sobriétés et modes de vie pour mieux appréhender les évolutions des pratiques et opinions des Français sur ce sujet, mais aussi les conditions de mise en œuvre de démarches collectives et individuelles de sobriété et les incidences positives et négatives sur les différents publics. Cette vaste enquête réalisée auprès d'un échantillon de 4 000 personnes représentatif de la population de France métropolitaine âgée de 18 à 75 ans est divisée en deux grandes parties : l'une concerne les pratiques et modes de vie des répondants dans 6 domaines (mobilité, tourisme, alimentation, consommation, numérique, logement), l'autre interroge les opinions associées à la notion de sobriété, l'attachement au modèle et aux valeurs consuméristes, ou encore l'adhésion à des principes et mesures collectives de sobriété. Il s'agit là de la 2ème vague de ce nouveau baromètre. Pour prendre connaissance des enseignements, sont mis à disposition: l'ensemble des résultats sous forme de graphiques et tableaux, des synthèses thématiques et des infographies: l'une transversale sur les valeurs, attitudes et aspirations des Français, les autres thématiques portent sur la consommation et le numérique, la mobilité et le tourisme, le logement, l'alimentation. Cette infographie concerne le volet mobilité: pratiques de déplacements quotidiens et tourisme.</description>
+      <guid isPermaLink="false">5852aead018cd22679642734b5383de61875c24d9eab57599e9267f1ad3b909d</guid>
       <pubDate>Thu, 16 Apr 2026 22:00:00 +0000</pubDate>
     </item>
     <item>
@@ -367,10 +367,10 @@
       <pubDate>Sun, 22 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>INITIATIVE SECHERESSE - Créer un laboratoire afin de mesurer l'efficacité de solutions prévention/remédiation des sinistres RGA</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9160-initiative-secheresse-creer-un-laboratoire-afin-de-mesurer-l-efficacite-de-solutions-prevention-remediation-des-sinistres-rga.html</link>
-      <description>Le projet vise à tester et mesurer l’efficacité in situ de l’ensemble des solutions de prévention et remédiation des sinistres RGA à destination des particuliers, à en définir les conditions optimales de mise en œuvre ainsi que la capacité d’industrialisation.</description>
-      <guid isPermaLink="false">462fd2934ea5338b6ad1c3387cebc04d609c84f22c20655b39ad922330f5eae8</guid>
+      <title>SAFE RGA - Solutions innovantes d'Adaptation du bâti exposé à la sécheresse Face à l'Expansion du phénomène de RGA</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9164-safe-rga-solutions-innovantes-d-adaptation-du-bati-expose-a-la-secheresse-face-a-l-expansion-du-phenomene-de-rga.html</link>
+      <description>Le projet vise à développer de nouvelles solutions innovantes pour l’adaptation des maisons exposées au RGA face au sécheresses de plus en plus intenses, longues et récurrentes sous l’effet du changement climatique.</description>
+      <guid isPermaLink="false">c5cb24f6c167460ce14f2cb8662ed21cd8da77b1fe2b7fcfef98c4310c5ff682</guid>
       <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
@@ -388,10 +388,24 @@
       <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
+      <title>INITIATIVE SECHERESSE - Créer un laboratoire afin de mesurer l'efficacité de solutions prévention/remédiation des sinistres RGA</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9160-initiative-secheresse-creer-un-laboratoire-afin-de-mesurer-l-efficacite-de-solutions-prevention-remediation-des-sinistres-rga.html</link>
+      <description>Le projet vise à tester et mesurer l’efficacité in situ de l’ensemble des solutions de prévention et remédiation des sinistres RGA à destination des particuliers, à en définir les conditions optimales de mise en œuvre ainsi que la capacité d’industrialisation.</description>
+      <guid isPermaLink="false">462fd2934ea5338b6ad1c3387cebc04d609c84f22c20655b39ad922330f5eae8</guid>
+      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
       <title>IRGAK - Développement d'une solution reposant sur l'inhibition du RGA par fixation d'ions potassium</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9161-irgak-developpement-d-une-solution-reposant-sur-l-inhibition-du-rga-par-fixation-d-ions-potassium.html</link>
       <description>L’objectif du projet est le développement d’une solution de traitement de sol à base d’eau et sulfate de potassium dissous, une source de potassium disponible, peu coûteuse, utilisée comme fertilisant en agriculture biologique.</description>
       <guid isPermaLink="false">3fd2cb1c8b0ea051b468aff568403c675b57c43e047292e42ae956b8f8a7f209</guid>
+      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
+    </item>
+    <item>
+      <title>RAM2S - Analyses pour étudier l'impact des infrastructures sur l'environnement, avec des terrains d'expérimentation prévus</title>
+      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9162-ram2s-analyses-pour-etudier-l-impact-des-infrastructures-sur-l-environnement-avec-des-terrains-d-experimentation-prevus.html</link>
+      <description>Devant les défis complexes associant les aspects socio-économiques, environnementaux et techniques, le projet RAM2S (Risques Associés aux Mouvements de Sols et Solutions) vise à approfondir l'analyse de la vulnérabilité des constructions. L’objectif est de cibler les bâtiments à risque tout en élaborant des stratégies appropriées de remédiation et/ou de prévention, permettant ainsi d’anticiper de manière optimale les solutions nécessaires.</description>
+      <guid isPermaLink="false">95c4e9f78a32e7b8b90a1cc8622c5c6e6964d8a8e61db8642cbc872a6657eb50</guid>
       <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
@@ -402,24 +416,10 @@
       <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
-      <title>SAFE RGA - Solutions innovantes d'Adaptation du bâti exposé à la sécheresse Face à l'Expansion du phénomène de RGA</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9164-safe-rga-solutions-innovantes-d-adaptation-du-bati-expose-a-la-secheresse-face-a-l-expansion-du-phenomene-de-rga.html</link>
-      <description>Le projet vise à développer de nouvelles solutions innovantes pour l’adaptation des maisons exposées au RGA face au sécheresses de plus en plus intenses, longues et récurrentes sous l’effet du changement climatique.</description>
-      <guid isPermaLink="false">c5cb24f6c167460ce14f2cb8662ed21cd8da77b1fe2b7fcfef98c4310c5ff682</guid>
-      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
       <title>SEHSAR - Surveillance Etendue du niveau d'Humidité des Sols argileux pour l'Adaptation et la Résilience du bâti</title>
       <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9165-sehsar-surveillance-etendue-du-niveau-d-humidite-des-sols-argileux-pour-l-adaptation-et-la-resilience-du-bati.html</link>
       <description>Le projet SEHSAR a pour objectif de développer un outil de veille et d’anticipation du niveau de la sécheresse des sols argileux en France par la mesure in situ combinée aux algorithmes de l’intelligence artificielle pour une meilleure prise de décision et des applications comme l’humidification automatique et connectée du procédé MACH « MAison Confortée par Humidification ».</description>
       <guid isPermaLink="false">dadeced2ca2606c301c4b41edb6e6dc9f7f075be232d8ba3261f7d5f65be85d5</guid>
-      <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
-    </item>
-    <item>
-      <title>RAM2S - Analyses pour étudier l'impact des infrastructures sur l'environnement, avec des terrains d'expérimentation prévus</title>
-      <link>https://librairie.ademe.fr/urbanisme-territoires-et-sols/9162-ram2s-analyses-pour-etudier-l-impact-des-infrastructures-sur-l-environnement-avec-des-terrains-d-experimentation-prevus.html</link>
-      <description>Devant les défis complexes associant les aspects socio-économiques, environnementaux et techniques, le projet RAM2S (Risques Associés aux Mouvements de Sols et Solutions) vise à approfondir l'analyse de la vulnérabilité des constructions. L’objectif est de cibler les bâtiments à risque tout en élaborant des stratégies appropriées de remédiation et/ou de prévention, permettant ainsi d’anticiper de manière optimale les solutions nécessaires.</description>
-      <guid isPermaLink="false">95c4e9f78a32e7b8b90a1cc8622c5c6e6964d8a8e61db8642cbc872a6657eb50</guid>
       <pubDate>Thu, 19 Mar 2026 23:00:00 +0000</pubDate>
     </item>
     <item>
